@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: generic-qaoa
+Version: 0.1.1
+Summary: 
+Author: Snir Bachar
+Author-email: snir@quantum-machines.co
+Requires-Python: >=3.8,<3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: jupyter (>=1.0.0,<2.0.0)
+Requires-Dist: qiskit (>=0.37.1,<0.38.0)
+Requires-Dist: qiskit-ibm-runtime (>=0.6.2,<0.7.0)
