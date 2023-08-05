@@ -1,0 +1,10 @@
+interfaces/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+interfaces/interfaces.py,sha256=-_TruSIwI1DLw9kpxTcW-l0QC2uv9pnYY_bfY4J_FIM,425
+kineticmodels/__init__.py,sha256=SzpI5ij6UgBCy3S2-k9vQW2JBIYB2XJ0dcQ-vvGaI4c,270
+kineticmodels/inhibition_models.py,sha256=TD2kmL6wHZSh0X1MRz_eweorR5ddpqA6z2y83OU5uD0,2461
+kineticmodels/uptake_models.py,sha256=PNYRYWMsdVkuJhkenoud4Kx-i1BE6eE75DgmIhcgsrU,2214
+kineticmodels-0.0.10.dist-info/LICENSE,sha256=zBlOe7f6R1J7by62hKQ3XQFHyypzY_8d69UtHMvrx3I,1070
+kineticmodels-0.0.10.dist-info/METADATA,sha256=cYhuAcbpgM172B9q78iJbOlsLbSiLXjsjN62KZk-FQY,676
+kineticmodels-0.0.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+kineticmodels-0.0.10.dist-info/top_level.txt,sha256=Hqz-TsJOsRmGJCIXO-6GhSMPOpd7MppYNBtpeeEFIqY,25
+kineticmodels-0.0.10.dist-info/RECORD,,
