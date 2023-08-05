@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+telecomlib/__init__.py
+telecomlib.egg-info/PKG-INFO
+telecomlib.egg-info/SOURCES.txt
+telecomlib.egg-info/dependency_links.txt
+telecomlib.egg-info/entry_points.txt
+telecomlib.egg-info/top_level.txt
+telecomlib.egg-info/zip-safe
+telecomlib/ip_tools/__init__.py
+telecomlib/ip_tools/getip.py
+telecomlib/shell/__init__.py
+telecomlib/shell/usage.py
+telecomlib/star/__init__.py
