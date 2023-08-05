@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: mlmodelswrapper
+Version: 0.0.3
+Summary: Python ML Models
+Home-page: https://github.com/lp-dataninja/learning_packaging
+Author: Ladle Patel
+Author-email: lp.dataninja@gmail.com
+License: BSD-3
+Description: Python ML Models
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
