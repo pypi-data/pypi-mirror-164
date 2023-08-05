@@ -1,0 +1,15 @@
+chrisrichardmiles/__init__.py,sha256=S7u1lbuWmM3A3ajykBialmPoJUK6Jg-WmNqM-9OZFdk,22
+chrisrichardmiles/_modidx.py,sha256=Fz6WPygjhA9dW7pzbQkVcWwOdvMGwCqFfvzpFbgf9WI,15850
+chrisrichardmiles/_nbdev.py,sha256=3cUmdOC-V-zV3bs42wxBfdyhnEXd_HvZMC1PUAn0BnQ,4109
+chrisrichardmiles/core.py,sha256=y_omGNpa3ZnBz20-03ODUOJxtOW2r5OBLog-j7DZsQs,13500
+chrisrichardmiles/m5/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chrisrichardmiles/m5/daily_models.py,sha256=p9HOmBu_z-FnYlsbphaqIv1svVMQ1G13LgcNT5MEgfc,10547
+chrisrichardmiles/m5/fe.py,sha256=ENJgVMBYF3pNodyyRUTZ8vTOCWctkaVKAJAync-Rj7I,43460
+chrisrichardmiles/m5/metric.py,sha256=zD6z4KodKXooKV5yA7sPIlG48vRuxUrTZGR2XAI31GA,18842
+chrisrichardmiles/m5/oos.py,sha256=1XdH3QoRHTIusF-Zo1mQdYaE7UQXpZYi9PA0J9Sdv-I,8594
+chrisrichardmiles-0.0.5.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+chrisrichardmiles-0.0.5.dist-info/METADATA,sha256=463MOkt6ET89cTK1O72wpXxsEmIFd3KhQeSOPEdb01M,1211
+chrisrichardmiles-0.0.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+chrisrichardmiles-0.0.5.dist-info/entry_points.txt,sha256=4MR-O2T6_q5XlX0aWB_7PcsnCfPSI9au57hf83XZSX4,937
+chrisrichardmiles-0.0.5.dist-info/top_level.txt,sha256=EAbkcGo6XEUYql5McPb-YTAll4tNOHpI9LBOoWbmdLI,18
+chrisrichardmiles-0.0.5.dist-info/RECORD,,
