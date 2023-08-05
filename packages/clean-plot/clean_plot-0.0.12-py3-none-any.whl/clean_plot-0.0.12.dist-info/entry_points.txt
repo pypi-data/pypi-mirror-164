@@ -1,0 +1,10 @@
+[console_scripts]
+check_len = clean_plot.functions:clean
+corr_hm = clean_plot.heatmaps_novels:corr_heatmaps
+heatmaps = clean_plot.heatmaps_novels:plot_novels
+heatmaps_pkl = clean_plot.heatmaps_novels:ssms_from_pkl
+histograms = clean_plot.heatmaps_novels:plot_histograms
+lex_ts = clean_plot.heatmaps_novels:lex_ts
+
+[nbdev]
+clean_plot = clean_plot._modidx:d
