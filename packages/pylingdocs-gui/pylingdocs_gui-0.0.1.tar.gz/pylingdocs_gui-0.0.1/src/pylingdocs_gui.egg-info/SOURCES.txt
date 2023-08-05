@@ -1,0 +1,17 @@
+CITATION.cff
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/pylingdocs_gui/__init__.py
+src/pylingdocs_gui/cli.py
+src/pylingdocs_gui/editor.py
+src/pylingdocs_gui.egg-info/PKG-INFO
+src/pylingdocs_gui.egg-info/SOURCES.txt
+src/pylingdocs_gui.egg-info/dependency_links.txt
+src/pylingdocs_gui.egg-info/entry_points.txt
+src/pylingdocs_gui.egg-info/not-zip-safe
+src/pylingdocs_gui.egg-info/requires.txt
+src/pylingdocs_gui.egg-info/top_level.txt

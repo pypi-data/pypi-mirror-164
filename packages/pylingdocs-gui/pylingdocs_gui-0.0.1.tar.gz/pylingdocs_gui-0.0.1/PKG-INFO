@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: pylingdocs_gui
+Version: 0.0.1
+Summary: A graphical editor for pylingdocs.
+Home-page: https://github.com/fmatter/pylingdocs-gui
+Author: Florian Matter
+Author-email: florianmatter@gmail.com
+Project-URL: Bug Tracker, https://github.com/fmatter/pylingdocs-gui/issues
+Keywords: cldf,linguistics
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: publishing
+License-File: LICENSE
+
+# pylingdocs-gui
+
+A rudimentary GUI editor for pylingdocs.
+
+![License](https://img.shields.io/github/license/fmatter/pylingdocs-gui)
+[![PyPI](https://img.shields.io/pypi/v/pylingdocs-gui.svg)](https://pypi.org/project/pylingdocs-gui)
+![Versions](https://img.shields.io/pypi/pyversions/pylingdocs-gui)
+
+Usage: Run `pylingdocs-gui` in your pylingdocs project.
