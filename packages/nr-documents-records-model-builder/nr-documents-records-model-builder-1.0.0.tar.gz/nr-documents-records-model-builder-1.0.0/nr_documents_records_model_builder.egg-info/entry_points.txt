@@ -1,0 +1,2 @@
+[oarepo.models]
+nr-documents-records = nr_documents_records_model_builder.models:nr_documents_records
