@@ -1,0 +1,7 @@
+README.md
+setup.py
+telesave.egg-info/PKG-INFO
+telesave.egg-info/SOURCES.txt
+telesave.egg-info/dependency_links.txt
+telesave.egg-info/not-zip-safe
+telesave.egg-info/top_level.txt
