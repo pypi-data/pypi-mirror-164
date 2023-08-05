@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+linear_equations/__init__.py
+linear_equations.egg-info/PKG-INFO
+linear_equations.egg-info/SOURCES.txt
+linear_equations.egg-info/dependency_links.txt
+linear_equations.egg-info/requires.txt
+linear_equations.egg-info/top_level.txt
