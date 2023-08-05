@@ -1,0 +1,3 @@
+Django
+requests
+telecms-bridge-base==1.0.0
