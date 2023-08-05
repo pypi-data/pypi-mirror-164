@@ -1,0 +1,60 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "nim_python_package"
+authors = [
+    { name = "Sander Teunissen", email = "sander.teunissen@alliander.com" },
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["description"]
+version = '10.1.1'
+requires-python = ">=3.7"
+dependencies = ["requests"]
+
+[project.optional-dependencies]
+test = ["pytest", "pylint==2.12.2", "coverage[toml]"]
+develop = ["pre-commit", "mypy", "flake8", "pylint==2.12.2", "invoke", "build"]
+
+## Tooling config
+
+[tool.pylint.MASTER]
+ignore = ["tests"]
+good-names = ["dt", "fl"]
+extension-pkg-whitelist = ["pydantic"]
+disable = [
+    "format",                     # handled by black
+    "cyclic-import",
+    "wrong-import-order",         # handled by isort
+    "missing-module-docstring",
+    "missing-function-docstring",
+    "missing-class-docstring",
+    "R0801",                      # duplicate lines over multiple files. silenced as it occurs for class definitions too.
+    "no-self-use",                # pydantic trips over this too much
+    "too-few-public-methods",
+    "too-many-arguments",
+    "fixme",                      # we use this too much (the fixme comment)
+    "no-self-argument",           # pydantic class method trips over this.
+]
+
+[tool.coverage.paths]
+source = ['nim_python_package', '*/site-packages']
+
+[tool.coverage.run]
+branch = true
+source = ['nim_python_package']
+
+[tool.coverage.report]
+fail_under = 10
+
+[tool.mypy]
+exclude = "tests/ \n venv/"
+follow_imports = "silent"
+disallow_incomplete_defs = true
+ignore_missing_imports = true
+show_column_numbers = true
+non_interactive = true
+install_types = true
