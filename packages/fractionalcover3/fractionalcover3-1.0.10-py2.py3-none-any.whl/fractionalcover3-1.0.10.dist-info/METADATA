@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: fractionalcover3
+Version: 1.0.10
+Summary: Python package to produce land cover fractions from satellite imagery.
+Home-page: https://www.jrsrp.org.au/
+Author: Remote Sensing Centre, Department of Environment and Science, Queensland
+Author-email: rsc_sysadmin@des.qld.gov.au
+License: mit
+Project-URL: Documentation, https://jrsrp.gitlab.io/themes/cover/fractionalcover/
+Platform: linux
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst; charset=UTF-8
+License-File: LICENSE.txt
+License-File: AUTHORS.rst
+Requires-Dist: numpy
+Requires-Dist: tflite-runtime
+Provides-Extra: rsc
+Requires-Dist: rsc ; extra == 'rsc'
+Requires-Dist: coloredlogs ; extra == 'rsc'
+Provides-Extra: testing
+Requires-Dist: pytest ; extra == 'testing'
+Requires-Dist: pytest-cov ; extra == 'testing'
+
+UNKNOWN
+
