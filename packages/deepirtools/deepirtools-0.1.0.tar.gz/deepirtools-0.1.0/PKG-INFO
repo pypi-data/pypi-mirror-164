@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: deepirtools
+Version: 0.1.0
+Summary: Deep learning-based estimation and inference for item response theory models.
+Project-URL: Homepage, https://github.com/cjurban/deepirtools
+Requires-Python: >=3.7
+License-File: LICENSE
