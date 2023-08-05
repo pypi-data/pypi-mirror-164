@@ -1,0 +1,69 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minibump"
+version = "0.0.0"
+description = "Bump versions in changelogs and pyprojects"
+license = {text = "MIT"}
+authors = [{name = "Loïc Grobol", email = "loic.grobol@gmail.com"}]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.10",
+]
+requires-python = ">=3.10"
+dependencies = [
+    "click >= 8",
+    "keepachangelog",
+    "semver >= 2.10",
+    "temppathlib",
+    "tomlkit",
+]
+[project.optional-dependencies]
+lint = [
+    "black",
+    "flake8-bugbear",
+    "flake8-pyproject",
+    "flake8-pytest-style",
+    "mypy",
+]
+
+tests = [
+    "freezegun >= 1",
+    "pytest",
+    "pytest-console-scripts",
+    "pytest-datadir",
+]
+
+[project.readme]
+file = "README.md"
+content-type = "text/markdown"
+
+[project.urls]
+"Bug Tracker" = "https://github.com/lgrobol/minibump/issues"
+"Changes" = "https://github.com/lgrobol/minibump/blob/master/CHANGELOG.md"
+"Documentation" = "https://github.com/lgrobol/minibump/blob/master/README.md"
+"Source Code" = "https://github.com/lgrobol/minibump"
+
+[project.scripts]
+minibump = "minibump.main:cli"
+
+[tool.setuptools]
+packages = ["minibump"]
+
+[tool.mypy]
+warn_unreachable = true
+
+[tool.black]
+line-length = 100
+
+[tool.flake8]
+max-line-length = 100
+ignore = ["E203", "E266", "E501", "W503"]
+
+[tool.isort]
+profile = "black"
+
+[tool.bandit]
+assert_used.skips = ["tests/test_*.py"]
