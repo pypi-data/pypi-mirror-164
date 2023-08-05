@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: coolmessages
+Version: 0.0.1
+Summary: Enhance your terminal with cool and unnecessary messages 😏
+Home-page: https://github.com/anonymouscoolguy/coolmessages
+Author: anonymouscoolguy
+Author-email: anonymouscoolguy69@gmail.com
+License: MIT
+Description: Hello, there!
+        
+        This is still to be done. ðŸ¤«
+        
+        
+        Hello, there!
+        
+        This is still to be done. ðŸ¤«
+        
+Keywords: cool messages,terminal,terminal messages,ascii,ascii messages
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
