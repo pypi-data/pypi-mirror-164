@@ -1,0 +1,2 @@
+include README.md
+include rekono/services/templates/rekono.service
