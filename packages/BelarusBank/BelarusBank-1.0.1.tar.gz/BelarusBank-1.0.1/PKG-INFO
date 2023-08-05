@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: BelarusBank
+Version: 1.0.1
+Summary: Оболочка для использования BelarusBankAPI на Python
+Author: Barl
+Author-email: adwer197@gmail.com
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+
+__Quick Start__
+
+```commandline
+from BelarusBank import BelBankAPI
+
+
+def main(city: str):
+    bank = BelBankAPI()
+    print(bank.get_infobox(city))
+
+
+if __name__ == '__main__':
+    main('Минск')
+```
