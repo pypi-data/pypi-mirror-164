@@ -1,0 +1,16 @@
+kormos/__init__.py,sha256=XLtwK2mORaehaBoq7R9Pf-z42-OUmXmcPDtUCJdra70,79
+kormos/models.py,sha256=KVmxXoAb40SDq7pGaULoUvuLBokRc3vFS2e0Vv-hGtc,15321
+kormos/optimizers.py,sha256=P45HNShLndNn_FcukQlKuerK51dGRQQ_UiA-D1KnPCE,36936
+kormos/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kormos/utils/cache.py,sha256=7CvXXHTpy4mcOYpzjMq_h-FEfCZ04funJCq-P-kA7pg,3252
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/kormos/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/kormos/test_models.py,sha256=5M_g7vFP3jk-p2DdhGchoqPrTuEPjJn5LXnQe6U1RBA,9517
+tests/kormos/test_optimizers.py,sha256=ZyaQeDYkOYjv3N_HAvW_fB3CsGpcT_Tp7tRRRWdkkwc,8909
+tests/kormos/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/kormos/utils/test_cache.py,sha256=EIGTguoMZjevLe2OryCGwE8nj3StjMyE1VkiDHuinHA,3023
+kormos-0.1.4.dist-info/LICENSE,sha256=Yp0fouMijZD1j7m5HoVDx1yUsVT3OZHQMq55Vf9fwQU,52
+kormos-0.1.4.dist-info/METADATA,sha256=e4aSRataAvbXoEeC579yvo_U10QAzXRwDPIrT9-KQdI,25650
+kormos-0.1.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+kormos-0.1.4.dist-info/top_level.txt,sha256=okx2OZyw_Af6Jrb3JLOiccD9-BfnHkF_CX22jQhZCKg,13
+kormos-0.1.4.dist-info/RECORD,,
