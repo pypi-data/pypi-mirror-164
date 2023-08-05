@@ -1,0 +1,5 @@
+requests
+fire
+azure-storage-blob
+azure-storage-file-datalake
+azure-core
