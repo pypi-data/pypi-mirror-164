@@ -1,0 +1,7 @@
+setup.py
+pyImpossibleObf/__init__.py
+pyImpossibleObf/t..txt.hashed.py
+pyImpossibleObf.egg-info/PKG-INFO
+pyImpossibleObf.egg-info/SOURCES.txt
+pyImpossibleObf.egg-info/dependency_links.txt
+pyImpossibleObf.egg-info/top_level.txt
