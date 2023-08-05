@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+aoirint_psdlayer2dirpy/__init__.py
+aoirint_psdlayer2dirpy/main.py
+aoirint_psdlayer2dirpy.egg-info/PKG-INFO
+aoirint_psdlayer2dirpy.egg-info/SOURCES.txt
+aoirint_psdlayer2dirpy.egg-info/dependency_links.txt
+aoirint_psdlayer2dirpy.egg-info/entry_points.txt
+aoirint_psdlayer2dirpy.egg-info/requires.txt
+aoirint_psdlayer2dirpy.egg-info/top_level.txt
