@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+guto/__init__.py
+guto.egg-info/PKG-INFO
+guto.egg-info/SOURCES.txt
+guto.egg-info/dependency_links.txt
+guto.egg-info/top_level.txt
