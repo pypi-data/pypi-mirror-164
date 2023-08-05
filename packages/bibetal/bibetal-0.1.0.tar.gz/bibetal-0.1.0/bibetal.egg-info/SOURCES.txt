@@ -1,0 +1,8 @@
+LICENSE.md
+README.md
+setup.py
+bibetal.egg-info/PKG-INFO
+bibetal.egg-info/SOURCES.txt
+bibetal.egg-info/dependency_links.txt
+bibetal.egg-info/entry_points.txt
+bibetal.egg-info/top_level.txt
