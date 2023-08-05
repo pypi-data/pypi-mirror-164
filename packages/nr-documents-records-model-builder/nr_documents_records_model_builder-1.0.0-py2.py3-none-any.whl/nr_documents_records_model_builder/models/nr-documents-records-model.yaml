@@ -1,0 +1,30 @@
+version: 1.0.0
+title: Czech National Repository - document metadata model
+oarepo:use:
+  - nr-common-metadata
+  - invenio
+model:
+  oarepo:marshmallow:
+    generate: false
+    class: nr_documents_records.services.schema.NRDocumentSchema
+  properties:
+    metadata:
+      properties:
+        extent:
+          # Extent of the work. If it is not paged, then it takes over number
+          # of pages of the entire pdf.
+          type: keyword
+
+        dateIssued:
+          # The date the resource is originaly published by publisher, in
+          # case of grey literature made publicly available by the institution.
+          #
+          # týká se dokumentu, nikoliv metadat!!! Stejně jako pro data, budou se přes něj řídit přístupy - embargo
+          oarepo:use: '#/$defs/NRDate'
+          required: true
+          oarepo:sample:
+            faker: date
+
+        collections[]:
+          # mapování institucí z nušl, dočasné
+          type: keyword
