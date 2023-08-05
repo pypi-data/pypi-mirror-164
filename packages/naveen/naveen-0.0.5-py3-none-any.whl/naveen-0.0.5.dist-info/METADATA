@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: naveen
+Version: 0.0.5
+Requires-Dist: beautifulsoup4
+Requires-Dist: numpy
+Requires-Dist: pandas
+
