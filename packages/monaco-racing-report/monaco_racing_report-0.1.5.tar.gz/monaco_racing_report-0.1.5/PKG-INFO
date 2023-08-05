@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: monaco-racing-report
+Version: 0.1.5
+Summary: Report of Monaco 2018 Racing
+License: MIT
+Author: Skazko Anton
+Author-email: sk.anton06@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# Report of Monaco 2018 Racing
+
+**monaco_racing_report** is a program where you can get a statistic of Monaco 2018 Racing
+
+### Install
+
+```python
+pip install monaco-racing-report
+```
+
+### How to Use
+
+```python
+from monaco-racing-report import main
+main()
+# you will get 15 drivers and theirs statistic
+```
+
+### Launch
+
+You can use this program from the terminal(using cli)
+
+```python
+python monaco_racing_report/report.py --files [FOLDER PATH] --driver [NAME SURNAME DRIVER]
+# you will get driver statistic
+```
+
+For example:
+```python
+python monaco_racing_report/report.py --files data_files --driver 'Sebastian Vettel'
+```
+Result: Sebastian Vettel | car - FERRARI | start time - 12:02:58.917 | finish time - 12:04:03.332 | result -
+ 0:01:04.415000
+
+------------------------------
+
+Shows list of drivers
+```python
+python monaco_racing_report/report.py --files <folder_path> --asc
+```
+--asc   - in ascending order
+<br>
+--desc  - in descending order
+
+<br>
+
+See the source at  [Link](https://git.foxminded.com.ua/foxstudent102894/task-6-report-of-monaco-2018-racing)
+<br>
+© 2022 Anton Skazko
+

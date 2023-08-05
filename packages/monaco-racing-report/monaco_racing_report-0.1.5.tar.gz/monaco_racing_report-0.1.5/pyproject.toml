@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "monaco_racing_report"
+version = "0.1.5"
+description = "Report of Monaco 2018 Racing"
+readme = 'README.md'
+authors = ["Skazko Anton <sk.anton06@gmail.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=0.1.5"]
+build-backend = "poetry.core.masonry.api"
