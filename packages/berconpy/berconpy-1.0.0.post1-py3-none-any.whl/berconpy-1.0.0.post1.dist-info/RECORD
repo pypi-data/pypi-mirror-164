@@ -1,0 +1,16 @@
+berconpy/__init__.py,sha256=DPV2NoeTMGhTR94jyVpimVUqESncFh-B4sfhnWhTeS8,226
+berconpy/ban.py,sha256=wWVRLnXhELp-iLzHAG87Drk3iqRg-LBySgL9VBDEE_0,1827
+berconpy/client.py,sha256=NxObynkswuCCRJzGpwcgEurM8Flqlh07u3FNMh6F-WI,21930
+berconpy/errors.py,sha256=jinA-G2-ny8sMQ4xCq4blT_FcYzhE67oRHEN8VRtfk0,357
+berconpy/packet.py,sha256=oFo5XZ5ygppaeLFMd3ji-czT15rLEaE1zLJ1YHv_9XQ,14228
+berconpy/player.py,sha256=y1upbUF2sN0-aFZRsSLvllYBuE4TFioEZDWO9sGL8NM,3516
+berconpy/protocol.py,sha256=TEbUyLk_IWhrMjHtgHEneshtLxI5LKvv2f_QJtM27mU,15820
+berconpy/server.py,sha256=ADX-LeWvxFp20CyEBxJTZUZEFNSvRfA7asYYjozMoio,2278
+berconpy/utils.py,sha256=XKRWgpW0TEXOF06Rq0K1VKWXPzUJ88R3wMlk_F5PkEU,965
+berconpy/ext/arma/__init__.py,sha256=r04m6QGuywWqGqqAKv3p2-NDgfe5m_jIA2HS-CgPgt4,90
+berconpy/ext/arma/client.py,sha256=6435fP2QBTyf_xHntoAqo51I-681N1Lf8VivL86waTg,2286
+berconpy-1.0.0.post1.dist-info/LICENSE,sha256=IH-oJctLVTlMhm-TVDNbFLJauZ2TpDGWGfepHIspxI0,1070
+berconpy-1.0.0.post1.dist-info/METADATA,sha256=0_xv-RTNnhbuFovO12LS08ColuQYIav8nz1ee-93PIE,2552
+berconpy-1.0.0.post1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+berconpy-1.0.0.post1.dist-info/top_level.txt,sha256=uXIhSc4rq7TjejwBmXcWMCPjvMgZHVGxNaaoxKl4PGE,9
+berconpy-1.0.0.post1.dist-info/RECORD,,
