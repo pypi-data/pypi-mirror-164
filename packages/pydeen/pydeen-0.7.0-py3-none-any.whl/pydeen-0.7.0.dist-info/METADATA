@@ -1,0 +1,216 @@
+Metadata-Version: 2.1
+Name: pydeen
+Version: 0.7.0
+Summary: Python Data Engineer Enterprise Notebook
+Author: MDJoerg (Joerg Mueller)
+Author-email: <mdjoerg@joomp.de>
+License: UNKNOWN
+Keywords: python,data,data science,enterprise,analysis,toolbox,notebook
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PYDEEN
+
+
+
+Python Data Engineer Enterprise Notebook
+
+
+
+Work with Enterprise data as an Data Engineer in notebook style.
+
+
+
+## Main features:
+
+- Extract data from SAP ABAP Backend OData Services
+
+- Extract data from SAP ABAP Backend via SQL (SAP [abapGit](https://abapgit.org/) Addon [ZDEEB](https://github.com/MDJoerg/deeb) required)
+
+- Websocket Stack for secure SAP ABAP callbacks and realtime messaging
+
+
+
+
+
+## current state and license
+
+
+
+This library is still experimental at the moment and is currently being tested by selected people in practical scenarios. A release under an open source license is planned.
+
+
+# CHANGELOG
+
+0.7.0: 2022-08-20 pandas menu 
+
+- pandas df menu
+
+- save result to txt
+
+- save metainfo (xml/json)
+
+- redesign menu handling
+
+- websockets renamed
+
+- cloud events support
+
+- cloud events for websockets
+
+
+
+0.6.0 2022-08-15 sap abap odata fixes
+
+- logging 
+
+- optimized menu with logging infos
+
+- pyodata lib removed
+
+- sap odata entity by key selection 
+
+
+
+0.5.0 2022-08-12 deeb addon
+
+- bugfix sap_abap result to pandas - timestamp fields
+
+- abapGit Addon DEEB support
+
+- execute SQL statements in SAP ABAP (via DEEB Addon) 
+
+
+
+0.4.0 2022-08-07 pandas support
+
+- basic auth menu
+
+- property encoding
+
+- export results as pandas dataframe
+
+- parse odata xml 
+
+- sap type mapping (e.g. Date)
+
+
+
+0.3.0 2022-08-04 sap abap odata support
+
+- command line menu framework
+
+- redesign pyodata support
+
+- support for sap abap odata gateway
+
+
+
+0.2.0 2022-06-30 odata v1 
+
+- doc for websocket usage
+
+- websocket restart mode
+
+- odata v2 access (pyodata) - early access
+
+
+
+0.1.0 2022-06-21 initial pre-alpha release
+
+- core types
+
+- config file handling
+
+- websocket scenario with default command handler for SAP APC
+
+
+## SAP Netweaver ABAP support
+
+
+
+Pydeen support ABAP backend systems from releases like 7.40 to current S/4 HANA. No additional plugin is required. The default access is the ODATA gateway.
+
+
+
+### SAP ODATA example
+
+
+
+```
+
+# 1. import required libaries
+
+from pydeen.auth import AuthBasic
+
+from pydeen.sap_abap import SAPAbapHttpBackend, SAPAbapODataConnector
+
+
+
+# 2. enter your sap backend connection details
+
+sap_host = "http://<hostname|ip>:<port>"
+
+sap_client = "<your_client>" 
+
+sap_name = "<your_name>"
+
+
+
+# 3. load authentification or open menu for interaction
+
+auth = AuthBasic()
+
+auth.set_menu_context(sap_name)
+
+if auth.load_config(auth.get_menu_filename()) == False:
+
+    auth.menu()
+
+
+
+# 4. open a SAP backend with OData connector
+
+backend = SAPAbapHttpBackend("SAP", sap_host, sap_client, auth=auth)
+
+connector = SAPAbapODataConnector(backend)
+
+
+
+# 5. open the sap OData connector menu for interaction: select endpoint + entity, select, get as pandas dataframe
+
+connector.menu()
+
+
+
+# 6. get the last selection as raw result
+
+result = connector.get_current_result()
+
+print(result)
+
+
+
+# 7. get the last selection as pandas dataframe object
+
+df = connector.get_current_result_as_pandas_df()
+
+df.head()
+
+df.info()
+
+
+
+# 8. start step 5..7 again...
+
+```
+
+
+
