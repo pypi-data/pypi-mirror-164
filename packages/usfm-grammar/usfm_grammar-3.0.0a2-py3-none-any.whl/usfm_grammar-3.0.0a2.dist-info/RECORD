@@ -1,0 +1,10 @@
+usfm_grammar/__init__.py,sha256=DnCwqEoY3AwM_lMjAWkov9dbiqme9y2wGqDD1O2mD-Q,176
+usfm_grammar/__main__.py,sha256=OLCl1GWvOp8zZu2CTU9wmsan7fHB6Yt_mLDgNhGxrX4,2293
+usfm_grammar/my-languages.so,sha256=YRU2cSBzyFpYkC0CJ0SoQxVIKEL6KKtgBPwumXRfynQ,4669528
+usfm_grammar/usfm_parser.py,sha256=8Ozyvj8NZtpWupjA9EKIOHSXhayVX_CEaFHHwsqH39k,20120
+usfm_grammar-3.0.0a2.dist-info/LICENSE,sha256=n89EsxLlGypQjtflM_4CbbfFodzxsQbGxYHggUjRNg8,1068
+usfm_grammar-3.0.0a2.dist-info/METADATA,sha256=DqqE88DGioQ4gV4oBJrRUMacvBEt_DHYmO4BYjcJCck,3660
+usfm_grammar-3.0.0a2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+usfm_grammar-3.0.0a2.dist-info/entry_points.txt,sha256=4cmMtPgfaaRylQQz4_97G-ORYOr7StOuMP1QsTFeCWM,60
+usfm_grammar-3.0.0a2.dist-info/top_level.txt,sha256=ISR3GKCjZWpwDJ3-wgdnpscrBIoXU2OGqHw29u715zE,13
+usfm_grammar-3.0.0a2.dist-info/RECORD,,
