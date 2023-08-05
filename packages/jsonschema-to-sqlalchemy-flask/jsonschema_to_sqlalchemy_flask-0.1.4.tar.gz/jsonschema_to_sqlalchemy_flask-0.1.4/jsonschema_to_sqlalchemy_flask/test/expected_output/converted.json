@@ -1,0 +1,243 @@
+{
+    "admin_lines": [
+        {
+            "camel_name": "Test1"
+        },
+        {
+            "camel_name": "Test2"
+        }
+    ],
+    "enums": [
+        {
+            "camel_name": "EnumFieldEnum",
+            "values": [
+                {
+                    "unchanged_name": "val0",
+                    "value": "0"
+                },
+                {
+                    "unchanged_name": "val1",
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "contains_time": true,
+    "flask_file":"result",
+    "footer": [
+        {
+            "line": "if __name__ == '__main__':"
+        },
+        {
+            "line": "    app.run()"
+        }
+    ],
+    "header": [
+        {
+            "line": "#!/usr/bin/python3"
+        },
+        {
+            "line": ""
+        },
+        {
+            "line": "from flask import Flask"
+        },
+        {
+            "line": "from flask_admin import Admin"
+        },
+        {
+            "line": "from flask_admin.contrib.sqla import ModelView"
+        },
+        {
+            "line": "from flask_sqlalchemy import SQLAlchemy"
+        },
+        {
+            "line": "import enum"
+        },
+        {
+            "line": "from datetime import datetime"
+        },
+        {
+            "line": ""
+        },
+        {
+            "line": "app = Flask(__name__)"
+        },
+        {
+            "line": ""
+        },
+        {
+            "line": "app.config['FLASK_ADMIN_SWATCH'] = 'cerulean'"
+        },
+        {
+            "line": "app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////tmp/json_schema_to_sqlalchemy_flask_test.db'"
+        },
+        {
+            "line": "app.config['TESTING'] = True"
+        },
+        {
+            "line": "app.config['SECRET_KEY'] = '0123456789'"
+        },
+        {
+            "line": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False"
+        },
+        {
+            "line": ""
+        },
+        {
+            "line": "db = SQLAlchemy(app)"
+        }
+    ],
+    "middle": [
+        {
+            "line": "admin = Admin(app, name='test', template_mode='bootstrap3')"
+        }
+    ],
+    "models": [
+        {
+            "id_column": [
+                {
+                    "model_snake_name":"test1",
+                    "snake_name": "id",
+                    "unchanged_name": "id",
+                    "type": "Integer"
+                }
+            ],
+            "columns": [
+                {
+                    "is_not_nullable": true,
+                    "unique": true,
+                    "model_snake_name":"test1",
+                    "snake_name": "str_field_fixed_length_as_unique_name",
+                    "unchanged_name": "str_field_fixed_length_as_unique_name",
+                    "type": "String(128)"
+                },
+                {
+                    "is_not_nullable": true,
+                    "model_snake_name":"test1",
+                    "snake_name": "txt_field",
+                    "unchanged_name": "txt_field",
+                    "type": "Text"
+                },
+                {
+                    "default": {
+                        "value": "datetime.utcnow"
+                    },
+                    "is_not_nullable": true,
+                    "model_snake_name":"test1",
+                    "snake_name": "date_field_now",
+                    "unchanged_name": "date_field_now",
+                    "type": "DateTime",
+                    "needs_conversion_from_json":
+                    {
+                        "convert_begin": "datetime.strptime(",
+                        "convert_end": ",'%d.%m.%y %H:%M:%S')"
+                    },
+                    "needs_conversion_to_json":
+                    {
+                        "convert_end": ".strftime('%d.%m.%y %H:%M:%S')"
+                    }
+                },
+                {
+                    "model_snake_name":"test1",
+                    "snake_name": "int_field",
+                    "unchanged_name": "int_field",
+                    "type": "Integer"
+                },
+                {
+                    "is_not_nullable": true,
+                    "model_snake_name":"test1",
+                    "snake_name": "bool_field",
+                    "unchanged_name": "bool_field",
+                    "type": "Boolean"
+                },
+                {
+                    "is_not_nullable": true,
+                    "model_snake_name":"test1",
+                    "snake_name": "float_field",
+                    "unchanged_name": "float_field",
+                    "type": "Float"
+                },
+                {
+                    "is_not_nullable": true,
+                    "model_snake_name":"test1",
+                    "snake_name": "enum_field",
+                    "unchanged_name": "enum_field",
+                    "type": "Enum(EnumFieldEnum)",
+                    "needs_conversion_to_json":
+                    {
+                        "convert_end": ".name"
+                    }
+                }
+            ],
+            "foreign_columns": [
+                {
+                    "backref": {
+                        "snake_own_names": "tests1"
+                    },
+                    "model_snake_name":"test1",
+                    "snake_name": "test2_name",
+                    "unchanged_name": "test2_name",
+                    "snake_foreign_key": "name",
+                    "camel_foreign_name": "Test2",
+                    "snake_foreign_name": "test2",
+                    "is_not_nullable": true,
+                    "lazy": true,
+                    "type": "String(256)",
+                    "very_last": true
+                }
+            ],
+            "camel_name": "Test1",
+            "snake_name": "test1",
+            "snake_unique_name":"str_field_fixed_length_as_unique_name",
+            "repr": {
+                "has_format": {
+                    "format_lst": [
+                        {
+                            "first": true,
+                            "value": "self.str_field_fixed_length_as_unique_name"
+                        }
+                    ]
+                },
+                "str": "Test1 {}"
+            }
+        },
+        {
+            "id_column": [
+                {
+                    "model_snake_name":"test2",
+                    "snake_name": "id",
+                    "unchanged_name": "id",
+                    "type": "Integer"
+                }
+            ],
+            "columns": [
+                {
+                    "unique": true,
+                    "is_not_nullable": true,
+                    "model_snake_name":"test2",
+                    "snake_name": "name",
+                    "unchanged_name": "name",
+                    "type": "String(256)",
+                    "very_last": true
+                }
+            ],
+            "foreign_columns": [],
+            "camel_name": "Test2",
+            "snake_name": "test2",
+            "snake_unique_name":"name",
+            "repr": {
+                "has_format": {
+                    "format_lst": [
+                        {
+                            "first": true,
+                            "value": "self.name"
+                        }
+                    ]
+                },
+                "str": "Test2 {}"
+            }
+        }
+    ]
+}
+

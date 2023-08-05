@@ -1,0 +1,40 @@
+#!/usr/bin/python3
+
+from .{{flask_file}} import db{{#models}}, {{camel_name}}{{/models}}
+import json
+import argparse
+
+{{#models}}
+def dump_{{snake_name}}(unique_name):
+    {{snake_name}} = {{camel_name}}.query.filter_by({{snake_unique_name}}=unique_name).first()
+    assert({{snake_name}} is not None)
+    res = {}
+    {{#columns}}
+    res["{{snake_name}}"] = {{model_snake_name}}.{{snake_name}}{{#needs_conversion_to_json}}{{convert_end}}{{/needs_conversion_to_json}}
+    {{/columns}}
+    {{#foreign_columns}}
+    res["{{snake_name}}"] = {{model_snake_name}}.{{snake_name}}{{#needs_conversion_to_json}}{{convert_end}}{{/needs_conversion_to_json}}
+    {{/foreign_columns}}
+    return res
+
+{{/models}}
+def dump_to_json(name, unique_name):
+    {{#models}}
+    if name == "{{snake_name}}":
+        return dump_{{snake_name}}(unique_name)
+    {{/models}}
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="get order for adding input data.")
+    parser.add_argument("--modelname","-m", required=True, help='snakecase names of the models to be get.')
+    parser.add_argument("--uniquename","-u", required=True, help='unique name of the object to get.')
+    parser.add_argument("--output_filename","-o", help='filename of the output file.')
+
+    args = parser.parse_args()
+    
+    output = dump_to_json(args.modelname, args.uniquename)
+    if args.output_filename is not None:
+        with open(args.output_filename,"w") as output_file:
+            output_file.write(json.dumps(output))
+    else:
+        print(output)

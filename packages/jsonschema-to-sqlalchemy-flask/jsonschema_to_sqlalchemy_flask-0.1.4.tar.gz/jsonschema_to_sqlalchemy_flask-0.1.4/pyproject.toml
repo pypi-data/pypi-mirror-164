@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools >= 64.0", "setuptools-scm", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jsonschema_to_sqlalchemy_flask"
+description = "A package to convert json schema data to a sqlachemy flask file"
+readme = "README.rst"
+requires-python = ">=3.10"
+keywords = ["jsonschema", "sqlalchemy", "flask"]
+license = {text = "MIT"}
+classifiers = [
+        "License :: OSI Approved :: MIT License",
+        "Development Status :: 3 - Alpha",
+        "Operating System :: POSIX :: Linux",
+        "Programming Language :: Python :: 3.10",
+]
+dependencies = [
+    "chevron",
+    #change to chevron strict after complete rename to chevron
+    #"chevron @ https://github.com/dbrandes-welfenlab/chevron/archive/refs/tags/v0.1.2.zip",
+    "pytest",
+    "Flask",
+    "Flask-SQLAlchemy",
+    "flask-admin"
+]
+dynamic = ["version"]
+
+[tool.setuptools_scm]
+write_to = "jsonschema_to_sqlalchemy_flask/version.py"
