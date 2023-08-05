@@ -1,0 +1,8 @@
+tree_sitter_languages/__init__.py,sha256=hguXEZ8gntPQAmoiISSceYApf4daOdMEZXTYeWiBfpM,237
+tree_sitter_languages/core.cp38-win32.pyd,sha256=d6g8X1LdHoG3gBh0LhR2OiKHPwJtdwP6KWOnEzafWpM,22016
+tree_sitter_languages/languages.dll,sha256=LFSQ5c56bsHBHBjE6q2Ope3cNzQZPCRw6aJhIFBnvBE,62848512
+tree_sitter_languages-1.4.0.dist-info/LICENSE,sha256=iIM1XHPwv9dzljl_R_zQShpA2a2ENZZPrQHKDYDKDyY,566
+tree_sitter_languages-1.4.0.dist-info/METADATA,sha256=4_30EjM4uqJLZMHAfWLwjUgVCkWGMx9VH9bLqAOHORk,10450
+tree_sitter_languages-1.4.0.dist-info/WHEEL,sha256=f5A3Ypo9PM0E06rgvH7-s12WthkA89SedEqLArPnjKU,96
+tree_sitter_languages-1.4.0.dist-info/top_level.txt,sha256=1WmcNkOJg9xmImRjbeI-XQHXNsQox9gEShuMMeZC3jg,22
+tree_sitter_languages-1.4.0.dist-info/RECORD,,
