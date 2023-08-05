@@ -1,0 +1,2 @@
+[datasette]
+mp3_audio = datasette_mp3_audio
