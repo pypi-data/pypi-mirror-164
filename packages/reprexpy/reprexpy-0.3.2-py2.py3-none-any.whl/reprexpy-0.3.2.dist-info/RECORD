@@ -1,0 +1,11 @@
+reprexpy/__init__.py,sha256=vS7HNkANDik9sFv7ee3f2JBc2lnFnoogI75goc4Qj4s,325
+reprexpy/reprex.py,sha256=C5M1X4IPRXJKU8av0gOW_Llf4f0S8GJBlv3Ay-WfxIw,14909
+reprexpy/session_info.py,sha256=frnPIxQZJLdGyM3sxsUH1CTCi8whZzt1WU3vxPoaiHo,7979
+reprexpy/examples/basic-example.py,sha256=Pbobs6RiyMGThLAyxFPp86wFAMnaHvT8BxHKXWJhJCI,296
+reprexpy/examples/error.py,sha256=8M2wHqIcTHM25tt0fcR6gRIUBggN3q8Emsrz6UtyIvk,557
+reprexpy/examples/plotting.py,sha256=bl0yq8ZAqaD-A0msfoW_6QA1nSkj0oX9SlCj6QbOLKU,231
+reprexpy-0.3.2.dist-info/LICENSE.txt,sha256=z8s3_LKKgfoudInDyNLyTtLwALZdiU6U1T1roXhkb7k,1062
+reprexpy-0.3.2.dist-info/METADATA,sha256=QS9C3kVVhn9v3nIBaaVCGnRg2-B1qWSv9Qp74n9tuSs,5840
+reprexpy-0.3.2.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+reprexpy-0.3.2.dist-info/top_level.txt,sha256=5uHxUcq9qTho_DJgVJPnmDkTVJQNMHFd27ordl5sKqA,9
+reprexpy-0.3.2.dist-info/RECORD,,
