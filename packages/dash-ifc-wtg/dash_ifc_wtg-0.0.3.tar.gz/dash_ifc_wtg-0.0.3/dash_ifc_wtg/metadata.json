@@ -1,0 +1,73 @@
+{
+  "src/lib/components/DashIfcWtg.react.js": {
+    "description": "",
+    "displayName": "DashIfcWtg",
+    "methods": [
+      {
+        "name": "handleFileUpdate",
+        "docblock": null,
+        "modifiers": [],
+        "params": [],
+        "returns": null
+      },
+      {
+        "name": "createOcean",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "sun",
+            "type": null
+          }
+        ],
+        "returns": null
+      },
+      {
+        "name": "createSky",
+        "docblock": null,
+        "modifiers": [],
+        "params": [],
+        "returns": null
+      },
+      {
+        "name": "loadIfc",
+        "docblock": null,
+        "modifiers": [],
+        "params": [],
+        "returns": null
+      },
+      {
+        "name": "ifcloader",
+        "docblock": null,
+        "modifiers": [
+          "async"
+        ],
+        "params": [],
+        "returns": null
+      },
+      {
+        "name": "disposeEnvironment",
+        "docblock": null,
+        "modifiers": [],
+        "params": [],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify the container for the IFC viewer component."
+      },
+      "ifc_file_contents": {
+        "type": {
+          "name": "string"
+        },
+        "required": true,
+        "description": "The contents of the ifc file"
+      }
+    }
+  }
+}

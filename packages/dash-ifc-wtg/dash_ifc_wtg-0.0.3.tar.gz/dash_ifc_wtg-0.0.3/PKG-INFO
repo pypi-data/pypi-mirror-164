@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dash_ifc_wtg
+Version: 0.0.3
+Summary: Dash component using IFC.js to view Wind Turbine Generators
+Home-page: UNKNOWN
+Author: Ben Cannell <bean.can.design@gmail.com>
+License: GPL-3.0
+Platform: UNKNOWN
+Classifier: Framework :: Dash
+License-File: LICENSE
+
+UNKNOWN
+
