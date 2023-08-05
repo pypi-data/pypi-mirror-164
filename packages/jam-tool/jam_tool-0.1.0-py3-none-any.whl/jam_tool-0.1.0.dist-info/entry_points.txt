@@ -1,0 +1,2 @@
+[console_scripts]
+jam = jam.entry:cli
