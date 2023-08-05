@@ -1,0 +1,14 @@
+LICENSE
+pyproject.toml
+setup.cfg
+slimfat/__init__.py
+slimfat/__main__.py
+slimfat/makefat.py
+slimfat/structs.py
+slimfat/structs_fat.py
+slimfat/structs_mach.py
+slimfat/util.py
+slimfat.egg-info/PKG-INFO
+slimfat.egg-info/SOURCES.txt
+slimfat.egg-info/dependency_links.txt
+slimfat.egg-info/top_level.txt
