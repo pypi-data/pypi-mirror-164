@@ -1,0 +1,147 @@
+# NIM python package
+
+A reference python package.
+
+Contains all config files for running properly in the pipeline.
+
+# Installation.
+
+1. create a virtual environment. It is strongly advised to create a separate environment for each repo you're working on.
+
+    `python -m venv venv`
+
+    And activate it.
+
+1. Install dependencies. Make sure you have the previous environment activated.
+
+    ```
+    # from inside the root folder of the repo
+
+    # for dev purposes.
+    pip install -e '.[dev,test]'
+    ```
+
+    This installs an editable version of your package including the dev and test requirements.
+
+# Build tooling.
+
+The pipeline is build tooling agnostic. It will work with a setuptools, flit and poetry (not tested) build system.
+
+If you want to, you can locally create a package (a wheel):
+
+```
+# inside the root of your repom with your virtualenv activated.
+
+python -m build
+
+# this creates a wheel file inside the dist folder of your repo (add this folder to gitignore.)
+```
+
+# Development tooling.
+
+All development and testing requirements are defined under the optional dependencies inside either the `setup.py` or `pyproject.toml` config file.
+
+See the `pyproject.toml` file inside this repo.
+
+TODO: Link to a project with a `setup.py` file.
+
+# Precommit
+
+Pre-commit is useful for performing certain tasks before committing (and pushing) to your origin github repo. This guarantees code is always compliant with a base set of quality rules.
+
+Pre-commit is automatically installed in the previous installation step. To activate it:
+
+```
+pre-commit install
+```
+
+From now on, each commit will be preceded by quality checks defined in `.pre-commit-config.yaml`
+
+# Configuration files
+
+All, or most tooling used locally and in the pipeline are defined by local config files.
+
+Most of these are in a `pyproject.toml` file. Flake8 does not yet support `pyproject.toml` and is configured inside `setup.cfg`.
+
+# Packaging.
+
+Ultimately a python package needs to be published. Either to pypi or a private repository.
+The Tekton pipeline is managing this. 
+
+> Only the **Main/Master** branch will publish packages.
+
+### Versioning flow.
+
+We version our packages according to semver scheme (major.minor.patch). In addition to that versions must be PEP440 compliant.
+
+> PEP440 compliance is important to make your dependency resolvers (in pip or poetry) work properly.
+
+Package versions are automatically created using the gitversion tool: https://gitversion.net/
+The mainline strategy is used and generated versions are converted to a PEP440 compliant version name.
+
+## Full auto version: version patching
+
+Each time a push is made to **Main/Master** a new version is created by bumping the patch version. (ie: 1.0.0 -> 1.0.1)
+
+## Non-full autoversion: minor and major patching.
+
+If you're working on a feature branch which adds extra functionality (without breaking other stuff) you should bump the minor version. You do this by appending ` +semver: minor` to one of your commit messages inside that branch:
+
+```
+git commit -am 'my commit message +semver: minor'
+```
+
+Once you have merged this into main, the gitversion tool will pickup this message and automatically bump the minor version (ie: 1.0.1 -> 1.1.0)
+
+If you are working on a breaking change, you want to bump the major version. Create a git message like this:
+
+```
+git commit -am 'my commit message +semver: major'
+```
+
+On merge to main, gitversion will now pick up this message and bump the major version (ie: 1.1.0 -> 2.0.0)
+
+For more detail see the flow below:
+
+```
+MAIN               DEV                       FEATURE
+
+5.0.8  checkout    5.1.0a0
+                   commit
+                   5.1.0a1
+                   |
+5.0.9 <--merge-----┘ # gets merged as a patch version
+
+        checkout   5.1.0a0
+                   commit
+                   5.1.0a1 ---checkout--->  5.1.0-just-a-test.1
+                                            commit +semver:minor
+                                            5.1.0-just-a-test.2
+                                            |
+                   5.1.0a2  <--merge--------┘
+                   |
+5.1.0 <--merge-----┘  # here is the +semver:minor in action.
+
+        checkout   5.2.0a0 ---checkout--->  5.2.0-branchA.1
+                                            commit +semver:minor
+                           
+                           ---checkout--->  5.2.0-branchB.1
+                                            commit +semver:minor
+
+                                            |
+                   5.2.0a1 <--merge branchA-┘
+                                           
+                   5.2.0a2 <--merge branchB-┘
+                   |
+5.3.0 <--merge-----┘ # we merged two branches with both +semver:minor
+                     # as result we have double minor version bump.
+
+
+```
+
+### Tags/releases
+
+Each time a package is created a release will be published on github, using the created version as the tag. You can manually create tags, but do not create tags which might interfere with the automatic tagging used by `gitversion`. So no "v1.0.0" tags as it might break the pipeline.
+
+### Release notes
+Currently there is no strategy on how to both do automatic versioning and release management.
