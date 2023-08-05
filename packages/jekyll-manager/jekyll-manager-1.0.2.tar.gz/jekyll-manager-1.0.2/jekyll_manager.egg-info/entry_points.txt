@@ -1,0 +1,2 @@
+[console_scripts]
+jekyll-manager = jekyll_manager.__main__:main
