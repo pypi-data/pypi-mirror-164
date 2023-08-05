@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "oqpy"
+version = "0.0.1"
+description = ""
+authors = ["OQpy Contributors <oqpy.contributors@gmail.com>"]
+license = "Apache 2.0"
+classifiers = [
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Scientific/Engineering",
+]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
