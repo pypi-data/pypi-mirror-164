@@ -1,0 +1,17 @@
+telecms_django/__init__.py,sha256=GiLp2g_CIOlaRGVQSKeoGtDhNVlhb5z1lhsMeTzMHM0,83
+telecms_django/apps.py,sha256=NxEWxQrELsypCph9MunVMqUgEItoNX1AUGHhDxUkOTU,592
+telecms_django/configuration.py,sha256=gOev9Bmg8DGZnsFMjtcTwC42X1nEkGtZoll3ZZYkSwA,12037
+telecms_django/route_view.py,sha256=GkT51r1eyQhYPUner4xLErP24ZgQWl9TG1kRi4wOMog,4692
+telecms_django/router.py,sha256=qCkKPShYKHbwE1qWX8oOcQ8V7Et0WpaZdf34QJNtG-0,2874
+telecms_django/settings.py,sha256=TnP2VQyaMEgIfb3ZnofLgXEZ72HrORg0I8LsQTV5PCE,1889
+telecms_django/urls.py,sha256=6BaA0wXzIJG7Knzb30Pqqb_pIQNGZ6pago_IFlf6IGI,2334
+telecms_django/__pycache__/__init__.cpython-38.pyc,sha256=5ugsWzqcpQZrYA6abZqEVYm3J18TQ87FBGPuvmbyGEU,253
+telecms_django/migrations/0001_initial.py,sha256=JMzYpH9wbHhWSb5lJxlCXSCeKZZL5s87xlQdC_5jmpc,5165
+telecms_django/migrations/0002_auto_20181014_2002.py,sha256=jvyRQGqgGQ6MngbXUP1UM6Hwb_QKOYuAVkXgmjWxT5I,766
+telecms_django/migrations/0003_auto_20191007_2005.py,sha256=efS60-MD_4ijN6fcWo98GMAob5c0vYfWm3Oi-rTsZ-c,1239
+telecms_django/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+telecms_django-1.0.1.dist-info/LICENSE,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+telecms_django-1.0.1.dist-info/METADATA,sha256=yB2Y5RKckVyiVKz5IhvqsSqIQp0reZ7Yseql1EyTDIw,3495
+telecms_django-1.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+telecms_django-1.0.1.dist-info/top_level.txt,sha256=tIsZL7nufjOL6UNk1eUEZaqEolksnm3CYiZEf8bSicU,15
+telecms_django-1.0.1.dist-info/RECORD,,
