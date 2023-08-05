@@ -1,0 +1,10 @@
+O365_notifications/__init__.py,sha256=Yne-kHmvH8tGGLLQeicdJbiRV6t6uziKxeLnBbqpWy4,85
+O365_notifications/base.py,sha256=AcIT1uVobQq4Yw9bhk4lbhijXqjvDD8eeuh83DTeMik,6585
+O365_notifications/constants.py,sha256=b19bBfbwu9fOuEAtsOZZlN0UjR9oZw8Lmor2n9TWNjQ,1554
+O365_notifications/push.py,sha256=hMfP6P9mAIwyuIGMmn3zmWUrevZXPu1nD6025exwE1Q,393
+O365_notifications/streaming.py,sha256=USDElWFyUqeyBzE4DCFF-5YfEyO-hYgaSTHydpawvyA,6968
+O365_notifications/utils.py,sha256=an6geJOHjwcZSm4pLvsvEMMx5MU-9DWJbHj9-XzXDp4,1282
+o365_notifications-0.1.1.dist-info/LICENSE,sha256=vq0_TXFJ2WWvsvuDNsgpNpUhNCWEVzFw5F3M1-kdf6A,1070
+o365_notifications-0.1.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+o365_notifications-0.1.1.dist-info/METADATA,sha256=UuOaoa0seWMuHCejTHxprBRugnQh1weRN0g8NBCw_o4,5896
+o365_notifications-0.1.1.dist-info/RECORD,,
