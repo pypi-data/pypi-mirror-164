@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+distributionsalien/Binomialdistribution.py
+distributionsalien/Gaussiandistribution.py
+distributionsalien/Generaldistribution.py
+distributionsalien/__init__.py
+distributionsalien.egg-info/PKG-INFO
+distributionsalien.egg-info/SOURCES.txt
+distributionsalien.egg-info/dependency_links.txt
+distributionsalien.egg-info/not-zip-safe
+distributionsalien.egg-info/top_level.txt
