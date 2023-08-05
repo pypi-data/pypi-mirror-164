@@ -1,0 +1,13 @@
+channels:
+  - pytorch
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pytorch
+  - torchvision 
+  - cudatoolkit
+  - pysam
+  - pip
+  - pip: 
+     - git+https://github.com/RasmussenLab/vamb@v3.0.7
