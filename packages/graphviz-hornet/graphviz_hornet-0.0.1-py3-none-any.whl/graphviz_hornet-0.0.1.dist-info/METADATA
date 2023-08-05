@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: graphviz-hornet
+Version: 0.0.1
+License-File: LICENSE
+Requires-Dist: graphviz
+Provides-Extra: dev
+Requires-Dist: build ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+
