@@ -1,0 +1,11 @@
+`include *.md
+include src/checkpoints/*.pth
+recursive-include ./src/models/*
+
+include ./src/requirements/requirements.txt
+include ./src/requirements/test_requirements.txt
+exclude src/*.log
+exclude src/*.cfg
+
+recursive-exclude ./src/* __pycache__
+recursive-exclude ./src/* *.py[co]
