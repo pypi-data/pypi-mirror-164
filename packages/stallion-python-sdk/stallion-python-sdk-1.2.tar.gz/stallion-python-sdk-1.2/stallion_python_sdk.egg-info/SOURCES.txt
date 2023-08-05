@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+stallion-python-sdk/__init__.py
+stallion-python-sdk/client.py
+stallion-python-sdk/message.py
+stallion-python-sdk/network.py
+stallion-python-sdk/parser.py
+stallion_python_sdk.egg-info/PKG-INFO
+stallion_python_sdk.egg-info/SOURCES.txt
+stallion_python_sdk.egg-info/dependency_links.txt
+stallion_python_sdk.egg-info/top_level.txt
+test/test.py
