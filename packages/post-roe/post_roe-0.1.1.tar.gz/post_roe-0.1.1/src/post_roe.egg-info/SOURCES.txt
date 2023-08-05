@@ -1,0 +1,5 @@
+setup.py
+src/post_roe.egg-info/PKG-INFO
+src/post_roe.egg-info/SOURCES.txt
+src/post_roe.egg-info/dependency_links.txt
+src/post_roe.egg-info/top_level.txt
