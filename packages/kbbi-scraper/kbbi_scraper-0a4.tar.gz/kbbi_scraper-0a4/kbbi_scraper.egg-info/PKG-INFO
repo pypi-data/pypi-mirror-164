@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: kbbi-scraper
+Version: 0a4
+Summary: https://kbbi.co.id/ scraper
+Author: Hariz Sufyan Munawar
+Author-email: munawarhariz@gmail.com
+License: Apache License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# kbbi-scraper
