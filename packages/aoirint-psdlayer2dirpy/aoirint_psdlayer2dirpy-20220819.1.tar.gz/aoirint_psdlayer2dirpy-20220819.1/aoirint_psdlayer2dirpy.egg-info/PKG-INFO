@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: aoirint-psdlayer2dirpy
+Version: 20220819.1
+Summary: PSDファイルのレイヤー構造＋画像をディレクトリ構造＋PNGとしてダンプするスクリプト
+Home-page: https://github.com/aoirint/psdlayer2dirpy
+Author: aoirint
+Author-email: aoirint@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# psdlayer2dirpy
+
+```shell
+pip3 install aoirint_psdlayer2dirpy
+```
