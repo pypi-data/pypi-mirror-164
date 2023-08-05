@@ -1,0 +1,6 @@
+HolaMundoLibreria.py
+setup.py
+HolaMundoLibreria.egg-info/PKG-INFO
+HolaMundoLibreria.egg-info/SOURCES.txt
+HolaMundoLibreria.egg-info/dependency_links.txt
+HolaMundoLibreria.egg-info/top_level.txt
