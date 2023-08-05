@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: intake-thredds
+Version: 2022.8.19
+Summary: Intake interface to THREDDS data catalogs.
+Home-page: https://github.com/intake/intake-thredds
+Maintainer: NCAR XDev Team
+Maintainer-email: xdev@ucar.edu
+License: Apache 2.0
+Project-URL: Documentation, https://github.com/intake/intake-thredds
+Project-URL: Source, https://github.com/intake/intake-thredds
+Project-URL: Tracker, https://github.com/intake/intake-thredds/issues
+Keywords: intake thredds siphon catalogs
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# intake-thredds
+
+| CI          | [![GitHub Workflow Status][github-ci-badge]][github-ci-link] [![Code Coverage Status][codecov-badge]][codecov-link] |
+| :---------- | :-----------------------------------------------------------------------------------------------------------------: |
+| **Docs**    |                                   [![Documentation Status][rtd-badge]][rtd-link]                                    |
+| **Package** |                        [![Conda][conda-badge]][conda-link] [![PyPI][pypi-badge]][pypi-link]                         |
+| **License** |                                       [![License][license-badge]][repo-link]                                        |
+
+Intake interface to [THREDDS](https://www.unidata.ucar.edu/software/tds/current/catalog/) data catalogs.
+
+## Installation
+
+Intake-thredds can be installed from PyPI with pip:
+
+```bash
+python -m pip install intake-thredds
+```
+
+Intake-thredds is also available from conda-forge for conda installations:
+
+```bash
+conda install -c conda-forge intake-thredds
+```
+
+See [documentation](https://intake-thredds.readthedocs.io) for more information.
+
+[github-ci-badge]: https://img.shields.io/github/workflow/status/intake/intake-thredds/CI?label=CI&logo=github&style=for-the-badge
+[github-ci-link]: https://github.com/intake/intake-thredds/actions?query=workflow%3ACI
+[codecov-badge]: https://img.shields.io/codecov/c/github/intake/intake-thredds.svg?logo=codecov&style=for-the-badge
+[codecov-link]: https://codecov.io/gh/intake/intake-thredds
+[rtd-badge]: https://img.shields.io/readthedocs/intake-thredds/latest.svg?style=for-the-badge
+[rtd-link]: https://intake-thredds.readthedocs.io/en/latest/?badge=latest
+[pypi-badge]: https://img.shields.io/pypi/v/intake-thredds?logo=pypi&style=for-the-badge
+[pypi-link]: https://pypi.org/project/intake-thredds
+[conda-badge]: https://img.shields.io/conda/vn/conda-forge/intake-thredds?logo=anaconda&style=for-the-badge
+[conda-link]: https://anaconda.org/conda-forge/intake-thredds
+[license-badge]: https://img.shields.io/github/license/intake/intake-thredds?style=for-the-badge
+[repo-link]: https://github.com/intake/intake-thredds
