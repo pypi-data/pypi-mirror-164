@@ -1,0 +1,9 @@
+setup.py
+cal_star.egg-info/PKG-INFO
+cal_star.egg-info/SOURCES.txt
+cal_star.egg-info/dependency_links.txt
+cal_star.egg-info/requires.txt
+cal_star.egg-info/top_level.txt
+src/__init__.py
+src/sc_sp.py
+src/spec_config.py
