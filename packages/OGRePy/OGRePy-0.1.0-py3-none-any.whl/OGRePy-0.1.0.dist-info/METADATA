@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: OGRePy
+Version: 0.1.0
+Summary: An Object-Oriented General Relativity Package for Python
+Home-page: https://baraksh.com/
+Author: Barak Shoshany and Jared Wogan
+Author-email: baraksh@gmail.com
+License: MIT
+Keywords: scientific-computing,differential-geometry,tensor,tensors,general-relativity
+Platform: unix
+Platform: linux
+Platform: osx
+Platform: cygwin
+Platform: win32
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Physics
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: IPython (>=7.10.0)
+Requires-Dist: sympy (>=1.8)
+
+# OGRePy: An Object-Oriented General Relativity Package for Python
+
+Authors:
+
+Barak Shoshany\
+Email: [baraksh@gmail.com](mailto:baraksh@gmail.com)\
+Website: [https://baraksh.com/](https://baraksh.com/)\
+GitHub: [https://github.com/bshoshany](https://github.com/bshoshany)
+
+Jared Wogan\
+Email: [jared.wogan@gmail.com](mailto:jared.wogan@gmail.com)\
+Website: [https://jaredwogan.ca/](https://jaredwogan.ca/)\
+GitHub: [https://github.com/JaredWogan](https://github.com/JaredWogan)
+
+This package is currently under development.
