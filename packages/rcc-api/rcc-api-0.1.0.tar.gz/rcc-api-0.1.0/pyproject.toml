@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "rcc-api"
+version = "0.1.0"
+description = "Обертка для работа с апи RCC"
+authors = ["MaHryCT3 <mahryct123@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/MaHryCT3/RCC_api"
+repository = "https://github.com/MaHryCT3/RCC_api"
+keywords = ["rust", "python", "aiohttp", "rcc", "rustcheatcheck", "api"]
+include = [
+    "LICENSE",
+]
+packages = [
+    { include = "RCC" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.8.1"
+pydantic = "^1.9.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = {version = "^22.6.0", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
