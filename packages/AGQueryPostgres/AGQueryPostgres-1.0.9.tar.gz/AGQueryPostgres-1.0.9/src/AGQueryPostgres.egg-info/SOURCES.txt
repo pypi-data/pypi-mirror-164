@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/AGQueryPostgres/__init__.py
+src/AGQueryPostgres/examples.py
+src/AGQueryPostgres/query_json_to_sql.py
+src/AGQueryPostgres/query_postgres.py
+src/AGQueryPostgres/query_tools.py
+src/AGQueryPostgres/query_where.py
+src/AGQueryPostgres/security.py
+src/AGQueryPostgres/settings.py
+src/AGQueryPostgres.egg-info/PKG-INFO
+src/AGQueryPostgres.egg-info/SOURCES.txt
+src/AGQueryPostgres.egg-info/dependency_links.txt
+src/AGQueryPostgres.egg-info/requires.txt
+src/AGQueryPostgres.egg-info/top_level.txt
