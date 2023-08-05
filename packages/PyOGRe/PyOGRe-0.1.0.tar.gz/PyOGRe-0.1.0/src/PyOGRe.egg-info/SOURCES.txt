@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/PyOGRe/__init__.py
+src/PyOGRe.egg-info/PKG-INFO
+src/PyOGRe.egg-info/SOURCES.txt
+src/PyOGRe.egg-info/dependency_links.txt
+src/PyOGRe.egg-info/requires.txt
+src/PyOGRe.egg-info/top_level.txt
