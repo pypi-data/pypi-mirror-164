@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ajents
+Version: 0.0.1
+Summary: RL agents in JAX
+Author: Onno Eberhard
+Author-email: onnoeberhard@gmail.com
+Requires-Python: >=3.8,<3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: jax (>=0.3.16,<0.4.0)
+Requires-Dist: jaxlib (>=0.3.15,<0.4.0)
+Requires-Dist: tqdm (>=4.64.0,<5.0.0)
