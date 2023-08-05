@@ -1,0 +1,9 @@
+pyhf_combine_converter/__init__.py,sha256=wEQCtbW4jD1935zh_DnGV2J8GiMSD4NIbPoIVxMaMJc,663
+pyhf_combine_converter/combine_to_pyhf.py,sha256=mLvHjkws4dXMCrmHN4ZSWz71JJaPDFccHh3ZPnkH2q0,14082
+pyhf_combine_converter/pyhf_to_combine.py,sha256=Lil_eM9pkgdx74C83pQmRZAbaibIrkTTiVF-xyadLTo,22937
+pyhf_combine_converter/version.py,sha256=tcW5WR5SDjuBEIjLMShMi_qo95F90_X0yoMvgycBv8k,176
+pyhf_combine_converter-0.0.4.dist-info/METADATA,sha256=_CCQNtAxZ7cWV7i5bvs5xqYIpjLy0AgFMVZWRDcuqRg,2955
+pyhf_combine_converter-0.0.4.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+pyhf_combine_converter-0.0.4.dist-info/entry_points.txt,sha256=qWX4ixVHhw_OUTVDFUrAXAcVGUS11F0-9BUhCNDtNiE,164
+pyhf_combine_converter-0.0.4.dist-info/licenses/LICENSE.txt,sha256=U8-a0LSVst0rXXz8tR8lUG9E96fPYVHbTx3RCNNZL-k,1075
+pyhf_combine_converter-0.0.4.dist-info/RECORD,,

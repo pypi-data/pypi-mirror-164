@@ -1,0 +1,3 @@
+[console_scripts]
+combine-to-pyhf = pyhf_combine_converter.pyhf_converted_from_datacard:main
+pyhf-to-combine = pyhf_combine_converter.pyhf_convert_to_datacard:main
