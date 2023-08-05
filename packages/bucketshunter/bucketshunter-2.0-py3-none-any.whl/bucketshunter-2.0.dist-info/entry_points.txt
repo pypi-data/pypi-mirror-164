@@ -1,0 +1,2 @@
+[console_scripts]
+buckets-hunter = buckets_hunter.__main__:main

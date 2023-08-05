@@ -1,0 +1,72 @@
+Metadata-Version: 2.1
+Name: bucketshunter
+Version: 2.0
+Summary: Scan for open buckets, misconfigurations and dump contents.
+Home-page: https://github.com/danielazulayy/BucketsHunter
+Author: Daniel Azulay
+Author-email: serializator@gmail.com
+Project-URL: Bug Tracker, https://github.com/danielazulayy/BucketsHunter
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Security
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: boto3
+Requires-Dist: botocore
+Requires-Dist: certifi
+Requires-Dist: charset-normalizer
+Requires-Dist: dnspython
+Requires-Dist: idna
+Requires-Dist: jmespath
+Requires-Dist: loguru
+Requires-Dist: python-dateutil
+Requires-Dist: requests
+Requires-Dist: s3transfer
+Requires-Dist: six
+Requires-Dist: ujson
+Requires-Dist: urllib3
+
+# BucketsHunter ☁️🪣
+
+BucketsHunter is an opensource tool to find Open Buckets, Misconfigured Permissions and dump bucket's contents.
+## Installation 
+
+From source:
+```bash
+git clone https://github.com/DanielAzulayy/BucketsHunter.git
+cd BucketsHunter
+python3 -m pip install -r requirements.txt
+python3 -m BucketsHunter
+```
+
+## Features ⚡️
+ - Scans all buckets permissions & finds misconfigurations
+ - Fast multi threaded scanning
+ - UI friendly - supports JSON scan results to a local folder
+ - Buckets Regions support
+ 
+
+## Cloud Providers Support ️️ ☁️
+- AWS 
+- Azure
+- GCP
+- DigitalOcean (soon)
+- Linode (soon)
+- Alibaba Cloud (soon)
+- Wasabi (soon)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Authors
+- Daniel Azulay - [danielazulayy](https://github.com/danielazulayy)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
