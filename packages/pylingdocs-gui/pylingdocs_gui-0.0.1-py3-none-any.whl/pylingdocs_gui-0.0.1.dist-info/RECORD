@@ -1,0 +1,9 @@
+pylingdocs_gui/__init__.py,sha256=mnxkCPS-holk2VPofmWNFa6iuTk8JySLmghSbpEfWDM,420
+pylingdocs_gui/cli.py,sha256=UW7OewUEh9F0PGI2UWJ-QYx4O4i2FyLvuAU2rxGc6y8,611
+pylingdocs_gui/editor.py,sha256=pYqCaimYMiT_eBxegL4ElTBR_O4rEPho96H0U7yZzHY,3638
+pylingdocs_gui-0.0.1.dist-info/LICENSE,sha256=OPzV6bHGPCXFylyiCR3GYAK-EP8seLDbcbgO87DYM1o,11359
+pylingdocs_gui-0.0.1.dist-info/METADATA,sha256=OwCK9ydpcVDDUFuJlZ8izSDANIdVTHU561WMY5G72x4,2053
+pylingdocs_gui-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pylingdocs_gui-0.0.1.dist-info/entry_points.txt,sha256=_3YMHVHWoRyvmU2voaD6QLBNIRQKqsB88TGCZO2YYM0,59
+pylingdocs_gui-0.0.1.dist-info/top_level.txt,sha256=AUi-QL2P6C_pgBku1o5yuFTmjImlJ5JPLURcLQ4xfIc,15
+pylingdocs_gui-0.0.1.dist-info/RECORD,,

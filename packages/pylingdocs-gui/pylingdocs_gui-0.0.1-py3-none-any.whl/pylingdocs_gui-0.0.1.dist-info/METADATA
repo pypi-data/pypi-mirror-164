@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: pylingdocs-gui
+Version: 0.0.1
+Summary: A graphical editor for pylingdocs.
+Home-page: https://github.com/fmatter/pylingdocs-gui
+Author: Florian Matter
+Author-email: florianmatter@gmail.com
+Project-URL: Bug Tracker, https://github.com/fmatter/pylingdocs-gui/issues
+Keywords: cldf,linguistics
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: colorlog
+Requires-Dist: click
+Requires-Dist: flask
+Requires-Dist: flask-cors
+Requires-Dist: pylingdocs
+Provides-Extra: dev
+Requires-Dist: bump2version ; extra == 'dev'
+Requires-Dist: coverage[toml] ; extra == 'dev'
+Requires-Dist: prospector[with_pyroma] (==1.7.7) ; extra == 'dev'
+Requires-Dist: isort ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: sphinx ; extra == 'dev'
+Requires-Dist: sphinx-rtd-theme ; extra == 'dev'
+Requires-Dist: sphinx-autoapi ; extra == 'dev'
+Requires-Dist: tox ; extra == 'dev'
+Requires-Dist: myst-parser ; extra == 'dev'
+Requires-Dist: flake8 ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+Requires-Dist: jinja2 ; extra == 'dev'
+Provides-Extra: publishing
+Requires-Dist: twine ; extra == 'publishing'
+Requires-Dist: wheel ; extra == 'publishing'
+
+# pylingdocs-gui
+
+A rudimentary GUI editor for pylingdocs.
+
+![License](https://img.shields.io/github/license/fmatter/pylingdocs-gui)
+[![PyPI](https://img.shields.io/pypi/v/pylingdocs-gui.svg)](https://pypi.org/project/pylingdocs-gui)
+![Versions](https://img.shields.io/pypi/pyversions/pylingdocs-gui)
+
+Usage: Run `pylingdocs-gui` in your pylingdocs project.
