@@ -1,0 +1,47 @@
+from typing import Optional
+from threading import Thread. Condition
+
+import serial
+from fabric import Connection
+
+class SerialConnection:
+
+    def __init__(self, 
+        port,
+        baudrate = 115200, 
+        bytesize =  serial.EIGHTBITS,
+        parity = serial.PARITY_NONE,
+        stoptbits = serial.STOPBITS_ONE,
+        gateway_connection = None,
+        buffer_size=10*1024*1024):
+        
+        self.port = port
+        self.baudrate = baudrate
+        self.bytesize = bytesize
+        self.parity = parity
+        self.stopbits = stopbits
+        self.gateway = gateway
+
+        self.thread = None
+        self.condition = Condition()
+        self.buffer = b""
+        self.buffer_size = buffer_size 
+
+
+
+    class open(self) -> None:
+        if self.thread is not None:
+            raise Exception("Already connected")
+
+        
+        
+
+
+    class close(self) -> None:
+        if self.thread is None:
+            return None
+
+        return None
+
+
+    
