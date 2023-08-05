@@ -1,0 +1,10 @@
+entryutils/__init__.py,sha256=ia-VYCQiePqozobnOcOD16vfaVnWcam95Ph0U1V6U98,57
+entryutils/lib2.py,sha256=aqbP90kr04yA8Gyw5JW-dBEexsB1HIYy3RSunTPDyxo,3963
+entryutils/main.py,sha256=32rKh8KWUJ2j70fw3K0Q5vgN7D_wia_vst24uFjG-W0,2426
+entryutils/queries/createaccount.txt,sha256=xlYuvOlyG9wAsWi1Lz54kGyOJ9vZBqYOYuJo56eegMw,1144
+entryutils/queries/login.txt,sha256=wYSXX36p25FzAYnFcCP7z7g9__9PD6qN0h37hNdTJ3g,1219
+entryutils-0.0.3.dist-info/LICENSE,sha256=c2P8fiWWmY8_wBCbaQhXW_HNj2-i_Jev9r2dFxd_ULs,1038
+entryutils-0.0.3.dist-info/METADATA,sha256=pwJRg98Z0tI2nZtrzep89IpPm3Aq4-5gJS5AwWbKZ28,1625
+entryutils-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+entryutils-0.0.3.dist-info/top_level.txt,sha256=6j7_FKAm5v3uhm2hxoXnsxsXJZeiPyW70sp8snsNp34,11
+entryutils-0.0.3.dist-info/RECORD,,
