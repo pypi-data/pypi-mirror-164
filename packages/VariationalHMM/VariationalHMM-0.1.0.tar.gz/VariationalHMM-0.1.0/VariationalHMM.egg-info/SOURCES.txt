@@ -1,0 +1,13 @@
+README.md
+setup.py
+VariationalHMM/__init__.py
+VariationalHMM/poisson_vhmm.py
+VariationalHMM/vhmm_base.py
+VariationalHMM.egg-info/PKG-INFO
+VariationalHMM.egg-info/SOURCES.txt
+VariationalHMM.egg-info/dependency_links.txt
+VariationalHMM.egg-info/not-zip-safe
+VariationalHMM.egg-info/requires.txt
+VariationalHMM.egg-info/top_level.txt
+test/test_jax.py
+test/test_vhmm_base.py
