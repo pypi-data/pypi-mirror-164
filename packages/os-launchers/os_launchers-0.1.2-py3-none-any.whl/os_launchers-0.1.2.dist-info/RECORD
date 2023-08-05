@@ -1,0 +1,10 @@
+os_launchers/__init__.py,sha256=ZCr1eB5tOzNZgXwzqty9BeLSfQG_GKMZD1ffFSmrxaA,149
+os_launchers/_launchers.py,sha256=OfDaZ8UxcvIGd3eySI0yEakewZQUyK0p3GNu2I2bUXU,5513
+os_launchers/_version.py,sha256=YvuYzWnKtqBb-IqG8HAu-nhIYAsgj9Vmc_b9o7vO-js,22
+os_launchers/constants.py,sha256=4K5vmknLjaYio0STyBbGIMCmgtBI1gsLMEogM796cU4,690
+os_launchers/exceptions.py,sha256=n7ZI5rGduYrr0kBCME9PkJNclzFGN_YctRaCv2hivuE,213
+os_launchers-0.1.2.dist-info/LICENSE.md,sha256=CEwc56F_2vyKGR0KHcSq2p__5wxKLw_3n9A1Kjoa6Bw,1073
+os_launchers-0.1.2.dist-info/METADATA,sha256=oALg8yMX9dZUc3ppFjdtZ3iU9EXGZc14utNTBC64u-k,5031
+os_launchers-0.1.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+os_launchers-0.1.2.dist-info/top_level.txt,sha256=Np-4sFoT5i0Dr0Z8twKHwmFpFIBnow3vjvZPyMdQK_E,13
+os_launchers-0.1.2.dist-info/RECORD,,
