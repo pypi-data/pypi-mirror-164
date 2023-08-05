@@ -1,0 +1,10 @@
+amersham/__init__.py,sha256=GM7BIztQGoGWvWspoHd0s8miuO6PTWj2Ex0vDYrtlvg,106
+amersham/command.py,sha256=21KrRui5lMoQAM30VJw2LQR_YvzeMn6T7hp507uoi6o,11357
+amersham/flag.py,sha256=epIx943w37q47XTdl9eVpBc2Fjr9t4UHkf5zC2kzq4Y,2265
+amersham/parser.py,sha256=1xi7Oe1RqRyBQu4KA0JMux9k5_VO2nqqbM-iUPmBisA,3953
+amersham/table.py,sha256=vwDiberoOXjxQJkNVyT9gm-HD0E9x977IWi2CFzptJc,1628
+amersham-0.0.1.dist-info/LICENSE,sha256=qtLyrXsl817ltxI0csgwDD7nvifJuQkRQdtnsjVOxyQ,1056
+amersham-0.0.1.dist-info/METADATA,sha256=x4W7fMtnKot7te7c8R4D3gFVwgYbQgWZwPPS45Ry2qc,2890
+amersham-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+amersham-0.0.1.dist-info/top_level.txt,sha256=ePNZccZR7V-QsbsL9N12NWxgQnwmIOgNK0V3d6KCJBU,9
+amersham-0.0.1.dist-info/RECORD,,
