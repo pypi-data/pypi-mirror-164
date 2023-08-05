@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: brz-builder
+Version: 0.7.4
+Summary: Turn a recipe in to a bzr branch
+Home-page: http://launchpad.net/brz-builder
+Author: James Westby
+Author-email: james.westby@canonical.com
+License: GNU GPL v3
+Platform: UNKNOWN
+License-File: COPYING
+
+UNKNOWN
+
