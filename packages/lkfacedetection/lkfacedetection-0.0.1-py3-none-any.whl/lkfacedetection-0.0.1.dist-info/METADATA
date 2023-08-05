@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: lkfacedetection
+Version: 0.0.1
+Summary: Detect faces using ML models just with few lines of code
+Home-page: https://www.lakshaykumar.tech/
+Author: Lakshay Kumar
+Author-email: contact@lakshaykumar.tech
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.3
+Description-Content-Type: text/markdown
+Requires-Dist: mediapipe
+
+About
+==============================
+It is a package having pre-built codes of face detection. You can implement with just single line of code.
+
+
+
+
+Function
+=====================
+
+`faceDetector(image, draw=False)`
+
+- **Function Parameter** : This function takes `image` (a single frame) as input and a variable `draw` with default value _False_. You can change the value of parameter `draw` to _True_ if you want to draw the rectangular box over the face on the `image` frame.
+- **Output** : This function returns a nested list of length 2. The element at index 1 is the `frame` and a list of `[x,y,w,h]`. `x` is the minimum x co-ordinates of the face, `y` is the minimum y co-ordinate of face, `w` is the width and `h` is the height of the face. NOTE that the `frame` will have _rectangular box over the face if value of `draw` is set to True in the function_.
+
+
+Usage
+=====================
+
+> faceDetector(image, draw=False)
+
+With detection over the face directly through function
+____________
+```
+from lkfacedetection import faceDetector
+import cv2
+cap = cv2.VideoCapture(0)
+while True:
+    success, image = cap.read()
+    functionValues = faceDetector(image,draw=True) #draw over the frame from function
+    frame = functionValues[0]
+    cv2.imshow('Face', frame)
+    cv2.waitKey(1)
+cap.release()
+```
+
+With detection externally using the values from function
+____________
+
+```
+from lkfacedetection import faceDetector
+import cv2
+cap = cv2.VideoCapture(0)
+while True:
+    success, image = cap.read()
+    functionValues = faceDetector(image) #doesn't draw over the frame
+    frame = functionValues[0]
+    x,y,w,h = functionValues[1]
+    cv2.rectangle(frame, (x, y), (x + w, y + h), (255, 0, 0), 2) #Draws a rectangle over the face
+    cv2.imshow('Face', frame)
+    cv2.waitKey(1)
+cap.release()
+```
+
+
+Developer
+=================
+This package is developed by [Lakshay Kumar](https://www.lakshaykumar.tech/) an enthusiastic AI Researcher. This is developed keeping in mind the pain to write lengthy lines of code just to detect faces. This will enable other developers to focus more on implementation part rather than spending time on coding the face detection module.<br>
+Feel free to share your feedback via [mail](mailto:contact@lakshaykumar.tech)
+
