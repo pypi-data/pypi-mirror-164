@@ -1,0 +1,4 @@
+[sphinx.html_themes]
+haruki_dark = sphinx_harumaru_themes
+haruki_hw = sphinx_harumaru_themes
+haruki_light = sphinx_harumaru_themes
