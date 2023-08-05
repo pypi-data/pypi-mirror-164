@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/SystemScripter/__init__.py
+src/SystemScripter/dates.py
+src/SystemScripter.egg-info/PKG-INFO
+src/SystemScripter.egg-info/SOURCES.txt
+src/SystemScripter.egg-info/dependency_links.txt
+src/SystemScripter.egg-info/top_level.txt
