@@ -1,0 +1,13 @@
+.idea/
+build/
+dist/
+*/__pycache__
+.pytest_cache/
+reprexpy.egg-info/
+venv/
+.cache/
+*.pyc
+.eggs/
+dev.py
+TODO.md
+*.Rproj*
