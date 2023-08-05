@@ -1,0 +1,7 @@
+utilities/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utilities/gcp_utilities.py,sha256=qVqlJwtim7UIyVfCHl5lUgk1cwLs-r7-F7T4SscQEL4,12070
+utilities/logger_wrapper.py,sha256=qcLvN8GeEJoLCM5WvFW5J1CBRsfY7aoupP3CYM9m7To,2326
+dogcputils-1.0.1.dist-info/METADATA,sha256=R68C7rhk7pyVmWQa3OkOUru2vwOSi7sTb2BMXNkseXE,552
+dogcputils-1.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+dogcputils-1.0.1.dist-info/top_level.txt,sha256=oWJtl2ZdV4Sd9Vsjig8NVKXtwotmMeYfyRS-upAaa3g,10
+dogcputils-1.0.1.dist-info/RECORD,,
