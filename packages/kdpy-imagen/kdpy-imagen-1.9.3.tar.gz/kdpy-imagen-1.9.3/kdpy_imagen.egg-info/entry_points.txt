@@ -1,0 +1,4 @@
+[console_scripts]
+imagen = kdpy_imagen.cli:imagen
+kdpy_imagen = kdpy_imagen.cli:main
+
