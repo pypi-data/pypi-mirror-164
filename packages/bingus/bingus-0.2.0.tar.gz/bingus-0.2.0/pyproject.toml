@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "bingus"
+version = "0.2.0"
+description = "Many python utilities in one package."
+authors = ["Bruno Robert <bruno.jeanluke@icloud.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://gitlab.com/brunorobert/bingus"
+repository = "https://gitlab.com/brunorobert/bingus"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
