@@ -1,0 +1,12 @@
+intake_thredds/__init__.py,sha256=15q9-zlDIcmhI3k2BDHWPZF5r_b7TfLysFqNeOOs2sM,373
+intake_thredds/cat.py,sha256=bEW48IT9HB0H2zKlkgzw1GGWHNsbwQeapKGpeISh4JI,3320
+intake_thredds/source.py,sha256=vsR-Xz7YIsaQ_7JMSaqle5snrIuiWGspc01d8DFEUBY,3490
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_cat.py,sha256=l6p8JB9WHp6OuzFYqWmE0WODp_x9Ofs7Oc8iZ69ExPo,3224
+tests/test_source.py,sha256=JrF9QbLTNPx0kf9SjJv_RiizMIEBcYGu_C_629ka5MY,5567
+intake_thredds-2022.8.19.dist-info/LICENSE,sha256=5g93nrckUk8QchYpj20bxibAUkX_FbA48jfdTnr4zRo,11368
+intake_thredds-2022.8.19.dist-info/METADATA,sha256=DbhK25jXJBk-Mj6neM4Q2z8FRhhBdJkCZJO1q6PEpjI,3445
+intake_thredds-2022.8.19.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+intake_thredds-2022.8.19.dist-info/entry_points.txt,sha256=u5IckrOVmSXQ8F1Njp9r-rV3BEONNYu_EvYK8zBHWZk,124
+intake_thredds-2022.8.19.dist-info/top_level.txt,sha256=fSNt_mZ4pAxr_iB5OsYuufLvIaNBU1A4KCdY1dobUXU,21
+intake_thredds-2022.8.19.dist-info/RECORD,,
