@@ -1,0 +1,6 @@
+httpx
+httpx[socks]
+EasyProxies
+spys
+fake_useragent
+rich
