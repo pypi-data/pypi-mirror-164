@@ -1,0 +1,21 @@
+readme = "README.md"
+
+[tool.poetry]
+name = "divide-stuff"
+version = "0.1.1"
+description = "A very stupid project to learn about how to package apps for PyPy"
+authors = ["Thomas Steck <thomas.steck@ingka.ikea.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pprintpp = "^0.4.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+pre-commit = "^2.20.0"
+scriv = "^0.16.0"
+tox = "^3.25.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
