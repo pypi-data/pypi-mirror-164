@@ -1,0 +1,3 @@
+[flake8.extension]
+MDA = flake8_modern_annotations.checker:AnnotationChecker
+
