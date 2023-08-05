@@ -1,0 +1,108 @@
+#!python
+# This file is placed in the Public Domain.
+# pylint: disable=E1101,E0611,C0116,C0413
+
+
+"bot"
+
+
+import os
+import importlib
+import readline
+import sys
+import termios
+import time
+
+
+sys.path.insert(0, os.getcwd())
+
+
+from bot.hdl import Cfg, Client, Command, docmd, parse
+from bot.obj import Wd, prt
+from bot.scn import scan, scandir
+
+
+Wd.workdir = os.path.expanduser("~/.bot")
+
+
+from bot import bsc, dbg, irc, log, rss, tdo
+
+
+scan(bsc)
+scan(dbg)
+scan(irc)
+scan(log)
+scan(rss)
+scan(tdo)
+
+
+class CLI(Client):
+
+    def raw(self, txt):
+        print(txt)
+        sys.stdout.flush()
+
+
+class Console(Client):
+
+    def handle(self, event):
+        Client.handle(event)
+        event.wait()
+
+    def poll(self):
+        event = Command()
+        event.channel = ""
+        event.cmd = ""
+        event.txt = input("> ")
+        event.orig = repr(self)
+        if event.txt:
+            event.cmd = event.txt.split()[0]
+        return event
+
+    def raw(self, txt):
+        print(txt)
+        sys.stdout.flush()
+
+
+def imp(pname, mname):
+    mod = importlib.import_module(pname, mname)
+    scan(mod)
+    return mod
+
+def wrap(func):
+    fds = sys.stdin.fileno()
+    gotterm = True
+    try:
+        old = termios.tcgetattr(fds)
+    except termios.error:
+        gotterm = False
+    try:
+        func()
+    except (EOFError, KeyboardInterrupt):
+        print("")
+    finally:
+        if gotterm:
+            termios.tcsetattr(fds, termios.TCSADRAIN, old)
+
+
+def main():
+    parse(" ".join(sys.argv[1:]))
+    readline.redisplay()
+    if "c" in Cfg.opts:
+        print("BOT started at %s %s" % (
+                                        time.ctime(time.time()),
+                                        prt(Cfg, doskip=["opts"]))
+                                       )
+        scandir("mod", imp)
+        bot = irc.init()
+        print(prt(bot.cfg, "nick,channel,server,port"))
+        rss.init()
+        csl = Console()
+        csl.start()
+        csl.forever()
+    else:
+        cli = CLI()
+        docmd(cli, Cfg.otxt)
+
+
+wrap(main)
