@@ -1,0 +1,3 @@
+[console_scripts]
+audit-version=audit_version:main
+
