@@ -1,0 +1,8 @@
+README.md
+agnee
+setup.py
+agnee.egg-info/PKG-INFO
+agnee.egg-info/SOURCES.txt
+agnee.egg-info/dependency_links.txt
+agnee.egg-info/requires.txt
+agnee.egg-info/top_level.txt
