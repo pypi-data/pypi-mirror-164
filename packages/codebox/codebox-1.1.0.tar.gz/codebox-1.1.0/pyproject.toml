@@ -1,0 +1,59 @@
+[tool.poetry]
+name = "codebox"
+version = "1.1.0"
+description = "A collection of Python utility modules"
+authors = ["Wilson Santos <wilson@codeminus.org>"]
+license = "MIT"
+repository = "https://github.com/wils0ns/codebox"
+documentation = "https://wils0ns.github.io/codebox/"
+readme = "README.rst"
+
+# exclude = ["tests", "docs"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+PyYAML = "^6.0"
+Jinja2 = "^3.1.2"
+sphinx-rtd-theme = "^1.0.0"
+sphinxcontrib-napoleon = "^0.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+pytest-cov = "^3.0.0"
+black = "^22.6.0"
+isort = "^5.10.1"
+Sphinx = "^5.1.1"
+recommonmark = "^0.7.1"
+pylint = "^2.14.5"
+
+[tool.poetry.extras]
+docs = ["Sphinx", "sphinx-rtd-theme", "sphinxcontrib-napoleon"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+target-version = ["py310", "py38"]
+line-length = 120
+color = false
+
+[tool.isort]
+line_length = 120
+profile = "black"
+
+[tool.pytest.ini_options]
+# pythonpath = ["."]
+addopts = [
+    # "--durations=10",
+    "--cov=codebox",
+    "--cov-config=.coveragerc",
+    "--cov-report=term-missing",
+    # "--cov-report=html",
+    # "--cov-report=xml",
+
+]
+
+log_cli = true
+#log_cli_level = "debug"
+log_file = "pytest.log"

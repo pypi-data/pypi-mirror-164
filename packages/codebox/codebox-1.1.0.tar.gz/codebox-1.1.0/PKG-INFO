@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: codebox
+Version: 1.1.0
+Summary: A collection of Python utility modules
+Home-page: https://github.com/wils0ns/codebox
+License: MIT
+Author: Wilson Santos
+Author-email: wilson@codeminus.org
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: docs
+Requires-Dist: Jinja2 (>=3.1.2,<4.0.0)
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Requires-Dist: sphinx-rtd-theme (>=1.0.0,<2.0.0); extra == "docs"
+Requires-Dist: sphinxcontrib-napoleon (>=0.7,<0.8); extra == "docs"
+Project-URL: Documentation, https://wils0ns.github.io/codebox/
+Project-URL: Repository, https://github.com/wils0ns/codebox
+Description-Content-Type: text/x-rst
+
+codebox - Python tools collection.
+-----------------------------------------
+
+Installation
+==================
+
+.. code-block:: bash
+
+    pip install codebox
+
+
+Documentation
+=============
+
+https://wils0ns.github.io/codebox/
+
