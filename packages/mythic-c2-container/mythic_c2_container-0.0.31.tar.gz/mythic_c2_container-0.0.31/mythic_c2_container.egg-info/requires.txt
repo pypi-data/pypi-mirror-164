@@ -1,0 +1,3 @@
+aio_pika==6.8.0
+dynaconf
+psutil
