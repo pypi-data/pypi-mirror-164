@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: perceptron-pkg-mirfan57
+Version: 0.0.3
+Summary: A small example package for perceptron
+Home-page: https://github.com/mirfan57/example-pkg
+Author: mirfan57
+Author-email: mohdirfan57@gmail.com
+Project-URL: Bug Tracker, https://github.com/mirfan57/example-pkg/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy (==1.23.2)
+Requires-Dist: pandas (==1.4.3)
+Requires-Dist: joblib (==1.1.0)
+
+# Creating a python package
+
+
+## References - 
+
+* [Official python docs for PYPI packaging](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
