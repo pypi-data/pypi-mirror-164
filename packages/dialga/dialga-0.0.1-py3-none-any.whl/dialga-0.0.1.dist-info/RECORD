@@ -1,0 +1,8 @@
+dialga/__init__.py,sha256=6hWP6hyHNN86FVgxJHltXA3DBrebpH1w6vuI7bjYoUg,25
+dialga/scheduler.py,sha256=j9nLa7leICBctBzO2SXzdRRe6uAGZunPVQcjk2-9i0Y,6665
+dialga/time.py,sha256=iDSNWFygRVnkV_glX7iFcOMykvp1OCus9LccxKi22Kc,9500
+dialga/types.py,sha256=gKLBjGmsRe0lK8Yfztr67hcDTGh0ruOCuOiGGpzJ1UU,1413
+dialga-0.0.1.dist-info/METADATA,sha256=MKnRGLuIK5ZUlARkd27CgixgUfzA6psX1cp1WNbPWAU,4165
+dialga-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+dialga-0.0.1.dist-info/top_level.txt,sha256=GiIc-Vbn91GYaCoaclxPgpX60l1DPrQzC6Qlzs6JAkg,7
+dialga-0.0.1.dist-info/RECORD,,
