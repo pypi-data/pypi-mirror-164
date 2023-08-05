@@ -1,0 +1,3 @@
+[console_scripts]
+telecomlib = telecomlib.shell:run
+
