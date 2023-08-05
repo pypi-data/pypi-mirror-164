@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: aoirint-psdlayer2dirpy
+Version: 20220819.2
+Summary: PSDファイルのレイヤー構造＋画像をディレクトリ構造＋PNGとしてダンプするスクリプト
+Home-page: https://github.com/aoirint/psdlayer2dirpy
+Author: aoirint
+Author-email: aoirint@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: aggdraw (==1.3.15)
+Requires-Dist: attrs (==22.1.0)
+Requires-Dist: docopt (==0.6.2)
+Requires-Dist: imageio (==2.21.1)
+Requires-Dist: networkx (==2.8.5)
+Requires-Dist: numpy (==1.23.1)
+Requires-Dist: packaging (==21.3)
+Requires-Dist: pillow (==9.2.0)
+Requires-Dist: psd-tools (==1.9.21)
+Requires-Dist: pyparsing (==3.0.9)
+Requires-Dist: pywavelets (==1.3.0)
+Requires-Dist: scikit-image (==0.19.3)
+Requires-Dist: scipy (==1.9.0)
+Requires-Dist: tifffile (==2022.8.3)
+
+# psdlayer2dirpy
+
+- GitHub: <https://github.com/aoirint/psdlayer2dirpy>
+- PyPI: <https://pypi.org/project/aoirint-psdlayer2dirpy/>
+- Docker Hub: <https://hub.docker.com/r/aoirint/psdlayer2dirpy>
+
+## Installation
+
+### PyPI
+
+```shell
+pip3 install aoirint_psdlayer2dirpy
+```
+
+### Docker
+
+```shell
+docker pull aoirint/psdlayer2dirpy:20220819.2
+```
+
+## Usage
+
+### PyPI
+
+```shell
+psdlayer2dir file.psd -o output/
+```
+
+
+
+### Docker
+
+```shell
+docker run --rm -v "$PWD:/work" aoirint/psdlayer2dirpy:20220819.2 file.psd -o output/
+```
+
+## Dependencies
+
+- psd-tools: [Docs](https://psd-tools.readthedocs.io/en/latest/) [GitHub](https://github.com/psd-tools/psd-tools) [PyPI](https://pypi.org/project/psd-tools/)
