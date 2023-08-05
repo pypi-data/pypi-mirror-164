@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: pipelinemaker
+Version: 0.0.3a1
+Summary: pipeline maker. this tool allows to create custom GPT-3 pipeline easily
+Home-page: https://pdi.fbk.eu/process-extraction-from-text-overview/
+Author: Patrizio Bellan
+Author-email: patrizio.bellan@gmail.com
+License: MIT
+Keywords: huggingface,PET,dataset,benchmark,process extraction from text,natural language processing,nlp,business process management,bpm
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Utilities
+Requires-Python: !=2.7, >=3.5.*
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+
+# Pipeline Maker
+
+Adopted in "Assisted Knowledge Graph Building Using Pre-Trained Language Models"
+
+This tool allows you to create custom GPT-3 pipelines easily.
+It is possible to integrate python script to manipulate results.
+
+(Documentation under construction)
