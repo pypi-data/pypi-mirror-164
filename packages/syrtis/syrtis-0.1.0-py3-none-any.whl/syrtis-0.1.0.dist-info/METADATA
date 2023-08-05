@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: syrtis
+Version: 0.1.0
+Summary: Thermal solver for crewed Martian habitats
+Author: Sam Ross
+Author-email: smross106@gmail.com
+License: MIT
+Keywords: habitat,thermal,mars,heat
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
+## Syrtis
+
+Syrtis is a Python tool that provides functions for rapidly modelling the thermal performance of crewed space habitats on Mars.

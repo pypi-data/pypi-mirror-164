@@ -1,0 +1,13 @@
+syrtis/__init__.py,sha256=gjp7kVmOdIDPAG-9UNfe9I4eLYArBYYn2j_aYVtDYao,286
+syrtis/configuration.py,sha256=c08w8y2S39TcpxyUe4gKu_nIx1jxkb96rQIKiQ5706c,3057
+syrtis/habitat.py,sha256=glDk1XSRmz_uaKoHo5ICRqN5ejBpfEXatCqFPxtHw9A,54317
+syrtis/material.py,sha256=bqCALQSxezY-Miu00l_g85rvQLoyrQ6SwVHK00jqhgE,7939
+syrtis/shell.py,sha256=9jzd6U4Ajdfr6R7RVDZaAS5dzpkf5_9pCoUEKsyLXgg,21834
+syrtis/solver.py,sha256=g5MJLgWGMFXBShWWorlaU_gk4HWBSYECA5x9xi6hxuE,20190
+syrtis/solvermanager.py,sha256=k6padcaWFanzCzMX4TE7ZRIG3C0CD6KlQZNh7ynUWFs,12577
+syrtis/tools.py,sha256=Zrb7g5giGD52f5Y8kLtx7-Wl8Jt8XK0OGWdtuefT7_s,4032
+syrtis-0.1.0.dist-info/LICENSE,sha256=t7CtW95ssnJocxOwcKc3bC73GOf6jypbJ-Xal8et00c,1087
+syrtis-0.1.0.dist-info/METADATA,sha256=DIyPcYp0q7Fop6z4Zuk29MpYYWdCbSihHxQfy8dLrwo,757
+syrtis-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+syrtis-0.1.0.dist-info/top_level.txt,sha256=mqFD3SISwcFM_F3JfNuJuez-1vFgLOfUTc18Pa0Heqs,7
+syrtis-0.1.0.dist-info/RECORD,,
