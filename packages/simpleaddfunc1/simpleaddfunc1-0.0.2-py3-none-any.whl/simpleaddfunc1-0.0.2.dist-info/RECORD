@@ -1,0 +1,13 @@
+func/__init__.py,sha256=oTbvwqOxJqv-gKDfAB6vbWG1ncF4rQ0KGrd2gIySxr8,50
+func/add.py,sha256=IQUwXfhXMk9QFQHH5pWzGYgiIIjywdTv-HCton6kDP0,38
+func/sub.py,sha256=Gyv5QztptMF8y5XSWhYsCDjxZLhltqW9opDo1FxCkj0,32
+simpleaddfunc/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+simpleaddfunc/add.py,sha256=IQUwXfhXMk9QFQHH5pWzGYgiIIjywdTv-HCton6kDP0,38
+simpleaddfunc/sub.py,sha256=Gyv5QztptMF8y5XSWhYsCDjxZLhltqW9opDo1FxCkj0,32
+simpleaddfunc1/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+simpleaddfunc1/add.py,sha256=IQUwXfhXMk9QFQHH5pWzGYgiIIjywdTv-HCton6kDP0,38
+simpleaddfunc1/sub.py,sha256=Gyv5QztptMF8y5XSWhYsCDjxZLhltqW9opDo1FxCkj0,32
+simpleaddfunc1-0.0.2.dist-info/METADATA,sha256=aKPgRd3_XSPhMyWCrHbEi4tPBAdP-OrivbF5SRAKOzc,240
+simpleaddfunc1-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+simpleaddfunc1-0.0.2.dist-info/top_level.txt,sha256=aO2GiEV3sQZedv2nxGpsjNsXcI1exudKFicMpGgUPBU,23
+simpleaddfunc1-0.0.2.dist-info/RECORD,,
