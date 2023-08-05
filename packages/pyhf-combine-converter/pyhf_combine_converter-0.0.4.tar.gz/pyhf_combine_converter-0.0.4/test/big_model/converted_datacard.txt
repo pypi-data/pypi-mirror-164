@@ -1,0 +1,157 @@
+imax 3
+jmax 8
+kmax 102
+shapes data_obs  CRtt_cuts  shapes.root  CRtt_cuts/data_obs
+shapes sbottom_600_280_150  CRtt_cuts  shapes.root  CRtt_cuts/sbottom_600_280_150  CRtt_cuts/sbottom_600_280_150_$SYSTEMATIC
+shapes diboson  CRtt_cuts  shapes.root  CRtt_cuts/diboson  CRtt_cuts/diboson_$SYSTEMATIC
+shapes W  CRtt_cuts  shapes.root  CRtt_cuts/W  CRtt_cuts/W_$SYSTEMATIC
+shapes Z  CRtt_cuts  shapes.root  CRtt_cuts/Z  CRtt_cuts/Z_$SYSTEMATIC
+shapes ttZ  CRtt_cuts  shapes.root  CRtt_cuts/ttZ  CRtt_cuts/ttZ_$SYSTEMATIC
+shapes ttW  CRtt_cuts  shapes.root  CRtt_cuts/ttW  CRtt_cuts/ttW_$SYSTEMATIC
+shapes st  CRtt_cuts  shapes.root  CRtt_cuts/st  CRtt_cuts/st_$SYSTEMATIC
+shapes ttbar  CRtt_cuts  shapes.root  CRtt_cuts/ttbar  CRtt_cuts/ttbar_$SYSTEMATIC
+shapes ttH  CRtt_cuts  shapes.root  CRtt_cuts/ttH  CRtt_cuts/ttH_$SYSTEMATIC
+shapes data_obs  SR_metsigST  shapes.root  SR_metsigST/data_obs
+shapes sbottom_600_280_150  SR_metsigST  shapes.root  SR_metsigST/sbottom_600_280_150  SR_metsigST/sbottom_600_280_150_$SYSTEMATIC
+shapes diboson  SR_metsigST  shapes.root  SR_metsigST/diboson  SR_metsigST/diboson_$SYSTEMATIC
+shapes W  SR_metsigST  shapes.root  SR_metsigST/W  SR_metsigST/W_$SYSTEMATIC
+shapes Z  SR_metsigST  shapes.root  SR_metsigST/Z  SR_metsigST/Z_$SYSTEMATIC
+shapes ttZ  SR_metsigST  shapes.root  SR_metsigST/ttZ  SR_metsigST/ttZ_$SYSTEMATIC
+shapes ttW  SR_metsigST  shapes.root  SR_metsigST/ttW  SR_metsigST/ttW_$SYSTEMATIC
+shapes st  SR_metsigST  shapes.root  SR_metsigST/st  SR_metsigST/st_$SYSTEMATIC
+shapes ttbar  SR_metsigST  shapes.root  SR_metsigST/ttbar  SR_metsigST/ttbar_$SYSTEMATIC
+shapes ttH  SR_metsigST  shapes.root  SR_metsigST/ttH  SR_metsigST/ttH_$SYSTEMATIC
+shapes data_obs  CRz_cuts  shapes.root  CRz_cuts/data_obs
+shapes sbottom_600_280_150  CRz_cuts  shapes.root  CRz_cuts/sbottom_600_280_150  CRz_cuts/sbottom_600_280_150_$SYSTEMATIC
+shapes diboson  CRz_cuts  shapes.root  CRz_cuts/diboson  CRz_cuts/diboson_$SYSTEMATIC
+shapes Z  CRz_cuts  shapes.root  CRz_cuts/Z  CRz_cuts/Z_$SYSTEMATIC
+shapes ttZ  CRz_cuts  shapes.root  CRz_cuts/ttZ  CRz_cuts/ttZ_$SYSTEMATIC
+shapes ttbar  CRz_cuts  shapes.root  CRz_cuts/ttbar  CRz_cuts/ttbar_$SYSTEMATIC
+shapes ttH  CRz_cuts  shapes.root  CRz_cuts/ttH  CRz_cuts/ttH_$SYSTEMATIC
+
+---------------------------------
+bin CRtt_cuts SR_metsigST CRz_cuts 
+observation 143.0 47.0 242.0 
+---------------------------------
+bin     CRtt_cuts    CRtt_cuts    CRtt_cuts    CRtt_cuts    CRtt_cuts    CRtt_cuts    CRtt_cuts    CRtt_cuts    CRtt_cuts    SR_metsigST    SR_metsigST    SR_metsigST    SR_metsigST    SR_metsigST    SR_metsigST    SR_metsigST    SR_metsigST    SR_metsigST    CRz_cuts    CRz_cuts    CRz_cuts    CRz_cuts    CRz_cuts    CRz_cuts    
+process     sbottom_600_280_150    diboson    W    Z    ttZ    ttW    st    ttbar    ttH    sbottom_600_280_150    diboson    W    Z    ttZ    ttW    st    ttbar    ttH    sbottom_600_280_150    diboson    Z    ttZ    ttbar    ttH    
+process     -3     3     1     2     8     7     5     9     6     -3     3     1     2     8     7     5     9     6     -3     3     2     8     9     6     
+rate     14.757740020751953     2.7669408321380615     17.259668350219727     0.32109034061431885     7.608479976654053     3.581693410873413     30.75180435180664     108.2607421875     2.8792054653167725     1.1052561849355698     1.8248873502016068     3.457696780562401     17.77493679523468     3.6866814345121384     0.6274692863225937     6.447960793972015     6.9292077124118805     0.27284668758511543     0.34363430738449097     5.920393466949463     53.178077697753906     13.081372261047363     3.0911614894866943     0.09944339096546173     
+---------------------------------
+EG_RESOLUTION_ALL  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EG_RESOLUTION_ALL  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EG_SCALE_ALL  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EG_SCALE_ALL  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_ChargeIDSel_TOTAL_1NPCOR_PLUS_UNCOR  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_ChargeIDSel_TOTAL_1NPCOR_PLUS_UNCOR  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_ID_TOTAL_1NPCOR_PLUS_UNCOR  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_ID_TOTAL_1NPCOR_PLUS_UNCOR  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_Iso_TOTAL_1NPCOR_PLUS_UNCOR  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_Iso_TOTAL_1NPCOR_PLUS_UNCOR  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_Reco_TOTAL_1NPCOR_PLUS_UNCOR  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_Reco_TOTAL_1NPCOR_PLUS_UNCOR  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_TriggerEff_TOTAL_1NPCOR_PLUS_UNCOR  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_TriggerEff_TOTAL_1NPCOR_PLUS_UNCOR  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_Trigger_TOTAL_1NPCOR_PLUS_UNCOR  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+EL_EFF_Trigger_TOTAL_1NPCOR_PLUS_UNCOR  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_B_systematics  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_B_systematics  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_C_systematics  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_C_systematics  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_Light_systematics  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_Light_systematics  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_extrapolation  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_extrapolation  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_extrapolation_from_charm  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+FT_EFF_extrapolation_from_charm  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_EtaIntercalibration_NonClosure_highE  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_EtaIntercalibration_NonClosure_highE  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_EtaIntercalibration_NonClosure_negEta  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_EtaIntercalibration_NonClosure_negEta  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_EtaIntercalibration_NonClosure_posEta  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_EtaIntercalibration_NonClosure_posEta  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_Flavor_Response  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_Flavor_Response  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_GroupedNP_1  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_GroupedNP_1  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_GroupedNP_2  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_GroupedNP_2  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_GroupedNP_3  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_GroupedNP_3  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_DataVsMC  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_DataVsMC  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_1  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_1  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_2  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_2  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_3  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_3  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_4  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_4  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_5  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_5  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_6  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_6  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_7restTerm  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JER_EffectiveNP_7restTerm  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JvtEfficiency  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+JET_JvtEfficiency  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MET_SoftTrk_ResoPara  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MET_SoftTrk_ResoPerp  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MET_SoftTrk_Scale  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MET_SoftTrk_Scale  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_BADMUON_STAT  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_BADMUON_STAT  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_BADMUON_SYS  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_BADMUON_SYS  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_ISO_STAT  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_ISO_STAT  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_ISO_SYS  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_ISO_SYS  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_RECO_STAT  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_RECO_STAT  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_RECO_SYS  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_RECO_SYS  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TTVA_STAT  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TTVA_STAT  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TTVA_SYS  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TTVA_SYS  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TrigStatUncertainty  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TrigStatUncertainty  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TrigSystUncertainty  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_EFF_TrigSystUncertainty  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_ID  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_ID  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_MS  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_MS  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_SAGITTA_RESBIAS  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_SAGITTA_RESBIAS  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_SAGITTA_RHO  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_SAGITTA_RHO  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_SCALE  shape  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+MUON_SCALE  shape?  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  
+SigRad  shape?  0.9985/1.0319  -       -       -       -       -       -       -       -       0.9985/1.0319  -       -       -       -       -       -       -       -       0.9985/1.0319  -       -       -       -       -       
+Z_theory_SR  shape  -       -       -       -       -       -       -       -       -       -       -       -       1.0  -       -       -       -       -       -       -       -       -       -       -       
+lumi  lnN  0.983/1.017  0.983/1.017  0.983/1.017  -       0.983/1.017  0.983/1.017  -       -       0.983/1.017  0.983/1.017  0.983/1.017  0.983/1.017  -       0.983/1.017  0.983/1.017  -       -       0.983/1.017  0.983/1.017  0.983/1.017  -       0.983/1.017  -       0.983/1.017  
+ttH_theory  shape?  -       -       -       -       -       -       -       -       0.7/1.3  -       -       -       -       -       -       -       -       0.7/1.3  -       -       -       -       -       0.7/1.3  
+ttZ_theory  shape?  -       -       -       -       0.88/1.12  -       -       -       -       -       -       -       -       0.88/1.12  -       -       -       -       -       -       -       0.88/1.12  -       -       
+ttbar_FSR  shape  -       -       -       -       -       -       -       1.0  -       -       -       -       -       -       -       -       1.0  -       -       -       -       -       1.0  -       
+ttbar_Gen  shape  -       -       -       -       -       -       -       1.0  -       -       -       -       -       -       -       -       1.0  -       -       -       -       -       1.0  -       
+ttbar_ISR_Down  shape  -       -       -       -       -       -       -       1.0  -       -       -       -       -       -       -       -       1.0  -       -       -       -       -       1.0  -       
+ttbar_ISR_Up  shape  -       -       -       -       -       -       -       1.0  -       -       -       -       -       -       -       -       1.0  -       -       -       -       -       1.0  -       
+ttbar_PS  shape  -       -       -       -       -       -       -       1.0  -       -       -       -       -       -       -       -       1.0  -       -       -       -       -       1.0  -       
+
+---------------------------------
+mu_z rateParam CRtt_cuts Z 1
+mu_ttbar rateParam CRtt_cuts st 1
+mu_ttbar rateParam CRtt_cuts ttbar 1
+mu_z rateParam CRz_cuts Z 1
+mu_ttbar rateParam CRz_cuts st 1
+mu_ttbar rateParam CRz_cuts ttbar 1
+mu_z rateParam SR_metsigST Z 1
+mu_ttbar rateParam SR_metsigST ttbar 1
+
+---------------------------------
+CRtt_cuts autoMCStats 0 0 2
+CRz_cuts autoMCStats 0 0 2
+SR_metsigST autoMCStats 0 0 2
