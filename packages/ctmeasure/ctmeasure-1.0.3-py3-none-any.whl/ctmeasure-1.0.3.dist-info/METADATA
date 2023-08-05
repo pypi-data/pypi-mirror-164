@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ctmeasure
+Version: 1.0.3
+Author: YCLai
+Author-email: s93802@gmail.com
+Requires-Dist: pyvisa
+Requires-Dist: pymeasure
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: Ipython
+Requires-Dist: scipy
+Requires-Dist: qcodes
+Requires-Dist: statistics
+
