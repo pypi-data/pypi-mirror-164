@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cmdbin"
+version = "1.0.0"
+authors = [
+    { name = "Luke Schwager", email = "luke@blucobalt.dev" }
+]
+description = "cli for uploading to cmdbin.cc"
+readme = "README.md"
+license = {text = "BSD 3-Clause License"}
+requires-python = ">=3.5"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/blucobalt/cmdbin.py"
+"Bug Tracker" = "https://github.com/blucobalt/cmdbin.py/issues"
+
+[project.scripts]
+cmdbin="cmdbin.__main__:main"

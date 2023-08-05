@@ -1,0 +1,2 @@
+[console_scripts]
+cmdbin = cmdbin.__main__:main

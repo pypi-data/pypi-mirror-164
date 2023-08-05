@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+cmdbin/__init__.py
+cmdbin/__main__.py
+cmdbin/v1.py
+cmdbin.egg-info/PKG-INFO
+cmdbin.egg-info/SOURCES.txt
+cmdbin.egg-info/dependency_links.txt
+cmdbin.egg-info/entry_points.txt
+cmdbin.egg-info/requires.txt
+cmdbin.egg-info/top_level.txt
