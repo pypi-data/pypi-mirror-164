@@ -1,0 +1,7 @@
+utilities_HoodyBoss/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utilities_HoodyBoss/gcp_utilities.py,sha256=qVqlJwtim7UIyVfCHl5lUgk1cwLs-r7-F7T4SscQEL4,12070
+utilities_HoodyBoss/logger_wrapper.py,sha256=qcLvN8GeEJoLCM5WvFW5J1CBRsfY7aoupP3CYM9m7To,2326
+dogcputils-1.0.0.dist-info/METADATA,sha256=BrAxCQ67uFWoxjeoNWt9dvMoIVrK8_Qo0ZKhcxeKa3s,552
+dogcputils-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+dogcputils-1.0.0.dist-info/top_level.txt,sha256=CyK8ChyCpRCK_fXoYAykrVQ4i8sQCo1G3QbXP4WoCPw,20
+dogcputils-1.0.0.dist-info/RECORD,,
