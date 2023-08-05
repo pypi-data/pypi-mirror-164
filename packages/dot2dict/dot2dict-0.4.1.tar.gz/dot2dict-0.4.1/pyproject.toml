@@ -1,0 +1,58 @@
+[tool.poetry]
+name = "dot2dict"
+version = "0.4.1"
+description = "JSON dot notation to Python Dictionary 🐍 / Ruby Hash ♦️ Notation Converter"
+authors = [ "Sumanth <sumanthreddystar@gmail.com>" ]
+maintainers = [ "Sumanth <sumanthreddystar@gmail.com>" ]
+readme = "README.md"
+
+homepage = "https://pypi.org/project/dot2dict/"
+repository = "https://github.com/insumanth/dot2dict"
+documentation = "https://github.com/insumanth/dot2dict/blob/main/README.md"
+keywords = [
+    "cli",
+    "json",
+    "dot_notation",
+    "converter",
+    "dot to dictionary",
+    "dot to hash",
+    "Python Dictionary",
+    "Ruby Hash",
+]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/python-poetry/poetry/issues"
+
+
+
+[tool.poetry.dependencies]
+python = "^3.6"
+rich = "^12.5.1"
+typer = {extras = ["all"], version = "^0.6.1"}
+
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+
+[tool.poetry.scripts]
+dot2dict = "dot2dict.dot2dict_typer:start"
+
+
+
+
+
+
+
+
+
+
+
