@@ -1,0 +1,6 @@
+pyvista>=0.22.4
+PyQt5>=5.11.3
+matplotlib
+pyvistaqt
+qdarkstyle
+qtconsole

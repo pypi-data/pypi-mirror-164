@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: pyvista_gui
+Version: 0.1.0
+Summary: Easier Pythonic interface to VTK
+Home-page: https://github.com/pyvista/pyvista_gui
+Author: PyVista Developers
+Author-email: info@pyvista.org
+License: MIT
+Keywords: vtk numpy plotting mesh gui
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+
+# PyVista-GUI
+
+A plug 'n' play framework for building commercial-grade applications built on
+top of PyVista. This module makes it simple to build (and prototype) an
+application for processing and visualizing 3D data.
+
+## Disclaimer
+
+This is currently a work in progress - things will break and change!
+
+
+## Get Started
+
+To launch, simply run:
+
+```bash
+python -m pyvista_gui
+```
