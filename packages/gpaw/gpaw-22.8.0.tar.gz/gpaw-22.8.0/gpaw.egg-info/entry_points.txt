@@ -1,0 +1,6 @@
+[ase.ioformats]
+gpaw-yaml = gpaw.entry_points:gpaw_yaml
+
+[console_scripts]
+gpaw = gpaw.cli.main:main
+
