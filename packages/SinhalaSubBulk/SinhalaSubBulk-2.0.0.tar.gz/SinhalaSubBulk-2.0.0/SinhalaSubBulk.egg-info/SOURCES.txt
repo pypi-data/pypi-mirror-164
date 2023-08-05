@@ -1,0 +1,8 @@
+README.md
+setup.py
+SinhalaSubBulk/__init__.py
+SinhalaSubBulk.egg-info/PKG-INFO
+SinhalaSubBulk.egg-info/SOURCES.txt
+SinhalaSubBulk.egg-info/dependency_links.txt
+SinhalaSubBulk.egg-info/requires.txt
+SinhalaSubBulk.egg-info/top_level.txt
