@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "yoloair"
+version = "2022.08.20"
+description = ""
+authors = ["iscyy"]
+maintainers = ["David Francos <me@davidfrancos.net>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+torch = ">=1.12"
+PyYAML = ">=5.3.1"
+tqdm = ">=4.41.0"
+matplotlib = ">=3.2.2"
+numpy = ">=1.18.5"
+opencv-python = ">=4.1.2"
+Pillow = ">=7.1.2"
+requests = ">=2.23.0"
+torchvision = ">=0.8.1"
+tensorboard = ">=2.4.1"
+pandas = ">=1.1.4"
+seaborn = ">=0.11.0"
+thop = "^0.1.1"
+flops = "^0.1.4"
+computation = "*"
+timm = "^0.6.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+yoloair_train = "yoloair.train:entrypoint"
+yoloair_detect = "yoloair.detect:entrypoint"
