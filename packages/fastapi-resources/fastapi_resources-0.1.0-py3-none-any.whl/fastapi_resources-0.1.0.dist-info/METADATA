@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: fastapi-resources
+Version: 0.1.0
+Summary: 
+Author: Ben Davis
+Author-email: ben@bencdavis.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: fastapi (>=0.70.0,<0.71.0)
+Requires-Dist: sqlmodel (>=0.0.4,<0.0.5)
+Requires-Dist: uvicorn[standard] (>=0.15.0,<0.16.0)
