@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/devaraj_saravana_housing.egg-info/PKG-INFO
+src/devaraj_saravana_housing.egg-info/SOURCES.txt
+src/devaraj_saravana_housing.egg-info/dependency_links.txt
+src/devaraj_saravana_housing.egg-info/requires.txt
+src/devaraj_saravana_housing.egg-info/top_level.txt
