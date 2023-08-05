@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/odoo_api_wrapper/__init__.py
+src/odoo_api_wrapper/api.py
+src/odoo_api_wrapper/model.py
+src/odoo_api_wrapper.egg-info/PKG-INFO
+src/odoo_api_wrapper.egg-info/SOURCES.txt
+src/odoo_api_wrapper.egg-info/dependency_links.txt
+src/odoo_api_wrapper.egg-info/top_level.txt
