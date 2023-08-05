@@ -1,0 +1,4 @@
+[console_scripts]
+devpack_add_readmes = devpack.entry_points.batch:recursively_add_readmes_from_here
+devpack_install = devpack.entry_points.cli:install_develop
+devpack_uninstall = devpack.entry_points.cli:uninstall
