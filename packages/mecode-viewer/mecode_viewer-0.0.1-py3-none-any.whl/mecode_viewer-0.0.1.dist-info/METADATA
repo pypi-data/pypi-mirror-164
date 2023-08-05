@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: mecode-viewer
+Version: 0.0.1
+Summary: Simple GCode Viewer
+Home-page: https://github.com/rtellez700/mecode_viewer.git
+Download-URL: https://github.com/rtellez700/mecode_viewer/tarball/master
+Author: Rodrigo Telles
+Author-email: rtelles@g.harvard.edu
+License: MIT
+Keywords: gcode,3dprinting,cnc,reprap,additive
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
+# mecode_viewer
+
+## Installation
+```
+    pip install git+https://github.com/rtellez700/mecode_viewer.git
+```
+
+## Upgrading
+```
+    pip install git+https://github.com/rtellez700/mecode_viewer.git --upgrade
+```
+
