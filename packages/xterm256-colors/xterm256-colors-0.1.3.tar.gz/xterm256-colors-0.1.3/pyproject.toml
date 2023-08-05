@@ -1,0 +1,48 @@
+[tool.poetry]
+name = "xterm256-colors"
+version = "0.1.3"
+description = "Handy utilities for interacting with xterm-256color terminal emulators"
+readme = "README.md"
+homepage = "https://github.com/theY4Kman/xterm256-colors"
+repository = "https://github.com/theY4Kman/xterm256-colors"
+authors = ["Zach \"theY4Kman\" Kanzler <they4kman@gmail.com>"]
+license = "MIT"
+
+packages = [
+  { include = "xterm256_colors" },
+  { include = "LICENSE", format = "sdist" },
+  { include = "CHANGELOG.md", format = "sdist" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+colormath = { version = "^3.0.0", optional = true }
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.971"
+pytest = "^7.1.2"
+pytest-camel-collect = "^1.0.2"
+pytest-lambda = "^2.2.0"
+
+[tool.poetry.extras]
+colormath = ["colormath"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+addopts = "--verbosity=2 --tb=short --doctest-modules"
+
+# Only find tests underneath the tests/ directory, and doctests in package
+testpaths = ["tests", "xterm256_colors"]
+
+# Only search for tests within files matching these patterns
+python_files = "tests.py test_*.py"
+
+# Discover tests within classes matching these patterns
+# NOTE: the dash represents a word boundary (functionality provided by pytest-camel-collect)
+python_classes = "Test-* Describe-* Context-* With-* Without-* For-* When-* If-* Case-*"
+
+# Only methods matching these patterns are considered tests
+python_functions = "test_* it_* its_*"
