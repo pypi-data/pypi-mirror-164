@@ -1,0 +1,12 @@
+name: "txp-model-serving"
+project_id: "prj_3YRUcZkufRu429SjvigKhLrP"
+compute_config: txp-model-serving-compute-0-workers
+runtime_env:
+  working_dir: "gs://txp-model-serving/anyscale_runtime/txp-model-prediction-workdir.zip"
+  py_modules:
+    - gs://txp-model-serving/anyscale_runtime/txp.zip
+    - gs://txp-model-serving/anyscale_runtime/txp_cloud.zip
+    - gs://txp-model-serving/anyscale_runtime/txp_ml.zip
+cluster_env: txp-model-serving-env:1
+entrypoint: "python -u prediction_service.py --dataset='telemetry' --subscription_id='txp-model-serving-signals-sub' --events_and_states_dataset='ml_events_and_states' --notifications_topic='juan-borrar'"
+healthcheck_url: "/"
