@@ -1,0 +1,5 @@
+setup.py
+fatsrats.egg-info/PKG-INFO
+fatsrats.egg-info/SOURCES.txt
+fatsrats.egg-info/dependency_links.txt
+fatsrats.egg-info/top_level.txt
