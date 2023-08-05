@@ -1,0 +1,3 @@
+[console_scripts]
+sina_seifouri = sina_seifouri:main
+
