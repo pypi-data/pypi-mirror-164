@@ -1,0 +1,1 @@
+# gmanka yml
