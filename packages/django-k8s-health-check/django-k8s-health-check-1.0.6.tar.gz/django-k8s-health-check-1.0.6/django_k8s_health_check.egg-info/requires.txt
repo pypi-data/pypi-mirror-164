@@ -1,0 +1,9 @@
+django
+djangorestframework
+
+[dev]
+isort
+autopep8
+bandit
+prospector
+coverage
