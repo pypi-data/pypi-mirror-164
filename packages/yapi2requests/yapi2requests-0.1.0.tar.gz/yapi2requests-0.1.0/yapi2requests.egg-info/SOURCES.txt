@@ -1,0 +1,11 @@
+README.md
+setup.py
+yapi2requests/__init__.py
+yapi2requests/core.py
+yapi2requests/templates.py
+yapi2requests/utils.py
+yapi2requests.egg-info/PKG-INFO
+yapi2requests.egg-info/SOURCES.txt
+yapi2requests.egg-info/dependency_links.txt
+yapi2requests.egg-info/requires.txt
+yapi2requests.egg-info/top_level.txt
