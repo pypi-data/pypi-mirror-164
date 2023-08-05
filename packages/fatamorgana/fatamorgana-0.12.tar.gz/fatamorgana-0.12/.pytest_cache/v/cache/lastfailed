@@ -1,0 +1,8 @@
+{
+  "fatamorgana/test/test_files_nom.py::test_file_4": true,
+  "fatamorgana/test/test_files_nom.py::test_file_5": true,
+  "fatamorgana/test/test_files_nom.py::test_file_7": true,
+  "fatamorgana/test/test_files_paths.py::test_file2": true,
+  "fatamorgana/test/test_files_paths.py::test_file_3": true,
+  "fatamorgana/test/test_files_placements.py::test_file_2_3_5": true
+}

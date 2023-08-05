@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+*.idea
+.mypy_cache/
+
+build
+dist
+fatamorgana.egg-info
+docs
+
+*.gds
+*.gds.gz
+*.oas
+*.oas.gz
