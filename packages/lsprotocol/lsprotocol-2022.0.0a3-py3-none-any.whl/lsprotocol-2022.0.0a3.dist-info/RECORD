@@ -1,0 +1,8 @@
+lsprotocol/__init__.py,sha256=5K7xjH5l065Dv7kNZIQDG5mwE1Ua6i_WoRBc0NdSGfE,96
+lsprotocol/converters.py,sha256=AaiTiLgQ7yVcZGD8Wz5ljkWdDtGuC92Dk_T2SPiQegw,7650
+lsprotocol/types.py,sha256=z7T7ZOSA1l5TsM_VZQcPRbR7p9Dj6KWD4L-ria3rg84,445212
+lsprotocol/validators.py,sha256=uoQ3yM_JCUU8Z5IwduO5VqVVkNv2qDRm1BOifH5fhMI,1240
+lsprotocol-2022.0.0a3.dist-info/LICENSE,sha256=mQaUD2Gx8LUz-n2ZuvVReLKAj74RPqUd-_rYVyzNXys,1162
+lsprotocol-2022.0.0a3.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+lsprotocol-2022.0.0a3.dist-info/METADATA,sha256=IB2rdBwRemH45ukbcg6n-qYPjgm2qURaBGgxjaT1PHI,2103
+lsprotocol-2022.0.0a3.dist-info/RECORD,,
