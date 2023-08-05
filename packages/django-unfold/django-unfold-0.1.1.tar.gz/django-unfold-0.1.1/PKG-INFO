@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: django-unfold
+Version: 0.1.1
+Summary: Clean & minimal Django admin theme based on Tailwind CSS
+Home-page: https://github.com/remastr/django-unfold
+License: MIT
+Keywords: django,admin,tailwind,theme
+Requires-Python: >=3.8
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: django (>=3.2)
+Project-URL: Repository, https://github.com/remastr/django-unfold
