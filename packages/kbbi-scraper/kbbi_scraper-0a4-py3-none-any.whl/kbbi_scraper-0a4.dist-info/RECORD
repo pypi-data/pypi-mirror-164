@@ -1,0 +1,10 @@
+kbbi_scraper/__init__.py,sha256=WcqP7M-zIlNi7W9MgakUZbMP36O-NN2007iQB6rqXWk,94
+kbbi_scraper/constants.py,sha256=pLwWvbxD0YQWicGXsXYFNNrdJLCB9CBc7q9pL5FhWlo,1481
+kbbi_scraper/meaning.py,sha256=-mRLzGmox0SPXAFGlXYntm7NBj5qo66F1Shhkgn8tDE,544
+kbbi_scraper/utils.py,sha256=UMe0R0s-MrM7PtobrPPqLuSUMA_QEm3BVVvqyyg5TJk,700
+kbbi_scraper/word.py,sha256=CiwtByWL4iNQMju6O0_hpFB7h5eec_vJDaGNAcb2BsM,4474
+kbbi_scraper-0a4.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+kbbi_scraper-0a4.dist-info/METADATA,sha256=nNnimxu81Joh3u97i4_IKbcNI6Qsv9aQL3BN8uxKK9g,355
+kbbi_scraper-0a4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+kbbi_scraper-0a4.dist-info/top_level.txt,sha256=0IWSu_ViwplTqalXkpuYz68sg1cyURLDngj-QcppMRo,13
+kbbi_scraper-0a4.dist-info/RECORD,,
