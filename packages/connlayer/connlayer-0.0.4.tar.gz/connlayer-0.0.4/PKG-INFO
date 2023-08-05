@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: connlayer
+Version: 0.0.4
+Summary: Just an example of connection layer
+Home-page: https://github.com/qazijaved/abstractlayer
+Download-URL: https://github.com/qazijaved/abstractlayer/archive/refs/heads/main.zip
+Author: Kazi Javed Alam
+Author-email: qazijavedjim007@gmail.com
+License: MIT
+Keywords: connection layer,abstract layer for different connection,abstract
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+
+UNKNOWN
+
