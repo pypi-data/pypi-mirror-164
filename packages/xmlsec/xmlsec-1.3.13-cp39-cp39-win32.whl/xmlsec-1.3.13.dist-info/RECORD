@@ -1,0 +1,11 @@
+xmlsec.cp39-win32.pyd,sha256=38utXgztR_hGCmfhzMQhXUHEDfXIsLeNxf16QuE9dm0,2978304
+xmlsec/__init__.pyi,sha256=0srtc74NvcuI_vq-LqkptnHUE4qhG9vb8TDTNPOL6RA,3221
+xmlsec/constants.pyi,sha256=GmbXksU64AwdQrORnScdB2-isc5T4xOIcBpBo9WiClE,4848
+xmlsec/py.typed,sha256=aA7Y5VGBqhYTIp-C3dn7ulWDHBkQmHCroOX1FhPiwNs,63
+xmlsec/template.pyi,sha256=Xz_Y4vwsSVBRa11j1rS--F72ugBUWWsssO6u1KEfw-A,1887
+xmlsec/tree.pyi,sha256=zajmDw5shSzXwN5nUjsyzua1nRy4DoSx77l_6zD79yI,686
+xmlsec-1.3.13.dist-info/LICENSE,sha256=_eNcEIGvBjL7VmVveYuF0QJNrUqHKhwMRC7087p5Sgc,1078
+xmlsec-1.3.13.dist-info/METADATA,sha256=Tuv_0C4TMvV3aewnqHT6ASylXxzu5h_nxmvGkj1wDyk,6979
+xmlsec-1.3.13.dist-info/WHEEL,sha256=X8cdtIU66DYAo85qapZVraRkrIO1r6o3xQTPmTpdkp0,96
+xmlsec-1.3.13.dist-info/top_level.txt,sha256=wMJ_ZeZ8UpcV61weMTdYG9hzzYWfyJ2Nf3fmZ4VNqwQ,7
+xmlsec-1.3.13.dist-info/RECORD,,
