@@ -1,0 +1,2 @@
+[console_scripts]
+monitor-server = monitor_server.app:main
