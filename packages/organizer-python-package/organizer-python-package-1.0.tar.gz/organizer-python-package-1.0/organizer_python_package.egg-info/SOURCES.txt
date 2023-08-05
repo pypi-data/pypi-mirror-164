@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+requirements.txt
+setup.py
+organizer-python-package/__init__.py
+organizer-python-package/constant.py
+organizer_python_package.egg-info/PKG-INFO
+organizer_python_package.egg-info/SOURCES.txt
+organizer_python_package.egg-info/dependency_links.txt
+organizer_python_package.egg-info/top_level.txt
