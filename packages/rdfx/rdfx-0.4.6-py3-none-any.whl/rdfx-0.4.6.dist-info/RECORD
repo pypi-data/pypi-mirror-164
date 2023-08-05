@@ -1,0 +1,11 @@
+rdfx/__init__.py,sha256=VvhzqQKdbCVEMy3MuUiFfMoPDqptPU4-x39PiyQ8yrg,19
+rdfx/clean_ttl.py,sha256=ImFC1Zf9MDeqpIZW_rbKMZxZ5zc5nTKqHFy9_wyWW_0,161
+rdfx/floods.ttl,sha256=afXPlbngMKQ_dj2uvaHQEZFZRV-ybYhQ3p8I-02o-A0,1406785
+rdfx/persistence_systems.py,sha256=36h0_HpvGCkO5vR3QH0K1BK4rT4tff11Kn2IfQWkPRM,30807
+rdfx/rdfx_cli.py,sha256=cCvb7GRS-cSaRLsngY2WCzop5rFrG6-LREkvPEervUs,6727
+rdfx/test.ttl,sha256=VM2igQE0vLlhnDQGzCBgyl5hhxrnLJX-YLcu9pimUi0,15615
+rdfx/testbackup.ttl,sha256=Me1xp3h5vuyr8BDxW6OakZ5qqnutbZTwdTRpt8MykpA,15616
+rdfx-0.4.6.dist-info/LICENSE,sha256=fTqV5eBpeAZO0_jit8j4Ref9ikBSlHJ8xwj5TLg7gFk,7817
+rdfx-0.4.6.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+rdfx-0.4.6.dist-info/METADATA,sha256=Dz4vXHn1NM4JZZqYuF-oImGahRQ4NkQIA-591-Gv1lg,4668
+rdfx-0.4.6.dist-info/RECORD,,
