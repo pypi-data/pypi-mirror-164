@@ -1,0 +1,76 @@
+# ====================================================================================== #
+[tool.poetry]
+name = "deap-er"
+version = "2.0.0"
+description = "Distributed Evolutionary Algorithms in Python - Entirely Reworked"
+readme = "README.md"
+license = "MIT License"
+authors = [
+    "Mattias Aabmets <mattias.aabmets@gmail.com>"
+]
+keywords = [
+    "deap",
+    "evolution",
+    "evolutionary algorithms",
+    "genetic algorithms",
+    "genetic programming",
+    "symbolic regression",
+    "hypervolume"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Software Development",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Operating System :: OS Independent"
+]
+packages = [
+    {include = "deap_er"}
+]
+include = [
+    "deap_er",
+    "deap_er.*",
+    "deap_er.*.*"
+]
+
+
+# ====================================================================================== #
+[tool.poetry.urls]
+"Repository" = "https://github.com/aabmets/deap-er"
+"Documentation" = "https://deap-er.readthedocs.io"
+
+
+# ====================================================================================== #
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+numpy = "^1.23.1"
+scipy = "^1.8.1"
+dill = "^0.3.5"
+
+
+# ====================================================================================== #
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+coverage = "^6.4.2"
+Sphinx = "^5.0.2"
+sphinx-rtd-theme = "1.0.0"
+sphinx_design = "^0.2.0"
+
+
+# ====================================================================================== #
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]
+
+
+# ==================================================================================== #
+[tool.pytest.ini_options]
+cache_dir = ".cache"
+testpaths = ["tests"]
+console_output_style = "count"
+filterwarnings = ["ignore::DeprecationWarning"]
