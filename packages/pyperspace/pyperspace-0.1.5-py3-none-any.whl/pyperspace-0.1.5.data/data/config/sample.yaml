@@ -1,0 +1,19 @@
+data_dir: ./test0/
+
+datasets:
+    num_workers: 3
+    mode: tcp
+    buffers:
+        insert: 100
+        select: 100000
+        freeze: 5000
+    send_acks: True
+    flush: True
+
+storage:
+    compactor:
+        cycle_secs: 15
+
+http:
+    host: "0.0.0.0"
+    port: 8090
