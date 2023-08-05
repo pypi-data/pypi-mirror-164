@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: pipertool
+Version: 0.0.2
+Summary: Piper is an open-source platform for data science and machine learning prototyping.
+Home-page: https://github.com/TatraDev/pipertool/tree/pipertool_pypi
+License: Apache-2.0
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides-Extra: docs
+Requires-Dist: m2r2 (>=0.3,<0.4); extra == "docs"
+Requires-Dist: sphinx (>=5.1,<6.0); extra == "docs"
+Requires-Dist: sphinx-autodoc-typehints (>=1.19,<2.0); extra == "docs"
+Requires-Dist: tomlkit (>=0.11,<0.12); extra == "docs"
+Project-URL: Repository, https://github.com/TatraDev/pipertool/tree/pipertool_pypi
+Description-Content-Type: text/markdown
+
+# pipertool
+
+[![Build Status](https://github.com/TatraDev/pipertool/workflows/test/badge.svg?branch=master&event=push)](https://github.com/TatraDev/pipertool/actions?query=workflow%3Atest)
+[![codecov](https://codecov.io/gh/TatraDev/pipertool/branch/master/graph/badge.svg)](https://codecov.io/gh/TatraDev/pipertool)
+[![Python Version](https://img.shields.io/pypi/pyversions/pipertool.svg)](https://pypi.org/project/pipertool/)
+[![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
+
+Piper is an open-source platform for data science and machine learning prototyping.
+
+
+## Features
+
+- Fully typed with annotations and checked with mypy, [PEP561 compatible](https://www.python.org/dev/peps/pep-0561/)
+- Add yours!
+
+
+## Installation
+
+```bash
+pip install pipertool
+```
+
+
+## Example
+
+Showcase how your project can be used:
+
+```python
+from pipertool.example import some_function
+
+print(some_function(3, 4))
+# => 7
+```
+
+## License
+
+[Apache](https://github.com/TatraDev/pipertool/blob/master/LICENSE)
+
+
+## Credits
+
+This project was generated with [`wemake-python-package`](https://github.com/wemake-services/wemake-python-package). Current template version is: [e2cd84edbe59fa23e7c97cd448b324f3744b10ac](https://github.com/wemake-services/wemake-python-package/tree/e2cd84edbe59fa23e7c97cd448b324f3744b10ac). See what is [updated](https://github.com/wemake-services/wemake-python-package/compare/e2cd84edbe59fa23e7c97cd448b324f3744b10ac...master) since then.
+
