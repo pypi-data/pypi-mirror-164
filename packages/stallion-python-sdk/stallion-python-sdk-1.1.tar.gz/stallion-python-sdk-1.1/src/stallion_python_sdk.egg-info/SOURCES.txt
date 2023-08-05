@@ -1,0 +1,13 @@
+README.rst
+setup.cfg
+setup.py
+src/stallion-python-sdk/__init__.py
+src/stallion-python-sdk/client.py
+src/stallion-python-sdk/message.py
+src/stallion-python-sdk/network.py
+src/stallion-python-sdk/parser.py
+src/stallion_python_sdk.egg-info/PKG-INFO
+src/stallion_python_sdk.egg-info/SOURCES.txt
+src/stallion_python_sdk.egg-info/dependency_links.txt
+src/stallion_python_sdk.egg-info/top_level.txt
+test/test.py
