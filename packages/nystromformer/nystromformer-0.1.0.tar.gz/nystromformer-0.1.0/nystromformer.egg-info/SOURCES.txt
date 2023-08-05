@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+nystromformer/__init__.py
+nystromformer/nystrom_attention.py
+nystromformer/nystromformer.py
+nystromformer/test_nystrom_attention.py
+nystromformer/test_nystromformer.py
+nystromformer/utils.py
+nystromformer/version.py
+nystromformer.egg-info/PKG-INFO
+nystromformer.egg-info/SOURCES.txt
+nystromformer.egg-info/dependency_links.txt
+nystromformer.egg-info/requires.txt
+nystromformer.egg-info/top_level.txt

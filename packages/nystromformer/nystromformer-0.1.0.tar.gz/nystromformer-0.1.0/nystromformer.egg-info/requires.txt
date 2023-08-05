@@ -1,0 +1,12 @@
+tensorflow>=2.8.0
+einops~=0.3.0
+
+[dev]
+check-manifest
+twine
+numpy
+black
+isort
+pytest
+pytest-cov
+parameterized
