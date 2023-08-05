@@ -1,0 +1,3 @@
+spacy
+rt_sports_scrapers
+smack_gsheets
