@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+celebrity_births/__init__.py
+celebrity_births/__main__.py
+celebrity_births/date.py
+celebrity_births/example.py
+celebrity_births/scraper.py
+celebrity_births_sk.egg-info/PKG-INFO
+celebrity_births_sk.egg-info/SOURCES.txt
+celebrity_births_sk.egg-info/dependency_links.txt
+celebrity_births_sk.egg-info/requires.txt
+celebrity_births_sk.egg-info/top_level.txt
