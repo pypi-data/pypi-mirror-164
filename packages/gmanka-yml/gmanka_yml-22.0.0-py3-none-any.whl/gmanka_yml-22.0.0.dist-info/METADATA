@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: gmanka_yml
+Version: 22.0.0
+Summary: some shortcuts
+Project-URL: Homepage, https://github.com/gmankab/yml
+Project-URL: Documentation, https://github.com/gmankab/yml
+Project-URL: Bug Tracker, https://github.com/gmankab/yml/issues
+Author-email: gmanka <gmankab@gmail.com>
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.10
+Requires-Dist: pyyaml
+Description-Content-Type: text/markdown
+
+# gmanka yml
