@@ -1,0 +1,8 @@
+redirects_cli/__init__.py,sha256=Q8gz8kiYR6M0lSoKDh4iSEaErmhtn24zkfpwNFekfl0,227
+redirects_cli/__main__.py,sha256=JRgRCPuGlKEby2DMmuG6qa2shVEtk-1GgzCUiHkz7zk,134
+redirects_cli/cli.py,sha256=_IOOxGDEHR0hvVxnsVIo8ZHg5F5RvT5Cp1MoCwdY8b4,2127
+redirects_cli-0.1.2.dist-info/entry_points.txt,sha256=EuRqW0GTG1VJGz3nGW5ib5Q-Q05zd8MtMZMO-T2CEZk,61
+redirects_cli-0.1.2.dist-info/LICENSE.md,sha256=3efmE9A-Lv9I4X9_3GC-qXbmAJFPJH0JD66MKv-JnxI,1081
+redirects_cli-0.1.2.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+redirects_cli-0.1.2.dist-info/METADATA,sha256=iPEq7LxjoEAgNoAXbl84gewvBOHdZedNlK04O-f2BKI,2250
+redirects_cli-0.1.2.dist-info/RECORD,,
