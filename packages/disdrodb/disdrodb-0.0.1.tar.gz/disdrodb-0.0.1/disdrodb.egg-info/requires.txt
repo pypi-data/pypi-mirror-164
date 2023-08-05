@@ -1,0 +1,10 @@
+click
+dask
+h5py
+netCDF4
+numpy
+pandas
+pyarrow
+PyYAML
+setuptools
+xarray
