@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pewpew
+Version: 0.2.0
+Summary: Cool pythonic utilities for safer, more efficient development
+Home-page: UNKNOWN
+Maintainer: Taylor G Smith
+Maintainer-email: taylor.smith@alkaline-ml.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.8, <4
+
+UNKNOWN
+
