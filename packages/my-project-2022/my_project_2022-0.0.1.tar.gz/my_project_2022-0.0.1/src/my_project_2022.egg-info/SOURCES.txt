@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/my_project_2022/__init__.py
+src/my_project_2022/example.py
+src/my_project_2022.egg-info/PKG-INFO
+src/my_project_2022.egg-info/SOURCES.txt
+src/my_project_2022.egg-info/dependency_links.txt
+src/my_project_2022.egg-info/top_level.txt
