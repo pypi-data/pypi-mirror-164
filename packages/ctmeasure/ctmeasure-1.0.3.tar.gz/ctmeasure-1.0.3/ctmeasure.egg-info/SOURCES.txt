@@ -1,0 +1,10 @@
+setup.py
+ctmeasure/__init__.py
+ctmeasure/control_magnetic_field.py
+ctmeasure/control_temperature.py
+ctmeasure/measure_module.py
+ctmeasure.egg-info/PKG-INFO
+ctmeasure.egg-info/SOURCES.txt
+ctmeasure.egg-info/dependency_links.txt
+ctmeasure.egg-info/requires.txt
+ctmeasure.egg-info/top_level.txt

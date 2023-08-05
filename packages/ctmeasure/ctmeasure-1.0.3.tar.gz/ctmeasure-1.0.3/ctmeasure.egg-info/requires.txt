@@ -1,0 +1,8 @@
+pyvisa
+pymeasure
+numpy
+matplotlib
+Ipython
+scipy
+qcodes
+statistics
