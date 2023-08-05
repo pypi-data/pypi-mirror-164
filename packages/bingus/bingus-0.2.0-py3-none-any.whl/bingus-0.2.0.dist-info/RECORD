@@ -1,0 +1,9 @@
+bingus/__init__.py,sha256=AdnN7h9txk_RHM0E1ujo-kSBwXKhpI8TTc7DhPHqY0E,41
+bingus/environ/__init__.py,sha256=YUA59lYh7kt3_MjLiZlhITMn0ORbgVvCMtsLysaFA-k,29
+bingus/environ/environ.py,sha256=0uG5aMaAxEksqKI2PwiX4T7YCD6MkBS77PVukTQ22cg,1150
+bingus/environ/exceptions.py,sha256=d66cs7pLljzepoTDfSMV0dEVXdskSg6R3t6rGgzomqY,106
+bingus/file/__init__.py,sha256=8PgXbR8qXjren7wPlmravNeCy9Mf3Xp6KJFUD9i7tlA,37
+bingus/file/file.py,sha256=7lThypzQArx5sIV2iJhUuC1_roTognIDMLDuY14aOpc,431
+bingus-0.2.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+bingus-0.2.0.dist-info/METADATA,sha256=nI_SOSVkg-ZsyfpI6lyt7dvGk-k-BAAWZcjYMGvnG20,630
+bingus-0.2.0.dist-info/RECORD,,
