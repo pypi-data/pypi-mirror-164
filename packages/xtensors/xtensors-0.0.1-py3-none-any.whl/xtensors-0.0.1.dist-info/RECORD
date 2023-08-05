@@ -1,0 +1,12 @@
+xtensors/__init__.py,sha256=qj-kU68xfJMz50lpoDNc6u0u_G_owQnDowVTTyxao-A,135
+xtensors/base/__init__.py,sha256=J8v0nvFls0SD5P3ybiObClbu7-A4kB0BQ4jqc5Ir8E8,296
+xtensors/base/_reduc.py,sha256=Dz4_WZxTSRD4Qrn3KRGMSRHTI6S2N_4TvyhWCmIl1uo,3102
+xtensors/base/_reduc_2to1.py,sha256=PmG3ZERPy5ixSOMYPyo3zvT0q0pul5dUt94uy6aG0FI,2340
+xtensors/functionals/__init__.py,sha256=1QM2b7ZXtOPwnMBU3-8SQSPyHkG6gnmhFPoXBOzzhwE,23
+xtensors/functionals/base.py,sha256=thcmX58bLNGRRYK4cowonh6Fa5OgUdX50ksLQM_jHjY,758
+xtensors/functionals/reductions.py,sha256=GCXgOnKnxdEcy3on_rXXNvZoBUXniYfc0B4_x-_tVsc,1277
+xtensors-0.0.1.dist-info/LICENSE,sha256=yvBvAwv-Z_xrlPzFeGbZ0qGxzl_AC8R4ju6-OEYxsPA,1070
+xtensors-0.0.1.dist-info/METADATA,sha256=cN7cB0b1bQYfN5BqLIADtyIaHjN7IJPo5JO_ZxF_erc,668
+xtensors-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+xtensors-0.0.1.dist-info/top_level.txt,sha256=00exa5ztzAgY_xvUowlSTnCwO1N1GbJqaCiDlIp71jA,9
+xtensors-0.0.1.dist-info/RECORD,,
