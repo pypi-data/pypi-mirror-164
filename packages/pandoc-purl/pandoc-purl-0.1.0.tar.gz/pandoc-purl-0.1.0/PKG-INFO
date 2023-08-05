@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: pandoc-purl
+Version: 0.1.0
+Summary: Dynamic document generation for Pandoc in Python
+Home-page: https://github.com/lamyj/pandoc-purl
+Author: Julien Lamy
+Author-email: lamy@unistra.fr
+License: MIT
+Keywords: pandoc,markdown,pandoc-filter,literate programming,dynamic document,reproducible research
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Communications :: File Sharing
+Classifier: Topic :: System :: Archiving :: Mirroring
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Documentation
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Text Processing :: Filters
+Classifier: Topic :: Text Processing :: Markup :: Markdown
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# pandoc-purl
+
+_pandoc-purl_ is [Pandoc](https://pandoc.org) filter for literate programming and dynamic document generation in Python. It is similar in spirit to [Knitr](https://yihui.org/knitr/) or [Pweave](https://mpastell.com/pweave/).
+
+
