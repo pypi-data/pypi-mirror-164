@@ -1,0 +1,14 @@
+learna/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+learna/activations/__init__.py,sha256=6gyPawylniMN5mwS-TdrwrBVJV00025JopzbR-Dqbd8,182
+learna/activations/binary_step.py,sha256=CW33LT-6RFvsSiGaA-s6aRP7_rfOyW-njfrX4Z85HTA,311
+learna/activations/hyperbolic_tangent.py,sha256=3gKYuQe0RfR8ZXwCrGc-iSn5DUpyKTd68IqWb7tF93w,258
+learna/activations/leaky_rectified_linear_unit.py,sha256=3ZAL1lR9TgdO9c7QJjZ8jbpfmIiaYrysrU8FIHwzHm8,216
+learna/activations/linear.py,sha256=xt9hNnTo9zgq1ktCKjvT3NWm21bsG80mkaQVRoRdihU,77
+learna/activations/rectified_linear_unit.py,sha256=RTGfezA3VkwbK-Srru6Xtp9IHFHOiahzvrFK9R7luMM,364
+learna/activations/sigmoid.py,sha256=NNCVHgiblrudrwjrHY0BQmjrHHPkVyrzkjGlD9Pcbsc,342
+learna/activations/softmax.py,sha256=bSNnkeiPMgJ1Yjuw0TGpnF3c3cWeqswkZzr2sEb5jjk,286
+LICENSE,sha256=Z7UtuJk7jT5WjKGDTlrxfXXLPeUvOO3tPUw5pUrdDuQ,1068
+learna-0.1.1.dist-info/LICENSE,sha256=Z7UtuJk7jT5WjKGDTlrxfXXLPeUvOO3tPUw5pUrdDuQ,1068
+learna-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+learna-0.1.1.dist-info/METADATA,sha256=LP1LNlTP0h8fQa0uvFL_Db2iBBvKHq2ja0jczUlHjPs,1189
+learna-0.1.1.dist-info/RECORD,,
