@@ -1,0 +1,7 @@
+opentelemetry/instrumentation/digma/fastapi/__init__.py,sha256=XkEtI_cmH-FSfX2MXq8gdvBhUgNFAy-DErmiP_tVZaM,1599
+opentelemetry/instrumentation/digma/fastapi/version.py,sha256=09hol5ovL6ArILJIJZ-MiscnOjKa6RjaETmtdgJpW2c,22
+opentelemetry_instrumentation_digma_fastapi-0.7.0.dist-info/LICENSE,sha256=TGUmWgYp83kWpW6pQlt0AiBIAztItZM-9oUNySS7jeA,1065
+opentelemetry_instrumentation_digma_fastapi-0.7.0.dist-info/METADATA,sha256=SDglr6Vv8Bg_oWydJSQ_ShTCqFBq_PnwpnJrFgn7qWU,3036
+opentelemetry_instrumentation_digma_fastapi-0.7.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+opentelemetry_instrumentation_digma_fastapi-0.7.0.dist-info/top_level.txt,sha256=5p97iTMneNm1LAKDalzEVpYhvPZsaqJZzdLuD_upSaQ,14
+opentelemetry_instrumentation_digma_fastapi-0.7.0.dist-info/RECORD,,
