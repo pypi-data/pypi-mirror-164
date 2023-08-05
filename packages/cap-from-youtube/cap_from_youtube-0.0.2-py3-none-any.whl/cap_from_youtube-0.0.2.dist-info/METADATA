@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cap-from-youtube
+Version: 0.0.2
+Summary: Get an OpenCV video capture from an YouTube video URL
+Home-page: https://github.com/ibaiGorordo/cap_from_youtube
+Author: Ibai Gorordo
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: yt-dlp
+
