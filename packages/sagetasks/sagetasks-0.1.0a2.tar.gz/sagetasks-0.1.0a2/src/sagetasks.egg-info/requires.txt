@@ -1,0 +1,9 @@
+prefect<2.0
+synapseclient
+sevenbridges-python
+pandas
+
+[testing]
+setuptools
+pytest
+pytest-cov
