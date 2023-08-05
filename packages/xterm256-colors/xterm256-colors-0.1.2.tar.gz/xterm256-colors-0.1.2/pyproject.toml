@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "xterm256-colors"
+version = "0.1.2"
+description = "Handy utilities for interacting with xterm-256color terminal emulators"
+readme = "README.md"
+homepage = "https://github.com/theY4Kman/xterm256-colors"
+repository = "https://github.com/theY4Kman/xterm256-colors"
+authors = ["Zach \"theY4Kman\" Kanzler <they4kman@gmail.com>"]
+license = "MIT"
+
+packages = [
+  { include = "xterm256_colors" },
+  { include = "LICENSE", format = "sdist" },
+  { include = "CHANGELOG.md", format = "sdist" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+colormath = { version = "^3.0.0", optional = true }
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.971"
+
+[tool.poetry.extras]
+colormath = ["colormath"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
