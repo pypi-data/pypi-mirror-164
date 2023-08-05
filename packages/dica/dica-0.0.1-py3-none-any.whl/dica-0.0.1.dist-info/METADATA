@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: dica
+Version: 0.0.1
+Summary: Diffractomer Calculation
+Home-page: https://gitlab.cnpem.br/BEAMLINES/EMA/CLI/daf
+Author: Hugo Campos
+Author-email: hugo.campos@lnls.br
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: PyYAML
+Requires-Dist: h5py
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pydm
+Requires-Dist: pyepics
+Requires-Dist: pyqt5
+Requires-Dist: qdarkstyle
+Requires-Dist: scipy (==1.4.1)
+Requires-Dist: tqdm
+Requires-Dist: xrayutilities
+
+UNKNOWN
+
