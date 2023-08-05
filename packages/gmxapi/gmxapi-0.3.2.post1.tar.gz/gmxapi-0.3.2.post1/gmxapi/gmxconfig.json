@@ -1,0 +1,6 @@
+{
+    "gmx_executable": "/Users/eric/install/gromacs2022-mpi/bin/gmx_mpi",
+    "gmx_bindir": "/Users/eric/install/gromacs2022-mpi/bin",
+    "gmx_mpi_type": "library",
+    "gmx_double": false
+}
