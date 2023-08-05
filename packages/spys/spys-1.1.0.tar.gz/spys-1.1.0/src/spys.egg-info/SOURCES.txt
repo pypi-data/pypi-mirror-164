@@ -1,0 +1,11 @@
+setup.py
+src/spys/__init__.py
+src/spys/filters.py
+src/spys/me.py
+src/spys/one.py
+src/spys/proxy_view.py
+src/spys.egg-info/PKG-INFO
+src/spys.egg-info/SOURCES.txt
+src/spys.egg-info/dependency_links.txt
+src/spys.egg-info/requires.txt
+src/spys.egg-info/top_level.txt
