@@ -1,0 +1,17 @@
+setuptools
+wheel
+requests
+Kekik
+pyTrendyol
+cloudscraper
+tabulate
+beautifulsoup4
+lxml
+html5lib
+pandas
+attrdict2
+pytube
+pytz
+parsel
+pyshorteners
+requests-html
