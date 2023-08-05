@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: vsharecloud-api
+Version: 0.0.3
+Summary: A simple API for vshareCloud
+Home-page: https://github.com/VshareCloud-Project/VshareCloud-FileStoreSDK-Python.git
+Author: Yang
+Author-email: plectra-taproot0y@icloud.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: rsa
+
+# Todo
