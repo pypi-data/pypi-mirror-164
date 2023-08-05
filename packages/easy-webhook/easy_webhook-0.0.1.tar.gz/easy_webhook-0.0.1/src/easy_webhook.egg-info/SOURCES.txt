@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/easy_webhook/__init__.py
+src/easy_webhook/webhook.py
+src/easy_webhook.egg-info/PKG-INFO
+src/easy_webhook.egg-info/SOURCES.txt
+src/easy_webhook.egg-info/dependency_links.txt
+src/easy_webhook.egg-info/top_level.txt
