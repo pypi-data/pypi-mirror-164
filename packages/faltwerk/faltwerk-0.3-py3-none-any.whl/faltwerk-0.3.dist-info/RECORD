@@ -1,0 +1,17 @@
+faltwerk/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+faltwerk/biochem.py,sha256=18gFtROQqp6apGuepM-eAM90lLEMItMxRMocYmXBsUs,595
+faltwerk/data.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+faltwerk/geometry.py,sha256=Gir73HcRCl9HMENZfklMYVPdjL3R62Y5E_UOjoi4DBc,5834
+faltwerk/io.py,sha256=2xZgSCPvgeqFTOy6rRhIIUaNtlx0A-tmqoFnR_mF0Oc,4737
+faltwerk/models.py,sha256=3II5b9u4J39oBz3ypkMQuZ9awts_pxKVEIMfIZXRz4M,13669
+faltwerk/parsers.py,sha256=h8zCrHkwxP7hpiwh_xJ6iU2Q3XMwqC1BOUn_LXbZShs,19625
+faltwerk/stats.py,sha256=9WJD8JbcDS7jIt99euoJ0fK-5R-0UmLWWi2mUvN1-qQ,5931
+faltwerk/utils.py,sha256=WqbGuXhfrliSZZRf6AGIKcpKwPj7OxepeJRX_G9r8r0,10966
+faltwerk/vis.py,sha256=1h0kx15vCzfVooKCjUS3_AgtBn3po5-_uhcZ0c2v-14,12061
+faltwerk/data/ligands/InteracDome_v0.3-confident.tsv,sha256=DyxPoTlEzrpWU5XEsomxggOpiurGFl2b8x1M8KuLRvA,12981368
+faltwerk/data/ligands/InteracDome_v0.3-representable.tsv,sha256=Un-i8YVKErTNWbu83E_9tEfF0Ciib3Ox2ojKeYYc-cw,41370531
+faltwerk/data/ligands/InteracDome_v0.3-representableNR.tsv,sha256=fmFjUcWl_AIgar18qLIDTvlI-Hwe1LLCL_wMHXeujPs,16685434
+faltwerk-0.3.dist-info/METADATA,sha256=J2gMIFhfBE-TELmS4ijOJ9-GdpdYCp6-T-VLqGXOw5g,7450
+faltwerk-0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+faltwerk-0.3.dist-info/top_level.txt,sha256=R9pMXhwWUjIHdvcu1cXKhoU8xKaWNpW5S5kjmy09qNw,9
+faltwerk-0.3.dist-info/RECORD,,
