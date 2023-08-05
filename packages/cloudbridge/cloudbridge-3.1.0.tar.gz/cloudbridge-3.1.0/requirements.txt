@@ -1,0 +1,3 @@
+# needed by moto
+sshpubkeys
+-e ".[dev]"
