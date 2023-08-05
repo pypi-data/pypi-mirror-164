@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ICityRunner
+Version: 0.1.1
+Summary: ICity Runner for bioinfomatics
+Author: Maxwell Wong
+Author-email: 78146185@qq.com
+License: MIT
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Utilities
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Unix Shell
+License-File: LICENCE
