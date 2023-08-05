@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: fatbolt
+Version: 0.0.0
+Summary: placeholder repo
+Home-page: UNKNOWN
+Author: none
+Author-email: none@none.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Development Status :: 1 - Planning
+Requires-Python: ==3.9.*

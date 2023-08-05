@@ -1,0 +1,5 @@
+setup.py
+fatbolt.egg-info/PKG-INFO
+fatbolt.egg-info/SOURCES.txt
+fatbolt.egg-info/dependency_links.txt
+fatbolt.egg-info/top_level.txt
