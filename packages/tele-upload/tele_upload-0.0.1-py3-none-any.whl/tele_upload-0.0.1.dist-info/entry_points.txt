@@ -1,0 +1,3 @@
+[console_scripts]
+tele-upload = tele_upload.main:main
+
