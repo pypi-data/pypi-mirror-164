@@ -1,0 +1,5 @@
+[dascore.plugin.fiber_io]
+DASDAE = dascore.io.dasdae.core:DASDAEIO
+PICKLE = dascore.io.pickle.core:PickleIO
+TERRA15 = dascore.io.terra15.core:Terra15Formatter
+WAV = dascore.io.wav.core:WavIO

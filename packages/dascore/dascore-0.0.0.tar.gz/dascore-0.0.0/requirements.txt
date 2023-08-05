@@ -1,0 +1,8 @@
+# general requirements go here
+pyqtgraph
+tables
+pooch
+xarray
+pydantic
+rich
+scipy
