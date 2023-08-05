@@ -1,0 +1,2 @@
+[console_scripts]
+telecms_bridge = telecms_bridge.__main__:main
