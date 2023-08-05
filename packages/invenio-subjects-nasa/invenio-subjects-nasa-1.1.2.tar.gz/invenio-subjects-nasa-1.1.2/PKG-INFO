@@ -1,0 +1,84 @@
+Metadata-Version: 2.1
+Name: invenio-subjects-nasa
+Version: 1.1.2
+Summary: Nasa subject terms for InvenioRDM
+Home-page: https://github.com/Samk13/invenio-subjects-nasa
+Author: KTH Royal Institute of Technology
+Author-email: info@kth.se
+License: MIT
+Keywords: invenio inveniordm subjects nasa
+Platform: any
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+Provides-Extra: tests
+Provides-Extra: dev
+Provides-Extra: all
+
+# invenio-subjects-nasa
+
+NASA thesaurus subject terms for InvenioRDM
+This package is inspired by [invenio-subjects-mesh](https://github.com/galterlibrary/invenio-subjects-mesh)
+Install this extension to get NASA thesaurus subject terms used to index and retrieve materials in the STI Repository into your instance.
+
+## Installation
+
+From your instance active venv:
+```console
+pip install invenio-subjects-nasa
+```
+
+This will add it to your Pipfile.
+
+you can double check by running
+```console
+pip freeze | grep invenio-subjects-nasa
+```
+in your invenio instance run:
+```console
+invenio rdm-records fixtures
+invenio-cli run
+```
+the above commands could take long time to finish so be patient.
+
+### Versions
+
+This repository follows [SemVer versioning](https://semver.org/):
+
+
+## Usage
+
+There are 2 types of users for this package. Maintainers of the package and instance administrators.
+
+### Instance administrators
+
+For instance administrators, after you have installed the extension as per the steps above,
+please read [Invenio subjects documentation](https://inveniordm.docs.cern.ch/customize/vocabularies/subjects/)
+
+**Note**
+
+There is always a room for improvements specially the performance, feel free to drop a PR for that.
+TODO:
+- write more tests
+- improve performance, maybe using Pandas or numpy instead, etc ...
+
+
+## Future Ideas
+
+- InvenioRDM doesn't have a way to update pre-existing subjects yet. Once there is one,
+  this package should provide the functionality to update NASA terms.
+
+# Changes
+
+Version 2022.08.18 (released 2022-08-18)
+
+- Initial public release.
