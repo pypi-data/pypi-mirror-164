@@ -1,0 +1,11 @@
+superspreader/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+superspreader/exceptions.py,sha256=YnnocQRSBJhplUpGyFtbJ58hJKFPuMtUinslcfG0T1w,414
+superspreader/fields.py,sha256=J1sou1UX1Ek_3fDZIUCZFj4rGUrsdIK1anCBghi3HnQ,1750
+superspreader/i18n.py,sha256=2yMZbUtxB3Re3_vGadcAa9rtZkR-HM-xAF61X4SBHss,840
+superspreader/messages.py,sha256=-I8hhkJJddknbebqhmcdWztOEfzkhli6fqzj6-FrXFw,1014
+superspreader/sheets.py,sha256=B3mmPYXW1_U-bAqYXRejIsiByFRG0o82BVKlJyOHe2Q,6765
+superspreader-0.0.1.dist-info/LICENSE.txt,sha256=EN2w2b5iTPvjNFQvpZ9dnSNM-GU6RcC8XxMLbyO4WBI,1068
+superspreader-0.0.1.dist-info/METADATA,sha256=qiIRqqKFv1EjzIC8C7C3DVCEMeUHhkimWc_9_ktrszU,2902
+superspreader-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+superspreader-0.0.1.dist-info/top_level.txt,sha256=Lv21oVsTldnJAA6yssGIJsAcGTEIFvDPSJbs8S68-Wo,14
+superspreader-0.0.1.dist-info/RECORD,,
