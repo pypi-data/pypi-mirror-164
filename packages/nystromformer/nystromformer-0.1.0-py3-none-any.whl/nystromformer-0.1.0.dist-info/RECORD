@@ -1,0 +1,12 @@
+nystromformer/__init__.py,sha256=1fh4614Jpy0SSGHPoV7Z_qmP2I6V3RnBFb0DibNhE54,122
+nystromformer/nystrom_attention.py,sha256=P3HwpLXQe9-t-retFj3saGfIW9hm251G9oAhj3sKcCQ,4926
+nystromformer/nystromformer.py,sha256=_B3nF-JdJWxyyrZHZWa4FKqews1eXDpCpMp3bsqoxBc,1456
+nystromformer/test_nystrom_attention.py,sha256=vAES_PgXbUmwu0SmAUOk01S9-fEvHWyT0NKCHAzbJr4,1099
+nystromformer/test_nystromformer.py,sha256=w62trO0Yznm8Kl6_bSItOcbBa_pJkZCyqROpwioLlaw,1015
+nystromformer/utils.py,sha256=2JnLY9befJnsoK_FiEnwW-K8kd6vdjMc2avIXBDVd4E,2000
+nystromformer/version.py,sha256=kUR5RAFc7HCeiqdlX36dZOHkUI5wI6V_43RpEcD8b-0,22
+nystromformer-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+nystromformer-0.1.0.dist-info/METADATA,sha256=88q4LS_AuGoQVw5wTXgcndz6mzx7_1KzYZ2GwK12AbQ,6701
+nystromformer-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+nystromformer-0.1.0.dist-info/top_level.txt,sha256=EGq02GO9w0Dr2mxRhTflII65HrMHI-rsUsYOviGCTdM,14
+nystromformer-0.1.0.dist-info/RECORD,,
