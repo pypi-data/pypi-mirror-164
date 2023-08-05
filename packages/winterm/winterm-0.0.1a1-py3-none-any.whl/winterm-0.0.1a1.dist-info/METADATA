@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: winterm
+Version: 0.0.1a1
+Summary: ...
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+
