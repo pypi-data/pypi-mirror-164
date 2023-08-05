@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+nr_documents_records_model_builder/__init__.py
+nr_documents_records_model_builder/version.py
+nr_documents_records_model_builder.egg-info/PKG-INFO
+nr_documents_records_model_builder.egg-info/SOURCES.txt
+nr_documents_records_model_builder.egg-info/dependency_links.txt
+nr_documents_records_model_builder.egg-info/entry_points.txt
+nr_documents_records_model_builder.egg-info/not-zip-safe
+nr_documents_records_model_builder.egg-info/requires.txt
+nr_documents_records_model_builder.egg-info/top_level.txt
+nr_documents_records_model_builder/models/__init__.py
+nr_documents_records_model_builder/models/nr-documents-records-model.yaml
+nr_documents_records_model_builder/models/nr-documents-records.yaml

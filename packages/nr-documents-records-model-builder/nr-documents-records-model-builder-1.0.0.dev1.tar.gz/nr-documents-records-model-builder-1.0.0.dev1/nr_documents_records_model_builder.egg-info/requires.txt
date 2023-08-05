@@ -1,0 +1,7 @@
+oarepo-model-builder>=1.0.0dev9
+oarepo-model-builder-multilingual>=0.1.9
+oarepo-model-builder-ui>=1.0.0
+nr-vocabularies>=0.0.1
+nr-vocabularies-model-builder>=0.0.2
+oarepo-vocabularies-model-builder>=0.0.6
+nr-common-metadata-model-builder>=4.0.0.dev5

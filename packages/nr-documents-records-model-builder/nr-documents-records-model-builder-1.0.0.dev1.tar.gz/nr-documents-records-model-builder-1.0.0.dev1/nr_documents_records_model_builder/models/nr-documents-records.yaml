@@ -1,0 +1,72 @@
+version: 1.0.0
+title: Czech National Repository - documents
+oarepo:use:
+  - ./nr-documents-records-model.yaml
+
+plugins:
+  packages:
+    - oarepo-model-builder-multilingual
+    - oarepo-model-builder-ui
+    - nr-vocabularies-model-builder
+    - oarepo-vocabularies-model-builder
+  builder:
+    disable:
+      - poetry
+      - cookiecutter
+      - invenio_ext_poetry
+      - invenio_sample_app_poetry
+      - invenio_record_metadata_alembic_poetry
+      - invenio_record_metadata_models_poetry
+      - invenio_record_resource_poetry
+      - invenio_record_search_poetry
+      - invenio_record_jsonschemas_poetry
+      - invenio_script_bootstrap
+      - invenio_script_runserver
+      - invenio_script_import_sample_data
+      - script_sample_data
+      - invenio_script_runserver
+
+oarepo:sample:
+  count: 1
+
+oarepo:model-validation:
+  jsonschema-property:
+    properties:
+      $comment:
+        type: string
+      $description:
+        type: string
+      enum:
+        type: array
+        items:
+          type: string
+      uniqueItems:
+        type: boolean
+      format:
+        type: string
+      minItems:
+        type: integer
+
+oarepo:ui:
+  translation:
+    default: 'en'
+
+settings:
+  supported-langs:
+    cs: {}
+    en: {}
+  package: 'nr_documents_records'
+  schema-server: 'local://'
+  python:
+    record-prefix: 'NRDocumentRecord'
+    flask-extension-name: 'nr-documents-records'
+    ext-class: 'nr_documents_records.ext.NRDocumentsRecordsExt'
+    record-class: 'nr_documents_records.records.api.NRDocumentRecord'
+    record-schema-class: nr_documents_records.services.schema.NRDocumentSchema
+  oarepo:vocabularies:
+    schema: nr-vocabularies
+    record-class: nr_vocabularies.records.api.NRVocabulary
+
+model:
+  oarepo:marshmallow:
+    generate: true
