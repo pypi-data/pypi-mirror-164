@@ -1,0 +1,227 @@
+Metadata-Version: 2.1
+Name: telecms-bridge-base
+Version: 1.0.0
+Home-page: https://github.com/serviceexchange/telecms-bridge
+Author: Billy Truong
+Author-email: support@service.exchange
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: sqlalchemy
+Requires-Dist: six
+Requires-Dist: requests
+Requires-Dist: Pillow
+Requires-Dist: dateparser
+Requires-Dist: prompt-toolkit (==2.0.9)
+
+# [Service Exchange](https://app.service.exchange/demo)
+
+Description
+===========
+
+* About Service Exchange: <https://about.service.exchange>
+* **Live Demo**: <https://app.service.exchange/demo>
+* Documentation: <https://docs.service.exchange/>
+* Support: support@service.exchange
+
+**Service Exchange** is a SaaS service that automatically generates extendable back office for your application. <br />
+**Service Exchange** is a standalone app which generates REST API thought which your SQL database is connected to **Service Exchange**. <br />
+This project has been designed to fit requirements of small startups and mature companies.
+
+* **Data Privacy**. Tele-CMS does not access your data: its transferred directly from browser to your application.
+* **Customizable Interface**. With WYSIWYG interface customization your can change almost every part of interface.
+* **Extendable**. Flex Features allows you to create your custom Actions, Views, Fields and other.
+* **Works with any technology**. The interface is generated automatically based on an analysis of the data and data structure of your database.
+* **Quick installation**. All you need is to install Service Exchange and connect it to your database.
+
+Features
+========
+
+* **CRUD (create, read, update, delete)**
+
+  All common operations to view, create, update or delete data.
+
+* **Search and Filter**
+
+  Filter data easily by any field with most common lookups and search them by text occurrence. For some specific cases you can create SQL Segment to filter with.
+
+* **Segments**
+
+  Segments allow you to save applied set of filters as a Segment or create it from SQL query for quick use in future.
+
+* **WYSIWYG Interface Customization**
+
+  You can customize almost every part of interface visually – navigation menu, collection list views, record create/update forms.
+
+* **List View layout**
+
+  A number of out-of-the-box list layouts except default Table View like Kanban Board and Map with markers.
+
+* **Dashboards**
+
+  Create different types of charts, tables and other widgets to visualize your KPIs or monitor data without programming – inside your visual interface. Complex data queries can be created with SQL.
+
+* **Teams and Permissions**
+
+  Invite users to collaborate on a project and assign access rights based on their team.
+
+* **Export**
+
+  You can export all collection data or part of it into the most common formats like CSV or Excel.
+
+* **Responsive Layout**
+
+  The interface is optimized for any device from phones to tablets to desktops.
+
+Extendability
+=============
+
+While we are trying to include most of important features out of the box sometimes its not enough. For any specific cases we offer Flex features to implement functionality not available with standard features:
+
+* **Custom Views**
+
+  For very specific pages you can create your own custom FlexView based on React, Angular or any other framework and integrate it inService Exchange interface. Writing your own custom JS/CSS/HTML has no limits in implementing any page you need.
+
+* **Custom Actions**
+
+  If need to run some operations on records or any other business logic inside your Backend you can create FlexActions and run them directly fromService Exchange interface. Passing some additional parameters to your Backend is supported.
+
+* **Custom Fields**
+
+  Sometimes using existing fields is not enough and you need to create custom which can be a combination of multiple fields, use fields from related collections and be result of some calculation. In this case you can use FlexField and write your custom JavaScript function which can format fields data any way you want.
+
+How It Works
+============
+
+**Service Exchange** is a SaaS frontend application hosted on **Service Exchange** side that works in your browser. It connects to your project SQL database through open source **Service Exchange** backend application which you install on your side. So Integrating **Service Exchange** with your project requires installing only one component - **Service Exchange**. Here how it should look like after installation:
+
+**Your App**
+
+Any of your applications which works with your **Database**. **Service Exchange** does not interact with it directly.
+
+**Database**
+
+Your database **Service Exchange** has no direct access to.
+
+**Service Exchange**
+
+An open source application installed on your server's side and connected to your database. It automatically generates REST API based on your database structure. **Tele-CMS Interface** works with **Database** through **Service Exchange**.
+
+**Tele-CMS Interface**
+
+Web application accessible from any browser. Maintaining and updating of this web application is on **Service Exchange** team side. Your application data is transmitted directly from **Service Exchange** to **Tele-CMS Interface** in your browser and remain invisible for the **Service Exchange** service.
+
+Requirements
+============
+
+* **Python** 2.7 or 3.4+
+* Any of the following **SQL Databases**:
+
+  * PostgreSQL
+  * MySQL
+  * SQLite
+  * Oracle
+  * Microsoft SQL Server
+  * Firebird
+  * Sybase
+
+Installation
+============
+
+### Method 1. Using standalone Service Exchange
+
+1. Install **telecms\_bridge** package using pip or update if you did it before
+
+```bash
+pip install telecms_bridge -U
+```
+
+2. Install appropriate database adapter
+
+```bash
+# for PostgreSQL
+pip install psycopg2
+# for MySQL
+pip install mysqlclient
+```
+
+3. Run **Service Exchange** for your configuration.
+You can read about all possible settings at [Configuration](https://docs.service.exchange/getting-started/configuration) page.
+
+```bash
+DATABASE_ENGINE=postgresql \
+    DATABASE_HOST=host.docker.internal \
+    DATABASE_PORT=5432 \
+    DATABASE_NAME=database \
+    DATABASE_USER=postgres \
+    DATABASE_PASSWORD=password \
+    telecms_bridge
+```
+
+![Result of running Service Exchange](https://github.com/serviceexchange/docs/raw/main/.gitbook/assets/image%20%2828%29.png)
+
+4. Register your project by opening in your browser:
+
+**<http://localhost:8888/>** where **localhost** is your **Service Exchange** HOST and **8888** is its PORT.
+If you want to run Service Exchange on different host/port you can configure it \(read more at [Configuration](https://docs.service.exchange/getting-started/configuration) page\).
+
+> If you don't have **Tele-CMS** account yet you will be asked to create one and sign in with the existing account.
+
+> After registering your project you will be redirected to your project and can start working with **Tele-CMS**
+
+After registering your project you will be redirected to your project and can start working with **Tele-CMS**
+
+### Method 2. Using Service Exchange inside Docker
+
+**Service Exchange** has **Docker** image available on [Docker Hub](https://cloud.docker.com/u/serviceexchange/repository/docker/serviceexchange/telecmsbridge).
+
+In order start it inside **Docker** for your configuration run the following command.
+You can read about all possible settings at [Configuration](https://docs.service.exchange/getting-started/configuration) page.
+
+1. Install **Docker** if you don't have it [https://docs.docker.com/install/](https://docs.docker.com/install/)
+2. Make sure **Docker** is running
+3. Update **Service Exchange** image if downloaded it before
+
+```text
+docker pull serviceexchange/telecmsbridge
+```
+
+4. Run **Docker** container. This will run Service Exchange on **<http://localhost:8888/>.**
+
+> If you want to run on different port change it here:
+> ****`... -p 9000:8888 ...` – this will run on **9000**
+
+```bash
+docker run -p 8888:8888 \
+    -e DATABASE_ENGINE=postgresql \
+    -e DATABASE_HOST=host.docker.internal \
+    -e DATABASE_PORT=5432 \
+    -e DATABASE_NAME=database \
+    -e DATABASE_USER=postgres \
+    -e DATABASE_PASSWORD=password \
+    serviceexchange/telecmsbridge
+```
+
+> If you are using **Docker before 18.03** you can't use `host.docker.internal` for DATABASE\_HOST
+> **Docker 17.12 – 18.02** use `docker.for.mac.host.internal`
+> **Docker 17.06 – 17.11** use `docker.for.mac.localhost`
+> **Docker 17.05 and below** your `local host IP address` \(can be found using `ifconfig` command\)
+
+5. Register your project by opening in your browser:
+
+**<http://localhost:8888/>** where **localhost** is your **Service Exchange** HOST and **8888** is its PORT.
+If you want to run Service Exchange on different host/port you can configure it by changing **Docker** container port in this command.
+
+> If you don't have **Tele-CMS** account yet you will be asked to create one and sign in with the existing account.
+
+> After registering your project you will be redirected to your project and can start working with **Tele-CMS**
+
+Support
+=======
+
+Feel free to Email us – support@service.exchange
+
+License
+=======
+
+This project (Service Exchange) is **MIT** licensed - see the LICENCE file for details.
