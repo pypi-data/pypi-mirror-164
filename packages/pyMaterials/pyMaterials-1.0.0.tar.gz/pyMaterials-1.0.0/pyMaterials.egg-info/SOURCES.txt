@@ -1,0 +1,8 @@
+setup.py
+pyMaterials/__init__.py
+pyMaterials/materialpre.py
+pyMaterials.egg-info/PKG-INFO
+pyMaterials.egg-info/SOURCES.txt
+pyMaterials.egg-info/dependency_links.txt
+pyMaterials.egg-info/requires.txt
+pyMaterials.egg-info/top_level.txt
