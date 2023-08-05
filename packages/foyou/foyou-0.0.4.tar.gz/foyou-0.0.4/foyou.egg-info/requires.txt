@@ -1,0 +1,10 @@
+
+[all]
+foyou-wilk
+foyou-king
+
+[king]
+foyou-king
+
+[wilk]
+foyou-wilk
