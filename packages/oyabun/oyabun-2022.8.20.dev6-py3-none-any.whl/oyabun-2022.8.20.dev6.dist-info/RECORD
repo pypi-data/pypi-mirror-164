@@ -1,0 +1,14 @@
+LICENSE,sha256=M8W437aIcJtwKzXrkhniatnLScpQMPGiRlBw3h5mcso,1074
+README.md,sha256=7e0MrsFjpB_HwFqLkyF7-TSFnuK2teh-cNEl5_isuiI,876
+oyabun/__init__.py,sha256=LodCZKOeflagyUCjkjg8RwkZi5diFdcIjrJkaFyhkA4,58
+oyabun/bot.py,sha256=yBazVy3RLAeJnQUZsmhH5UyxcmHSdItFETo9f_8ymKo,20365
+oyabun/telegram/__init__.py,sha256=VUyWarb2-KSXSrbehA7juhzx2XeaIYH0gNO0sTW9pvg,5061
+oyabun/telegram/base.py,sha256=socPNptMS7jikeuJn9OzDdpQ6-7dS8Wdtm6-9InraDo,4309
+oyabun/telegram/entities.py,sha256=TSrddYOmnlSvYwdk9xsAXqSPH5ngz_sOsvH1Fe_1S28,16773
+oyabun/telegram/requests.py,sha256=WNbBOlNBlFc0XcgvvxLlSMH1FjD4I-XGtMvfcPUzVLs,4049
+oyabun/telegram/responses.py,sha256=k6bHTVcVZabgAcX3m_kGANtNzg8eJnrlr6G08E_QEvY,2322
+oyabun/version.py,sha256=7T09INeFI4-IB2stKWrRm5iayQdvoz9LHf6UFjuvHY4,1189
+oyabun-2022.8.20.dev6.dist-info/LICENSE,sha256=M8W437aIcJtwKzXrkhniatnLScpQMPGiRlBw3h5mcso,1074
+oyabun-2022.8.20.dev6.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+oyabun-2022.8.20.dev6.dist-info/METADATA,sha256=XfJspsPnL7i_4xJRoRFYPP-KnbdQYaw55OjF1c_wckg,2163
+oyabun-2022.8.20.dev6.dist-info/RECORD,,

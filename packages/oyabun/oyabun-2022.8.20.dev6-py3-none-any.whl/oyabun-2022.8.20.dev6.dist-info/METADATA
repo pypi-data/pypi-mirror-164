@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: oyabun
+Version: 2022.8.20.dev6
+Summary: Telegram library with strict API
+Home-page: https://github.com/tgrx/oyabun
+License: MIT
+Keywords: telegram
+Author: Alexander Sidorov
+Author-email: alexander@sidorov.dev
+Maintainer: Alexander Sidorov
+Maintainer-email: alexander@sidorov.dev
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Telecommunications Industry
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Dist: aiohttp[speedups] (>=3.8.1,<4.0.0)
+Requires-Dist: orjson (>=3.7.11,<4.0.0)
+Requires-Dist: pydantic (>=1.9.1,<2.0.0)
+Project-URL: Repository, https://github.com/tgrx/oyabun
+Description-Content-Type: text/markdown
+
+# 親分
+
+_— the extreme path_
+
+A library for building Telegram bots.
+
+![shimizu no jirocho](https://github.com/tgrx/oyabun/raw/main/docs/img/shimizu_no_jirocho.jpg)
+
+![build status](https://github.com/tgrx/oyabun/actions/workflows/development.yaml/badge.svg?branch=main)
+
+## Mission
+
+The mission of this library is to provide a strict interface for the API.
+By *strict* we mean that all types and methods in the library interface
+are mapped to those described in the Telegram API docs.
+
+You won't meet any auxiliary stuff like sophisticated OOP/async patterns,
+obscure event loops and listeners and the kind of stuff like that.
+
+API types are Pydantic models with strict type hints.
+
+API methods accept params with exactly the same type and name as described in API.
+
+Any optional field/param is marked as `Optional` or `None | T`. Don't be afraid of tri-state bool types.
+
