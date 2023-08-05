@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+libpythonpro_jvsierra/__init__.py
+libpythonpro_jvsierra.egg-info/PKG-INFO
+libpythonpro_jvsierra.egg-info/SOURCES.txt
+libpythonpro_jvsierra.egg-info/dependency_links.txt
+libpythonpro_jvsierra.egg-info/not-zip-safe
+libpythonpro_jvsierra.egg-info/requires.txt
+libpythonpro_jvsierra.egg-info/top_level.txt

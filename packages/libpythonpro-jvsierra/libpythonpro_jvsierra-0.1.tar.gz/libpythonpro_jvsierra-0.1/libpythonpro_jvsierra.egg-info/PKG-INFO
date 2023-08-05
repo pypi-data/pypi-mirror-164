@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: libpythonpro-jvsierra
+Version: 0.1
+Summary: Repositório de exemplo com funcionalidades comuns para projetos Python
+Home-page: https://github.com/Jvsierra/lib-python-pro
+Author: João Victor Sierra
+Author-email: jvpsierra@gmail.com
+License: GNU
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Framework :: Flake8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# lib-python-pro
+
+RepositÃ³rio de exemplo com funcionalidas comuns para projetos Python.
