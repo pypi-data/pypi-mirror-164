@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+source/__init__.py
+vlfeat_py.egg-info/PKG-INFO
+vlfeat_py.egg-info/SOURCES.txt
+vlfeat_py.egg-info/dependency_links.txt
+vlfeat_py.egg-info/not-zip-safe
+vlfeat_py.egg-info/requires.txt
+vlfeat_py.egg-info/top_level.txt
