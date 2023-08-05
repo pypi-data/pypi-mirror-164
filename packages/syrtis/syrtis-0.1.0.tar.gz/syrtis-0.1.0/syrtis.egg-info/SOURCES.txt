@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+syrtis/__init__.py
+syrtis/configuration.py
+syrtis/habitat.py
+syrtis/material.py
+syrtis/shell.py
+syrtis/solver.py
+syrtis/solvermanager.py
+syrtis/tools.py
+syrtis.egg-info/PKG-INFO
+syrtis.egg-info/SOURCES.txt
+syrtis.egg-info/dependency_links.txt
+syrtis.egg-info/requires.txt
+syrtis.egg-info/top_level.txt
