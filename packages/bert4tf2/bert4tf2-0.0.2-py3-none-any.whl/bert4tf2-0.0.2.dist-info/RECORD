@@ -1,0 +1,11 @@
+bert4tf2/__init__.py,sha256=LrfXxwPB-ccr1f8GvpPaCngSlYzd_whuoASQrgQY3qo,141
+bert4tf2/backend.py,sha256=6BxVKW92jbCgXmd4ZNZWFKuXdC-UGzap1DHUKJHTGys,3440
+bert4tf2/bert.py,sha256=fGUWF6Ft5bx7CNXjSVE8S2JPVDNLVVgndo81caLFhLM,20474
+bert4tf2/layers.py,sha256=Mwhx5vdq9gM_2gSXlEgFEWlSazehGVIKLKQx0hIPH0A,30853
+bert4tf2/snippets.py,sha256=p-888KXVADGvbiRob00CtdqdtXbZlkGKkALeDIpL5Oc,16712
+bert4tf2/tokenizer.py,sha256=DtQHGabgR6BvoBNoYIVYU4CtWypgH7B0150-cduDte8,11128
+bert4tf2-0.0.2.dist-info/LICENSE,sha256=E1wUsF_g6ApYqhYqqyi7chmnsFz3n-hUwcMKaIAkj68,586
+bert4tf2-0.0.2.dist-info/METADATA,sha256=67N5UJMTYCvyGS6jwslQW2kU5HaounD6TQD7Giyfy3o,332
+bert4tf2-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bert4tf2-0.0.2.dist-info/top_level.txt,sha256=wg5rhL-mRhfH7pkNg6K-JxYKxLpI9NTiQajLJaZ_-X8,9
+bert4tf2-0.0.2.dist-info/RECORD,,

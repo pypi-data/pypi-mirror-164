@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: bert4tf2
+Version: 0.0.2
+Summary: A very simple and easy to learn BERT library for tensorflow 2.x
+Home-page: https://github.com/Luffffffy/bert4tf
+Author: Luffy
+Author-email: 571036709@qq.com
+License: Apache License 2.0
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: tensorflow (>=2.9.0)
+
+UNKNOWN
+
