@@ -1,0 +1,4 @@
+include versioneer.py
+include ghost_writer/_version.py
+include ghost_writer/data/script.py
+include ghost_writer/data/generated_test_script.py

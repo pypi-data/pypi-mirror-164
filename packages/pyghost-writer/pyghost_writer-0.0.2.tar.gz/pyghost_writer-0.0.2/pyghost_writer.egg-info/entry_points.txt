@@ -1,0 +1,2 @@
+[console_scripts]
+scriptify_py = ghost_writer.scripts.cmd_line:scriptify_py
