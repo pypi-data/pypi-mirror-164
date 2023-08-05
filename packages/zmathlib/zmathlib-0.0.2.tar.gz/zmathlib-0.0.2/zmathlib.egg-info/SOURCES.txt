@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+zmathlib/__init__.py
+zmathlib/zmathlib.py
+zmathlib.egg-info/PKG-INFO
+zmathlib.egg-info/SOURCES.txt
+zmathlib.egg-info/dependency_links.txt
+zmathlib.egg-info/top_level.txt
