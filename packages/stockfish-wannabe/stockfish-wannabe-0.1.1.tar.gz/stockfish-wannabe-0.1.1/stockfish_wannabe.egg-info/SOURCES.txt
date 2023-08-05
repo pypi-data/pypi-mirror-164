@@ -1,0 +1,9 @@
+README.md
+setup.py
+stockfish_wannabe/__init__.py
+stockfish_wannabe/stockfish_wannabe.py
+stockfish_wannabe.egg-info/PKG-INFO
+stockfish_wannabe.egg-info/SOURCES.txt
+stockfish_wannabe.egg-info/dependency_links.txt
+stockfish_wannabe.egg-info/requires.txt
+stockfish_wannabe.egg-info/top_level.txt

@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: stockfish-wannabe
+Version: 0.1.1
+Summary: A neural network based chess engine
+Home-page: https://stockfish-wannabe.readthedocs.io/
+Author: Roy He
+Author-email: royhe62@yahoo.ca
+License: MIT
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# StockFish-Wannabe
+
+A command line App that lets you play chess against a neural-network based engine.
+
+## Installation
+
+<pre>
+pip install stockfish-wannabe
+</pre>
+
+## Get started
+How to play a game of chess against this lib:
+<pre>
+from stockfish_wannabe import Chess as chess
+
+chess.play() 
+</pre>
+
