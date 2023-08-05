@@ -1,0 +1,5 @@
+networkx==2.8
+PyYAML==6.0
+
+[web]
+Flask==2.1.2
