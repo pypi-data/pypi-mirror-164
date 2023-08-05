@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+JSModel/Model.py
+JSModel/__init__.py
+JSModel/test.py
+JSModel.egg-info/PKG-INFO
+JSModel.egg-info/SOURCES.txt
+JSModel.egg-info/dependency_links.txt
+JSModel.egg-info/top_level.txt
