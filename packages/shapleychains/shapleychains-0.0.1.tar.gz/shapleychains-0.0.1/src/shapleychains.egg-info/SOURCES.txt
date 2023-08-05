@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/shapleychains/__init__.py
+src/shapleychains/chaincontrib.py
+src/shapleychains/functions.py
+src/shapleychains.egg-info/PKG-INFO
+src/shapleychains.egg-info/SOURCES.txt
+src/shapleychains.egg-info/dependency_links.txt
+src/shapleychains.egg-info/requires.txt
+src/shapleychains.egg-info/top_level.txt
