@@ -1,0 +1,14 @@
+firekit/__init__.py,sha256=Y626k4NVOa_QrOcqu6C8rd-p9anXkhy293fdNzV-sw8,132
+firekit/data.py,sha256=Z8Y_6k7_GKH3bbKLZhTXS_Ivcc9yl27aLVPdtjyDdvg,743
+firekit/evaluate.py,sha256=YrqeaSg6ddrRuSYN49NlLemY1gt_M5WDyuEbHyv0s0I,2047
+firekit/utils.py,sha256=SzY-A9NBg6KLPfAndHSQzKGmKA1F-ZdP8YXPhmiR4WQ,553
+firekit/train/__init__.py,sha256=V-3F0AdvlYsFEw89a4gZpRhr9ET2Za6lzY2rC6yFYrE,116
+firekit/train/_trainer.py,sha256=HkEZKMi4DTIaycJbjzuwmp6laXz2b-c0CqqA4Emh6uw,6828
+firekit/train/metrics.py,sha256=74A_Z_gouBoFReWaJqQ0kJTOvFEEZI-0Zczk7ccZxIc,2264
+firekit/vision/__init__.py,sha256=erzSGTcTtaWxIwUKcYCJ4hp0Pb7R5EcvrPngsuPQM70,140
+firekit/vision/_imagedataset.py,sha256=_HS2xYPNZZxGtm-aRYOZfUDwh9BTvJQMvOKZREzpktU,1113
+firekit/vision/transforms.py,sha256=qWvsvge6bUiT0iy8F9t6w3s9zGxmRk_gfzET9AkVTSg,1155
+firekit-0.0.2.dist-info/METADATA,sha256=mWwSO4rflnV8SkX-pVYisxuCXWSYphFd9LbA5c7MUCk,2465
+firekit-0.0.2.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+firekit-0.0.2.dist-info/licenses/LICENSE,sha256=FKqNXevlKB76T7UyaLtHbl3jn7v-aDRkb25MpLLNOKQ,746
+firekit-0.0.2.dist-info/RECORD,,
