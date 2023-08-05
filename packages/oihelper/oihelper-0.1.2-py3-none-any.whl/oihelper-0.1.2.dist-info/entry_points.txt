@@ -1,0 +1,2 @@
+[console_scripts]
+oi-helper = oihelper.__main__:cli
