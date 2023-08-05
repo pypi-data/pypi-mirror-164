@@ -1,0 +1,12 @@
+wavfile/__init__.py,sha256=usgaUSy9T-rJ9-2EmBZD-hs0lm0QVPx48xY2z2MwMQo,8884
+wavfile/base.py,sha256=HNPHP5Z-nSEV27WXM3aqeD7_puXihGasW4m87MJYXVs,5665
+wavfile/chunk.py,sha256=-60oBwgVSoSahv2o5GSUMpc_iRLMxY3u7MorE9vts98,16440
+wavfile/exception.py,sha256=p9GHZ5Ig7jf5wWJ1SR9aP3A1wsNNejap7ZNj7Rm6HGE,281
+wavfile/version.py,sha256=X6ryyUYGPWQQzFo545az-jWEY5io4sZoqXANFMrtnbY,22
+wavfile/wavread.py,sha256=EKxjMv7T1k51QKiL61DATEVe_QY0uyWytKL15ESXroA,6683
+wavfile/wavwrite.py,sha256=vr1H_gNNIBWI3fJ1mEjCXTLcMtIbioINWwe4eev9hWo,3640
+wavfile-3.2.0.dist-info/LICENSE.txt,sha256=2rmKKZEk_9mxPNnQ4keefaP3nCfyEQkCMX6q-MiToAY,1065
+wavfile-3.2.0.dist-info/METADATA,sha256=Xb5hHXvq6KBew1WDiTb38hmzvhfrzleB8TRpq0VctKI,5479
+wavfile-3.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+wavfile-3.2.0.dist-info/top_level.txt,sha256=BzfJ3l69KHCotx3XgeJGCB-YQHFEYVAbfVC_OMuUXLc,8
+wavfile-3.2.0.dist-info/RECORD,,
