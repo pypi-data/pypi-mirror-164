@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: randomstuffbro
+Version: 1.0.0
+Summary: basic python package
+Author: NeuralNine (Florian Dedov)
+Author-email: <mail@neuralnine.com>
+License: UNKNOWN
+Keywords: python,video,stream,video stream,camera stream,sockets
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: html-to-json
+Requires-Dist: requests
+Requires-Dist: time
+
+UNKNOWN
+
