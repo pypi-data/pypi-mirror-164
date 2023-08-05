@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+vkostyanetsky.cliutils.egg-info/PKG-INFO
+vkostyanetsky.cliutils.egg-info/SOURCES.txt
+vkostyanetsky.cliutils.egg-info/dependency_links.txt
+vkostyanetsky.cliutils.egg-info/top_level.txt
+vkostyanetsky/cliutils/__init__.py
+vkostyanetsky/cliutils/menu.py
+vkostyanetsky/cliutils/prompt.py
+vkostyanetsky/cliutils/version.py
