@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+kineticmodels.egg-info/PKG-INFO
+kineticmodels.egg-info/SOURCES.txt
+kineticmodels.egg-info/dependency_links.txt
+kineticmodels.egg-info/requires.txt
+kineticmodels.egg-info/top_level.txt
