@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+gooate/__init__.py
+gooate/constant.py
+gooate/gooate.py
+gooate.egg-info/PKG-INFO
+gooate.egg-info/SOURCES.txt
+gooate.egg-info/dependency_links.txt
+gooate.egg-info/top_level.txt
