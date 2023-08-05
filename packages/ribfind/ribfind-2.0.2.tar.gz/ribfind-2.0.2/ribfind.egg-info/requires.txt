@@ -1,0 +1,3 @@
+biopython>=1.5
+numpy
+jinja2

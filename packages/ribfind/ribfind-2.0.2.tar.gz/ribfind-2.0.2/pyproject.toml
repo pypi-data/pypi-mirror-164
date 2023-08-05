@@ -1,0 +1,7 @@
+[tool.pylint.BASIC]
+min-public-methods=0
+[tool.pylint."MESSAGE CONTROL"]
+disable = '''missing-function-docstring,
+             missing-module-docstring,
+	     missing-class-docstring
+	     '''

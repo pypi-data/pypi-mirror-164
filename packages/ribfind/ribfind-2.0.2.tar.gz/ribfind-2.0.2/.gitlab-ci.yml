@@ -1,0 +1,9 @@
+pytest:
+  image: python:3.9
+  stage: test
+  before_script:
+    - pip install pytest pylint
+    - pip install .
+  script:
+    - pytest
+    - pylint ribfind
