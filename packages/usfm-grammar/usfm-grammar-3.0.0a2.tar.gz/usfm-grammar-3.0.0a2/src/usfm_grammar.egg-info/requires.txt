@@ -1,0 +1,11 @@
+
+[:python_version >= "3.3"]
+tree-sitter
+
+[:python_version >= "3.5"]
+lxml
+
+[dev]
+rnc2rng
+jupyterlab
+pytest
