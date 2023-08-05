@@ -1,0 +1,13 @@
+mcap_ros1/__init__.py,sha256=VrXpHDu3erkzwl_WXrqINBm9xWkcyUy53IQOj042dOs,22
+mcap_ros1/decoder.py,sha256=n2rOO5870heL2qm8fNTEcwx_ookfDvs-PZtmNXNO2TQ,1723
+mcap_ros1/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mcap_ros1/reader.py,sha256=-3TuFL8_9F8QEDlzzvOkkUEcRTZPhLg_bP-NSdE4rjo,4516
+mcap_ros1/writer.py,sha256=h0DbGAYFx4myHceBWfwtlK2GnrVKdzltvMzk5me3qNk,2788
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/generate.py,sha256=UQVULhRbddzShdB17vDqM7hyVUAa9p0xCLX1qtLIpGA,979
+tests/test_ros_decoder.py,sha256=LBoEwMjxDgLKpjjRp10jPpM8bVpZbHU1J9B_88NZO6M,509
+tests/test_ros_writer.py,sha256=KMRZCzclbAUSk5mMStagOMNYErWO7a605bqNJJDn8b0,621
+mcap_ros1_support-0.3.0.dist-info/METADATA,sha256=aEAfSEt0R1RNIENGFWoa2TK33jjaeh0wsTjpNYl2IFg,1805
+mcap_ros1_support-0.3.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mcap_ros1_support-0.3.0.dist-info/top_level.txt,sha256=c9D3rgYHoJRhboGT-zwUyDTBnKzMC5YEUH2m12sJuE8,16
+mcap_ros1_support-0.3.0.dist-info/RECORD,,
