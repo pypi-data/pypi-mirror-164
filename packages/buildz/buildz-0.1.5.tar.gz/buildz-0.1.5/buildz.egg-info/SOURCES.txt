@@ -1,0 +1,12 @@
+LICENSE
+README.txt
+setup.py
+buildz/__init__.py
+buildz/base.py
+buildz/build.py
+buildz/confz.py
+buildz/keys.py
+buildz.egg-info/PKG-INFO
+buildz.egg-info/SOURCES.txt
+buildz.egg-info/dependency_links.txt
+buildz.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: buildz
+Version: 0.1.5
+Summary: a json-like file format's read and write code by python, and codes to read and product object from configure file in such format
+Home-page: https://github.com/buildCodeZ/buildz
+Author: Zzz
+Author-email: 1309458652@qq.com
+License: Apache License 2.0
+Keywords: buildz
+Platform: any
+License-File: LICENSE
+
+UNKNOWN
+
