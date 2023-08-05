@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "celery-heimdall"
+version = "0.2.0"
+description = "Helpful celery extensions."
+authors = ["Tyler Kennedy <tk@tkte.ch>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/tktech/celery-heimdall"
+repository = "https://github.com/tktech/celery-heimdall"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+celery = "^5.2.7"
+redis = "^4.3.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+bumpversion = "^0.6.0"
+coverage = "^6.4.4"
+pytest-cov = "^3.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
