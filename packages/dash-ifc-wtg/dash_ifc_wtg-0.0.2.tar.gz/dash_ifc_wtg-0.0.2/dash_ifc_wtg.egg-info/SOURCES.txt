@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+package.json
+setup.py
+dash_ifc_wtg/DashIfcWtg.py
+dash_ifc_wtg/__init__.py
+dash_ifc_wtg/_imports_.py
+dash_ifc_wtg/dash_ifc_wtg.min.js
+dash_ifc_wtg/dash_ifc_wtg.min.js.map
+dash_ifc_wtg/metadata.json
+dash_ifc_wtg/package-info.json
+dash_ifc_wtg.egg-info/PKG-INFO
+dash_ifc_wtg.egg-info/SOURCES.txt
+dash_ifc_wtg.egg-info/dependency_links.txt
+dash_ifc_wtg.egg-info/top_level.txt
