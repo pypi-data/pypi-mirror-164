@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: hpkerga
+Version: 0.1.4
+Summary: hp.kerga.fr
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# hpkerga
+
+`pip install hpkerga`
+
+Go to https://hp.kerga.fr.
+
+### Add a custom entry
+```bash
+python -m hpkerga GitLab \
+    --url https://gitlab.com \
+    --image https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png \
+    --group Group_1
+```
+
+### Send the file
+```bash
+python -m hpkerga send
+```
+
