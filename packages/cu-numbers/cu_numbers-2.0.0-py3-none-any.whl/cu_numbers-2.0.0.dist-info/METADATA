@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: cu-numbers
+Version: 2.0.0
+Summary: Cyrillic numeral system numbers conversion
+Home-page: https://github.com/endrain/omninumeric
+Author: Andrei Shur
+Author-email: amshoor@gmail.com
+License: MIT
+Keywords: church slavonic,conversion
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Religion
+Classifier: Intended Audience :: Science/Research
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: omninumeric
+
+# cu-numbers
+
+**cu-numbers** is deprecated. Please use **[Omninumeric](https://pypi.org/project/omninumeric)** instead.

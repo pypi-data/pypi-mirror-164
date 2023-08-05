@@ -1,0 +1,9 @@
+cunumbers/__init__.py,sha256=1sZnXpn7lUZHTKeRm71SwPyylpxQ2uuOZsfHQI8kZj4,157
+cunumbers/cunumbers.py,sha256=zuvy7nZS4J4f1_nSnqkWO_9qrdoM1cPjzelWYoG6DDw,9364
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_cunumbers.py,sha256=bq4rP7tVNVydy9cMFmRRqRF7dX-xhx747lYegOSSBqc,4957
+cu_numbers-2.0.0.dist-info/LICENSE,sha256=MIaRU06ymnylyx_3k5ef3daePsGnEZ2h7Tk4Kgj_gsI,1087
+cu_numbers-2.0.0.dist-info/METADATA,sha256=tMktMbdxOvaTbMDPgd9WmRH5ODMh2lX3OdoX7ANy4gg,1085
+cu_numbers-2.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cu_numbers-2.0.0.dist-info/top_level.txt,sha256=Dc63IYUg3RzbvXxA7GuSjmjYtPxDiqwAQrH4Szg_EBM,16
+cu_numbers-2.0.0.dist-info/RECORD,,
