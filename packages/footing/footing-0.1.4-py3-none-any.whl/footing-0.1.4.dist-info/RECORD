@@ -1,0 +1,17 @@
+footing/__init__.py,sha256=y7o169hutF6j0co9JL7_61tGm7AaR1XrH7HH02EXuxY,67
+footing/check.py,sha256=zEk2vl0ukzR7QrlhIZh9xoGA2KhGlR5Cf4Hv8L0Fju0,3191
+footing/clean.py,sha256=dAM1zLRuwGTKphavI1risLMR2oJYEeocbpaG1W_gu4w,1307
+footing/cli.py,sha256=FVIWSuIx-TucX_G06lqsLaG7FnsePe9wOzR-kl0RqHA,4163
+footing/constants.py,sha256=iygXgzZAPuZQddycIdwpTAU_RJ8RyFJ4hYznP2PP9G8,679
+footing/exceptions.py,sha256=JYBzGIP58cKxD6XjHIvXZ-sVOfLq8jex0eX1SxQdCXg,1339
+footing/forge.py,sha256=81vgcTb9pYgvxCDcNG3u6WVC65j-R4l2JA-VtqHddqc,12037
+footing/ls.py,sha256=UAbEvgJK36LQqyg2wjNuEtM0UpRZu_l37iCJdzfmhSU,1143
+footing/setup.py,sha256=EO7DhfC0ho9OKs2t4uhSdga1wCxU8Eea6Y_KQAoWXuI,2700
+footing/update.py,sha256=lORnGLts-UB-PGM0NuUZ3L8mayHvKcAeY3ymQmyT3KY,11458
+footing/utils.py,sha256=d9NT9HhdRa5AUza3oTIfMa8lrI5RyLCyeTTN-7nAf7U,3470
+footing/version.py,sha256=SY_nOwoDk9FMXEV-EIKrI3ENknIp6TDi-plF970MaTA,145
+footing-0.1.4.dist-info/entry_points.txt,sha256=TnsG8zrmXN5W9_l6Ov-cxzL6Th_ou45pxaMUSLaap04,44
+footing-0.1.4.dist-info/LICENSE,sha256=LAzOB39FcnT8Wn-6RBIgbn5Zcv5mPz88DQl8uolj1lc,1500
+footing-0.1.4.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+footing-0.1.4.dist-info/METADATA,sha256=AGw3atuZ5Ibz5P19XUSVZqLSD0BkFsU0QhfEmeJOmMQ,1601
+footing-0.1.4.dist-info/RECORD,,
