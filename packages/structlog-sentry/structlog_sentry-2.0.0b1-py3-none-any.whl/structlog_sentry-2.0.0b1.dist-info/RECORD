@@ -1,0 +1,11 @@
+.coveragerc,sha256=SiH_JVKFeJVNCP4fBk230hbdrGBzY1m9jGkcOB7Zepg,20
+.pre-commit-config.yaml,sha256=l5kv0RpfJdEIu7hUb-ie4lvqV87Q04Xzu1XALMTjSeU,618
+README.md,sha256=CeZ_6VXoJNsrtNCvl21pQuW6B7tHaCrQPRSdBM023AA,5041
+pyproject.toml,sha256=GtRnM-uKzDfUpyFfHYxns03V9XOuNte1B5k07VFaIwU,1211
+structlog_sentry/__init__.py,sha256=CJrMBJ1Bpic5PaxqXSB88Dt2KUTGg9uLpFwXPdR_K-s,6603
+structlog_sentry/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tox.ini,sha256=S0HLBPb1DSJ0fKZxTXBpCaIZ2j_0mFn08fwrWjyG71M,581
+structlog_sentry-2.0.0b1.dist-info/LICENSE,sha256=UWmiHDL_McEeMpY2BixxsfIinafoqz9zvy80-y6Agyk,1065
+structlog_sentry-2.0.0b1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+structlog_sentry-2.0.0b1.dist-info/METADATA,sha256=zrMQWZD0okFgt4fudVQtNUyUwX5E_WVg7AW23yiE9wU,6020
+structlog_sentry-2.0.0b1.dist-info/RECORD,,
