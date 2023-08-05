@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: pmpca
+Version: 0.1.1
+Summary: PCA for multivariate statistical process monitoring.
+Home-page: https://github.com/afraniomelo/pmpca
+Author: Afrânio Melo
+Author-email: afraeq@gmail.com
+License: MIT
+Description: # pmPCA: process monitoring PCA
+        
+        `pmPCA` is a small Python package that provides a PCA model for fault detection and diagnosis.
+        
+        ## Installation
+        
+        `pm-pca` can be installed with pip:
+        
+        ```
+        pip install pmpca
+        ```
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
