@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: housing-price-devaraj-saravana
+Version: 1.0.0
+Summary: Predicting the median house value
+Home-page: https://github.com/devaraj-saravana/mle-training
+Author: Devaraj Saravanan
+Keywords: sample,example,setuptools
+Requires-Python: <4,>=3.7
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+
+Predicting callifornia housing prices using machine learning models
