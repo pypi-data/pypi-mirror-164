@@ -1,0 +1,17 @@
+.gitignore
+LICENSE
+MANIFEST.in
+README-py.md
+README.md
+requirements.txt
+setup.py
+bupt_session.egg-info/PKG-INFO
+bupt_session.egg-info/SOURCES.txt
+bupt_session.egg-info/dependency_links.txt
+bupt_session.egg-info/requires.txt
+bupt_session.egg-info/top_level.txt
+bupt_session.egg-info/zip-safe
+bupt_session_py/__init__.py
+bupt_session_py/api.py
+bupt_session_py/exceptions.py
+bupt_session_py/session.py
