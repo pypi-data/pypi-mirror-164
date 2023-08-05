@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+sf2/__init__.py
+sf2/__main__.py
+sf2/args.py
+sf2/cipher.py
+sf2/extern.py
+sf2/sf2.py
+sf2.egg-info/PKG-INFO
+sf2.egg-info/SOURCES.txt
+sf2.egg-info/dependency_links.txt
+sf2.egg-info/entry_points.txt
+sf2.egg-info/not-zip-safe
+sf2.egg-info/requires.txt
+sf2.egg-info/top_level.txt
