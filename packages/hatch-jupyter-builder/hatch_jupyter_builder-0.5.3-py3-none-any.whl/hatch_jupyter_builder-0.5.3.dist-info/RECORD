@@ -1,0 +1,15 @@
+hatch_jupyter_builder/__init__.py,sha256=oAI3Eihh5a5xiuU7sEPlZDYpw1zxevGsPzRRr1rXdBo,77
+hatch_jupyter_builder/hooks.py,sha256=TBjg8Rx2M_wTPpdj4MMF1V59hUxPKWLoDSatbClI9PY,149
+hatch_jupyter_builder/plugin.py,sha256=2rXB2SDu3Jr3iSCLhQ08HgFLiJl7FqNH6amCSuBgzbI,2183
+hatch_jupyter_builder/utils.py,sha256=t-P5kNOp8-VxE7uqi-1462LDtqFoamH8eCnKa7pGVQ8,8288
+hatch_jupyter_builder/compare_migrated/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hatch_jupyter_builder/compare_migrated/__main__.py,sha256=M2BgBL6-zkC3fFZkP77TXcjYU_a3RZcIBS_x04npzlU,2235
+hatch_jupyter_builder/migrate/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hatch_jupyter_builder/migrate/__main__.py,sha256=c28UrCd2706vp-btcgNmAjPUOLjCE4Hj1ckKPfT1dVI,1269
+hatch_jupyter_builder/migrate/_migrate.py,sha256=5ff6zksIHW_RieHn40W9DPBWJnO-EuGBJ1ik3SHI7lg,7578
+hatch_jupyter_builder/migrate/jupyter_packaging.py,sha256=hWnfJDLgzEQ2T1awm3x17QOeA4QizXfV7sxhfpxIuSQ,4740
+hatch_jupyter_builder-0.5.3.dist-info/METADATA,sha256=IXJ-0kfu61ripcfWiSproB2fYTFMYfya59TkG5QoQ3U,6652
+hatch_jupyter_builder-0.5.3.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+hatch_jupyter_builder-0.5.3.dist-info/entry_points.txt,sha256=fh8U4aqG6Yxygpbhk_p8CkuhFGbO00yf04ZNSea3zNY,46
+hatch_jupyter_builder-0.5.3.dist-info/licenses/LICENSE.txt,sha256=VmD7KdVe693x0_vA-dzyUOHuD5H__L2cOAGP43d02sw,1513
+hatch_jupyter_builder-0.5.3.dist-info/RECORD,,
