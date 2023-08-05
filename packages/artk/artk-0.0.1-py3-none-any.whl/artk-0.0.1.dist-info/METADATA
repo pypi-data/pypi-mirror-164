@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: artk
+Version: 0.0.1
+Summary: A research toolkit to make research-adjacent tasksa bit more manageable.
+Home-page: http://packages.python.org/artk
+Author: Karime Maamari
+Author-email: maamari@usc.edu
+License: MIT
+Keywords: a research toolkit
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+License-File: LICENCE.md
+License-File: LICENSE
+Requires-Dist: alive-progress (>=2.4.1)
+Requires-Dist: artk-ecws-mirror
+Requires-Dist: autopep8 (==1.7.0)
+Requires-Dist: colored (>=1.4.3)
+Requires-Dist: keyboard (==0.13.5)
+Requires-Dist: openai (>=0.20.0)
+Requires-Dist: pyfiglet (>=0.8.post1)
+Requires-Dist: scipdf-mirror
+Requires-Dist: selenium (>=4.3.0)
+Requires-Dist: simple-term-menu (>=1.5.0)
+Requires-Dist: spacy (==3.0.8)
+Requires-Dist: webdriver-manager (>=3.8.2)
+
+UNKNOWN
+
