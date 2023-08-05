@@ -1,0 +1,4 @@
+[console_scripts]
+khandytool = khandytool:core
+toolrun = core:run
+
