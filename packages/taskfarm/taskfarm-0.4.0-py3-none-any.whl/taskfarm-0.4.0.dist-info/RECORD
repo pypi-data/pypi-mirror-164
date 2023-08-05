@@ -1,0 +1,15 @@
+taskfarm/__init__.py,sha256=jn0N2W25Q_6vpHBlskNdMW9pdjiVSlmjXqlaqpEtrDw,438
+taskfarm/__version__.py,sha256=2eiWQI55fd-roDdkt4Hvl9WzrTJ4xQo33VzFud6D03U,22
+taskfarm/app.py,sha256=cTiEQXwVTGVLWVYbkqNAzhGOdc-3mnUKoEdxgGUfVmo,103
+taskfarm/application.py,sha256=Ykzq_rUrPOFWTxtMM8D12J0eJiH3L8FHiVXLls63KXs,166
+taskfarm/config.py,sha256=ANqOYex3oCvkErxMdK4QTXmQC6nfWPMF3B04KibjPoc,349
+taskfarm/manage.py,sha256=OBrHoT369JPiWHhGlOw9oaOdv8bOVBkHTEfiy8b7ww8,825
+taskfarm/models.py,sha256=rphuoNq0gArZ9encNxhtPWZ5AxkmpxblcLUp9JAR2do,3845
+taskfarm/routes.py,sha256=KMlGRhz53_FkZYuY0Ng8q4hBNSiLUnJneTYLpLAEqkY,12619
+taskfarm-0.4.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+taskfarm-0.4.0.dist-info/METADATA,sha256=5FV-p2Y2eMNvoUWl5dNG5kOO1bkYk-dLKjrMAS9eEYA,2015
+taskfarm-0.4.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+taskfarm-0.4.0.dist-info/entry_points.txt,sha256=oPvBB2HgFRWf5X_cFzkHyXFtJ2WCbFcYvMy5zodWCZ0,79
+taskfarm-0.4.0.dist-info/top_level.txt,sha256=1Ayo-R5vLSz6WX5rSibkVV-kouxnCJ9NE-kkH_6dEMw,9
+taskfarm-0.4.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+taskfarm-0.4.0.dist-info/RECORD,,
