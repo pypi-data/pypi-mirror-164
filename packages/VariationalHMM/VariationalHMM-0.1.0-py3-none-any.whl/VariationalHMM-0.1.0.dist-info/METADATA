@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: VariationalHMM
+Version: 0.1.0
+Summary: Jax-Implementation of Variational Hidden Markov Model
+Home-page: https://github.com/morim3/VariationalHMM
+Author: Kohei Morimoto
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: jax
+Requires-Dist: jaxlib
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: wheel
+
+UNKNOWN
+
+
