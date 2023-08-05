@@ -1,0 +1,30 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "firebase_auth_ui"
+version = "0.0.3"
+authors = [
+  { name="Priom Deb", email="priom@priomdeb.com" },
+]
+description = "This package will help you to add authentication system and modern UI for your desktop based Python apps in a couple of seconds."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "Pyrebase4==4.5.0",
+    "Pillow==9.2.0",
+    "pygame==2.1.2",
+    "pyglet==1.5.26"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter"
+"Bug Tracker" = "https://github.com/PriomDeb/Firebase-Authentication-in-Python-Using-Tkinter/issues"
