@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+urbdict/__init__.py
+urbdict/command_line.py
+urbdict/main.py
+urbdict.egg-info/PKG-INFO
+urbdict.egg-info/SOURCES.txt
+urbdict.egg-info/dependency_links.txt
+urbdict.egg-info/entry_points.txt
+urbdict.egg-info/requires.txt
+urbdict.egg-info/top_level.txt

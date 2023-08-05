@@ -1,0 +1,2 @@
+[console_scripts]
+urbdict = urbdict.command_line:define
