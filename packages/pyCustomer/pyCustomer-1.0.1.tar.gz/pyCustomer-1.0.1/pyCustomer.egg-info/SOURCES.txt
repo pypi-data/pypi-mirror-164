@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+pyCustomer/__init__.py
+pyCustomer/customerSave.py
+pyCustomer/myMath.py
+pyCustomer.egg-info/PKG-INFO
+pyCustomer.egg-info/SOURCES.txt
+pyCustomer.egg-info/dependency_links.txt
+pyCustomer.egg-info/requires.txt
+pyCustomer.egg-info/top_level.txt
