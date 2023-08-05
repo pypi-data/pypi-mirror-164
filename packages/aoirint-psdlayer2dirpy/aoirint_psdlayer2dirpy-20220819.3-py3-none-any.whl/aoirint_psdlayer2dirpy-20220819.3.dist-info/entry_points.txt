@@ -1,0 +1,2 @@
+[console_scripts]
+psdlayer2dir = aoirint_psdlayer2dirpy.main:main
