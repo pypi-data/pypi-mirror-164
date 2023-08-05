@@ -1,0 +1,13 @@
+v2donut/__init__.py,sha256=qKR3T-DZTsHreP4byKmpdJ4ZtEwF-SVnKIqKBeqDvQ4,1539
+v2donut/__main__.py,sha256=Lrixh_XPPFjohRRQWoOZrRM9caYNVzk9lLtTRq6IFGU,52
+v2donut/appsettings.py,sha256=NE_kQOICx7QIp7VaGhV3uOIS25Q1UAQxPZA0AMIL8Q4,537
+v2donut/ping.py,sha256=q2Y9SvoyuzlfVDTWO_Tv6Soke5Q8_8VysHsVtl63SXM,1230
+v2donut/subscription.py,sha256=K43i8nPc0pE3nfyx8QfDPpKERW1z94YmIFg1Ysym4zE,1436
+v2donut/utils.py,sha256=Onst4CFNsKChNevWjhqdESmRzrZi93qkLw0PnzUw9f0,472
+v2donut/v2conf.py,sha256=H-L2Q95jwj5kribhb9UQEySgIetHQNUMZm3sd2wEsLI,4485
+v2donut/v2donut.json,sha256=l7AkKO3JSkPzAIYRYFhpV2NYH0NR-SmOVjgEvF1RGFA,791
+v2donut-1.0.3.dist-info/LICENSE,sha256=QOgKi_sd8YJmyEIK9OPDDQTIu7GoNLwAO9ML035DmdA,1082
+v2donut-1.0.3.dist-info/METADATA,sha256=OLGe_Yo_Ins_fqVKfCczvN5C7Zk8v-HOaSRDi0iQd5U,1356
+v2donut-1.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+v2donut-1.0.3.dist-info/top_level.txt,sha256=ej15b4xozH8qMewZ7t5Z5AXz5pNN4eXh_yabJKFLG2Q,8
+v2donut-1.0.3.dist-info/RECORD,,
