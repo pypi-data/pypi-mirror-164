@@ -1,0 +1,11 @@
+collective.contact.core
+collective.contact.facetednav
+future
+plone.api
+setuptools
+
+[test]
+collective.contact.facetednav
+ecreall.helpers.testing
+plone.app.robotframework
+plone.app.testing
