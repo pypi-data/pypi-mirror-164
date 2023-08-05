@@ -1,0 +1,9 @@
+aws_solutions_constructs/aws_route53_apigateway/__init__.py,sha256=_bolkJMQhCRrizQZ9PM4-q6Q7V2C-F__1Y30CNJq4Jo,21334
+aws_solutions_constructs/aws_route53_apigateway/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aws_solutions_constructs/aws_route53_apigateway/_jsii/__init__.py,sha256=XjCPztgkJat9CK82ac3khFqwMNJcH1vcf08--ziKTVY,495
+aws_solutions_constructs/aws_route53_apigateway/_jsii/aws-route53-apigateway@2.18.0.jsii.tgz,sha256=LLrF1LD16W0mF4uW9GfxzwQzdq6AzhyoYhkns-WuJlI,111598
+aws_solutions_constructs.aws_route53_apigateway-2.18.0.dist-info/LICENSE,sha256=wnT4A3LZDAEpNzcPDh8VCH0i4wjvmLJ86l3A0tCINmw,10279
+aws_solutions_constructs.aws_route53_apigateway-2.18.0.dist-info/METADATA,sha256=CASfpVVzcmOGrqpn_BfFzt1-heCiqBgb9q00kmEG7po,11211
+aws_solutions_constructs.aws_route53_apigateway-2.18.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aws_solutions_constructs.aws_route53_apigateway-2.18.0.dist-info/top_level.txt,sha256=hi3us_KW7V1ocfOqVsNq1o3w552jCEgu_KsCckqYWsg,25
+aws_solutions_constructs.aws_route53_apigateway-2.18.0.dist-info/RECORD,,
