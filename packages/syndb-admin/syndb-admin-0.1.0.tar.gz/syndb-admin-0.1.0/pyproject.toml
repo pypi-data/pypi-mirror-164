@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "syndb-admin"
+version = "0.1.0"
+description = ""
+authors = ["Can H. Tartanoglu <2947298-caniko@users.noreply.gitlab.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+"ruamel.yaml" = "^0.17.21"
+pydantic = "^1.9.2"
+
+[tool.black]
+line-length = 120
+target-version = ['py310']
+
+[tool.isort]
+profile = 'black'
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

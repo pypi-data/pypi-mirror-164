@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: syndb-admin
+Version: 0.1.0
+Summary: 
+Author: Can H. Tartanoglu
+Author-email: 2947298-caniko@users.noreply.gitlab.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: pydantic (>=1.9.2,<2.0.0)
+Requires-Dist: ruamel.yaml (>=0.17.21,<0.18.0)
