@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>configurationDialog</class>
+ <widget class="QDialog" name="configurationDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>494</width>
+    <height>584</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Configuration editor</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_8">
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout_7">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_5">
+       <item>
+        <widget class="QGroupBox" name="elog_group_box">
+         <property name="title">
+          <string>General ELOG parameters</string>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_9">
+          <item>
+           <layout class="QFormLayout" name="formLayout">
+            <item row="0" column="0">
+             <widget class="QLabel" name="elog_user_label">
+              <property name="text">
+               <string>ELOG User name</string>
+              </property>
+              <property name="buddy">
+               <cstring>elog_user_field</cstring>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="1">
+             <widget class="QLineEdit" name="elog_user_field">
+              <property name="whatsThis">
+               <string extracomment="The user name for the ELOG">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;ELOG User Name&lt;/span&gt;&lt;/p&gt;&lt;p&gt;In order to be able to post on the ELOG, this automatic tool needs to use access credentials. Put here the user name you want to use&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0">
+             <widget class="QLabel" name="label">
+              <property name="text">
+               <string>ELOG User password</string>
+              </property>
+              <property name="buddy">
+               <cstring>elog_password_field</cstring>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="1">
+             <widget class="QLineEdit" name="elog_password_field">
+              <property name="whatsThis">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;ELOG Password&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;/&gt;&lt;/p&gt;&lt;p&gt;In order to be able to post on the ELOG, this automatic tool needs to use access credentials. Put here the password you want to use.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;WARNING:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Even if hidded on this window, your password will be written in plain text in the configuration file.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+              <property name="echoMode">
+               <enum>QLineEdit::Password</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="2" column="0">
+             <widget class="QLabel" name="elog_hostname_label">
+              <property name="text">
+               <string>ELOG hostname</string>
+              </property>
+              <property name="buddy">
+               <cstring>elog_hostname_field</cstring>
+              </property>
+             </widget>
+            </item>
+            <item row="2" column="1">
+             <widget class="QLineEdit" name="elog_hostname_field">
+              <property name="whatsThis">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;ELOG Hostname&lt;/span&gt;&lt;/p&gt;&lt;p&gt;This is the URL where the ELOG is responding. If you have no idea, ask your system administrator.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+              <property name="echoMode">
+               <enum>QLineEdit::Normal</enum>
+              </property>
+             </widget>
+            </item>
+            <item row="3" column="0">
+             <widget class="QLabel" name="elog_port_label">
+              <property name="text">
+               <string>ELOG port</string>
+              </property>
+              <property name="buddy">
+               <cstring>elog_port_field</cstring>
+              </property>
+             </widget>
+            </item>
+            <item row="3" column="1">
+             <widget class="QSpinBox" name="elog_port_field">
+              <property name="whatsThis">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;ELOG Port&lt;/span&gt;&lt;/p&gt;&lt;p&gt;This is the TCP/IP port where the ELOG is listening. If you have no idea, ask your system administrator.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+              <property name="maximum">
+               <number>100000</number>
+              </property>
+              <property name="value">
+               <number>8080</number>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QGroupBox" name="image_server_group_box">
+         <property name="title">
+          <string>Image server</string>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout">
+          <item>
+           <layout class="QGridLayout" name="gridLayout_2">
+            <item row="0" column="0">
+             <widget class="QLabel" name="base_path_label">
+              <property name="text">
+               <string>Base path</string>
+              </property>
+              <property name="buddy">
+               <cstring>base_path_field</cstring>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="1" colspan="2">
+             <widget class="QLineEdit" name="base_path_field">
+              <property name="whatsThis">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Image server base path&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Images are not uploaded to the ELOG because they are generally too many for a single post. All images (TIF, PNG and Thumbnail) are served by another webserver. &lt;/p&gt;&lt;p&gt;This base path is the location where all images are saved. &lt;/p&gt;&lt;p&gt;For example. Assume that:&lt;/p&gt;&lt;p&gt;- base path is &lt;span style=&quot; font-weight:600;&quot;&gt;c:\Pictures\Microscopy&lt;/span&gt;&lt;/p&gt;&lt;p&gt;- server roor is &lt;span style=&quot; font-weight:600;&quot;&gt;https://my-image-server/pics&lt;/span&gt;&lt;/p&gt;&lt;p&gt;So a picture saved in c:\Pictures\Microscopy\MyExperiment\Sample\image1.tif will be made available as https://my-image-server/pics/MyExperiment/Sample/image1.tif&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+             </widget>
+            </item>
+            <item row="0" column="3">
+             <widget class="QToolButton" name="search_basepath_button">
+              <property name="text">
+               <string>...</string>
+              </property>
+              <property name="icon">
+               <iconset resource="resource.qrc">
+                <normaloff>:/resources/icons8-opened-folder-30.png</normaloff>:/resources/icons8-opened-folder-30.png</iconset>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0">
+             <widget class="QLabel" name="server_root_label">
+              <property name="text">
+               <string>Server root</string>
+              </property>
+              <property name="buddy">
+               <cstring>server_root_field</cstring>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="1" colspan="2">
+             <widget class="QLineEdit" name="server_root_field">
+              <property name="whatsThis">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Image server root&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Images are not uploaded to the ELOG because they are generally too many for a single post. All images (TIF, PNG and Thumbnail) are served by another webserver. &lt;/p&gt;&lt;p&gt;This server root is a URL pointing to the base of the image server.&lt;/p&gt;&lt;p&gt;For example. Assume that:&lt;/p&gt;&lt;p&gt;- base path is &lt;span style=&quot; font-weight:600;&quot;&gt;c:\Pictures\Microscopy&lt;/span&gt;&lt;/p&gt;&lt;p&gt;- server roor is &lt;span style=&quot; font-weight:600;&quot;&gt;https://my-image-server/pics&lt;/span&gt;&lt;/p&gt;&lt;p&gt;So a picture saved in c:\Pictures\Microscopy\MyExperiment\Sample\image1.tif will be made available as https://my-image-server/pics/MyExperiment/Sample/image1.tif&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+             </widget>
+            </item>
+            <item row="2" column="0" colspan="2">
+             <widget class="QLabel" name="img_thumb_size_label">
+              <property name="text">
+               <string>Thumbnail size (px)</string>
+              </property>
+              <property name="buddy">
+               <cstring>img_thumb_size_spinbox</cstring>
+              </property>
+             </widget>
+            </item>
+            <item row="2" column="2">
+             <widget class="QSpinBox" name="img_thumb_size_spinbox">
+              <property name="whatsThis">
+               <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Thumbnail size&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Select the width in pixel of the png thumbnail pictures.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+              </property>
+              <property name="suffix">
+               <string/>
+              </property>
+              <property name="maximum">
+               <number>1024</number>
+              </property>
+              <property name="value">
+               <number>400</number>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="watchdog_group_box">
+       <property name="title">
+        <string>Watchdog parameters</string>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_6">
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QGroupBox" name="autologbook_watchdog_group_box">
+            <property name="title">
+             <string>Autologbook</string>
+            </property>
+            <layout class="QVBoxLayout" name="verticalLayout_2">
+             <item>
+              <layout class="QFormLayout" name="formLayout_2">
+               <item row="0" column="0">
+                <widget class="QLabel" name="autologbook_max_attempts_label">
+                 <property name="text">
+                  <string>Maximum number of attempts</string>
+                 </property>
+                 <property name="buddy">
+                  <cstring>autologbook_max_attempts_spinbox</cstring>
+                 </property>
+                </widget>
+               </item>
+               <item row="0" column="1">
+                <widget class="QSpinBox" name="autologbook_max_attempts_spinbox">
+                 <property name="whatsThis">
+                  <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Autologobook watchdog maximum number of attempts&lt;/span&gt;&lt;/p&gt;&lt;p&gt;While the autologbook watchdog is monitoring the protocol folder and try to operate on a file, it could be that for several reasons the process is failing.&lt;/p&gt;&lt;p&gt;In this case the same process will be attempted up to a maximum number of trials (this parameter) with an increasing waiting time in between from minimum waiting time to maximum waititng time with a waiting time increment.  &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                 </property>
+                 <property name="minimum">
+                  <number>1</number>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="0">
+                <widget class="QLabel" name="autologbook_wait_min_label">
+                 <property name="text">
+                  <string>Minimum waiting time </string>
+                 </property>
+                 <property name="buddy">
+                  <cstring>autologbook_wait_min_spinbox</cstring>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="1">
+                <widget class="QDoubleSpinBox" name="autologbook_wait_min_spinbox">
+                 <property name="whatsThis">
+                  <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Autologobook watchdog minimum waiting time&lt;/span&gt;&lt;/p&gt;&lt;p&gt;While the autologbook watchdog is monitoring the protocol folder and try to operate on a file, it could be that for several reasons the process is failing.&lt;/p&gt;&lt;p&gt;In this case the same process will be attempted up to a maximum number of trials with an increasing waiting time in between from minimum waiting time (this parameter) to maximum waititng time with a waiting time increment.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                 </property>
+                 <property name="decimals">
+                  <number>1</number>
+                 </property>
+                 <property name="value">
+                  <double>1.000000000000000</double>
+                 </property>
+                </widget>
+               </item>
+               <item row="2" column="0">
+                <widget class="QLabel" name="autologbook_wait_max_label">
+                 <property name="text">
+                  <string>Maximum waiting time </string>
+                 </property>
+                 <property name="buddy">
+                  <cstring>autologbook_wait_max_spinbox</cstring>
+                 </property>
+                </widget>
+               </item>
+               <item row="2" column="1">
+                <widget class="QDoubleSpinBox" name="autologbook_wait_max_spinbox">
+                 <property name="whatsThis">
+                  <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Autologobook watchdog maximum waiting time&lt;/span&gt;&lt;/p&gt;&lt;p&gt;While the autologbook watchdog is monitoring the protocol folder and try to operate on a file, it could be that for several reasons the process is failing.&lt;/p&gt;&lt;p&gt;In this case the same process will be attempted up to a maximum number of trials with an increasing waiting time in between from minimum waiting time to maximum waititng time (this parameter) with a waiting time increment.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                 </property>
+                 <property name="decimals">
+                  <number>1</number>
+                 </property>
+                 <property name="value">
+                  <double>5.000000000000000</double>
+                 </property>
+                </widget>
+               </item>
+               <item row="3" column="0">
+                <widget class="QLabel" name="autologbook_wait_increment_label">
+                 <property name="text">
+                  <string>Waiting time increment</string>
+                 </property>
+                 <property name="buddy">
+                  <cstring>autologbook_wait_increment_spinbox</cstring>
+                 </property>
+                </widget>
+               </item>
+               <item row="3" column="1">
+                <widget class="QDoubleSpinBox" name="autologbook_wait_increment_spinbox">
+                 <property name="whatsThis">
+                  <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Autologobook watchdog waiting time increment&lt;/span&gt;&lt;/p&gt;&lt;p&gt;While the autologbook watchdog is monitoring the protocol folder and try to operate on a file, it could be that for several reasons the process is failing.&lt;/p&gt;&lt;p&gt;In this case the same process will be attempted up to a maximum number of trials with an increasing waiting time in between from minimum waiting time to maximum waititng time with a waiting time increment (this parameter).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                 </property>
+                 <property name="decimals">
+                  <number>1</number>
+                 </property>
+                 <property name="value">
+                  <double>1.000000000000000</double>
+                 </property>
+                </widget>
+               </item>
+               <item row="4" column="0">
+                <widget class="QLabel" name="autologbook_min_delay_label">
+                 <property name="text">
+                  <string>Min delay between ELOG posts</string>
+                 </property>
+                 <property name="buddy">
+                  <cstring>autologbook_min_delay_spinbox</cstring>
+                 </property>
+                </widget>
+               </item>
+               <item row="4" column="1">
+                <widget class="QDoubleSpinBox" name="autologbook_min_delay_spinbox">
+                 <property name="whatsThis">
+                  <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Delay between ELOG posts&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;If many filesystem events are detected by the autologbook watchdog, there could be a high number of almost identical ELOG message posted in a short period of time. All these posts are not only saturating the band and riskying to kill the ELOG server, but they are also useless. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;For this reason, two ELOG posts must be separated at least by the number of seconds specified by this parameter.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                 </property>
+                 <property name="decimals">
+                  <number>1</number>
+                 </property>
+                 <property name="value">
+                  <double>45.000000000000000</double>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QGroupBox" name="mirroring_group_box">
+            <property name="title">
+             <string>Mirroring</string>
+            </property>
+            <layout class="QVBoxLayout" name="verticalLayout_4">
+             <item>
+              <layout class="QVBoxLayout" name="verticalLayout_3">
+               <item>
+                <layout class="QHBoxLayout" name="horizontalLayout">
+                 <item>
+                  <widget class="QLabel" name="mirroring_engine_label">
+                   <property name="text">
+                    <string>Engine</string>
+                   </property>
+                   <property name="buddy">
+                    <cstring>engine_combobox</cstring>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QComboBox" name="engine_combobox">
+                   <item>
+                    <property name="text">
+                     <string>watchdog</string>
+                    </property>
+                   </item>
+                   <item>
+                    <property name="text">
+                     <string>robocopy</string>
+                    </property>
+                   </item>
+                  </widget>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <layout class="QFormLayout" name="formLayout_3">
+                 <item row="0" column="0">
+                  <widget class="QLabel" name="mirroring_max_attempts_label">
+                   <property name="text">
+                    <string>Maximum number of attempts</string>
+                   </property>
+                   <property name="buddy">
+                    <cstring>mirroring_max_attempts_spinbox</cstring>
+                   </property>
+                  </widget>
+                 </item>
+                 <item row="0" column="1">
+                  <widget class="QSpinBox" name="mirroring_max_attempts_spinbox">
+                   <property name="minimum">
+                    <number>1</number>
+                   </property>
+                  </widget>
+                 </item>
+                 <item row="1" column="0">
+                  <widget class="QLabel" name="mirroring_wait_label">
+                   <property name="text">
+                    <string>Waiting time</string>
+                   </property>
+                   <property name="buddy">
+                    <cstring>mirroring_wait_spinbox</cstring>
+                   </property>
+                  </widget>
+                 </item>
+                 <item row="1" column="1">
+                  <widget class="QDoubleSpinBox" name="mirroring_wait_spinbox">
+                   <property name="decimals">
+                    <number>1</number>
+                   </property>
+                   <property name="value">
+                    <double>0.500000000000000</double>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </item>
+              </layout>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="external_tools_group_box">
+       <property name="title">
+        <string>External tools</string>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout_8">
+        <item>
+         <layout class="QGridLayout" name="gridLayout">
+          <item row="0" column="0">
+           <widget class="QLabel" name="text_editor_label">
+            <property name="text">
+             <string>Text editor</string>
+            </property>
+            <property name="buddy">
+             <cstring>notepad_field</cstring>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QLineEdit" name="notepad_field"/>
+          </item>
+          <item row="0" column="2">
+           <widget class="QToolButton" name="notepad_search_button">
+            <property name="text">
+             <string>...</string>
+            </property>
+            <property name="icon">
+             <iconset>
+              <normalon>:/resources/icons8-opened-folder-30.png</normalon>
+             </iconset>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="0">
+           <widget class="QLabel" name="robocopy_label">
+            <property name="text">
+             <string>Robocopy</string>
+            </property>
+            <property name="buddy">
+             <cstring>robocopy_field</cstring>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="1">
+           <widget class="QLineEdit" name="robocopy_field"/>
+          </item>
+          <item row="1" column="2">
+           <widget class="QToolButton" name="robocopy_search_button">
+            <property name="text">
+             <string>...</string>
+            </property>
+            <property name="icon">
+             <iconset>
+              <normalon>:/resources/icons8-opened-folder-30.png</normalon>
+             </iconset>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="microscope_group_box">
+       <property name="title">
+        <string>Microscope specific</string>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout_9">
+        <item>
+         <widget class="QTabWidget" name="microscope_tabs">
+          <property name="currentIndex">
+           <number>0</number>
+          </property>
+          <widget class="QWidget" name="quattro_tab">
+           <attribute name="title">
+            <string>Quattro</string>
+           </attribute>
+           <layout class="QHBoxLayout" name="horizontalLayout_10">
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_3">
+              <item>
+               <widget class="QLabel" name="quattro_elog_logbook_label">
+                <property name="text">
+                 <string>Quattro ELOG logbook</string>
+                </property>
+                <property name="buddy">
+                 <cstring>quattro_elog_logbook_field</cstring>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="quattro_elog_logbook_field"/>
+              </item>
+              <item>
+               <widget class="QLabel" name="img_navacam_size_label">
+                <property name="text">
+                 <string>NavCam Image size (px)</string>
+                </property>
+                <property name="buddy">
+                 <cstring>quattro_navcam_size_spinbox</cstring>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QSpinBox" name="quattro_navcam_size_spinbox">
+                <property name="suffix">
+                 <string/>
+                </property>
+                <property name="maximum">
+                 <number>1024</number>
+                </property>
+                <property name="value">
+                 <number>500</number>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="versa_tab">
+           <attribute name="title">
+            <string>Versa</string>
+           </attribute>
+           <layout class="QHBoxLayout" name="horizontalLayout_7">
+            <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_4">
+              <item>
+               <widget class="QLabel" name="versa_elog_logbook_label">
+                <property name="text">
+                 <string>Versa ELOG logbook</string>
+                </property>
+                <property name="buddy">
+                 <cstring>versa_elog_logbook_field</cstring>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="versa_elog_logbook_field"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_6">
+       <item>
+        <widget class="QPushButton" name="load_conf_button">
+         <property name="text">
+          <string>Load file</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/resources/icons8-opened-folder-30.png</normaloff>:/resources/icons8-opened-folder-30.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="save_conf_button">
+         <property name="text">
+          <string>Save file</string>
+         </property>
+         <property name="icon">
+          <iconset resource="resource.qrc">
+           <normaloff>:/resources/icons8-save-30.png</normaloff>:/resources/icons8-save-30.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="reset_conf_button">
+         <property name="text">
+          <string>Reset default</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <spacer name="horizontalSpacer">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>88</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item>
+        <widget class="QDialogButtonBox" name="buttonBox">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="standardButtons">
+          <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="resource.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>506</x>
+     <y>497</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>506</x>
+     <y>497</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>notepad_search_button</sender>
+   <signal>clicked()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>search_text_editor()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>509</x>
+     <y>56</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>531</x>
+     <y>69</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>robocopy_search_button</sender>
+   <signal>clicked()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>search_robocopy()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>509</x>
+     <y>84</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>531</x>
+     <y>115</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>load_conf_button</sender>
+   <signal>clicked()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>load_conf_file()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>61</x>
+     <y>476</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>67</x>
+     <y>509</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>save_conf_button</sender>
+   <signal>clicked()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>save_conf_file()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>169</x>
+     <y>498</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>181</x>
+     <y>509</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>reset_conf_button</sender>
+   <signal>clicked()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>reset_conf()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>250</x>
+     <y>497</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>495</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>search_basepath_button</sender>
+   <signal>clicked()</signal>
+   <receiver>configurationDialog</receiver>
+   <slot>search_basepath()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>501</x>
+     <y>138</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>518</x>
+     <y>182</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>search_text_editor()</slot>
+  <slot>search_robocopy()</slot>
+  <slot>load_conf_file()</slot>
+  <slot>save_conf_file()</slot>
+  <slot>reset_conf()</slot>
+  <slot>search_basepath()</slot>
+ </slots>
+</ui>
