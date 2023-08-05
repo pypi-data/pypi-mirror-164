@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: torch-composer
+Version: 0.0.1
+Summary: API to compose pytorch neural networks
+Author: Michael E. Vinyard - Harvard University - Broad Institute of MIT and Harvard - Massachussetts General Hospital
+Author-email: mvinyard@broadinstitute.org
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# torch-composer
+Compose pytorch neural networks
+
+```python
+import torch_composer as tc
+
+net = tc.nn.compose()
+```
+
+#### Potential future plans
+
+- Composition of `torch.optim` funcs.
+
