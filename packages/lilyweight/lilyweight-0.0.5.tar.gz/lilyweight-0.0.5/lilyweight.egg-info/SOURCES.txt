@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+lilyweight/__init__.py
+lilyweight/constants.py
+lilyweight/main.py
+lilyweight/utils.py
+lilyweight.egg-info/PKG-INFO
+lilyweight.egg-info/SOURCES.txt
+lilyweight.egg-info/dependency_links.txt
+lilyweight.egg-info/requires.txt
+lilyweight.egg-info/top_level.txt
+lilyweight/calcs/__init__.py
+lilyweight/calcs/dungeon_comp_weight.py
+lilyweight/calcs/dungeon_xp_weight.py
+lilyweight/calcs/skill_weight.py
+lilyweight/calcs/slayer_weight.py
