@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: tencentcloud-manager
+Version: 0.0.3
+Summary: A package for calling tencentcloud api.
+Home-page: https://gitee.com
+Author: ZQX
+Author-email: 262293446@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE

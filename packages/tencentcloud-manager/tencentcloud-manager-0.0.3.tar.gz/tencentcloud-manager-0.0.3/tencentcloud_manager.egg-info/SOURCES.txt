@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+tencentcloud_manager/__init__.py
+tencentcloud_manager/tencentcloud_manager.py
+tencentcloud_manager.egg-info/PKG-INFO
+tencentcloud_manager.egg-info/SOURCES.txt
+tencentcloud_manager.egg-info/dependency_links.txt
+tencentcloud_manager.egg-info/top_level.txt
