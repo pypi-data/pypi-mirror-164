@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/california_house_price_predictor_7606/__init__.py
+src/california_house_price_predictor_7606/ingest_data.py
+src/california_house_price_predictor_7606/score.py
+src/california_house_price_predictor_7606/train.py
+src/california_house_price_predictor_7606.egg-info/PKG-INFO
+src/california_house_price_predictor_7606.egg-info/SOURCES.txt
+src/california_house_price_predictor_7606.egg-info/dependency_links.txt
+src/california_house_price_predictor_7606.egg-info/top_level.txt
