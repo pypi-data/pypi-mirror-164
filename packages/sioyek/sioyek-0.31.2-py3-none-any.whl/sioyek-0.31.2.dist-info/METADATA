@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: sioyek
+Version: 0.31.2
+Summary: Python tools and extensions for sioyek PDF reader
+Project-URL: Homepage, https://github.com/ahrm/sioyek-python-extensions
+Project-URL: Bug Tracker, https://github.com/ahrm/sioyek-python-extensions/issues
+Author-email: Ali Mostafavi <a.hr.mostafavi@gmail.com>
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: appdirs>=1.4
+Requires-Dist: googletrans>=3.0
+Requires-Dist: numpy>=1.8
+Requires-Dist: pymupdf>=1.2
+Requires-Dist: pypaperbot>=1
+Requires-Dist: pypdf2>=2
+Requires-Dist: pyperclip>=1.8
+Description-Content-Type: text/markdown
+
+Python wrapper and simple addons for the sioyek PDF viewer. Addons:
+
+* `paper_downloader`: Download the paper name under cursor from google scholar or scihub and open the document
+* `dual_panelify`: Create a dual panel version of the current PDF file
+* `embed_annotations`: Embed the sioyek bookmarks and highlights into the current file
+* `extract_highlights`: Create a new document with the highlights of the current document with pre-inserted portal into the corresponding location in the original document
+* `translate`: Translate the text and display it in sioyek statusbar
