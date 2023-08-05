@@ -1,0 +1,9 @@
+pysqlparse/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pysqlparse/parser.py,sha256=C3DEG7fQHWgnfwvH7xpaZE1KeMcitfe0oehYCqDygw8,2158
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_parser.py,sha256=5VHqc30eKdjOdWDEMrcvdfzUT-lUXSh5jlhdTmamfNQ,15321
+pysqlparse-0.0.2.dist-info/LICENSE,sha256=9qFyVozsjTy-BYX_n2KcbqdF3F8nWVJnUf_ZdQXwn3c,1065
+pysqlparse-0.0.2.dist-info/METADATA,sha256=mzOUysWkv42ft32wQgxuID6azkkmPgt3ix7kKbbhtas,1290
+pysqlparse-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pysqlparse-0.0.2.dist-info/top_level.txt,sha256=XBh2x9HVlM3dLQZeeZPXzzyoViI0VwbTxLaR9t2PVAE,17
+pysqlparse-0.0.2.dist-info/RECORD,,
