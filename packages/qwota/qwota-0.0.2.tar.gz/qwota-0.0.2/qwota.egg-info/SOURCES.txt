@@ -1,0 +1,10 @@
+LICENSE
+README.md
+qwota_cli.py
+setup.py
+qwota.egg-info/PKG-INFO
+qwota.egg-info/SOURCES.txt
+qwota.egg-info/dependency_links.txt
+qwota.egg-info/entry_points.txt
+qwota.egg-info/requires.txt
+qwota.egg-info/top_level.txt
