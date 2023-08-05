@@ -1,0 +1,24 @@
+numpy
+pandas
+tqdm
+nbformat
+plotly
+ipykernel
+ipywidgets
+cython>=0.29.24
+scipy
+scikit-learn
+ax-platform
+
+[:platform_system == "Linux"]
+blinkt
+adafruit-circuitpython-as7341
+
+[:python_version < "3.8"]
+importlib-metadata
+
+[testing]
+setuptools
+pytest
+pytest-cov
+pre-commit
