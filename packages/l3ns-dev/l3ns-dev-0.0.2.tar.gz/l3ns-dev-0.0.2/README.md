@@ -1,0 +1,86 @@
+# L3 Network Simulator repository
+With the aid of Python scripts, this library may be used to describe and manage virtual networks running inside Docker containers.
+
+### Installation
+
+1. L3NS requires Docker (https://docs.docker.com/engine/install/)
+2. Without sudo, further configuration is required for Docker and L3NS (https://docs.docker.com/engine/install/linux-postinstall/)
+3. `pip3 install l3ns-dev`
+
+
+### First look
+
+Examples of how to use the library can be found in the [examples](examples) subdirectory.
+The best option is to use [this example](examples/simple/basic docker lab.py) to obtain a general understanding of the library and [api docs](./API_REFERENCE.md).
+
+```python
+from l3ns.ldc import DockerNode
+from l3ns import defaults
+
+n1 = DockerNode('test1', image='alpine', command='tail -f /dev/null')
+n2 = DockerNode('test2', image='alpine', command='tail -f /dev/null')
+
+n1.connect_to(n2)
+
+print(n1.get_ip())
+print(n2.get_ip())
+
+defaults.network.start(interactive=True)
+```
+
+The script can be executed by typing "python3".
+
+```
+    # python3 basic_docker_lab.py
+    10.0.0.1
+    10.0.0.2 
+```
+
+Docker will build two containers (named "test1" and "test2") from the "alpine" docker image as the script executes, and these containers will execute the "tail -f /dev/null" command. 
+This command has no effect and lets the container keep running until manually terminating it.
+The IP addresses of both containers will be shown during the script and they will both be linked to the same subnet.
+By executing "ping" on any of the containers, you can verify this:
+
+```
+    docker exec -it node1 ping 10.0.0.2
+```
+
+IP packets are allowed to flow between nodes if you see a response.
+
+
+### Introduction
+
+The three categories of objects that make up the operation of L3NS are "Node" (the emulated network's node), "Subnet" (the network's IP subnet), and "Network" (a separate emulated network, local - LAN, or global - WAN). The same network encompasses all subnets, and nodes might be a part of both one global and many local networks.
+
+L3NS offers a variety of node implementations, subnets, and networks with various scopes but the same API.
+The [l3ns.base](l3ns/base) submodule contains the abstract classes that describe the overall API.
+L3NS now offers [l3ns.ldc](l3ns/ldc) (Local Docker Container) and [l3ns.cluster](l3ns/cluster) as its two implementations.
+
+### API Reference 
+
+The [API REFERENCE.md](./API_REFERENCE.md) file contains comprehensive documentation of L3NS modules.
+It is created using the command `pydoc-markdown` (you must install the package with the same name from PyPI), and it is based on the documentation provided in the source code.
+
+  
+### Writing your own simulation script
+
+There are numerous fundamental steps that go up describing a virtual network model using l3ns:
+1. Building the network's central hub, which will have many routers that will transfer traffic between its various nodes. This phase may be done multiple times for networks with a high level of complexity.
+2. Establishing subnets across routers. The simplest method is to add all routers to the same subnet, although this may restrict your ability to manage the dynamic network state while testing. *In this situation, there is no need to update the routing overlays; you may need to divide some routers into separate subnets.*
+3. Configuring routers using dynamic routing protocols.
+Of course, the protocol used depends on the objectives set, but if you're unsure or have no idea which protocol to pick, utilize OSPF.
+4. Establishing end subnets connected to routers and populating them with payload nodes—aspects of the application being tested.
+5. The network's test launch. It can be beneficial to confirm that the network is configured appropriately before moving on to test the application.
+
+The simplest method to accomplish this is to, as shown in [some examples](examples/sto_k/ping scalable.py), replace the entrypoint/cmd nodes with the logic application that is being tested.
+Ping will terminate if it is unable to deliver packets to the target node, such as when routing is wrongly setup or there is no network path between hosts, such as when a subnet is forgotten.
+The debugging of l3ns models is made a great deal simpler by this method.
+6. Use the completed network.
+
+When distant resources are required for modeling and the submodule [l3ns.cluster](l3ns/cluster/utils.py) is used, a preparatory stage is added: the preliminary configuration of cluster nodes.
+Examples (examples/simple/basic swarm lab.py) show how it appears.
+
+
+
+### Litrature on L3NS:
+ - [L3NS: Large Scale Network Simulation for Testing Distributed Applications](https://link.springer.com/chapter/10.1007/978-3-031-10542-5_44), 2022
