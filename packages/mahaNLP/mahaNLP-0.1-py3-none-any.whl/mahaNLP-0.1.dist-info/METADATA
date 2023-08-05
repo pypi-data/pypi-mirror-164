@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mahaNLP
+Version: 0.1
+Summary: An NLP Library for Marathi Language
+Home-page: https://github.com/l3cube-pune/MarathiNLP.git
+Author: L3Cube
+Author-email: l3cube@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.txt
+
+UNKNOWN
+
