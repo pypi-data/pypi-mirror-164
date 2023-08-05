@@ -1,0 +1,93 @@
+Metadata-Version: 2.1
+Name: JSModel
+Version: 0.0.4
+Summary: 'Working with Json data Type easier'
+Home-page: https://github.com/tiennguyennesbook/JSModel
+Author: Tien Nguyen
+Author-email: tien.nguyen@nesbook.io
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# JsonModel Guide
+
+JSModel Package is a python package that helps to work with Json Data more efficiently
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install **JsonModel**.
+
+```bash
+pip install JSModel
+```
+
+
+## Usage
+```python
+from JSModel import ParseModel
+data={
+"A": "This is A",
+"B": "This is B",
+"C": "This is C",
+}
+
+### Create your Model ###
+class ModelA:
+  ThisA="A"
+  ThisB="B"
+  ThisC="C"
+  ThisD="D"
+parse_model=ParseModel(ModelA)
+parse_model.data(data)
+result=parse_model.parse(null_value=None,error_if_null=False)
+print(result)
+### output: {'ThisA': 'This is A', 'ThisB': 'This is B', 'ThisC': 'This is C', 'ThisD': 'None'}
+
+## if error_if_null =True --> This will raise error if the key is not found
+result=parse_model.parse(null_value=None,error_if_null=True)
+### output: KeyError: 'D'
+
+### null_value is to assigned a default value if the key is not found
+result=parse_model.parse(null_value="This is Empty",error_if_null=False)
+print(result)
+### output: {'ThisA': 'This is A', 'ThisB': 'This is B', 'ThisC': 'This is C', 'ThisD': 'This is Empty'}
+
+### It can also Accept a Json Array data as well as List within the model.
+class A:
+    valueA=["Data","Information","Age"]
+data=[
+{
+"Data":{
+    "Information":
+        {
+        "Age":"20"
+        }
+    },
+},
+{
+"Data":{
+    "Information":
+        {
+        "Age":"22"
+        }
+    },
+}
+instance=ParseModel(A)
+instance.data(data)
+return_data=instance.parse()
+## return_data is a Iterator Type
+
+for i in return_data:
+    print(i)
+
+## output:
+{'valueA': '20'}
+{'valueA': '22'}
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
