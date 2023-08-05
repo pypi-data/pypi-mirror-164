@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pyCheckLib/__init__.py
+pyCheckLib/checker.py
+pyCheckLib/colors.py
+pyCheckLib/functions.py
+pyCheckLib.egg-info/PKG-INFO
+pyCheckLib.egg-info/SOURCES.txt
+pyCheckLib.egg-info/dependency_links.txt
+pyCheckLib.egg-info/top_level.txt
