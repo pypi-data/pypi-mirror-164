@@ -1,0 +1,47 @@
+# wedata的使用方法
+
+## 安装wedata
+```shell
+pip install wedata
+```
+
+## 本地调用
+执行命令
+```python
+import wedata as we
+client = we.get_client('local')
+client.set_storage_dir('XXX/XXX/XXX')
+param = {
+    'domain': 'descriptor',
+    'phylum': 'feature',
+    'class': 'aindexeodprices',
+    'fields': [],
+    'user': '0000001',
+    'case': 'equity_20220628',
+    'start_date': '20220628',
+    'end_date': '20220630',
+    'codes': [],
+    'form': 'normal'
+}
+client.query(param)
+```
+
+## 远程调用
+执行命令
+```python
+import wedata as we
+we.login(username='XXX', password='XXX')
+param = {
+    'domain': 'descriptor',
+    'phylum': 'feature',
+    'class': 'aindexeodprices',
+    'fields': [],
+    'user': '0000001',
+    'case': 'equity_20220628',
+    'start_date': '20220628',
+    'end_date': '20220630',
+    'codes': [],
+    'form': 'normal'
+}
+we.query(param)
+```
