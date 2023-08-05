@@ -1,0 +1,5 @@
+dynamic_dagrun_operator/__init__.py,sha256=PPAmfGuaflMV8cz69c7Alc8CmM-FoEGfyz5ysAQpSI4,66
+dynamic_dagrun_operator/dynamic_dagrun_operator.py,sha256=NeJtpn3LXrHrjk8jNOHJDNwTEswbyjqk29DwHs5H4EQ,5179
+amsterdam_airflow_dynamic_dagrun_operator-1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+amsterdam_airflow_dynamic_dagrun_operator-1.0.dist-info/METADATA,sha256=tjqmHBGkS6SDMUtI5ff1fuJ1FKv8HGLGep6LHPmexMU,866
+amsterdam_airflow_dynamic_dagrun_operator-1.0.dist-info/RECORD,,
