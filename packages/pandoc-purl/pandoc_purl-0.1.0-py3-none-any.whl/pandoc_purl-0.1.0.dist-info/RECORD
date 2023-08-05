@@ -1,0 +1,9 @@
+pandoc_purl/__init__.py,sha256=fRmVHhIpCQoz2V_ZGbFEQyuViDtcK7EHY1QHnIm3_nw,39
+pandoc_purl/main.py,sha256=1GarQ67xq6J7L40n9mOndTWCXsueNLnBPm81AO1HVQc,154
+pandoc_purl/purl.py,sha256=CFfT_1GUnfpl6v94Mi43-E98M64npisrAnU2kg-CFiI,2533
+pandoc_purl-0.1.0.dist-info/LICENSE.txt,sha256=q4cILH76cIm5hYQlQPk4o7WXfPRwpfF6tDSXtlRsgAs,1055
+pandoc_purl-0.1.0.dist-info/METADATA,sha256=j1nhacjKEjwKxNx9pm3-laqVnZ5U7zgnviVQ78Mlfn4,1294
+pandoc_purl-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pandoc_purl-0.1.0.dist-info/entry_points.txt,sha256=pevvNGSNIXHth6LIyeqiNA34KE1daBfaYzvv5gsERAk,54
+pandoc_purl-0.1.0.dist-info/top_level.txt,sha256=ZoinC1bzK6btIHsAmcQa_5iXN5HXr_yhb5BFmLeCsLE,12
+pandoc_purl-0.1.0.dist-info/RECORD,,
