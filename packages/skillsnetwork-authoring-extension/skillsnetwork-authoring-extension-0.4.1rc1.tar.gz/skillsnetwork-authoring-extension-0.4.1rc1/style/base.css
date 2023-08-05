@@ -1,0 +1,13 @@
+/*
+    See the JupyterLab Developer Guide for useful CSS Patterns:
+
+    https://jupyterlab.readthedocs.io/en/stable/developer/css.html
+*/
+
+.image-library-dialog{
+    resize: none;
+    max-height: 95%;
+    max-width: 95%;
+    width: 85%;
+    height: 95%;
+  }
