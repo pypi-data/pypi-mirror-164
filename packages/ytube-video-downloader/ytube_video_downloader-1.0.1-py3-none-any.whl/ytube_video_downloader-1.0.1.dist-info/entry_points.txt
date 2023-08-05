@@ -1,0 +1,2 @@
+[console_scripts]
+ytube-video-downloader = ytube_video_downloader.main:main
