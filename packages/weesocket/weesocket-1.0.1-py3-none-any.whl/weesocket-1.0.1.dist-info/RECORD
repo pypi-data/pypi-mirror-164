@@ -1,0 +1,13 @@
+socketer/__init__.py,sha256=J-j-u0itpEFT6irdmWmixQqYMadNl1X91TxUmoiLHMI,22
+socketer/abstract.py,sha256=ub8_TknueraTFzHhcQipIuNeFm5HlqRM_cOz51XG2GY,3480
+socketer/client.py,sha256=V8tHDOCS5BJx42KK1PoILnPT7FbErsIPXQ-TE1uznfg,3375
+socketer/server.py,sha256=y7wVvhqBeMwVc1sGkTTkKPshlFR6FqjzSnz9xMlkklM,5477
+weesocket/__init__.py,sha256=k8RvmmR-EshV6akXLpyJ1Dvl0zu_kDL55fI2OZ65dz0,77
+weesocket/abstract.py,sha256=ub8_TknueraTFzHhcQipIuNeFm5HlqRM_cOz51XG2GY,3480
+weesocket/client.py,sha256=QPRGFdBwv6eQyw63Jz79aEzemlVG_92JwLeZ0Qq6rP8,3376
+weesocket/server.py,sha256=ZdNVTx6lp4zhLGIBQ9QfonSFsTxrnHyOztmGjI1zCbs,5478
+weesocket-1.0.1.dist-info/LICENSE,sha256=w5f20TP3j3qUmhH15QkfPGeCN2_L5NrOWho6yAZ4UKg,34701
+weesocket-1.0.1.dist-info/METADATA,sha256=UE7a55fge4QMSzcT--CdBfFr5tkCRHGvIYODY8SfLEQ,1198
+weesocket-1.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+weesocket-1.0.1.dist-info/top_level.txt,sha256=hgC8e0lkJWYx-pxVuQV1gsOzjXB_2KuodQuoPnGmu0I,10
+weesocket-1.0.1.dist-info/RECORD,,
