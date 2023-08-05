@@ -1,0 +1,8 @@
+README.md
+setup.py
+xologic/__init__.py
+xologic/main.py
+xologic.egg-info/PKG-INFO
+xologic.egg-info/SOURCES.txt
+xologic.egg-info/dependency_links.txt
+xologic.egg-info/top_level.txt
