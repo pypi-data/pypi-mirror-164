@@ -1,0 +1,33 @@
+Metadata-Version: 1.1
+Name: opendlp
+Version: 0.1.1
+Summary: openDLP
+Home-page: https://github.com/hitsz-ids/openDLP
+Author: histsz-ids
+Author-email: 1337913069@qq.com
+License: Apache License 2.0
+Description: ========================================
+        opendlp
+        ========================================
+        opendlp is a sensitive data analyse toolkit.
+        
+        
+        Installation
+        ========================================
+        
+        ``pip install opendlp``
+        
+        ========================================
+        Github
+        ========================================
+        
+        For more informationm, see github repo: https://github.com/hitsz-ids/openDLP
+Keywords: privacy,dlp,data-protection,data-loss-prevention,sensitive-data-discovery
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: Apache Software License
