@@ -1,0 +1,15 @@
+[project]
+name = "entryutils"
+version = "0.0.1"
+authors = [
+  { name="lemonbbt" },
+]
+description = "Package for AJAX in entry."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
