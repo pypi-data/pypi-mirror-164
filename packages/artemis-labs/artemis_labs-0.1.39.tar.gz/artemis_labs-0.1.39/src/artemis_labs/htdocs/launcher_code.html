@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta http-equiv="Expires" content="0"/>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+    <base href="">
+    <title>Artemis Designer</title>
+
+    <link href="css/editor.css" rel="stylesheet" type="text/css">
+    <link href="css/admin.css" rel="stylesheet" type="text/css">
+    <link href="css/artemis.css" rel="stylesheet" type="text/css">
+    <link href="fonts/all.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/tagify.css" rel="stylesheet" type="text/css"/>
+    <link href="css/atom-one-dark.css" rel="stylesheet" type="text/css"/>
+
+    <script id="MathJax-script" src="./vendors/js/tex-mml-chtml.js"></script>
+</head>
+
+<style>
+#drag {
+    position: absolute;
+    left: -4px;
+    top: 0;
+    bottom: 0;
+    width: 8px;
+    z-index: 10000;
+    cursor: w-resize;
+}
+</style>
+
+<body>
+
+    <!-- Main Builder -->
+    <div id="artemis-builder" class="code-launcher">
+        
+        <div id="display-canvas" class="ui-widget-content">
+            <div id="drag"></div>
+            <div id="outputs">
+                <h3>Outputs</h3>
+                <div id="tag-bar">
+                    <span>Tag List</span>
+                    <input name='tags' value='All' class="form-control" autofocus>
+                </div>
+                <div id="outputs-list"></div>
+            </div>
+            <div id="code-panel">
+                <h3>Control Panel</h3>
+                <div id="control-bar">
+                    <button id="next-btn" class="btn btn-success ctrl-panel-btn">Continue <i style='margin-left: 5px;' class="fa-light fa-angle-right toggle-btn"></i></button>
+                    <button id="reload-btn" class="btn btn-warning ctrl-panel-btn">Reload <i style='margin-left: 5px;' class="fa-light fa-arrow-rotate-right toggle-btn"></i></button>
+                    <button id="exit-btn" class="btn btn-danger ctrl-panel-btn">Exit <i style='margin-left: 5px;' class="fa-light fa-arrow-right-from-bracket toggle-btn"></i></button>
+                </div>
+            </div>
+        </div>
+
+        <div id="right-pane">
+            <div id="code-previewer">
+                <div id="editor"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="vendors/js/showdown.js"></script>
+    <script src="vendors/js/highlight.min.js" type="text/javascript"></script>
+    <script>hljs.highlightAll();</script>
+    <script src="vendors/js/vendor.bundle.base.js" type="text/javascript"></script>
+    <script src="vendors/js/vendor.bundle.addons.js" type="text/javascript"></script>
+    <script src="vendors/js/jquery-3.6.0.js" type="text/javascript"></script>
+    <script src="vendors/js/jquery-ui.js" type="text/javascript"></script>
+    <script src="vendors/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="vendors/js/chart.min.js" type="text/javascript"></script>
+    <script src="vendors/js/ace.js" type="text/javascript" charset="utf-8"></script>
+    <script src="vendors/js/tagify.min.js" type="text/javascript"></script>
+    <script src="vendors/js/tagify.polyfills.min.js" type="text/javascript"></script>
+    <script src="./js/Helpers/helper.js" type="text/javascript"></script>
+    <script src="./js/Math/bounds.js" type="text/javascript"></script>
+
+    <script src="./js/Components/Designer/component.js" type="text/javascript"></script>
+
+    <script src="./js/Components/Content/text_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/color_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/dropdown_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/checkbox_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/align_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/number_wheel_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/number_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/url_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/text_content.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/text_area_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/multiple_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Content/switch_input.js" type="text/javascript"></script>
+
+    <script src="./js/Components/Designer/bar_graph.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/box.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/button.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/card.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/checkbox.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/header.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/horizontal_rule.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/image.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/input.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/line_graph.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/number_wheel.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/paragraph.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/radio_button.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/range.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/scatter_graph.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/select_input.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/switch.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/table.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/text_area.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/vertical_rule.js" type="text/javascript"></script>
+    <script src="./js/Components/Designer/video.js" type="text/javascript"></script>
+
+    <script src="./js/Components/component_manager_launcher.js" type="text/javascript"></script>
+
+    <script src="js/launcher_code.js" type="text/javascript"></script>
+</body>
+</html>
