@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: wikistats2csv
+Version: 0.1.1
+Summary: Wikistats-to-CSV downloads Wikipedia Statistics in CSV format for a given Wikipedia.
+Home-page: https://github.com/SaiedAlshahrani/Wikistats-to-CSV
+Author: Saied Alshahrani
+Author-email: s3ed.fala7@gmail.com
+License: MIT
+Keywords: wikipedia,statistics,wikimedia,csv
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# Wikistats-to-CSV
+
+```
+▌│║▌║▌█║▌║║▌│║▌│║▌║▌█║▌█║▌║│▌║│▌║│█║│▌║▌│█║▌│▌║│▌║║▌║▌█║▌║│▌
+▌│║▌║▌█║▌║║▌│║▌│║▌║▌█║WIKISTATS-TO-CSV║▌│█║▌│▌║│▌║║▌║▌█║▌║│▌
+▌│║▌║▌█║▌║║▌│║▌│║▌║▌█║▌█║▌║│▌║│▌║│█║│▌║▌│█║▌│▌║│▌║║▌║▌█║▌║│▌
+```
+
+Wikistats-to-CSV downloads Wikipedia Statistics in CSV format for a given Wikipedia. 
