@@ -1,0 +1,4 @@
+[console_scripts]
+yoloair_detect=yoloair.detect:entrypoint
+yoloair_train=yoloair.train:entrypoint
+
