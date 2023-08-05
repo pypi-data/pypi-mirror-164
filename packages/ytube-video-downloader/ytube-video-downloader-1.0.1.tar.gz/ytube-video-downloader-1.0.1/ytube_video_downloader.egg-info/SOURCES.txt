@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+ytube_video_downloader/__init__.py
+ytube_video_downloader/main.py
+ytube_video_downloader.egg-info/PKG-INFO
+ytube_video_downloader.egg-info/SOURCES.txt
+ytube_video_downloader.egg-info/dependency_links.txt
+ytube_video_downloader.egg-info/entry_points.txt
+ytube_video_downloader.egg-info/requires.txt
+ytube_video_downloader.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ytube-video-downloader
+Version: 1.0.1
+Summary: YTube-Video-Downloader is a command-line application written in Python that downloads videos from a specific YouTube channel according to given filters.
+Home-page: https://github.com/maksr137/ytube-video-downloader
+Author: Maksym Remezovskyi
+Author-email: maks.remezovskij1@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
