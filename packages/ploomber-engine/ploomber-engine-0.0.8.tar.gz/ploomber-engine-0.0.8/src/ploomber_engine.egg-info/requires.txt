@@ -1,0 +1,13 @@
+ploomber-core>=0.0.4
+papermill
+ipykernel
+debuglater
+nbclient
+
+[dev]
+pytest
+flake8
+invoke
+twine
+matplotlib
+pandas
