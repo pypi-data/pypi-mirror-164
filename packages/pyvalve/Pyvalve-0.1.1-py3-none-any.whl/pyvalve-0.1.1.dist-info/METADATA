@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pyvalve
+Version: 0.1.1
+Summary: Asyncio python clamav client
+License: GPL-3.0-only
+Author: Bradley Sacks
+Author-email: bradsacks99@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: aiofile (>=3.7.4,<4.0.0)
+Requires-Dist: aiopath (>=0.5.12,<0.6.0)
+Requires-Dist: asyncinit (>=0.2.4,<0.3.0)
