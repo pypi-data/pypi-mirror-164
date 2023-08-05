@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "korrektor_uz_async"
+version = "0.0.92"
+authors = [
+    { name = "Qurbonov Asadbek", email = "qurbonovasadbek@gmail.com" },
+]
+description = "async Python wrapper for the https://korrektor.uz/api"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/advenn/korrektor_uz_async"
+"Bug Tracker" = "https://github.com/advenn/korrekor_uz_async/issues"
+"Documentation" = "https://korrektor.uz/api"

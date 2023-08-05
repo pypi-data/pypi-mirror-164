@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+korrektor/__init__.py
+korrektor/__version__.py
+korrektor/api.py
+korrektor/core.py
+korrektor/exceptions.py
+korrektor/models.py
+korrektor/utils.py
+korrektor_uz_async.egg-info/PKG-INFO
+korrektor_uz_async.egg-info/SOURCES.txt
+korrektor_uz_async.egg-info/dependency_links.txt
+korrektor_uz_async.egg-info/requires.txt
+korrektor_uz_async.egg-info/top_level.txt
