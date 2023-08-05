@@ -1,0 +1,8 @@
+action: py27, msg: getenv
+cwd: /Users/abhishek/opensrc/araalinetworks/api/python/api/.tox
+cmd: /Users/abhishek/opensrc/araalinetworks/api/python/api/araaliapienv/bin/python3.10 -m virtualenv --no-download --python /System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python py27
+created virtual environment CPython2.7.16.final.0-64 in 8288ms
+  creator CPython2macOsFramework(dest=/Users/abhishek/opensrc/araalinetworks/api/python/api/.tox/py27, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/Users/abhishek/Library/Application Support/virtualenv)
+    added seed packages: pip==20.3.4, setuptools==44.1.1, wheel==0.37.1
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator

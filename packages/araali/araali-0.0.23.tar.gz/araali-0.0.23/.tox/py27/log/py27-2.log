@@ -1,0 +1,34 @@
+action: py27, msg: installpkg
+cwd: /Users/abhishek/opensrc/araalinetworks/api/python/api
+cmd: /Users/abhishek/opensrc/araalinetworks/api/python/api/.tox/py27/bin/python -m pip install --exists-action w .tox/.tmp/package/1/araali-0.0.23.tar.gz
+DEPRECATION: Python 2.7 reached the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 is no longer maintained. pip 21.0 will drop support for Python 2.7 in January 2021. More details about Python 2 support in pip can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support pip 21.0 will remove support for this functionality.
+Processing ./.tox/.tmp/package/1/araali-0.0.23.tar.gz
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+    Preparing wheel metadata: started
+    Preparing wheel metadata: finished with status 'done'
+Collecting python-dateutil
+  Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting requests
+  Downloading requests-2.27.1-py2.py3-none-any.whl (63 kB)
+Collecting pyyaml
+  Downloading PyYAML-5.4.1-cp27-cp27m-macosx_10_9_x86_64.whl (245 kB)
+Requirement already satisfied: six>=1.5 in ./.tox/py27/lib/python2.7/site-packages (from python-dateutil->araali==0.0.23) (1.16.0)
+Collecting idna<3,>=2.5; python_version < "3"
+  Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
+Collecting chardet<5,>=3.0.2; python_version < "3"
+  Downloading chardet-4.0.0-py2.py3-none-any.whl (178 kB)
+Collecting urllib3<1.27,>=1.21.1
+  Using cached urllib3-1.26.11-py2.py3-none-any.whl (139 kB)
+Collecting certifi>=2017.4.17
+  Downloading certifi-2021.10.8-py2.py3-none-any.whl (149 kB)
+Building wheels for collected packages: araali
+  Building wheel for araali (PEP 517): started
+  Building wheel for araali (PEP 517): finished with status 'done'
+  Created wheel for araali: filename=araali-0.0.23-py2.py3-none-any.whl size=45456 sha256=68c6ce9a4b24a2e0fd94757918d73e875a085589243af5e71daf60be865d6a6b
+  Stored in directory: /Users/abhishek/Library/Caches/pip/wheels/4c/94/e1/a6da644b1fa5d2361c05d09011c6a6e7249dd3b80064ed4e05
+Successfully built araali
+Installing collected packages: python-dateutil, idna, chardet, urllib3, certifi, requests, pyyaml, araali
+Successfully installed araali-0.0.23 certifi-2021.10.8 chardet-4.0.0 idna-2.10 python-dateutil-2.8.2 pyyaml-5.4.1 requests-2.27.1 urllib3-1.26.11

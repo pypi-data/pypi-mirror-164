@@ -1,0 +1,22 @@
+action: py3, msg: installpkg
+cwd: /Users/abhishek/opensrc/araalinetworks/api/python/api
+cmd: /Users/abhishek/opensrc/araalinetworks/api/python/api/.tox/py3/bin/python -m pip install --no-deps -U .tox/.tmp/package/1/araali-0.0.23.tar.gz
+Processing ./.tox/.tmp/package/1/araali-0.0.23.tar.gz
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: araali
+  Building wheel for araali (pyproject.toml): started
+  Building wheel for araali (pyproject.toml): finished with status 'done'
+  Created wheel for araali: filename=araali-0.0.23-py2.py3-none-any.whl size=45233 sha256=3d644f37e459fdad9de056266328af4afa4ac1b99bc77b3666be519c6cb31c28
+  Stored in directory: /Users/abhishek/Library/Caches/pip/wheels/52/5f/2f/32c0cc471c5e56af71e9962b027e876cc65334d5c06a9c6eb7
+Successfully built araali
+Installing collected packages: araali
+  Attempting uninstall: araali
+    Found existing installation: araali 0.0.23
+    Uninstalling araali-0.0.23:
+      Successfully uninstalled araali-0.0.23
+Successfully installed araali-0.0.23

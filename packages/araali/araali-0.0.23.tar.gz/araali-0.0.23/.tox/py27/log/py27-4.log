@@ -1,0 +1,23 @@
+action: py27, msg: installpkg
+cwd: /Users/abhishek/opensrc/araalinetworks/api/python/api
+cmd: /Users/abhishek/opensrc/araalinetworks/api/python/api/.tox/py27/bin/python -m pip install --no-deps -U .tox/.tmp/package/1/araali-0.0.23.tar.gz
+DEPRECATION: Python 2.7 reached the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 is no longer maintained. pip 21.0 will drop support for Python 2.7 in January 2021. More details about Python 2 support in pip can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support pip 21.0 will remove support for this functionality.
+Processing ./.tox/.tmp/package/1/araali-0.0.23.tar.gz
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+    Preparing wheel metadata: started
+    Preparing wheel metadata: finished with status 'done'
+Building wheels for collected packages: araali
+  Building wheel for araali (PEP 517): started
+  Building wheel for araali (PEP 517): finished with status 'done'
+  Created wheel for araali: filename=araali-0.0.23-py2.py3-none-any.whl size=45568 sha256=4321cf417e35dcee8621c276af5d1ee3ea888a866d4302285094d5d2e01f092c
+  Stored in directory: /Users/abhishek/Library/Caches/pip/wheels/4c/94/e1/a6da644b1fa5d2361c05d09011c6a6e7249dd3b80064ed4e05
+Successfully built araali
+Installing collected packages: araali
+  Attempting uninstall: araali
+    Found existing installation: araali 0.0.23
+    Uninstalling araali-0.0.23:
+      Successfully uninstalled araali-0.0.23
+Successfully installed araali-0.0.23
