@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+datasette_mp3_audio/__init__.py
+datasette_mp3_audio.egg-info/PKG-INFO
+datasette_mp3_audio.egg-info/SOURCES.txt
+datasette_mp3_audio.egg-info/dependency_links.txt
+datasette_mp3_audio.egg-info/entry_points.txt
+datasette_mp3_audio.egg-info/requires.txt
+datasette_mp3_audio.egg-info/top_level.txt
+datasette_mp3_audio/static/datasette-mp3-audio.js
