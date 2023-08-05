@@ -1,0 +1,15 @@
+tencentcloud_manager/__init__.py,sha256=MobCB3oCSnxztXBEWzS57AoRk1pOECbvyQQbEMN9GEk,29
+tencentcloud_manager/tencentcloud_manager.py,sha256=S_l1hNtWvJMWx-5UjxzQDcFmtLMLiDHqJyTXPaChCNs,1174
+tencentcloud_manager/agents/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tencentcloud_manager/agents/cam_agent.py,sha256=f8Y17xyO1hjeskSY1YcuAO1PgRm_M_GCHThdCtNzszY,9585
+tencentcloud_manager/agents/cvm_agent.py,sha256=kORwN1AFcdKXRR4l7OkKSMlIIqi5vSOxYVFfcWIOUw0,343
+tencentcloud_manager/agents/tdmq_agent.py,sha256=5aZ0M_O_D6xavqWjF01t7QgoSlNjlgAY619LyQ0UnEE,1142
+tencentcloud_manager/managers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tencentcloud_manager/managers/cam_manager.py,sha256=hSThW-k_FmJbJXNLEtSExrRw-MCX3_2Ob8H2-GQrzcw,23
+tencentcloud_manager/managers/cvm_manager.py,sha256=WlFCcH4nbnCyZaz65P0ndMRdnhhnRMgybsG3QLeUln8,23
+tencentcloud_manager/managers/tdmq_manager.py,sha256=_FtlbSTXwJL9wNZEiQGJu6r2DV7vHbDK9J4pBKYotco,807
+tencentcloud_manager-0.0.6.dist-info/LICENSE,sha256=pAZXnNE2dxxwXFIduGyn1gpvPefJtUYOYZOi3yeGG94,1068
+tencentcloud_manager-0.0.6.dist-info/METADATA,sha256=bzc9HxJbxV5yHZASnVUgZmuZj4nkA8WEROUKCMfHO80,394
+tencentcloud_manager-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tencentcloud_manager-0.0.6.dist-info/top_level.txt,sha256=-6oSwmAoRDpABaMZnIiYaEgesU6s8lUvceL3oF36w7g,21
+tencentcloud_manager-0.0.6.dist-info/RECORD,,
