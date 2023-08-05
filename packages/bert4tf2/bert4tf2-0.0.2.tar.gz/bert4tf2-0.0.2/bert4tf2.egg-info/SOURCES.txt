@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+bert4tf2/__init__.py
+bert4tf2/backend.py
+bert4tf2/bert.py
+bert4tf2/layers.py
+bert4tf2/snippets.py
+bert4tf2/tokenizer.py
+bert4tf2.egg-info/PKG-INFO
+bert4tf2.egg-info/SOURCES.txt
+bert4tf2.egg-info/dependency_links.txt
+bert4tf2.egg-info/requires.txt
+bert4tf2.egg-info/top_level.txt
