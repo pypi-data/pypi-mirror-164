@@ -1,0 +1,11 @@
+setup.py
+chpypi/__init__.py
+chpypi/getproxies.py
+chpypi/login.py
+chpypi/settings.py
+chpypi/tools.py
+chpypi.egg-info/PKG-INFO
+chpypi.egg-info/SOURCES.txt
+chpypi.egg-info/dependency_links.txt
+chpypi.egg-info/requires.txt
+chpypi.egg-info/top_level.txt
