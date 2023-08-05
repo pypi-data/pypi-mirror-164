@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Miencraft-Server-Opener
+Version: 0.1
+Summary: 一个Minecraft开服器(A Minecraft Server Opener)
+Home-page: https://wwz.lanzoum.com/iXOjc09ufvbc
+Author: Wen_Shao
+Author-email: WWB101218@163.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+用于快速创建Minecraft服务器(Used to quickly create a Minecraft server)
