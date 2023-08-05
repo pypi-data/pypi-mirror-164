@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: itential.py
+Version: 0.0.5
+Summary: A Python wrapper for the Itential API.
+Author: Tagmeh
+License: The MIT License (MIT)
+        
+        Copyright (c) 2022-present John Epperson
+        
+        Permission is hereby granted, free of charge, to any person obtaining a
+        copy of this software and associated documentation files (the "Software"),
+        to deal in the Software without restriction, including without limitation
+        the rights to use, copy, modify, merge, publish, distribute, sublicense,
+        and/or sell copies of the Software, and to permit persons to whom the
+        Software is furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in
+        all copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+        OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+        FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+        DEALINGS IN THE SOFTWARE.
+Project-URL: Homepage, https://github.com/tagmeh/Itential.py
+Project-URL: Bug Tracker, https://github.com/tagmeh/Itential.py/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Itential.py
+
+#### An effort to write a python library for the Itential API. (https://apidocs.itential.com/2021.2/api/) (New Link to Old Docs)
+
+8.5.2022 - I took a break after Itential updated their documentation, and broke all of their existing links (including every link I had posted in the method doc strings...). Pretty demoralizing, and a month or so after the Great Link Breakin'ing, they are still all broken. But, my motivation has returned, and work will continue. I plan on getting this pushed out as a package as quickly as possible.
+
+
+Usage
+```python
+from itential import Itential
+from itential.modules.v2020_2 import AppWorkflowEngine
+
+client = Itential()  # Contains default login and localhost url information
+
+response: "requests.Response" = AppWorkflowEngine.get_job_output(client=client, job_id="example-job-id")
+```
