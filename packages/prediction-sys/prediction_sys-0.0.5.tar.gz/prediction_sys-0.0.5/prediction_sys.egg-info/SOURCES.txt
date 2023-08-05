@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+prediction_sys/__init__.py
+prediction_sys/recommendation_system.py
+prediction_sys.egg-info/PKG-INFO
+prediction_sys.egg-info/SOURCES.txt
+prediction_sys.egg-info/dependency_links.txt
+prediction_sys.egg-info/requires.txt
+prediction_sys.egg-info/top_level.txt
