@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: artk-ecws-mirror
+Version: 3.0.0
+Summary: English multi-task CNN trained on OntoNotes. Assigns context-specific token vectors, POS tags, dependency parse and named entities.
+Home-page: https://explosion.ai
+Author: Explosion
+Author-email: contact@explosion.ai
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: spacy (==3.0.8)
+
+UNKNOWN
+
