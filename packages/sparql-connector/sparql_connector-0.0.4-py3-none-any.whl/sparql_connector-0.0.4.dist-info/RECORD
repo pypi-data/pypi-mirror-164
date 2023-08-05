@@ -1,0 +1,16 @@
+sparqlc/__init__.py,sha256=zUDBg86GsyNmmAW9hjckTvX9udkkd6JJQTS8LeVd06E,695
+sparqlc/datatypes.py,sha256=JyyyPsr6lR71o9xZWiewyC8P78WxVyE5E1OlL_MCj1A,4382
+sparqlc/exception.py,sha256=1aRVwbVUpVLx8HpxX1tvynJe9-MuiW-le4NeeEvGl48,576
+sparqlc/n3_parser.py,sha256=uyyo_AXnhzbqVFN17vACjEzf9dPokyyXTsl0IbmMp0s,1958
+sparqlc/query.py,sha256=W52NkdClnV3oSTbDecrw1hfKBS_QuKukYwM_xMWiwhI,5615
+sparqlc/result_set.py,sha256=3pidf48uiXunGqF_Q1yEBZWx4Ay8FmPp1HPfqxHHi7s,10648
+sparqlc/service.py,sha256=8o39e-d9PHpaJiwH6rhE8T3TliKgbcdkyAdhY_tWHVg,4368
+sparqlc/service_base.py,sha256=1-dJpHDsBX2h_ok-0B7MoJdUQ_n5oLHHnW3oHnO2Rcw,3901
+sparqlc/sparql-connect.py,sha256=tfLnIxMZ8BrlDmSpA9exKMxY9cpg_FGw8yCmiDOq8-g,3569
+sparqlc/version.py,sha256=Er17abpHSluAAp4i31j0Tyc_aWJ0mPWO3WnUx0Y16es,105
+sparqlc/version.txt,sha256=zB0CuD59wiXTB4TyqnZ2-bf39oY5trlB9bcyQlkC92M,6
+sparql_connector-0.0.4.dist-info/LICENSE,sha256=HyVuytGSiAUQ6ErWBHTqt1iSGHhLmlC8fO7jTCuR8dU,16725
+sparql_connector-0.0.4.dist-info/METADATA,sha256=yA-9KynKsZemsCeErAFtBsRVr_lIpKlWPmM24TO2Af0,18471
+sparql_connector-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+sparql_connector-0.0.4.dist-info/top_level.txt,sha256=KgEl7xDD6VexXymL5eVs5ns1cROeme3iYSDGn-AhsaM,8
+sparql_connector-0.0.4.dist-info/RECORD,,
