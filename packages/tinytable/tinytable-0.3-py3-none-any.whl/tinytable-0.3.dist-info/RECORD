@@ -1,0 +1,15 @@
+tinytable/__init__.py,sha256=liyHDP0WFaRALSJeYoAILPLOWW7dfw3KLg7fMD0Z0iA,95
+tinytable/column.py,sha256=HQ6Rnv3UEJTk0JaTbautZbiu8pwaKRWIDyn7dtbattA,3384
+tinytable/csv.py,sha256=XEIqRwe0T3MmjIULBHVuVsJ60nWqHutgYD00iTXPALI,2169
+tinytable/datatypes.py,sha256=ASVlVwv3p-PIHoI-ctEddwPQLB8F4eC4_1aMbYMl1nE,173
+tinytable/excel.py,sha256=NyDU2Ahu0d18t0ArqPWVNaNLzWAVXrNOY8j7XPaXj4w,1430
+tinytable/filter.py,sha256=VHbfqyUglr1VhfyWepknzChq3deFlIw0KOFooOvZZGc,902
+tinytable/group.py,sha256=jMFdCofO2MlYLBxILI8JPFIwSsXqWE9CEKhVYaURnrQ,893
+tinytable/row.py,sha256=cItllD0dMifnG9PI7AW60vC7szviFZSObp4-pW-fk74,1824
+tinytable/sqlite.py,sha256=hulboI3szaLIYDdRoq4S94-F6SRX6R5XEisUSQIu1BI,956
+tinytable/table.py,sha256=PiFKVZep6lFy3z_ZgZkCqO86Pn8iFeQhkYe2r_MriR4,12704
+tinytable-0.3.dist-info/LICENSE.md,sha256=1pE569s9d8U87JIZhE80lo9skpJm49AKQicwCRwlf-8,1101
+tinytable-0.3.dist-info/METADATA,sha256=mrIocNcl2NYMsGp7xWfsOMw7HcYSLNxy_hhqSmWQvFc,1254
+tinytable-0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tinytable-0.3.dist-info/top_level.txt,sha256=0yqLrdaEjBqeOigVMz9B4mBR2WRaMOyYeYxQvGbjwN0,10
+tinytable-0.3.dist-info/RECORD,,
