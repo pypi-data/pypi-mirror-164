@@ -1,0 +1,16 @@
+LICENSE
+README.rst
+setup.cfg
+setup.py
+pyminifier/__init__.py
+pyminifier/__main__.py
+pyminifier/analyze.py
+pyminifier/compression.py
+pyminifier/minification.py
+pyminifier/obfuscate.py
+pyminifier/token_utils.py
+pyminifier3.egg-info/PKG-INFO
+pyminifier3.egg-info/SOURCES.txt
+pyminifier3.egg-info/dependency_links.txt
+pyminifier3.egg-info/entry_points.txt
+pyminifier3.egg-info/top_level.txt
