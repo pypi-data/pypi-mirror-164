@@ -1,0 +1,13 @@
+prewl/__init__.py,sha256=VBH7TBnbFv6BRs6wq9YaklVa8N_iDRFjph1EVlAsmJI,1024
+prewl/model.py,sha256=qb-opFqUvnKKUJZ-bGUFCVzV9cdivMHNAKyi-HWnkEM,1472
+prewl/prompts.py,sha256=ZLIbXILJeRlJXAd9swNQi_oKhKo9ubNOswHWWyK5Xv4,2178
+prewl/endpoints/__init__.py,sha256=frmD20MHuRrwas4brH4pDbVCXvumY7R-dZmo0wZwvPc,472
+prewl/endpoints/base.py,sha256=0oENsUavVphPgVc9zDnzVnU7fWtjwy9ngTvpqDldjGE,121
+prewl/endpoints/gpt3.py,sha256=nrtR8k2w5BXtUVfV406jgoc9TtDBasPZjANL9PywC38,75
+prewl/endpoints/hf.py,sha256=jqwxv9bsacBsikw8nNb_NFbllNxl7fg6GBlZYlOjoy0,2906
+prewl/endpoints/manual.py,sha256=CnZlurdRenEuXdjtmrJbRxUp-zI8fktW4GkdH_QVGrk,376
+prewl-0.0.4.dist-info/LICENSE,sha256=JSpSyVStUuVQj3ZhpH0TnBqXA0Dtmqmodqulwp7HmaE,1076
+prewl-0.0.4.dist-info/METADATA,sha256=iYa4fZj1uHc7CMfsmJRv9FQGJo7bZ1Ow1iUjPyDDb6o,1699
+prewl-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+prewl-0.0.4.dist-info/top_level.txt,sha256=mpumzJdqZeeEcQNFahAeEmzxvhJSN52ijbZza45o9Pg,6
+prewl-0.0.4.dist-info/RECORD,,
