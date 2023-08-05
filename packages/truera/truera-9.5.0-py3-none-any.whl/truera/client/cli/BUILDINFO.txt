@@ -1,0 +1,6 @@
+HOSTNAME: tony-truera
+Build Time:  Fri Aug 19 15:09:59 PDT 2022
+Branch: release/rc-20220801
+Commit Time:  Fri Aug 19 15:06:04 2022 -0700
+Commit Id:  e93ffe1332895e329a28d0644536c08295227887
+Truera Services Version: 1.26.0-SNAPSHOT
