@@ -1,0 +1,8 @@
+nim_python_package/__init__.py,sha256=Kft0YXCdeqSbFdGDiB4uz0SzhUyqWjB9QKmFlfU_YRM,173
+nim_python_package/__main__.py,sha256=_OB9MnVOTwwBPXsTw3-TT1CP8WNfGVm-OopTby3JO5Q,94
+nim_python_package/sub_module/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nim_python_package/sub_module/just_a_test.py,sha256=oWQERN8eubduQ-cK2mSkoXHp-Xnqfqi5fyrabqhXd14,38
+nim_python_package-10.1.1.dist-info/LICENSE,sha256=VE8SSiwJFXIUVAL88bOyaDoRYSQBE1cSOIsXlEvfUOI,1083
+nim_python_package-10.1.1.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+nim_python_package-10.1.1.dist-info/METADATA,sha256=0GDbFHV5IYsXg17eFSAPvitdjC3KxQR9zJj-FjqprYA,5963
+nim_python_package-10.1.1.dist-info/RECORD,,
