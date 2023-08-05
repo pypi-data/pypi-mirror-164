@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: pkgu
+Version: 0.0.1
+Summary: Find the out-dated packages installed by the Pip tool and update them.
+Home-page: https://github.com/Abeautifulsnow/pipu
+Author: runstone
+Author-email: lcprunstone@163.com
+License: MIT
+Keywords: python,pip,pip install pkg --upgrade,pip-update
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+License-File: LICENSE
+
