@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+ua_headers/__init__.py
+ua_headers/headers.py
+ua_headers.egg-info/PKG-INFO
+ua_headers.egg-info/SOURCES.txt
+ua_headers.egg-info/dependency_links.txt
+ua_headers.egg-info/top_level.txt
