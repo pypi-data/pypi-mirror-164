@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: netbox_prometheus_sd
+Version: 0.4
+Summary: Netbox plugin which provide API for prometheus HTTP Service Discovery
+Home-page: https://github.com/zelfix/netbox-prometheus-sd
+Author: Andrei Protsenko
+Author-email: prondy@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
