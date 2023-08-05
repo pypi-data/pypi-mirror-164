@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dwanimes
+Version: 0.0.1
+Summary: Download your anime
+Home-page: UNKNOWN
+Author: Joaquín Buendía
+License: UNKNOWN
+Description: # Download animes
+        
+        Download any anime from the web with only one command in your PC
+Keywords: download,anime
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
