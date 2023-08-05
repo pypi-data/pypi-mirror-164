@@ -1,0 +1,3 @@
+[console_scripts]
+mcstubsrv = mcipc.server.stubsrv:main
+queryclt = mcipc.query.queryclt:main
