@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+CryptoPayAPI/__init__.py
+CryptoPayAPI.egg-info/PKG-INFO
+CryptoPayAPI.egg-info/SOURCES.txt
+CryptoPayAPI.egg-info/dependency_links.txt
+CryptoPayAPI.egg-info/requires.txt
+CryptoPayAPI.egg-info/top_level.txt
