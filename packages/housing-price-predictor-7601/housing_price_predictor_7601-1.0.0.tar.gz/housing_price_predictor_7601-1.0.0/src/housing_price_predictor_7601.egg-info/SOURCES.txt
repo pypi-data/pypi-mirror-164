@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/housing_price_predictor_7601.egg-info/PKG-INFO
+src/housing_price_predictor_7601.egg-info/SOURCES.txt
+src/housing_price_predictor_7601.egg-info/dependency_links.txt
+src/housing_price_predictor_7601.egg-info/requires.txt
+src/housing_price_predictor_7601.egg-info/top_level.txt
