@@ -1,0 +1,6 @@
+[console_scripts]
+bee_cfg=beeflow.common.config_driver:main
+bee_client=beeflow.client.bee_client:main
+bee_cloud=beeflow.cloud_launcher:main
+beeflow=beeflow.cli:main
+
