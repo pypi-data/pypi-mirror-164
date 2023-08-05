@@ -1,0 +1,19 @@
+include *.txt
+include *.md
+include *.pkl
+recursive-include ./scoringmodel/*
+
+include scoringmodel/data/default_of_credit_card_clients.xls
+include scoringmodel/data/sample_input_data.csv
+include scoringmodel/trainedmodel/*.pkl
+include scoringmodel/VERSION
+include scoringmodel/config.yml
+
+include ./requirements/requirements.txt
+include ./requirements/test_requirements.txt
+exclude *.log
+exclude *.cfg
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * *.ipynb

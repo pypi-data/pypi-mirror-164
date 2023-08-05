@@ -1,0 +1,94 @@
+# Package Overview
+package_name: scoringmodel
+
+# Data Files
+training_data_file: default_of_credit_card_clients.xls
+test_data_file: sample_input_data.csv
+
+target: target
+
+model_name: lgbc
+model_save_file: lgbc_output_v
+
+variables_to_rename:
+  default payment next month: target
+  PAY_0: pay_1
+
+input_columns:
+  - sex
+  - education
+  - marriage
+  - age
+  - limit_bal
+  - pay_1
+  - pay_2
+  - pay_3
+  - pay_4
+  - pay_5
+  - pay_6
+  - bill_amt1
+  - pay_amt1
+
+features:
+  - sex
+  - education
+  - marriage
+  - age
+  - limit_bal
+  - pay_1
+  - pay_2
+  - pay_3
+  - bill_amt1
+  - pay_amt1
+  - fullpay_l6m
+  - revolve_l3m
+  - revolve_l6m
+  - revolve_l1m
+  - nobill_l6m
+  - default_l6m
+  - default_l3m
+  - default_l1m
+
+test_size: 0.1
+
+random_state: 19
+
+categorical_features:
+  - sex
+  - education
+  - marriage
+  - pay_1
+  - pay_2
+  - pay_3
+
+train_params:
+  boosting_type: gbdt
+  objective: binary
+  metric: auc
+  learning_rate: 0.01
+  num_leaves: 10
+  max_depth: 10
+  min_data_in_leaf: 5
+  max_bin: 6
+  subsample: 0.8
+  subsample_freq: 1
+  colsample_bytree: 0.8
+  min_child_weight: 0.1
+  min_split_gain: 0.01
+  verbose: 0
+
+num_round: 100
+stopping_rounds: 20
+
+# domain_sex:
+#   - 1
+#   - 2
+
+# domain_education:
+#   - 0
+#   - 1
+#   - 2
+#   - 3
+#   - 4
+#   - 5
+#   - 6
