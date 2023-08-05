@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: encodetext
+Version: 0.0.3
+Summary: Encode text to symbols: x,1,0,-,+
+Author: MishaKorzhik_He1Zen
+Author-email: developer.mishakorzhik@gmail.com
+License: Apache 2.0
+Keywords: decode,encode,decoding,text,pypi,pip,encoding
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries
+Description-Content-Type: text/markdown
+
+## Usage
+
+```python
+# Encoding
+from encodetext import use
+use.encode("hello world!")
+
+# it turned out
+#' 010111 000101 110110 110110 010100  010001 010100 001001 110110 110011 111111'
+
+# Decoding
+from encodetext import use
+use.decode(' 010111 000101 110110 110110 010100  010001 010100 001001 110110 110011 111111')
+
+# it turned out
+#hello world;
+```
+

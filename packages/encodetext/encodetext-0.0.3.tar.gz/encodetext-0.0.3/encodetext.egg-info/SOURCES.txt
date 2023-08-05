@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+encodetext/__init__.py
+encodetext/encodetext.py
+encodetext.egg-info/PKG-INFO
+encodetext.egg-info/SOURCES.txt
+encodetext.egg-info/dependency_links.txt
+encodetext.egg-info/requires.txt
+encodetext.egg-info/top_level.txt
