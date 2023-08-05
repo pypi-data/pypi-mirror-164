@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+weesocket/__init__.py
+weesocket/abstract.py
+weesocket/client.py
+weesocket/server.py
+weesocket.egg-info/PKG-INFO
+weesocket.egg-info/SOURCES.txt
+weesocket.egg-info/dependency_links.txt
+weesocket.egg-info/requires.txt
+weesocket.egg-info/top_level.txt

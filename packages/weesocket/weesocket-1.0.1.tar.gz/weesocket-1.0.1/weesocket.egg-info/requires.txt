@@ -1,0 +1,13 @@
+rsa
+
+[dev]
+orjson
+pytest
+wheel
+twine
+
+[orjson]
+orjson
+
+[ujson]
+ujson
