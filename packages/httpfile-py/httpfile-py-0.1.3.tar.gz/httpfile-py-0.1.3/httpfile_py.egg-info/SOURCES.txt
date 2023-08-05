@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+httpfile/__init__.py
+httpfile/_parser.py
+httpfile/loader.py
+httpfile/py.typed
+httpfile_py.egg-info/PKG-INFO
+httpfile_py.egg-info/SOURCES.txt
+httpfile_py.egg-info/dependency_links.txt
+httpfile_py.egg-info/requires.txt
+httpfile_py.egg-info/top_level.txt

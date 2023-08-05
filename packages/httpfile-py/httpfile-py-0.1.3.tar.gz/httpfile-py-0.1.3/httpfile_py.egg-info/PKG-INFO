@@ -1,0 +1,94 @@
+Metadata-Version: 2.1
+Name: httpfile-py
+Version: 0.1.3
+Summary: Python module loader for http file
+Home-page: https://github.com/servicex-sh/httpfile-py
+Author: linux_china
+Author-email: libing.chen@gmail.com
+License: Apache-2.0
+Project-URL: Bug Tracker, https://github.com/servicex-sh/httpfile-py/issues
+Project-URL: Documentation, https://github.com/servicex-sh/httpfile-py/
+Project-URL: Source Code, https://github.com/servicex-sh/httpfile-py
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Framework :: AsyncIO
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Python httpfile import loader
+===============================
+
+![import httpfile in Python](./py_import_httpfile.png)
+
+# How to use?
+
+* Create http file, such as `httpbin.http`
+
+```
+### print my ip
+//@name my-ip
+GET https://httpbin.org/ip
+```
+
+* Add `httpfile-py` package in `requirements.txt` or other configuration file
+* Write your code:
+
+```python
+import httpfile.loader
+# noinspection PyUnresolvedReferences
+import httpbin
+from httpx import Response
+
+if __name__ == '__main__':
+    r: Response = httpbin.my_ip()
+    print(r.json())
+```
+
+# Async support
+
+If you want to use async feature, please add `async_` prefix to request name, code as following:
+
+```python
+import httpfile.loader
+# noinspection PyUnresolvedReferences
+import httpbin
+import asyncio
+from httpx import Response
+
+
+async def my_ip():
+    r: Response = await httpbin.async_my_ip()
+    print(r.json())
+
+
+if __name__ == '__main__':
+    asyncio.run(my_ip())
+
+```
+
+**Attention**: don't forget to add `asyncio` package!
+
+# Python HTTP Clients
+
+* urllib3: https://urllib3.readthedocs.io/
+* Requests: https://requests.readthedocs.io/
+* aiohttp: https://docs.aiohttp.org/
+* GRequests: https://github.com/spyoungtech/grequests
+* HTTPX: https://www.python-httpx.org/
+
+httpfile-py uses HTTPX as http client.
+
+# References
+
+* https://servicex.sh/
+
