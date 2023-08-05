@@ -1,0 +1,12 @@
+MANIFEST.in
+meta.json
+setup.cfg
+setup.py
+artk_ecws_mirror.egg-info/PKG-INFO
+artk_ecws_mirror.egg-info/SOURCES.txt
+artk_ecws_mirror.egg-info/dependency_links.txt
+artk_ecws_mirror.egg-info/not-zip-safe
+artk_ecws_mirror.egg-info/requires.txt
+artk_ecws_mirror.egg-info/top_level.txt
+en_core_web_sm/__init__.py
+en_core_web_sm/meta.json
