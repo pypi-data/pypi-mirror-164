@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/DataStr.egg-info/PKG-INFO
+src/DataStr.egg-info/SOURCES.txt
+src/DataStr.egg-info/dependency_links.txt
+src/DataStr.egg-info/top_level.txt
+src/datastr/DataStr.py
+src/datastr/__init__.py
