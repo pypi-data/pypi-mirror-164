@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: abby
+Version: 0.0.1
+Summary: Seamless A/B testing with Abby.
+Author-email: Farhan Reynaldo <farhanreynaldo@gmail.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Project-URL: Home, https://github.com/farhanreynaldo/abby
+
+# abby
+AB testing for Python
+
