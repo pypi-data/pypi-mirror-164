@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyminifier3
+Version: 2.3.3
+Summary: Python code minifier, obfuscator, and compressor
+Home-page: https://github.com/dzhuang/pyminifier3
+Author: Dan McDougall <daniel.mcdougall@liftoffsoftware.com>,Dong Zhuang <dzhuang.scut@gmail.com>
+Author-email: daniel.mcdougall@liftoffsoftware.com, dzhuang.scut@gmail.com
+License: Proprietary
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides: pyminifier
+License-File: LICENSE
+
