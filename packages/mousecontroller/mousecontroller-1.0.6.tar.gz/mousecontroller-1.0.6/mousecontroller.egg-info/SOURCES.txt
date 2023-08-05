@@ -1,0 +1,8 @@
+README.md
+mousecontroller.py
+setup.py
+mousecontroller.egg-info/PKG-INFO
+mousecontroller.egg-info/SOURCES.txt
+mousecontroller.egg-info/dependency_links.txt
+mousecontroller.egg-info/requires.txt
+mousecontroller.egg-info/top_level.txt
