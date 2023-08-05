@@ -1,0 +1,47 @@
+#!python
+# This file is placed in the Public Domain.
+
+
+"rss to irc feed fetcher"
+
+
+import sys
+import time
+
+
+from rssbot.obj import Wd
+from rssbot.hdl import Cfg, Client, docmd
+from rssbot.scn import scan
+
+
+from rssbot import bsc, irc, rss
+
+
+scan(bsc)
+scan(irc)
+scan(rss)
+
+
+Cfg.name = "rssbot"
+Wd.workdir = "/var/lib/rssbot/"
+
+
+irc.Config.channel = "#rssbot"
+irc.Config.nick = "rssbot"
+irc.Config.realname = "RSSBOT - rss to irc feed fetcher"
+irc.Config.username = 'rssbot'
+
+
+class CLI(Client):
+
+    def raw(self, txt):
+        print(txt)
+        sys.stdout.flush()
+
+
+def main():
+    cli = CLI()
+    docmd(cli, " ".join(sys.argv[1:]))
+
+
+main()
