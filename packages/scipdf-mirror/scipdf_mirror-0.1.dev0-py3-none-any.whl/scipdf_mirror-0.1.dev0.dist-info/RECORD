@@ -1,0 +1,11 @@
+scipdf/__init__.py,sha256=9xcBnQsLUedtWmJrjemwrVTfJYpus-2wGzpeGuIf9KI,131
+scipdf/features/__init__.py,sha256=J5SaJCPXyoDzWlVkf0ghUQomolCq2qQE5rITJe_8bxo,176
+scipdf/features/text_utils.py,sha256=YFIUktrtI04zHTEQsia0pCGle1OlkiE7PvOyjQL7Nw4,7417
+scipdf/pdf/__init__.py,sha256=qV1lJFLOWQHwY6RRXof5wuKd1fcVdFRAED-9ysQ8NlY,161
+scipdf/pdf/parse_pdf.py,sha256=bK9TZpWq9xB3WBCaiha_re27Dhz3BuUrGVNsJROS6Ho,14249
+scipdf/pdf/pdffigures2/pdffigures2-assembly-0.0.12-SNAPSHOT.jar,sha256=KpEX4kkCjvhQrEp7Tlsby_bQK41Rj_4lDJNo-H7Xj-g,33667261
+scipdf_mirror-0.1.dev0.data/scripts/serve_grobid.sh,sha256=JZbqNod0OOIZSnAUFz5UdYCz_oDWVO4b4Q5yTQMV0Bk,375
+scipdf_mirror-0.1.dev0.dist-info/METADATA,sha256=dL73v1Ycugyq7ApeWVcxNr2PJPKvoJ5n_s19RJUtqtQ,2793
+scipdf_mirror-0.1.dev0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+scipdf_mirror-0.1.dev0.dist-info/top_level.txt,sha256=hdtQPfDhOUFIgiKmU-c4XLNpG_bu-r6AhvvCQfFxAwM,7
+scipdf_mirror-0.1.dev0.dist-info/RECORD,,
