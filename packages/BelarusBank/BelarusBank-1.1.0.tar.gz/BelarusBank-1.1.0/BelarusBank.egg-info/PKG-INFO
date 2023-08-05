@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: BelarusBank
+Version: 1.1.0
+Summary: Оболочка для использования BelarusBankAPI на Python
+Author: Barl
+Author-email: adwer197@gmail.com
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+
+# BelarusBankAPI
+> Оболочка для использования BelarusBankAPI на Python
+---
+### Quick Start
+```commandline
+from BelarusBank import BelBankAPI
+
+def main(city: str):
+    bank = BelBankAPI()
+    print(bank.get_infobox(city))
+
+if __name__ == '__main__':
+    main('Минск')
+```
+---
+### Asyncio Method
+```commandline
+import asyncio
+from BelarusBank import AIOBelBankAPI
+
+async def main(city: str):
+    bank = AIOBelBankAPI()
+    gems = await bank.get_gems(city)
+    print(gems)
+
+if __name__ == '__main__':
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(main('Гродно'))
+```
+_[by BARL](https://t.me/barltg)_
