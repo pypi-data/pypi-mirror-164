@@ -1,0 +1,11 @@
+LICENCE.md
+README.md
+pyproject.toml
+minibump/__init__.py
+minibump/main.py
+minibump.egg-info/PKG-INFO
+minibump.egg-info/SOURCES.txt
+minibump.egg-info/dependency_links.txt
+minibump.egg-info/entry_points.txt
+minibump.egg-info/requires.txt
+minibump.egg-info/top_level.txt
