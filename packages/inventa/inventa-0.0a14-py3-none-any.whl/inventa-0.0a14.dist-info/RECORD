@@ -1,0 +1,12 @@
+inventa/__init__.py,sha256=0235wZdrVi-vXqV7EJAKFFq3DOhMoWH6dXO4PNASxuk,1033
+inventa/endless_timer_task.py,sha256=0jTm6mtWKb-ui5KxzaeIagat6RzAlZe32nZv3yhmiA0,1258
+inventa/inventa.py,sha256=N5rUYXfgBEu3ZeQUZ0c-DslIemfUDFqPh702sDa8Nm4,13619
+inventa/rpc_call_request.py,sha256=s7xvLPpsFsmE1cXjBAVGQBGDBbh0VW3VXyFxBJDEG2E,1783
+inventa/rpc_call_response.py,sha256=E4DTg-9MPclgtzduoYheESm4tByZyuCJCF2JzimzROI,1573
+inventa/service_descriptor.py,sha256=qQ29P3DUYWfKS48aiPT_JnIWOeuNrP-ulJ_4mB7LJk4,1599
+inventa/utils.py,sha256=3l_1BS5Ac9z_LvRQw3EgxcwWiFpmgLADdscr2ixY6kM,1362
+inventa-0.0a14.dist-info/LICENSE,sha256=2PyZUNkRZGHeEZEZZiCOZskOlP5Bk6UeVKLzF5Ezs5U,10800
+inventa-0.0a14.dist-info/METADATA,sha256=XXx1daCROog4QPmOg2hvNymM2OUZxWsMCF6_JX3Rr8A,4085
+inventa-0.0a14.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+inventa-0.0a14.dist-info/top_level.txt,sha256=D4IlEtYSTz8pfehEXmAbrGvW7D99hhjJrWv0HV7fC-0,8
+inventa-0.0a14.dist-info/RECORD,,
