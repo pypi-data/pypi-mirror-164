@@ -1,0 +1,12 @@
+README.md
+setup.py
+vcdatatools/__init__.py
+vcdatatools/affinity.py
+vcdatatools/airtable.py
+vcdatatools/aumni.py
+vcdatatools/carta.py
+vcdatatools.egg-info/PKG-INFO
+vcdatatools.egg-info/SOURCES.txt
+vcdatatools.egg-info/dependency_links.txt
+vcdatatools.egg-info/requires.txt
+vcdatatools.egg-info/top_level.txt
