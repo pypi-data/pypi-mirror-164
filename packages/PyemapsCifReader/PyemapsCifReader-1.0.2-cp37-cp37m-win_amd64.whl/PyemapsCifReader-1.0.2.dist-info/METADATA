@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: PyemapsCifReader
+Version: 1.0.2
+Summary: CIF file reader support for PYEMAPS based on PyCifRead4.4.3
+Home-page: https://www.emlabsolutions.com
+Author: EMLab Solutions, Inc.
+Author-email: support@emlabsoftware.com
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Python Software Foundation License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+License-File: LICENSE
+
