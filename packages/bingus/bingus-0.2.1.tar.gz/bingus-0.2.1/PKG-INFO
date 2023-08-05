@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: bingus
+Version: 0.2.1
+Summary: Many python utilities in one package.
+Home-page: https://gitlab.com/brunorobert/bingus
+License: MIT
+Author: Bruno Robert
+Author-email: bruno.jeanluke@icloud.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://gitlab.com/brunorobert/bingus
+Description-Content-Type: text/markdown
+
+# Bingus: the package
+
+Bingus is a library of utility scripts and functions.
+
