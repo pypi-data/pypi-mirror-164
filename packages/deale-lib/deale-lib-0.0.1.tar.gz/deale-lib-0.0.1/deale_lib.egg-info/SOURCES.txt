@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+deale-lib/__init__.py
+deale-lib/helpers.py
+deale_lib.egg-info/PKG-INFO
+deale_lib.egg-info/SOURCES.txt
+deale_lib.egg-info/dependency_links.txt
+deale_lib.egg-info/top_level.txt
