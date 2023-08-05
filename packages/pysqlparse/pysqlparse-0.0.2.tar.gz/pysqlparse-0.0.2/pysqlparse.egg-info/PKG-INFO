@@ -1,0 +1,59 @@
+Metadata-Version: 2.1
+Name: pysqlparse
+Version: 0.0.2
+Summary: Extract table names and other information from SQL queries
+Home-page: https://github.com/lawrencemq/py-sql-parser
+Author: Lawrence Weikum
+Author-email: lawrencemq@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/lawrencemq/py-sql-parser/issues
+Keywords: sql,parse
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Database
+Classifier: Topic :: Software Development
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PySqlParse
+
+Find table names and other information in a SQL query
+
+# Installation
+
+```
+pip3 install pysqlparse
+```
+
+# Use
+
+## Import 
+
+```python
+from pysqlparse import parser
+...
+```
+
+
+# get_table_names
+
+Returns a set of all table names (without aliases) found in the SQL string.
+
+```python
+from pysqlparse import parser
+print(parser.get_table_names('''
+        SELECT *
+            FROM requests.by_account m
+            INNER JOIN customer_data.styles s ON m.version = s.id
+            LEFT JOIN profiles.users u ON m.csm = u.id
+      '''))
+```
+Returns:
+
+```python
+{'request.by_account', 'customer_data.styles', 'profiles.users'}
+```
+
+
