@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: pcomp
+Version: 1.1.0
+Summary: Possible combinations - Python Library
+Home-page: https://github.com/For1nator/pcomp
+Author: Antonis Piloridis
+Author-email: antonispiloridis@gmail.com
+License: MIT
+Keywords: combinations
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+A simple library that calculates all possible combinations of a list of a given length.
+
+Example(hex to binnary)
+
+import pcomp
+
+print (pcomp.area(range(2),4)
+
+#it returns: 16
+
+print (pcomp.pc(range(2),4)
+
+#it returns: [[0, 0, 0, 0], [0, 0, 0, 1], [0, 0, 1, 0], [0, 0, 1, 1], [0, 1, 0, 0], [0, 1, 0, 1], [0, 1, 1, 0], [0, 1, 1, 1], [1, 0, 0, 0], [1, 0, 0, 1], [1, 0, 1, 0], [1, 0, 1, 1], [1, 1, 0, 0], [1, 1, 0, 1], [1, 1, 1, 0], [1, 1, 1, 1]]
+
+#[0]=0,[1]=1 .... [15]=f
+
+Change Log
+==========
+
+1.1.0 (19/8/2022)
+-----------------
+- New return form
+- The all function has been renamed to pc
+- Better file organization and function syntax
+
+1.0.2 (10/7/2022)
+-----------------
+- Added github
+
+1.0.2 (10/7/2022)
+-----------------
+- Added github
+
+1.0.1 (10/7/2022)
+-----------------
+- Fixed a problem
+
+1.0.0 (10/7/2022)
+-----------------
+- First Release
+
