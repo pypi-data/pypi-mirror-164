@@ -1,0 +1,3 @@
+[console_scripts]
+moht_qt = moht.start:run_qt
+moht_tk = moht.start:run_tk
