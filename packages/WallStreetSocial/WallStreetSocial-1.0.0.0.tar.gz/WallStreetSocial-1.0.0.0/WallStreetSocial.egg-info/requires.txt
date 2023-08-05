@@ -1,0 +1,15 @@
+setuptools
+dash
+yfinance
+plotly
+matplotlib
+pandas
+gensim
+datetime
+pmaw
+spacy
+vaderSentiment
+numpy
+nltk
+requests
+dash-bootstrap-components
