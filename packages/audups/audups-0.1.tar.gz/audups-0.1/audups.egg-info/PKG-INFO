@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: audups
+Version: 0.1
+Summary: Command line tool for finding similar audio files using their AcoustID fingerprints
+Home-page: https://github.com/udf/audups
+Author: Samara
+Author-email: tabhooked@gmail.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Topic :: Multimedia :: Sound/Audio :: Analysis
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+long_description
