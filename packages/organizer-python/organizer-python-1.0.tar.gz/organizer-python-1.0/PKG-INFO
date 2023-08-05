@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: organizer-python
+Version: 1.0
+Summary: Organize your files in folders
+Author: Muhammad Afaq Shuaib (Arbisoft)
+Author-email: afaq.shoaib09@gmail.com
+Keywords: python,organize,files,folders
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+
+### Organizer 1.0.0
+ * package:     Organizer
+ * Author:     Muhammad Afaq Shuaib
+ * Link:       https://github.com/AfaqShuaib09/Organizer
+ 
+
+A Python package for organizing to their respective folders (i.e, images, videos, documents, etc)
