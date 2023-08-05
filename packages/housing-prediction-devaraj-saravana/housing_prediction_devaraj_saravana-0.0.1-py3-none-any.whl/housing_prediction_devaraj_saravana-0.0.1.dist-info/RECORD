@@ -1,0 +1,9 @@
+housing_prediction_devaraj_saravana/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+housing_prediction_devaraj_saravana/ingest_data.py,sha256=xeivehUcCXKyTEpiBjQFgm20_FJ0uyYB3z77pXFE9yQ,4705
+housing_prediction_devaraj_saravana/score.py,sha256=2D9Kb_tPQq2_lFA444emEtdrikKdOCE7QZcnHSn_79c,2736
+housing_prediction_devaraj_saravana/train.py,sha256=yjbLLV1M08megkf17gveALfBm5RdHxhuYW69yl3dzso,4899
+housing_prediction_devaraj_saravana-0.0.1.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+housing_prediction_devaraj_saravana-0.0.1.dist-info/METADATA,sha256=HbnpysbOtBEzHQz_MkRAzcyKpO_KfFYZCoo3ElE_foA,3477
+housing_prediction_devaraj_saravana-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+housing_prediction_devaraj_saravana-0.0.1.dist-info/top_level.txt,sha256=Q6t6EicsWO1Je0ddlgiJ5eKwEnCtkzcj-8BYHPUuC98,36
+housing_prediction_devaraj_saravana-0.0.1.dist-info/RECORD,,
