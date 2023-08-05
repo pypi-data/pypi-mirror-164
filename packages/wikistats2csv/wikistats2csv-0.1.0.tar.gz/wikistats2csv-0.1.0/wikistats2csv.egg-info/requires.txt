@@ -1,0 +1,4 @@
+lxml==4.9.1
+rich==12.5.1
+pandas==1.4.3
+selenium==3.141.0
