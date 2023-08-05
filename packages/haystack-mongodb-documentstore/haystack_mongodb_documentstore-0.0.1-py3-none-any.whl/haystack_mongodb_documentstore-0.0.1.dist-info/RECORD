@@ -1,0 +1,7 @@
+src/mongodb_documentstore/__about__.py,sha256=_7esTCz3PsvyPKD8682_GNIUsDVw-3loU8VLm5Q8Vqg,132
+src/mongodb_documentstore/__init__.py,sha256=Go-h_Ri56bScHzjJ4QaNdYl0wqMXwQ9wEI471uVvF-I,158
+src/mongodb_documentstore/documentstore.py,sha256=VHoeEvcqjtivPcAWiKjYU1sFQ-a2ZFMDiwrtD0RBdjY,12033
+haystack_mongodb_documentstore-0.0.1.dist-info/METADATA,sha256=2wbwJozWhugVzgaGFoqSpRaj1d1-hR4b_fA39XjOdRg,1535
+haystack_mongodb_documentstore-0.0.1.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+haystack_mongodb_documentstore-0.0.1.dist-info/licenses/LICENSE.txt,sha256=B05uMshqTA74s-0ltyHKI6yoPfJ3zYgQbvcXfDVGFf8,10280
+haystack_mongodb_documentstore-0.0.1.dist-info/RECORD,,
