@@ -1,0 +1,12 @@
+sf2/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sf2/__main__.py,sha256=3mVTrHtKeUbezYxfB4lUckX4po5RkRwWgyZIGLei_hk,64
+sf2/args.py,sha256=PWy9j1TxAL7gpGvL1KDcsT9lk5NLa5tmYTKdrvE_Rb4,1833
+sf2/cipher.py,sha256=4aQKGQXXFHIT7eNxjHyuKQfbC95kjQn3LddCqPliOm0,5359
+sf2/extern.py,sha256=0Jw60ZjT5xypS61F8uSWb3KSFwBBbQTvVF2x87FK3O8,3606
+sf2/sf2.py,sha256=z7f90mNX6jKyYmlnsn98pQQ95vblKXQMpxSk_Sd0hAY,2886
+sf2-1.2.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+sf2-1.2.0.dist-info/METADATA,sha256=4JV_ZWYbEThfc546dMrmxLHLs0DlmDp0I8iwe_pMrCI,3795
+sf2-1.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+sf2-1.2.0.dist-info/entry_points.txt,sha256=uz6lUOdr_siOOafuSnaYBd9BgWV8DShY3_6s6K-x0lE,37
+sf2-1.2.0.dist-info/top_level.txt,sha256=0hVbWllj4-m38fKfr-5x5BmymOdheKChWteFWh2Ew_8,4
+sf2-1.2.0.dist-info/RECORD,,
