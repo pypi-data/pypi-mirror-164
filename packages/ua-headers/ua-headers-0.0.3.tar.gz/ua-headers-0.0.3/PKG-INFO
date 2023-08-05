@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: ua-headers
+Version: 0.0.3
+Summary: Good user agent generator
+Author: MishaKorzhik_He1Zen
+Author-email: developer.mishakorzhik@gmail.com
+License: Apache 2.0
+Keywords: headers,user-agent,ua,fake-ua,fake-header,user_agent,pypi,pip
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries
+Description-Content-Type: text/markdown
+
+## Fake Headers
+
+**An ideal tool for generating random user agents**
+
+```
+User Agents:
+
+Elementaryos # elementary OS
+Blackberry   # blackberry
+Openbsd      # openbsd
+Windows      # windows
+Console      # nintendo/ps/xbox
+Android      # android
+Sumbian      # sumbian OS
+Sunos        # Sun OS
+Linux        # fedora/ubuntu/debian & other
+Ios          # ios
+```
+
+```python
+from headers import ua
+
+ua.elementaryos() #Generate elementary OS user agent
+ua.blackberry() #Generate Blackberry user agent
+ua.windows() #Generate Windows user agent
+ua.console() #Generate Nintendo/PS/Xbox user agent
+
+ua.openbsd() #Generate OpenBSD user agent
+ua.sumbian() #Generate Sumbian user agent
+ua.android() #Generate Android user agent
+ua.sunos() #Generate sun OS user agent
+ua.linux() #Generate Linux user agent
+ua.ios() #Generate IOS user agent
+```
