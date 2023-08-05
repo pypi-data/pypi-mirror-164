@@ -1,0 +1,17 @@
+robust_deep_learning/__init__.py,sha256=0YjDBLp_xhPVSCN-GgnUWw7Ij41yYt9QG2z9HQq08EI,260
+robust_deep_learning/calibration.py,sha256=8Mmwiu2tkSYvzDYm8pYrohwLk0mltLtcAUgKhvYGpIY,2456
+robust_deep_learning/detection.py,sha256=1FEBvZlqU4HlwECIaprMWWQVMd3P4sbZ_mf_y8H3_S0,3510
+robust_deep_learning/dismax.py,sha256=3uTxg6g6-K3rcElcs7tt3Onuxh4-npXTfUp3RuQLZ_k,9739
+robust_deep_learning/dismax2.py,sha256=bkxzZA-dSMQagbOSiQsSjD2geeRl0kMnnYKs6rAsJW8,11650
+robust_deep_learning/isomax.py,sha256=EfGINzcRXYGd0TVN5euRHO_r90AhEAWmhDGFM44kSk0,2872
+robust_deep_learning/isomaxplus.py,sha256=Kd72wKgxRD3yuZdz_6P3K9DoAPzcM1dmRR7bdtSKZvM,3254
+robust_deep_learning/metrics.py,sha256=aOLN_HVehODT-FPBQ1Q9QztIjZ76NZBQN9eh2Z9oaKs,5332
+robust_deep_learning/scores.py,sha256=I88PkoCW1E2nIitYqc8CjlnxxNyifNdHd4v9LdOA77I,1355
+robust_deep_learning/softmax.py,sha256=vAsWDgfoqGkT8UCSN3tzaLb4A4ThjIH3J8agUjTQod8,2149
+robust_deep_learning/thresholds.py,sha256=eb6yHgjqekQqS8chEwTVCIRUH5sFqPVY7WNmMqebLaw,3034
+robust_deep_learning/tools.py,sha256=Zr9Aft8cAIE1Xn_va0_GadVF_fwAdJzpm6Aj-Wehu1A,1461
+robust_deep_learning-0.0.2.dist-info/LICENSE,sha256=M2JV3DAZPo4V1onZSBuwVnPYkFVxjzqWkjp_-5mtu68,19333
+robust_deep_learning-0.0.2.dist-info/METADATA,sha256=jPsXLdAveZO0Lw6173XCaEbVWpbHwkjvLDBU7MNIcGQ,10972
+robust_deep_learning-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+robust_deep_learning-0.0.2.dist-info/top_level.txt,sha256=1xMxeUh4tyclM6DsY7vsqrdTG6A6wal3LFxxtvug6hg,21
+robust_deep_learning-0.0.2.dist-info/RECORD,,
