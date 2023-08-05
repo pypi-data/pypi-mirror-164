@@ -1,0 +1,12 @@
+README.md
+setup.py
+venture-capital-data-toolkit/__init__.py
+venture-capital-data-toolkit/affinity.py
+venture-capital-data-toolkit/airtable.py
+venture-capital-data-toolkit/aumni.py
+venture-capital-data-toolkit/carta.py
+venture_capital_data_toolkit.egg-info/PKG-INFO
+venture_capital_data_toolkit.egg-info/SOURCES.txt
+venture_capital_data_toolkit.egg-info/dependency_links.txt
+venture_capital_data_toolkit.egg-info/requires.txt
+venture_capital_data_toolkit.egg-info/top_level.txt
