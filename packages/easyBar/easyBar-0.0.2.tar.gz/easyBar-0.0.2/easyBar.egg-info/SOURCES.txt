@@ -1,0 +1,6 @@
+__init__.py
+setup.py
+easyBar.egg-info/PKG-INFO
+easyBar.egg-info/SOURCES.txt
+easyBar.egg-info/dependency_links.txt
+easyBar.egg-info/top_level.txt

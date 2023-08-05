@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: easyBar
+Version: 0.0.2
+Summary: an easy processbar
+Author: Lfanke
+Author-email: chengkelfan@foxmail.com
+License: apache 3.0
+Platform: UNKNOWN
+
+一个简易的进度条
+
