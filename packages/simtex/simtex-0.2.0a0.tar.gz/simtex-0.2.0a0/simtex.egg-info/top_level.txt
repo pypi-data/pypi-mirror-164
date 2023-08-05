@@ -1,0 +1,10 @@
+src/cli
+src/config
+src/convert
+src/main
+src/misc/stdout
+src/mutils/functions
+src/utils/config_fetch
+src/utils/logger
+src/utils/tex/sections/body
+src/utils/tex/sections/headings
