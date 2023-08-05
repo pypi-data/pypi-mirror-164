@@ -1,0 +1,6 @@
+numpy<1.23,>=1.18
+matplotlib
+scipy
+PyQt5
+numba
+importlib-metadata
