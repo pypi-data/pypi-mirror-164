@@ -1,0 +1,13 @@
+violetear/__init__.py,sha256=mbpz3_As7JzAaGEhVQDTFPtoNmy3RJrMpB7UNdjGKOQ,964
+violetear/color.py,sha256=xt2pZb7sCLXfR5duqV_WeZtgBWw96DhX3uvpGeW7GlI,17817
+violetear/helpers.py,sha256=2-TULtan7kHwd5aFguCKAsURaplLHOCBFLQhrboXrmc,199
+violetear/media.py,sha256=VntqxWSdZIOQ2bO6dX614epFxIuLICWkdL3jcnffMGY,760
+violetear/normalize.css,sha256=K6GG_pAyho_cP7E3mVj-Oj4a-pemVMG5bQEaZmGmY8E,4845
+violetear/selector.py,sha256=QzPQq5fmkO5IyZJLNCBC7fxZoF5AHYn7ZmCUotxxRBo,2516
+violetear/style.py,sha256=qsjcq4ceOXSXHCrbJ9qGecnNZUZbQ2o4r3ijSfSo-0U,14711
+violetear/stylesheet.py,sha256=nitg5nIKEt_DTVlC038fohXZ9gANvjxAET9TKgUPkco,4456
+violetear/units.py,sha256=wRDGW1MGPDdtc2-ng6sONx0Z4o4pcEpu220zwyt9Bg0,1525
+violetear-0.8.1.dist-info/LICENSE,sha256=GLNM7J7fSXx2vwFAYWRci6LiYEE25ljFNQYSyx9e0rM,1071
+violetear-0.8.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+violetear-0.8.1.dist-info/METADATA,sha256=VQSWQEXjGFMCW0vkwYR2Mq4_k-X_jEtYsWBmbgEoBVw,433
+violetear-0.8.1.dist-info/RECORD,,
