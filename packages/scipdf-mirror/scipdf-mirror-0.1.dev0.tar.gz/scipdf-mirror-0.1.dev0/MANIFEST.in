@@ -1,0 +1,5 @@
+include *.txt
+recursive-include example_data *.pdf
+recursive-include figures *.json
+recursive-include figures *.md
+recursive-include figures *.png
