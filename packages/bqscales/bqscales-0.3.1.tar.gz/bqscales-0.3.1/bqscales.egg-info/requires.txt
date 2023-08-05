@@ -1,0 +1,4 @@
+ipywidgets<9,>=8.0.1
+traitlets>=4.3.0
+traittypes>=0.0.6
+numpy<2.0.0,>=1.10.4
