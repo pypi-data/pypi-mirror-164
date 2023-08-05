@@ -1,0 +1,9 @@
+flask < 2.2.0
+flask-sqlalchemy
+flask-httpauth
+flask-testing
+authlib
+passlib
+sphinxcontrib.httpdomain
+sphinx
+werkzeug < 2.2.0
