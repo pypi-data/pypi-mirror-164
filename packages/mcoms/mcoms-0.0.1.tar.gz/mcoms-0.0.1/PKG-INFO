@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: mcoms
+Version: 0.0.1
+Summary: Installing
+Home-page: https://github.com/TwoIt202/mcoms
+Download-URL: https://github.com/TwoIt202/mcoms/raw/7a9c3e5770a548e1beb6381c8df18db0c5015a34/mcoms.zip
+Author: two-it2022
+Author-email: kodland.group@gmail.com
+License: Apache License, Version 0.1, see LICENSE file
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: CPython
+
+Python module for Two It project
+                  management platform (TwoIt API wrapper)

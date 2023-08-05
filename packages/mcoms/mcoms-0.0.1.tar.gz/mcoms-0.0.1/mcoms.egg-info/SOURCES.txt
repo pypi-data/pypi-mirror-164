@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+mcoms/__init__.py
+mcoms/main.py
+mcoms.egg-info/PKG-INFO
+mcoms.egg-info/SOURCES.txt
+mcoms.egg-info/dependency_links.txt
+mcoms.egg-info/requires.txt
+mcoms.egg-info/top_level.txt
