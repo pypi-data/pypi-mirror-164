@@ -1,0 +1,4 @@
+[console_scripts]
+yaqd-mcc-118=yaqd_mcc._mcc_118:Mcc118.main
+yaqd-mcc-152-aout=yaqd_mcc._mcc_152_aout:Mcc152AOut.main
+
