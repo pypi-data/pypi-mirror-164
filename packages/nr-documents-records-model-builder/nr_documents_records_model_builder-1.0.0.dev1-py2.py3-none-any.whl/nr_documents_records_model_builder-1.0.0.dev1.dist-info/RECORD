@@ -1,0 +1,10 @@
+nr_documents_records_model_builder/__init__.py,sha256=BGcf4cILq18Y1E7HR8f85FndSuUBDRENBg4C2Uw697o,178
+nr_documents_records_model_builder/version.py,sha256=xaKJgv0Sw4--5H2P701hlQxmLNe05LNOuwLLXjGXq68,25
+nr_documents_records_model_builder/models/__init__.py,sha256=Y5cZxw6APT3kPcLg6L-dYhO4mwixgcFNiJB5cZih6LI,310
+nr_documents_records_model_builder/models/nr-documents-records-model.yaml,sha256=GYd2YnZK990UxqeF6uSaLwIyU90_6F_8MHhFOrTsw94,964
+nr_documents_records_model_builder/models/nr-documents-records.yaml,sha256=O3lcXMJuop_zC5v0B-Xzpvqv2ywdjwdwHQ7f_BWEgEI,1760
+nr_documents_records_model_builder-1.0.0.dev1.dist-info/METADATA,sha256=NAlOZvKi5OmAWzEFp2dWSxU6ATxYZWX_XFdM7A9fN8o,2056
+nr_documents_records_model_builder-1.0.0.dev1.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+nr_documents_records_model_builder-1.0.0.dev1.dist-info/entry_points.txt,sha256=yLVq2F25Ue1Jy7Pd6hblmyCd8SC5bqPtTPn_U4JEMcs,102
+nr_documents_records_model_builder-1.0.0.dev1.dist-info/top_level.txt,sha256=6upHgKx7LfSL8fh3OiOrG96zrF--GZhTC4Rzl7xhfCQ,35
+nr_documents_records_model_builder-1.0.0.dev1.dist-info/RECORD,,
