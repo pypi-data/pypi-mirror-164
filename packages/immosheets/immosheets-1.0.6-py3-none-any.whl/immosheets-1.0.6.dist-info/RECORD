@@ -1,0 +1,13 @@
+immosheets/__init__.py,sha256=bU10AeZ7xL0gXt0j7HoGqm7a1eGTqP6NQxYoGExmxP4,538
+immosheets/area.py,sha256=q_q7507SspgrNGgLKBGkjoH05m17URLHd3B15Rn7Sqk,131
+immosheets/location.py,sha256=eoFnwk9QxljxZhtV3KR4QeJZYb9igpYqHPh5j-2RS6M,189
+immosheets/range.py,sha256=v-OuQxFkDi9zYyzAXCoztOpiHa7tcrzJnD11cOeeX0A,95
+immosheets/real_estate.py,sha256=tso4Tt683oMOhtpVHAc0EDU3h1NQz8btNZJfphFuPHM,1458
+immosheets/real_estate_service.py,sha256=9mzYlp67CYdWmfKz4cXmtdD9a4ZEcCVwnv5ov0XzCpI,403
+immosheets/reporting_service.py,sha256=N5viRlDUC25C2VmR68fIjm2AnjdAqIxfBd_QPV119ng,569
+immosheets/settings.py,sha256=Sl1JY1WjbLtYbQKrBAzuWPAgQBvGz2gpWa6Rr8waSl4,497
+immosheets/target.py,sha256=1ljj6nfkYtqkzN0RkuN4RBZDYH_jBpd-DZ_GHXmqjag,48
+immosheets-1.0.6.dist-info/METADATA,sha256=T8aNe_6lZ1-rHMb-xgFaIzrG0MGJZ56KycgHl9HbXzw,2800
+immosheets-1.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+immosheets-1.0.6.dist-info/top_level.txt,sha256=nu7Xe2pEXpFC4PXXi5-GDiLHPM7t6crgPH3_Tx52iI4,11
+immosheets-1.0.6.dist-info/RECORD,,
