@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: simpleaddfunc1
+Version: 0.0.2
+Summary: My first Python package
+Home-page: UNKNOWN
+Author: NS
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+My first Python package with a slightly longer description
+
