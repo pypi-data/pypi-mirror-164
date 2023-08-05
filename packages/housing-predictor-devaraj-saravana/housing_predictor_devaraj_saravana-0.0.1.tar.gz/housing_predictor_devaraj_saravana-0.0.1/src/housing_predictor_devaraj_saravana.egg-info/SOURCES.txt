@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/housing_predictor_devaraj_saravana/__init__.py
+src/housing_predictor_devaraj_saravana/ingest_data.py
+src/housing_predictor_devaraj_saravana/score.py
+src/housing_predictor_devaraj_saravana/train.py
+src/housing_predictor_devaraj_saravana.egg-info/PKG-INFO
+src/housing_predictor_devaraj_saravana.egg-info/SOURCES.txt
+src/housing_predictor_devaraj_saravana.egg-info/dependency_links.txt
+src/housing_predictor_devaraj_saravana.egg-info/top_level.txt
