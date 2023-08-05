@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+diracengine/__init__.py
+diracengine/cmathplus.py
+diracengine/constant.py
+diracengine/operator.py
+diracengine/operatorarray.py
+diracengine/state.py
+diracengine/wavefunction.py
+diracengine.egg-info/PKG-INFO
+diracengine.egg-info/SOURCES.txt
+diracengine.egg-info/dependency_links.txt
+diracengine.egg-info/requires.txt
+diracengine.egg-info/top_level.txt

@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: diracengine
+Version: 0.0.14
+Summary: The Dirac Quantum Engine
+Home-page: UNKNOWN
+Author: Nikola Kostadinov
+Author-email: <nikolakostadinov@protonmail.com>
+License: MIT
+Project-URL: Source Code, https://github.com/NikolaKostadinov/diracengine
+Keywords: python,quantum,spin,ket,bra,superposition,psi,dirac,engine,schrodinger,pauli,bohr
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Environment :: Console
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# **The Dirac Quantum Engine**: ***a tribute to a legend***
+
+The **Dirac engine** is a *Pyhon physics engine* which simulates quantum phenomena. This includes basic quantum and wave mechanics, spin 1/2 particles and their antimatter partners.
+
+In 1928 **Paul Dirac**, an english physicist, was working on a relativistic theory of quantum mechanics. The result is a beautiful equation:
+
+$$ i \hbar \gamma^\mu \partial_\mu \ket\psi - m c \ket\psi = 0 $$
+
+This equation predicts electron spin, the periodic table, antimatter and the **g** factor. It is also the first building block of **quantum field theory**: оur best description of reality (yet).
+
+This equation is the core of the **Dirac engine**. This is why this name has been chosen for the project. The engine is *a tribute to a legend*: **Paul Dirac**, one of the geniuses of the 20th century.
+
+Quantum field theory is hard. It requires years of studying just for the basics. But that is not the main problem. Calculations in quantum field theory are beyond the performance limits of modern computers. So, how could we simulate the quantum realm?
+
+Fortunately, quantum field theory's predecessor: **quantum mechanics**, is easier. It does not require you to build a cluster of supercomputers. You can simulate basic quantum phenomena on your own computer.
+
