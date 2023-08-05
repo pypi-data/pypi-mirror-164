@@ -1,0 +1,98 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$          pCRM9 natural frequency model based on the                     $
+$        University of Michigan undeflected CRM geometry                  $
+$                                                                         $
+$  Originally created by Paul Lancelot, Delft University of Technology    $
+$    Modified  by Saullo G. P. Castro, Delft University of Technology     $
+$    - removed RBE2 elements                                              $
+$                                                                         $
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+SOL 103
+CEND
+$ Direct Text Input for Global Case Control Data
+LINES = 999999
+ECHO = NONE
+SPC = 1 $ SYMMETRIC CONSTRAINTS
+DISP(PRINT,PLOT) = NONE
+SUBCASE 1
+    METHOD = 20
+BEGIN BULK
+PARAM,POST,0
+INCLUDE 'pCRM9_model_2.dat'
+INCLUDE 'pCRM9_ribs_fem.dat'
+INCLUDE 'pCRM9_mat.dat'
+INCLUDE 'pCRM9_CONM2_MTOW.dat'
+INCLUDE 'pCRM9_PSHELL.dat'
+$ SID V1 V2 ND
+EIGRL,20,,,30
+$ Displacement Constraints of Load Set : spc
+$[--1--][--2---][--3---][--4---][--5---][--6---][--7---][--8---][--9---][--10--]
+SPC1     1      123456   175
+SPC1     1      123456   176
+SPC1     1      123456   219
+SPC1     1      123456   231
+SPC1     1      123456   238
+SPC1     1      123456   399
+SPC1     1      123456   567
+SPC1     1      123456   861
+SPC1     1      123456   862
+SPC1     1      123456   1013
+SPC1     1      123456   1029
+SPC1     1      123456   1033
+SPC1     1      123456   1037
+SPC1     1      123456   1081
+SPC1     1      123456   1082
+SPC1     1      123456   1085
+SPC1     1      123456   1089
+SPC1     1      123456   1093
+SPC1     1      123456   1097
+SPC1     1      123456   1101
+SPC1     1      123456   1102
+SPC1     1      123456   1107
+SPC1     1      123456   1111
+SPC1     1      123456   1115
+SPC1     1      123456   1119
+SPC1     1      123456   1122
+SPC1     1      123456   2295
+SPC1     1      123456   2296
+SPC1     1      123456   2359
+SPC1     1      123456   2403
+SPC1     1      123456   2410
+SPC1     1      123456   2583
+SPC1     1      123456   2747
+SPC1     1      123456   3051
+SPC1     1      123456   3052
+SPC1     1      123456   3199
+SPC1     1      123456   3331
+SPC1     1      123456   3455
+SPC1     1      123456   3571
+SPC1     1      123456   3871
+SPC1     1      123456   3872
+SPC1     1      123456   3955
+SPC1     1      123456   4031
+SPC1     1      123456   4099
+SPC1     1      123456   4159
+SPC1     1      123456   4259
+SPC1     1      123456   4260
+SPC1     1      123456   4295
+SPC1     1      123456   4323
+SPC1     1      123456   4343
+SPC1     1      123456   4355
+SPC1     1      123456   4675
+SPC1     1      123456   4700
+SPC1     1      123456   4711
+SPC1     1      123456   4744
+SPC1     1      123456   4754
+SPC1     1      123456   5019
+SPC1     1      123456   6001
+SPC1     1      123456   6002
+SPC1     1      123456   6003
+SPC1     1      123456   6004
+SPC1     1      123456   7000
+SPC1     1      123456   7001
+SPC1     1      123456   7002
+SPC1     1      123456   7003
+SPC1     1      123456   7086
+SPC1     1      123456   7087
+$ Referenced Coordinate Frames
+ENDDATA
