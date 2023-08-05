@@ -1,0 +1,6 @@
+asdf
+compatibility_tests
+dist
+docker
+docs
+pytest_asdf
