@@ -1,0 +1,5 @@
+http_fetch_operator/__init__.py,sha256=C6ciSg4xpBsW2-tDvlIeXLj_Y_DCJ1kp-seihHYvHeQ,51
+http_fetch_operator/http_fetch_operator.py,sha256=wDIpwiWReONhB-w1kRskDBs1rcFOcbTVKVeSSL2bMqQ,6940
+amsterdam_airflow_http_fetch_operator-1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+amsterdam_airflow_http_fetch_operator-1.0.dist-info/METADATA,sha256=Hyb0GUsNPRWz0AguCCRoHC7kBAvQnAWkWe-mo09XVYQ,876
+amsterdam_airflow_http_fetch_operator-1.0.dist-info/RECORD,,
