@@ -1,0 +1,15 @@
+pip
+packaging
+pandas
+matplotlib
+seaborn
+scipy
+psutil
+lightgbm
+neptune-client
+neptune-lightgbm
+psutil
+kaggle
+nbdev<2
+
+[dev]
