@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+prewl/__init__.py
+prewl/model.py
+prewl/prompts.py
+prewl.egg-info/PKG-INFO
+prewl.egg-info/SOURCES.txt
+prewl.egg-info/dependency_links.txt
+prewl.egg-info/not-zip-safe
+prewl.egg-info/requires.txt
+prewl.egg-info/top_level.txt
+prewl/endpoints/__init__.py
+prewl/endpoints/base.py
+prewl/endpoints/gpt3.py
+prewl/endpoints/hf.py
+prewl/endpoints/manual.py
