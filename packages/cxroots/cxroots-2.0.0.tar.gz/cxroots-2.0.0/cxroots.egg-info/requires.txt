@@ -1,0 +1,9 @@
+numpy
+scipy
+numpydoc
+mpmath
+numdifftools>=0.9.39
+rich
+
+[plot]
+matplotlib
