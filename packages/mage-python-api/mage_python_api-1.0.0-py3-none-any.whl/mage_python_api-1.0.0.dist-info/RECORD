@@ -1,0 +1,11 @@
+clone_latest_weekday_observations.py,sha256=7ykNmKYMx1xom3jru4buI8SFRQpzGUg1LIv-5qaHttE,1695
+clone_observations.py,sha256=BXDrggHCW7QSwJ7zThw-SZKZxu-J4yE2xOx6ifJNjV0,1077
+config.py,sha256=U085XOPfCpwd9m3oOC7jQ5Tff174H78EaY5_LKkYKos,170
+export_event_roster.py,sha256=AVOuVP7BxyiymnTYvHQq7rC4nizmu547hduT4kmdcvQ,524
+import_observations_from_file.py,sha256=qhywjBVHgc8BbFUsL_XNVxSwSVFzIgtJTKfjQg1YD5A,650
+mage_api.py,sha256=Cif0FnJLb58lQBUocvhMBhpkejjYanw7O6HD9ybZjxo,24866
+mage_python_api-1.0.0.dist-info/LICENSE,sha256=pAZXnNE2dxxwXFIduGyn1gpvPefJtUYOYZOi3yeGG94,1068
+mage_python_api-1.0.0.dist-info/METADATA,sha256=acl0QsQaOnxA-ZjOGPW93o3kZBczKTnPVoo-BBSeP7Q,11565
+mage_python_api-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mage_python_api-1.0.0.dist-info/top_level.txt,sha256=IHBB9KvnaFan6TmK0DqlXZPcq8j6ph0OCrIVoPB3Lp8,119
+mage_python_api-1.0.0.dist-info/RECORD,,
