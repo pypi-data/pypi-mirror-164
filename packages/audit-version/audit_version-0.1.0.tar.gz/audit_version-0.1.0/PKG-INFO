@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: audit-version
+Version: 0.1.0
+Summary: Audit public interface for Python projects and suggest next semantic version
+Home-page: https://audit-version.readthedocs.io
+Author: Geoffrey Lentner
+Author-email: glentner@purdue.edu
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Version Control
+Requires-Dist: cmdkit (>=2.6.1,<3.0.0)
+Project-URL: Documentation, https://audit-version.readthedocs.io
+Project-URL: Repository, https://github.com/glentner/audit-version-py
+Description-Content-Type: text/x-rst
+
+Audit-Version
+=============
+
+Automatically generate manifest for your Python project's public interface
+and suggest the next semantic version.
+
+
