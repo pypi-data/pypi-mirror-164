@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+combos/__init__.py
+combos/combos.py
+combos.egg-info/PKG-INFO
+combos.egg-info/SOURCES.txt
+combos.egg-info/dependency_links.txt
+combos.egg-info/top_level.txt
