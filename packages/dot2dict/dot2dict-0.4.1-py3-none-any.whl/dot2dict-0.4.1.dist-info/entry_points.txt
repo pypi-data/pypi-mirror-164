@@ -1,0 +1,3 @@
+[console_scripts]
+dot2dict=dot2dict.dot2dict_typer:start
+
