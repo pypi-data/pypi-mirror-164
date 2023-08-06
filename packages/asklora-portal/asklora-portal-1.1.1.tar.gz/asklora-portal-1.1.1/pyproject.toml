@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "asklora-portal"
+version = "1.1.1"
+description = "portal to use various api data service"
+authors = ["redloratech <rede.akbar@loratechai.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "asklora"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.28.1"
+sseclient-py = "^1.7.2"
+python-dotenv = "^0.20.0"
+python-dateutil = "^2.8.2"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.6.0"
+pylint = "^2.14.4"
+flake8 = "^4.0.1"
+pytest = "^7.1.2"
+pytest-mock = "^3.8.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+addopts = "-ra -q -s -o log_cli=true --log-cli-level=DEBUG"
+testpaths = [
+    "asklora/tests",
+]
