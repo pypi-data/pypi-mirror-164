@@ -1,0 +1,4 @@
+[console_scripts]
+mtxp = mtxp.app:entry
+mtxpagent = mtxp_agent.app:entry
+
