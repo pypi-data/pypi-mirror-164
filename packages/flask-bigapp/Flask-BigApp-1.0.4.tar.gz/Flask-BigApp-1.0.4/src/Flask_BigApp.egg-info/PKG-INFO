@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: Flask-BigApp
+Version: 1.0.4
+Summary: A Flask auto importer that allows your Flask apps to grow big.
+Home-page: https://github.com/CheeseCake87/Flask-BigApp
+Author: David Carmichael
+Author-email: carmichaelits@gmail.com
+License: MIT
+Platform: any
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+![](https://raw.githubusercontent.com/CheeseCake87/Flask-BigApp/master/app/structures/bigapp_default/static/img/Flask-BigApp-Logo-wbg1.png)
+# Flask-BigApp
+
+```bash
+pip install flask-bigapp
+```
+## What is Flask-BigApp?
+
+Flask-BigApp's main purpose is to help simplify the importing of blueprints, routes and models.
+
+It has a few extra features built in to help with theming, securing pages and password authentication.
+
+You can import model classes using `bigapp.import_models(file="models.py")`
+
+You can auto import routes from a folder using `bigapp.import_builtins("folder that contains routes")`
+
+You can auto import blueprints using `bigapp.import_blueprints("folder that contains blueprint modules")`
+
+You can register a theme (structure) folder using `bigapp.import_structures("folder that containes themes(structures)")`
+
+
+## GitHub
+
+A full example project can be found on [github](https://github.com/CheeseCake87/Flask-BigApp)
