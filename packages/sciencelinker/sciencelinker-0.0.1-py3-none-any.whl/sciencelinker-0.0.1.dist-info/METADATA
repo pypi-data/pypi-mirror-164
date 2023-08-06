@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: sciencelinker
+Version: 0.0.1
+Summary: Enriching survey data with data from knowledge bases
+Author-email: Felix Bensmann <sciencelinker01@gmail.com>
+License: MIT License
+Project-URL: Homepage, https://www.gesis.org/en/research/external-funding-projects/details/project/116/a-framework-for-finding-linking-and-enriching-social-science-linked-data
+Project-URL: Download, https://git.gesis.org/sciencelinker/sciencelinker-development
+Keywords: linking,interlinking,survey,survey data,knowledge base,KB,enrich,social science,DBpedia,Wikidata,Geonames,NER
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Framework :: Jupyter
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Sociology
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: sparqlwrapper (>=1.8.5)
+
+# Science Linker
+
+Python module to enrich your dataset.
+
