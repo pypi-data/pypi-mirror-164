@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+prozect/__init__.py
+prozect/clubhouse.py
+prozect.egg-info/PKG-INFO
+prozect.egg-info/SOURCES.txt
+prozect.egg-info/dependency_links.txt
+prozect.egg-info/not-zip-safe
+prozect.egg-info/top_level.txt
