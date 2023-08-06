@@ -1,0 +1,7 @@
+dsolve/atoms.py,sha256=g-42E_bQVhFPXujhJFlU8DDF1yy914px2yjR-S8VsxU,4871
+dsolve/expressions.py,sha256=k_lrt9bvTA_90tDObW0QIKYZRB-z3XuHD72TNbD-HQw,6072
+dsolve/solvers.py,sha256=3NvtncL4c61wLpLBDm6PxYL2YE6X720tu_B5dX98Uxk,10408
+dsolve-0.0.2.dist-info/METADATA,sha256=-xqypzCzM50pe7R3JZTCUFcLlAJJrB7cp16QkjB_q7M,310
+dsolve-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+dsolve-0.0.2.dist-info/top_level.txt,sha256=eXO8BFSfwFqP0NLr98QUVBei99yN2MV-_tWcSUn0STo,7
+dsolve-0.0.2.dist-info/RECORD,,
