@@ -1,0 +1,97 @@
+Metadata-Version: 2.1
+Name: galaxy-app
+Version: 22.1.1
+Summary: Galaxy Application (backend)
+Home-page: https://github.com/galaxyproject/galaxy
+Author: Galaxy Project and Community
+Author-email: galaxy-committers@lists.galaxyproject.org
+License: AFL
+Keywords: galaxy
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: Academic Free License (AFL)
+Classifier: Operating System :: POSIX
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Topic :: Software Development :: Testing
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: galaxy-auth
+Requires-Dist: galaxy-config
+Requires-Dist: galaxy-data
+Requires-Dist: galaxy-job-execution
+Requires-Dist: galaxy-job-metrics
+Requires-Dist: galaxy-objectstore
+Requires-Dist: galaxy-tool-util[cwl,edam]
+Requires-Dist: galaxy-web-framework
+Requires-Dist: galaxy-web-stack
+Requires-Dist: Beaker
+Requires-Dist: celery
+Requires-Dist: cloudauthz (==0.6.0)
+Requires-Dist: Fabric3
+Requires-Dist: gxformat2
+Requires-Dist: kombu
+Requires-Dist: lagom
+Requires-Dist: Mako
+Requires-Dist: Markdown
+Requires-Dist: paramiko (!=2.9.0,!=2.9.1)
+Requires-Dist: pulsar-galaxy-lib (>=0.14.13)
+Requires-Dist: pydantic
+Requires-Dist: PyJWT
+Requires-Dist: pykwalify
+Requires-Dist: refgenconf (>=0.12.0)
+Requires-Dist: sqlitedict
+Requires-Dist: svgwrite
+Requires-Dist: typing-extensions
+Requires-Dist: Whoosh
+
+
+.. image:: https://badge.fury.io/py/galaxy-app.svg
+   :target: https://pypi.org/project/galaxy-app/
+
+
+Overview
+--------
+
+The Galaxy_ application logic (backend).
+
+* Free software: Academic Free License version 3.0
+* Code: https://github.com/galaxyproject/galaxy
+
+.. _Galaxy: http://galaxyproject.org/
+
+
+
+
+History
+-------
+
+.. to_doc
+
+---------------------
+20.9.1.dev0
+---------------------
+
+
+
+---------------------
+20.9.0 (2020-10-15)
+---------------------
+
+* First release from the 20.09 branch of Galaxy.
+
+---------------------
+20.5.0 (2020-07-04)
+---------------------
+
+* First release from the 20.05 branch of Galaxy.
+
+
