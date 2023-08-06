@@ -1,0 +1,2 @@
+[console_scripts]
+luasprites = spritegen.cli:main
