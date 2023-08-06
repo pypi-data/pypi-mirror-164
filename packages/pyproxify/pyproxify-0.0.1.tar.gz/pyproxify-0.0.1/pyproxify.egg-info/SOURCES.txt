@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+pyproxify/__init__.py
+pyproxify/proxify.py
+pyproxify.egg-info/PKG-INFO
+pyproxify.egg-info/SOURCES.txt
+pyproxify.egg-info/dependency_links.txt
+pyproxify.egg-info/requires.txt
+pyproxify.egg-info/top_level.txt
