@@ -1,0 +1,9 @@
+include *.md
+
+include ./src/requirements/requirements.txt
+include ./src/m_shape/utilities/*.dat
+exclude src/*.log
+exclude src/*.cfg
+
+recursive-exclude ./src/* __pycache__
+recursive-exclude ./src/* *.py[co]
