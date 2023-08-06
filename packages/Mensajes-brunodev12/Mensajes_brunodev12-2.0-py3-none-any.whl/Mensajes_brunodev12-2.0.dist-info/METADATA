@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: Mensajes-brunodev12
+Version: 2.0
+Summary: Paquete para saludar y despedir
+Home-page: https://www.bruno.dev
+Author: Mike Tower
+Author-email: hola@mike.dev
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy (>=1.23.0)
+
+# Mensajes
+
+El paquete de mensajerÃ­a para pruebas de Bruno Dev 12
