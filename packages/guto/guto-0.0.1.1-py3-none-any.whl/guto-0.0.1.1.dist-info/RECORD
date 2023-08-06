@@ -1,0 +1,10 @@
+guto/__init__.py,sha256=n8T4Bl9_Y1JD7kk7mj63HuN-JCS6s7Ljbx_SAEy_uXg,946
+guto/const.py,sha256=PMLTCdj2JZkXa0E4RjQf4Mq9iDlbpcrUXjF6Ayxj9pM,779
+guto/frame.py,sha256=1UGxyKmImIJOmpy2tBBuueulmZNAIW5e2Sb0pkXxbYI,91
+guto/gui.py,sha256=3VSCvH6zpFa4zJ_3Nfm6ueDjm8CBO_YaxIyl-YIQMQw,371
+guto/position.py,sha256=Xl2kwIMBAPu8hsxJr_lKIVaFGl06s_ZenX8w77k4yzI,723
+guto-0.0.1.1.dist-info/LICENSE,sha256=DqNUxiuWGOrEtZqKkvvZwQ60sR8PE4EJhw2xXalOCy8,638
+guto-0.0.1.1.dist-info/METADATA,sha256=MVn3AahkHuyvL1Jo-rldUm0MBPHKJrztw15b6WEuDCY,398
+guto-0.0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+guto-0.0.1.1.dist-info/top_level.txt,sha256=LDKhktma8PzYyM2FJNjTjltluN2NU5hs2maBmpKjHtY,5
+guto-0.0.1.1.dist-info/RECORD,,
