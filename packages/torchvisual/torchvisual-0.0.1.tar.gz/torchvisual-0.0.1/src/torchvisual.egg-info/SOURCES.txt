@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/torchvisual.egg-info/PKG-INFO
+src/torchvisual.egg-info/SOURCES.txt
+src/torchvisual.egg-info/dependency_links.txt
+src/torchvisual.egg-info/top_level.txt
