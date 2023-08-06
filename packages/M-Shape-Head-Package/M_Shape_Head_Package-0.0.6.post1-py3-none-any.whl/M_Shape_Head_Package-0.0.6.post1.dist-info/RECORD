@@ -1,0 +1,17 @@
+__init__.py,sha256=xmXdQEMZly9FT9oON9wGkj4lJVbHt6e-fih4CHiVhec,129
+m_shape/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+m_shape/detectFacialFeatures.py,sha256=LKd21MWStvUP_RjykpsEOHdzWjOJIAlUlG7DRqPoaPk,4649
+m_shape/predict.py,sha256=3gQmEoOhqI7jGM-wPfqRyTxuY-qB6jVEY2pp99LB6ZE,1491
+requirements/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+requirements/requirements.txt,sha256=834truIDpnT-6DO2eqJdz3HAaGm7LrgfEc-oqpKpFtQ,61
+sample_images/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utilities/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utilities/algorithm_utils.py,sha256=SYxKLYNO-l_fZkWzX_sIMo6gME7hg5nsnoJZPlzA4aU,2646
+utilities/drawAndCalculate.py,sha256=LCxGurazI7vfVo4cymhZs8aD8xCVVniq4OOPmXiN4lE,886
+utilities/preprocess.py,sha256=tZaOJIT-wEYyXQ00VHLZ99_U0ivrZ_J_k_Z2QFn68V4,437
+utilities/print_utils.py,sha256=uWMJe7puBBLlpXP6U5qPGx2zokilWS3gYxZM6ks9whY,3659
+M_Shape_Head_Package-0.0.6.post1.dist-info/LICENSE,sha256=QGam9UqqTK9_nywewepOCFm4wIwSNrKNb0LaikROAc4,1092
+M_Shape_Head_Package-0.0.6.post1.dist-info/METADATA,sha256=8fVZYn2Qww8O07Dprmzxd7zeDxGVc9yjhDEsmGWCwoI,915
+M_Shape_Head_Package-0.0.6.post1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+M_Shape_Head_Package-0.0.6.post1.dist-info/top_level.txt,sha256=Ni3HYn7gZIYYdFIAvFus7srUD4u9NCf9BYDdU07zx7Y,54
+M_Shape_Head_Package-0.0.6.post1.dist-info/RECORD,,
