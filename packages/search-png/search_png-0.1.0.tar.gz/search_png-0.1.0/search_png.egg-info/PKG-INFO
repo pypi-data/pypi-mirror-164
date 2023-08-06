@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: search-png
+Version: 0.1.0
+Summary: Library for finding png images within another png image file
+Home-page: UNKNOWN
+Author: Scott Blackburn
+Author-email: <sblack777@hotmail.com>
+License: UNKNOWN
+Keywords: python,image,search,png,image processing,test automation,image search
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
