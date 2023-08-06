@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+tidal_unofficial/__init__.py
+tidal_unofficial/tidal.py
+tidal_unofficial.egg-info/PKG-INFO
+tidal_unofficial.egg-info/SOURCES.txt
+tidal_unofficial.egg-info/dependency_links.txt
+tidal_unofficial.egg-info/requires.txt
+tidal_unofficial.egg-info/top_level.txt

@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: tidal_unofficial
+Version: 0.1.0
+Summary: An unofficial library to use Tidal's API where the authorization is not required
+Author: Lorenzo Bocchi
+Author-email: lorenzobocchi99@yahoo.com
+License: MIT
+Project-URL: Homepage, https://github.com/bocchilorenzo/tidal_unofficial
+Project-URL: Source, https://github.com/bocchilorenzo/tidal_unofficial
+Project-URL: Documentation, https://tidal-unofficial.readthedocs.io/
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Unofficial Tidal API
+This library gives access to several endpoints of the Tidal's api where the authorization is not required.
+
+[![PyPI](https://img.shields.io/pypi/v/tidal-unofficial.svg)](https://pypi.org/project/tidal-unofficial/)
+[![Python support](https://img.shields.io/pypi/pyversions/tidal-unofficial.svg)](https://pypi.org/project/tidal-unofficial/)
+
+-------
+
+## Installation
+
+```
+pip install tidal_unofficial
+```
+
+## Basic usage
+
+```python
+from tidal_unofficial import TidalUnofficial
+
+tidal = TidalUnofficial({'user_agent': 'my_user_agent'})
+
+print(tidal.get_artist('37277'))
+```
+
+## Documentation
+
+The full documentation can be found at https://tidal-unofficial.readthedocs.io/.
+
+## Disclaimer
+
+This library is a python port of https://github.com/DaStormer/tidal-api and is not meant to bypass any Tidal restriction. It is meant for private use only, you should not use this library to act against Tidal's terms and conditions.
