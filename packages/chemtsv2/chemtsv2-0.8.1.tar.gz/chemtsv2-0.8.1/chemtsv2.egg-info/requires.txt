@@ -1,0 +1,5 @@
+tensorflow==2.5
+rdkit-pypi==2021.03.5
+pyyaml
+pandas
+joblib

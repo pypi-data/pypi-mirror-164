@@ -1,0 +1,2 @@
+[console_scripts]
+chemtsv2 = chemtsv2.run:main
