@@ -1,0 +1,14 @@
+tensorgenerator/__init__.py,sha256=vnJru7GxIris9b6OUlIrKj0EX8EJVynqoTqm54rGkdo,228
+tensorgenerator/shell/__init__.py,sha256=zWdnkO3LCA0bNlIuFceOQ-0FieHuWoKeBM9u453XfVw,69
+tensorgenerator/shell/usage.py,sha256=u0p0unQXVe_BnZ7lwjJSca4ITaX6CSY9XIdtTSAXjxc,206
+tensorgenerator/tensorsummary/__init__.py,sha256=i5_5PE1KRhroxT0e7RrLBfa-5_Wkz-_TjDpchh_LH8Q,86
+tensorgenerator/tensorsummary/tensorsummary.py,sha256=3ONS_IjyNDGBoizoVHZaFXID-_9ixDW6ZCHh10lvytA,34
+tensorgenerator/torchsummary/__init__.py,sha256=xzzqeqghK0y4ySbe8vlTR5X9_sQWzSy3M_SDlfqlXJQ,85
+tensorgenerator/torchsummary/torchsumary.py,sha256=3ONS_IjyNDGBoizoVHZaFXID-_9ixDW6ZCHh10lvytA,34
+tensorgenerator-0.2.0.dist-info/LICENSE,sha256=oCyqud_5D5pT_ywGmmEPm1uQc2vRnT-XD99JKd7wGbk,1064
+tensorgenerator-0.2.0.dist-info/METADATA,sha256=GadvJ4tWhIynOlJShz3UvQPkqymmK3-fJNWB0YCreFE,619
+tensorgenerator-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tensorgenerator-0.2.0.dist-info/entry_points.txt,sha256=j8cEV-ceta8fwgKZh-jZDuSX1PvvqvT5HeyPa2RcNfY,62
+tensorgenerator-0.2.0.dist-info/top_level.txt,sha256=jtHcNuFu8JOrPJ2BKDIystBXxLZ7MS7GF9OMMyfMeFI,16
+tensorgenerator-0.2.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+tensorgenerator-0.2.0.dist-info/RECORD,,
