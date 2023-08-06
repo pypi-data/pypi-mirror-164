@@ -1,0 +1,6 @@
+setuptools
+pandas
+lxml
+requests
+PyPDF2
+bs4
