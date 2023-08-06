@@ -1,0 +1,7 @@
+numpy
+astropy
+astroquery
+matplotlib
+george
+extinction
+emcee
