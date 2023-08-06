@@ -1,0 +1,12 @@
+dos_like/__init__.py,sha256=UM7bpWE7Rv1ptePeFzfvNs3OE3b88QpVInoeiJN38F0,171
+dos_like/_dos.abi3.so,sha256=XwJp64wT_Doevc20uoK2iuyZy7YRUs593JP8fb7QiUY,1709800
+dos_like/build.py,sha256=FIDMmY9JhT68QFXLjUQsq_EzGYa5FVKl7Cw0FtO9im8,9737
+dos_like/cp437.py,sha256=X5T3jERwE8wOZDvtkhMNtJM2CN9zujRfF63Ra9IpBv4,912
+dos_like/dos.py,sha256=aNd915VMtkyubkUY6EUPHtGB7UUFmfpiJUrZIyZ4LM4,57815
+dos_like/int_with_flags.py,sha256=SpZUq3VyvYgXmPZufGfb3pi8yk9PuNIkWbVZSWex4sM,1352
+dos_like/runner.py,sha256=R1KZYMBw2i-tm3hho70l-MRT8v-RCH9FDugbGtP1bJM,3381
+python_dos_like-0.0.4.dist-info/LICENSE,sha256=R0vc9O2eztvqhOybSJ1-RRpe2Ym4J9J5YXr3XtdoVb4,9031
+python_dos_like-0.0.4.dist-info/METADATA,sha256=zFbhk_hVVm2ddMmCZhBxwpL4cuPQTBIBk0GUAjIohHc,6262
+python_dos_like-0.0.4.dist-info/WHEEL,sha256=Mp26lirrtUNzLUWsPKBAjl3RVvrCg7YEjI0nue_kNcE,112
+python_dos_like-0.0.4.dist-info/top_level.txt,sha256=oGztikD9sBUZpG0o6cxC3gsTM4y7qWhjCrW_8Krk9ys,9
+python_dos_like-0.0.4.dist-info/RECORD,,
