@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+semilearn/__init__.py
+semilearn/utils.py
+semilearn.egg-info/PKG-INFO
+semilearn.egg-info/SOURCES.txt
+semilearn.egg-info/dependency_links.txt
+semilearn.egg-info/requires.txt
+semilearn.egg-info/top_level.txt
