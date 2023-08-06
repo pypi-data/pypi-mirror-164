@@ -1,0 +1,8 @@
+setup.py
+calculate_bmi/__int__.py
+calculate_bmi/calculate_bmi.py
+calculate_bmi.egg-info/PKG-INFO
+calculate_bmi.egg-info/SOURCES.txt
+calculate_bmi.egg-info/dependency_links.txt
+calculate_bmi.egg-info/not-zip-safe
+calculate_bmi.egg-info/top_level.txt
