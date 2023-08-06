@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: poc.parser
+Version: 1.0.1
+Summary: poc framework
+Author: 
+Author-email: 
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
