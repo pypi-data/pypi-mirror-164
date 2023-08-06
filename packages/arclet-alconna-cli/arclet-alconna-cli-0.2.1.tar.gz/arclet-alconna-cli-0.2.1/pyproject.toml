@@ -1,0 +1,49 @@
+[project]
+name = "arclet-alconna-cli"
+version = "0.2.1"
+description = "Simple Cli Tool For Alconna"
+authors = [
+    { name = "RF-Tar-Railt", email = "rf_tar_railt@qq.com" },
+]
+dependencies = [
+    "cli-lite~=0.2.0",
+    "nepattern~=0.1.2",
+]
+requires-python = ">=3.8"
+readme = "README.md"
+keywords = [
+    "alconna",
+    "cli",
+    "arclet",
+    "commandline",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+]
+
+[project.license]
+text = "MIT"
+
+[project.urls]
+Homepage = "https://github.com/ArcletProject/Alconna-CLI"
+Documentation = "https://arcletproject.github.io/docs/alconna/tutorial"
+"Bug Reports" = "https://github.com/ArcletProject/Alconna/issues"
+Source = "https://github.com/ArcletProject/Alconna"
+
+[project.scripts]
+alconna = "arclet.alconna_cli.__init__:alc_cli.main"
+
+[build-system]
+requires = [
+    "pdm-pep517>=1.0.0",
+]
+build-backend = "pdm.pep517.api"
+
+[tool.pdm.build]
+includes = [
+    "arclet",
+]
