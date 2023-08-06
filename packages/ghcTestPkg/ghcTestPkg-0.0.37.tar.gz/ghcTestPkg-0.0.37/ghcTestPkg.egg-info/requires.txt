@@ -1,0 +1,4 @@
+pip==19.0.3
+wheel==0.33.1
+jsonrpcserver>=5.0.0
+xlrd>=2.0.1
