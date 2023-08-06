@@ -1,0 +1,10 @@
+metafitch/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+metafitch/_version.py,sha256=5merWDUw0G-u-o9WyjorBVaqkoLl3OthjRycjK5VzO0,176
+metafitch/cli.py,sha256=sA5CAGQMPqIGKBnkgHImk-ESm5pEPOlGZJgICNLzVBA,57
+metafitch/get_num_descendants.py,sha256=dgD5PeBqHgr9WXwUFl2KIJXNTB8qYlsvghFoQEZOf30,1270
+metafitch/metafitch.py,sha256=e_BLy1oRBferQN8h1Cb7cDxqqT1dgWkx8ICmpgKCVk0,5533
+metafitch-0.0.3.dist-info/METADATA,sha256=tNVQI-cfEb7k2C2wHTN3kIKaxZyEWBIQFoyOn4uf3bY,801
+metafitch-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+metafitch-0.0.3.dist-info/entry_points.txt,sha256=tSAjtBA5e6qN3XxnHLHnMVff_94Dp9yZcqkQ7rSJXaw,61
+metafitch-0.0.3.dist-info/top_level.txt,sha256=C5kY5asfAlFE9jFmrBSezfnsVEVPBXDrd8Io29NSf-w,10
+metafitch-0.0.3.dist-info/RECORD,,
