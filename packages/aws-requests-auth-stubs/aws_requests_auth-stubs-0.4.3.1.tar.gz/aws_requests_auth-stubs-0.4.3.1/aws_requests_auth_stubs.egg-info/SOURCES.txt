@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+aws_requests_auth-stubs/__init__.pyi
+aws_requests_auth-stubs/aws_auth.pyi
+aws_requests_auth-stubs/boto_utils.pyi
+aws_requests_auth_stubs.egg-info/PKG-INFO
+aws_requests_auth_stubs.egg-info/SOURCES.txt
+aws_requests_auth_stubs.egg-info/dependency_links.txt
+aws_requests_auth_stubs.egg-info/requires.txt
+aws_requests_auth_stubs.egg-info/top_level.txt
