@@ -1,0 +1,227 @@
+% Imports
+\RequirePackage{mathtools} % equation tags
+\RequirePackage{xcolor} % custom colors
+\RequirePackage{hyperref} % url links
+\RequirePackage{suffix} % allows definition of starred commmands
+\RequirePackage{fontawesome5} % FontAwesome symbols
+\RequirePackage{letltxmacro} % command redefinitions
+\RequirePackage{xstring} % string manipulation
+\RequirePackage{catchfile} % read file into macro
+\RequirePackage{totcount} % count total number of errors
+\RequirePackage[notref, notcite]{showkeys} % get label refs
+\RequirePackage{xspace} % better spacing after icons
+\RequirePackage{graphicx} % includegraphics
+\RequirePackage{stackengine} % stacking figure links
+
+% Is this running on GitHub Actions?
+\newif\ifOnGithubActions
+
+% Key-value pairs used to assemble the hyperlinks for figures
+% See https://tex.stackexchange.com/a/48931
+\def\addvalue#1#2{\expandafter\gdef\csname syw@data@\detokenize{#1}\endcsname{#2}}
+\def\usevalue#1{%
+  \ifcsname syw@data@#1\endcsname%
+    \csname syw@data@#1\expandafter\endcsname%
+  \else%
+    KEYNOTFOUND%
+  \fi%
+}
+
+% Import metadata
+\IfFileExists{./showyourwork-metadata.tex}{
+  \input{showyourwork-metadata.tex}
+}{
+  \OnGithubActionsfalse
+  \def\syw@url{https://github.com/showyourwork/showyourwork-example}
+  \def\syw@sha{dev}
+  \def\syw@runid{0}
+}
+
+% Log figure script commands (a no-op in the build step)
+\newcommand\script[1]{}
+
+% Showyourwork logo
+\newcommand{\showyourwork}{%
+  \smash{\raisebox{-1.6ex}{\includegraphics[width=7.3em]{showyourwork-logo.pdf}}}\xspace%
+}
+
+% Generic: replace \LaTeX with \Latex + showyourwork in \maketitle
+\let\oldmaketitle\maketitle
+\def\maketitle{%
+  \let\oldLaTeX\LaTeX
+  \let\oldtoday\today
+  \def\LaTeX{\oldLaTeX/\href{https://github.com/showyourwork/showyourwork}{\showyourwork}}
+  \ifcsname gitHeader\endcsname
+    \renewcommand{\today}{\oldtoday.~\gitHeader}
+  \fi
+  \oldmaketitle
+  \let\LaTeX\oldLaTeX
+  \let\today\oldtoday
+}
+
+% MNRAS hack for displaying showyourwork logo
+\@ifclassloaded{mnras}{
+  \ifx\CUP@mtlplain@loaded\undefined
+    \def\@printed{Preprint \tod@y\
+      \qquad\qquad\qquad Compiled using \showyourwork/MNRAS \LaTeX\ style file v\@version
+      \ifcsname gitHeader\endcsname
+        \,(\gitHeader)
+      \fi
+    }
+  \else
+    \def\@printed{}
+  \fi
+}{}
+
+% A&A hack for displaying showyourwork logo + abstract links
+\@ifclassloaded{aa}{
+  \renewcommand*\aa@manuscriptname{%
+    \LaTeX
+    \hspace{\stretch{1}}%
+    \smash{\stackunder[0.5em]{\copyright ESO \the\year}{%
+        \href{\syw@url/tree/\syw@sha/}{%
+          \color{sywBlue}%
+          \faGithub%
+        }%
+        \ifOnGithubActions
+          \hspace{3pt}%
+          \href{\syw@url/actions/runs/\syw@runid/}{%
+            \color{sywGreen}%
+            \faCheckCircle%
+          }%
+        \fi
+      }
+    }
+  }
+}{}
+
+% Annual Reviews hack for displaying showyourwork logo
+\@ifclassloaded{ar-1col}{
+  \let\oldjournalinfo\journalinfo
+  \def\journalinfo{%
+    \oldjournalinfo%
+    \vskip6\p@{\jinfofont%
+      Compiled using\begin{minipage}{7.3em}\includegraphics[width=7.3em]{showyourwork-logo.pdf}\end{minipage}\endgraf%
+      \ifcsname gitHeader\endcsname
+        \,(\gitHeader)\endgraf
+      \fi
+    }%
+  }
+}{}
+
+% Custom margin icon
+\newcommand\marginicon[1]{
+  \renewcommand\showkeyslabelformat[1]{#1}%
+}
+
+% Define custom colors
+\definecolor{sywRed}{rgb}{0.80,0.14,0.19}
+\definecolor{sywOrange}{rgb}{1.0,0.65,0.0}
+\definecolor{sywYellow}{rgb}{1.0,0.88,0.30}
+\definecolor{sywBlue}{rgb}{0.12,0.47,0.71}
+\definecolor{sywGreen}{rgb}{0.13,0.53,0.23}
+
+% User-facing commands
+\newcommand\GitHubURL{\syw@url}
+\newcommand\GitHubSHA{\syw@sha}
+\newcommand\GitHubIcon{\faGithub\xspace}
+
+% Add a GitHub link to the end of the abstract
+\let\oldabstract\abstract
+\let\oldendabstract\endabstract
+\renewenvironment{abstract}{%
+  \oldabstract%
+}{%
+  % AASTex631 hack to reduce margin separation
+  % in the abstract of a two-column document
+  %\ifcsname if@two@col\endcsname%
+  %\if@two@col\setlength{\marginparsep}{-45pt}\fi%
+  %\fi%
+  \marginpar{%
+    \href{\syw@url/tree/\syw@sha/}{%
+      \color{sywBlue}%
+      \faGithub%
+    }%
+    \ifOnGithubActions
+      \hspace{3pt}%
+      \href{\syw@url/actions/runs/\syw@runid/}{%
+        \color{sywGreen}%
+        \faCheckCircle%
+      }%
+    \fi
+  }
+  \oldendabstract%
+}
+
+% Figure script icon
+\newcommand\syw@Script[1]{%
+  \raisebox{0pt}[6pt][0pt]{%
+    \href{\syw@url/blob/\syw@sha/\usevalue{#1}}{%
+      \color{sywBlue}\faGithub%
+    }%
+  }%
+}
+
+% Figure dataset icon
+\newcommand\syw@DatasetOne[1]{%
+  \raisebox{0pt}[6pt][6pt]{%
+    \href{\usevalue{#1}}{%
+      \color{sywBlue}\faDatabase%
+    }%
+  }%
+}
+
+% Figure dataset icon
+\newcommand\syw@DatasetTwo[1]{%
+  \raisebox{0pt}[6pt][6pt]{%
+    \href{\usevalue{#1}}{%
+      \color{sywBlue}\faDatabase%
+    }%
+  }%
+}
+
+% Figure dataset icon
+\newcommand\syw@DatasetThree[1]{%
+  \raisebox{0pt}[6pt][6pt]{%
+    \href{\usevalue{#1}}{%
+      \color{sywBlue}\faDatabase%
+    }%
+  }%
+}
+
+% Figure cache icon
+\newcommand\syw@Cache[1]{%
+  \raisebox{0pt}[6pt][6pt]{%
+    \IfSubStr*{\usevalue{#1}}{sandbox}{%
+      \href{\usevalue{#1}}{%
+        \color{sywRed}\faRecycle%
+      }%
+    }{%
+      \href{\usevalue{#1}}{%
+        \color{sywBlue}\faRecycle%
+      }%
+    }%
+  }%
+}
+
+% Hack `showkeys' to show margin links for figures
+% See https://tex.stackexchange.com/a/580553
+\renewcommand\showkeyslabelformat[1]{%
+  \normalfont%
+  \setstackgap{S}{0pt}
+  \Shortstack[c]{
+    \IfEq*{\usevalue{#1_cache}}{KEYNOTFOUND}{}{\syw@Cache{#1_cache}}
+    \IfEq*{\usevalue{#1_datasetThree}}{KEYNOTFOUND}{}{\syw@DatasetThree{#1_datasetThree}}
+    \IfEq*{\usevalue{#1_datasetTwo}}{KEYNOTFOUND}{}{\syw@DatasetTwo{#1_datasetTwo}}
+    \IfEq*{\usevalue{#1_datasetOne}}{KEYNOTFOUND}{}{\syw@DatasetOne{#1_datasetOne}}
+    \IfEq*{\usevalue{#1_script}}{KEYNOTFOUND}{}{\syw@Script{#1_script}}
+  }
+}
+
+% Set the graphics path for all figures
+\graphicspath{{./}{./figures/}}
+
+% Alias of \input for syw-controlled files
+\newcommand\variable[1]{%
+  \input{#1}\unskip%
+}
