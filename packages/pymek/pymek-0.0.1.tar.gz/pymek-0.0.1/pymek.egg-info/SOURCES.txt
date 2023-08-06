@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+pymek.egg-info/PKG-INFO
+pymek.egg-info/SOURCES.txt
+pymek.egg-info/dependency_links.txt
+pymek.egg-info/top_level.txt
