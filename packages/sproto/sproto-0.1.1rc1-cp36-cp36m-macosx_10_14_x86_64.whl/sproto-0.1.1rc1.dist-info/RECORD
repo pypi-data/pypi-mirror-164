@@ -1,0 +1,12 @@
+pysproto/__init__.py,sha256=aEB3tB2I-rq_GZBAoJTXm_VU1-ay7Q5puEiqz4q3WTg,169
+pysproto/_sproto.c,sha256=V2m1Ahu6-wqTocVsAgaFv0uchUjydzl1dDwHEl1MG7Q,1068060
+pysproto/_sproto.cpython-36m-darwin.so,sha256=g3h3d27Y15XmAt1wkCp5lLEuVp-Ab210RVrGWV_0o84,218616
+pysproto/_sproto.pyx,sha256=zvpglGv3dnlx_RRaeMBNDiAY2vPHGefKeqtbLhIf8uk,17888
+pysproto/sproto.pxd,sha256=5lQwzlK_0A1pJLDr4M7o-eVgcSlaaeMSJqG82fCZl0g,2192
+pysproto/sprotodump.py,sha256=WOEKby_rbJZ8nDZqkHR0hSCK1HCR05VYZgQBQs0eIVY,7608
+pysproto/sprotoparser.py,sha256=esuMXY4FUeO0QxBLlZkAATPhtIfMIx1TeL0vEvUeOqY,7190
+sproto-0.1.1rc1.dist-info/LICENSE,sha256=BnBzLitj6MDWwYCG6-itWxvu3JVhY0D2wtpNcXOrpRs,1498
+sproto-0.1.1rc1.dist-info/METADATA,sha256=IRcKspfcAx4z_jH_OTELVGdnva-HlXwCmzJrO49sC6g,2954
+sproto-0.1.1rc1.dist-info/WHEEL,sha256=L2ysQRpzaZ_dwmB2jbkklv0iP3gp4u98o7Dm87lh-Xk,111
+sproto-0.1.1rc1.dist-info/top_level.txt,sha256=_GEEjVYVzI4RZ19OnPRDf9ClXJg0v9Mfm2glT8R_Fn4,9
+sproto-0.1.1rc1.dist-info/RECORD,,
