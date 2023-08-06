@@ -1,0 +1,89 @@
+Metadata-Version: 2.1
+Name: simaple
+Version: 0.0.0
+Summary: Maplestory calculation / Simulation library
+Home-page: https://github.com/oleneyl/simaple
+License: MIT
+Author: meson324
+Author-email: meson324@gmail.com
+Requires-Python: >=3.9,<3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Requires-Dist: aiohttp (>=3.8.1,<4.0.0)
+Requires-Dist: beautifulsoup4 (>=4.11.1,<5.0.0)
+Requires-Dist: loguru (>=0.5.3,<0.6.0)
+Requires-Dist: numpy (>=1.22.3,<2.0.0)
+Requires-Dist: poethepoet (>=0.10.0,<0.11.0)
+Requires-Dist: pydantic[dotenv] (>=1.8.2,<2.0.0)
+Requires-Dist: requests (>=2.26.0,<3.0.0)
+Requires-Dist: scikit-learn (>=1.0.2,<2.0.0)
+Requires-Dist: scipy (>=1.7.2,<2.0.0)
+Requires-Dist: types-PyYAML (>=6.0.4,<7.0.0)
+Project-URL: Repository, https://github.com/oleneyl/simaple
+Description-Content-Type: text/markdown
+
+# Simultion library for Maplestory
+
+- 메이플스토리에 관련된 다양한 연산을 지원하는 패키지.
+- Package for various calculation related with Maplestory.
+
+## Install
+- `pip install simaple`
+
+## Functions
+
+### 아이템 관련
+
+- 강화 수치 계산, 강화 수치 역연산
+- gear improvement calculation / derivation
+
+### 스텟 관련
+
+- 스텟 공격력 계산, 환산 주스텟 계산
+
+### 홈페이지 연동
+
+- 홈페이지 데이터 불러오기 기능
+
+
+## Examples
+
+### Hompage data fetch
+
+- Fetch
+```python
+from simaple.fetch.application.base import KMSFetchApplication
+from simaple.gear.slot_name import SlotName
+
+app = KMSFetchApplication()
+
+character_response = app.run("Character-Name")
+```
+
+- Load Item information
+```python
+from simaple.fetch.application.base import KMSFetchApplication
+from simaple.gear.slot_name import SlotName
+
+app = KMSFetchApplication()
+
+character_response = app.run("Character-Name")
+cap = character_response.get_item(SlotName.cap)
+
+print(cap.show())
+```
+
+- Load raw-data for custom application
+
+```python
+from simaple.fetch.application.base import KMSFetchApplication
+
+character_response = app.run("Character-Name")
+raw_data = character_response.get_raw()
+
+print(raw_data)
+```
+
