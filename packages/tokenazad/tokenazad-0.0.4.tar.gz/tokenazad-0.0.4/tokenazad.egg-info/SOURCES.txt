@@ -1,0 +1,9 @@
+README.md
+setup.py
+tokenazad/__init__.py
+tokenazad/tokenmagic.py
+tokenazad.egg-info/PKG-INFO
+tokenazad.egg-info/SOURCES.txt
+tokenazad.egg-info/dependency_links.txt
+tokenazad.egg-info/requires.txt
+tokenazad.egg-info/top_level.txt
