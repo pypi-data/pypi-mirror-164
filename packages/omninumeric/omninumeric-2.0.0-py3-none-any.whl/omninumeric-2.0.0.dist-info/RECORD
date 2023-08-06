@@ -1,0 +1,13 @@
+omninumeric/__init__.py,sha256=v6oMZ_XiXZem_Vt-VRgh_3I4KJy-yCkTG4nCdNvNx9o,88
+omninumeric/omninumeric.py,sha256=xDbUDbsNbBOaACt6cknWc3hz9ZyQuKlljg7JmtBgV7E,4245
+omninumeric/cyrillic/__init__.py,sha256=p0nnMP-tGnAEga3CHWPEAcjZsl7dRXjSSbkK_F26_ew,204
+omninumeric/cyrillic/cyrillic.py,sha256=SrMq566rJXNrB51bJRFpFdgd9cfKoHnpxlb3JIO1iV8,6332
+omninumeric/greek/__init__.py,sha256=p_AjAt52GgXD2LkICRKZje93zBnB76BfjixVy1G_z0w,100
+omninumeric/greek/greek.py,sha256=u64vaP0kiKRI08lb-3zIfM0zZ-JRoGuUPZPliOV7x0k,5038
+omninumeric/greek/old.py,sha256=Axv6epwcKhPiMjHb3MKK4LDaIXlur9AieP0w-VBh-3c,1743
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_cyrillic.py,sha256=Yq-uiiigaJ-BFHBGC8orM-3VtkXCEoNldF-0GCPILb4,5168
+omninumeric-2.0.0.dist-info/METADATA,sha256=3EWuSDt8rvRnJ6HT799xxXS6tUxCl0htB3v1wiFrAX8,3179
+omninumeric-2.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+omninumeric-2.0.0.dist-info/top_level.txt,sha256=F4k_KLoRl2OSXYCPYzeoeUcNxEYfNm2WKWUbkXw5AMw,18
+omninumeric-2.0.0.dist-info/RECORD,,
