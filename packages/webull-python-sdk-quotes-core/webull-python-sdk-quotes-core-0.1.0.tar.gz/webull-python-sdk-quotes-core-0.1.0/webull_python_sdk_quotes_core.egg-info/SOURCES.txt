@@ -1,0 +1,17 @@
+ChangeLog.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+webull_python_sdk_quotes_core.egg-info/PKG-INFO
+webull_python_sdk_quotes_core.egg-info/SOURCES.txt
+webull_python_sdk_quotes_core.egg-info/dependency_links.txt
+webull_python_sdk_quotes_core.egg-info/requires.txt
+webull_python_sdk_quotes_core.egg-info/top_level.txt
+webullsdkquotescore/__init__.py
+webullsdkquotescore/default_retry_policy.py
+webullsdkquotescore/exceptions.py
+webullsdkquotescore/quotes_client.py
+webullsdkquotescore/quotes_decoder.py
+webullsdkquotescore/quotes_payload_decoder.py
+webullsdkquotescore/quotes_topic.py

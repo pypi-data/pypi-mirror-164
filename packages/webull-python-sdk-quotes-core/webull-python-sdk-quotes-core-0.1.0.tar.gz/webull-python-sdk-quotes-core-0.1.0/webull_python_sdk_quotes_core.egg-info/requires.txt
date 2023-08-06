@@ -1,0 +1,3 @@
+paho-mqtt==1.6.1
+protobuf==3.19.3
+webull-python-sdk-core==0.1.0
