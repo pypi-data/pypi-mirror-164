@@ -1,0 +1,11 @@
+cattbl/__init__.py,sha256=1uNa_qlTb5UTORHW-mIVYTapwbEDIIGDHzY1eOUiFZQ,88
+cattbl/base_classes.py,sha256=KaK1jZMzgvkI7SZ2DUBkIzjkjK4N2Fzsr17cuLgvd1c,1470
+cattbl/eventlossbeta.py,sha256=ed_cw_0ex6Tb6uOQzP7XgtdvdysfALWUUQ3Ta6lN8MM,3717
+cattbl/yeareventallocloss.py,sha256=9ExqK-BBnVOUMtObVCnl7T7nBta1Sum_Bg-Rys-0e3k,6356
+cattbl/yeareventloss.py,sha256=4n1gZiN7eYVa1nb3knmcyv21U06v_rTSs2GA4Hizofc,20451
+cattbl/yearloss.py,sha256=JWJFFnR7H9VaUruKSFJKcgEa95-js2GmXWv-1P-KNcs,7784
+cattbl-0.3.1.dist-info/LICENSE,sha256=DoNS8M4Lgirg9f2ECb5WAEUUZCTTlO0UnZLaDcRzsVI,1068
+cattbl-0.3.1.dist-info/METADATA,sha256=4Xgpfp_lYCtN8L1hNyrnNWtrLMG9ynoZ0deseLNyV6Q,2656
+cattbl-0.3.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cattbl-0.3.1.dist-info/top_level.txt,sha256=HgvIynXJ8eh0cWd7lxy9fTcrz3nJpTCDxJTpZzfxzzc,7
+cattbl-0.3.1.dist-info/RECORD,,
