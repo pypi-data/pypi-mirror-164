@@ -1,0 +1,8 @@
+setup.py
+fctr/__init__.py
+fctr/factorise_module.py
+fctr.egg-info/PKG-INFO
+fctr.egg-info/SOURCES.txt
+fctr.egg-info/dependency_links.txt
+fctr.egg-info/not-zip-safe
+fctr.egg-info/top_level.txt
