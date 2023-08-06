@@ -1,0 +1,1 @@
+This is a calculator made by a scripter known as ravioli! It takes two numbers and either add, subtract, multiply or divide them.

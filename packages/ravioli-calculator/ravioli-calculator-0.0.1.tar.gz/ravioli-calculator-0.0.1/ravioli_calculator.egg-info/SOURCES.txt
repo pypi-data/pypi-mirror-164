@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+ravioli_calculator.egg-info/PKG-INFO
+ravioli_calculator.egg-info/SOURCES.txt
+ravioli_calculator.egg-info/dependency_links.txt
+ravioli_calculator.egg-info/top_level.txt
