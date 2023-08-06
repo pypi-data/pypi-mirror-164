@@ -1,0 +1,3 @@
+python-docx
+xlrd
+openpyxl
