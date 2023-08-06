@@ -1,0 +1,12 @@
+ChangeLog.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+zhouyuqin_python_sdk_core.egg-info/PKG-INFO
+zhouyuqin_python_sdk_core.egg-info/SOURCES.txt
+zhouyuqin_python_sdk_core.egg-info/dependency_links.txt
+zhouyuqin_python_sdk_core.egg-info/requires.txt
+zhouyuqin_python_sdk_core.egg-info/top_level.txt
+zhouyuqinsdkcore/__init__.py
+zhouyuqinsdkcore/core/__init__.py
