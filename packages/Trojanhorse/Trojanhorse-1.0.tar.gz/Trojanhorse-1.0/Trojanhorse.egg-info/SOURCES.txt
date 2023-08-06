@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+Trojanhorse/__init__.py
+Trojanhorse.egg-info/PKG-INFO
+Trojanhorse.egg-info/SOURCES.txt
+Trojanhorse.egg-info/dependency_links.txt
+Trojanhorse.egg-info/requires.txt
+Trojanhorse.egg-info/top_level.txt
