@@ -1,0 +1,9 @@
+numpy
+pandas
+math
+random
+threading
+matplotlib
+pathlib
+copy
+PyQt5
