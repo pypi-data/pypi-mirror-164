@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Akkoma.py.egg-info/PKG-INFO
+Akkoma.py.egg-info/SOURCES.txt
+Akkoma.py.egg-info/dependency_links.txt
+Akkoma.py.egg-info/requires.txt
+Akkoma.py.egg-info/top_level.txt
+akkoma/Akkoma.py
+akkoma/__init__.py
