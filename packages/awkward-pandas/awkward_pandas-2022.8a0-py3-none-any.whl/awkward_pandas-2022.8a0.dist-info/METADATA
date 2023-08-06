@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: awkward-pandas
+Version: 2022.8a0
+Summary: Awkward Array Pandas Extension
+Project-URL: Homepage, https://github.com/intake/awkward-pandas
+Project-URL: Bug Tracker, https://github.com/intake/awkward-pandas/issues
+Author-email: Doug Davis <ddavis@ddavis.io>
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.8
+Requires-Dist: awkward>=1.9.0rc10
+Requires-Dist: pandas>=1.2
+Provides-Extra: complete
+Requires-Dist: pyarrow; extra == 'complete'
+Requires-Dist: pytest-cov>=3.0.0; extra == 'complete'
+Requires-Dist: pytest>=6.0; extra == 'complete'
+Description-Content-Type: text/markdown
+
+# awkward-pandas
+
+> Awkward Array extension for use in pandas.
+
+[![Tests](https://github.com/intake/awkward-pandas/actions/workflows/pypi.yml/badge.svg)](https://github.com/intake/awkward-pandas/actions/workflows/pypi.yml)
+
+This project is affiliated with awkward-array's v1 to v2 transition.
+[Read more about that
+here](https://github.com/scikit-hep/awkward/wiki).
