@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: honeydew
+Version: 0.1.1
+Summary: Collection of connectors for ETL
+Home-page: https://github.com/vholti/honeydew.git
+Author: Poltak Jefferson
+Author-email: poltak.jefferson@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Honeydew
+This library is a collection of database and GCP connector for ETL
+
+## Installation
+```
+pip install honeydew
+```
+
+
+
