@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pytest-tmpfs
+Version: 0.1.0
+Summary: A pytest plugin that helps you on using a temporary filesystem for testing
+Home-page: https://github.com/nickolasrm/pytest-tmpfs
+Author: nickolasrm
+Author-email: nickolasrochamachado@gmail.com
+License: MIT
+Platform: any
+Description-Content-Type: text/x-rst; charset=UTF-8
+License-File: LICENSE
+Requires-Dist: pytest
+Provides-Extra: dev
+Requires-Dist: pytest-cov ; extra == 'dev'
+Provides-Extra: test
+Requires-Dist: pytest-cov ; extra == 'test'
+
+# pytest-tmpfs
+A pytest plugin that helps you on using a temporary filesystem for testing

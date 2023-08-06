@@ -1,0 +1,12 @@
+pytest_tmpfs/__init__.py,sha256=SLYOfbGNbzFhd1MB_wo7RT80OZfOHBcrAdMML_sisRM,133
+pytest_tmpfs/fs.py,sha256=CHGsWWgvX2bDB5vKTIdKWfjRRUJLiZ7rUGKdNTuZ4ho,11011
+pytest_tmpfs/plugin.py,sha256=d91BqY5nUtxLKSfSGeSTIT31hgsm_1YHGHluBAss_0U,495
+tests/__init__.py,sha256=FdfdCbNfpEKrHD5y57qxPTrfBbKTsXl6vPEEKINAAGY,24
+tests/conftest.py,sha256=LraQ5y-kr-b260CHGFw8vh9lAkOOcaR9t63FEKPvt5w,270
+tests/test_tmpfs.py,sha256=p-8a_kjWf1c_g755R2NU-DPkUn6oUV_b_fhRNMuyBGU,95
+pytest_tmpfs-0.1.0.dist-info/LICENSE,sha256=9X34TbMsLG8zKN_Fl9gEMbN4p0faNnVL9UW39G2nzDs,1077
+pytest_tmpfs-0.1.0.dist-info/METADATA,sha256=5wpB8HdnfnJHy3NllqRVuj8OgpLPs7PtZzQ6-z9A4Ys,600
+pytest_tmpfs-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pytest_tmpfs-0.1.0.dist-info/entry_points.txt,sha256=NxIanD_mOrJ_Eu6hXQ8pnSsBhLDaauHM5onaiR1Mdms,46
+pytest_tmpfs-0.1.0.dist-info/top_level.txt,sha256=TtWdQCI8Btgui2sv0iz6Ae3BXHzA90BNATVr-QNFrvc,19
+pytest_tmpfs-0.1.0.dist-info/RECORD,,
