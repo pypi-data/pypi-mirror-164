@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+yolo_pyutils.egg-info/PKG-INFO
+yolo_pyutils.egg-info/SOURCES.txt
+yolo_pyutils.egg-info/dependency_links.txt
+yolo_pyutils.egg-info/top_level.txt
