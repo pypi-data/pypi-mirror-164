@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: python-awips
+Version: 18.1.11
+Summary: A framework for requesting AWIPS meteorological datasets from an EDEX server
+Home-page: http://unidata.github.io/python-awips
+Download-URL: https://github.com/Unidata/python-awips/archive/18.1.11.tar.gz
+Author: Unidata
+Author-email: support-awips@ucar.edu
+License: BSD
+Provides-Extra: cdm
+Provides-Extra: dev
+Provides-Extra: doc
+Provides-Extra: examples
+License-File: LICENSE
