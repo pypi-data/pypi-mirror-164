@@ -1,0 +1,7 @@
+mesh2sdf/__init__.py,sha256=f7PN3FBrM6ISQ6HymGNzaltDPZxwjl8sh5yzC40QPww,30
+mesh2sdf/compute.py,sha256=jCcpTqHBGiPYfCS3KeRKjt-isVOxXaLgHyVe1lH0QVQ,1790
+mesh2sdf/core.cp38-win_amd64.pyd,sha256=L9uHXV9ydZp1_Sh50i_g3XzbYPkZAwvSJaVmKDtt4YU,137216
+mesh2sdf-1.1.0.dist-info/METADATA,sha256=edqiNUACzATE9prvdroVRstUEebbEb3qs2Xi8EmfyXk,2362
+mesh2sdf-1.1.0.dist-info/WHEEL,sha256=M2GQ3lde8oJhlQPj2wbRvnqE3cuovPJasri5X5aCmck,100
+mesh2sdf-1.1.0.dist-info/top_level.txt,sha256=uDjmjCpv_akEcqKsQDy0rDxIZp2tNxGYwZVfEjWRI_M,9
+mesh2sdf-1.1.0.dist-info/RECORD,,
