@@ -1,0 +1,3 @@
+[console_scripts]
+mannaggia-bot = mannaggia_bot.__main__:main
+
