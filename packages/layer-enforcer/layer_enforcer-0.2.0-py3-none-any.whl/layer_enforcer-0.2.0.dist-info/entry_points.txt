@@ -1,0 +1,2 @@
+[console_scripts]
+layer-enforcer = layer_enforcer.cli:main
