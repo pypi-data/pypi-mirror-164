@@ -1,0 +1,8 @@
+logseq_doctor/__init__.py,sha256=Sqa2TVVXkipuw4dO5Hh1KUNMgw7spihHOaMc0tmJJLo,2854
+logseq_doctor/__main__.py,sha256=O0it_gc6WKRWWBu34cSGdybYdWAGXFXtvL7CPejPSgg,373
+logseq_doctor/cli.py,sha256=-GRIxzJBFEEPOXeE4ewUjbupsVGrgFowy6xryYna96A,1031
+logseq_doctor-0.1.1.dist-info/entry_points.txt,sha256=Zk7URk2JKC221fSolJceyeCEAd8mJy-jUfwwkmOdKnc,46
+logseq_doctor-0.1.1.dist-info/LICENSE,sha256=AtvHIrFfe-HgNmJXxP_UefFjYDtrnXFdzRdtYaNqwY8,1107
+logseq_doctor-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+logseq_doctor-0.1.1.dist-info/METADATA,sha256=otC_lV5fiWSl2LkWg0RSxoeq59A331iU4LaP-zJ3AoE,4846
+logseq_doctor-0.1.1.dist-info/RECORD,,
