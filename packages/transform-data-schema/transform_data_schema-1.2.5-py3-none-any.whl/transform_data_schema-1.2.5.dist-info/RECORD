@@ -1,0 +1,11 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+transform_data_schema/__init__.py,sha256=DiJV5jWiiOL8kQfJ1mC2gocH1gpJZys6_qqP5MxWl4E,516
+transform_data_schema/auto_replace_validate_error_field.py,sha256=-GqsxWUx9VQHbtdqbcSnzwyN9Uv3BXRsgne9mmLjoC4,1439
+transform_data_schema/base_schema.py,sha256=zdMWAmU4BCAF5NzpEb6-8wvQteJZK7CvilgbktxeuDM,4613
+transform_data_schema/transform_fields.py,sha256=7jVbI_YjwZZ798qCfXO2RoctjYNx-S5g_EoOgXPfB6o,2124
+transform_data_schema/transform_handler.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+transform_data_schema/utils.py,sha256=_s8Go9kpM6ZqL3Acc4bi4hxmTGEAxRw8ZCRitjpzrZ0,2366
+transform_data_schema-1.2.5.dist-info/METADATA,sha256=ktKo8QHFlXu05xgMIp6UawFjv9j93ABYcLMItOwIOK0,4287
+transform_data_schema-1.2.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+transform_data_schema-1.2.5.dist-info/top_level.txt,sha256=dgzI-aiSWWU4VpUwGsNI1iMn6ZZx-QmViH6FeVyxLLw,31
+transform_data_schema-1.2.5.dist-info/RECORD,,
