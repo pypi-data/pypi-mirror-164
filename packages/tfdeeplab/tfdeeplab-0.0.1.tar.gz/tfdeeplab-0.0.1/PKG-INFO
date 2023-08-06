@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: tfdeeplab
+Version: 0.0.1
+Summary: Deeplab
+Home-page: https://github.com/antecessor/mask2former
+Author: Reza Mohebbian
+Author-email: 
+License: Apache License 2.0
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Requires-Python: >=3.7, <3.8
+Description-Content-Type: text/markdown
