@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: anpan
+Version: 0.1
+Summary: Kanban CLI for Foam
+Home-page: http://github.com/seungjaeryanlee/anpan
+Author: Ryan Lee
+Author-email: seungjaeryanlee@gmail.com
+License: MIT
