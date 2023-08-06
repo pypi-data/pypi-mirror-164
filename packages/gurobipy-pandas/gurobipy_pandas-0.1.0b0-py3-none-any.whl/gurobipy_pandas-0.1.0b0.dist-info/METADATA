@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: gurobipy-pandas
+Version: 0.1.0b0
+Summary: Pandas accessors for gurobipy interaction
+Project-URL: Documentation, https://gurobi-optimization-gurobipy-pandas.readthedocs-hosted.com/en/latest
+Project-URL: Issues, https://github.com/Gurobi/gurobipy-pandas/issues
+Project-URL: Source, https://github.com/Gurobi/gurobipy-pandas
+Author-email: Simon Bowly <bowly@gurobi.com>, Robert Luce <luce@gurobi.com>
+License: MIT
+Keywords: gurobipy,optimization,pandas
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.7
+Requires-Dist: gurobipy
+Requires-Dist: pandas
+Description-Content-Type: text/markdown
+
+# gurobipy-pandas: Convenience wrapper for building optimization models from pandas data
+
+[![PyPI - Version](https://img.shields.io/pypi/v/gurobipy-pandas.svg)](https://pypi.org/project/gurobipy-pandas)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/gurobipy-pandas.svg)](https://pypi.org/project/gurobipy-pandas)
+
+-----
+
+## Features
+
+`gurobipy-pandas` allows users to:
+
+- create gurobipy variables tied to the index of a series or dataframe
+- construct constraints row-wise using algebraic expressions
+- read model solutions and constraint slacks natively as pandas series
+
+## Installation
+
+```console
+pip install gurobipy-pandas
+```
+
+## Dependencies
+
+- [gurobipy: Python modelling interface for the Gurobi Optimizer](https://pypi.org/project/gurobipy/)
+- [pandas: powerful Python data analysis toolkit](https://github.com/pandas-dev/pandas)
+
+## Documentation
+
+Full documentation for `gurobipy-pandas` is hosted on [readthedocs](https://gurobi-optimization-gurobipy-pandas.readthedocs-hosted.com/en/latest)
+
+## License
+
+`gurobipy-pandas` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
