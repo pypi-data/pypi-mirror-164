@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: lodgea-python
+Version: 1.0.0
+Summary: lodgea-python
+Home-page: 
+Author: OpenAPI Generator community
+Author-email: info@lodgea.com
+License: Apache 2.0
+Keywords: OpenAPI,OpenAPI-Generator,lodgea-python
+Requires-Python: >=3.6
+License-File: LICENSE
+
+    LODGEA SDK for Python. Check out https://lodgea.redoc.ly for more information.  # noqa: E501
+    
