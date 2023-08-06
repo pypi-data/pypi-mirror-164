@@ -1,0 +1,11 @@
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+MANIFEST.in
+README.md
+opal_server.egg-info/PKG-INFO
+opal_server.egg-info/SOURCES.txt
+opal_server.egg-info/dependency_links.txt
+opal_server.egg-info/entry_points.txt
+opal_server.egg-info/requires.txt
+opal_server.egg-info/top_level.txt
