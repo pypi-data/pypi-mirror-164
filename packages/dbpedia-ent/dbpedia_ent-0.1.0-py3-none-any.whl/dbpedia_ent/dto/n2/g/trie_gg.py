@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_gg = {'_': ['gg_quadster',
+       'gg_caravan',
+       'gg_magree',
+       'gg_duetto',
+       'gg_tauri',
+       'gg_allin',
+       'gg_bond',
+       'gg_300'],
+ 'a': ['ggantija', 'ggaba', 'gga2', 'gga3', 'gga1', 'gga'],
+ 'b': ['ggb'],
+ 'c': ['ggcl', 'ggc'],
+ 'd': ['ggdef_domain'],
+ 'e': ['gge'],
+ 'f': ['ggf'],
+ 'g': ['ggg'],
+ 'h': ['ggh'],
+ 'i': ['ggi'],
+ 'j': ['ggj'],
+ 'l': ['ggl_stadium', 'ggl_domain'],
+ 'm': ['ggm'],
+ 'n': ['ggnmos', 'ggn'],
+ 'o': ['ggoolldd', 'ggobi', 'ggo'],
+ 'p': ['ggps,_bokaro', 'ggp_inc.'],
+ 'r': ['ggr'],
+ 's': ['ggse-4', 'ggse-1', 'ggss', 'ggse', 'ggs'],
+ 't': ['ggt'],
+ 'u': ['ggulu', 'ggu'],
+ 'v': ['ggv_capital'],
+ 'w': ['ggw'],
+ 'z': ['ggz']}
