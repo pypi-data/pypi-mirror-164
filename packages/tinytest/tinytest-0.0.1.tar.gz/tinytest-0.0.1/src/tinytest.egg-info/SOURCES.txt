@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/tinytest/__init__.py
+src/tinytest/nothing.py
+src/tinytest.egg-info/PKG-INFO
+src/tinytest.egg-info/SOURCES.txt
+src/tinytest.egg-info/dependency_links.txt
+src/tinytest.egg-info/top_level.txt
