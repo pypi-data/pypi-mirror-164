@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dash_rete
+Version: 0.0.1
+Summary: Dash component wrapping rete.js
+Home-page: UNKNOWN
+Author: Ben Cannell <bean.can.design@gmail.com>
+License: GPL-3.0
+Platform: UNKNOWN
+Classifier: Framework :: Dash
+License-File: LICENSE
+
+UNKNOWN
+

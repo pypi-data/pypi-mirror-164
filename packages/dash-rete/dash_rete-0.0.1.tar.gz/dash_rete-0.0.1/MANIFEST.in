@@ -1,0 +1,11 @@
+include dash_rete/dash_rete.min.js
+include dash_rete/dash_rete.min.js.map
+include dash_rete/async-*.js
+include dash_rete/async-*.js.map
+include dash_rete/*-shared.js
+include dash_rete/*-shared.js.map
+include dash_rete/metadata.json
+include dash_rete/package-info.json
+include README.md
+include LICENSE
+include package.json

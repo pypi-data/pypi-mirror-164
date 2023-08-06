@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+package.json
+setup.py
+dash_rete/DashRete.py
+dash_rete/__init__.py
+dash_rete/_imports_.py
+dash_rete/dash_rete.min.js
+dash_rete/dash_rete.min.js.map
+dash_rete/metadata.json
+dash_rete/package-info.json
+dash_rete.egg-info/PKG-INFO
+dash_rete.egg-info/SOURCES.txt
+dash_rete.egg-info/dependency_links.txt
+dash_rete.egg-info/top_level.txt
