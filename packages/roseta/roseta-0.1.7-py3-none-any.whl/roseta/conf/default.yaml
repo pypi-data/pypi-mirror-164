@@ -1,0 +1,48 @@
+cn_unit_check_dict:
+  length:
+    - 厘米
+    - 米
+    - cm
+    - m
+    - 尺
+    - 寸
+  weight:
+    - 斤
+    - 公斤
+    - 克
+    - 千克
+    - g
+    - kg
+  city:
+    - 市
+    - 省
+  age:
+    - 岁
+    - 月
+    - year
+    - month
+
+std_unit_check_dict: # 第一位为默认
+  length:
+    - cm
+    - m
+  weight:
+    - kg
+    - g
+  city:
+    - 市
+    - 省
+  age:
+    - year
+    - month
+  cup:
+    - cm
+    - m
+
+blur_map:
+  几: 五 # 一米八几 -> 一米八五
+  多: 二 # 一米八多 -> 一米八二
+
+cn_num_unit_list: 零一壹幺二贰两三叁仨四肆五伍六陆七柒八捌九玖十拾百佰千仟万亿点负
+cn_num_list: 零一壹幺二贰两三叁仨四肆五伍六陆七柒八捌九玖点
+an_num_list: "0123456789."
