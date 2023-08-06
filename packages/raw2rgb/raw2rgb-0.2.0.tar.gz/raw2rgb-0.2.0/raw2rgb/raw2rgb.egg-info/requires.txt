@@ -1,0 +1,11 @@
+Pillow>=9.2.0
+scipy>=1.9.0
+numpy>=1.14.5
+matplotlib>=3.5.2
+
+[testing]
+pytest>=6.0
+pytest-cov>=2.0
+mypy>=0.910
+flake8>=3.9
+tox>=3.24
