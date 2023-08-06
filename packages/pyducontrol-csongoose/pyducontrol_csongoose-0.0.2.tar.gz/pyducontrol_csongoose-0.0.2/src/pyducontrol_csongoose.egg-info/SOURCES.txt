@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/pyducontrol_csongoose/__init__.py
+src/pyducontrol_csongoose/pyducontrol.py
+src/pyducontrol_csongoose.egg-info/PKG-INFO
+src/pyducontrol_csongoose.egg-info/SOURCES.txt
+src/pyducontrol_csongoose.egg-info/dependency_links.txt
+src/pyducontrol_csongoose.egg-info/requires.txt
+src/pyducontrol_csongoose.egg-info/top_level.txt

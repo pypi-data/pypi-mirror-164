@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0", "pyserial"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyducontrol_csongoose"
+version = "0.0.2"
+authors = [
+  { name="csongoose", email="csongoose@gmail.com" },
+]
+description = "A small package for communicating with an arduino using commands"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pyserial"
+]
+
+[project.urls]
+"Source code" = "https://github.com/csongoose/pyducontrol"
