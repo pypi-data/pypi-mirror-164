@@ -1,0 +1,3 @@
+include README.md
+include g3mclass/version.txt
+include g3mclass/coldb.tsv

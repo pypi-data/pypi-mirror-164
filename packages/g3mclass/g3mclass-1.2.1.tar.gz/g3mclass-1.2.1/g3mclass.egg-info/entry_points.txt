@@ -1,0 +1,5 @@
+[console_scripts]
+png2icon = png2icon:main
+
+[gui_scripts]
+g3mclass = g3mclass.g3mclass:main

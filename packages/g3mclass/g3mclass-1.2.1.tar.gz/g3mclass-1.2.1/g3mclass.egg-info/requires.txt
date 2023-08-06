@@ -1,0 +1,5 @@
+wxpython
+numpy>=1.17
+pandas
+matplotlib>=3.5.1
+xlsxwriter
