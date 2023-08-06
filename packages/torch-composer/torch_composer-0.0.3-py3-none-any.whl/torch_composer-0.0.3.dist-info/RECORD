@@ -1,0 +1,8 @@
+torch_composer/__init__.py,sha256=B1awMGI70QtFEAicAczVdWH4_p9o5TsWX3rB7vBsGzw,186
+torch_composer/_nn_composer/__init__.py,sha256=hoK98gvWw24ulV9YeJ0OJB-Va6PpETpNH3NCXduZBFY,200
+torch_composer/_nn_composer/_compose_nn_sequential.py,sha256=h733hqYBqFpigyne7DwB4PoH74JZdDEN4hAUQNlMf5c,3391
+torch_composer-0.0.3.dist-info/LICENSE,sha256=jXNk8OCt5ZKcsUH97c3CKMzPjoa6z2j2Adwg0Wxbw9A,1072
+torch_composer-0.0.3.dist-info/METADATA,sha256=lSdikMAT_t7XoYNN1Z0MTDEHvmQWShr3ogsgK0WHLe0,1146
+torch_composer-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+torch_composer-0.0.3.dist-info/top_level.txt,sha256=y7yb1T5b9ULiZoLbRSn_zsaM0HxjzIz4PED9WoEJB8U,15
+torch_composer-0.0.3.dist-info/RECORD,,
