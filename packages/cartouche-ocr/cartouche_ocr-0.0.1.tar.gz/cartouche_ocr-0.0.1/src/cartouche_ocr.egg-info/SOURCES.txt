@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/cartouche_ocr/__init__.py
+src/cartouche_ocr/cartouche_detect.py
+src/cartouche_ocr/ocr.py
+src/cartouche_ocr.egg-info/PKG-INFO
+src/cartouche_ocr.egg-info/SOURCES.txt
+src/cartouche_ocr.egg-info/dependency_links.txt
+src/cartouche_ocr.egg-info/top_level.txt
