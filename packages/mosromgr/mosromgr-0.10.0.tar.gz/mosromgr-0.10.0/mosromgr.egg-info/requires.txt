@@ -1,0 +1,16 @@
+setuptools
+boto3
+xmltodict
+python-dateutil
+
+[doc]
+graphviz
+sphinx
+sphinx-rtd-theme
+
+[test]
+pytest
+coverage
+mock
+pylint
+tox
