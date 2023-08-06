@@ -1,0 +1,8 @@
+matplotlib
+matplotx[all]>=0.3.10
+npx
+numpy>=1.20.0
+
+[all]
+meshzoo
+pyvista
