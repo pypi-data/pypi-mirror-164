@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: AsyncSMS
+Version: 0.1
+Summary: sms-activate 异步版。
+Home-page: https://github.com/songjian/async-sms
+Author: sj
+Author-email: boss@codeorder.cn
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# sms-activate 异步版
+
+网站
+
+https://sms-activate.org/
+
+API文档
+
+https://sms-activate.org/en/api2
+
+
