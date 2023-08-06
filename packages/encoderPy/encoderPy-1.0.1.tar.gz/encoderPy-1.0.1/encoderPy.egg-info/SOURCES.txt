@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+encoderPy/__init__.py
+encoderPy/encoderPy.py
+encoderPy.egg-info/PKG-INFO
+encoderPy.egg-info/SOURCES.txt
+encoderPy.egg-info/dependency_links.txt
+encoderPy.egg-info/top_level.txt
