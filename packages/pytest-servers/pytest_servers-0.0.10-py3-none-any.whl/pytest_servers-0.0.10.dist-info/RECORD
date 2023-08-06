@@ -1,0 +1,15 @@
+pytest_servers/__init__.py,sha256=uwcNGqmK-6sa8mGh5JGknTkz8eP6qmeFVV41NbG7zYo,22
+pytest_servers/azure.py,sha256=sOPeJ5LI_Rx6zXAB4Kj8I7kKi_rNZbnfNt2RwDXRxzU,1795
+pytest_servers/exceptions.py,sha256=W-UpW_B9mxLLML5mLfOJK3MzjVra8XX1UheauP09EGI,324
+pytest_servers/factory.py,sha256=XtmeGibj8itRHHX_X2aVkLR_JsdR_0q1rbBDEzXc9ZA,6235
+pytest_servers/fixtures.py,sha256=86o63goPtq--V_ZCv2zWbALlU7HhOoYdWVplwrHKDH0,2220
+pytest_servers/gcs.py,sha256=TbBKZU_g302RUDLrdlt5SgNmXE6H6nuIV4e5ub-kQnk,1329
+pytest_servers/local.py,sha256=Fe2Nezcpbj7l0-QrR7SXv4lqHR3jHAil61KpRS6sUaE,223
+pytest_servers/s3.py,sha256=cAW-kaYCoMgXIslsPsOWhIQp784TleMsauGdSe9nezI,2741
+pytest_servers/utils.py,sha256=37lJHx-uWCIawCARm8RyZZDwBcQxi3OpWp7MbECNJGA,1305
+pytest_servers-0.0.10.dist-info/LICENSE,sha256=-1jhbPjoIVHR0cEgahL4Zhct75Ff4MzYCR_jOaJDPq8,11340
+pytest_servers-0.0.10.dist-info/METADATA,sha256=74b-pE7N1OKUgkDlFwvRuRtchzIkWu8OpoybzY8BJ34,6571
+pytest_servers-0.0.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pytest_servers-0.0.10.dist-info/entry_points.txt,sha256=FxDoH1pNmRnk0ytQay3gavGOU3eIs8KA6I3CczmBSgE,52
+pytest_servers-0.0.10.dist-info/top_level.txt,sha256=386th7hGSGAprcojx9s6D9tnrqx_bXOC3qIkhT1VTHA,15
+pytest_servers-0.0.10.dist-info/RECORD,,
