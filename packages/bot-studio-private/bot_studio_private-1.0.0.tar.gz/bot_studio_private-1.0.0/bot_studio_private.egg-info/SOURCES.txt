@@ -1,0 +1,16 @@
+README.md
+setup.py
+bot_studio_private/DataKund.exe
+bot_studio_private/GetAttributes.py
+bot_studio_private/GetData.py
+bot_studio_private/Progress.py
+bot_studio_private/__init__.py
+bot_studio_private/bot_studio_private.py
+bot_studio_private/dk_studio.py
+bot_studio_private/install.py
+bot_studio_private.egg-info/PKG-INFO
+bot_studio_private.egg-info/SOURCES.txt
+bot_studio_private.egg-info/dependency_links.txt
+bot_studio_private.egg-info/entry_points.txt
+bot_studio_private.egg-info/requires.txt
+bot_studio_private.egg-info/top_level.txt
