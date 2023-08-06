@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: voicevox.py
+Version: 0.0.2
+Summary: Python上から簡単にVORCEVOXの音声合成を利用できるモジュール。
+Home-page: https://github.com/sonyakun/voicevox.py
+Author: sonyakun
+Author-email: sonyaumg@gmail.com
+Maintainer: sonyakun
+Maintainer-email: sonyaumg@gmail.com
+License: MIT
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Framework :: Matplotlib
+Requires-Python: >=3.6
+Provides-Extra: tutorial
+License-File: LICENSE.txt
+
+README.md
