@@ -1,0 +1,8 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+cm_test3.egg-info/PKG-INFO
+cm_test3.egg-info/SOURCES.txt
+cm_test3.egg-info/dependency_links.txt
+cm_test3.egg-info/top_level.txt
