@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: siemens
+Version: 0.1.0
+Summary: A placeholder package for Siemens
+Home-page: https://opensource.siemens.com
+License: MIT
+Author: Siemens Open Source
+Author-email: opensource@siemens.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/siemens
+Description-Content-Type: text/markdown
+
+# Siemens
+
+This is a placeholder package reserved for a potential [PEP 423](https://peps.python.org/pep-0423)
+packaging convention in the future.
+
+For Siemens Open Source projects, see [opensource.siemens.com](https://opensource.siemens.com) and
+[github.com/siemens](https://github.com/siemens).
+
