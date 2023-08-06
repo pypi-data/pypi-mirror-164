@@ -1,0 +1,16 @@
+pydub
+sounddevice
+moviepy
+dacite
+networkx
+ibm_watson
+scipy
+syllables
+pyyaml
+lxml
+
+[test]
+pytest
+pytest-cov
+pytest-timeout
+pytest-xdist
