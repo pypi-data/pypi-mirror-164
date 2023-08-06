@@ -1,0 +1,3 @@
+[console_scripts]
+flask_project_manager = flask_project_manager:main
+
