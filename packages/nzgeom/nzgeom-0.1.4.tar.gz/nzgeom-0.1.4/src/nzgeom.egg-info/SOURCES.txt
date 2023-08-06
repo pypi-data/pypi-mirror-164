@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/nzgeom/__init__.py
+src/nzgeom/coastlines.py
+src/nzgeom/regions.py
+src/nzgeom.egg-info/PKG-INFO
+src/nzgeom.egg-info/SOURCES.txt
+src/nzgeom.egg-info/dependency_links.txt
+src/nzgeom.egg-info/requires.txt
+src/nzgeom.egg-info/top_level.txt
+src/tests/nzgeom_test.py
