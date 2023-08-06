@@ -1,0 +1,10 @@
+README.md
+pytsecr/__init__.py
+pytsecr/setup.py
+pytsecr/src.py
+pytsecr.egg-info/PKG-INFO
+pytsecr.egg-info/SOURCES.txt
+pytsecr.egg-info/dependency_links.txt
+pytsecr.egg-info/not-zip-safe
+pytsecr.egg-info/requires.txt
+pytsecr.egg-info/top_level.txt
