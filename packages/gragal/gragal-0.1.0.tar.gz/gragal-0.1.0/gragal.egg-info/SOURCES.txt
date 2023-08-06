@@ -1,0 +1,12 @@
+.gitignore
+LICENSE
+README.md
+requirements.txt
+setup.cfg
+setup.py
+gragal/__init__.py
+gragal.egg-info/PKG-INFO
+gragal.egg-info/SOURCES.txt
+gragal.egg-info/dependency_links.txt
+gragal.egg-info/requires.txt
+gragal.egg-info/top_level.txt
