@@ -1,0 +1,11 @@
+remi_portal_gun/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+remi_portal_gun/access_static.py,sha256=1df1GNqBIxzSBOrNXdDyCg5m7pgTFEIvGZnwQ6HGkok,1489
+remi_portal_gun/discovery.py,sha256=S3-ZB66Dt-Jn6g0lWxAluA5Z_0UKEHdX3AAHV15KJ0I,1026
+remi_portal_gun/faster.sh,sha256=MHv5K2OyvayN3WfTDl3barSXrLvhFDOW80ZoHREg0ws,125
+remi_portal_gun/inject_json_into_js.py,sha256=LujwTsT5ikjLYWNv-kgWdGa19CLxBO8RtKzoqOvqQk8,901
+remi_portal_gun/main.py,sha256=i4UnbxDUQZSALPi0vIq7WayvA-Hex2raQhNflUlMUvM,1722
+remi_portal_gun/server.py,sha256=oNcbRKTWY23Hp868p-lhl6X1NmJc39uSpd74yfUL2HE,466
+remi_portal_gun-0.4.0.dist-info/entry_points.txt,sha256=yb2YKXbhmkXj7IrwjL-bqYt0rZeZsR7yHzR-gcLyrnI,60
+remi_portal_gun-0.4.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+remi_portal_gun-0.4.0.dist-info/METADATA,sha256=hdaEGsnh5Zj1GxDjQHTL7ivcRa6vf7y6WioVMUhmicU,465
+remi_portal_gun-0.4.0.dist-info/RECORD,,

@@ -1,0 +1,3 @@
+[console_scripts]
+remi-portal-gun=remi_portal_gun.main:app
+
