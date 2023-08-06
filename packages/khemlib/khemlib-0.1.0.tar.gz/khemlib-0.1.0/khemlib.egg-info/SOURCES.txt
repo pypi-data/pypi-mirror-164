@@ -1,0 +1,10 @@
+README.md
+setup.py
+khemlib.egg-info/PKG-INFO
+khemlib.egg-info/SOURCES.txt
+khemlib.egg-info/dependency_links.txt
+khemlib.egg-info/requires.txt
+khemlib.egg-info/top_level.txt
+khempythonlib/__init__.py
+khempythonlib/khemfunc.py
+test/test_khemfunc.py
