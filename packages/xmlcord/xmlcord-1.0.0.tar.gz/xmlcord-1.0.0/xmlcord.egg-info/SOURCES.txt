@@ -1,0 +1,7 @@
+README.md
+setup.py
+xmlcord.egg-info/PKG-INFO
+xmlcord.egg-info/SOURCES.txt
+xmlcord.egg-info/dependency_links.txt
+xmlcord.egg-info/requires.txt
+xmlcord.egg-info/top_level.txt
