@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: unitunes
+Version: 2.0.1
+Summary: A GUI and library to manage playlists across music streaming services.
+Home-page: https://github.com/platers/unitunes
+License: GPLv3
+Keywords: gui,music,playlist,playlists,spotify,ytmusic,musicbrainz
+Author: platers
+Author-email: platers81@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: License :: Other/Proprietary License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Utilities
+Requires-Dist: appdirs (>=1.4.4,<2.0.0)
+Requires-Dist: dearpygui (>=1.6.2,<2.0.0)
+Requires-Dist: musicbrainzngs (>=0.7.1,<0.8.0)
+Requires-Dist: pydantic (>=1.9.0,<2.0.0)
+Requires-Dist: ratelimit (>=2.2.1,<3.0.0)
+Requires-Dist: spotipy (>=2.19.0,<3.0.0)
+Requires-Dist: strsimpy (>=0.2.1,<0.3.0)
+Requires-Dist: tqdm (>=4.64.0,<5.0.0)
+Requires-Dist: youtube-title-parse (>=1.0.0,<2.0.0)
+Requires-Dist: ytmusicapi (>=0.21.0,<0.22.0)
+Description-Content-Type: text/markdown
+
+# unitunes [![PyPI version](https://badge.fury.io/py/unitunes.svg)](https://badge.fury.io/py/unitunes) ![example workflow](https://github.com/platers/unitunes/actions/workflows/github-actions.yml/badge.svg)
+
+![unituneslogo](assets/unitunes.png)
+
+A python GUI and library to sync playlists across music streaming services.
+
+![playlist_tab](assets/playlist_tab.png)
+
+## Introduction
+
+unitunes manages playlists across streaming services. unitunes can transfer songs between services and keep playlists in sync.
+
+unitunes stores your playlists in plain text, allowing you to version control your music. Playlists can be pushed and pulled from streaming services. Tracks from one service can be searched on another.
+
+### Current Supported Streaming Services
+
+| Name          | Pullable | Pushable | Searchable |
+| ------------- | :------: | :------: | :--------: |
+| MusicBrainz   |          |          |     ✅     |
+| Spotify       |    ✅    |    ✅    |     ✅     |
+| Youtube Music |    ✅    |    ✅    |     ✅     |
+| Beatsaber     |    ✅    |    ✅    |     ✅     |
+
+Want to add support for another service? See [contributing](#contributing).
+
+## Usage
+
+```bash
+pip install unitunes
+unitunes
+```
+
+In settings, set the directory to store your playlists. You can version control this directory with git.
+
+Connect services in the service tab. Enter a service name, and click the button to add the corresponding service. Each service type requires some configuration, Spotify requires a client id and secret, and Youtube Music requires request headers.
+![service_tab](assets/service_tab.png)
+
+Playlists can then be added to the playlist tab.
+
+After adding playlists, you can sync them. You likely just want to press the `Sync All` button, which will pull, search, and push all playlists.
+
+## Contributing
+
+unitunes is rapidly evolving. Take a look at the [contributing guide](CONTRIBUTING.md).
+
