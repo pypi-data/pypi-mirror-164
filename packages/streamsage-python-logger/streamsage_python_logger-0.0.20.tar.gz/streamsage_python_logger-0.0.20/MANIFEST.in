@@ -1,0 +1,5 @@
+exclude venv/
+exclude .gitignore
+exclude .idea
+exclude venv
+exclude __pycache__/
