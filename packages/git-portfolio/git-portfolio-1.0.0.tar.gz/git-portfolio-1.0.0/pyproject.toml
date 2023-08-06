@@ -1,0 +1,70 @@
+[tool.poetry]
+name = "git-portfolio"
+version = "1.0.0"
+description = "Git Portfolio"
+authors = ["staticdev <staticdev-support@proton.me>"]
+license = "MIT"
+readme = "README.rst"
+homepage = "https://github.com/staticdev/git-portfolio"
+repository = "https://github.com/staticdev/git-portfolio"
+documentation = "https://git-portfolio.readthedocs.io"
+classifiers = [
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "License :: OSI Approved :: MIT License",
+]
+
+[tool.poetry.urls]
+Changelog = "https://github.com/staticdev/git-portfolio/releases"
+
+[tool.poetry.dependencies]
+python = "^3.9.0"
+click = ">=7,<9"
+"github3.py" = "^3.0.0"
+inquirer = "^2.8.0"
+pyyaml = "^5.3.1"
+
+[tool.poetry.dev-dependencies]
+bandit = ">=1.7.4"
+black = ">=22.6.0"
+coverage = {version = "6.4.4", extras = ["toml"]}
+safety = "^2.1.1"
+mypy = "^0.971"
+typeguard = "^2.13.3"
+xdoctest = "^1.0.2"
+sphinx = "^4.3.2"
+sphinx-autobuild = "^2021.3.14"
+pre-commit = "^2.20.0"
+flake8 = "^4.0.1"
+flake8-bugbear = "^22.8.23"
+flake8-docstrings = "^1.6.0"
+flake8-rst-docstrings = "^0.2.7"
+pep8-naming = "^0.13.2"
+darglint = "^1.8.1"
+pytest = "^7.1.2"
+pre-commit-hooks = "^4.3.0"
+pytest_mock = "^3.8.2"
+reorder-python-imports = "^3.8.2"
+sphinx-click = "^4.3.0"
+types-PyYAML = "^6.0.11"
+pyupgrade = "^2.37.3"
+furo = ">=2021.11.12"
+
+[tool.poetry.scripts]
+gitp = "git_portfolio.__main__:main"
+
+[tool.coverage.paths]
+source = ["src", "*/site-packages"]
+tests = ["tests", "*/tests"]
+
+[tool.coverage.run]
+branch = true
+source = ["git_portfolio", "tests"]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 100
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
