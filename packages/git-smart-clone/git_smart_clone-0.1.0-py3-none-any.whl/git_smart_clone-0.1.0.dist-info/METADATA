@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: git-smart-clone
+Version: 0.1.0
+Summary: A simple git extension that clones a git directory to subfolder based on the git url
+License: MIT
+Author-email: Sam Phinizy <sam@phin.tech>
+Requires-Python: >=3.10
+Requires-Dist: click>=8.1.3
+Requires-Dist: git-url-parse>=1.2.2
+Description-Content-Type: text/markdown
+
+# git-smart-clone
+
+A simple git extension that clones a git directory to subfolder based on the git url
+
