@@ -1,0 +1,2 @@
+[console_scripts]
+tasm = tasm.cli:main
