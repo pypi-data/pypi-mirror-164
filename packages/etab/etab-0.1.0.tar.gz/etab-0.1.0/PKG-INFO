@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: etab
+Version: 0.1.0
+Summary: ETAB: A Benchmark Suite for Visual Representation Learning in Echocardiography
+Home-page: https://github.com/ahmedmalaa/ETAB
+Author: Ahmed Alaa
+Author-email: amalaa@mit.edu
+License: BSD 2-clause
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+
+UNKNOWN
+
