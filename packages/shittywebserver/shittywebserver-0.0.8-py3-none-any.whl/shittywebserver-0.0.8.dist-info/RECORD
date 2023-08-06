@@ -1,0 +1,10 @@
+shittywebserver/__init__.py,sha256=RFnA_Hd316fPEG7XH0TtB4IFatq9MdzcxnpU6LBSFjk,54
+shittywebserver/api.py,sha256=ZnpugrM2G6ZCooabjI97sl_uIT5uogFiekWiirlukHk,9348
+shittywebserver/config.py,sha256=24Ozk5jX-74WwDsBY66cs_TAcOMxmfneaUl_AMUcCbM,192
+shittywebserver/main.py,sha256=Wr2lEcegAdfF4rm9LnHXupMkK3lAzRhBWGFMvHjORcE,1446
+shittywebserver/test.py,sha256=gIa_rycIJnVee4Fv-tcnR-Ufj7sKhI71hTaON6sl2Ko,910
+shittywebserver/tools.py,sha256=QEvYyJlZPpITYznwqvPjarxM6t7uxg5YThIB1swKgHk,2125
+shittywebserver-0.0.8.dist-info/METADATA,sha256=yjFnMhaHmeqgkYnNpen0LDXj9_Sm0v0mp0gK96cOgkA,1117
+shittywebserver-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+shittywebserver-0.0.8.dist-info/top_level.txt,sha256=E0BRP-a3wnMzLTWH7I1Rhlg_r4wGvbC8AA2DxmCyIFo,16
+shittywebserver-0.0.8.dist-info/RECORD,,
