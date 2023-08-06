@@ -1,0 +1,72 @@
+name: Publish conda package to Anaconda
+
+# https://github.com/marketplace/actions/publish-anaconda-package-to-anaconda-org
+# https://github.com/BEFH/anaconda-publish
+
+on:
+  release:
+    types: [published]
+  push:
+    branches: [ main ]
+    tags:
+      - '**'
+  pull_request:
+    branches: [ main ]
+
+defaults:
+  run:
+    shell: bash -l {0}
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Create Python environment
+      uses: mamba-org/provision-with-micromamba@v12
+      with:
+        # cache-downloads: true
+        cache-env-key: env-key-python
+        cache-env: true
+        channel-priority: flexible
+        environment-file: environment.yml
+        environment-name: anaconda-build-env-python
+        # packages for the unit tests
+        extra-specs: |
+          conda-build
+          conda-verify
+          setuptools-scm
+
+    - name: Custom environment variables
+      run: |
+        echo "pwd: $(pwd)"
+        echo "directory: $(ls -lAFgh)"
+        echo ".git directory: $(ls -lAFgh .git/)"
+        echo "version_from_git=$(git describe --tags)" >> $GITHUB_ENV
+        echo "version_from_scm=$(python -m setuptools_scm)" >> $GITHUB_ENV
+        echo "version_from_setup=$(python -m setup --version)" >> $GITHUB_ENV
+        env | sort
+
+    - name: Diagnostics
+      run: |
+        echo "version_from_scm: ${{ env.version_from_scm }}"
+        env | sort
+
+    - name: Build conda package
+      id: build
+      uses: cascode-labs/build-conda-action@main
+      with:
+        build_options: "-c conda-forge"
+        conda_build_env_filepath: .github/env-build.yml
+        recipe_path: conda
+
+    - name: About the conda package that was built.
+      run: |
+        echo "package-filepath: ${{ steps.build.outputs.package-filepath }}"
