@@ -1,0 +1,10 @@
+swcgeom/Branch.py,sha256=hceSY-wbhxZxeRSz3X2XYRoPS_amYoIT4MoApOch-qU,7932
+swcgeom/BranchTree.py,sha256=EJQ6Eg0UWeVFbMuZnuhXj3eUqYNE1wxD2YuTFZj6xzQ,3271
+swcgeom/Tree.py,sha256=3G1XLQk4oNWfKg4q5avPSpaNkUAS2CvURHBBna2WZ1Q,8956
+swcgeom/__init__.py,sha256=U05paVNdBYxkJtsH8kqkSeCtvCOWIF93CpRULrmlSQ4,114
+swcgeom/painter.py,sha256=rLvumrIWfb_kphhLJPLbrhp4lnE13fNLkowV_4ln0T0,1486
+swcgeom/transforms.py,sha256=EdbQWtyIEM8Ooz9LoulbFrwxXHWU6aUDxSk8agC590s,4258
+swcgeom-0.1.0.dist-info/METADATA,sha256=L56POIgWYtQbAn-gb87KbHufZxO0LnPX9XfisuuKEJ8,432
+swcgeom-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+swcgeom-0.1.0.dist-info/top_level.txt,sha256=hmLyUXWS61Gxl07haswFEKKefYPBVJYlUlol8ghNkjY,8
+swcgeom-0.1.0.dist-info/RECORD,,
