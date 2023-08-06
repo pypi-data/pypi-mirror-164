@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/firestore4kivy/__init__.py
+src/firestore4kivy/firestore4kivy.py
+src/firestore4kivy.egg-info/PKG-INFO
+src/firestore4kivy.egg-info/SOURCES.txt
+src/firestore4kivy.egg-info/dependency_links.txt
+src/firestore4kivy.egg-info/requires.txt
+src/firestore4kivy.egg-info/top_level.txt
