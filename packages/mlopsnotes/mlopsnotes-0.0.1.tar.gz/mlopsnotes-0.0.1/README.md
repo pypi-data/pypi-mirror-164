@@ -1,0 +1,2 @@
+# mlopsnotes
+Notes about mlops

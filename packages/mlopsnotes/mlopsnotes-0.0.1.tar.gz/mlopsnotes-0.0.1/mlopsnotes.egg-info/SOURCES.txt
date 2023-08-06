@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+mlopsnotes/__init__.py
+mlopsnotes/_modidx.py
+mlopsnotes/core.py
+mlopsnotes.egg-info/PKG-INFO
+mlopsnotes.egg-info/SOURCES.txt
+mlopsnotes.egg-info/dependency_links.txt
+mlopsnotes.egg-info/entry_points.txt
+mlopsnotes.egg-info/not-zip-safe
+mlopsnotes.egg-info/requires.txt
+mlopsnotes.egg-info/top_level.txt
