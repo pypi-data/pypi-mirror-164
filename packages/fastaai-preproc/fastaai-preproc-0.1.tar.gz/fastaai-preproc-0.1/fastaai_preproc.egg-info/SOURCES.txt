@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+fastaai_preproc.egg-info/PKG-INFO
+fastaai_preproc.egg-info/SOURCES.txt
+fastaai_preproc.egg-info/dependency_links.txt
+fastaai_preproc.egg-info/entry_points.txt
+fastaai_preproc.egg-info/requires.txt
+fastaai_preproc.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+fastaai-preproc = Protein_pred_and_HMM_search:main
