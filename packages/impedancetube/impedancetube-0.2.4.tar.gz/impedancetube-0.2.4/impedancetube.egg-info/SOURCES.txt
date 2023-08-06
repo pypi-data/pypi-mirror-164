@@ -1,0 +1,16 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+impedancetube/__init__.py
+impedancetube/measurement.py
+impedancetube/tube.py
+impedancetube.egg-info/PKG-INFO
+impedancetube.egg-info/SOURCES.txt
+impedancetube.egg-info/dependency_links.txt
+impedancetube.egg-info/not-zip-safe
+impedancetube.egg-info/requires.txt
+impedancetube.egg-info/top_level.txt
+tests/__init__.py
+tests/test_E2611_two_load.py
+tests/test_initialization.py
