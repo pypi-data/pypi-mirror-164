@@ -1,0 +1,12 @@
+dvc_webdav/__init__.py,sha256=G7Y1A2Qu-AjHzKFLS4KJJVu7CQDdqy9bX3CJTKesHUs,3114
+dvc_webdav/_dvc_webdav_version.py,sha256=GZzKi6xsthfWoolC7wr6IK_CzwSHCzy7R1F8w0wJ0OY,178
+dvc_webdav/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dvc_webdav/tests/cloud.py,sha256=C9vtUv7UTxPTgWd2z53AZ5ukb7gse7dKbPv956LStUo,1591
+dvc_webdav/tests/conftest.py,sha256=UNhnW-wCMbleRbl2FIyk9oVuZiuhkOlbUsnL9XLf_yo,170
+dvc_webdav/tests/fixtures.py,sha256=XzrjpRo0oAlEwPK90v8xx55B4EQmExFDv68ECB_H3NY,949
+dvc_webdav/tests/test_dvc.py,sha256=e5ShU6BLbax056z9gtDLoSgnSQPjFVMjv-Vy2Gco90g,285
+dvc_webdav-2.19.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+dvc_webdav-2.19.0.dist-info/METADATA,sha256=YFoDOIaP_c81oJlL36BKlwXCEahqutE_dff9KSGlvZM,2258
+dvc_webdav-2.19.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+dvc_webdav-2.19.0.dist-info/top_level.txt,sha256=1FdvTor7mW1wn6FRQ7T3G34dDVCr-jyk20j6K8yhsm4,11
+dvc_webdav-2.19.0.dist-info/RECORD,,
