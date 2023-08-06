@@ -1,0 +1,12 @@
+zensols/showfile/__init__.py,sha256=Y-k53COGFkoIbOh4mL2lXha2Jg1prbDURvcI1iexGug,60
+zensols/showfile/app.py,sha256=iolUNgZMq00hIWHOrrrQknL6MZNCbfGUPFdcpBQRpYA,1709
+zensols/showfile/cli.py,sha256=dvfVL05z4uJoteF8Td_x7fMGOeM3o9VPBW5rB8OS5OY,627
+zensols/showfile/screen.py,sha256=jAL4oNT4R_HtJKtu5QULF7OPJYXy40v1baKbS3SC1-g,4668
+zensols/showfile/resources/app.conf,sha256=crI7OxaszKo-CPxjnbtp9C9NQ8haiGdG58bsLltiqDo,1108
+zensols/showfile/resources/obj.conf,sha256=JgMFJVzsnQKjNYmIl3MlXXlJlgsmVB48rfEnr1M3qO4,118
+zensols/showfile/resources/show.scpt,sha256=OQkEnZsDA3-bzjwJU4vW0PvnpwNN8w8kSPK82sRlUAw,654
+zensols.showfile-0.0.1.dist-info/METADATA,sha256=dgJfPqTEzriraDMWm5eu2ekESBoN8LgSyAJmhdpfmOw,2321
+zensols.showfile-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+zensols.showfile-0.0.1.dist-info/entry_points.txt,sha256=TFu4kKYVfyPuVXb8TEpRQ6s01mJqvzlB28qB3pHdNcI,51
+zensols.showfile-0.0.1.dist-info/top_level.txt,sha256=OS-Dy-XB3ZmHLkSGIQoZgtS3ckJXsT92jyXtek6vPuw,17
+zensols.showfile-0.0.1.dist-info/RECORD,,
