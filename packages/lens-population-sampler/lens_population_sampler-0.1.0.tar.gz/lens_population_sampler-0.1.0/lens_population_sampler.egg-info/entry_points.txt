@@ -1,0 +1,2 @@
+[console_scripts]
+lens_population_sampler = lens_population_sampler.cli:main
