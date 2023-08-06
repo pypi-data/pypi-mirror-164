@@ -1,0 +1,5 @@
+[console_scripts]
+collective-stats = collective.stats.export:main
+
+[z3c.autoinclude.plugin]
+target = plone
