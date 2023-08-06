@@ -1,0 +1,12 @@
+merge_res/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+merge_res/__main__.py,sha256=WUjW4gO9HM1IZ6ploMry809ACqbqffrDWIoRehnATZk,70
+merge_res/cli.py,sha256=7l5ou8kT8tqVhWqjlaaE8nO7dk9Ld8qdskLmShgIQvs,836
+merge_res/merge.py,sha256=Q0HMHRSctHymSkKwfffM8aEPAUxwt7U0uIDz3jPcuZ8,478
+merge_res/merge_file.py,sha256=MC3kiTgwUXTgODfiHiuM7ThzoDZUW6zGJOC4tpn5vQc,1255
+merge_res/merge_public.py,sha256=gE6NeqbEo33CaZaKP4QOhwWABo4eOp1pK9UVwHB0sCU,2327
+merge_res/merge_xml.py,sha256=cT-X8Gz685UMHnqDSRwHwyFtE0Uj4VRfkvboAFFPi-Q,2212
+merge_res-0.0.8.dist-info/METADATA,sha256=p1UYd3vTd_b3J_V8E3beOHxE0z41E3tVXsfDXwzpME8,140
+merge_res-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+merge_res-0.0.8.dist-info/entry_points.txt,sha256=xn3esms3snM2sqc0GG9FY9ovdcPIj6oaIWztySDjcr0,49
+merge_res-0.0.8.dist-info/top_level.txt,sha256=SH04BIyvE29NZ1yvXS217sMccox56502hLJDFJ79g6U,10
+merge_res-0.0.8.dist-info/RECORD,,
