@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/rblx_open_cloud.egg-info/PKG-INFO
+src/rblx_open_cloud.egg-info/SOURCES.txt
+src/rblx_open_cloud.egg-info/dependency_links.txt
+src/rblx_open_cloud.egg-info/requires.txt
+src/rblx_open_cloud.egg-info/top_level.txt
