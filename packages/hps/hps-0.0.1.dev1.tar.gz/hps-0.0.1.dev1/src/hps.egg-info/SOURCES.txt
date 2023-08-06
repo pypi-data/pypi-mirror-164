@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/hps.egg-info/PKG-INFO
+src/hps.egg-info/SOURCES.txt
+src/hps.egg-info/dependency_links.txt
+src/hps.egg-info/top_level.txt
