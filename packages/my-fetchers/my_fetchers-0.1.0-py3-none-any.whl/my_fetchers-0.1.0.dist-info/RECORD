@@ -1,0 +1,5 @@
+my_fetchers/__init__.py,sha256=JHRb2gSDOOB_jqHVLe_jRyuToxbNG4GEv8uqT5uk8kA,78
+my_fetchers/get_all_links.py,sha256=YGqLVDLVTOrmnbvH19LCeN3R40Czwz-kRvdEnYd1hLc,353
+my_fetchers-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+my_fetchers-0.1.0.dist-info/METADATA,sha256=tQBFa_Pu7ctYgvN27E9PC3IH21-q9Wt9uPVEmv36DOU,436
+my_fetchers-0.1.0.dist-info/RECORD,,
