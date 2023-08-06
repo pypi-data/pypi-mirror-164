@@ -1,0 +1,14 @@
+sentence_transformers
+
+[all]
+sentence_transformers
+transformers
+
+[qa]
+transformers
+
+[summarization]
+transformers
+
+[unsupervised]
+sentence_transformers

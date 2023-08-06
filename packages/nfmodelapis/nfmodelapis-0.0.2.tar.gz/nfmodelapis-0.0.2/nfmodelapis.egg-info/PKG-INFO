@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: nfmodelapis
+Version: 0.0.2
+Summary: Data Curation over Time
+Home-page: https://github.com/nfflow/nfmodelapis
+Author: Abhijith Neil Abraham
+Author-email: abhijithneilabrahampk@gmail.com
+License: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: qa
+Provides-Extra: summarization
+Provides-Extra: unsupervised
+Provides-Extra: all
+License-File: LICENSE
+
+# nfmodelapis
+Central repo for all model training, and pipeline tools for usage with all data collection APIs from nfflow.
+
+
+Example:
+
+```
+from nfmodelapis.text.SentenceEmbedder import ModelSelect
+trainer = ModelSelect(model_name,
+                      model_output_path,
+                      model_architecture=model_architecture
+                       ).return_trainer()
+trainer.train(data_path=os.path.join(
+                save_timestamp,json_filename))
+```
