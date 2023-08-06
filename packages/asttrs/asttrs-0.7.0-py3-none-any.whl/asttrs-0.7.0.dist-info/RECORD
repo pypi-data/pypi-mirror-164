@@ -1,0 +1,12 @@
+asttrs/__init__.py,sha256=eFwBPkV6CVvaSBughvk8LKlOUAaQO7FKpGUFmpxdAeI,28
+asttrs/_ast.py,sha256=Wq621kYVDF6fZUIXD-1D5dPlNkQ8hKLxDiFkGimz59k,1492
+asttrs/_base.py,sha256=UiiLNVqIQ0W1p2KeritvQYUlhPQe2bfIe-xd-CYU7ag,5335
+asttrs/_py3_10.py,sha256=Q7aaSPio5Tk_RxLfH8MfSrqbQgO1iMnLvefr7nPiVOE,53636
+asttrs/_py3_7.py,sha256=MqtSxViBUQCtihrsBOfjNcpf8jblL9bO--SefTbFEIs,8844
+asttrs/_py3_8.py,sha256=IRzhD8rqoEEf9Tw5vJBE2Mxag84NtXvOe37S7BCRVzo,9314
+asttrs/_py3_9.py,sha256=MDyzh1AbiVqYo9SdoT6-t3nryXgYzZBLcs8jj7h64gs,41115
+asttrs/utils.py,sha256=8Yq77Kf9Fu8AhalzJ-hhBRbVsUq8P1d_sRw8RhNXuiM,857
+asttrs-0.7.0.dist-info/LICENSE,sha256=8nNYGMPZiwuoTpRS80GjJs983FnlSs5kawck9QK_9-U,1062
+asttrs-0.7.0.dist-info/WHEEL,sha256=V7iVckP-GYreevsTDnv1eAinQt_aArwnAxmnP0gygBY,83
+asttrs-0.7.0.dist-info/METADATA,sha256=knQtHOmKUMNKYP4rK4BNFqrDPlxfGdfnKViq4tIFFxM,752
+asttrs-0.7.0.dist-info/RECORD,,
