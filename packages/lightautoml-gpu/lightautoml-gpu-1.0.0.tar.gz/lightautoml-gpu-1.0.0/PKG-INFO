@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: lightautoml-gpu
+Version: 1.0.0
+Summary: Fast and customizable framework for automatic ML model creation with GPU acceleration (AutoML)
+Home-page: https://lightautoml.readthedocs.io/en/latest/
+Author: Alexander Ryzhkov
+Author-email: alexmryzhkov@gmail.com
+License: UNKNOWN
+Description: Long description of LightAutoML-GPU
+Platform: UNKNOWN
+Requires-Python: >=3.6.1,<3.10
+Provides-Extra: afg
+Provides-Extra: all
+Provides-Extra: cv
+Provides-Extra: nlp
+Provides-Extra: report
