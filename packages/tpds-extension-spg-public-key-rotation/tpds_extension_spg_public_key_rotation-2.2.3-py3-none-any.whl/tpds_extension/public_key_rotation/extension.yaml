@@ -1,0 +1,19 @@
+name: spg_public_key_rotation
+
+frontend:
+  entrypoints:
+    - name: public_key_rotation
+      title: Secure Public Key Rotation
+      description: A small description about Public Key Rotation
+      entry: TrustFlex/Public Key Rotation.ipynb
+      icon:
+        name: public_key_rotation_png
+        path: TrustFlex/assets/Public key rotation.png
+      applications:
+        - Accessory Authentication
+        - Disposable Authentication
+        - IoT
+      devices:
+        - ATECC608B-TFLXTLS
+      boards:
+        - DM320118
