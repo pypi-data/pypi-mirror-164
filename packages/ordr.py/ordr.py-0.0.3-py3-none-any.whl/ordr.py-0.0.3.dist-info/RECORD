@@ -1,0 +1,11 @@
+ordr/__init__.py,sha256=C51QtCfg2pUAgidzdZNBNjsEad2FvJy55XEk1bHOLwc,196
+ordr/asyncclient.py,sha256=thAEIFAR3U7w9FujH-Dhnxhf2chmDBCiUG7dqPO5OiY,5664
+ordr/classes.py,sha256=fujurDq2HQIkoT4r-1DjLOiCSscId09x7NuEdxokg8E,6104
+ordr/client.py,sha256=omsTzrD5Iz59Eadj3sJEgYUeW6pqndUC8RhvWJXBXq4,5081
+ordr/constant.py,sha256=wILHKWC2wcWYcNt8U9QmR3M8qcek2zw8zD7CeloDF1w,2592
+ordr/respond.py,sha256=4eB54Wvpk0bBjze_CvmowO8XG9oChFJl2c2nhPn1KZ4,3087
+ordr.py-0.0.3.dist-info/LICENSE,sha256=wwNIussUz9GmciXAOwo5gLqoIUKi9AG-Bukbl57KSPw,1059
+ordr.py-0.0.3.dist-info/METADATA,sha256=siOXumY-Ou9szl14DugOO0xKiuCyCif0o6_dWRhqc5s,1225
+ordr.py-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ordr.py-0.0.3.dist-info/top_level.txt,sha256=OVd0TEzR1eJJuN-3lnFV0mJpeXlVUR5qy8aFqYyhPJQ,5
+ordr.py-0.0.3.dist-info/RECORD,,
