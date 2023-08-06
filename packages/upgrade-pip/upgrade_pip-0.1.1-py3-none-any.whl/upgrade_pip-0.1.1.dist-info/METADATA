@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: upgrade-pip
+Version: 0.1.1
+Summary: upgrade packages pip outdated
+Author: Xnuvers007 (Indra Dwi A)
+Author-email: indra111.ida@gmail.com
+Keywords: python,pip,packages,update,outdated,internet
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# UPGRADE-PIP
+
+this is packages for upgrade all packages python if packages has been outdated
+
+pip install upgrade-pip
+
+# how to use
+
+first you need to install it "pip install upgrade-pip"
+
+# usage
+
+  > from start import startupgradepip
+
+  > startupgradepip()
