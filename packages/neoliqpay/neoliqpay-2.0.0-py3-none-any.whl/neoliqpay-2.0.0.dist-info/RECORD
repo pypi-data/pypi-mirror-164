@@ -1,0 +1,9 @@
+neoliqpay/__init__.py,sha256=-JrJGKgMv82GkBm6DCq2uqlEsyyUZ9Fz8z_lRw0vrjE,183
+neoliqpay/async_liqpay.py,sha256=xQCOhvVwF7jdGy39rpTOjS3JcgxBu7faLb7KG68DdqE,1012
+neoliqpay/core.py,sha256=TWm32sxSqlnp86UfLBkAtuoayJyR9ihiEaFwnaXFMOQ,5911
+neoliqpay/sync_liqpay.py,sha256=dG7vIM8iDOBxAttBkqkklcu23MDCx0Lqb01yu0nugTA,993
+neoliqpay-2.0.0.dist-info/LICENSE,sha256=Mpn-qfaVOZdga3SuB0h6Hcs7XOhqVdn1RN_Tq8FnJFQ,1063
+neoliqpay-2.0.0.dist-info/METADATA,sha256=CnhZbifWYvU-Fdu-kxdrHjpVjcPkt4MeIn7bH9rUdPI,7390
+neoliqpay-2.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+neoliqpay-2.0.0.dist-info/top_level.txt,sha256=CECKPWmIcVJwBVlFZfC1DEQ6fJIx0PLKg6FKlc6Inf0,10
+neoliqpay-2.0.0.dist-info/RECORD,,
