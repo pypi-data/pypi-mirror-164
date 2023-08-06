@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: VMNeuralNetwork
+Version: 1.171
+Summary: Neural network framework
+Home-page: UNKNOWN
+Author: Var Moon
+Author-email: bbala1351998@gmail.com
+License: MIT
+Keywords: conversion
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+Neural network framework for learning purposes
+

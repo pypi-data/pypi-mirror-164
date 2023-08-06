@@ -1,0 +1,11 @@
+README.md
+setup.py
+VMNeuralNetwork/Activation_Functions.py
+VMNeuralNetwork/Layer.py
+VMNeuralNetwork/NN_framework.py
+VMNeuralNetwork/__init__.py
+VMNeuralNetwork.egg-info/PKG-INFO
+VMNeuralNetwork.egg-info/SOURCES.txt
+VMNeuralNetwork.egg-info/dependency_links.txt
+VMNeuralNetwork.egg-info/requires.txt
+VMNeuralNetwork.egg-info/top_level.txt
