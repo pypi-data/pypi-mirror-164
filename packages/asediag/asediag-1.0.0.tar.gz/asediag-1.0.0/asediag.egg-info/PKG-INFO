@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: asediag
+Version: 1.0.0
+Summary: Aerosol SE-data diagnostics tool
+Home-page: https://github.com/TaufiqHassan/asediag
+Author: Taufiq Hassan
+Author-email: taufiq.hassan@pnnl.gov
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+License-File: LICENSE
+License-File: AUTHORS.rst
+
+# asediag
+Aerosol process analysis in model-native Spectral Element (SE) grid
+
+
+

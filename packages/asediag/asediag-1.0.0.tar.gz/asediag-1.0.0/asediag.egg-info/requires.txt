@@ -1,0 +1,10 @@
+pandas
+scipy
+setuptools
+netCDF4
+xarray
+cartopy
+matplotlib
+cmaps
+pretty_html_table
+pytest
