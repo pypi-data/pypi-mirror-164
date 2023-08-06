@@ -1,0 +1,4 @@
+[console_scripts]
+load-db=mdbutil.loaddb:load_db
+run-sql=mdbutil.runsql:run_sql
+
