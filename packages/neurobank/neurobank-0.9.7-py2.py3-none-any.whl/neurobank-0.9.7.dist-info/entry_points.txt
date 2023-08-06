@@ -1,0 +1,3 @@
+[console_scripts]
+nbank = nbank.script:main
+nbank-migrate = nbank.migrate:main
