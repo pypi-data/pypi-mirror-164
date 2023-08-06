@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+pylcount/__init__.py
+pylcount/__main__.py
+pylcount/counter.py
+pylcount.egg-info/PKG-INFO
+pylcount.egg-info/SOURCES.txt
+pylcount.egg-info/dependency_links.txt
+pylcount.egg-info/entry_points.txt
+pylcount.egg-info/requires.txt
+pylcount.egg-info/top_level.txt
