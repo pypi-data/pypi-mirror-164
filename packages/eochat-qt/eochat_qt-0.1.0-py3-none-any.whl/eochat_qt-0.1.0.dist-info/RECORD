@@ -1,0 +1,12 @@
+eochat_qt/__init__.py,sha256=gQIx0UrWwFCllcA3FhLhVucagxdBMrFlqe_6ziaDHNY,23
+eochat_qt/config.py,sha256=kGykHoULk7V0BgxTQA0mc35mm-N5LxMvAD06KebLhbQ,4738
+eochat_qt/eo_defs.py,sha256=PKL_ZCne6OmFbmZ2Gp5hgq57Ci_0IFikHiK2tr0NRtw,136
+eochat_qt/helpers.py,sha256=eky6ARBUlkMHCham2hmwcMWhkvUT9r6quvJ7qqNH4KQ,515
+eochat_qt/main.py,sha256=AdKqE9pSCIVNUjttthjUGNeevRl05bLhbtt6HvM6xow,10047
+eochat_qt/mainwindow.py,sha256=7TOsKks0CBQSTTqmn2wNLUVXV8DJIFO3uDTWRVgwpB4,1848
+eochat_qt-0.1.0.dist-info/LICENSE,sha256=5X8cMguM-HmKfS_4Om-eBqM6A1hfbgZf6pfx2G24QFI,35150
+eochat_qt-0.1.0.dist-info/METADATA,sha256=L-ORhGijR2GyjUicFsDALvm9T2NITDPp_tkp9NufciA,676
+eochat_qt-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+eochat_qt-0.1.0.dist-info/entry_points.txt,sha256=zEk6H5qxgCyugPkRIx0gQf2JMkNALWVMXZgzrAgdK0I,47
+eochat_qt-0.1.0.dist-info/top_level.txt,sha256=Z8_C9KBibHvPi-pFHlYvBJPUHCwRDCm5lreUoJuK5C8,10
+eochat_qt-0.1.0.dist-info/RECORD,,
