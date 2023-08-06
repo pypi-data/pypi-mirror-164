@@ -1,0 +1,9 @@
+kubefox_sdk/__init__.py,sha256=7zKwtVehrZBseUqFsi0vUaMERJVoy_NizkedevvOUi8,63
+kubefox_sdk/kubefox_pb2.py,sha256=9Ws3vwbgNaDlHUZtADoIiAbBwOlgh8DpphQ7NAOQ67w,9752
+kubefox_sdk/kubefox_pb2_grpc.py,sha256=DzBZyo-sZ71BU53qJKdyudgPm8ggDoixNceCPuslM_8,8529
+kubefox_sdk/sdk.py,sha256=5Omcl_S7Oatge8Dw7k05KQhyJ6Yi6lBGPXcE6q3vPJk,4919
+kubefox_sdk-0.2.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+kubefox_sdk-0.2.1.dist-info/METADATA,sha256=dgFiPWggmC5OlLUGPosVuD2KitYL8kLWFnQgv5fY-fQ,545
+kubefox_sdk-0.2.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+kubefox_sdk-0.2.1.dist-info/top_level.txt,sha256=0n8sVNqGEjcCd0ENlDQ04MEl9w7tVJTsmEIKj3m34XY,12
+kubefox_sdk-0.2.1.dist-info/RECORD,,
