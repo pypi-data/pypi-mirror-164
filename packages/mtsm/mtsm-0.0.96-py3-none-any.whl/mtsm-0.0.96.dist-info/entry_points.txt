@@ -1,0 +1,2 @@
+[console_scripts]
+mtsm = mtsm:main
