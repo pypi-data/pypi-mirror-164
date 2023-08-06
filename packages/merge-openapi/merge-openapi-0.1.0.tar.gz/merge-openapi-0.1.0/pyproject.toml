@@ -1,0 +1,31 @@
+[project]
+name = "merge-openapi"
+version = "0.1.0"
+description = "Merge all API documentation into a single document!"
+authors = [
+    { name = "aprilahijriyan", email = "hijriyan23@gmail.com" },
+]
+dependencies = [
+    "requests>=2.28.1",
+]
+requires-python = ">=3.8"
+readme = "README.md"
+
+[project.license]
+text = "MIT"
+
+[project.scripts]
+merge-openapi = "merge_openapi.__main__:main"
+
+[project.optional-dependencies]
+
+[build-system]
+requires = [
+    "pdm-pep517>=1.0.0",
+]
+build-backend = "pdm.pep517.api"
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "pre-commit>=2.20.0",
+]
