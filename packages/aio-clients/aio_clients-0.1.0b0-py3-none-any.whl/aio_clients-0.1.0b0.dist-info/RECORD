@@ -1,0 +1,7 @@
+aio_clients/__init__.py,sha256=_NSzdLFeaNuxEUuNfqSxnSsqxntU95BWPyL3IkkHwNw,31
+aio_clients/client.py,sha256=vNmupdb4eIQPgY_yO8omUfNvqBwPfxCmh_zyQbe5CII,3899
+aio_clients/struct.py,sha256=O-dKgnEgzgnHUQKh_JLvSbs-KX4yOqrkqZ_fLWTw1k4,342
+aio_clients-0.1.0b0.dist-info/LICENSE,sha256=RC9biQnuele0t3WjsW9LCQ5DeEi5HTGPV2Y8HjjbvzU,1067
+aio_clients-0.1.0b0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+aio_clients-0.1.0b0.dist-info/METADATA,sha256=1dbwf8qsJB1lE5xMQXYfwHQc6AjZzSARhVmCH7gD6Es,885
+aio_clients-0.1.0b0.dist-info/RECORD,,
