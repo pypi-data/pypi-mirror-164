@@ -1,0 +1,9 @@
+.gitignore
+3
+LICENSE.md
+README.md
+setup.py
+3_py.egg-info/PKG-INFO
+3_py.egg-info/SOURCES.txt
+3_py.egg-info/dependency_links.txt
+3_py.egg-info/top_level.txt
