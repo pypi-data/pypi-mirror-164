@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: bangtal
+Version: 0.3.3
+Summary: Python wrapper for Bangtal
+Home-page: https://bangtal.bosornd.com
+Author: BoSo RnD
+Author-email: drajin.cho@bosornd.com
+License: UNKNOWN
+Keywords: bangtal
+Platform: win32
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3
+
+UNKNOWN
+
