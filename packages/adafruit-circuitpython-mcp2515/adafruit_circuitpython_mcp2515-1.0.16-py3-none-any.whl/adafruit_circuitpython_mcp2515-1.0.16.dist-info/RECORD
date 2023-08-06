@@ -1,0 +1,8 @@
+adafruit_mcp2515/__init__.py,sha256=oniY3w24hrc7xZ3FhD5wCAryBqW7WyK8xyTbNpqDRLk,28722
+adafruit_mcp2515/timer.py,sha256=pXfFKE4-pGGn3sHEjK5ZvsAioumI4Rvo1Nq7wQkOcNw,880
+adafruit_mcp2515/canio/__init__.py,sha256=Juoh03mcYtWLpnr5090FS1PQgwxBnNSxbIzC07gCkXw,7271
+adafruit_circuitpython_mcp2515-1.0.16.dist-info/LICENSE,sha256=lL6CpRSFW8FPg_7Uk25HW3Ie6YBGNLf4Ja6oU0sYvg0,1104
+adafruit_circuitpython_mcp2515-1.0.16.dist-info/METADATA,sha256=tuA-5eBSeDPAnpWWy2xuYy_OcWO9227nbNR732U-avQ,3696
+adafruit_circuitpython_mcp2515-1.0.16.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+adafruit_circuitpython_mcp2515-1.0.16.dist-info/top_level.txt,sha256=ps97442nvW9e95zDTtI62kISX8N_Eka_Z92KdTlWKl8,17
+adafruit_circuitpython_mcp2515-1.0.16.dist-info/RECORD,,
