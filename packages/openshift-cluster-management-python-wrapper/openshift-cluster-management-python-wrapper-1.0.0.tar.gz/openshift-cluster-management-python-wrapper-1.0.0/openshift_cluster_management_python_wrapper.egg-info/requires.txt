@@ -1,0 +1,5 @@
+colorlog
+ocm-python-client
+openshift-python-wrapper
+requests
+pyyaml
