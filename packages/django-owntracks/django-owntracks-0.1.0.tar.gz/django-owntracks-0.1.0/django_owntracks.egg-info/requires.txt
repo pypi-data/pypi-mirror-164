@@ -1,0 +1,14 @@
+celery
+django-mqtt
+Django>=3.2
+qrcode
+
+[dev]
+black
+flake8
+psycopg2-binary
+
+[standalone]
+celery
+django-environ
+redis

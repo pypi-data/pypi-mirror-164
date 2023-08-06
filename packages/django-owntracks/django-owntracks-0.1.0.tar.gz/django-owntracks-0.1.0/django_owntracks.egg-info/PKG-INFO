@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: django-owntracks
+Version: 0.1.0
+Summary: Support for Owntracks
+Home-page: https://github.com/kfdm/django-owntracks
+Author: Paul Traylor
+License: MIT License
+Project-URL: Source, https://github.com/kfdm/django-owntracks
+Project-URL: Tracker, https://github.com/kfdm/django-owntracks/issues
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: standalone
+
+# django-owntracks
+
+[![PyPI](https://img.shields.io/pypi/v/django-owntracks)](https://pypi.org/project/django-owntracks/)
+
+**django-owntracks** add basic support for viewing [owntracks] data in the context of django application.
+
+[owntracks]: https://owntracks.org/
+
+# Usage
+
+- Add `"owntracks"` and `"dmqtt"` to your `INSTALLED_APPS`
+
+```python
+INSTALLED_APPS = [
+    "owntracks",
+    # Third Party
+    "dmqtt",
+    # Core Django
+    "django.contrib.admin",
+    "django.contrib.auth",
+    "django.contrib.contenttypes",
+    "django.contrib.sessions",
+    "django.contrib.messages",
+    "django.contrib.staticfiles",
+]
+```
+
+- Add `MQTT_HOST`, `MQTT_USER`, `MQTT_PASS`, `MQTT_PORT`
