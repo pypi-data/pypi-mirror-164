@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+stepbystep/__init__.py
+stepbystep/tracer.py
+stepbystep/wrapper.py
+stepbystep.egg-info/PKG-INFO
+stepbystep.egg-info/SOURCES.txt
+stepbystep.egg-info/dependency_links.txt
+stepbystep.egg-info/top_level.txt
