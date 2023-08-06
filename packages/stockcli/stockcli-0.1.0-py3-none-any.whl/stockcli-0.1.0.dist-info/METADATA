@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: stockcli
+Version: 0.1.0
+Summary: This is a CLI tool to retrieve data from yahoo finance
+Home-page: https://github.com/hasindusithmin/financecli.git
+Author: hasindu sithmin
+Author-email: hasindusithmin64@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: httpx (>=0.23.0,<0.24.0)
+Requires-Dist: mplfinance (>=0.12.9-beta.1,<0.13.0)
+Requires-Dist: prettytable (>=3.3.0,<4.0.0)
+Requires-Dist: typer[all] (>=0.6.1,<0.7.0)
+Requires-Dist: yfinance (>=0.1.74,<0.2.0)
+Project-URL: Repository, https://github.com/hasindusithmin/financecli.git
+Description-Content-Type: text/markdown
+
+# stockcli
+
+## _This is a CLI tool :hammer_and_wrench: to retrieve data from [finance.yahoo.com](https://finance.yahoo.com/)._
+
+#### :high_brightness: Available commands :high_brightness:
+
+![cli](https://i.ibb.co/j43zt5L/cli.png)
