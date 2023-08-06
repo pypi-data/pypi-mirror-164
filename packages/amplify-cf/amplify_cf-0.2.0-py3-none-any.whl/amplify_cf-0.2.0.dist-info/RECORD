@@ -1,0 +1,11 @@
+amplify_cf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+amplify_cf/cli.py,sha256=HqO-Ke9ml3kNTAJYzssI2PplKAOsJQ5dQGE4szVa1Mk,260
+amplify_cf/config.py,sha256=ECZe0Eb8dr7NptDXSPQwQwrXHnTgWJWUhuN5TIDQHs8,2129
+amplify_cf/env.py,sha256=sxhLHQijHXPN6WX526pxYEp56kibw9TYEK2d6QmZNCE,533
+amplify_cf/ext.py,sha256=7eB_dWuThTKqIuQnNKlG3-LM6fBxWCG9Mx8NfAlywBY,3601
+amplify_cf/schema.py,sha256=PyCn4MOXWV6YLllNYVeRqSXETMhOQ8Q5-BqgI8jZZwQ,3289
+amplify_cf/utils.py,sha256=GTYD4tFRnETeOHalDVplBJ_eUYcESsVZV0IC6FLj4MQ,1529
+amplify_cf-0.2.0.dist-info/entry_points.txt,sha256=Cgt3qeRKGA6mfXH6tJ80MsYTwpVejvd2qvsk0H7t5q8,49
+amplify_cf-0.2.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+amplify_cf-0.2.0.dist-info/METADATA,sha256=0o9EkFeicOS0mpQjQV_XVi3fx2Pe2qK10V9mqdWFrYU,688
+amplify_cf-0.2.0.dist-info/RECORD,,
