@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: poinc
+Version: 0.1.2
+Summary: Python Open Infrastructure for Network Computing inspired by BOINC project
+Home-page: https://github.com/tetsuji16/poinc
+Author: T.Kato, S.Namba
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pysftp (>=0.2)
+
+# poinc
+Python Open Infrastructure for Network Computing inspired by BOINC project
+
+
