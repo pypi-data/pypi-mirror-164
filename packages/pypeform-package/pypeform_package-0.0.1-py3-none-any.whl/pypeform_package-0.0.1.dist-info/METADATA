@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: pypeform-package
+Version: 0.0.1
+Summary: Python Package for Typeform Response Piping
+Project-URL: Homepage, https://github.com/vaxa-tech/pypeform
+Project-URL: Bug Tracker, https://github.com/vaxa-tech/pypeform/issues
+Author-email: Curtis West <curtis@curtiswest.net>
+License: MIT License
+        
+        Copyright (c) 2022 Curtis West
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Pypeform: Python Package for Typeform Response Piping
+
+Pypeform is a Python package designed to make inbound Typeform responses easier to work with. Provide data as a [Flask request](#flask-requests) or [JSON-based dictionary](#json-data), and access the response in a Pythonic/OOP manner.
+
+__Note:__ not all field types have been implemented, but most basic fields are supported. Feel free to contribute with a PR.
+
+# Installation
+Install Pypeform from PyPi:
+```
+pip install pypeform
+```
+
+# Usage
+There's a few handy ways to use Pypeform, depending on how you're receiving the webhook data. Most of the time, you'll be dealing with an `Event` object -- a form submission. However, you can also use the `FormResponse` object directly it's JSON constructors if you don't need the `event_id` etc.
+
+## Flask requests
+This option is useful if you're handling Typeform data in a Flask web application. This is often the case when you're using a Google Cloud Function, for example.
+
+With a full requests object, you also have the option to verify the response is legitimate, using a pre-shared secret provided in the Typeform webhook dialog. 
+
+```python
+from pypeform import Event
+
+request = ... # Flask request object
+my_event = Event.from_request(request=request)
+form_response = my_event.form_response
+
+for answer in form_response.answers:
+    print(answer)
+
+for field in form_response.fields:
+    print(field)
+
+for variable in form_response.variables:
+    print(variable)
+```
+
+
+## JSON Data
+If you have the JSON data of the response in hand, you can still construct an `Event` object:
+```python
+import json
+from pypeform import Event
+
+my_json_data = json.loads(...)
+
+# event_json must be a dict, as provided by the Typeform webhook
+Event.from_event_json(event_json=my_json_data)
+```
+
+In future versions, we'll add the ability to verify the response using the pre-shared secret (although you'll have to extract the `typeform-signature` header from the webhook headers yourself).
