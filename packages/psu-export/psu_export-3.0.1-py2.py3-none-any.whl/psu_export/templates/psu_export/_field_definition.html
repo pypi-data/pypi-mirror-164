@@ -1,0 +1,30 @@
+{% load base_taglib %}
+
+<tr id="field-{{field_definition.id}}" class="code">
+    <td align="center">
+        <input type="checkbox" {%if field_definition.export_enabled%}checked{%endif%} onclick="toggle_field($(this), {{field_definition.id}});" />
+    </td>
+    <td><b>{{field_definition.name}}</b></td>
+    <td>
+        <input type="text" name="data_type" value="{{field_definition.data_type}}" class="form-control" onchange="update_field($(this), {{field_definition.id}})" />
+    </td>
+    <td>
+        <input type="text" name="key" value="{{field_definition.key|default:''}}" class="form-control" onchange="update_field($(this), {{field_definition.id}})" />
+    </td>
+    <td>
+        <input type="text" name="description" value="{{field_definition.description|default:''}}" class="form-control" onchange="update_field($(this), {{field_definition.id}})" />
+    </td>
+    <td>
+        <input type="text" name="suggested_cognos_name" value="{{field_definition.suggested_cognos_name}}" class="form-control" onchange="update_field($(this), {{field_definition.id}})" />
+    </td>
+    <td>
+        <input type="text" name="suggested_cognos_stage_type" value="{{field_definition.suggested_cognos_stage_type}}" class="form-control" onchange="update_field($(this), {{field_definition.id}})" />
+    </td>
+    <td>
+        <input type="text" name="suggested_cognos_type" value="{{field_definition.suggested_cognos_type}}" class="form-control" onchange="update_field($(this), {{field_definition.id}})" />
+    </td>
+    <td>
+        <input type="text" name="format_data" value="{{field_definition.format_data|default:''}}" class="form-control" onchange="update_field($(this), {{field_definition.id}})" />
+    </td>
+</tr>
+
