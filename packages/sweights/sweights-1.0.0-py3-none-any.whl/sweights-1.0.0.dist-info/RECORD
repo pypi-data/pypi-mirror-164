@@ -1,0 +1,10 @@
+sweights/__init__.py,sha256=ntGWQigtcXLypToG0vJZZTm-vrbQL3_SnTrmtjh_bl4,533
+sweights/covariance.py,sha256=fmv3JQWEncJRi3lYBETaVwuVzEoxl6czHjtzbIUzJZk,6268
+sweights/cow.py,sha256=P3rsKMHaSCLK45mUE6vv7rOM59t9Sq1gI_3Fj4StuHc,5465
+sweights/independence.py,sha256=nkTxh0NuwoEddUL0B7IlhyFjPXGS5xt3hQadcEgkE3Y,2823
+sweights/sweight.py,sha256=YwC5a_f2K0Bk8Cs8ku15obceJgmhOY37WvN2AcjO7e4,24782
+sweights-1.0.0.dist-info/LICENSE,sha256=NVlGiVzjS0lDMiQ7LQv1vkQjwi2nxpbK_BKEQZ-_bM0,1071
+sweights-1.0.0.dist-info/METADATA,sha256=sKdl4_061lG7M2tiWPji0pQQei-b3sfMcEUOAt6pFzY,1576
+sweights-1.0.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+sweights-1.0.0.dist-info/top_level.txt,sha256=u7JXWP9YCnMxFKVJ8lZSGnwc8pELxYrQf5a3FEYoGCk,9
+sweights-1.0.0.dist-info/RECORD,,
