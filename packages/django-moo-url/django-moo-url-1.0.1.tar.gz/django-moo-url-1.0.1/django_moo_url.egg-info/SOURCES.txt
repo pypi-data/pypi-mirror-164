@@ -1,0 +1,7 @@
+README.md
+setup.py
+django_moo_url.egg-info/PKG-INFO
+django_moo_url.egg-info/SOURCES.txt
+django_moo_url.egg-info/dependency_links.txt
+django_moo_url.egg-info/requires.txt
+django_moo_url.egg-info/top_level.txt
