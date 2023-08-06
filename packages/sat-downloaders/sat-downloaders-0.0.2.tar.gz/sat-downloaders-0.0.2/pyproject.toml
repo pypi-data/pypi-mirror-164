@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "sat-downloaders"
+version = "0.0.2"
+description = ""
+authors = ["Martin Raspaud <martin.raspaud@smhi.se>"]
+license = "GPLv3"
+
+[tool.poetry.dependencies]
+python = ">=3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning-plugin"]
+build-backend = "poetry.masonry.api"
+
+[tool.poetry-dynamic-versioning]
+enable = true
