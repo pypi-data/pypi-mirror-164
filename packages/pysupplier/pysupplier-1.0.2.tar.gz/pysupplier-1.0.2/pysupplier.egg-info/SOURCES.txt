@@ -1,0 +1,9 @@
+setup.py
+gys/__init__.py
+pysupplier/__init__.py
+pysupplier/text3.py
+pysupplier.egg-info/PKG-INFO
+pysupplier.egg-info/SOURCES.txt
+pysupplier.egg-info/dependency_links.txt
+pysupplier.egg-info/requires.txt
+pysupplier.egg-info/top_level.txt
