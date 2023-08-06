@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+omccolors/__init__.py
+omccolors/omccolors.py
+omccolors.egg-info/PKG-INFO
+omccolors.egg-info/SOURCES.txt
+omccolors.egg-info/dependency_links.txt
+omccolors.egg-info/requires.txt
+omccolors.egg-info/top_level.txt
