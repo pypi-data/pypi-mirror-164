@@ -1,0 +1,5 @@
+postgres_check_operator/__init__.py,sha256=t0rqHvK-ZQq-F3U636Z4SDDGSZ-H_Pf_bEQwIAdolsc,269
+postgres_check_operator/postgres_check_operator.py,sha256=CCLd2TFfKDe_RyYfO4Vf_gt2Dbzy6h59gQ6mkaZeJp4,9865
+amsterdam_airflow_postgres_check_operator-1.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+amsterdam_airflow_postgres_check_operator-1.1.dist-info/METADATA,sha256=nTeZ8TzhKXjI2xipQMVNndhVcQq2ZScf3HODUz0jw_o,943
+amsterdam_airflow_postgres_check_operator-1.1.dist-info/RECORD,,
