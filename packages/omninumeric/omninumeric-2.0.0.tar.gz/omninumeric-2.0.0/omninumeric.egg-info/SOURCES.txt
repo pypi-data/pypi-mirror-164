@@ -1,0 +1,16 @@
+pyproject.toml
+setup.cfg
+setup.py
+omninumeric/__init__.py
+omninumeric/omninumeric.py
+omninumeric.egg-info/PKG-INFO
+omninumeric.egg-info/SOURCES.txt
+omninumeric.egg-info/dependency_links.txt
+omninumeric.egg-info/top_level.txt
+omninumeric/cyrillic/__init__.py
+omninumeric/cyrillic/cyrillic.py
+omninumeric/greek/__init__.py
+omninumeric/greek/greek.py
+omninumeric/greek/old.py
+tests/__init__.py
+tests/test_cyrillic.py
