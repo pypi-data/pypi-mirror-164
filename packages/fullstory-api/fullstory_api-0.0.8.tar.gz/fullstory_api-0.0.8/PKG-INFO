@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: fullstory_api
+Version: 0.0.8
+Summary: Fullstory API Python Client
+Home-page: https://github.com/thinh-vu/fullstory_api
+Author: Thinh Vu
+Author-email: mrthinh@live.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+<h2 align="center">Fullstory API Python Client for Marketers and Data Engineers</h2>
+
+
