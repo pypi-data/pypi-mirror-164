@@ -1,0 +1,11 @@
+zetsubou/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zetsubou/__main__.py,sha256=P4g9gAzxnjxycHGBk_Wfr4w1J3h76Pw7YxL7HXAiJCk,2379
+zetsubou/_version.py,sha256=Gn004Dyisn0ZhpxJcmE9iw59c-bIDTIeuIBtmID7u34,153
+zetsubou/configuration.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zetsubou/logo.py,sha256=3LGevdZJZpZ9_k6htxs2rQ2GzGNxPqMXh3bxaaZDVRE,710
+zetsubou/zetsubou.py,sha256=lT9CK2QjeOPep0mUt_YtMVij_KXKfwbYvF9zGyUUO1M,2948
+zetsubou-0.4.0.dist-info/METADATA,sha256=SCFEQC7luXXko6thD3pjIkn6zhOJS64nHPUcy3_Y1q0,3238
+zetsubou-0.4.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+zetsubou-0.4.0.dist-info/entry_points.txt,sha256=Pssm5gGF-O0y8k5nNBVNhnfEP_awKat8dkl00n0scYc,52
+zetsubou-0.4.0.dist-info/top_level.txt,sha256=8eLPFsWDtMIpdcVFgtMO7hcY9rObvLII1KpzKqB8K-c,9
+zetsubou-0.4.0.dist-info/RECORD,,
