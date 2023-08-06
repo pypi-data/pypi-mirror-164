@@ -1,0 +1,141 @@
+Metadata-Version: 2.1
+Name: panther-config
+Version: 0.0.9
+Summary: UNKNOWN
+Home-page: https://panther.com
+Author: Panther Labs Inc.
+Author-email: support@panther.io
+License: UNKNOWN
+Keywords: security detection
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Security
+Classifier: Typing :: Typed
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Panther Config SDK
+The Panther Config module allows you to configure detections for your [Panther](https://panther.com) instance.
+
+## Install
+The Panther Config SDK can be installed using PIP.
+
+```sh
+pip3 install panther-config==0.0.9
+```
+
+
+## query module
+
+### CronSchedule
+Cron expression based schedule definition for a query
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `expression` | `Defines how often queries using this schedule run` | str |
+| `timeout_minutes` | `Defines the timeout applied to queries with this schedule` | int |
+
+
+### IntervalSchedule
+Interval based schedule definition for a query
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `rate_minutes` | `Defines how often queries using this schedule run` | int |
+| `timeout_minutes` | `Defines the timeout applied to queries with this schedule` | int |
+
+
+### Query
+A saved or scheduled query
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `name` | `Unique name for the query` | str |
+| `description` | `Short description for the query` | str |
+| `default_database` | `Default database for the query` | str |
+| `sql` | `SQL statement` | str |
+| `enabled` | `Short description for the query` | bool |
+| `tags` | `Tags for the query` | typing.Optional[typing.Union[str, typing.List[str]]] |
+| `schedule` | `Schedule attached to the query` | typing.Optional[typing.Optional[typing.Union[IntervalSchedule, CronSchedule]]] |
+
+## detection module
+
+### DynamicStringField
+Make a field dynamic based on the detection input
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `fallback` | `Fallback value in case the dynamic handler fails` | str |
+| `func` | `Dynamic handler` | typing.Callable[[typing.Any], str] |
+
+
+### DynamicDestinations
+Make destinations dynamic based on the detection input
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `fallback` | `Fallback value in case the dynamic handler fails` | typing.Optional[typing.List[str]] |
+| `func` | `Dynamic handler` | typing.Callable[[typing.Any], typing.List[str]] |
+
+
+### AlertGrouping
+Configuration for how an alert is grouped
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `period_minutes` | `How long should matches be grouped into an alert after the first match` | int |
+| `group_by` | `Function to generate a key for grouping matches` | typing.Optional[typing.Callable[[typing.Any], str]] |
+
+
+
+### PythonFilter
+Custom python filter
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `func` | `Custom python filter` | typing.Callable[[typing.Optional[typing.Any], typing.Optional[typing.Dict[str, typing.Union[str, int, float, bool]]]], bool] |
+| `params` | `Custom python filter` | typing.Optional[typing.Dict[str, typing.Union[str, int, float, bool]]] |
+
+
+
+### JSONUnitTest
+Unit test with json content
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `name` | `name of the unit test` | str |
+| `expect_match` | `should this event trigger the rule?` | bool |
+| `data` | `json data` | str |
+
+
+### Rule
+Define a rule
+
+| Field | Description | Type |
+| ----- | ---- | ----------- |
+| `rule_id` | `ID for the rule` | str |
+| `severity` | `Severity for the rule` | typing.Union[str, DynamicStringField] |
+| `threshold` | `Number of matches received before an alert is triggered` | int |
+| `group` | `Number of matches received before an alert is triggered` | int |
+| `name` | `Display name for the rule` | typing.Optional[str] |
+| `log_types` | `Log Types to associate with this rule` | typing.Union[str, typing.List[str]] |
+| `filters` | `Define event filters for the rule` | typing.Union[_BaseFilter, typing.List[_BaseFilter]] |
+| `enabled` | `Short description for the query` | bool |
+| `unit_tests` | `Define event filters for the rule` | typing.Optional[typing.Union[_BaseUnitTest, typing.List[_BaseUnitTest]]] |
+| `tags` | `Tags for the rule` | typing.Optional[typing.Union[str, typing.List[str]]] |
+| `reference` | `Reference for the rule` | typing.Optional[typing.Union[str, DynamicStringField]] |
+| `runbook` | `Runbook for the rule` | typing.Optional[typing.Union[str, DynamicStringField]] |
+| `description` | `Description for the rule` | typing.Optional[typing.Union[str, DynamicStringField]] |
+| `summary_attrs` | `Summary Attributes for the rule` | typing.Optional[typing.List[str]] |
+| `reports` | `Report mappings for the rule` | typing.Optional[typing.Dict[str, typing.List[str]]] |
+| `destinations` | `Alert destinations for the rule` | typing.Optional[typing.Union[str, typing.List[str], DynamicDestinations]] |
+| `alert_title` | `Title to use in the alert` | typing.Optional[typing.Callable[[typing.Any], str]] |
+| `alert_context` | `Optional JSON to attach to alerts generated by this rule` | typing.Optional[typing.Callable[[typing.Any], typing.Dict[str, typing.Any]]] |
+| `alert_grouping` | `Configuration for how an alert is grouped` | typing.Optional[AlertGrouping] |
+
+
