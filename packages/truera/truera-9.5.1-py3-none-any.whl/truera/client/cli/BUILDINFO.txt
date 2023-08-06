@@ -1,0 +1,6 @@
+HOSTNAME: MSI
+Build Time:  Tue Aug 23 10:41:06 PDT 2022
+Branch: main
+Commit Time:  Tue Aug 23 09:51:35 2022 -0700
+Commit Id:  2e189fcbf5ed7a9b05cb42e4e10736b8ea58499b
+Truera Services Version: 1.27.0-SNAPSHOT
