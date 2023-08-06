@@ -1,0 +1,97 @@
+{
+  "observers": {
+    "6a8e3e5cf09c8ef51fd6273726793f67": {
+      "type": "callable",
+      "from": "observables",
+      "uuid": "6a8e3e5cf09c8ef51fd6273726793f67",
+      "name": "of",
+      "returnType": "Observable",
+      "args": {
+        "args": {
+          "name": "args",
+          "index": 0,
+          "kind": "VAR_POSITIONAL",
+          "type": "list",
+          "value": [
+            "https://github.com/rximg/rximg/blob/main/data/Lenna.png?raw=true"
+          ],
+          "mutable": "7a6fbf2c-0ca6-48eb-b8fa-7eac48396816"
+        }
+      },
+      "extraInPorts": {}
+    },
+    "1588b7e87f0431dc1a1eabf0cfd37af8": {
+      "type": "callable",
+      "from": "cv2",
+      "uuid": "1588b7e87f0431dc1a1eabf0cfd37af8",
+      "name": "imread",
+      "op": "map",
+      "returnType": "NDArray",
+      "args": {
+        "filename": {
+          "name": "filename",
+          "index": 0,
+          "kind": "POSITIONAL_OR_KEYWORD",
+          "type": "str"
+        },
+        "flags": {
+          "name": "flags",
+          "index": 1,
+          "kind": "POSITIONAL_OR_KEYWORD",
+          "type": "choices",
+          "value": 1
+        }
+      },
+      "extraInPorts": {}
+    },
+    "770e1c3cf265962d6160e40df3ade225": {
+      "type": "callable",
+      "from": "custom",
+      "uuid": "770e1c3cf265962d6160e40df3ade225",
+      "name": "imshow",
+      "returnType": "Any",
+      "args": {
+        "mat": {
+          "name": "mat",
+          "index": 0,
+          "kind": "POSITIONAL_OR_KEYWORD",
+          "type": "NDArray"
+        }
+      },
+      "extraInPorts": {}
+    }
+  },
+  "relations": {
+    "19a64581-f33f-4867-871b-66a588eadfdf": {
+      "type": "Observerable",
+      "from": "core",
+      "uuid": "19a64581-f33f-4867-871b-66a588eadfdf",
+      "name": "build_observerable",
+      "location": {
+        "x": 150,
+        "y": 250,
+        "type": "obserable",
+        "boxWidth": 420,
+        "boxHeight": 200
+      },
+      "args": {
+        "head": {
+          "value": "@6a8e3e5cf09c8ef51fd6273726793f67"
+        },
+        "pipe": {
+          "type": "list",
+          "value": [
+            "@1588b7e87f0431dc1a1eabf0cfd37af8"
+          ]
+        },
+        "subscribe": {
+          "type": "SingleCast",
+          "value": "@770e1c3cf265962d6160e40df3ade225",
+          "cast_value": "@770e1c3cf265962d6160e40df3ade225"
+        }
+      }
+    }
+  },
+  "parameters": {},
+  "edges": {}
+}
