@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: setuptools-git-version-cc
+Version: 3.0.4
+Summary: Automatically set package version from Git using Conventional Commit standard.
+Home-page: https://github.com/rokubun/setuptools-git-version-cc
+Author: Rokubun
+Author-email: info@rokubun.cat
+License: http://opensource.org/licenses/MIT
+Classifier: Framework :: Setuptools Plugin
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown
+
+# Conventional Commit Semantic Version generator!
+
+ Automatically set package version from Git using Conventional Commit standard.
