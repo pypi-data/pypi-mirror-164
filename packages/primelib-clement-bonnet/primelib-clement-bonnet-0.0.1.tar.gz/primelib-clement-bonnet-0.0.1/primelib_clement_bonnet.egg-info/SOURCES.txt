@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+primelib/__init__.py
+primelib/prime_numbers.py
+primelib_clement_bonnet.egg-info/PKG-INFO
+primelib_clement_bonnet.egg-info/SOURCES.txt
+primelib_clement_bonnet.egg-info/dependency_links.txt
+primelib_clement_bonnet.egg-info/desktop.ini
+primelib_clement_bonnet.egg-info/top_level.txt
