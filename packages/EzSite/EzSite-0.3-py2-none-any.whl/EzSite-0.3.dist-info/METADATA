@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: EzSite
+Version: 0.3
+Summary: For super easy creation of an API or website using python
+Home-page: https://github.com/-
+Author: Goglesq
+Author-email: goglesquirmintontheiii@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+This is a readme
+
+
