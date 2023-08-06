@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>40.8.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+markers = [
+    "typo_id: the example scenario number"
+]
+
+[tool.coverage.run]
+source = [
+    "branch_detective",
+]
+
+[tool.coverage.paths]
+source = [
+    "src/branch_detective",
+    "**/site-packages/branch_detective"
+]
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "1.1.0"
+tag_format = "v$version"
+update_changelog_on_bump = true
+version_files = [
+    "pyproject.toml:version",
+    "setup.cfg:^version",
+]
+
+[tool.tox]
+legacy_tox_ini = """
+[tox]
+envlist = py38, py39
+
+[testenv]
+deps = pytest
+commands = pytest
+"""
