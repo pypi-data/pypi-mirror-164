@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: utils_hoo
+Version: 0.1.17
+Summary: Genlovy Hoo's utils.
+Home-page: https://pypi.org/project/utils-hoo/
+Author: Genlovy Hoo, YueYong Hu
+Author-email: genlovhyy@163.com
+License: MPL 2.0
+Platform: any
+
+Python tool boxes of Genlovy Hoo.
+
+utils_hoo has stopped upgrading, please see DramKit:
+    
+pypi: https://pypi.org/project/dramkit/
+
+github: https://github.com/Genlovy-Hoo/dramkit/
+
+
