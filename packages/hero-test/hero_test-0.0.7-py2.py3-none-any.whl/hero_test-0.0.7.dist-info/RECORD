@@ -1,0 +1,6 @@
+hero/__init__.py,sha256=Dw-SWFCYH22JLZB45NmtFA4iFg-Cr-hfkucSHxCl-VY,41
+hero/hero.py,sha256=wSZ-9rtiOLfzgdmFwDCc_HlDVQBDcYsvEaMuFSpLogk,383
+hero/inner/test_schema.json,sha256=2KH7rjzL0oro6jwFvDh7UW8ylDtHj-gYmVzvauTKZpc,246
+hero_test-0.0.7.dist-info/WHEEL,sha256=96_DCfscDnVj9fVNwi1rfifiRwfpxLjwXWglVksjj_E,99
+hero_test-0.0.7.dist-info/METADATA,sha256=-rcSzKv6FWI34JG9zvhOdoB3nTe7oXYXhi5iDVne0B8,268
+hero_test-0.0.7.dist-info/RECORD,,
