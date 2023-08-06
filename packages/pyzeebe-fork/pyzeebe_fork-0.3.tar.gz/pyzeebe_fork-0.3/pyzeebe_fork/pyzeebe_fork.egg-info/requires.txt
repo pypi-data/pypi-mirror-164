@@ -1,0 +1,5 @@
+oauthlib
+requests-oauthlib
+zeebe-grpc
+aiofiles
+pytest

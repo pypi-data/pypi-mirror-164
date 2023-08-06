@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pyzeebe-fork
+Version: 0.3
+Home-page: https://github.com/shahin84/pyzeebe
+Author: Shahin
+Author-email: mohamed.megid@gmail.com
+License: MIT
+Keywords: pyzeebe
+License-File: LICENSE.md
