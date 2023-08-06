@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: SLOPpy-package
+Version: 1.0.0
+Summary: SLOPpy: Spectral Lines Of Planets with python
+Home-page: https://github.com/LucaMalavolta/SLOPpy
+Author: Daniela Sicilia, Luca Malavolta, et al.
+Author-email: daniela.sicilia@inaf.it, luca.malavolta@unipd.it
+License: MIT License
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+### Stellar Lines Of Planets with Python
+***
+### `SLOPpy` version 1.0 - August 2022
+
+**Main contributors**
+Daniela Sicilia
+Luca Malavolta
+Lorenzo Pino
+Gaetano Scandariato
+Valerio Nascimbeni
+Giampaolo Piotto
+Isabella Pagano
+
+**News**
+Paper accepted, first public commit, link coming soon
+
+Most of the information can be found in [Sicilia et al. (2022)](https://ui.adsabs.harvard.edu//#abs/########/abstract).
+
+
