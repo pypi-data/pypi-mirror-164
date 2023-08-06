@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: keygim
+Version: 0.0.0
+Summary: A simple library with image utilities.
+Home-page: https://github.com/keyywind/keygim
+Author: Keyywind
+Author-email: kevinwater127@gmail.com
+Project-URL: Bug Tracker, https://github.com/keyywind/keygim/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: markdown
+
