@@ -1,0 +1,10 @@
+setup.py
+calendagram/__init__.py
+calendagram/example.py
+calendagram/keyboards.py
+calendagram/manager.py
+calendagram.egg-info/PKG-INFO
+calendagram.egg-info/SOURCES.txt
+calendagram.egg-info/dependency_links.txt
+calendagram.egg-info/requires.txt
+calendagram.egg-info/top_level.txt
