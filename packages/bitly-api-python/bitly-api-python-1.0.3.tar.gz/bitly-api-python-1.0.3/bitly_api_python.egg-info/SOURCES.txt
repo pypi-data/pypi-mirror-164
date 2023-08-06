@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+BitlyAPI/__init__.py
+BitlyAPI/exceptions.py
+BitlyAPI/model.py
+bitly_api_python.egg-info/PKG-INFO
+bitly_api_python.egg-info/SOURCES.txt
+bitly_api_python.egg-info/dependency_links.txt
+bitly_api_python.egg-info/requires.txt
+bitly_api_python.egg-info/top_level.txt
