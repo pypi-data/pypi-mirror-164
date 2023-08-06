@@ -1,0 +1,14 @@
+ShopLineAPI-1.0.data/scripts/shopline_api.py,sha256=QiAws0omUkZDGx5yErvhqGpuTgFe1YXTfdyhS9Xspxk,9192
+shopline/__init__.py,sha256=KTBxYu87oJDOgxw_5THUJ5tmkpcgc7AvUe7gd_iKj6Y,142
+shopline/api_access.py,sha256=C8t5URjiMdqIymSDCE0Nj48DSZJ3uSrq18syeQTN3TQ,2016
+shopline/api_version.py,sha256=K9sLY18H6lU882dHsb1oFn55vi0PPG9wevBjGk7r4Bg,1773
+shopline/session.py,sha256=WY-684L_0GdTrnXuWwEagODcH_aQWzqsoZoIyApByDQ,6515
+shopline/version.py,sha256=_Wj2M4XHick3Vdz9NZpc6l1pHO-xMioyMnzAxBaiJIE,15
+shopline/yamlobjects.py,sha256=9fLbJG1-EZ5Jperg6CIMybQsEI7JFdk2E9vItacYq0M,683
+shopline/resources/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+shopline/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+shopline/utils/authorize.py,sha256=p3drv-kZ7S8Dak0dLZoj4bPviz8aIbzmI5bYtE5Otkw,1291
+ShopLineAPI-1.0.dist-info/METADATA,sha256=eLpQaUxbPj_O0pI96QYcMwkyEnLTvI1fjGZDgvufoU0,1359
+ShopLineAPI-1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ShopLineAPI-1.0.dist-info/top_level.txt,sha256=Hrp5Xwz9IHiK64Y9V7zubjMIu9UlzshvRz0OYkNHcQA,43
+ShopLineAPI-1.0.dist-info/RECORD,,
