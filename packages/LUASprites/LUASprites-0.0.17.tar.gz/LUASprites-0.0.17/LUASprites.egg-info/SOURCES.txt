@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+LUASprites.egg-info/PKG-INFO
+LUASprites.egg-info/SOURCES.txt
+LUASprites.egg-info/dependency_links.txt
+LUASprites.egg-info/entry_points.txt
+LUASprites.egg-info/requires.txt
+LUASprites.egg-info/top_level.txt
+src/cli.py
+src/__pycache__/cli.cpython-310.pyc
