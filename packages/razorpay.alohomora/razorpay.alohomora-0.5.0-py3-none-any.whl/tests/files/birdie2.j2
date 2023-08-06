@@ -1,0 +1,13 @@
+# {{ alohomora_managed }}
+ENV={{env}}
+{% if env == 'beta' %}
+APP_KEY          = {{ lookup('alohomora_app_key') }}
+DB_HOST          = beta.db.website.vpc
+DB_PASSWORD      = {{ lookup('alohomora_db_password') }}
+APP_SECRET       = {{ lookup('alohomora_app_secret')  }}
+{% elif env == 'prod' %}
+APP_KEY          = {{ lookup('alohomora_app_key')  }}
+DB_HOST          = prod-common.db.website.vpc
+DB_PASSWORD      = {{ lookup('alohomora_db_password')  }}
+APP_SECRET       = {{ lookup('alohomora_app_secret')  }}
+{% endif %}

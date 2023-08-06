@@ -1,0 +1,16 @@
+razorpay/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+razorpay/alohomora/__init__.py,sha256=ogD-DJ-HsapxbPjyQOcF3ZqOmrs22Vl_FS6kHgs1nh8,56
+razorpay/alohomora/alohomora.py,sha256=mgw4zVIPWjyKFbPTkeBPJs-TSHqw9PMmJfirxcAqcI4,4773
+razorpay/alohomora/cli.py,sha256=frcA-kTigONty0ILog9kLjuAdmLmHr05qBsG1JmQwvU,2074
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_alohomora.py,sha256=RISxUCwtfA2693rGDW030qOY5vqFXnQm70gJAel_NzU,5232
+tests/files/birdie.j2,sha256=yFOFuJC9EBtsWjzenK_Uc9__xznz3GAOjSxb_MptERc,519
+tests/files/birdie2.j2,sha256=yFOFuJC9EBtsWjzenK_Uc9__xznz3GAOjSxb_MptERc,519
+tests/files/birdie_env.j2,sha256=iNPmHUnEmWEc8Qp8Ij-_-6Hj5aN2pxPcRHyBaTR4ibk,615
+tests/files/birdie_fail.j2,sha256=1qIJqyUm9m7ofs64OKgIYZstdffOGI43rj6CCNj6XHs,66
+tests/files/birdie_fail_multiple.j2,sha256=FdfDxRrBx0J93siuFw3--U9aJx-_9SKuMfCkmZyCDF0,177
+razorpay.alohomora-0.5.0.dist-info/METADATA,sha256=WDuTX8CvpzrRvsoJvJ9we-VTQDvYQRdxkiyoY8E2VDE,2673
+razorpay.alohomora-0.5.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+razorpay.alohomora-0.5.0.dist-info/entry_points.txt,sha256=twpKGB7w2LM4ngKWgAL_JivrJMbRX6Lz-4BkZQ2_FhE,57
+razorpay.alohomora-0.5.0.dist-info/top_level.txt,sha256=b1wAUQ1-1z2vdh-f6BNPymhcwOVjVewfFcTAYJpnVfk,15
+razorpay.alohomora-0.5.0.dist-info/RECORD,,
