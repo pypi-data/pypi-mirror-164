@@ -1,0 +1,17 @@
+bsb_hdf5/__init__.py,sha256=Mb00IWGZi6dvDG_s6_DYJV2JM7tG289RgDtxFDLe7Rw,4512
+bsb_hdf5/chunks.py,sha256=7LE7WdtxzqeERnkrW_z5v9YwxGgfENkwL6YKZxTFwGE,9672
+bsb_hdf5/connectivity_set.py,sha256=aMnuxk5uHqlXpU5IDAIFqiaLE2Bbw7Y_PvMn0XQQbQQ,15352
+bsb_hdf5/file_store.py,sha256=YOlKaD8hCdvSBhcpneCTlkU8V_t2q8_JbgmTh0kl2Mg,2912
+bsb_hdf5/morphology_repository.py,sha256=Zv0ki30434zFnLLt67t3_To4951ap6hHyC5DZe_KxGA,6762
+bsb_hdf5/placement_set.py,sha256=2v6ncvYZWT4mzj1RwR6X7GennsJGOfytJ2fQcM_gcEo,9075
+bsb_hdf5/resource.py,sha256=uzWNG-haAevXhDlja9mlvU3xG1gR5BK3fHlbgh5TA3A,3225
+test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+test/test_interface.py,sha256=FS7TNtf1TKLauUC8tCTrBfSAha12s7SJ7N0XYgGZQqs,627
+test/test_mr.py,sha256=r3t-DDvVZ8cX84JChiqp9ZPQn57tVFhPIWgRznK_s6o,5780
+test/test_setup/__init__.py,sha256=tUNXjGeU1UR3P8F0Sqi1ZZ6eqQqTihgPQgFLBtMARDk,567
+bsb_hdf5-0.3.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+bsb_hdf5-0.3.2.dist-info/METADATA,sha256=w3W_6nMD6yZXzlqBwuprD7Nh1K8DBueU2XzxhesekQU,902
+bsb_hdf5-0.3.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+bsb_hdf5-0.3.2.dist-info/entry_points.txt,sha256=QajDp3X4BkUavZA7aAsWxGnWWVcN2iqvWOjtnAe8-bg,31
+bsb_hdf5-0.3.2.dist-info/top_level.txt,sha256=NHvOdI6Unokyufz7Fzz7XUmcVIiIFPDwPnN1lLuqtDo,14
+bsb_hdf5-0.3.2.dist-info/RECORD,,
