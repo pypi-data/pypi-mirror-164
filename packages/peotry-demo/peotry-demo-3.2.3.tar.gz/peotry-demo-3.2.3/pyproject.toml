@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "peotry-demo"
+version = "3.2.3"
+description = "Poetry-demo"
+authors = ["SiyuCh <siyuch0308@gmail.com >"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = {version = "~=2.22.0", extras = ["security", "socks"]}
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/python-poetry/poetry/issues"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

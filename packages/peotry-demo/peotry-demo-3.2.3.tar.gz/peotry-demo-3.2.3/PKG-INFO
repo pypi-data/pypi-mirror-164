@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: peotry-demo
+Version: 3.2.3
+Summary: Poetry-demo
+License: MIT
+Author: SiyuCh
+Author-email: siyuch0308@gmail.com 
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: requests[security,socks] (>=2.22.0,<2.23.0)
+Project-URL: Bug Tracker, https://github.com/python-poetry/poetry/issues
