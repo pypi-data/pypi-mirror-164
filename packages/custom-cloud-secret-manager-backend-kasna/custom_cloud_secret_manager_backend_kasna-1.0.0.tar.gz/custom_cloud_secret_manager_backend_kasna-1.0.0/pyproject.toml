@@ -1,0 +1,12 @@
+[build-system]
+build-backend = "hatchling.build"
+requires = ["apache-airflow", "apache-airflow-providers-google", "hatchling"]
+
+[project]
+dependencies = [
+  "apache-airflow",
+  "apache-airflow-providers-google"
+]
+name = "custom_cloud_secret_manager_backend_kasna"
+readme = "README.md"
+version = "1.0.0"
