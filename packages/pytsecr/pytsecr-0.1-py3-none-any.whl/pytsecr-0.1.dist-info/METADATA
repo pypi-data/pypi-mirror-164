@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pytsecr
+Version: 0.1
+Summary: API Wrapper para interactuar con el sitio web de servicios electorales del Tribunal Supremo de Elecciones, Costa Rica
+Home-page: https://pytsecr.readthedocs.io
+Author: pgbito
+Author-email: pgbito@proton.me
+License: MIT
+Project-URL: Documentation, https://pytsecr.readthedocs.io
+Project-URL: Source, https://github.com/pgbito/pytsecr
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: html-to-json
+Requires-Dist: json
+Requires-Dist: requests
+Requires-Dist: urllib3
+
+UNKNOWN
+
+
