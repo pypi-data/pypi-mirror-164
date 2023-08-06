@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+shipdf/__init__.py
+shipdf/pdf2image.py
+shipdf/pdf2text.py
+shipdf.egg-info/PKG-INFO
+shipdf.egg-info/SOURCES.txt
+shipdf.egg-info/dependency_links.txt
+shipdf.egg-info/top_level.txt
