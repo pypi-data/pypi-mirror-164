@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+SDOFsimulations/__init__.py
+SDOFsimulations.egg-info/PKG-INFO
+SDOFsimulations.egg-info/SOURCES.txt
+SDOFsimulations.egg-info/dependency_links.txt
+SDOFsimulations.egg-info/top_level.txt
