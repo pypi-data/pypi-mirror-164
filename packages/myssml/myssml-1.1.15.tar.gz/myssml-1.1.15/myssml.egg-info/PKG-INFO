@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: myssml
+Version: 1.1.15
+Summary: Python library for building SSML for Amazon Alexa or Microsoft or Google etc.
+Home-page: https://github.com/rdaim
+Author: wanyangchun
+Author-email: rdaim@qq.com
+License: Apache
+Keywords: ssml python myssml
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+
+
+    myssml
+
+    Python 3 SSML builder for Alexa or Microsoft or Google etc..
+
+    Inspired by and based on JavaScript project https://github.com/mandnyc/ssml-builder
+    Inspired by and based on Python project  https://github.com/sumsted/pyssml
+    
