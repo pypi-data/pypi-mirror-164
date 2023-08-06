@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+vin2proxy/__init__.py
+vin2proxy/vinproxycalculation.py
+vin2proxy.egg-info/PKG-INFO
+vin2proxy.egg-info/SOURCES.txt
+vin2proxy.egg-info/dependency_links.txt
+vin2proxy.egg-info/not-zip-safe
+vin2proxy.egg-info/top_level.txt
