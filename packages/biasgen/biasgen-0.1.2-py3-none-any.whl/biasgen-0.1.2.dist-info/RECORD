@@ -1,0 +1,15 @@
+biasgen/__init__.py,sha256=ZlX3_pC8HpjnUnle2Ogrr2QIOrgtMmXcUUTI4cO0csE,327
+biasgen/coil_setup.py,sha256=uJpaf-A3m4ZTMLGswlLeTPbiGR4mOp8-kqh941NzOeI,13025
+biasgen/config.py,sha256=dGXVfnQoYybetyF94ah9v-sdP52pfy5sF4hUzx-PHeg,63
+biasgen/field_calc.py,sha256=RMo4IsOEnG5kfHGNeDrjyfzNieOvbPiCVeSqw2OCAns,10323
+biasgen/phantom.py,sha256=MEtI7_WuaWhiRC6m5Eeag3fd5oP7eXOB_uZhSl276GE,12600
+biasgen/typing_utils.py,sha256=_3mvThMpaNSMeevhNrn2S36DEhTBhtzpTMxEQxPCruk,156
+biasgen/view_utils.py,sha256=N0mPhsMrCoX5rxqNfYX9nk9XVP3O896jBeThpvDSXo4,5956
+tests/__init__.py,sha256=_1GHv2ra-2PxUncLETZ5T2bvXTnaN1lqzdTgZiFFEJk,60
+tests/coil_tests.py,sha256=g0FrMjmPC41HnPHEHDFsNcpkltoRK7FPd-KkY4YXJnU,1936
+tests/field_tests.py,sha256=2Gs3VnFwDQt2wk2RBz6eMskVPtCjSPjnvpLofo5aXSo,7767
+biasgen-0.1.2.dist-info/LICENSE,sha256=u8QZ-XyfGVlTbWCAAlHGU0kaJiWcVL9Q1hDYF87d28I,1069
+biasgen-0.1.2.dist-info/METADATA,sha256=6TKSB17lVDUD6XtFDz6539S9iOgTKUcLXYcC_23nYv8,4310
+biasgen-0.1.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+biasgen-0.1.2.dist-info/top_level.txt,sha256=QQExuu3zQXQ0jwCHSrmrBn-D55waxUJQk-q1clbTi0A,14
+biasgen-0.1.2.dist-info/RECORD,,
