@@ -1,0 +1,13 @@
+pyflaskcreator/__init__.py,sha256=abJx4ZvYckiRpJKsX3pBWvopkuWGlJ1t-arZrH5chws,38
+pyflaskcreator/flaskbuilder.py,sha256=T0x4QN3MGBkm-4k6NcT5e7Xm6n7oH-UPfp45ni5kZBA,3561
+pyflaskcreator/assets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyflaskcreator/assets/app.py,sha256=PXJWi6K3wSz2HLJTu7YenD-tH1p5vXlRHPRq-UDF6SQ,234
+pyflaskcreator/assets/flask_icon.png,sha256=8AfaSn9k5SVbfP9l4L1Yi7hOAJ7VTgpwNUAOLML-bSI,105971
+pyflaskcreator/assets/welcome.css,sha256=zd_ULDHaYOUmOB71Cd0lJuCMFLfyj-QYoTYxInD3Mzk,1598
+pyflaskcreator/assets/welcome.html,sha256=2TLtJU-mcaYOLsfs6mP7G8848Uev59yWi2PT-1u7Yuw,6068
+pyflaskcreator-1.0.3.dist-info/LICENSE,sha256=kSm38bWIkVbGkQ0_SOm1UOhIYnAu3_mmj7TiYaP-9lc,1089
+pyflaskcreator-1.0.3.dist-info/METADATA,sha256=54OPmyncY2bT3jCA6E6QM9Q6ASg8cRamoPcK7NC1Pg0,1275
+pyflaskcreator-1.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyflaskcreator-1.0.3.dist-info/entry_points.txt,sha256=3TojBBASyMJz-tjL0AJpm6D8xJb3UkE5mMWBUP1-UNA,71
+pyflaskcreator-1.0.3.dist-info/top_level.txt,sha256=66Fhrbd3w1ITTFvXjIrNINuq3xi75P8f3OYSe1XbYrU,15
+pyflaskcreator-1.0.3.dist-info/RECORD,,
