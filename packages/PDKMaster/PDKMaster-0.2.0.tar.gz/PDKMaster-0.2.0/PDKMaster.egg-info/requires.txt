@@ -1,0 +1,5 @@
+setuptools
+modgrammar
+shapely
+descartes
+PySpice>=1.5
