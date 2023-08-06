@@ -1,0 +1,13 @@
+{
+    "git_describe": {
+        "dirty": "6.20-tainted",
+        "tag": "6.20"
+    },
+    "git_hash": "a8cb930a628f57c7644286e4fb0b71350ac95918",
+    "package_build_date": "2022-08-23T11:13",
+    "version": {
+        "major": "6",
+        "minor": "20",
+        "revision": "0"
+    }
+}
