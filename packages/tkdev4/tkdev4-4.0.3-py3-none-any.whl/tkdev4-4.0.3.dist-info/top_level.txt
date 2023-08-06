@@ -1,0 +1,9 @@
+devcore
+devdraw
+devicon
+devplyer
+devpre
+devresize
+devsimple
+devtcl
+devwin
