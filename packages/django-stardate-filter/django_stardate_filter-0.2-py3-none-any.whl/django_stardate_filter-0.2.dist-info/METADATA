@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: django-stardate-filter
+Version: 0.2
+Summary: A django filter to convert a date into a stardate
+Home-page: https://youbee-cas.herokuapp.com
+Author: Virgo STYX
+Author-email: Virgo STYX <virgostyx@gmail.com>
+Project-URL: Homepage, https://github.com/virgostyx/django-stardate-filter
+Project-URL: Bug Tracker, https://github.com/virgostyx/django-stardate-filter/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: Django (>=3.0)
+
+======================
+Django-stardate-filter
+======================
+
+Django-stardate-filter is a small Django app implementing a filter to display a date as a Star-Trek stardate in a template.
+
+Detailed documentation is in the "docs" directory.
+
+Quick start
+-----------
+
+1. Add "stardate" to your INSTALLED_APPS setting like this::
+
+    INSTALLED_APPS = [
+        ...
+        'stardate',
+    ]
+
+2. Use the filter with a date as follows for example:
+
+    {% now 'Y-m-d H:i' as today %}
+    {% load stardate %}
+    <div>Stardate: {{ today|stardate }}</div>
+
+And it display the date provided as a stardate
+
+Please use this app and the code freely
+Special thanks to Nicolas FLANDROIS for the conversion formula
+Live long and Prosper
