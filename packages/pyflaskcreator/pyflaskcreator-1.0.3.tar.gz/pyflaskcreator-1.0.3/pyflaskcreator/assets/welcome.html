@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" type="image/png" href="/static/flask_icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/welcome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    
+    <script>
+
+      //Particles code by https://codepen.io/OliverKrieger
+        (function() {
+    var requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+                                window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+    window.requestAnimationFrame = requestAnimationFrame;
+  })(); 
+  
+  $( window ).resize(function() {
+    ParticleCanvas.width = ($(window).width() - 20);
+    ParticleCanvas.height = ($(window).height() - 10);
+  });
+  
+  window.onload = function() {
+  
+        var ParticleCanvas = document.getElementById("ParticleCanvas");
+        var context = ParticleCanvas.getContext("2d");
+        ParticleCanvas.width = ($(window).width());
+        ParticleCanvas.height = ($(window).height());
+        document.body.appendChild(ParticleCanvas);
+  
+  
+        // All the info stored into an array for the particles
+        var particles = {},
+            particleIndex = 0,
+            settings = {
+              density: 100,
+              particleSize: 3,
+              startingX: ParticleCanvas.width,
+              startingY: ParticleCanvas.height,
+              gravity: 0.01
+            };
+  
+        // Set up a function to create multiple particles
+        function Particle() {
+                // Establish starting positions and velocities from the settings array, the math random introduces the particles being pointed out from a random x coordinate
+          console.log(ParticleCanvas.width)
+          console.log(ParticleCanvas.height)
+          this.x = Math.floor(Math.random() * (ParticleCanvas.width - 0));
+          this.y = Math.floor(Math.random() * (ParticleCanvas.height - 0)); + 0;
+  
+          // Determine original X-axis speed based on setting limitation
+          this.vx = (Math.random() * 0.1) - (Math.random() * 0.01);
+          this.vy = -0.1;
+  
+          // Add new particle to the index
+          // Object used as it's simpler to manage that an array
+          particleIndex ++;
+          particles[particleIndex] = this;
+          this.id = particleIndex;
+          this.life = 0;
+          this.maxLife = 300;
+          this.alpha = 1;
+          this.red = (Math.random()*255);
+          this.green = (Math.random()*255);
+          this.blue = (Math.random()*255);
+        }
+  
+        // Some prototype methods for the particle's "draw" function
+        Particle.prototype.draw = function() {
+          this.x += this.vx;
+          this.y += this.vy;
+
+          let grav_randomizer = Math.round(Math.random())
+          let gravity_factor = 0
+
+          if (grav_randomizer === 0){
+            gravity_factor = -1
+          }else{
+            gravity_factor = 1
+          }
+
+          console.log("gravity", gravity_factor)
+          // Adjust for gravity
+          this.vy += (gravity_factor * settings.gravity);
+          
+  
+  
+          // Age the particle
+          this.life++;
+          
+          
+          this.alpha -= 0.005;
+  
+  
+          // If Particle is old, it goes in the chamber for renewal
+          if (this.life >= this.maxLife) {
+            delete particles[this.id];
+          }
+          
+          
+          
+          // Create the shapes
+          context.clearRect(settings.leftWall, settings.groundLevel, ParticleCanvas.width, ParticleCanvas.height);
+          context.beginPath();
+          context.fillStyle="rgba("+ this.red +", "+ this.green +", "+ this.blue +", " + this.alpha + ")";
+          // Draws a circle of radius 20 at the coordinates 100,100 on the ParticleCanvas
+          context.arc(this.x, this.y, settings.particleSize, 0, Math.PI*2, true); 
+          context.closePath();
+          context.fill();
+  
+        }
+  
+        function animateDust() {
+          context.clearRect(0, 0, ParticleCanvas.width, ParticleCanvas.height);
+  
+          // Draw the particles
+          for (var i = 0; i < settings.density; i++) {
+            if (Math.random() > 0.99) {
+              // Introducing a random chance of creating a particle
+              // corresponding to an chance of 1 per second,
+              // per "density" value
+              new Particle();
+            }
+          }
+  
+          for (var i in particles) {
+            particles[i].draw();
+          }
+          window.requestAnimationFrame(animateDust);  
+      }
+
+      animateDust()
+    
+  };
+    </script>
+<title>FlaskApp</title>
+
+</head>
+<body>
+    <div id="welcome_banner">
+        <div id="welcome_content">
+            <img src="/static/flask_icon.png">
+            <div id="message">
+                <h1>WELCOME TO YOUR FLASK APP</h1>
+                <p>This app was generated using pyFlaskCreator python library</p>
+                <i id="github_logo" class="fa fa-github" style="font-size:36px; padding-top: 2rem; padding-bottom: 1rem; cursor: pointer; color: white;" onclick="window.open('https://github.com/Jael-G')"></i>
+            </div>
+        </div>
+    </div>
+    <canvas id="ParticleCanvas"></canvas>
+    <script>
+      let item = document.querySelector('#welcome_content')
+    
+      item.addEventListener('mouseout', () => {
+
+        item.style = "animation-name: fadeout; animation-duration: 0.5s;"
+    
+    
+      })
+
+      item.addEventListener('mouseover', () => {
+
+        item.style = "animation-name: fadein; animation-duration: 0.5s;"
+
+
+      })
+    </script>
+</body>
+</html>
