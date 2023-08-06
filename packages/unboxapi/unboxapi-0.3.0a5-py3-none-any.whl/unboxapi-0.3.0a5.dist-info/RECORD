@@ -1,0 +1,15 @@
+unboxapi/__init__.py,sha256=oat__Kgvk0gGaO2GbywA7REqNu_UmkJUZonQrwPHIXc,49544
+unboxapi/api.py,sha256=1L31SqSTaCMHE9c9JVcS29uwqM9x70jWZ1FDdpKDFfE,9401
+unboxapi/datasets.py,sha256=iaTBz0LcUuILrIcxpOgy13JA4AK_mlCo8aq8RX1wY80,735
+unboxapi/exceptions.py,sha256=EWmDZMbG8ojaylwRhEL6hAG9SRc15sqMcYR5NNvffyI,3988
+unboxapi/models.py,sha256=9ZGo7wJ_qnta5gb_ZN-ufeAgXZEpE4N_o5b1trEX764,8276
+unboxapi/projects.py,sha256=9IqCowKZB18WkwJp3JqvmSvzCrP2gcnH63bv9Z8rWLo,1610
+unboxapi/schemas.py,sha256=dqxCoYzTkuiYuqWFyAwArJHJ91uwxs_ldkQR1Eefues,6022
+unboxapi/tasks.py,sha256=mNTnVPbj3QL-MsFE71w223bPveRnHvBkDYxEinFSJac,555
+unboxapi/utils.py,sha256=y_8SNcYIpbDXv3gSLKGgDE43CMQE5MoEgN5f80QZktM,660
+unboxapi/version.py,sha256=djIhdjpB6lkB46PfOdZk2JLy3WohQ1Iln3nsv5w6h1I,163
+unboxapi-0.3.0a5.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+unboxapi-0.3.0a5.dist-info/METADATA,sha256=d1NdQgbFsZtSXBw6_074igCroz3PKT2V3nGLW-Q8KTk,2929
+unboxapi-0.3.0a5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+unboxapi-0.3.0a5.dist-info/top_level.txt,sha256=Ow4uYnq9S2i7Ra6mfzXznTrtOtWLJJmLvh2aPQV_vpA,9
+unboxapi-0.3.0a5.dist-info/RECORD,,
