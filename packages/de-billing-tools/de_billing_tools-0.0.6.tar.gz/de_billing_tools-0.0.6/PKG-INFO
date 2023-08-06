@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: de_billing_tools
+Version: 0.0.6
+Summary: Python tools for the billing team at Diamond Energy
+Home-page: https://github.com/meermeerkat/DE-Billing-Tools
+Author: Jason Mack
+Author-email: jason.mack@y7mail.com
+License: MIT
+Download-URL: https://github.com/meermeerkat/DE-Billing-Tools/archive/refs/tags/0.0.6.tar.gz
+Keywords: diamond energy,billing
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Documentation
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# DE-Billing-Tools
+ 
+
+
