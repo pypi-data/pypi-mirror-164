@@ -1,0 +1,14 @@
+examples/main.py,sha256=ZmiooW3VBXE-S1HeqibWHrPc9YbhRIO3iTxXtBm3Q1w,828
+trey/__init__.py,sha256=EbiGV3DGxnD4Swjv8pTqwF6xjF-ptA06B83CIlWK3nc,99
+trey/colors.py,sha256=wSC8HRwsBH-SAOgfDk3xqODoLv_kSzFgdihV5kPTWww,276
+trey/game_globals.py,sha256=usEbwz78h_WtgLHf05jr3GkznXeGv7AW08jKWcx5pl4,67
+trey/graphics.py,sha256=2eBesb7-KCpyrbtnFJRBSxyJ7HlOdQJ440vXok0pQcA,5145
+trey/image.py,sha256=UxGb4AjYiVxh-spaZ1x0-OkSyjIGA_VUCWXWxGl0IAk,720
+trey/keyboard.py,sha256=cz34uv170nWJDsgLvCeWxXwWl-rqRE-_-MO6eu8FCxo,1250
+trey/maths.py,sha256=OQwYw9ccAxgAjKnStwMRsjcDq1hSaZtwG9vWU6vv3io,1431
+trey/scene.py,sha256=9-uAoy1kTF-iCr43PdrqmCaEorq_dgHmw5rOVag5NSQ,357
+trey/window.py,sha256=6hqYLQQynbo5pcNx_GB3jKklAhRJTvg00ZQd2ZAeKsc,2547
+treyengine-0.0.1.dist-info/METADATA,sha256=wbRtvOsEGPS1M3RGIajOahM0LcJ9uJAnQMV25uMb-QU,1765
+treyengine-0.0.1.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+treyengine-0.0.1.dist-info/licenses/LICENSE,sha256=gxVN6Rzvxy51xCv_GMsXli2IZvuDTe7kyiyCyQEfYlc,1068
+treyengine-0.0.1.dist-info/RECORD,,
