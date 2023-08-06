@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+src/os_emu.egg-info/PKG-INFO
+src/os_emu.egg-info/SOURCES.txt
+src/os_emu.egg-info/dependency_links.txt
+src/os_emu.egg-info/top_level.txt
