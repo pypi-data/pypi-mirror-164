@@ -1,0 +1,3 @@
+include README.md deceit/version.txt dev.txt
+recursive-exclude * test
+prune test*
