@@ -1,0 +1,10 @@
+alethiomics/__init__.py,sha256=0ApnqsnbXmeGv9CPZBExpxdfAXfoEAK8XYxmtc3yWho,159
+alethiomics/adata.py,sha256=DZD0sg83HuIgtKUrdwKhOluTVgfPxzqbuZkO8ZGVeQQ,1893
+alethiomics/ecdf.py,sha256=O-DahBiBxQfN2SAGaM6OTitynvPwKBQd6UuiK5eRwQw,3866
+alethiomics/fisher.py,sha256=iIVpsMdpBGrBEB0w-WERKOTeB0K06P0kYM5ahAGUTj8,2277
+alethiomics/ks.py,sha256=mYmnannTYVSkI6fDbMZpxpyqAvfoelPCd1nvkVVrP6o,2464
+alethiomics-0.1.14.dist-info/LICENSE,sha256=cATBmkZYEn_bz7X9QH2O3KyVENqNaFwHLUN0ncP8IJU,1084
+alethiomics-0.1.14.dist-info/METADATA,sha256=ghUHUczZo0urtNXqmDgrpCgU4aV3DqfEqnUHvmT4fWw,290
+alethiomics-0.1.14.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+alethiomics-0.1.14.dist-info/top_level.txt,sha256=xHiiM6N6xQjISUl97lTuEJsYeVQry8erc4f7XNeFbyM,12
+alethiomics-0.1.14.dist-info/RECORD,,
