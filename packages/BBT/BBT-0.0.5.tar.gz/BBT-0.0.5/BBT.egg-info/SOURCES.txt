@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+BBT/__init__.py
+BBT.egg-info/PKG-INFO
+BBT.egg-info/SOURCES.txt
+BBT.egg-info/dependency_links.txt
+BBT.egg-info/top_level.txt
