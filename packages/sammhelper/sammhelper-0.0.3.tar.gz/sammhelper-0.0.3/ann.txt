@@ -1,0 +1,31 @@
+Einmalig installieren:
+py -m pip install --upgrade build
+py -m pip install --upgrade pip
+py -m pip install --upgrade twine
+
+Jedesmal durchführen, wenn neue Version veröffentlicht wird. CMD-Befehle sind im Ordner auszuführen, im dem die Datei "pyproject.toml" liegt:
+
+src ändern
+
+Versionsnummer anpassen
+
+Packet bauen (generiert 2 Dateien im "dist"-Unterordner mit der jeweiligen Versionsnummer):
+py -m build
+
+Packet hochladen:
+py -m twine upload dist/*
+
+Zugangsdaten:
+User: __token__
+PW: pypi-AgEIcHlwaS5vcmcCJDdlOGRjZThhLTE1YzUtNGViNi04YzBjLTkzZTlkNTQzZGYyNAACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgKc7rbYhpQpr5Lb_o8_9p9gmxCVHAn2BW7-oubKLvh0s
+Beachte: Das PW ist im CMD-Fenster über "Rechtslick auf Rahmen > Edit > Paste" einzufügen!
+
+Packet herunterladen:
+Analog zu anderen Python-Packeten über "pip install sammhelper"
+
+
+
+
+
+
+
