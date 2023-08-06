@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+herripdf2/__init__.py
+herripdf2/pdf2image.py
+herripdf2/pdf2text.py
+herripdf2.egg-info/PKG-INFO
+herripdf2.egg-info/SOURCES.txt
+herripdf2.egg-info/dependency_links.txt
+herripdf2.egg-info/top_level.txt
