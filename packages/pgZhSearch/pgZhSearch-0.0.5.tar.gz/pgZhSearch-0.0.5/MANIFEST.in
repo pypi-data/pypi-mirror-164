@@ -1,0 +1,5 @@
+include MANIFEST.in
+include *.md
+graft pgZhSearch
+global-exclude __pycache__
+global-exclude *.py[co]
