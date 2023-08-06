@@ -1,0 +1,13 @@
+ucid_api/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+ucid_api/ucid.py,sha256=1edmq_a72lYvYWO2Hd6rBv12gdp79qC8oLk2YGP30-s,1848
+ucid_api/constant/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ucid_api/constant/ucidconstants.py,sha256=qy-fq88peGLXqpmtbtHDOANU1VFnWi0U2bSe4S6JRuY,715
+ucid_api/exception/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ucid_api/exception/ucid_exception.py,sha256=5HvW37oBBaLOXW7R2Qmz1dZyHlEtwkipWIXsL4osJSA,36
+ucid_api/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ucid_api/utils/header_validate.py,sha256=11fArpKpQkFQ9iin4EifC02kGe24pk102y9oFkZFomU,3704
+ucid_api/utils/utils.py,sha256=4yxBB1intNUe3risOtPMoQHR2wKwFQulqW8TBPi005Q,772
+ucid_api-0.1.8.dist-info/METADATA,sha256=uNuwccXd8gLegEvQ9Zq8e8TGfDluq0Po5JBu4qnWQj0,649
+ucid_api-0.1.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ucid_api-0.1.8.dist-info/top_level.txt,sha256=NXI6YlL9vroypNQxHuttZ970Qudjdf7wk33MFkSV1gg,9
+ucid_api-0.1.8.dist-info/RECORD,,
