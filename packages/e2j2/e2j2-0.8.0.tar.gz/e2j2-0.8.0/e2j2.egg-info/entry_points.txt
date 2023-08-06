@@ -1,0 +1,2 @@
+[console_scripts]
+e2j2 = e2j2.scripts.e2j2:cli
