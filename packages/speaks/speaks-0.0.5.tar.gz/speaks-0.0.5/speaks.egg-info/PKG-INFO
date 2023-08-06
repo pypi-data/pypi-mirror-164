@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: speaks
+Version: 0.0.5
+Summary: text-to-speech module for Python
+Home-page: https://github.com/TwoIt202/Speaker
+Download-URL: https://github.com/TwoIt202/Speaker/raw/89a99b41e4c3565c661691dfae0054e5ea600a13/speaker.zip
+Author: two-it2022
+Author-email: kodland.group@gmail.com
+License: Apache License, Version 0.5, see LICENSE file
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: CPython
+
+1. Installing
+Open the CMD. And enter: pip install speaker_listener or pip install speaker_listener==[nevest_version]
+Create the file [your_file_name].py and write in file: import speaker_listener or from speaker import *
+
+2. Commands
+
+speak(text*, speed*, gender*) - This command reads text, you can choose voice gender and read speed.
+listen(pausetime*, language*) - This command can listen to the user and understand what he said. You can choose the language and pause time.
+
+
