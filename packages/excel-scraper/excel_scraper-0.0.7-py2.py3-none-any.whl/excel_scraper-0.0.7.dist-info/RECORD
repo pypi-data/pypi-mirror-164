@@ -1,0 +1,8 @@
+excel_scraper/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+excel_scraper/excel_scraper.py,sha256=x6-19Y8w_jqVH5k78Cp6aqg4WIDy-VqRXVEeaHsRFpY,2003
+test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+test/test_excel_scraper.py,sha256=2ybW7aoy_tG2l4oInLFhnp4xFXcWpqVsKSFTjQN2wF8,1174
+excel_scraper-0.0.7.dist-info/METADATA,sha256=AzpUeQd4qwSrHS9vdwL9SarRtKwsFdwUGbIbp881MFY,556
+excel_scraper-0.0.7.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+excel_scraper-0.0.7.dist-info/top_level.txt,sha256=HcVP6E0mbnTLNpwdwGfEsksKFPJKTIRAlDz82geJ2v8,19
+excel_scraper-0.0.7.dist-info/RECORD,,
