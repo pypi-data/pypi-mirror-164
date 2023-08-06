@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/reddutils/__init__.py
+src/reddutils/example.py
+src/reddutils.egg-info/PKG-INFO
+src/reddutils.egg-info/SOURCES.txt
+src/reddutils.egg-info/dependency_links.txt
+src/reddutils.egg-info/requires.txt
+src/reddutils.egg-info/top_level.txt
+src/reddutils/correlator/__init__.py
+src/reddutils/exodus/__init__.py
+src/reddutils/fourier/__init__.py
+src/reddutils/owoifier/__init__.py
+src/reddutils/periodogram/__init__.py
