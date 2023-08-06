@@ -1,0 +1,36 @@
+{
+  "metricList": [
+    {
+      "key": "ip.incoming",
+      "type": "unique",
+      "frequency": 300,
+      "options": {
+        "ttl": 86400
+      }
+    },
+    {
+      "key": "ip.outgoing",
+      "type": "unique",
+      "frequency": 300,
+      "options": {
+        "ttl": 86400
+      }
+    },
+    {
+      "key": "path.incoming",
+      "type": "unique",
+      "frequency": 300,
+      "options": {
+        "ttl": 86400
+      }
+    },
+    {
+      "key": "path.outgoing",
+      "type": "unique",
+      "frequency": 300,
+      "options": {
+        "ttl": 86400
+      }
+    }
+  ]
+}
