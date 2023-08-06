@@ -1,0 +1,12 @@
+dos_like/__init__.py,sha256=OuC_73sI3fVTN6EJTfMIqO2_xLgLQqh6tnR_uEcDS6E,181
+dos_like/_dos.pyd,sha256=o3tojf-XoWviBaSkS9CLumFGDNkpPl9ZN19y6BMOu1M,1475072
+dos_like/build.py,sha256=1IYWIq29SQmPm1KTobiZcGRvFF4Kyz4lUzvHhnK6gQA,9991
+dos_like/cp437.py,sha256=vJx_2g0FpalFx6LYACVXwdmhfQNpP6D8eFXrWXClxaM,932
+dos_like/dos.py,sha256=ti-8OcW-nBN__pJivATyFQD_3Og1FrDYvuMBYZuIpyg,59727
+dos_like/int_with_flags.py,sha256=3_JLRQtN8MX4FlJ2iLg-I7ErB1Ha35ibDF-UrPgFQRs,1398
+dos_like/runner.py,sha256=xbJxZ2LBistA6HjXQNGryU35uQL6aqMG7vLS2iPZ9Jo,3508
+python_dos_like-0.0.4.dist-info/LICENSE,sha256=Xy9MyRok9WAUegHSfOhD_pi_8iNfOl_U3TuF6Kp9I-U,9221
+python_dos_like-0.0.4.dist-info/METADATA,sha256=zFbhk_hVVm2ddMmCZhBxwpL4cuPQTBIBk0GUAjIohHc,6262
+python_dos_like-0.0.4.dist-info/WHEEL,sha256=W26pYN7HLsBT1jrDSL9udgf_mdNKJmYmL23sIP-FcgM,102
+python_dos_like-0.0.4.dist-info/top_level.txt,sha256=oGztikD9sBUZpG0o6cxC3gsTM4y7qWhjCrW_8Krk9ys,9
+python_dos_like-0.0.4.dist-info/RECORD,,
