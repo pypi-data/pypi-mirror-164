@@ -1,0 +1,6 @@
+ddddocr
+loguru
+httpx
+shutil
+webdriver_manager
+xiaobaiauto2
