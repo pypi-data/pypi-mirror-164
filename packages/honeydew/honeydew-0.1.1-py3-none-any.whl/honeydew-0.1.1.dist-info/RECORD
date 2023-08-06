@@ -1,0 +1,9 @@
+honeydew/__init__.py,sha256=AjxT5DwacMzq4a2Y0YlOqBC3XYcXrqMYEmnPTlRd4z4,81
+honeydew/db.py,sha256=4eg3jRyrjhxgjS5UpqNP4xpLxp_D3HTq6xdWj8YvYP8,2953
+honeydew/gcp.py,sha256=Qu8ri09c7RHR_LiHwq2GaSuGAUjiuC9PknVDdels0G8,6636
+honeydew/mysql.py,sha256=8Q5vkQKgVbaobZctnQha2wVg6iUR63FDezRsFCYG2YQ,2352
+honeydew-0.1.1.dist-info/LICENSE,sha256=HdT8m8FHsbe2YT6RJv0sohUH3oTXh-D8ebpwCXaO5Pg,1073
+honeydew-0.1.1.dist-info/METADATA,sha256=favBI2NPfROvaq2XNkedH3KOELvQXDcH-b5379pW9g4,1068
+honeydew-0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+honeydew-0.1.1.dist-info/top_level.txt,sha256=Nc668ZxYTYmvulJdK9gnqTMr2GQtsUlEB8e56p-KzMI,9
+honeydew-0.1.1.dist-info/RECORD,,
