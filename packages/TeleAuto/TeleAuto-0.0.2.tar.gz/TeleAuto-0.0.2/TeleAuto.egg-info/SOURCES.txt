@@ -1,0 +1,9 @@
+README.md
+setup.py
+TeleAuto.egg-info/PKG-INFO
+TeleAuto.egg-info/SOURCES.txt
+TeleAuto.egg-info/dependency_links.txt
+TeleAuto.egg-info/top_level.txt
+cases/FirstTry.py
+cases/__init__.py
+cases/test1.py
