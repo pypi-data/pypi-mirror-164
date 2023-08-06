@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: zeit3101helpers
+Version: 0.0.6
+Summary: ZEIT3101 Helper functions
+Home-page: https://github.com/System-Not-Found/ZEIT3101
+Author: Ryan Cartwright
+Author-email: fryzee.cartwright@gmail.com
+License: MIT
+Download-URL: https://github.com/System-Not-Found/ZEIT3101/archive/v_01.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3
