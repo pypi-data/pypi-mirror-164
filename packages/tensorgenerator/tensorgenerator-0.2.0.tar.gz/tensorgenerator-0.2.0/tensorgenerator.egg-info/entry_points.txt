@@ -1,0 +1,2 @@
+[console_scripts]
+tensorgenerator = tensorgenerator.shell:run

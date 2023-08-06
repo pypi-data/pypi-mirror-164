@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+tensorgenerator/__init__.py
+tensorgenerator.egg-info/PKG-INFO
+tensorgenerator.egg-info/SOURCES.txt
+tensorgenerator.egg-info/dependency_links.txt
+tensorgenerator.egg-info/entry_points.txt
+tensorgenerator.egg-info/top_level.txt
+tensorgenerator.egg-info/zip-safe
+tensorgenerator/shell/__init__.py
+tensorgenerator/shell/usage.py
+tensorgenerator/tensorsummary/__init__.py
+tensorgenerator/tensorsummary/tensorsummary.py
+tensorgenerator/torchsummary/__init__.py
+tensorgenerator/torchsummary/torchsumary.py
