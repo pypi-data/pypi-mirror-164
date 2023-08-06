@@ -1,0 +1,4 @@
+neural-compressor
+jupyter
+jupyter-server
+PyYAML==5.4.1
