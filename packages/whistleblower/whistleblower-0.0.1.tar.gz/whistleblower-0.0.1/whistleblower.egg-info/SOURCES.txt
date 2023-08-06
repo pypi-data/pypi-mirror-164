@@ -1,0 +1,7 @@
+setup.py
+whistleblower/__init__.py
+whistleblower.egg-info/PKG-INFO
+whistleblower.egg-info/SOURCES.txt
+whistleblower.egg-info/dependency_links.txt
+whistleblower.egg-info/requires.txt
+whistleblower.egg-info/top_level.txt
