@@ -1,0 +1,10 @@
+pard/__init__.py,sha256=_l_ijRQTfkQSexuZjVVuJcfndvmf7m3kF9NJbJvfw9k,160
+pard/epstein.py,sha256=2o8Pu6uxOJ0sX9ZBe7l_81aVS15mLFmRB3-FhuyE3TE,742
+pard/experimental_exchangeability.py,sha256=53EcrWQ1C_ag-FhUbcUN8TNxgKfw7r6rwVEkxg8XsIQ,1613
+pard/grantham.py,sha256=PhIwMpYcXcECMocS7Keyq_LFlqysQa9giMw1BPasKfw,430
+pard/miyata.py,sha256=WdOUqMrlHy6zwVGzwQ8iW8WTaLahLR6a96g-gpSszAs,426
+pard/raw_python_dictionaries.py,sha256=WGSIZyUSLJ0ixdfjIjx4l9859N9BUkz1shppyd56n-8,78957
+pard/sneath.py,sha256=4Sq86ktDnKNbvxo2juDxduMgUSSB1kkeFIO61qGZiTE,424
+pard-0.1.7.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+pard-0.1.7.dist-info/METADATA,sha256=kS_ea84zPqfLmsE5wjvgLgv5L4rBqMCF5PAza7lUpYk,6153
+pard-0.1.7.dist-info/RECORD,,
