@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: amsterdam-airflow-sqlalchemy-create-object-operator
+Version: 1
+Summary: Amsterdam Airflow operator: sqlalchemy_create_object_operator
+Author: Amsterdam
+Author-email: welcome@amsterdam.nl
+Maintainer-email: Amsterdam <welcome@amsterdam.nl>
+Project-URL: homepage, https://www.amsterdam.nl/
+Project-URL: documentation, https://readthedocs.example.com
+Project-URL: repository, https://example.com/git
+Project-URL: changelog, https://example.com/git/Amsterdam/blob/master/CHANGELOG.md
+Classifier: Programming Language :: Python
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+License-File: LICENSE.txt
+Requires-Dist: apache-airflow
+Requires-Dist: apache-airflow-providers-sftp
+Requires-Dist: apache-airflow-providers-ssh
+Requires-Dist: apache-airflow-providers-postgres
+Requires-Dist: apache-airflow-providers-microsoft-azure
+Requires-Dist: apache-airflow-providers-sqlite
+Requires-Dist: apache-airflow-providers-slack
+
