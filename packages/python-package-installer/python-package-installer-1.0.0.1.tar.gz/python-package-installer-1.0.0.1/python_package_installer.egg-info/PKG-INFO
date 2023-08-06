@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: python-package-installer
+Version: 1.0.0.1
+Summary: python package installer
+Home-page: https://github.com/seungminlee92/package_installer
+Author: SML
+Author-email: seungminlee92@kakao.com
+License: MIT
