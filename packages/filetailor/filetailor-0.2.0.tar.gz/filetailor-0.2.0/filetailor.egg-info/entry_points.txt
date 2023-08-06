@@ -1,0 +1,2 @@
+[console_scripts]
+filetailor = filetailor.__main__:main
