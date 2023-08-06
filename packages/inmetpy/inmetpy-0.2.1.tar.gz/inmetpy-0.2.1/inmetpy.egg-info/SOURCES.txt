@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+inmetpy/__init__.py
+inmetpy/exceptions.py
+inmetpy/stations.py
+inmetpy.egg-info/PKG-INFO
+inmetpy.egg-info/SOURCES.txt
+inmetpy.egg-info/dependency_links.txt
+inmetpy.egg-info/not-zip-safe
+inmetpy.egg-info/requires.txt
+inmetpy.egg-info/top_level.txt
+scripts/inmetpy
+tests/__init__.py
+tests/test_stations.py
