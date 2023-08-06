@@ -1,0 +1,11 @@
+napari-plugin-engine>=0.2.0
+napari_matplotlib
+numpy
+qtpy
+pyqt5
+
+[test]
+napari
+pytest
+pytest-qt
+pytest-cov
