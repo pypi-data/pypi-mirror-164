@@ -1,0 +1,7 @@
+README.md
+setup.py
+ndtiff.egg-info/PKG-INFO
+ndtiff.egg-info/SOURCES.txt
+ndtiff.egg-info/dependency_links.txt
+ndtiff.egg-info/requires.txt
+ndtiff.egg-info/top_level.txt
