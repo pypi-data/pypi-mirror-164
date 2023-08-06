@@ -1,0 +1,6 @@
+libreria_uno_prueba.py
+setup.py
+libreria_uno_prueba.egg-info/PKG-INFO
+libreria_uno_prueba.egg-info/SOURCES.txt
+libreria_uno_prueba.egg-info/dependency_links.txt
+libreria_uno_prueba.egg-info/top_level.txt
