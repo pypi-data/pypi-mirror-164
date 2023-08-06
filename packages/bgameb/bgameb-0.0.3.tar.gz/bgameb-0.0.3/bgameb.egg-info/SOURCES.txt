@@ -1,0 +1,10 @@
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+bgameb/__init__.py
+bgameb.egg-info/PKG-INFO
+bgameb.egg-info/SOURCES.txt
+bgameb.egg-info/dependency_links.txt
+bgameb.egg-info/top_level.txt
