@@ -1,0 +1,8 @@
+setup.py
+test/test.py
+test/test2.py
+wxz_decrpty/__init__.py
+wxz_decrpty.egg-info/PKG-INFO
+wxz_decrpty.egg-info/SOURCES.txt
+wxz_decrpty.egg-info/dependency_links.txt
+wxz_decrpty.egg-info/top_level.txt
