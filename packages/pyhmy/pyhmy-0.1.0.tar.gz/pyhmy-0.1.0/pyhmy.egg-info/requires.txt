@@ -1,0 +1,16 @@
+pexpect
+requests
+eth-rlp
+eth-account>=0.5.5
+eth-utils
+hexbytes
+cytoolz
+
+[dev]
+black
+autopep8
+yapf
+twine
+build
+docformatter
+bumpver
