@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: sgr_demo_v0.0.1
+Version: 0.0.1
+Summary: SGr demo
+Author: Zupeuc (CLEMAP)
+Author-email: <daniel@clemap.ch>
+License: UNKNOWN
+Keywords: python,SGr
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+UNKNOWN
+
