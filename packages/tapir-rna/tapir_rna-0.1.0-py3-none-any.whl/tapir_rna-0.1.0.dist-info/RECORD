@@ -1,0 +1,14 @@
+tapir/__init__.py,sha256=O7iPBguiAnzVxoBteSCmvW3WWq42p_FqF9sxhF0-TkQ,191
+tapir/_version.py,sha256=HOmU5sgXU14tXjdvSe0iIIyluugGL0Y7R8eo1JaeyxE,50
+tapir/auxiliary.py,sha256=tB36aBOOqwmFTz8PpL_JWUFeOhFcBJXhAWrfBGaaJBA,1765
+tapir/edger.py,sha256=5gdJZO5vGvz3nT2bxGQ9nPrhg3jcocIjPhs52viUjKw,5382
+tapir/embedding.py,sha256=9SS4fhMEycdKDkS--3gBFi5XE6FuHVIaLq8Fl2NkY-Y,4152
+tapir/gsets.py,sha256=9W_LrpBUcLPK6tkxkzrccx5JnrXhSngPLBSOzZ512SA,6191
+tapir/immune.py,sha256=Sg4w4vI_MH-Ajtdf-TphTL8B4Oxh4NRBSkkAzgNpMi4,1812
+tapir/plotting.py,sha256=5HCtNLPjxQH2TGQHww8TsA396EXyA9hJDNlcMqP5aWQ,21727
+tapir/stats.py,sha256=eu7bWMmnlIzHYfVFalyN7MM7td6WiLO-e-OFBZljpqw,10113
+tapir_rna-0.1.0.dist-info/LICENSE,sha256=uYn1dgrSTUe7ENztTtqpSS2C6R-3nAryI2opPSX67NI,1084
+tapir_rna-0.1.0.dist-info/METADATA,sha256=EWVnKBlDyaT-UJnFkPapuL6_42xWFREMXfcMnWRObDA,4706
+tapir_rna-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tapir_rna-0.1.0.dist-info/top_level.txt,sha256=q5ZcA_u9y4yx7wUyDTvLLUfCzU-kIcOxtfwG4uwdfXE,6
+tapir_rna-0.1.0.dist-info/RECORD,,
