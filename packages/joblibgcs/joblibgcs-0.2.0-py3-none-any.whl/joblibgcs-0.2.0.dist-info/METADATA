@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: joblibgcs
+Version: 0.2.0
+Summary: a google cloud storage memory backend for joblib
+Home-page: https://gitlab.com/gautas/joblibgcs
+License: MIT
+Keywords: joblib storage backend,google cloud storage
+Author: Gautam Sisodia
+Author-email: gautam.sisodia@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Provides-Extra: book
+Requires-Dist: gcsfs (>=2022.7.1,<2023.0.0)
+Requires-Dist: ipykernel (>=6.15.1,<7.0.0); extra == "book"
+Requires-Dist: joblib (>=1.1.0,<2.0.0)
+Project-URL: Repository, https://gitlab.com/gautas/joblibgcs
+Description-Content-Type: text/markdown
+
+# joblibgcs
+
+A google cloud storage memory backend for joblib
+
+- inspired by and closely following [joblib-s3](https://github.com/aabadie/joblib-s3)
+
+- relies heavily on [gcsfs](https://github.com/fsspec/gcsfs)
+
+```py
+import numpy as np
+from joblib import Memory, register_store_backend
+from joblibgcs.gcs_backend import GCSFSStoreBackend
+
+register_store_backend("gcs", GCSFSStoreBackend)
+
+mem = Memory(
+    "cache-location",
+    backend="gcs",
+    verbose=100,
+    backend_options={"project": "project-name"},
+)
+
+multiply = mem.cache(np.multiply)
+array1 = np.arange(10000)
+array2 = np.arange(10000)
+
+result = multiply(array1, array2)
+print(result)
+
+result2 = multiply(array1, array2)
+print(result2)
+```
