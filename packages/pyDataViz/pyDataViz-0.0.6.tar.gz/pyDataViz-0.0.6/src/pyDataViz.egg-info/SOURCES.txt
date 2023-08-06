@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/pyDataViz/__init__.py
+src/pyDataViz/hist.py
+src/pyDataViz.egg-info/PKG-INFO
+src/pyDataViz.egg-info/SOURCES.txt
+src/pyDataViz.egg-info/dependency_links.txt
+src/pyDataViz.egg-info/top_level.txt
