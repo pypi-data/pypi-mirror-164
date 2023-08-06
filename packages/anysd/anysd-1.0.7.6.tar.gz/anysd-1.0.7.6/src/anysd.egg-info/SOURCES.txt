@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/anysd/__init__.py
+src/anysd/conf.py
+src/anysd/config.toml
+src/anysd/main.py
+src/anysd.egg-info/PKG-INFO
+src/anysd.egg-info/SOURCES.txt
+src/anysd.egg-info/dependency_links.txt
+src/anysd.egg-info/requires.txt
+src/anysd.egg-info/top_level.txt
