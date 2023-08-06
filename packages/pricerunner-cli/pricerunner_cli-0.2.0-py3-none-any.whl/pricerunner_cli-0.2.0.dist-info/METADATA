@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pricerunner-cli
+Version: 0.2.0
+Summary: Cli version of pricerunner.dk
+Author: oxnan
+Author-email: pricerunner-cli@oxnan.com
+Requires-Python: >=3.9,<4.0
+License-File: LICENSE
+Requires-Dist: beautifulsoup4 (>=4.11.1)
+Requires-Dist: click (>=8.0.3)
+Requires-Dist: requests (>=2.27.1)
+Requires-Dist: rich (>=12.5.1)
+Requires-Dist: setuptools (>=59.6.0)
+
