@@ -1,0 +1,16 @@
+.gitignore
+LICENSE
+README.md
+cibuildwheel_tmux.sh
+pyproject.toml
+setup.py
+native/minimp3.h
+native/np3.c
+src/np3/__init__.py
+src/np3/_native.pyi
+src/np3/py.typed
+src/np3.egg-info/PKG-INFO
+src/np3.egg-info/SOURCES.txt
+src/np3.egg-info/dependency_links.txt
+src/np3.egg-info/requires.txt
+src/np3.egg-info/top_level.txt
