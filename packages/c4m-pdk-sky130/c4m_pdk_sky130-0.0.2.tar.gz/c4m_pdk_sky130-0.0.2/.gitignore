@@ -1,0 +1,17 @@
+/open_pdk
+/c4m/pdk/sky130/models
+/tmp
+/MANIFEST.in
+
+/notebooks/bsim4v5.out
+
+/tarballs
+
+/drc
+/lvs
+
+/dist
+/*.egg-info
+
+*.pyc
+.doit.db.*
