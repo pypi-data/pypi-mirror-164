@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+dataclassconfig/__init__.py
+dataclassconfig/__init__.pyi
+dataclassconfig/__version__.py
+dataclassconfig/__version__.pyi
+dataclassconfig/py.typed
+dataclassconfig.egg-info/PKG-INFO
+dataclassconfig.egg-info/SOURCES.txt
+dataclassconfig.egg-info/dependency_links.txt
+dataclassconfig.egg-info/not-zip-safe
+dataclassconfig.egg-info/requires.txt
+dataclassconfig.egg-info/top_level.txt
