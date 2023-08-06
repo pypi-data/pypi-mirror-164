@@ -1,0 +1,10 @@
+README.md
+hacker.py
+hacker_tools.py
+index.py
+pyproject.toml
+setup.py
+reimagined_spoon.egg-info/PKG-INFO
+reimagined_spoon.egg-info/SOURCES.txt
+reimagined_spoon.egg-info/dependency_links.txt
+reimagined_spoon.egg-info/top_level.txt
