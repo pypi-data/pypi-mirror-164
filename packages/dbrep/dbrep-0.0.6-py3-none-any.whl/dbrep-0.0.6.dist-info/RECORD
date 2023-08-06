@@ -1,0 +1,16 @@
+dbrep/__init__.py,sha256=5B857FnYw46r-MsRO5ewzdjcqM8cSPSxGygfW3EqxwM,348
+dbrep/base.py,sha256=6nsHfr1oBuqiChqs-WuzSq6rFh496036-brym3F41Kw,93
+dbrep/cli.py,sha256=6OV7ZU34T_HLPNtbni0X0SnfxxqzOSw2R-sG6c3OuIE,6674
+dbrep/config.py,sha256=k0AzoToKi0wE1beohhn5SQVpfSaLdpfDwCyV33ffK3I,2726
+dbrep/engines/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dbrep/engines/engine_base.py,sha256=32eOsxC3gLeCdxe4uBQITfSzPUUMsQeFmDjFHDYRqfk,619
+dbrep/engines/engine_clickhouse.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dbrep/engines/engine_kafka.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dbrep/engines/engine_sqlalchemy.py,sha256=UyTDvpOaGQ6YlO-30tCNWYu4P1ixYeJ2i7XONpt1Ie0,3875
+dbrep/replication/incremental.py,sha256=DrduwyWYlzVx_GWnfwYrEfbavgUDHRj9goEWSQkd8Pc,56
+dbrep/replication.py,sha256=VA8HSBhM0mh07Qzl-0cdmDzPling_F1u6qmmd-NoJZ0,2542
+dbrep-0.0.6.dist-info/entry_points.txt,sha256=ROrH4cvQ5yd_oNuiD3v3aGSnyNQ6ePjCuIjzgcLmgsM,45
+dbrep-0.0.6.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+dbrep-0.0.6.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+dbrep-0.0.6.dist-info/METADATA,sha256=NBGd8m7gKhUzyHRIdPh2TqU4ffLi-1lgdneMbFSGP7I,1595
+dbrep-0.0.6.dist-info/RECORD,,
