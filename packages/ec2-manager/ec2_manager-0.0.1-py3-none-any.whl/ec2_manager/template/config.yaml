@@ -1,0 +1,24 @@
+# globals
+type: example
+aws_region: us-east-1
+vpc_name: "example-vpc"
+public_subnet_cidr: "10.0.1.0/24"
+private_subnet_cidr: "10.0.2.0/24"
+expose_docker_daemons: True
+
+# instance configurations
+instances:
+  example-instance-1:
+    instance_type: t4g.nano
+    update: True
+    volume_size: 8
+    commands:
+      start: "docker-compose up --detach"
+      stop: "docker-compose down"
+    encoded_env_file_variable: "EXAMPLE_INSTANCE_1_ENV_FILE"
+    envs:
+      EXAMPLE: HelloWorld
+    ports:
+      - protocol: tcp
+        from_port: 80
+        to_port: 80
