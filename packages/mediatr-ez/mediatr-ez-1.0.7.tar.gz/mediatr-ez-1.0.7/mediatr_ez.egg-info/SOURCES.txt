@@ -1,0 +1,15 @@
+LICENSE.APACHE2
+LICENSE.mit
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+mediatr/__init__.py
+mediatr/_version.py
+mediatr/exceptions.py
+mediatr/mediator.py
+mediatr_ez.egg-info/PKG-INFO
+mediatr_ez.egg-info/SOURCES.txt
+mediatr_ez.egg-info/dependency_links.txt
+mediatr_ez.egg-info/requires.txt
+mediatr_ez.egg-info/top_level.txt
