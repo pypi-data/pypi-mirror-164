@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+barcode_image_composer.egg-info/PKG-INFO
+barcode_image_composer.egg-info/SOURCES.txt
+barcode_image_composer.egg-info/dependency_links.txt
+barcode_image_composer.egg-info/entry_points.txt
+barcode_image_composer.egg-info/requires.txt
+barcode_image_composer.egg-info/top_level.txt
+imgcomposer/__init__.py
+imgcomposer/codeimg.py
+imgcomposer/datamatrix.py
+imgcomposer/qrcode.py
+imgcomposer/scripts.py
+imgcomposer/upca.py

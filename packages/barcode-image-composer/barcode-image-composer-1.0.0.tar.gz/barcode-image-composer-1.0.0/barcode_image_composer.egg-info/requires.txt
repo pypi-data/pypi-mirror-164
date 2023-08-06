@@ -1,0 +1,4 @@
+pillow
+pylibdmtx
+python-barcode
+qrcode
