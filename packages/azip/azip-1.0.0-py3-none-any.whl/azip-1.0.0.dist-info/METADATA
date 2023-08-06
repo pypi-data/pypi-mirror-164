@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: azip
+Version: 1.0.0
+Summary: zip operator for async iterables
+Home-page: https://gitlab.com/martizih/azip.git
+Author: Martin Zihlmann
+Author-email: martizih@outlook.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Asynchronous ZIP Operator
+
+The `azip()` function takes both synchronous and asynchronous iterables (can be zero or more), awaits their results one-by-one and aggregates them into a tuple.
+It stops if one of the iterators is exhausted. It waits for the next value of all iterators before yielding the tuple.
+
+## Installation
+
+```sh
+python -m pip install azip
+```
+
+## Usage
+
+```python
+from azip import azip
+
+async for s, a in azip(sync_iter, async_iter):
+  print(s, a)
+```
