@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: qorp
+Version: 0.0.0.dev0
+Summary: QORP protocol implementation
+Home-page: https://github.com/jorektheglitch/qorp-python
+Author: jorektheglitch
+Author-email: jorektheglitch@yandex.ru
+License: UNKNOWN
+Description: # qorp-python
+        
+        `qorp-python` is QORP implementation written in python.
+        
+        ## QORP
+        
+        QORP (Quite Ok Routing Protocol) is simple reactive dynamic routing protocol with E2E encryption.
+        
+        ## WARNING
+        
+        Both QORP and qorp-python are not production-ready!
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
