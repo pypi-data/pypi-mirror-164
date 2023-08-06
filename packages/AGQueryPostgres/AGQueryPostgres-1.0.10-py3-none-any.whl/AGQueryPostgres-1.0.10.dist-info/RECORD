@@ -1,0 +1,14 @@
+AGQueryPostgres/__init__.py,sha256=E0Cml0MnYBfJYTY2cl9Pb_WXMwBbVj_sHwpAzME6QWM,127
+AGQueryPostgres/examples.py,sha256=yRqDhGm2qrQNJ4xFwEb4wsrNX4pvRTNQsGkmElOimEs,14248
+AGQueryPostgres/query_json_to_sql.py,sha256=5UZuz7p4r938x64wLOJPEwL0cVf8NXHlwHnc0t-No-Q,38568
+AGQueryPostgres/query_manifest.py,sha256=fZ4fNh3stDvNN1dXcjr4oZvzpEccV6Uk031fSR3BRlI,7337
+AGQueryPostgres/query_postgres.py,sha256=n5Y5kWDF4NQCaSDLaZOyvHV5cTNeVtErksIWrr15kZA,3444
+AGQueryPostgres/query_tools.py,sha256=NIEheEhDjmjOdty0MTRdTE-idUf7lEreFb1kv6XE9QQ,1357
+AGQueryPostgres/query_where.py,sha256=gtZppUYhnRx12u_CPvo0oeLo-OpYbnDUSJ6PNz_uEm0,15543
+AGQueryPostgres/security.py,sha256=eKe8TZKJ9mAcE4G2ebVERSTjZTCpToDkLrPIx8_WKPU,3970
+AGQueryPostgres/settings.py,sha256=lHyAcSd68KFZB3x0H6RYvzj7nFQ0MxoBnd54xj0TUPw,19
+AGQueryPostgres-1.0.10.dist-info/LICENSE,sha256=pAZXnNE2dxxwXFIduGyn1gpvPefJtUYOYZOi3yeGG94,1068
+AGQueryPostgres-1.0.10.dist-info/METADATA,sha256=0fUO57-15ycSyMjXEUxuKI6v65jL-aJLKbfm7wpSpSM,1690
+AGQueryPostgres-1.0.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+AGQueryPostgres-1.0.10.dist-info/top_level.txt,sha256=IbGPU2J5rQnOqLfiHoCIc--XVFNsugH6NObR-cB0S1M,16
+AGQueryPostgres-1.0.10.dist-info/RECORD,,
