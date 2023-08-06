@@ -1,0 +1,14 @@
+serket/__init__.py,sha256=TOWz2MzDXnyvplfI2aARiA9mlrZaNt-SPqo6YpQkuww,104
+serket/nn/__init__.py,sha256=ojjSjc9ZPtHN61XFGvOkAIyCSNx4SVCwQDpWbsVtwjM,168
+serket/nn/dropout.py,sha256=FcUupdCKMCQD6Rocdzv5EISypIk-vSCVYliix35cKU0,823
+serket/nn/linear.py,sha256=reXWEM7MohFefiuzXPnkkvOXtB4rKy3lv4Zdb5mbAbU,2169
+serket/nn/sequential.py,sha256=eFV_dMfKvDYEzuGXPRzqd4WT-8RKdeTpxy2F7VddlGE,742
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_dropout.py,sha256=1ppOQrbdjt7fs8kK2NyeqyD8aL7SQyxteEAMNIv_vMg,524
+tests/test_linear.py,sha256=8hj0unenLTxT_diSmF2v_CNUWQOuzt4SPiEIccHVDc4,632
+tests/test_sequential.py,sha256=iTaidfllXiN-uMDGm5ASv0r1_X64F4nIE8YpXx-OzNY,303
+serket-0.0.1.dist-info/LICENSE,sha256=2gVyKuTo8XqUS4BKgN1QJbcRTJaB6nwD97H20JyztGY,1069
+serket-0.0.1.dist-info/METADATA,sha256=zT1ZdbBNU9lc_zjbtKXBCBzXk2exG8JeUNslbQqOv3M,5849
+serket-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+serket-0.0.1.dist-info/top_level.txt,sha256=hTyPuHQOaVjsGLK3DYfrmrl7Fxs8Qz25CzYoZp1oiPY,33
+serket-0.0.1.dist-info/RECORD,,
