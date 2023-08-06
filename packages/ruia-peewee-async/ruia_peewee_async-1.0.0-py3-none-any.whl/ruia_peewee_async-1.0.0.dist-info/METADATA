@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ruia-peewee-async
+Version: 1.0.0
+Summary: A Ruia plugin that uses the peewee-async to store data to MySQL
+License: MIT
+Author: Jack Deng
+Author-email: dlwxxxdlw@gmail.com
+Requires-Python: >=3.7.2,<4.0.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: aiomysql
+Provides-Extra: aiopg
+Requires-Dist: aiomysql (>=0.1.1,<0.2.0); extra == "aiomysql"
+Requires-Dist: aiopg (>=1.3.4,<2.0.0); extra == "aiopg"
+Requires-Dist: peewee-async (>=0.8.0,<0.9.0)
+Requires-Dist: ruia (>=0.8.4,<0.9.0)
