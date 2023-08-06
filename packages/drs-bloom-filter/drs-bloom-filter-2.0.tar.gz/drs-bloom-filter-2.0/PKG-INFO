@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: drs-bloom-filter
+Version: 2.0
+Summary: Pure Python Bloom Filter module
+Home-page: http://stromberg.dnsalias.org/~strombrg/drs-bloom-filter/
+Author: Daniel Richard Stromberg
+Author-email: strombrg@gmail.com
+License: MIT
+Description: 
+        A pure python bloom filter (low storage requirement, probabilistic
+        set datastructure) is provided.
+        
+        Includes mmap, in-memory and disk-seek backends.
+        
+        The user specifies the desired maximum number of elements and the
+        desired maximum false positive probability, and the module
+        calculates the rest.
+        
+Keywords: probabilistic set datastructure
+Platform: Cross platform
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
