@@ -1,0 +1,170 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Developing Orange3 Add-ons &#8212; Orange3-HXLvisualETL 0.3.0rc1 documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/nature.css" />
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Hello World" href="widgets/mywidget.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="widgets/mywidget.html" title="Hello World"
+             accesskey="N">next</a> |</li>
+        <li class="nav-item nav-item-0"><a href="#">Orange3-HXLvisualETL 0.3.0rc1 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Developing Orange3 Add-ons</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="developing-orange3-add-ons">
+<h1>Developing Orange3 Add-ons<a class="headerlink" href="#developing-orange3-add-ons" title="Permalink to this heading">¶</a></h1>
+<p>Orange add-on is an ordinary python package, installed by running setup.py install and
+distributed via pypi. Widgets, tutorials and help are registered in setup.py file using
+entry points. When Orange Canvas starts, it reads this entry points, registers all the
+widgets and adds them to the menu. This containts one widget (Hello World), which is
+contained in a new category (My Category). The widget also displays help when you press F1.</p>
+<div class="section" id="registering-widgets">
+<h2>Registering widgets<a class="headerlink" href="#registering-widgets" title="Permalink to this heading">¶</a></h2>
+<p>The My Category category is registered using “orange.widgets” entry point in setup.py,
+which contains category name (My Category) and package that contains the widgets
+(orangecontrib.example.widgets). The packages __init__.py contains category metadata,
+including category ICON, BACKGROUD color and WIDGET_HELP_PATH. The latter can be either
+a local path or a url to a server which hosts the add-on documentation.</p>
+<p>Orange Canvas will automatically discover all widget modules that are placed inside
+the category package and put found widgets into the category. Widget is a class extending
+Orange.widgets.widget.OWWidget and has an attribute name. Each widget should be placed in
+a separate directory.</p>
+</div>
+<div class="section" id="providing-help-files">
+<h2>Providing Help files<a class="headerlink" href="#providing-help-files" title="Permalink to this heading">¶</a></h2>
+<p>When F1 is press on open widget or on a selected widget icon, a help file is shown. Help
+files are ordinary documentation pages, written in rst and placed into doc/widgets folder.</p>
+<p>Help pages can be written in markdown or in rst. The only requirement is that the title of
+the page is the same as the widget name. To allow automatic discovery of help pages, all
+widget help pages should be listed on a documentation page inside a section named Widget.</p>
+<p>The location of the documentation is set using the “orange.canvas.help” entrypoint. It
+usually points to the constant WIDGET_HELP_PATH in the package containing widgets. The
+constant should list the possible locations of the master page (the one that links to
+all widgets). This example add-on includes three different locations:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Development documentation is available for developers that manually build documentation
+using sphinx</p></li>
+<li><p>Locally installed documentation, which is available if the add-on was installed using
+a wheel package. Local installation has to be enabled in setup.py by calling function
+include_documentation.</p></li>
+<li><p>Online documentation points to the hosted documentation such as read the docs or
+python hosted.</p></li>
+</ul>
+</div></blockquote>
+<p>The locations are tried in order they are listed, the first one available will be used.</p>
+<p>Beside widgets, add-on can also include tutorial schemas, that are shown in the Welcome
+dialog. Tutorials are ordinary ows files, but often include annotations that guide the user.
+Tutorial packages are registered in setup.py using “orange.widgets.tutorials” entry point.</p>
+<p>Contents:</p>
+<div class="toctree-wrapper compound">
+</div>
+</div>
+<div class="section" id="widgets">
+<h2>Widgets<a class="headerlink" href="#widgets" title="Permalink to this heading">¶</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="widgets/mywidget.html">Hello World</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="section" id="indices-and-tables">
+<h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this heading">¶</a></h1>
+<ul class="simple">
+<li><p><a class="reference internal" href="genindex.html"><span class="std std-ref">Index</span></a></p></li>
+<li><p><a class="reference internal" href="py-modindex.html"><span class="std std-ref">Module Index</span></a></p></li>
+<li><p><a class="reference internal" href="search.html"><span class="std std-ref">Search Page</span></a></p></li>
+</ul>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div>
+    <h3><a href="#">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">Developing Orange3 Add-ons</a><ul>
+<li><a class="reference internal" href="#registering-widgets">Registering widgets</a></li>
+<li><a class="reference internal" href="#providing-help-files">Providing Help files</a></li>
+<li><a class="reference internal" href="#widgets">Widgets</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+</ul>
+
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="widgets/mywidget.html"
+                          title="next chapter">Hello World</a></p>
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/index.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="widgets/mywidget.html" title="Hello World"
+             >next</a> |</li>
+        <li class="nav-item nav-item-0"><a href="#">Orange3-HXLvisualETL 0.3.0rc1 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Developing Orange3 Add-ons</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright EticaAI, EticaAI.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 5.0.2.
+    </div>
+  </body>
+</html>

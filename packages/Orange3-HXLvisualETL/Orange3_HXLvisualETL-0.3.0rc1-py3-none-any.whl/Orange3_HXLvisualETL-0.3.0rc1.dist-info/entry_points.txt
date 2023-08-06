@@ -1,0 +1,12 @@
+[orange.canvas.help]
+html-index = orangecontrib.hxl.widgets:WIDGET_HELP_PATH
+
+[orange.widgets]
+Orange3-HXLReferenceData = orangecontrib.referencedata.widgets
+Orange3-HXLvisualETL = orangecontrib.hxl.widgets
+
+[orange.widgets.tutorials]
+hxltutorials = orangecontrib.hxl.tutorials
+
+[orange3.addon]
+Orange3-HXLvisualETL = orangecontrib.hxl
