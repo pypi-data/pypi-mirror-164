@@ -1,0 +1,7 @@
+setup.py
+CGTasks.egg-info/PKG-INFO
+CGTasks.egg-info/SOURCES.txt
+CGTasks.egg-info/dependency_links.txt
+CGTasks.egg-info/not-zip-safe
+CGTasks.egg-info/requires.txt
+CGTasks.egg-info/top_level.txt
