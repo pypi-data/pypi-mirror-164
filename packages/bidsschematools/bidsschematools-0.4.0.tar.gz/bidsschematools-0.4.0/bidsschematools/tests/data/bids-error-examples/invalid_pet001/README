@@ -1,0 +1,9 @@
+This dataset consists of a single PET measurement of a pig using [11C]CIMBI-36 to measure serotonin 2A availability. There are arterial measurements available for this tracer.
+
+# BIDS Error
+
+This dataset exemplifies subject mismatch between the filename entity and the directory name.
+
+```
+sub-01/ses-01/anat/sub-02_ses-01_T1w.json
+```
