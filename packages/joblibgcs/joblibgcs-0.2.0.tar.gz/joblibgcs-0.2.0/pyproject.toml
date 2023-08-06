@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "joblibgcs"
+version = "0.2.0"
+description = "a google cloud storage memory backend for joblib"
+authors = ["Gautam Sisodia <gautam.sisodia@gmail.com>"]
+keywords = ["joblib storage backend", "google cloud storage"]
+readme = "README.md"
+license = "MIT"
+homepage = "https://gitlab.com/gautas/joblibgcs"
+repository = "https://gitlab.com/gautas/joblibgcs"
+include = [
+    "LICENSE",
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+joblib = "^1.1.0"
+gcsfs = "^2022.7.1"
+ipykernel = {version = "^6.15.1", optional = true}
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.971"
+black = "^22.6.0"
+numpy = "^1.23.2"
+
+[tool.poetry.extras]
+book = ["ipykernel"]
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
