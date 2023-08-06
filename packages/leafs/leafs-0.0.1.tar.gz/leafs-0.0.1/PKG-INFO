@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: leafs
+Version: 0.0.1
+Summary: Used to read leafs format files
+Home-page: https://www.autotests.cn
+Author: qimoxue
+Author-email: chenlong970208@163.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
