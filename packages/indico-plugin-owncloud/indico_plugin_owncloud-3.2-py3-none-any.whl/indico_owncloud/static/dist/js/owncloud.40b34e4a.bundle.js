@@ -1,0 +1,2 @@
+window.setupOwncloudFilePickerWidget=e=>{let{filepickerUrl:i,fieldId:d}=e;window.addEventListener("message",(e=>{const n=document.querySelector("#owncloud_filepicker-file-picker");n&&e.origin===i&&e.source===n.contentWindow&&e.data&&e.data.files&&(document.getElementById(`${d}-files`).value=e.data.files.join("\n"))}))};
+//# sourceMappingURL=owncloud.40b34e4a.bundle.js.map
