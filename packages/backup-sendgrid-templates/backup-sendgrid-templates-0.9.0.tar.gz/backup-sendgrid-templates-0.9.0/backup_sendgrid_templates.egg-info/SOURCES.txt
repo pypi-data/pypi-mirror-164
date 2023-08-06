@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+backup_sendgrid_templates/__init__.py
+backup_sendgrid_templates/__main__.py
+backup_sendgrid_templates/aws_utils.py
+backup_sendgrid_templates/service.py
+backup_sendgrid_templates/strategies.py
+backup_sendgrid_templates.egg-info/PKG-INFO
+backup_sendgrid_templates.egg-info/SOURCES.txt
+backup_sendgrid_templates.egg-info/dependency_links.txt
+backup_sendgrid_templates.egg-info/entry_points.txt
+backup_sendgrid_templates.egg-info/requires.txt
+backup_sendgrid_templates.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+backup_sg_on_fs = backup_sendgrid_templates.__main__:backup_templates_on_file_system
+backup_sg_on_s3 = backup_sendgrid_templates.__main__:backup_templates_on_s3
