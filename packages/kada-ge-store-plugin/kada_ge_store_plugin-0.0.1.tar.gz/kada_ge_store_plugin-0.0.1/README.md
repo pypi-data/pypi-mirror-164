@@ -1,0 +1,31 @@
+# ge-kada-plugin
+
+### Steps to use the KadaStoreValidationResultsAction from the plugin
+
+1. In your required `checkpoint`, add the following action to your checkpoint `.yml` file.
+
+```yml
+  - name: store_kada_validation_result
+    action:
+      class_name: KadaStoreValidationResultsAction
+      module_name: kada_store_validation
+      container: ${VALIDATIONS_CONTAINER}
+      prefix: lz/ge_landing/landing
+      connection_string: DefaultEndpointsProtocol=https;AccountName=${STORAGE_ACCOUNT_NAME};AccountKey=${STORAGE_ACCOUNT_KEY};EndpointSuffix=core.windows.net
+```
+
+You should change the prefix to your desired nested blob storage.
+
+2. In your uncommited/config_variables.yml file or if you are using environment variables, add the following variables related to the azure storage account:
+
+    * STORAGE_ACCOUNT_NAME
+    * STORAGE_ACCOUNT_KEY
+    * VALIDATIONS_CONTAINER
+    
+3. Add/Change the `run_name_template` in your checkpoint `.yml` file to `'%Y%m%d%H%M%S'`.
+
+### Note
+
+If your checkpoint's `action_list` contains a `StoreValidationResultAction`, the validation results will get stored in the given validtions store inside `great_expectations.yml` file and also in the Azure Storage container with the custom `.json` filename. Basically, you'll be storing validation results in 2 different places.
+
+Since this is a new plugin, it might be worthwhile keeping the `StoreValidationResultAction` to make sure the validation results are getting stored even with a failure in this plugin.

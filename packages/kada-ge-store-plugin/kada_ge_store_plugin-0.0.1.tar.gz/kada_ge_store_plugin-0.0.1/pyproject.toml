@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "kada_ge_store_plugin"
+version = "0.0.1"
+authors = [
+  { name="Ali Bhayani", email="ali@cloudshuttle.com.au" },
+]
+description = "Plugin package for great_expectations to store validation results in a different format in Azure storage"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"CloudShuttle" = "https://www.cloudshuttle.com.au/"
