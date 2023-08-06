@@ -1,0 +1,2 @@
+[console_scripts]
+imgcompose = imgcomposer.scripts:imgcompose

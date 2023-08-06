@@ -1,0 +1,12 @@
+imgcomposer/__init__.py,sha256=orfC2B6baanbwUM1aEZ_fP-AEw5n5PL5zy9zrfaG6HQ,780
+imgcomposer/codeimg.py,sha256=6LMCSYNGuTCFt6PwAt8Z3S9zE1UkVxTaqc31xULQ6_M,1205
+imgcomposer/datamatrix.py,sha256=N6wq7ECq0E9cVy7pNHe9usUzA6-2llH_bpxchkO3QPk,617
+imgcomposer/qrcode.py,sha256=9ma4nqw6oHMAN717nVvPPJhMpl-TE4dvPPVeajSZZno,526
+imgcomposer/scripts.py,sha256=MBLkjqoQkre0ZSiyasaElWqpFAX3lKhxYxo1JZJ2a5I,2701
+imgcomposer/upca.py,sha256=_XF08hBBMB_oGmwRO97ILmbIM3RqWe18DqV8nDpmaFc,666
+barcode_image_composer-1.0.0.dist-info/LICENSE,sha256=znpaQP7OM085nhEnvOfM-D3Z7S9zfZ54GC2r9M41e_I,1066
+barcode_image_composer-1.0.0.dist-info/METADATA,sha256=ZG7nZnPXAB5jIb8Rb4z70McYlyloEIlEkCnbO0kSMiU,4724
+barcode_image_composer-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+barcode_image_composer-1.0.0.dist-info/entry_points.txt,sha256=EE1Xa4SCVUQj0zfDGk4oZ8Am3qY_hAzhrdTcG3v_rIs,62
+barcode_image_composer-1.0.0.dist-info/top_level.txt,sha256=T6aBBdFP1hF9g0FibOcA-vhZahE9HercD3wpgTKbMC8,12
+barcode_image_composer-1.0.0.dist-info/RECORD,,
