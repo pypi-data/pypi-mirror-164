@@ -1,0 +1,8 @@
+solarenergy/__init__.py,sha256=rFoVscK4ZhbOjbjfkXDYbZvdx37JBetl7GXgoZ3jE6U,2115
+solarenergy/radiation.py,sha256=r3d2zQtCII_dZpFm8FuQEzJ96BXpIbW9phR7sPJlLto,27270
+solarenergy/solar_panels.py,sha256=y1z4uSEUk-D-b8CEg5NGcZuz2AMfe2SVqlrg2xby9jw,2446
+solarenergy-0.1.0.dist-info/LICENCE,sha256=b8nnCcy_4Nd_v_okJ6mDKCvi64jkexzbSfIag7TR5mU,13827
+solarenergy-0.1.0.dist-info/METADATA,sha256=sq-4mSl5p2MX1KyZ6mpMDN9nC6o72LDz6bYM8NAAJpg,9750
+solarenergy-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+solarenergy-0.1.0.dist-info/top_level.txt,sha256=T6oVr_VXLzBF29Mf8aBhSj1ehUIBdXsmZkv5zUU7w7A,12
+solarenergy-0.1.0.dist-info/RECORD,,
