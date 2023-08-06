@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/pygow-poker/__init__.py
+src/pygow-poker/betting_strat.py
+src/pygow-poker/game.py
+src/pygow-poker/game_configs.py
+src/pygow-poker/house_strat.py
+src/pygow-poker/player_strat.py
+src/pygow_poker.egg-info/PKG-INFO
+src/pygow_poker.egg-info/SOURCES.txt
+src/pygow_poker.egg-info/dependency_links.txt
+src/pygow_poker.egg-info/requires.txt
+src/pygow_poker.egg-info/top_level.txt
