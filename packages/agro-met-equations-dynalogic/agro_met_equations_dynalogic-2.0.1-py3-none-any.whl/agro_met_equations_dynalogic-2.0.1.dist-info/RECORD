@@ -1,0 +1,11 @@
+AgroMetEquations/.gitignore,sha256=ouv-zbbBtYJn--l-birALCuWPfdnP8EEcnDw8M_xZzI,1203
+AgroMetEquations/__init__.py,sha256=IizHmODrJDw-RtsEAnn5FF8aVF8XhYTF0CMybnrm7FI,2005
+AgroMetEquations/auxiliary.py,sha256=rgZlH3uB6isp6w0PwpEXBQ8GPYrcBNSEBY1MWlvY7kQ,42480
+AgroMetEquations/config.py,sha256=Jh3zDXtERaiwTmBQ1WGbMI7j0Ln5guYUmcmZE7CHeZE,912
+AgroMetEquations/docs/Evapotranspiration_Equation.pdf,sha256=2lqVbvePQNCrJXDsbsZOPDpiyDLl5OzxEVkBoR4gDtA,307258
+AgroMetEquations/evapotranspiration_equations.py,sha256=2pl8rnDJ5nwHxXiZGfSVZcq14Z1gJ7hvf9ItQ6u2bnA,7830
+AgroMetEquations/thornthwaite_mather_1955_waterbalance.py,sha256=-XPPLQOZauI8jJh9URfY0hqeJHJoLwPR3ylZ6kusjbo,3492
+agro_met_equations_dynalogic-2.0.1.dist-info/LICENSE,sha256=ZCodexoL6h_O_RirBCoGOnxNqGXXYjeUeuuqrBgQNtM,1517
+agro_met_equations_dynalogic-2.0.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+agro_met_equations_dynalogic-2.0.1.dist-info/METADATA,sha256=JjnTi56fDzQv5pN5zi2_r_m7JttuTusr7h56PTSpsOw,3953
+agro_met_equations_dynalogic-2.0.1.dist-info/RECORD,,
