@@ -1,0 +1,1 @@
+A subclass of 'list' only allowing 'tuple's as its items.

@@ -1,0 +1,23 @@
+[build-system]
+
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "TupleList_virumoru"
+version = "0.0.1"
+authors = [
+  { name="virumoru"},
+]
+description = "A subclass of 'list' only allowing 'tuple's as its items"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: The Unlicense (Unlicense)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/virumoru/TupleList"
+"Bug Tracker" = "https://github.com/virumoru/TupleList/issues"
