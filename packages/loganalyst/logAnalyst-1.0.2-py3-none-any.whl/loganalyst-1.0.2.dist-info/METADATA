@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: loganalyst
+Version: 1.0.2
+Summary: Analyse some log files
+License: MIT
+Author: fdev31
+Author-email: fdev31@gmail.com
+Requires-Python: >=3.8
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: python-dateutil (>=2.8.2,<3.0.0)
+Requires-Dist: termcolor (>=1.1.0,<2.0.0)
