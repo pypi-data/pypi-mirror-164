@@ -1,0 +1,3 @@
+[console_scripts]
+gen-open-api-spec=pydantic_lambda_handler.gen_open_api_inspect:main
+
