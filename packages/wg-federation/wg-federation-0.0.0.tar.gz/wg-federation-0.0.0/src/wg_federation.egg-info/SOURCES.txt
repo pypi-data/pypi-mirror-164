@@ -1,0 +1,16 @@
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+NOTICE
+README.md
+pyproject.toml
+setup.py
+src/wg_federation/__init__.py
+src/wg_federation/constants.py
+src/wg_federation/hello.py
+src/wg_federation.egg-info/PKG-INFO
+src/wg_federation.egg-info/SOURCES.txt
+src/wg_federation.egg-info/dependency_links.txt
+src/wg_federation.egg-info/entry_points.txt
+src/wg_federation.egg-info/requires.txt
+src/wg_federation.egg-info/top_level.txt
