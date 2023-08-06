@@ -1,0 +1,10 @@
+tailslide/__init__.py,sha256=5FKxhMADDND6sIbT39-KaaXNm8JW6N6b7G-HpS9auYk,38
+tailslide/flag_manager.py,sha256=lsWLg9wMGTPT84MBQvpOaOMo22SEQmjLwlrJIkbkK5k,1299
+tailslide/nats_client.py,sha256=j5pF8Wz5yxt7SK9wq_-tSL7-AUbNZsh6fnaQjJiLzdQ,2792
+tailslide/redis_timeseries_client.py,sha256=tUn5wCUGDqlreqjSSmkfDYFK9pcdfjyzMchdL5g9vaQ,579
+tailslide/toggler.py,sha256=VRm2lVxkTmdqzFljHS4vHWnPy5Kamfpvm8eMqM3TgLc,2122
+tailslide_sdk-0.1.7.dist-info/LICENSE,sha256=VwszpzrAygwIIdQHVf4hAaezM-iaK81wH2QEA5V7Hxo,1078
+tailslide_sdk-0.1.7.dist-info/METADATA,sha256=Da6UPj98PSB6CQ-4gFFexDt8UvuNlHQq05JcRvRtLEY,786
+tailslide_sdk-0.1.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tailslide_sdk-0.1.7.dist-info/top_level.txt,sha256=tC1tXk9R_hn_g6NFrqUZLGQZRmFSTi8qvbTJa8AP0AU,10
+tailslide_sdk-0.1.7.dist-info/RECORD,,
