@@ -1,0 +1,10 @@
+_sounddevice.py,sha256=jL4uJeTJBX_NwA50STpep23oXnRD1Yn_t3DWFxLUw30,13933
+sounddevice.py,sha256=i9YlWjQV9VkbX-e943VD5wDg8Hil5c6GuAeIb16EBXo,107959
+_sounddevice_data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+_sounddevice_data/portaudio-binaries/README.md,sha256=fVjYwOV2noTPd-W1gNUcx0YzAIJRNSM_3cK81TPZZQ4,3099
+_sounddevice_data/portaudio-binaries/libportaudio32bit.dll,sha256=Bpghf1rwAPqkA0CGd1GPpdzN-76U8ArnrEJ3kQV1eH4,339456
+sounddevice-0.4.5.dist-info/LICENSE,sha256=uQNuXrM4d2UR4jcgd6Mr5SntkGT85OHipbdOtXWeW6s,1063
+sounddevice-0.4.5.dist-info/METADATA,sha256=d8FiM3RbP7h7OeEZn8jqNBG60gHMh8MBxTaU6mfbfg0,1358
+sounddevice-0.4.5.dist-info/WHEEL,sha256=-Ii4AvxI1xY6ei6edHf20sWJQxzkEjIQmkF7g6dYLTo,94
+sounddevice-0.4.5.dist-info/top_level.txt,sha256=4x_9IJSWMb6StbHBe-jbHWC1cJf_unhQwxaMBghH_L4,43
+sounddevice-0.4.5.dist-info/RECORD,,
