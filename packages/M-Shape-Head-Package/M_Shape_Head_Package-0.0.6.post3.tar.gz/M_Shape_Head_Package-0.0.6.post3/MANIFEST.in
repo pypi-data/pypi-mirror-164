@@ -1,0 +1,8 @@
+`include *.md
+
+include ./src/requirements/requirements.txt
+exclude src/*.log
+exclude src/*.cfg
+
+recursive-exclude ./src/* __pycache__
+recursive-exclude ./src/* *.py[co]
