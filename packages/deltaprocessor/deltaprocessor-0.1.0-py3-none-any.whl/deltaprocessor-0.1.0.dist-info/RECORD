@@ -1,0 +1,10 @@
+deltaprocessor/__init__.py,sha256=rjo-fetZHIYPGCsOhDNAhp6qKsfN39mwD7rdnvSGLj4,21
+deltaprocessor/block.py,sha256=7KN2slPoh-_ruIgPsoif6a5t4qfSj3_RIVUjfxfTQ9s,6783
+deltaprocessor/delta_process.py,sha256=Oqgvcs3tRQ3LQLxKLetb3c90EB3iRSVj1u1ePrlthFA,19900
+deltaprocessor/document.py,sha256=seYfxMUHH0iX4ZqKZ60LLwqwGC1HfGSRy3FxHRSlWxA,531
+deltaprocessor/node.py,sha256=-kvAcANYAhv_mjBKB4PiGjB2obB2-zBfTASvUnyGNFQ,5251
+deltaprocessor/render.py,sha256=RsHj9sNJQM4sNWUts8jRezWZh0Q_BeG9b8KwMZ2wJIY,3122
+deltaprocessor-0.1.0.dist-info/METADATA,sha256=QMMMCmX95ZjGG_NCH3tuKdh_nEHSflHdD913fVVbnto,406
+deltaprocessor-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+deltaprocessor-0.1.0.dist-info/top_level.txt,sha256=eh8lRGuTFiPh1T82vPIYDwSkFrBZD7zF--XcOnvWCpw,15
+deltaprocessor-0.1.0.dist-info/RECORD,,

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: deltaprocessor
+Version: 0.1.0
+Summary: Delta Processor
+Author: Le Song Vi
+Author-email: lesongvi@gmail.com
+License: GPLv3+
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Requires-Dist: bleach
+Requires-Dist: nvnc
+Requires-Dist: setuptools
+
+Delta Processor
