@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+speaks/__init__.py
+speaks/main.py
+speaks.egg-info/PKG-INFO
+speaks.egg-info/SOURCES.txt
+speaks.egg-info/dependency_links.txt
+speaks.egg-info/requires.txt
+speaks.egg-info/top_level.txt
