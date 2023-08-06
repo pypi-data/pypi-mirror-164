@@ -1,0 +1,9 @@
+mycelial-0.2.1.dist-info/METADATA,sha256=PnPtL7uU3lMJELNE5IzYqE_8Q4kNQUbeKn4PTuIJ_4I,595
+mycelial-0.2.1.dist-info/WHEEL,sha256=KXrH08pss_NSarVgB0CKeKHlw6A5AsAw1KQDX4iGFZs,95
+mycelial/transport/relay/v0alpha.py,sha256=-yt1-f-7AHeyLQkZvYAAjwVdq8w1Raw3xUQioKTKmME,4110
+mycelial/transport/relay/__init__.py,sha256=jg0DD7SfkCAoSE_OcDBibIUjfRV25ekqs6v_iySjv60,30
+mycelial/transport/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mycelial/_mycelial.py,sha256=MjRj9UxXwRA-ztWyV-Ov6-qzQfIcKco6woiCaxi_IuM,1291
+mycelial/__init__.py,sha256=cXRxWVYCkrlM-c96Jx7N5v6SSyrOOvYw9cfYnNVVUZM,33
+mycelial/mycelial.cp39-win_amd64.pyd,sha256=mYKGYAppJsiPCNJCjcgOrOvliFCne0S--zC4_xPTbSA,569344
+mycelial-0.2.1.dist-info/RECORD,,

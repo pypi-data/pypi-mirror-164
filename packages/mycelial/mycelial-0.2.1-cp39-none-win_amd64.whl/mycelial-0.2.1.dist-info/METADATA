@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: mycelial
+Version: 0.2.1
+Requires-Dist: websockets==10.3
+Summary: mycelial python bindings
+License: Apache-2.0
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+
+## Python bindings to mycelial-crdt
+
+## How to install:
+* Install rust (https://rustup.rs/)  
+* Install pyo3 build toolchain: `brew install maturin` or `cargo install maturin`  
+* Install py virtualenv:  
+  * `brew install virtualenvwrapper`
+  * `echo ". virtualenvwrapper.sh" > ~/.bashrc`
+  * `mkdvirtualenv py3`
+  * `workon py3`
+* Run `maturin build`
+
