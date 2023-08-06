@@ -1,0 +1,10 @@
+pandas
+stardist
+scipy
+tifffile
+matplotlib
+napari
+diplib
+opencv-python
+photutils
+albumentations
