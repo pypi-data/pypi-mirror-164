@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: hourglass-tensorflow
+Version: 1.0.1
+Summary: Tensorflow implementation of Stacked Hourglass Networks for Human Pose Estimation
+License: MIT
+Author: wbenbihi
+Author-email: waligoo@gmail.com
+Requires-Python: >=3.9,<3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: numpy (>=1.23.2,<2.0.0)
+Requires-Dist: pandas (>=1.4.3,<2.0.0)
+Requires-Dist: pydantic (>=1.9.2,<2.0.0)
+Requires-Dist: scipy (>=1.9.0,<2.0.0)

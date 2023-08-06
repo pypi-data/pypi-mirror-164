@@ -1,0 +1,3 @@
+[console_scripts]
+htf=cli.__init__:cli
+
