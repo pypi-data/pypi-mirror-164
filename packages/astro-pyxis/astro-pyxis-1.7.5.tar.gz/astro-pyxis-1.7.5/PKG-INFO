@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: astro-pyxis
+Version: 1.7.5
+Summary: Python Extensions for astronomical Interferometry Scripting
+Home-page: https://github.com/ska-sa/pyxis
+Author: Oleg Smirnov
+Author-email: Oleg Smirnov <osmirnov@gmail.com>
+Requires-Python: >=3.0.0

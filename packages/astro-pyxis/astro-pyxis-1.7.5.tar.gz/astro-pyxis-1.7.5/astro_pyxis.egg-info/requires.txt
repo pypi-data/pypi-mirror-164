@@ -1,0 +1,6 @@
+astropy>=3.0
+matplotlib
+python_casacore
+numpy>=1.16
+scipy
+future
