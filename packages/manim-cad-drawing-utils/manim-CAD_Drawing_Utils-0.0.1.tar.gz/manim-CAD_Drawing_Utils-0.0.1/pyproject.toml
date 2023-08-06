@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "manim-CAD_Drawing_Utils"
+version = "0.0.1"
+description = "A collection of utility functions to for creating CAD-like visuals in Manim."
+license = "MIT"
+authors = ["GarryBGoode"]
+readme = "README.md"
+repository = "https://github.com/GarryBGoode/Manim_CAD_Drawing_utils"
+documentation=""
+classifiers= [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Multimedia :: Video",
+    "Topic :: Multimedia :: Graphics",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+	"Programming Language :: Python :: 3.9",
+    "Natural Language :: English",
+]
+
+[tool.poetry.dependencies]
+python = ">=3.7,<3.11"
+manim = ">=0.15.2<=1.0"
+scipy = "*"
+bezier = "*"
+
+[tool.poetry.plugins."manim.plugins"]
+"manim_cad_drawing_utils" = "manim_cad_drawing_utils"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
