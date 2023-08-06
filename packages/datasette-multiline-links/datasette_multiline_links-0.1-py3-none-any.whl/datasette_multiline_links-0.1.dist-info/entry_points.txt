@@ -1,0 +1,2 @@
+[datasette]
+multiline_links = datasette_multiline_links
