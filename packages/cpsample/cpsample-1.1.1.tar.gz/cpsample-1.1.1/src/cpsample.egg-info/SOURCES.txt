@@ -1,0 +1,6 @@
+setup.py
+src/cpsample.egg-info/PKG-INFO
+src/cpsample.egg-info/SOURCES.txt
+src/cpsample.egg-info/dependency_links.txt
+src/cpsample.egg-info/requires.txt
+src/cpsample.egg-info/top_level.txt
