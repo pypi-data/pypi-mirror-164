@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: dejax
+Version: 0.1.0
+Summary: Accelerated replay buffers in JAX.
+Home-page: https://github.com/hr0nix/dejax
+Author: Boris Yangel
+Author-email: boris.jangel@gmail.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# dejax
+Accelerated replay buffers in JAX
+
+
