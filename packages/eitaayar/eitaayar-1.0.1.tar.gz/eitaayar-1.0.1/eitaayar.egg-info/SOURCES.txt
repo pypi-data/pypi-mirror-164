@@ -1,0 +1,7 @@
+setup.py
+eitaayar/__init__.py
+eitaayar.egg-info/PKG-INFO
+eitaayar.egg-info/SOURCES.txt
+eitaayar.egg-info/dependency_links.txt
+eitaayar.egg-info/top_level.txt
+eitaayar/methods/__init__.py
