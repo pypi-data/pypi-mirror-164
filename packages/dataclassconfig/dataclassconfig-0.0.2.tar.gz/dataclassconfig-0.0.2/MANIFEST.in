@@ -1,0 +1,6 @@
+include *.md
+include requirements.txt
+include LICENSE
+recursive-include dataclassconfig *.py
+recursive-include dataclassconfig *.pyi
+recursive-include dataclassconfig *.typed
