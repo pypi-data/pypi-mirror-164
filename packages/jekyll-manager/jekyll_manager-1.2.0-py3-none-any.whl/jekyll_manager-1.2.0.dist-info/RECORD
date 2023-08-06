@@ -1,0 +1,10 @@
+jekyll_manager/__main__.py,sha256=T_sBiHreipVeAPJz1bQp7FZ7-ryrXCcEauxXoD-ADGI,1374
+jekyll_manager/exceptions.py,sha256=s55Lz_BwTbLgzjEQ7qzrrZBA800U6o13mInrgYO0SQ8,159
+jekyll_manager/manager.py,sha256=T8W7Bt5etRVQp7TIwiez87iACocSfrhGS_2npyOi6L4,11755
+jekyll_manager/post.py,sha256=9eA7ksIaSGFWzKCRoGX9Kqxi631V0i6r0lJjzFcWyXQ,8525
+jekyll_manager/utils.py,sha256=chyKBo-8tit0675sUBOpudV7b_SkEUAkHCJriWwy3PM,2638
+jekyll_manager-1.2.0.dist-info/METADATA,sha256=UXjUNA9l8eXGD_x95-O7U6wbTdDyjl74oTyyu-wmKL8,4546
+jekyll_manager-1.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+jekyll_manager-1.2.0.dist-info/entry_points.txt,sha256=tJrDslVpdqGm6-THD64ybm7aPPHlDkcdozU4Ub_ZkS4,64
+jekyll_manager-1.2.0.dist-info/top_level.txt,sha256=kbqBLHBm8KWDpPLybCcmfIq2QXBr6OQhTLNa5dXwhSk,15
+jekyll_manager-1.2.0.dist-info/RECORD,,
