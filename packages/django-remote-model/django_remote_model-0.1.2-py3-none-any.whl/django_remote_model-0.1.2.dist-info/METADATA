@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: django-remote-model
+Version: 0.1.2
+Summary: Django Remote Model
+Home-page: https://github.com/minaaaatef/Django-Remote-Model
+Author: Mina Atef
+Author-email: mina.atef0@gmail.com
+License: MIT
+Keywords: example project
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Requires-Dist: scikit-learn
+
+UNKNOWN
+
