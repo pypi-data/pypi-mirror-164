@@ -1,0 +1,24 @@
+build/
+.*~
+.nox
+*.pyc
+__pycache__
+.DS_Store
+/locales/
+
+
+# Environments
+.env
+.venv
+.venv37
+.venv36
+env/
+venv/
+venv36/
+venv37/
+ENV/
+env.bak/
+venv.bak/
+
+#module stuff
+/src/luca_klio_lambda_sdk.egg-info

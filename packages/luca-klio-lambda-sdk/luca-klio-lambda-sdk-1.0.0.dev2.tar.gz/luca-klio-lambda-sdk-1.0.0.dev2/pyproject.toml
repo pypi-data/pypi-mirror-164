@@ -1,0 +1,34 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "luca-klio-lambda-sdk"
+description = "Library and SDK for lambda functions used in conjunction with Klio"
+requires-python = ">=3.7"
+keywords = ["Klio", "Luca", "LucaMedCo"]
+license = {text = "BSD 3-Clause License"}
+version = "1.0.0.dev2"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dynamic = ["readme", "dependencies"]
+
+
+
+[project.urls]
+Homepage = "https://github.com/LucaMedCo/luca-klio-lambda-sdk/"
+
+[tool.setuptools.packages.find]
+where = ["src"]  # list of folders that contain the packages (["."] by default)
+
+[tool.setuptools.dynamic]
+readme = {file = ["README.rst"]}
+dependencies = {file = ["requirements.txt"]}
+
