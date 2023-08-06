@@ -1,0 +1,9 @@
+README.md
+setup.py
+twitch_profile_search/__init__.py
+twitch_profile_search/main.py
+twitch_profile_search.egg-info/PKG-INFO
+twitch_profile_search.egg-info/SOURCES.txt
+twitch_profile_search.egg-info/dependency_links.txt
+twitch_profile_search.egg-info/requires.txt
+twitch_profile_search.egg-info/top_level.txt
