@@ -1,0 +1,10 @@
+README.rst
+licence.txt
+setup.py
+fiaprintf.egg-info/PKG-INFO
+fiaprintf.egg-info/SOURCES.txt
+fiaprintf.egg-info/dependency_links.txt
+fiaprintf.egg-info/top_level.txt
+printf/__init__.py
+printf/color.py
+printf/printf.py
