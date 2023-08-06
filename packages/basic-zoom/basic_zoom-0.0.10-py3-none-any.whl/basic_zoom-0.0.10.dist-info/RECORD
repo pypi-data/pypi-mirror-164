@@ -1,0 +1,11 @@
+basic_zoom/__init__.py,sha256=bhJW0EGVd2-sCaLsO-jqBFYBn30TI1wNNPgTqaYpkqo,31
+basic_zoom/base.py,sha256=6rm-vBHnUbcXYPccJaNF1VbpCbjwJH0TnH8sAJ4RNRU,8298
+basic_zoom/exceptions.py,sha256=J6L6h7dhQ6Bop-rN5vVkqy00ArgXG7GxBQAKhCvbY8I,1629
+basic_zoom/jwt_auth.py,sha256=EOjG41ft4qIc6jTwfdGg61VGlt1jtXcHrvQ_hMC2CVM,1140
+basic_zoom/print.py,sha256=28lmJaZymMjyIvdWiK2pl9pVIfonkiyZO-ztbFMrmoo,948
+basic_zoom/s2s_auth.py,sha256=LRvISnz8TEDOY3uuoe4RXp4OTplZp0DJjecUEu59WfY,1746
+basic_zoom-0.0.10.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+basic_zoom-0.0.10.dist-info/METADATA,sha256=mBmltbQfuve0YN7BnG0PlY8bZRC7EhwUuMHTlcTO6aw,651
+basic_zoom-0.0.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+basic_zoom-0.0.10.dist-info/top_level.txt,sha256=Del-AK59LtDgJ1owGoDzHhHAFCok1HJA-uubdP266sE,11
+basic_zoom-0.0.10.dist-info/RECORD,,
