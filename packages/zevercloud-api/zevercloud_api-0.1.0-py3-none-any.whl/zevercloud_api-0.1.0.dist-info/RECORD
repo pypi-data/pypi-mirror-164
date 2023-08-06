@@ -1,0 +1,10 @@
+zevercloud/__init__.py,sha256=-bq_kOyNDN1bcxXgHakJx9JK7tnamKxZuk_WYPR_nf4,53
+zevercloud/cloud.py,sha256=22UPsXNWiprLLqQxCtiQUTuZ-lSDY4B5CcVh7uFy4Bw,10205
+zevercloud/event.py,sha256=ZXtBkfE2d2zyjaTUlTtzSB4PwFSXwH9ERp8i08G3a1k,1804
+zevercloud/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zevercloud_api-0.1.0.dist-info/LICENSE,sha256=6pwTToBty1jVOmyUZ8n2xr8vt1HpsyjI2Nnz10IxIE8,1076
+zevercloud_api-0.1.0.dist-info/METADATA,sha256=-HDGg1mMKJcvSw0z_GbUyABB-Aq7bifWWdrQ9_5PjAQ,3824
+zevercloud_api-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+zevercloud_api-0.1.0.dist-info/top_level.txt,sha256=9bynFWhbAl8EjpDOlN-QC4gjWu97zv2swI5dqFjmBw4,11
+zevercloud_api-0.1.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+zevercloud_api-0.1.0.dist-info/RECORD,,
