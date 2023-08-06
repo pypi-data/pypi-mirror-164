@@ -1,0 +1,5 @@
+lxml>=4.2.3
+markdown
+monotonic>=1.5
+python-dotenv
+requests!=2.9.0
