@@ -1,0 +1,1 @@
+(function(){"use strict";var e={beginPayload:!0,"prefix":"PYTHON WAS HERE",endPayload:!0};self.postMessage("Hello from the worker");const o=e.prefix;console.log("Worker is executed"),self.onmessage=a=>{self.postMessage(`${o} : I am the worker and I received: ${a.data}`)}})();

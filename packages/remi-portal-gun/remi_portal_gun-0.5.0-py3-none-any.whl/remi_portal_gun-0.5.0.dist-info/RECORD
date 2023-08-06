@@ -1,0 +1,17 @@
+remi_portal_gun/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+remi_portal_gun/access_static.py,sha256=SYK42ELYtguzCfz_g8X7tLmgziwLB1SYNAXcMjocLe4,1486
+remi_portal_gun/discovery.py,sha256=S3-ZB66Dt-Jn6g0lWxAluA5Z_0UKEHdX3AAHV15KJ0I,1026
+remi_portal_gun/faster.sh,sha256=MHv5K2OyvayN3WfTDl3barSXrLvhFDOW80ZoHREg0ws,125
+remi_portal_gun/inject_json_into_js.py,sha256=LujwTsT5ikjLYWNv-kgWdGa19CLxBO8RtKzoqOvqQk8,901
+remi_portal_gun/main.py,sha256=i4UnbxDUQZSALPi0vIq7WayvA-Hex2raQhNflUlMUvM,1722
+remi_portal_gun/server.py,sha256=oNcbRKTWY23Hp868p-lhl6X1NmJc39uSpd74yfUL2HE,466
+remi_portal_gun/www/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+remi_portal_gun/www/assets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+remi_portal_gun/www/assets/index.2b0816df.js,sha256=-u8i0p_MfKenNVcAv0cP_uPC8jBI5huduhCh4IUDI0E,95812
+remi_portal_gun/www/assets/worker.a1038a5f.js,sha256=btciDPr6pQISFE0foGHDA0PTioHNnA7m2b8Q2NAXycs,277
+remi_portal_gun/www/favicon.ico,sha256=23SrC3gzjB93j4OYxF9BA8ma6g6EWjEYp3ULTur9NEU,4286
+remi_portal_gun/www/index.html,sha256=UeQEvWzp-JnDLYIlasIDM-_lCVnE3JtObul-qR9rLcc,367
+remi_portal_gun-0.5.0.dist-info/entry_points.txt,sha256=yb2YKXbhmkXj7IrwjL-bqYt0rZeZsR7yHzR-gcLyrnI,60
+remi_portal_gun-0.5.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+remi_portal_gun-0.5.0.dist-info/METADATA,sha256=E9FAgFyPLNT2sw2HU1QawSNPGo0SpKpvRQY-LlhGuXs,465
+remi_portal_gun-0.5.0.dist-info/RECORD,,
