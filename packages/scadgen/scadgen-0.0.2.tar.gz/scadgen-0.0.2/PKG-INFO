@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: scadgen
+Version: 0.0.2
+Summary: A Python library for generating OpenSCAD 3D models.
+Home-page: https://github.com/tcteo/scadgen
+License: MIT
+Author: TC Teo
+Author-email: scadgen-pypi-011ecc47@tsechin.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Multimedia :: Graphics :: 3D Modeling
+Project-URL: Bug Tracker, https://github.com/tcteo/scadgen/issues
+Project-URL: Repository, https://github.com/tcteo/scadgen
+Description-Content-Type: text/markdown
+
+# scadgen
+
+A Python library for generating OpenSCAD 3D models.
+
+
