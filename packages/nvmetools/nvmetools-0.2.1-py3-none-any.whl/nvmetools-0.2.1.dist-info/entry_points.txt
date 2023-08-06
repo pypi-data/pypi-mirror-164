@@ -1,0 +1,5 @@
+[console_scripts]
+checknvme = nvmetools.console.checknvme:main
+listnvme = nvmetools.console.listnvme:main
+readnvme = nvmetools.console.readnvme:main
+setupnvme = nvmetools.console.setupnvme:main
