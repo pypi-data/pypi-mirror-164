@@ -1,0 +1,15 @@
+pdfly/__init__.py,sha256=80ES8c6tJd6ttnYQ7_2EXmxS76HUKt3pui9B0TQ_4YU,68
+pdfly/__main__.py,sha256=2x6rAWb-vjCo-djVtMOYo5ioROPINYqnrQOfs61FiVI,114
+pdfly/_version.py,sha256=R9xOYoYrWKcfO5zvTeGC3m_eDNOvxMd8CocQs2tLufo,22
+pdfly/cat.py,sha256=J3wmwITnqothBrEK3hypp377ftjs-KtGdK5FFDuBheY,2786
+pdfly/cli.py,sha256=QBN8t7Kuz05nD7kDSBii5Nxbu3C7L0qo6mFPoZZU-3k,2293
+pdfly/compress.py,sha256=9TnkI1r1JNS1UGf5Klz6XWfOkbixo89GFV31lYuRY7g,587
+pdfly/extract_images.py,sha256=oA1T5sZ-Cu4t5M1DE7T-e4jvr_w3Z0L3GUflqJV_PxA,2162
+pdfly/metadata.py,sha256=EcpCv1dPHjRLdADtucChGPs6xo1-6IiI0m5sr0r5Edg,2639
+pdfly/up2.py,sha256=9z3uqjKQ6bg3Fg8YOVaGgxmql8Qrexd9Z0U0je40C28,726
+pdfly-0.0.7.dist-info/LICENSE,sha256=bprspuunlLcJPskc-FCz39O--h0Qmtww3JX9uTsC2Qs,1514
+pdfly-0.0.7.dist-info/METADATA,sha256=18ZWBmytJOykFUYml4mkRJ2fMay39xKzyBJkmOifHvo,2720
+pdfly-0.0.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pdfly-0.0.7.dist-info/entry_points.txt,sha256=29BfJuXDz_WL2l9o_nDV6fJTb10uShdzBWmXU4Ch_PQ,49
+pdfly-0.0.7.dist-info/top_level.txt,sha256=8NM4KIoH0dtcT4tIop0TMLuYPqwhSagXlmSSUljAg-8,6
+pdfly-0.0.7.dist-info/RECORD,,
