@@ -1,0 +1,7 @@
+[console_scripts]
+dc = console_scripts.dc:console_script_entry
+dockerdev = console_scripts.dockerdev:console_script_entry
+gitup = console_scripts.gitup:console_script_entry
+mtx = console_scripts.main:console_script_entry
+sm = console_scripts.sm:console_script_entry
+
