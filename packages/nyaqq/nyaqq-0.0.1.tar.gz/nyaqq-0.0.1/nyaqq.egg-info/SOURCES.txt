@@ -1,0 +1,7 @@
+setup.py
+nyaqq/__init__.py
+nyaqq.egg-info/PKG-INFO
+nyaqq.egg-info/SOURCES.txt
+nyaqq.egg-info/dependency_links.txt
+nyaqq.egg-info/requires.txt
+nyaqq.egg-info/top_level.txt
