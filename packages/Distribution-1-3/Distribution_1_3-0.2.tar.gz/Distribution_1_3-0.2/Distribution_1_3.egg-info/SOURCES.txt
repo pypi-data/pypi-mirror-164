@@ -1,0 +1,14 @@
+README.md
+license.txt
+setup.py
+Distribution/Poisson.py
+Distribution/__init__.py
+Distribution/bernoulli.py
+Distribution/binomial.py
+Distribution/example_code.py
+Distribution/gaussian.py
+Distribution_1_3.egg-info/PKG-INFO
+Distribution_1_3.egg-info/SOURCES.txt
+Distribution_1_3.egg-info/dependency_links.txt
+Distribution_1_3.egg-info/not-zip-safe
+Distribution_1_3.egg-info/top_level.txt
