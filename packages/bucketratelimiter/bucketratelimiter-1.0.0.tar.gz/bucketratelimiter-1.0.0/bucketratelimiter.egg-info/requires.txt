@@ -1,0 +1,5 @@
+
+[develop]
+mypy
+pytest-cov
+pytest-asyncio
