@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "binaryconv"
+version = "0.0.5"
+authors = [
+  { name="Buggem and dev01111" },
+]
+description = "Binary converter for Python"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
+[project.urls]
+"GitHub" = "https://github.com/Buggem/binaryconv"
+"Bugs and Glitches" = "https://github.com/Buggem/binaryconv/issues"
+"dev01111 fork" = "https://github.com/dev01111/binaryconv_dev01111"
