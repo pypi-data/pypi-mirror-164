@@ -1,0 +1,4 @@
+[character]
+# Note that the array is zero-indexed
+# [sex,tribe,  mane,tail,eyes,  coat_r,coat_g,coat_b,  mane_r,mane_g,mane_b,  equip0,equip1,equip2]
+appearance = [0,1, 2,2,0, 6,6,6, 0,0,0, 0,0,0]
