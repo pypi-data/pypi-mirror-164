@@ -1,0 +1,10 @@
+recursive-include demodata *.tsv
+recursive-include demodata *.txt
+recursive-include dist *.gz
+recursive-include dist *.whl
+recursive-include src *.py
+recursive-include src *.pyc
+
+# added by check-manifest
+recursive-include build *.py
+recursive-include ignoromenot *.pyc
