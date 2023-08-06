@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: gixi
+Version: 0.0.1
+Summary: GIXD feature detection for Maxwell cluster at DESY synchrotron
+Home-page: UNKNOWN
+Author: Vladimir Starostin
+Author-email: vladimir.starostin@uni-tuebingen.de
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# _gixi_
+## End-to-end pipeline for GIXD data analysis
+
+The package is used in the following scientific publication:
+
+[1] _End-to-end deep learning pipeline for real-time processing of
+surface scattering data at synchrotron facilities_
+
+V. Starostin,
+L. Pithan, 
+A. Greco, 
+V. Munteanu,
+A. Gerlach, 
+A. Hinderhofer, 
+and F. Schreiber 
+(submitted 2022)
+
