@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: geox
+Version: 0.0.2
+Summary: GeoX, Geostatic Dataset Integration Tool
+Home-page: https://github.com/geoxdat/geox
+Author: GeoX
+Author-email: geoxdat@gmail.com
+License: MIT
+Keywords: geox,geostatistic,mining,dataset
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: attrs (==22.1.0)
+Requires-Dist: certifi (==2022.6.15)
+Requires-Dist: charset-normalizer (==2.1.0)
+Requires-Dist: idna (==3.3)
+Requires-Dist: iniconfig (==1.1.1)
+Requires-Dist: numpy (==1.23.1)
+Requires-Dist: packaging (==21.3)
+Requires-Dist: pandas (==1.4.3)
+Requires-Dist: pluggy (==1.0.0)
+Requires-Dist: py (==1.11.0)
+Requires-Dist: pyparsing (==3.0.9)
+Requires-Dist: pytest (==7.1.2)
+Requires-Dist: python-dateutil (==2.8.2)
+Requires-Dist: pytz (==2022.1)
+Requires-Dist: requests (==2.28.1)
+Requires-Dist: six (==1.16.0)
+Requires-Dist: tomli (==2.0.1)
+Requires-Dist: tqdm (==4.64.0)
+Requires-Dist: urllib3 (==1.26.11)
+
+# GeoX
