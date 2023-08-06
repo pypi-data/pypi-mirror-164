@@ -1,0 +1,11 @@
+yaqd_vici/VERSION,sha256=6sIzILfs0uVpu1r6jXbxaeGCXDN0h26A-62tQrL3o2w,9
+yaqd_vici/__init__.py,sha256=r5GRRM7H1KOMr6Zugs7HE0R_of7YVHF8w6bf8o7TjH4,64
+yaqd_vici/__version__.py,sha256=aIq6BYZ2Vu4z6qhpulwJjQVwfXWBRNlRKwBX_hECB00,493
+yaqd_vici/_vici_two_position.py,sha256=Sj8esPtWQjXvTE23SqxjuPK_4HXAXu0ufYyrS4Yeqz8,2744
+yaqd_vici/vici-two-position.avpr,sha256=ocZ11UClB2GUYMc8J1cXdvMYFkHo0rzNBdsLiPDjxzU,11135
+yaqd_vici/vici-two-position.toml,sha256=gQc3Pal2BpwcbKNaJmJZHYpx7U9MbOT36_t0tJPGe1g,945
+yaqd_vici-2022.8.0.dist-info/entry_points.txt,sha256=4Z91fJRZpGoR_nKIsOploMCDW05iBdfrpu6xJYd-a4A,92
+yaqd_vici-2022.8.0.dist-info/LICENSE,sha256=gQ0onXQnjXJoTSbNwqxcuw8B8tGCEvORxsRGc5mnrdU,7633
+yaqd_vici-2022.8.0.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+yaqd_vici-2022.8.0.dist-info/METADATA,sha256=plx6ftklZB23JXcIL1Pt9isqhcy9LRsUF478V-kVXTw,1672
+yaqd_vici-2022.8.0.dist-info/RECORD,,
