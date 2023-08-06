@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/mccmnc/__init__.py
+src/mccmnc/mccmnc.csv
+src/mccmnc/mccmnc.json
+src/mccmnc/mccmnc.py
+src/mccmnc.egg-info/PKG-INFO
+src/mccmnc.egg-info/SOURCES.txt
+src/mccmnc.egg-info/dependency_links.txt
+src/mccmnc.egg-info/top_level.txt

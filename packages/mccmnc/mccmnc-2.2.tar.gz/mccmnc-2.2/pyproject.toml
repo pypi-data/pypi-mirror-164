@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mccmnc"
+version = "2.2"
+authors = [
+    { name = "Joseph Julian", email = "joseph.b.julian@gmail.com" },
+]
+description = "A published Python package for country network queries, used for mobile subscriber identification."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/jbjulia/mcc-mnc"
+"Bug Tracker" = "https://github.com/jbjulia/mcc-mnc/issues"
