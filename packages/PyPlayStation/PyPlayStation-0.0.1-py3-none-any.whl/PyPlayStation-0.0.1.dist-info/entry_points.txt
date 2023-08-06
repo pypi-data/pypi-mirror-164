@@ -1,0 +1,2 @@
+[console_scripts]
+pystation = pystation.cli.cli:main
