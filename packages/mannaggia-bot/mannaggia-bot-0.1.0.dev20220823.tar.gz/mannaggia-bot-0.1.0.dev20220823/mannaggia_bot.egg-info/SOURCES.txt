@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+mannaggia_bot/__init__.py
+mannaggia_bot/__main__.py
+mannaggia_bot.egg-info/PKG-INFO
+mannaggia_bot.egg-info/SOURCES.txt
+mannaggia_bot.egg-info/dependency_links.txt
+mannaggia_bot.egg-info/entry_points.txt
+mannaggia_bot.egg-info/requires.txt
+mannaggia_bot.egg-info/top_level.txt
