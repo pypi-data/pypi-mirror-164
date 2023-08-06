@@ -1,0 +1,28 @@
+# sm3utils
+
+SM3 Cryptographic Hash Algorithm.
+
+## Install
+
+```
+pip install sm3utils
+```
+
+## Usage
+
+```
+from sm3utils import sm3
+
+gen = sm3()
+gen.update(b'abc')
+result = gen.hexdigest()
+print("result=", result)
+
+# result= 66c7f0f462eeedd9d1f2d46bdc10e4e24167c4875cf2f7a2297da02b8f4ba8e0
+```
+
+## Releases
+
+### 0.1.2
+
+- First release.
