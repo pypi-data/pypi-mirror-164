@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+attr_sync_thing/__init__.py
+attr_sync_thing/__main__.py
+attr_sync_thing/attr_storage.py
+attr_sync_thing/configuration.py
+attr_sync_thing/file_info.py
+attr_sync_thing/logging.py
+attr_sync_thing/modification_manager.py
+attr_sync_thing.egg-info/PKG-INFO
+attr_sync_thing.egg-info/SOURCES.txt
+attr_sync_thing.egg-info/dependency_links.txt
+attr_sync_thing.egg-info/entry_points.txt
+attr_sync_thing.egg-info/requires.txt
+attr_sync_thing.egg-info/top_level.txt

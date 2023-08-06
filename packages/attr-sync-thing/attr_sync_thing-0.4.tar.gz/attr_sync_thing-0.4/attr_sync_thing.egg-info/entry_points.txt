@@ -1,0 +1,2 @@
+[console_scripts]
+attr_sync_thing = attr_sync_thing.__main__:main
