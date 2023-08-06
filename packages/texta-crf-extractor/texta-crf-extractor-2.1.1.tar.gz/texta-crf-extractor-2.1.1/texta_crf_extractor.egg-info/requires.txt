@@ -1,0 +1,6 @@
+scikit-learn==1.*
+python-crfsuite
+texta-embedding
+
+[mlp]
+texta-mlp
