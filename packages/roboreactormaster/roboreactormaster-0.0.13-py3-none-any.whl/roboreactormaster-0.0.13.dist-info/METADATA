@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: roboreactormaster
+Version: 0.0.13
+Summary: Roboreactormaster
+Home-page: UNKNOWN
+Author: Roboreactor
+Author-email: <support@idatabots.com>
+License: UNKNOWN
+Keywords: python,robotics,robotic middleware,service robot
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python
+Requires-Dist: pyaudio
+
+
+# Roboreactor_library
+Roboreactor library and example code
+
+
