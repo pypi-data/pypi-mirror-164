@@ -1,0 +1,10 @@
+babel
+colorama
+DateTime
+gender_guesser
+holidays>"0.13"
+phonenumbers
+pycountry
+spamcheck
+unidecode
+vobject
