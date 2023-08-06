@@ -1,0 +1,12 @@
+user_sdk/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+user_sdk/domain.py,sha256=Zu57DJXz6hAHRt6BZ1GIJl6ph1M1-HkG2Y35THcmutA,7100
+user_sdk/error.py,sha256=ZTjvKp8gGrdwC5gjcdbMjWmvdp5I606WWibVnkjGbMg,911
+user_sdk/log.py,sha256=QA_LFH6G625VHhdSua2ZOHZBNhURNdNIPfd6il9NNJY,422
+user_sdk/openid_connect.py,sha256=EJZDTwo416Ld5-HqEfZsgtBB8DTvN3UDyh-x1DaS-dk,4354
+user_sdk/test_openid_connect.py,sha256=LbFrK_ocBUj8r1i2mGanvHXx4onFbFDn_aPxP2acW7c,6039
+user_sdk/test_user.py,sha256=kw-XBOuxMfSHoA28TidDFwQWxEB1r3BupE7d04z5V4g,16138
+user_sdk/user_service.py,sha256=W_HFBHGPsDJQpQPE7FmteryvgBVRVrAng45HvJrkxLs,18940
+user_sdk-0.0.60.dist-info/METADATA,sha256=jddGC6wE4K7kxbKyNsBY6Vvkp2XQGup6ZUuTi8Zfv8w,766
+user_sdk-0.0.60.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+user_sdk-0.0.60.dist-info/top_level.txt,sha256=EQcvEoOJHPSSg7JRFP2oQxRDQiidMHiaA2F0n6y-aqM,9
+user_sdk-0.0.60.dist-info/RECORD,,
