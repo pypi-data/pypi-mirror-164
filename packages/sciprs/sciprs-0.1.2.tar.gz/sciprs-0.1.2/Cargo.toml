@@ -1,0 +1,19 @@
+[package]
+name = "sciprs"
+version = "0.1.2"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "sciprs"
+crate-type = ["cdylib"]
+
+[dependencies]
+nalgebra = "0.31.1"
+nalgebra-py = "0.3.1"
+numpy = "0.16.2"
+pyo3 = { version = "0.16.6", features = ["extension-module"] }
+
+[dependencies."sci-rs"]
+version = "0.1.4"
+# path = "../sci-rs/sci-rs"
