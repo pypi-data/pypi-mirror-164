@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: M-Shape-Head-Package
+Version: 0.0.6.post6
+Summary: M Shape Standalone Package for Head
+Home-page: https://github.com/NVlabs/SPADE
+Author: Ferdy
+Author-email: moeharyoso89@gmail.com
+License: BSD-3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.9.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy (==1.23.1)
+Requires-Dist: dlib
+Requires-Dist: imutils
+Requires-Dist: opencv-contrib-python
+Requires-Dist: loguru
+
+M Shape Standalone Package for Head
