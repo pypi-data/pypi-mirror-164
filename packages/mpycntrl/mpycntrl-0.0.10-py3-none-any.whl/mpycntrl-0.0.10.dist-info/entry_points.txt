@@ -1,0 +1,2 @@
+[console_scripts]
+mpycntrl = mpycntrl.__main__:main
