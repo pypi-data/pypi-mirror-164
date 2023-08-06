@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: alicona_converter
+Version: 1.0.9
+Summary: Convert data between the output format of the alicona microscope and the tribo-x input format
+Author-email: Felix Fischer <f.fischer@ifas.rwth-aachen.de>
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+# Converter for Surface Data Formats
+
+This script transforms the output format of the optical microscope by Alicona
+to different input formats, for example the format used tribo-x.
+
+## Usage
+
+The basic usage is to call the script directly `python alicona_converter.py`
+or, if it has been installed by pip, `python -m alicona_converter`.
+For more information on the usage, see `python alicona_converter -h`.
