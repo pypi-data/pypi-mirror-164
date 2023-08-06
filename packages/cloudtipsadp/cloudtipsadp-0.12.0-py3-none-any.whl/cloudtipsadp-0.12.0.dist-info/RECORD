@@ -1,0 +1,16 @@
+cloudtipsadp/__init__.py,sha256=Y3_pqKH3B54FlnJ_4jUjvCDL99f8spKAT3aFE6V5m_E,162
+cloudtipsadp/accumulations.py,sha256=5xgZhpPDlLUnzicZ5ihVZ0_2NW0wJ68sxuIKNCVNjp8,2229
+cloudtipsadp/cards.py,sha256=j4eZBV-wOnk9nAvMoov2xh6xw0KQtCx2iZTnpvQ-HvQ,6318
+cloudtipsadp/clients.py,sha256=D-YgdHNPSakQroRCokMzhmE_3RMSu08qLwXkP0esmQw,5730
+cloudtipsadp/configure.py,sha256=kMQDcmicx6rfmcGxCHG47HKgp_xi73EPU3MqIHU4Xdw,279
+cloudtipsadp/constants.py,sha256=Kw5h0FKGZR6QiefuJzcr_2J6r2qKaP2hW8INSX3YTBc,864
+cloudtipsadp/core.py,sha256=xvmmjb2jttITrAgKkjSe40wCYUGuUtV0jTWoPmMpScc,4167
+cloudtipsadp/filters.py,sha256=hknVd4wBfxkdVAjIUHP1KiLGHjnqPyyVm3GLHeN3El8,23
+cloudtipsadp/payouts.py,sha256=PhI-5koKVgY2-K-pXCP1-fmvnCQirIrQXQk9GDCSUOs,1536
+cloudtipsadp/places.py,sha256=uii6hJOxYeN4HfluhlidejPj5ZOjpV6Jwr8zAIRq6HA,3058
+cloudtipsadp/receivers.py,sha256=dQv2zcqkCCOT3q-NIIfkUkDgzwcEqJkHByEnFK61gbU,9231
+cloudtipsadp/transactions.py,sha256=gHhw7A8zu5Kcj8ot8HZNvIr1m6qoMo6yMnu3wKIlsm4,60
+cloudtipsadp-0.12.0.dist-info/METADATA,sha256=Jufem4n1qHilB1ZwNitxZB5Zcc_XR-O6Yc3kkuUZrWQ,6565
+cloudtipsadp-0.12.0.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+cloudtipsadp-0.12.0.dist-info/licenses/LICENSE,sha256=4iaMoAmeMxcBShHFFRF1cQjocJhLEIGG5CQxJ1P9ytw,1073
+cloudtipsadp-0.12.0.dist-info/RECORD,,
