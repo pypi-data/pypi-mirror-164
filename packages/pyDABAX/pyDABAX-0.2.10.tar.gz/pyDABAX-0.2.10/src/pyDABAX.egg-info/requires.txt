@@ -1,0 +1,10 @@
+importlib-metadata
+pandas
+tinydb>=4.7.0
+numpy>=1.23
+astropy>=5.0
+regex
+
+[testing]
+pytest
+pytest-cov
