@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: generate-ascii
+Version: 0.0.1
+Summary: Generating ascii art from image
+Author: Shekhar Kausalye
+Author-email: shekharkausalye@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Generate ASCII Image
+
+Generate **A S C I I** iamge.
+
+## Instructions
+
+1. Install:
+
+```
+pip install generate_ascii
+```
+
+2. Generate an ASCII image:
+
+```python
+from generate_ascii import synthesize
+
+# initialize drive object (to generate ASCII image)
+drive = synthesize.Drive()
+# generate a ASCII visual (dark_mode optional)
+drive.generate(dark_mode=True)
+# save to png
+drive.to_png('img_name.png')
+```
