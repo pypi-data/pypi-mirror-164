@@ -1,0 +1,9 @@
+README.md
+setup.py
+avirspr_lib/__init__.py
+avirspr_lib/avirtech_palm_correction.py
+avirspr_lib.egg-info/PKG-INFO
+avirspr_lib.egg-info/SOURCES.txt
+avirspr_lib.egg-info/dependency_links.txt
+avirspr_lib.egg-info/requires.txt
+avirspr_lib.egg-info/top_level.txt
