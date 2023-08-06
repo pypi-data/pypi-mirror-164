@@ -1,0 +1,7 @@
+sammhelper/__init__.py,sha256=8dY60eoSmAZ-YN8S8WxozK-QDsCsUWJNbd5GFAX5IQs,44
+sammhelper/greet.py,sha256=eWMD0DDrp2mbnt3I3Al7yq2nze8UzcdO-crJgTQ_Gdw,277
+sammhelper/nextprime.py,sha256=hEo_yP9LhG-E4aPRMeMORYuO0mZ7tRfhCsrHP-pq3VY,161
+sammhelper-0.0.1.dist-info/METADATA,sha256=DEM92Xarh1GquPqHdPgasaBXom9XKxoHET7h7nyIgN0,2753
+sammhelper-0.0.1.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+sammhelper-0.0.1.dist-info/licenses/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+sammhelper-0.0.1.dist-info/RECORD,,
