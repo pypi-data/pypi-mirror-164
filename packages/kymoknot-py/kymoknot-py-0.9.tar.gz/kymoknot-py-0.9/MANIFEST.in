@@ -1,0 +1,4 @@
+include *.h
+include lib/*.h
+include include/*.h
+include kymoknot/c_exports.h
