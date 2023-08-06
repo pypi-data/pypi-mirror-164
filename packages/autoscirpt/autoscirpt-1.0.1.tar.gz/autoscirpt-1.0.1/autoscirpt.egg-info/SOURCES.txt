@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+autoscirpt.egg-info/PKG-INFO
+autoscirpt.egg-info/SOURCES.txt
+autoscirpt.egg-info/dependency_links.txt
+autoscirpt.egg-info/top_level.txt
+autoscript/__init__.py
+autoscript/templateproj.py
