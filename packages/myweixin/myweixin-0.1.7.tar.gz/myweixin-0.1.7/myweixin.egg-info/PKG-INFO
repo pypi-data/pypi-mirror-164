@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: myweixin
+Version: 0.1.7
+Summary: a library for weixin robot
+Home-page: https://pypi.org/project/myweixin/#description
+Author: pythonnic
+Author-email: 2696047693@qq.com
+License: MIT License
+Keywords: get_friend_list Robot get_group_chat information
+Platform: any
+
+UNKNOWN
+
