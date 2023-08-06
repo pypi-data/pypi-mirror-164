@@ -1,0 +1,17 @@
+pytabular/__init__.py,sha256=D7KfjjgCieht4FOplCehMqMeeECfiZQWyooQBxE2fPY,1534
+pytabular/basic_checks.py,sha256=vxFzncmGl2tb34qOnUbsXx65jHOMJxhQD9UO_zTelxU,3002
+pytabular/best_practice_analyzer.py,sha256=HLwV3vNAtyIHNduG6ZcUmkz1QaEMWGCUNdadVUk7dKU,1934
+pytabular/logic_utils.py,sha256=vEYSIiny83_hS3nrs458m-ReLFEIaO58UFdX1OogFcU,4384
+pytabular/pytabular.py,sha256=N-vdyZYcUfFRTtbIZWsoxFGlfWhwTRUfZQe8VtJU7cw,23011
+pytabular/tabular_editor.py,sha256=-LEfP-2f5fE_SMb8Noa0dgetaaCkUKnGP4e7v3soj5A,2186
+pytabular/tabular_tracing.py,sha256=LDqqyxYPeyQbeyXDPdFJXTZR2YS3Rp3_JE5J1dGaaZY,6947
+pytabular/dll/Microsoft.AnalysisServices.AdomdClient.dll,sha256=Yrfmeu0NOEZyVOMVz6P7lv81b_AG8ZOB7Xg84-xuDL0,2633120
+pytabular/dll/Microsoft.AnalysisServices.Core.dll,sha256=2KGCIduA5IhlKo5Q6XAOwKh4zfUo8hzzrtft4oJK6eE,1440152
+pytabular/dll/Microsoft.AnalysisServices.Tabular.Json.dll,sha256=RqSRmhea0cVR-4r-dVMRpQj0NI4l2nclv83M07rELz4,562592
+pytabular/dll/Microsoft.AnalysisServices.Tabular.dll,sha256=3VKiXcCyWmEgRYiL1Vy01gWbgziFdvn6pDEXqGy4C18,1265592
+pytabular/dll/Microsoft.AnalysisServices.dll,sha256=AbK4zJihRTYnR3Sl9NSdj2HeJe3LGWR3nBCTimWP4nk,693648
+python_tabular-0.0.70.dist-info/LICENSE.txt,sha256=kXPKYEotYlb0UppjZ3XBzltBPX5w9kGkVFQn85UDlcg,1092
+python_tabular-0.0.70.dist-info/METADATA,sha256=Tl6YPG9Qk9D8sfnbtefQeU7qT7V89dWchcOrMnpCexg,3993
+python_tabular-0.0.70.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+python_tabular-0.0.70.dist-info/top_level.txt,sha256=qYx-4cCG1ia_PXiCZGgPWTmcNI17ZCBJ1K8rTeaE-Rc,10
+python_tabular-0.0.70.dist-info/RECORD,,
