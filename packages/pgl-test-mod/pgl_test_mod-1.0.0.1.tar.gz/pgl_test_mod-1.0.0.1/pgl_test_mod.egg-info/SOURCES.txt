@@ -1,0 +1,7 @@
+setup.py
+gene_dup_test/__init__.py
+gene_dup_test/pypitest.py
+pgl_test_mod.egg-info/PKG-INFO
+pgl_test_mod.egg-info/SOURCES.txt
+pgl_test_mod.egg-info/dependency_links.txt
+pgl_test_mod.egg-info/top_level.txt
