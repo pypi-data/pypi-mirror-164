@@ -1,0 +1,5 @@
+[console_scripts]
+pgstk = polygenic.tools.pgstk:main
+polygenic = polygenic.tools.pgstk:main
+polygenictk = polygenic.tools.pgstk:main
+
