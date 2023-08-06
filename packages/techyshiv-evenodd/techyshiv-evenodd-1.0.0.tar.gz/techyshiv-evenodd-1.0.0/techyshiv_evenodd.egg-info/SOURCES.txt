@@ -1,0 +1,8 @@
+setup.py
+techyshiv_evenodd/__init__.py
+techyshiv_evenodd/even_odd.py
+techyshiv_evenodd.egg-info/PKG-INFO
+techyshiv_evenodd.egg-info/SOURCES.txt
+techyshiv_evenodd.egg-info/dependency_links.txt
+techyshiv_evenodd.egg-info/not-zip-safe
+techyshiv_evenodd.egg-info/top_level.txt
