@@ -1,0 +1,2 @@
+[console_scripts]
+greenberry = greenberry.gb_main:main
