@@ -1,0 +1,8 @@
+README.md
+setup.py
+pennsieve2.egg-info/PKG-INFO
+pennsieve2.egg-info/SOURCES.txt
+pennsieve2.egg-info/dependency_links.txt
+pennsieve2.egg-info/requires.txt
+pennsieve2.egg-info/top_level.txt
+pennsieve2.egg-info/zip-safe
