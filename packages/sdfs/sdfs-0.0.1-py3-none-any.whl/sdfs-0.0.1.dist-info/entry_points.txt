@@ -1,0 +1,2 @@
+[nbdev]
+sdfs = sdfs._modidx:d
