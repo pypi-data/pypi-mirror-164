@@ -1,0 +1,14 @@
+---
+title: Proto Board Data
+boards:
+  EV76R77A:
+    description: PIC32CM LS00/LS60 Curiosity Pro board
+    web_link: https://www.microchip.com/en-us/development-tool/EV76R77A
+    partNumber: EV76R77A
+    connection:
+      interfaceType: hid
+    devices:
+      - deviceName: ATECC608B-TFLXTLS
+        partInterface:
+          interfaceType: i2c
+          address: 0xC0
