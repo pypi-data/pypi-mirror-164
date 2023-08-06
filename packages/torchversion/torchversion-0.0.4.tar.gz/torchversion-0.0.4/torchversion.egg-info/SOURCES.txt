@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+torchversion/__init__.py
+torchversion.egg-info/PKG-INFO
+torchversion.egg-info/SOURCES.txt
+torchversion.egg-info/dependency_links.txt
+torchversion.egg-info/entry_points.txt
+torchversion.egg-info/top_level.txt
+torchversion.egg-info/zip-safe
+torchversion/shell/__init__.py
+torchversion/shell/usage.py
+torchversion/utils/__init__.py
+torchversion/utils/version_pytorch.py
