@@ -1,0 +1,5 @@
+http_gob_operator/__init__.py,sha256=R8zF6BRBntvylMMsZWutrmz60r4J_DHPZ3WRLIIP-sg,33
+http_gob_operator/http_gob_operator.py,sha256=8IGxLBmh-Dy44gZTu7QbLj6sDnOnUna_v37M-w9qX1o,12369
+amsterdam_airflow_http_gob_operator-1.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+amsterdam_airflow_http_gob_operator-1.1.dist-info/METADATA,sha256=3rtvDBzwmTE4TvgrwoOfivLFzcH3GUDLBtcCpyEVKgg,1098
+amsterdam_airflow_http_gob_operator-1.1.dist-info/RECORD,,
