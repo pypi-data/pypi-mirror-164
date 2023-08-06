@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+kaldi-native-fbank/python/kaldi_native_fbank/__init__.py
+kaldi_native_fbank.egg-info/PKG-INFO
+kaldi_native_fbank.egg-info/SOURCES.txt
+kaldi_native_fbank.egg-info/dependency_links.txt
+kaldi_native_fbank.egg-info/not-zip-safe
+kaldi_native_fbank.egg-info/top_level.txt

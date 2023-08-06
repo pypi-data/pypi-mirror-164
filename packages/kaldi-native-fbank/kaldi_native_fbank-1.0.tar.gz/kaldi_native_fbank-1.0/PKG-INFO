@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: kaldi_native_fbank
+Version: 1.0
+Summary: UNKNOWN
+Home-page: https://github.com/csukuangfj/kaldi-native-fbank
+Author: Fangjun Kuang
+Author-email: csukuangfj@gmail.com
+License: Apache licensed, as found in the LICENSE file
+Platform: UNKNOWN
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Introduction
+
+Kaldi-compatible online fbank feature extractor without external dependencies.
+
+
+# Installation
+
+```
+pip install kaldi-native-fbank
+```
+
+
+
+
