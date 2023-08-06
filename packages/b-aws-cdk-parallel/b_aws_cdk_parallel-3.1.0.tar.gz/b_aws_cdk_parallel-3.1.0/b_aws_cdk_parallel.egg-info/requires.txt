@@ -1,0 +1,2 @@
+aws-cdk.core<=2.0.0,>=1.90.0
+b-continuous-subprocess<1.0.0,>=0.3.2
