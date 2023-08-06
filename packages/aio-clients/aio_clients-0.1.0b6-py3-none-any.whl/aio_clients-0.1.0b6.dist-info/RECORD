@@ -1,0 +1,11 @@
+aio_clients/__init__.py,sha256=kT6pO3wkyYmVaHDE2oBKNnRdAXZ7I20uKbVW5RRU78c,88
+aio_clients/client.py,sha256=_OAqs3fn7vVSu6YcAmlvGIGHa4EoGJCTHwZmxmUefPA,4329
+aio_clients/exceptions.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aio_clients/multipart/__init__.py,sha256=b0FX2A7IIMtN2-HjBKfse76O3RdkoyIKpo48ubjAQ5g,54
+aio_clients/multipart/main.py,sha256=ZtMyGqna96_qK_SOpxXc8X1covFsHez7IdSPQLKclJI,380
+aio_clients/multipart/struct.py,sha256=gMWJFg9Et8wpWfSOW8_EgyydgH-Z6OlNul_7WlaOWGk,414
+aio_clients/struct.py,sha256=XW_aATeHpa87MIOmo-Nw3wDafDp6d8YzDQ7VLyscKE0,496
+aio_clients-0.1.0b6.dist-info/LICENSE,sha256=RC9biQnuele0t3WjsW9LCQ5DeEi5HTGPV2Y8HjjbvzU,1067
+aio_clients-0.1.0b6.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+aio_clients-0.1.0b6.dist-info/METADATA,sha256=8F1gh2FmzydQi3Jg78SF9Eh8KQBb4J91dqM4bl1xN80,2087
+aio_clients-0.1.0b6.dist-info/RECORD,,
