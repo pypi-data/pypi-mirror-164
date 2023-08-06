@@ -1,0 +1,13 @@
+collectmeteranalog/__init__.py,sha256=Dl0yy9EC_a9c0ZNHYKpZ3DBO8-XsZcR7Z9yi-UfsrH4,38
+collectmeteranalog/__main__.py,sha256=njKAIIh6DT0xblqbLOwK3HnbRmG7rLS6nwE6W3HNsfk,2301
+collectmeteranalog/collect.py,sha256=681psZxm2KYE9gfJoQvzN0SSvIYsmdUuILkLuVKhJZs,8053
+collectmeteranalog/glob.py,sha256=wRNwAigrb4GA8iF4uKhuLxnK9xn4FBXv2ceLtF4Te2s,34
+collectmeteranalog/hash_manual.py,sha256=sH3jmU2oxczSr8bDRI9SXohTz6pCXvnl766pOVy87Fg,868
+collectmeteranalog/labeling.py,sha256=QCLWNtU3tcvH7AMFgre7kxtFlZw8B5RRnrl2Bj0CjPk,10289
+collectmeteranalog/predict.py,sha256=ngfJ097I0NtLTDW5LrsPSFY8-2vyqfcWy1knmXOwmy4,2384
+collectmeteranalog/models/ana-class100_0120_s1_q.tflite,sha256=gzWlsxzW7t79TvDg6meuf1U0BMJau3Ax8PUz9uJj5nE,132144
+collectmeteranalog-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+collectmeteranalog-0.1.0.dist-info/METADATA,sha256=3ebjELwEDqog9LEGNwmYj-XB2hVMfvXceAEnrTmU5II,1197
+collectmeteranalog-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+collectmeteranalog-0.1.0.dist-info/top_level.txt,sha256=hwBt7wuhR4JXVk029UdY2VGkUbp1abU_TTUDtCE21p4,19
+collectmeteranalog-0.1.0.dist-info/RECORD,,
