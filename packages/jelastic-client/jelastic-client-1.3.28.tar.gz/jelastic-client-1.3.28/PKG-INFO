@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: jelastic-client
+Version: 1.3.28
+Summary: A client library for Jelastic v7.0.3
+Home-page: https://gitlab.hidora.com/softozor/packages
+Author: Laurent Michel
+Author-email: softozor@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: test
+
+# jelastic-client
+
+A Jelastic API python library.
+
+# Installation
+
+```bash
+pip3 install jelastic-client
+```
+
+# Usage
+
+At the root of this repository, you can run
+
+```python
+import jelastic_client
+
+api_url = "https://[hoster-api-host]/1.0/"
+api_token = "your-private-access-token"
+
+factory = jelastic_client.JelasticClientFactory(api_url, api_token)
+jps_client = factory.create_jps_client()
+env_name = "my-jelastic-client-test"
+jps_client.install_from_file("./test/data/valid_manifest.jps", env_name)
+control_client = factory.create_control_client()
+env_info = control_client.get_env_info(env_name)
+assert env_info.is_running() is True
+```
+
+
