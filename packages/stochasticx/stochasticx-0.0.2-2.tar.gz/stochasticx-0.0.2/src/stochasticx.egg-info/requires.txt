@@ -1,0 +1,6 @@
+requests
+jwt
+Click
+tqdm
+ipywidgets
+tritonclient[all]
