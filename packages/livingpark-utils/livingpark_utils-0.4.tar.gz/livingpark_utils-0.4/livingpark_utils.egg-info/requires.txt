@@ -1,0 +1,9 @@
+datalad
+IPython
+ppmi_downloader
+nilearn
+boutiques
+pillow
+matplotlib
+numpy
+pandas
