@@ -1,0 +1,12 @@
+starlette_login/__init__.py,sha256=rPSfWgIeq2YWVPyESOAwCBt8vftsTpIkuLAGDEzyRQc,22
+starlette_login/backends.py,sha256=thuDXpf_tHty40a20b6U2lTSkaga0lGJHA6Aud4SxQQ,1929
+starlette_login/decorator.py,sha256=5HDycmr95iWdUSJMzWSiF5mcK6uosyO5vFxfrYsuVXs,6422
+starlette_login/login_manager.py,sha256=o4eUfz68_7QKJhu5ot3OJsZbrJ78h7DGxrgmENRGyJo,4634
+starlette_login/middleware.py,sha256=h9nLUKRjW7lBZu1YCRc5nRkdrN4u28YcoSBlTt8VEQg,1997
+starlette_login/mixins.py,sha256=Pe12dMVZ_S8U0iiJVXjNa0_Lk1QxFxZq3HgTiZtnbZU,587
+starlette_login/utils.py,sha256=bSYOmBnrZdm4Tkobt_YWVd-enRcucnQCKy9kwxY19fw,4444
+Starlette_Login-0.1.5.dist-info/LICENSE,sha256=t19lszMfEjDjJrUGGnu3wRr-8EkWROJ-1-bkfV9lGG8,1064
+Starlette_Login-0.1.5.dist-info/METADATA,sha256=PamxOrSIMb9GAIMuDzSVPueFh_mPetPAzuPYyFn5t_k,2619
+Starlette_Login-0.1.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+Starlette_Login-0.1.5.dist-info/top_level.txt,sha256=-xHRHNPonFzoX2ZwdhghGxrNyNSvJM4uCRw0FgfAYfQ,16
+Starlette_Login-0.1.5.dist-info/RECORD,,
