@@ -1,0 +1,4 @@
+setuptools
+
+[boto]
+boto3>=1.24.9
