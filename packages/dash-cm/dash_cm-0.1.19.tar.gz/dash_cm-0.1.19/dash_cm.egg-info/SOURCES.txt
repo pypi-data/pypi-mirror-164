@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+dash_cm/__init__.py
+dash_cm/__main__.py
+dash_cm/serve_local.py
+dash_cm/start_case.py
+dash_cm.egg-info/PKG-INFO
+dash_cm.egg-info/SOURCES.txt
+dash_cm.egg-info/dependency_links.txt
+dash_cm.egg-info/top_level.txt
