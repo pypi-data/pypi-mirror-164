@@ -1,0 +1,13 @@
+asclepius/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+asclepius/auxhilary.py,sha256=2LwxWB1RPJX_Xio02vH7N-5em4ErCcgidV0XArC_ZcI,929
+asclepius/instelling.py,sha256=Yi8HhSIyXrkVC_QvyRzDzEXCqgt-_CqYqybsQo7TClI,3779
+asclepius/medewerker.py,sha256=kNCoFaZZ9L5HQMA0YHWmgHealrUDhKBJKqUtPxV19hI,2207
+asclepius/parser.py,sha256=kI_ImhtOF422a_ijKjsHI7sHSf3u3cXb0v_0JYPUQXw,12205
+asclepius/portaaldriver.py,sha256=c9hh3CrzPXVFnvvDm1UmRO49SssO_jl8MnbviZzGFJc,2873
+asclepius/regressietest.py,sha256=NadHkg6tIM9iDAZryOlcTi_R_TBKfQN_MqIxgM4v-k4,10637
+asclepius/releasetest.py,sha256=HaTzR4ON1lPyVxca-RRi-QJ2ZLv2OJdjydBFG6kd5_c,1865
+asclepius-0.0.6.dist-info/LICENSE,sha256=qwR6atajKpVPOee2jWSLSzmWBevED6LTdzZsnBRO8_o,1087
+asclepius-0.0.6.dist-info/METADATA,sha256=CH9xIwqkS35zevuBWwVR_W-FfwL9XXzy6aju1ZjAVOU,607
+asclepius-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+asclepius-0.0.6.dist-info/top_level.txt,sha256=sh6LVJibVgTrmO2W38A5qy8Xs2LGZJc6ZK6flrzQJMc,10
+asclepius-0.0.6.dist-info/RECORD,,
