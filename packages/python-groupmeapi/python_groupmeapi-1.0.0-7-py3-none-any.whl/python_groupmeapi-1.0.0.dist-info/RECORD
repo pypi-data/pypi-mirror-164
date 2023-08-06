@@ -1,0 +1,10 @@
+GroupMeAPI/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+GroupMeAPI/bot.py,sha256=-IA-miixfAdKG85QMjzu3c14niMOMLTXYaSux4olusA,921
+GroupMeAPI/dm.py,sha256=PUsEkN5SqFon8clTYmBFB9kRxw1KD3HYkzuWzIod-Yk,2132
+GroupMeAPI/group.py,sha256=tdiUrw7Bf0R_D2FxAB5TNW93iw8FcfsbG-jUSClbMrU,4246
+GroupMeAPI/user.py,sha256=3Uu62Zq2pfmgJOMAgMZ62TYklmXE2K_sP_NjURFlhPU,7659
+python_groupmeapi-1.0.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+python_groupmeapi-1.0.0.dist-info/METADATA,sha256=hBtqB3qtqA-K7alSFCUbx0xDghRP65U2rkGPWYMa_1E,2446
+python_groupmeapi-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+python_groupmeapi-1.0.0.dist-info/top_level.txt,sha256=peXI-zNTIITMVaNx6EZ2lMavfNYxQcW2XCbXceLtE2c,11
+python_groupmeapi-1.0.0.dist-info/RECORD,,
