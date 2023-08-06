@@ -1,0 +1,11 @@
+airflow/providers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+airflow/providers/y42demo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+airflow/providers/y42demo/get_provider_info.py,sha256=ig7XL8pTxtq5-XfCaHbq19IRpgQhuY85os6OZzLuEXc,731
+airflow/providers/y42demo/hooks/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+airflow/providers/y42demo/hooks/orchestration.py,sha256=IzDm1fT-FfCb-czTHGQO8FsupxJHFDd35zlTxX_HKfA,3626
+airflow/providers/y42demo/provider.yaml,sha256=DXAQmLxMsgXNI_8hs0lHrVRAjlr7_5IPDrUF3dOA_28,1237
+airflow/providers/y42demo/sensors/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+airflow/providers/y42demo/sensors/orchestration.py,sha256=3iuy3DGLp9Slsz9gtImVcO4kubREPKX0L5BpMTPcE0k,1690
+apache_airflow_providers_y42demo2-0.1.10.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+apache_airflow_providers_y42demo2-0.1.10.dist-info/METADATA,sha256=AgD7ANKeai_kCyN9ogN9K8HQQnPjk3J_pri2xmBg-XU,1418
+apache_airflow_providers_y42demo2-0.1.10.dist-info/RECORD,,
