@@ -1,0 +1,2 @@
+- 封装AztVeClient接口的backtrader
+- 使用方法与backtrader相同，具体见demo.py
