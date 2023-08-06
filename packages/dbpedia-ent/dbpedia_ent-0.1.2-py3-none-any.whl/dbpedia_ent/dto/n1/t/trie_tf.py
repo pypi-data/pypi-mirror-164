@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_tf = {'_': ['tf5800pvr', 'tf-lif', 'tf-idf', 'tf101', 'tf3', 'tf2', 'tf1', 'tf6'],
+ 'a': ['tfap2d',
+       'tfap2b',
+       'tfap2a',
+       'tfap2e',
+       'tfap2c',
+       'tfail',
+       'tfap4',
+       'tfaya',
+       'tfam',
+       'tfae',
+       'tfa'],
+ 'b': ['tfboys', 'tfb2m', 'tfb1m', 'tfb'],
+ 'c': ['tfcp2', 'tfcon', 'tfcu', 'tfcd', 'tfca', 'tfc'],
+ 'd': ['tfdp2', 'tfdp1', 'tfdc', 'tfd'],
+ 'e': ['tfeb', 'tfe3', 'tfec', 'tfe'],
+ 'f': ['tff'],
+ 'g': ['tfg'],
+ 'h': ['tfh'],
+ 'i': ['tfip11', 'tfi-5', 'tfi'],
+ 'j': ['tfj'],
+ 'k': ['tfk'],
+ 'l': ['tfl'],
+ 'm': ['tfm-4as-1', 'tfmfly', 'tfm'],
+ 'n': ['tfnp', 'tfn'],
+ 'o': ['tfox', 'tfot', 'tfos', 'tfou', 'tfo'],
+ 'p': ['tfpi2', 'tfpt', 'tfp'],
+ 'r': ['tfri', 'tfr'],
+ 's': ['tfsd', 'tfsi', 'tfs'],
+ 't': ['tftc', 'tftw', 'tft'],
+ 'u': ['tfue', 'tfu'],
+ 'v': ['tfvc'],
+ 'x': ['tfx']}
