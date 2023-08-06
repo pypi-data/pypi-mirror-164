@@ -1,0 +1,91 @@
+Metadata-Version: 2.1
+Name: Puffball
+Version: 0.0.6
+Summary: Continuous global optimization with non-convex constraints.
+Author: Anatoly Filatov
+Author-email: anatoly.filatov@outlook.com
+License: UNKNOWN
+Keywords: puffball,global optimization
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+This module solves black-box global optimization problems with non-convex constraints.\
+Target and constraint implementations assumed to be Lipschitz continuous functions.
+
+####  Install with pip:
+```
+pip install Puffball
+```
+*Only **Windows x64** distribution is available yet.*
+
+#### Example:
+
+```python
+from Puffball import Problem
+from math import fabs, sin
+
+def f(x):
+	return (fabs((x[0]-0.2)**2+(x[1]-0.3)**2-0.2)
+			-sin((x[0]-x[1])*15)*0.1
+			-(x[0]+2*x[1])*0.1)
+
+problem = Problem(
+	bounds = [0,1,0,1],
+	target = f,
+)
+
+result = problem.Minimize(
+	stop_tests = 150,
+	local_vs_global = 1,
+)
+
+print(result)
+```
+  
+>\
+>Seconds: 0\
+Tests: 150\
+\
+GLOBAL MINIMUM:\
+Index: 0\
+Value: -0.27822506557686955\
+Coordinate: (0.39595726499557055, 0.7042844093990224)\
+Categorical: <NULL>\
+Radius: 0.01878891300532774\
+
+\
+For **Problem** definition specify:
+- ***bounds*** &mdash; Sequence of min and max limits for each dimension. Flattened. Its size divided by two defines problem dimensionality.
+
+- ***target*** &mdash; Target function to minimize. A callable taking tuple of floating-point coordinates and returning floating-point value. Implementation must represent Lipschitz continuous function.
+- ***constraints*** &mdash; Sequence of optional constraints. Each is a callable taking tuple of floating-point coordinates and returning floating-point value. Order matters a lot. Keep in mind that next one is not tested if previous one has failed. Constraint is assumed satisfied if its value is less than zero. Implementation must represent Lipschitz continuous function.
+- ***categorical*** - Optional sequence of integers. Each value represents number of levels for additional categorical parameter. E.g. (2,3) means two categorical parameters, one with two levels (0 and 1) and the other with three levels (0, 1, and 2), which gives six unique categorical combinations to search together with continuous coordinates. If this is specified then constraint/target functions should be defined as ***f(x,c)*** where ***x*** is tuple of floating-point continuous coordinates and ***c*** is tuple of integers representing categorical parameters combination.
+
+
+For **Problem.Minimize** call you should specify at least one stop condition:
+
+- ***stop_seconds*** &mdash; Stop after specified number of seconds spent.
+
+- ***stop_tests*** &mdash; Stop after specified number of tests performed.
+- ***stop_value*** &mdash; Stop if target value is less than specified.
+- ***stop_radius*** &mdash; Stop if estimated global minimum coordinate precision achieved.
+
+ Other parameters:
+
+- ***overestimation*** &mdash; Multiplier for Lipschitz constant estimation. The bigger it gets the more exhaustive the search. Default is 2.0.
+
+- ***local_vs_global*** &mdash; Proportion of local tests performed vs global. Global tests give exploration. Local tests give faster convergence to current best optimum. Default is 0.1 (meaning 1 local per 10 global tests). For "simple" functions maybe set 1.0 (meaning 1 to 1 proportion).
+
+**Result** is a structure:
+ 
+- ***result.seconds*** &mdash; Seconds spent.
+
+- ***result.tests*** &mdash; Number of tests performed.
+- ***result.minimum.index*** &mdash; Minimum point function index. If no constraints specified, then it is always zero. Otherwise target goes last with maximum index. If algorithm failed to find a point where all constraints are satisfied, then index shown is of the failed constraint with maximum index. In this last case minimal value is again shown for the failed constraint with maximum index.
+- ***result.minimum.value*** &mdash; Minimal value found.
+- ***result.minimum.coordiate[]*** &mdash; Coordinates of the test with minimal value.
+- ***result.minimum.categorical[]*** &mdash; Categorical combination of the test with minimal value.
+- ***result.minimum.radius*** &mdash; Estimated precision for the minimum point coordinates found.
+- ***result.locals*** &mdash; All the local minimums found (up to 10) ordered by value. Each is the same structure as ***result.minimum***.
+
