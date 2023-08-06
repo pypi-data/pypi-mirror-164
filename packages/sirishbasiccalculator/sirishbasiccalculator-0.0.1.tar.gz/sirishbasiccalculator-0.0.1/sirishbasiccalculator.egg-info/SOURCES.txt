@@ -1,0 +1,6 @@
+README.txt
+setup.py
+sirishbasiccalculator.egg-info/PKG-INFO
+sirishbasiccalculator.egg-info/SOURCES.txt
+sirishbasiccalculator.egg-info/dependency_links.txt
+sirishbasiccalculator.egg-info/top_level.txt
