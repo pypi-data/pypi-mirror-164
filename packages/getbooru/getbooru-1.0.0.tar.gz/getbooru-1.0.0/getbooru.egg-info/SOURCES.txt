@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+getbooru/__init__.py
+getbooru/errors.py
+getbooru/tags.py
+getbooru.egg-info/PKG-INFO
+getbooru.egg-info/SOURCES.txt
+getbooru.egg-info/dependency_links.txt
+getbooru.egg-info/requires.txt
+getbooru.egg-info/top_level.txt
+getbooru/booru/__init__.py
+getbooru/booru/gelbooru.py
+getbooru/booru/safebooru.py
