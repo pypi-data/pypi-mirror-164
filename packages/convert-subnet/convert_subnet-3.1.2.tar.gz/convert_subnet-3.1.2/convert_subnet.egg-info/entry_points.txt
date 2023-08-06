@@ -1,0 +1,2 @@
+[console_scripts]
+convert_subnet = convert_subnet.convert_subnet:main

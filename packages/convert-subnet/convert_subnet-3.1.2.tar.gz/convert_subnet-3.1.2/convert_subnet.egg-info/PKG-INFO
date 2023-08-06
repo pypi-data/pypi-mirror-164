@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: convert-subnet
+Version: 3.1.2
+Summary: convert_subnet: Convert Prefix Length To Subnet Mask & Vice-Versa
+Home-page: https://github.com/VietDuc19
+Author: LongDT15
+Author-email: longdt15@fpt.com.vn
+License: MIT
+Keywords: network subnet_mask Prefix_Length CIDR Suffix
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+**This Project Is Used To Convert Network Subnet Mask (For Example: 255.255.255.0) To Prefix Length/CIDR Suffix (For Example: 24) and Vice-Versa.**
+
+Installation
+```
+# pip install subnetinfo setuptools
+# pip install convert_subnet
+```
+
+How To Use
+```
+# convert_subnet -s Subnet_Mask_Value
+# convert_subnet -c Prefix_Length_Value
+```
+
+Example
+| Command	    | Output 		|
+| :-------------: |:-------------:|
+| # convert_subnet -s 255.255.255.0		| 24
+| # convert_subnet -c 28				| 255.255.255.240
