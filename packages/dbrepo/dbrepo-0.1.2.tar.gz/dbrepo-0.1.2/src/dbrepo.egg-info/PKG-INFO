@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: dbrepo
+Version: 0.1.2
+Summary: A small example package
+Author-email: Josef Taha <josef.taha@tuwien.ac.at>
+Project-URL: Homepage, https://github.com/retropotato/dbrepo-lib
+Project-URL: Bug Tracker, https://github.com/retropotato/dbrepo-lib/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# DBRepo
+This is an unofficial Python wrapper for the DBRepo REST API.
+
+Source code
+    https://github.com/sammchardy/python-binance
+Documentation
+https://python-binance.readthedocs.io/en/latest/
+Binance API Telegram
+https://t.me/binance_api_english
+Blog with examples including async
+https://sammchardy.github.io
