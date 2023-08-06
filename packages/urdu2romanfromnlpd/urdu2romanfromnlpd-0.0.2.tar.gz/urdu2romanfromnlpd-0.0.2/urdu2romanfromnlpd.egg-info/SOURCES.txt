@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+urdu2romanfromnlpd/__init__.py
+urdu2romanfromnlpd.egg-info/PKG-INFO
+urdu2romanfromnlpd.egg-info/SOURCES.txt
+urdu2romanfromnlpd.egg-info/dependency_links.txt
+urdu2romanfromnlpd.egg-info/requires.txt
+urdu2romanfromnlpd.egg-info/top_level.txt
