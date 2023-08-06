@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_iq = {'_': ['iq-quarter'],
+ 'a': ['iqaluit-niaqunnguu',
+       'iqaluit-manirajak',
+       'iqaluit-tasiluk',
+       'iqaluit-sinaa',
+       'iqalulialuk',
+       'iqaddar',
+       'iqaluit',
+       'iqair',
+       'iqama',
+       'iqan'],
+ 'b': ['iqbal'],
+ 'c': ['iqcb1', 'iqce', 'iqc'],
+ 'e': ['iqer', 'iqe'],
+ 'f': ['iqfoil'],
+ 'g': ['iqgap1', 'iqgap2'],
+ 'i': ['iqinvision', 'iqiyi'],
+ 'm': ['iqmik', 'iqms', 'iqm'],
+ 'n': ['iqnavigator', 'iqnovate'],
+ 'o': ['iqor', 'iqoo', 'iqos'],
+ 'r': ['iqraar', 'iqrit', 'iqrig', 'iqraa', 'iqrf', 'iqro'],
+ 's': ['iqsec2', 'iqsec1', 'iqsec3', 'iqs'],
+ 't': ['iqtisaduna', 'iqtell', "iqta'", 'iqt'],
+ 'u': ['iquiracetima',
+       'iquarter',
+       'iquitos',
+       'iquique',
+       'iquira',
+       'ique',
+       'iqu'],
+ 'v': ['iqvia']}

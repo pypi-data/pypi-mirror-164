@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_pg = {'_': ['pg-7vr'],
+ 'a': ['pgam5', 'pgam2', 'pgap1', 'pga1', 'pgam', 'pga5', 'pgas', 'pga'],
+ 'b': ['pgb'],
+ 'c': ['pgcc', 'pgce', 'pgc'],
+ 'd': ['pgds', 'pgde', 'pgd'],
+ 'e': ['pge'],
+ 'f': ['pgf/tikz', 'pgf'],
+ 'g': ['pgg-glucan', 'pgg'],
+ 'h': ['pghbridges.com', 'pghs', 'pgh'],
+ 'i': ['pgim', 'pgia', 'pgib', 'pgi'],
+ 'k': ['pgk1p2', 'pgk1', 'pgk'],
+ 'l': ['pglang', 'pglo', 'pgl2', 'pgl'],
+ 'm': ['pgm-17', 'pgms', 'pgmp', 'pgm2', 'pgm5', 'pgmc', 'pgme', 'pgm1', 'pgm'],
+ 'n': ['pgnig', 'pgn'],
+ 'o': ['pgou', 'pgo'],
+ 'p': ['pgpcoder',
+       'pgpdisk',
+       'pgp-rts',
+       'pgp-rtb',
+       'pgpfone',
+       'pgplot',
+       'pgpep1',
+       'pgpr',
+       'pgp'],
+ 'r': ['pgreen', 'pgrmc2', 'pgrmc1', 'pgrep', 'pgrmc', 'pgrc', 'pgr'],
+ 's': ['pgsc', 'pgss', 'pgs'],
+ 't': ['pgt'],
+ 'u': ['pgu'],
+ 'v': ['pgv'],
+ 'w': ['pgw'],
+ 'y': ['pgy'],
+ 'z': ['pgz-09', 'pgz-88']}
