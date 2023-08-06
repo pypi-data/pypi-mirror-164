@@ -1,0 +1,56 @@
+[tool.poetry]
+name = "pyrozza"
+version = "0.1.0-alpha.1"
+description = "A Python wrapper for the UK Police API"
+authors = ["Armand Rego <armandrego@googlemail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/regoawt/pyrozza"
+keywords = ['wrapper', 'uk', 'police', 'crime', 'api']
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+]
+packages = [
+    { include = "pyrozza"},
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.28.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+pre-commit = "^2.20.0"
+pytest-cov = "^3.0.0"
+coverage = {extras = ["toml"], version = "^6.4.3"}
+black = {version = "^22.6.0", allow-prereleases = true}
+
+[tool.pytest.ini_options]
+addopts = "--cov . -v --cov-report=html"
+python_files = ["tests.py", "test_*.py",  "*_tests.py"]
+
+[tool.coverage.run]
+include = ["pyrozza/*"]
+omit = [
+    "*/tests/*",
+    "*/tests*",
+    "*__init__*",
+    ]
+branch = true
+
+[tool.coverage.report]
+exclude_lines = ["pragma: no cover"]
+show_missing = true
+include = ["pyrozza/*"]
+omit = [
+    "*/tests/*",
+    "*/tests*",
+    "*__init__*",
+    ]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
