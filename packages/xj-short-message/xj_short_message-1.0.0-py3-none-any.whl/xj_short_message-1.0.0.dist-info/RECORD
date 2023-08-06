@@ -1,0 +1,13 @@
+xj_short_message/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xj_short_message/apps.py,sha256=xMF8uKpsyBrGldzKFEDgk2__NfwL05gZz9Ztpz4a1rI,196
+xj_short_message/common.py,sha256=kSdGoob5SEJNMB-f4oNChDMTaWQPSqmMNnekWXVnGZM,1661
+xj_short_message/models.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xj_short_message/urls.py,sha256=rQOMB-Ivb4En-7gG_865AHPPQge-EnhJnLuZvCeiSn8,220
+xj_short_message/apis/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xj_short_message/apis/send_short_message.py,sha256=sEtAccwu3aW7wXV-mCb7StoMgPYeH0MctVSabiQLmL4,760
+xj_short_message/services/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xj_short_message/services/send_short_message_service.py,sha256=C8j6Bz3yJSSLEPfikuyig9KY9u4g6FTxg3kAt8f4tDM,4664
+xj_short_message-1.0.0.dist-info/METADATA,sha256=Bd2t-Vegnre_IaxMvj_HSkesDRBcwIoL20YO7Y2bOWQ,1130
+xj_short_message-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+xj_short_message-1.0.0.dist-info/top_level.txt,sha256=Ozw5Lc6mrtp3o12VGRue1phvdE_brwJNFGbcawLw5Gg,17
+xj_short_message-1.0.0.dist-info/RECORD,,
