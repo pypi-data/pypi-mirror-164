@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+dnacrypt/__init__.py
+dnacrypt/dnacrypt.py
+dnacrypt.egg-info/PKG-INFO
+dnacrypt.egg-info/SOURCES.txt
+dnacrypt.egg-info/dependency_links.txt
+dnacrypt.egg-info/top_level.txt
