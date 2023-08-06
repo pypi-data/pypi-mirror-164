@@ -1,0 +1,10 @@
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+django_chain_pymysql/__init__.py
+django_chain_pymysql.egg-info/PKG-INFO
+django_chain_pymysql.egg-info/SOURCES.txt
+django_chain_pymysql.egg-info/dependency_links.txt
+django_chain_pymysql.egg-info/requires.txt
+django_chain_pymysql.egg-info/top_level.txt
