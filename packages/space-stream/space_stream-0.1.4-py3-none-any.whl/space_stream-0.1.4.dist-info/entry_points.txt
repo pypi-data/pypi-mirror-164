@@ -1,0 +1,3 @@
+[console_scripts]
+spacestream = spacestream.__main__:main
+
