@@ -1,0 +1,13 @@
+aiohttp>=3.4
+netifaces
+async_timeout
+
+[all]
+pytest>=6.2.2
+pytest-aio
+pytest-aiohttp
+
+[test]
+pytest>=6.2.2
+pytest-aio
+pytest-aiohttp
