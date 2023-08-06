@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+django_enforce_host.egg-info/PKG-INFO
+django_enforce_host.egg-info/SOURCES.txt
+django_enforce_host.egg-info/dependency_links.txt
+django_enforce_host.egg-info/top_level.txt
+enforce_host/__init__.py
+enforce_host/tests/__init__.py
+enforce_host/tests/settings.py
+enforce_host/tests/tests.py
+enforce_host/tests/urls.py
