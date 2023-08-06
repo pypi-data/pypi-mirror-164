@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: urdu2romanfromnlpd
+Version: 0.0.1
+Summary: A roman to urdu converter
+Home-page: UNKNOWN
+Author: Mohammad Ayyaz Azeem
+Author-email: ayyaz.maju@gmail.com
+License: MIT
+Keywords: urdu2roman,roman
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+The core purpose of creating this library is Roman to Urdu Transliteration using word list. The table for mapping is discussed in:
+
+Ahmed, T. (2009). Roman to Urdu Transliteration using word list. Conference of Language and Technology, submitted
+
+Further help was taken from following paper:
+
+Tafseer Ahmed, Roman to Urdu Transliteration using word list
+
+Change Log
+==========
+
+0.0.1 (25/08/2022)
+-------------------
+- First Release
+
