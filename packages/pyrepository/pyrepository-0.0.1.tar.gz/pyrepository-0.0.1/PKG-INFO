@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: pyrepository
+Version: 0.0.1
+Summary: PyRepository
+Home-page: https://github.com/imyizhang/pyrepository/
+License: BSD-3-Clause
+Author: Yi Zhang
+Author-email: yizhang.dev@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Documentation, https://pyrepository.readthedocs.io/en/latest/
+Project-URL: Repository, https://github.com/imyizhang/pyrepository/
+Description-Content-Type: text/markdown
+
+# PyRepository
+
+
+
+## Installation
+
+```bash
+pip install pyrepository
+```
+
+
+
+## Quick Start
+
+```python
+import pyrepository
+```
+
+
+
+## Contributing
+
+
+
+## License
+
+PyRepository has an BSD-3-Clause license, as found in the [LICENSE](https://github.com/imyizhang/pyrepository/blob/main/LICENSE) file.
