@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dsolve
+Version: 0.0.2
+Summary: Solver of dynamic equations with forward looking variables
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+Provides-Extra: dev
