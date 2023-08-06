@@ -1,0 +1,3 @@
+[console_scripts]
+stampy=stampy.main:main
+
