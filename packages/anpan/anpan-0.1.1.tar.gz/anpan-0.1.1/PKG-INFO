@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: anpan
+Version: 0.1.1
+Summary: Kanban CLI for Foam
+Author-email: Ryan Lee <seungjaeryanlee@gmail.com>
+Project-URL: Homepage, https://github.com/seungjaeryanlee/anpan
+Project-URL: Bug Tracker, https://github.com/seungjaeryanlee/anpan/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# anpan
+Kanban CLI for Foam
