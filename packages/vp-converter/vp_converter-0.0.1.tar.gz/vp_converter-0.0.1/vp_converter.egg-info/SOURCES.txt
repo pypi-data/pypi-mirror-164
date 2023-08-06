@@ -1,0 +1,8 @@
+README
+setup.py
+VinToVinproxy/__init__.py
+VinToVinproxy/main.py
+vp_converter.egg-info/PKG-INFO
+vp_converter.egg-info/SOURCES.txt
+vp_converter.egg-info/dependency_links.txt
+vp_converter.egg-info/top_level.txt
