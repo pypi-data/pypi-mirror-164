@@ -1,0 +1,2 @@
+[console_scripts]
+eochat-qt = eochat.main:main

@@ -1,0 +1,4 @@
+eochat
+tornado
+pyside6
+toml
