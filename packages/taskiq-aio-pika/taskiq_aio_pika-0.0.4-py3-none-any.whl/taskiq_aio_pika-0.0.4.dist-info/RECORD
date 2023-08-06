@@ -1,0 +1,7 @@
+taskiq_aio_pika/__init__.py,sha256=OSTzE5_Umw_-hO-iwILt4u6qVzsqWpfWIPC1i6BlZyg,118
+taskiq_aio_pika/broker.py,sha256=9nZOk4-_pyb5WxME0j-SjTh_x-KdqofgJr78N0RQCno,6695
+taskiq_aio_pika/tests/conftest.py,sha256=-M_tVI-DqdnbOxSBfcDHvT9s6HNldmMHt66vzWGaUUk,3918
+taskiq_aio_pika/tests/test_broker.py,sha256=hdVEeVGVJYEQtnW_F8xe0wW1QYM4AoTZn6TqxhDldPc,3354
+taskiq_aio_pika-0.0.4.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+taskiq_aio_pika-0.0.4.dist-info/METADATA,sha256=wazWID5ARp4UFDZhVacHjBn28eiWY6T1JiEnJ8hYKjw,1836
+taskiq_aio_pika-0.0.4.dist-info/RECORD,,
