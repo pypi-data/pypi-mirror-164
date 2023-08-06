@@ -1,0 +1,9 @@
+parasail/__init__.py,sha256=pgKy3el1Z_QCSfnTGjNbsgPzap1C0srs4lt6jvyBMaA,3070
+parasail/bindings_v1.py,sha256=35pQ-zFtWt9PjTb0evhxeA1Kd7xhohN9LctX_nZscEw,173455
+parasail/bindings_v2.py,sha256=L4zVgNMpe4uN3q7OMT4cQ2hwZ7savmoAPgrcD2Pm0wg,862638
+parasail/parasail.dll,sha256=XhfkdBggxNEKCQbicqbtfnL6WTfSCcplAlVU7zR7vRA,6090752
+parasail-1.3rc1.dist-info/COPYING,sha256=iQmlwhZzgM9KlVSMFQiOPeWGJVRMVZMfWszkfI2Oi14,2392
+parasail-1.3rc1.dist-info/METADATA,sha256=KUKDVoQfqcijwC-QDwe8Ri95DKnJmNaokV3UxhmBOyU,21671
+parasail-1.3rc1.dist-info/WHEEL,sha256=D6M9IMrphGSXsL89PDlRVAckIDTXwanyW77E3G5c0P0,122
+parasail-1.3rc1.dist-info/top_level.txt,sha256=1LswHQAzFFLvn6LYWNFKLi1YfUKtE-3n9mUnJV-L904,9
+parasail-1.3rc1.dist-info/RECORD,,
