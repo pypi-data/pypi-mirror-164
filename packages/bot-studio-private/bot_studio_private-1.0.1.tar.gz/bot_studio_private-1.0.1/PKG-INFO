@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: bot_studio_private
+Version: 1.0.1
+Summary: Automation Library
+Home-page: UNKNOWN
+Author: DataKund
+Author-email: datakund@gmail.com
+License: Apache License 2.0
+Description: Bot Studio Private is a python library for runing bots built with DataKund Studio.
+        It currently runs only on windows.
+        
+        ### Installation
+        ```sh
+        pip install bot-studio-private
+        ```
+        
+        ### Import Bot Studio
+        ```
+        from bot_studio_private import *
+        ```
+        
+        ### Create Object
+        Create object first to open browser.
+        ```sh
+        dk=bot_studio_private.new()
+        or
+        dk=bot_studio_private.new(argument1=value,argument2=value,..)
+        ```
+        
+        ### Browser Options
+        | Option         | Default Value              | Description							   |
+        | -------------  | ---------------------------|-------------------------------------------
+        | headless       |           False            | Can set it to ``True`` if wants headless  |
+        | proxy	         |         No proxy	          | Pass proxy value e.g ``98.0.2.5:4000`` 	|
+        | profile_path   | creates temporary profile  | Pass profile path e.g ``C:\\Users\\username\\AppData\\Local\\Google\\Chrome\\User Data\\``|
+        | user_agent     |      No user agent         | Pass user agent e.g ``python 2.7", "platform":"Windows``|
+        | download_folder|Downloads in default folder | If want to set download directory to custom e.g ``E:files\\``|
+        
+        
+        #### Run a bot
+        ```sh
+        dk.amazon_login(email='put your email here', login_url='https://www.amazon.com/gp/sign-in.html', password='put password here',analysis_path="E:/analysis_path.json")
+        ```
+        
+        ### Contact Us
+        * [Telegram](https://t.me/datakund)
+        * [Website](https://datakund.com)
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
