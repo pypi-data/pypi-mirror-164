@@ -1,0 +1,4 @@
+[console_scripts]
+dc3 = dc:console_script_entry
+mtlibs = main:hello
+
