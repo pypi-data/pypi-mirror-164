@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: mgui
+Version: 0.0.1rc0
+Summary: guis for declarative models
+Author: Talley Lambert
+Author-email: talley.lambert@gmail.com
+License: BSD 3-Clause License
+Project-URL: homepage, https://github.com/tlambert03/mgui
+Project-URL: repository, https://github.com/tlambert03/mgui
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: test
+Provides-Extra: dev
+License-File: LICENSE
+
+# mgui
+
+[![License](https://img.shields.io/pypi/l/mgui.svg?color=green)](https://github.com/tlambert03/mgui/raw/main/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/mgui.svg?color=green)](https://pypi.org/project/mgui)
+[![Python Version](https://img.shields.io/pypi/pyversions/mgui.svg?color=green)](https://python.org)
+[![CI](https://github.com/tlambert03/mgui/actions/workflows/ci.yml/badge.svg)](https://github.com/tlambert03/mgui/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/tlambert03/mgui/branch/main/graph/badge.svg)](https://codecov.io/gh/tlambert03/mgui)
+
+guis for declarative models

@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/mgui/__init__.py
+src/mgui/py.typed
+src/mgui.egg-info/PKG-INFO
+src/mgui.egg-info/SOURCES.txt
+src/mgui.egg-info/dependency_links.txt
+src/mgui.egg-info/not-zip-safe
+src/mgui.egg-info/requires.txt
+src/mgui.egg-info/top_level.txt
