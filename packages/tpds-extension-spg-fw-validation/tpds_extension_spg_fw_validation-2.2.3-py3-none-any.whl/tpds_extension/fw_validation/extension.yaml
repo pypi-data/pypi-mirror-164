@@ -1,0 +1,20 @@
+name: spg_firm_validation
+
+frontend:
+  entrypoints:
+  - name: firm_validation
+    title: Firmware Validation
+    description: ""
+    entry: TrustFlex/Firmware Validation.ipynb
+    icon:
+      name: firmware_validation_png
+      path: TrustFlex/assets/images/Firmware validation.png
+    applications:
+      - Accessory Authentication
+      - Disposable Authentication
+      - IoT
+      - Automotive
+    devices:
+      - ATECC608B-TFLXTLS
+    boards:
+      - DM320118
