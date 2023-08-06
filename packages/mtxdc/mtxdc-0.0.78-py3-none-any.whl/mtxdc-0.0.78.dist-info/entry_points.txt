@@ -1,0 +1,3 @@
+[console_scripts]
+dc = sm.app:entry_dc
+
