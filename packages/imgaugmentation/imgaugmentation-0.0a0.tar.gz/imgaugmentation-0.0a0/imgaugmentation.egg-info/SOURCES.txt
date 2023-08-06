@@ -1,0 +1,9 @@
+README.md
+setup.py
+imgaugmentation/ImageAugmentation.py
+imgaugmentation/__init__.py
+imgaugmentation.egg-info/PKG-INFO
+imgaugmentation.egg-info/SOURCES.txt
+imgaugmentation.egg-info/dependency_links.txt
+imgaugmentation.egg-info/requires.txt
+imgaugmentation.egg-info/top_level.txt

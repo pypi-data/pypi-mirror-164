@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: imgaugmentation
+Version: 0.0a0
+Summary: This package is for Data augmentation of image dataset
+Home-page: UNKNOWN
+Author: Sumit Singh
+Author-email: <iamsumit1904@gmail.com>
+License: UNKNOWN
+Description: It is a model for augmentation of image dataset. Augmentation of image is carried out by the process of resize, scale, rotate, translation, transpose, blurring, and by adding noise to the image. Dataset(X_train) can be augmented to 10x of its original size while saving y_train data for each image.
+Keywords: python,augmentation,image,data augmentation,image dataset
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
