@@ -1,0 +1,7 @@
+README.md
+pyprogressbars.py
+setup.py
+pyprogressbars.egg-info/PKG-INFO
+pyprogressbars.egg-info/SOURCES.txt
+pyprogressbars.egg-info/dependency_links.txt
+pyprogressbars.egg-info/top_level.txt
