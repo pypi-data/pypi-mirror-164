@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "clickhouse_driver_fork_0_2_4"
+version = "0.0.1"
+authors = [
+  { name="Carlos Yago", email="carlosfyago@gmail.com" },
+]
+maintainers = [
+  { name="Carlos Yago", email="carlosfyago@gmail.com" },
+]
+description = "Fix of the version 0.2.4, for the clickhouse's version 22.3"
+readme = "README.rst"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
