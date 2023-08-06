@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "datapipes"
+version = "0.0.2"
+description = "DataPipes for open data"
+authors = ["OpenCOVID-19 <contact.opencovid19@gmail.com>"]
+license = "BSD-3-Clause"
+readme = "README.md"
+homepage = "https://github.com/opencovid19data/opendata/"
+repository = "https://github.com/opencovid19data/opendata/"
+documentation = "https://datapipes.readthedocs.io/en/latest/"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^4.0.1"
+yapf = "^0.32.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
