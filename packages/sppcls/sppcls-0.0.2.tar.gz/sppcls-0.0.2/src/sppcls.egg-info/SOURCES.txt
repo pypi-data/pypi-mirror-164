@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/sppcls/__init__.py
+src/sppcls/sppcls.py
+src/sppcls.egg-info/PKG-INFO
+src/sppcls.egg-info/SOURCES.txt
+src/sppcls.egg-info/dependency_links.txt
+src/sppcls.egg-info/top_level.txt
