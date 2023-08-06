@@ -1,0 +1,14 @@
+mcap_protobuf/__init__.py,sha256=wOJN3HxAgnSon5vWYU3Txm2UZ_7tBHDKXUKZIH-mXX8,22
+mcap_protobuf/decoder.py,sha256=g5cPwM8ofiTtrleZ-cbhRI6bC3lYJPcH0x9ZyMUq83c,2319
+mcap_protobuf/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mcap_protobuf/reader.py,sha256=MpgMyRkQZcgAb1uhHpVJGj5MNZpYdf4oKZzetRzLWC0,4610
+mcap_protobuf/schema.py,sha256=0cBIQzyAGCwMalPjmT124xsdzV1GsuNHxvRrfEi2dLQ,1087
+mcap_protobuf/writer.py,sha256=I34o5KgQeK9sG93F6DCQ98jje4Lpt7-fSnjN5cE2f9c,3026
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/generate.py,sha256=xeOBMZES_T2nfUPXL5vCnE06wXKqjNS5heVJqocgoQc,1449
+tests/test_decoder.py,sha256=vyzSeAQRZ-EIZZiwdMdhpVNsnE5S7DWk5ZuC59vsEEU,877
+tests/test_writer.py,sha256=iSqUk0GkvchezE1tRoGv8xRSZ3cacVs2d1GRqF88P1A,956
+mcap_protobuf_support-0.0.8.dist-info/METADATA,sha256=yP-naftOZmdLgfj-1Ac0F2MR9KAdK06zRZes9oRNEdQ,1319
+mcap_protobuf_support-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mcap_protobuf_support-0.0.8.dist-info/top_level.txt,sha256=I_BofNSoxuWiJRQdW7tO5ETYfP6SwCIOxu7pCpKml4o,20
+mcap_protobuf_support-0.0.8.dist-info/RECORD,,
