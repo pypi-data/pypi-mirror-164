@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "plastes"
+version = "0.0.1"
+authors = [
+  { name="Nathan Yan", email="nathancy@uw.edu" },
+]
+description = "A simple and extensible static blog post builder."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = ["PyYAML >= 6.0", "watchdog >= 2.1.9", "mistletoe >= 0.9.0", "dominate >= 2.7.0"]
+
+[project.urls]
+"Homepage" = "https://github.com/nathan-yan/plastes"
