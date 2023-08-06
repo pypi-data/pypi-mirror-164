@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: PyGitHubSDK
+Version: 0.1
+Summary: Python SDK for GitHub API
+Home-page: https://github.com/arcotbha/GitHubSDK
+Author: Preethi Kumar
+Author-email: preethi.abkumar@gmail.com
+License: MIT
+Download-URL: https://github.com/user/reponame/archive/v_01.tar.gz
+Description: UNKNOWN
+Keywords: GitHub,Python,sdk
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
