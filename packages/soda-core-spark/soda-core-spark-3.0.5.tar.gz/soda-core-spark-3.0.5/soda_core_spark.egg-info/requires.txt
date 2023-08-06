@@ -1,0 +1,7 @@
+soda-core==3.0.5
+
+[hive]
+PyHive[hive]
+
+[odbc]
+pyodbc
