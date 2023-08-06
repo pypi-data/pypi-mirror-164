@@ -1,0 +1,11 @@
+CHANGELOG.md,sha256=PkgSdMzBWfJvEdRy_TOEyiiyesY9RVwL4dovGRdh1Ss,40
+starlite_jwt/__init__.py,sha256=RxG5BvB651FMHA2G5mjZxEREtt9kLimzpuUqKPZe3vY,87
+starlite_jwt/jwt_auth.py,sha256=lWSdeKtbxVIw9VTchC1O92zaMwX9eyxaq0MfyPaOunk,5970
+starlite_jwt/middleware.py,sha256=COWCARZSR9XzcmUfn-a3J2SGoXfd0fY9aFsV7MquU8E,3688
+starlite_jwt/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+starlite_jwt/token.py,sha256=XXZXSeJmqNw16rmLoLW_Ka40JNyjH-nt3BUJdNomieY,4116
+starlite_jwt/types.py,sha256=MQaLivOsSw7_qHdq1r1DNRMyL52m8p0VDV8XZVzTIlM,146
+starlite_jwt-1.0.0.dist-info/LICENSE,sha256=5J7KP4MH4unMg-sIVuQY-GkPbEnt_IYnZG9S04pkdr0,1079
+starlite_jwt-1.0.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+starlite_jwt-1.0.0.dist-info/METADATA,sha256=KtbILZEX_qwXxzSBbkAs986m10VRQtreu9Fgqu8RLr0,7082
+starlite_jwt-1.0.0.dist-info/RECORD,,
