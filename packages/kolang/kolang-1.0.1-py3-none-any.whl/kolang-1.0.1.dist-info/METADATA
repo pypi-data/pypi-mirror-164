@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: kolang
+Version: 1.0.1
+Summary: 코랭!
+Home-page: https://github.com/Sol-Studio/kolang
+Author: Sol-Studio
+Author-email: dev.sol.studio@gmail.com
+License: GPLv2
+Keywords: korean
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: ==3.8
+License-File: LICENSE
+
+# 코랭
+[문서](https://amused-advantage-102.notion.site/0e02b8cef9a64d08a39eaeec6d4baf0b)
