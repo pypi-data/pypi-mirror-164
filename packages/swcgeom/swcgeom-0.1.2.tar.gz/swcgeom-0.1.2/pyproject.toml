@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "swcgeom"
+version = "0.1.2"
+description = "A neuron geometry library for swc format"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "yzx9", email = "yuan.zx@outlook.com", url = "https://github.com/yzx9" },
+]
+keywords = [ "neuron", "swc", "geom" ]
+license = {text = "CC4.0 BY-NC-SA"}
+dependencies = [
+  "matplotlib>=3.5.2",
+  "networkx>=2.8.2",
+  "numpy>=1.22.3",
+  "pandas>=1.4.2",
+  "setuptools>=61.0.0",
+]
+
+[project.urls]
+GitHub = "https://github.com/yzx9/swcgeom"

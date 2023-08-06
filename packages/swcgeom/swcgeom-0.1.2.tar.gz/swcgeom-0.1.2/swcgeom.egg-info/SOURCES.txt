@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+swcgeom/Branch.py
+swcgeom/BranchTree.py
+swcgeom/Tree.py
+swcgeom/__init__.py
+swcgeom/painter.py
+swcgeom/transforms.py
+swcgeom.egg-info/PKG-INFO
+swcgeom.egg-info/SOURCES.txt
+swcgeom.egg-info/dependency_links.txt
+swcgeom.egg-info/requires.txt
+swcgeom.egg-info/top_level.txt
