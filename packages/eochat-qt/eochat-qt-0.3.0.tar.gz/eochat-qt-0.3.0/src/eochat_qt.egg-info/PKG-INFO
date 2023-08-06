@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: eochat-qt
+Version: 0.3.0
+Summary: Featureful GUI client for Everfree Outpost
+Home-page: https://gitlab.com/script-anon/eo-qt6-chat
+Author: Script Filly
+Author-email: anonymous.indefinitely@gmail.com
+License: GPLv3
+Project-URL: Bug Tracker, https://gitlab.com/script-anon/eo-qt6-chat/-/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
