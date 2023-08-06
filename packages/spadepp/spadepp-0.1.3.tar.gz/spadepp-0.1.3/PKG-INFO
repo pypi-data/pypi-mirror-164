@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: spadepp
+Version: 0.1.3
+Summary: 
+Author: Minh Pham
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: accelerate (>=0.12.0,<0.13.0)
+Requires-Dist: click (>=8.0.4,<9.0.0)
+Requires-Dist: datasets (>=1.18.3,<2.0.0)
+Requires-Dist: loguru (>=0.6.0,<0.7.0)
+Requires-Dist: nltk (>=3.7,<4.0)
+Requires-Dist: numpy (>=1.22.2,<2.0.0)
+Requires-Dist: pandas (>=1.4.1,<2.0.0)
+Requires-Dist: pyspellchecker (>=0.6.3,<0.7.0)
+Requires-Dist: scikit-activeml (>=0.2.5,<0.3.0)
+Requires-Dist: scikit-learn (>=1.1.2,<2.0.0)
+Requires-Dist: sentence-transformers (>=2.2.0,<3.0.0)
+Requires-Dist: setuptools
+Requires-Dist: spacy (>=3.2.2,<4.0.0)
+Requires-Dist: tabulate (>=0.8.9,<0.9.0)
+Requires-Dist: transformers (>=4.16.2,<5.0.0)
+Requires-Dist: xgboost (>=1.5.2,<2.0.0)
