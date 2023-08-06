@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+nerdlerxml/__init__.py
+nerdlerxml/nerdlerxml.py
+nerdlerxml.egg-info/PKG-INFO
+nerdlerxml.egg-info/SOURCES.txt
+nerdlerxml.egg-info/dependency_links.txt
+nerdlerxml.egg-info/top_level.txt
