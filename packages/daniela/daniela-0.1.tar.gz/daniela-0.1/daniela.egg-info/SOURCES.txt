@@ -1,0 +1,9 @@
+setup.py
+daniela/__init__.py
+daniela/__main__.py
+daniela/daniela.py
+daniela.egg-info/PKG-INFO
+daniela.egg-info/SOURCES.txt
+daniela.egg-info/dependency_links.txt
+daniela.egg-info/requires.txt
+daniela.egg-info/top_level.txt
