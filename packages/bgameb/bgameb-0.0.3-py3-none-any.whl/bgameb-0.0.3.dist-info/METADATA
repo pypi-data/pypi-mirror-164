@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: bgameb
+Version: 0.0.3
+Summary: Board Game Builder
+Home-page: https://github.com/KonstantinKlepikov/BoardGameBuilder
+Author: Konstantin Klepikov
+Author-email: oformleno@gmail.com
+License: MIT
+Requires-Python: >=3.8.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# BoardGameBuilder
+
+Object oriented framework for build boardgame logic on python
