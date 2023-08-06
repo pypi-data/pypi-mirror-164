@@ -1,0 +1,14 @@
+Shadow/ShadowToolsPrivate.py,sha256=sezlD0oi1GUosw_HVikKpE4veUb8Xyk8TXo0aMYvgtw,9754
+Shadow/ShadowTools.py,sha256=lpUnlmMWF2Sq_xic4gZClVkE2SY0PNcPhLAKrmBE09E,79557
+Shadow/ShadowPreprocessorsXraylib.py,sha256=E4reomjtWlzsntwkVAsEBg7S7aA_JOX3GhHG-FuRY_M,20784
+Shadow/ShadowLib.cpython-38-darwin.so,sha256=ve8iODSqcztwGmDkZ2m7yUAeS_F2VRw_27Bn9vCatqY,1113184
+Shadow/__init__.py,sha256=gs_A0MbJTBwPaQuktI1dZD7cCLbUeaDmtIYC0c031Q4,968
+Shadow/ShadowLibExtensions.py,sha256=XQtrejzY793pz_nW5fnsqvRnKJSsudCSpRzuIdu1eWA,164887
+Shadow/.dylibs/libgfortran.5.dylib,sha256=Op5clnUBCrm0VEf7TN97Pm7L1Tu3WdxITS3ySO5ZLQY,3066928
+Shadow/.dylibs/libquadmath.0.dylib,sha256=eCTV4DHSe5o32H3j9Y-yK3Up1msXzNjw1ijElr9PSXQ,338416
+Shadow/.dylibs/libgcc_s.1.1.dylib,sha256=QgSEY_1HBYIUEBRTY35nQbmsBo_C6W83AkVgfmNvf5w,186720
+shadow3-22.8.20.dist-info/RECORD,,
+shadow3-22.8.20.dist-info/LICENSE,sha256=jZi3qxw1RFek2wE24-lMoUnfUxcvlSqvTvI0VawRzME,1080
+shadow3-22.8.20.dist-info/WHEEL,sha256=pXLpj1wTvqlD6RVUEKOuGQGeFX0NOPyDrsC-9xVDmYU,109
+shadow3-22.8.20.dist-info/top_level.txt,sha256=N4uM_DVFv5qO2A7yma3HA0zfW1xu2FzZpwq_WiYNQik,7
+shadow3-22.8.20.dist-info/METADATA,sha256=aCPvjWRRlAKXglv3bNiJ0AS5gS2qZ5MFHPt5ymk1ekQ,379
