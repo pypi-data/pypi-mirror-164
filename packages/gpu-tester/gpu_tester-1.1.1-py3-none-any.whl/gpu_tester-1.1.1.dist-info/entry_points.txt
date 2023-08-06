@@ -1,0 +1,3 @@
+[console_scripts]
+gpu_tester = gpu_tester:main
+
