@@ -1,0 +1,13 @@
+inkplot/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+inkplot/cli.py,sha256=EfFqPazV2OBhgbCbMgvmMNZBMCZgxUFcpC3LdZDTgZI,2069
+inkplot/exceptions.py,sha256=r6DI937uxlww6Tfaa02KqwzEuei3fxzGv1ekfrm8hZc,168
+inkplot/layered_svg.py,sha256=bj6M1DA-ESPT8CfEZlQywl13YNObsOrLq_RlTsvZg3g,8250
+inkplot/pages.py,sha256=6ZwgrN-vo-ZZ6RYPnJNXJQIxwB6EBxK5t-PW5PKOXWI,5527
+inkplot/svg_locator.py,sha256=QvbGNQYJGqBeh1DuNWX1uuOuxAUF0zdetR7A7rU6g0M,2138
+inkplot-0.1.1.dist-info/AUTHORS.md,sha256=pmQ-7lOPmnEKK_ppRsDhDiEVa01BPlNeXHEHd_2PEKY,48
+inkplot-0.1.1.dist-info/LICENSE,sha256=pWgb-bBdsU2Gd2kwAXxketnm5W_2u8_fIeWEgojfrxs,7651
+inkplot-0.1.1.dist-info/METADATA,sha256=VS-hHz_qjHZe-YpSeUHoPypYVaFy_G78pNLj4UEr2Mo,3924
+inkplot-0.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+inkplot-0.1.1.dist-info/entry_points.txt,sha256=Evu33dIl6PnTLD8cRQA2M1qkAC-L3M4cPi-to3lqFCE,48
+inkplot-0.1.1.dist-info/top_level.txt,sha256=JCDIA69JBm5O5alpedNItEmAHRk05q7OuLUanJBd6-c,8
+inkplot-0.1.1.dist-info/RECORD,,

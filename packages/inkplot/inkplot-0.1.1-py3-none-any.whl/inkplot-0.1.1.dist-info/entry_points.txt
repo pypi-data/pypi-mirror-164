@@ -1,0 +1,2 @@
+[console_scripts]
+inkplot = inkplot.cli:inkplot
