@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: Trojanhorse
+Version: 1.0
+Summary: 木马病毒制作
+Author: 王芋童
+Author-email: wyt18222152539wyt@163.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyinstaller
+
+你好,我是WYT
+欢迎使用Trojanhorse
+请做到3不
+不修改代码
+不上传代码
+不进行非法活动
+祝您使用愉快
