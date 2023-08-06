@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: master-screen
+Version: 0.0.1
+Summary: Master Screen - TTRPG master screen
+Home-page: https://github.com/Moonscribe-Project/master-screen
+Author: Moonscribe Project
+Author-email: moonscribe-project@protonmail.com
+Maintainer: András Németh (sunarch)
+Maintainer-email: sunarch@protonmail.com
+License: Mozilla Public License 2.0 (MPL 2.0)
+Project-URL: Bug Tracker, https://github.com/Moonscribe-Project/master-screen/issues
+Keywords: master screen,TTRPG
+Platform: Any
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django :: 4
+Classifier: Topic :: Database :: Front-Ends
+Classifier: Topic :: Games/Entertainment :: Role-Playing
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
+Classifier: Typing :: Typed
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Master Screen
+
+### License
+
+[Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
+
+```
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+```

@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+bin/master-screen
+src/master_screen/__init__.py
+src/master_screen/__main__.py
+src/master_screen/version.py
+src/master_screen.egg-info/PKG-INFO
+src/master_screen.egg-info/SOURCES.txt
+src/master_screen.egg-info/dependency_links.txt
+src/master_screen.egg-info/entry_points.txt
+src/master_screen.egg-info/top_level.txt
+src/master_screen/data/logger.ini
