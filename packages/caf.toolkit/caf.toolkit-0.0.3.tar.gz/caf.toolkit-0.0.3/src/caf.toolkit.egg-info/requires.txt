@@ -1,0 +1,9 @@
+numpy>=1.19.0
+pandas>=1.4.0
+
+[testing]
+pytest~=7.1.2
+pytest-cov~=2.12.1
+mypy>=0.910
+pylint>=2.14.5
+tox~=3.24.3
