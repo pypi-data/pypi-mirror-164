@@ -1,0 +1,7 @@
+dlib
+imutils
+opencv-contrib-python
+numpy
+torch
+torchvision
+pandas
