@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: autoscirpt
+Version: 1.0.4
+Summary: Daily Workflow Python Automation Script
+Home-page: https://github.com/bdfd
+Author: BDFD
+Author-email: bdfd2005@gmail.com
+Project-URL: Bug Tracker, https://github.com/bdfd
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Package Name
+
+Package function description
+
+## Installation
+
+`pip install autoscirpt`
+
+## How to use it?
+
+Function of the package
+
+## License
+
+copyright @ 2021 BDFD
+
+This repository is licensed under the MIT license. See LICENSE for details.
+
+### References
+
+https://github.com/bdfd/Section5.4-Python-Automation-Script
