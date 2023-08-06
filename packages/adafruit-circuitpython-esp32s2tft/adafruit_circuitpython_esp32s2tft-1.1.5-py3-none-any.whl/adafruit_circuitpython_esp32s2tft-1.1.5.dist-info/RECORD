@@ -1,0 +1,9 @@
+adafruit_esp32s2tft/__init__.py,sha256=qumuaoZm8AAIlkznkpBpGlZFhElcWaScUDGw49GIVLQ,4709
+adafruit_esp32s2tft/graphics.py,sha256=w8O18znXNHUmlqPSAW3jx0_ftvkgjRN48hNpiSA4_cE,1856
+adafruit_esp32s2tft/network.py,sha256=-Xpa-TccfRY4e9P2L4i2YjgIKIGV1lzWrtoSTUe3ACA,7273
+adafruit_esp32s2tft/peripherals.py,sha256=NSjgz8xZqasjslWnXr_0t1kK1HiCdvyqsHNDcphO5LM,2468
+adafruit_circuitpython_esp32s2tft-1.1.5.dist-info/LICENSE,sha256=DF8Aa2mS5mbomqKfr2PFuMWwu_LbPFY0le3UUEAIncY,1115
+adafruit_circuitpython_esp32s2tft-1.1.5.dist-info/METADATA,sha256=J4Eg-Kbw9v9XNGozML35bh45erx5dAcc0KSGYLU-3-A,4669
+adafruit_circuitpython_esp32s2tft-1.1.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+adafruit_circuitpython_esp32s2tft-1.1.5.dist-info/top_level.txt,sha256=tMWyc4btx_ujUVERCrZ5QEVCok2buuLhO6ZeN1kleJ0,20
+adafruit_circuitpython_esp32s2tft-1.1.5.dist-info/RECORD,,
