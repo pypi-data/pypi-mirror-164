@@ -1,0 +1,5 @@
+typing_extensions~=4.0
+adafruit-circuitpython-busdevice
+adafruit-circuitpython-requests
+
+[optional]
