@@ -1,0 +1,12 @@
+pysproto/__init__.py,sha256=HZGRDPwOYXNRv5zvTRGR83bMUmdoCcd7HBJ9ipn_fKU,175
+pysproto/_sproto.c,sha256=Ramrnm5by6s32sWl62Rljb3hUwklfyWfapw8SkiJJoY,1068061
+pysproto/_sproto.cp36-win_amd64.pyd,sha256=6JSUzgDyBzidrtB20bM-K2A-c-xyc_BEjQv89PcB4SY,166912
+pysproto/_sproto.pyx,sha256=QJRqo7pzkNxUjGisgvoDrI2uqSGHNWaP6ExIzM8wL00,18403
+pysproto/sproto.pxd,sha256=G_5-7ZiQ8vUVTa04OfvbjuoUgDI6UUEWooiAyxSenL8,2260
+pysproto/sprotodump.py,sha256=y6uonz3l5efQ-EtTDmousAdEIjkJiSTtURXeJZEiyJo,7866
+pysproto/sprotoparser.py,sha256=XIbaDEHdAwnjcaKeHdJ7k74KBP1vkse5pc8Dvi9C1_0,7443
+sproto-0.1.1rc1.dist-info/LICENSE,sha256=rtJPbHVikSZo_0fePjKWBZ_6svwkeFJ_-7eRbk89TQ4,1523
+sproto-0.1.1rc1.dist-info/METADATA,sha256=IRcKspfcAx4z_jH_OTELVGdnva-HlXwCmzJrO49sC6g,2954
+sproto-0.1.1rc1.dist-info/WHEEL,sha256=zukbZftcRdNfJ55Q_RYV9JZ3uVyqWKyq-wDJbmszs_U,101
+sproto-0.1.1rc1.dist-info/top_level.txt,sha256=_GEEjVYVzI4RZ19OnPRDf9ClXJg0v9Mfm2glT8R_Fn4,9
+sproto-0.1.1rc1.dist-info/RECORD,,
