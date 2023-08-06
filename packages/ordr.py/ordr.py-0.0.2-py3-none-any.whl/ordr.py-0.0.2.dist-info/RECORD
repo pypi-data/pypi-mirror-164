@@ -1,0 +1,11 @@
+ordr/__init__.py,sha256=C51QtCfg2pUAgidzdZNBNjsEad2FvJy55XEk1bHOLwc,196
+ordr/asyncclient.py,sha256=F0lP8_a6SMHNc4nAfk5eupGQWZhyRLG6tnKldwPbjFs,5629
+ordr/classes.py,sha256=dbypvVjRb7UiwJFAsbphuT0fSiOZyfCorBNSjIcw6A8,5784
+ordr/client.py,sha256=tn7D-fzd8R-AqnN__4-6GQLc7VhN_vaJ4QN8sQYNf9U,5046
+ordr/constant.py,sha256=wILHKWC2wcWYcNt8U9QmR3M8qcek2zw8zD7CeloDF1w,2592
+ordr/respond.py,sha256=w7l2U_eXEHI7XGSXW8f0NkyirOrqBpJjpb46PjtaeZU,3071
+ordr.py-0.0.2.dist-info/LICENSE,sha256=QL9JTkVAj4kp1taSeAxFCOGbHMQW74l9HNnHT3jDrfU,1052
+ordr.py-0.0.2.dist-info/METADATA,sha256=3KTn42Uds5SzS_nVfNoRyvgUdW0uySIGvDItnNXUV14,659
+ordr.py-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ordr.py-0.0.2.dist-info/top_level.txt,sha256=OVd0TEzR1eJJuN-3lnFV0mJpeXlVUR5qy8aFqYyhPJQ,5
+ordr.py-0.0.2.dist-info/RECORD,,

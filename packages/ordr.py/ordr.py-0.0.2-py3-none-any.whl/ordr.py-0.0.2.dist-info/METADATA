@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: ordr.py
+Version: 0.0.2
+Summary: A simple o!rdr API and Websocket wrapper.
+Home-page: https://github.com/ItsRqtl/ordr.py
+Author: Ryan
+Author-email: itsrql@gmail.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: python-socketio
+Requires-Dist: aiohttp
+
+# ordr.py
+
+ordr.py is a API and Websocket wrapper for o!rdr services.
+
+
+### Installation
+----------
+
+```pip install ordr.py```
