@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/aadinspector/__init__.py
+src/aadinspector/jwks_handler.py
+src/aadinspector/jwt_validator.py
+src/aadinspector/pub_key_handler.py
+src/aadinspector.egg-info/PKG-INFO
+src/aadinspector.egg-info/SOURCES.txt
+src/aadinspector.egg-info/dependency_links.txt
+src/aadinspector.egg-info/entry_points.txt
+src/aadinspector.egg-info/requires.txt
+src/aadinspector.egg-info/top_level.txt
