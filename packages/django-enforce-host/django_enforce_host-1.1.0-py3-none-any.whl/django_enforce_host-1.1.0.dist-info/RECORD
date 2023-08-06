@@ -1,0 +1,10 @@
+enforce_host/__init__.py,sha256=z397zii9l_8KVnIChamGnxyAjIRlCZwdZIkq3jSLkdE,925
+enforce_host/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+enforce_host/tests/settings.py,sha256=7ncWeij8QvM1NTOyWYeu6fsuvb_y9_IwpazZtuqxorg,525
+enforce_host/tests/tests.py,sha256=r6jH6kWCxm-UEz98ICscLyFL854J02-5KPt-oDSm2R0,1696
+enforce_host/tests/urls.py,sha256=4Z11MYiIcx1rleX8iI1SDGgB6yXZkgRR7fYEXg4KkXM,140
+django_enforce_host-1.1.0.dist-info/LICENSE,sha256=ano3V0exIIoeg-g4UUGu138CRmrjhxE54RxqmnYGaUE,1291
+django_enforce_host-1.1.0.dist-info/METADATA,sha256=3IhjDchcYSpJqHzmldURx0DzFebkMrMVk2YV6tkHLto,324
+django_enforce_host-1.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+django_enforce_host-1.1.0.dist-info/top_level.txt,sha256=zP9FhtIYtNi1SZZ81PIcLMPQhvwg3lvfeJcGYdIdWqA,32
+django_enforce_host-1.1.0.dist-info/RECORD,,
