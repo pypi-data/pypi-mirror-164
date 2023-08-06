@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+google_play_scrapper/__init__.py
+google_play_scrapper/exceptions.py
+google_play_scrapper.egg-info/PKG-INFO
+google_play_scrapper.egg-info/SOURCES.txt
+google_play_scrapper.egg-info/dependency_links.txt
+google_play_scrapper.egg-info/requires.txt
+google_play_scrapper.egg-info/top_level.txt
