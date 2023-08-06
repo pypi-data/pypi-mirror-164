@@ -1,0 +1,11 @@
+discord/ext/ipc/__init__.py,sha256=CDpSMYF62HHac-2C9RpFUcVmF4rcyuQL0WXbmq2hMn4,645
+discord/ext/ipc/client.py,sha256=mLoM7Oc6cGFS3x4FQ8Zzrlfo-US32kFfZtGoHf7bRzA,2679
+discord/ext/ipc/errors.py,sha256=ROQskFSApJdIR92Jck_C8xLkxKVxM7sZwZLz3iiGA9o,729
+discord/ext/ipc/objects.py,sha256=XEZZ7aFekCxqebTZW1Zt9P_ayUsK_Iow6ZDBIgcwlYM,1867
+discord/ext/ipc/pool.py,sha256=0xI0VQE4UT1MU9x4xh6gqMA8drWuf9kniBxGhsGMkHk,4541
+discord/ext/ipc/server.py,sha256=hBbqasUutzPVyR_6bNk7Gv7DCNuF4A_Sho6KyvC3LwY,9691
+better_ipc-1.1.4.dist-info/LICENSE,sha256=cN2rnw7K5sRvhjR_1am-44mMoEv0Toz72sYLl6lt6Pc,11350
+better_ipc-1.1.4.dist-info/METADATA,sha256=xnEEMJ8vxBAVWGpkcL8qQ9zuImjvVjb-2QvyJ71CRWg,4565
+better_ipc-1.1.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+better_ipc-1.1.4.dist-info/top_level.txt,sha256=fJkrNbR-_8ubMBUcDEJBcfkpECrvSEmMrNKgvLlQFoM,8
+better_ipc-1.1.4.dist-info/RECORD,,
