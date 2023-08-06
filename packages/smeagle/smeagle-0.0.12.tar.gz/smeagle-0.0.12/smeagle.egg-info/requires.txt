@@ -1,0 +1,7 @@
+cle
+pyelftools
+
+[all]
+cle
+pyelftools
+pytest>=4.6.2
