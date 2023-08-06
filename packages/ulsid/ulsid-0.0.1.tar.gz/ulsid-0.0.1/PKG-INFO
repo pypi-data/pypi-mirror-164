@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ulsid
+Version: 0.0.1
+Summary: Analyses, generates and extract student numbers of University of Limpopo(UL)
+Home-page: https://github.com/sekgobela-kevin/ulsid
+Author: Sekgobela Kevin
+Author-email: kevinnoko23@gmail.com
+Project-URL: Bug Tracker, https://github.com/sekgobela-kevin/ulsid/issues
+Keywords: extract,access,analyze,university-of-limpopo,student-number
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
