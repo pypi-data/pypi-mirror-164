@@ -1,0 +1,9 @@
+np3-0.2.dist-info/RECORD,,
+np3-0.2.dist-info/LICENSE,sha256=HyVuytGSiAUQ6ErWBHTqt1iSGHhLmlC8fO7jTCuR8dU,16725
+np3-0.2.dist-info/WHEEL,sha256=jayqYrAosS3odcjiKky54F_blKy4cFbbM5mkgy7OW3o,217
+np3-0.2.dist-info/top_level.txt,sha256=PKmSzI3hLKE3gX8DWSK-njK0iYcshDKWGbyQk43n6O4,4
+np3-0.2.dist-info/METADATA,sha256=-14kbhjJgpa7czpCWYxzf9c7xsWHgHe2CXT_ui9HWNU,1697
+np3/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+np3/_native.cpython-311-i386-linux-gnu.so,sha256=8BDTIcbDA1-ocoPG8LaS0kuaF7Rq0gO79fEDV8lus2U,325536
+np3/_native.pyi,sha256=-qpzY6ibwDnJfOXpUmj4_MjzyhzbyJZLxyMILh8R2XQ,405
+np3/__init__.py,sha256=t6WAUTMqtqhWl8GNoI3gZgwwXkc6JGLelXFMU8dlfn4,6707
