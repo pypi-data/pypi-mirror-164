@@ -1,0 +1,5 @@
+python_auditor-0.0.5.dist-info/METADATA,sha256=wulMBMod-JTLZUZJGekYZcOU6GPvdTDGu-oOmciQNY8,2899
+python_auditor-0.0.5.dist-info/WHEEL,sha256=GTpdl97873wbUewFJEHqcax8wjy0BRSKQYSiqwnF2v0,96
+pyauditor/__init__.py,sha256=5Kbd9Hzx9SsImf8mF5kZvg_z_9tQf0E3wr9V_3KVO5w,119
+pyauditor/pyauditor.cp310-win_amd64.pyd,sha256=GVx_sQMdus3Ad3OX9scqSt6Rd521Ob17kQB0MjS5cAA,7242240
+python_auditor-0.0.5.dist-info/RECORD,,
