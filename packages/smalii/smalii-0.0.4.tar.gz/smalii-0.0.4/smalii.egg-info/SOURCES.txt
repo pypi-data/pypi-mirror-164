@@ -1,0 +1,7 @@
+README.md
+setup.py
+smalii.egg-info/PKG-INFO
+smalii.egg-info/SOURCES.txt
+smalii.egg-info/dependency_links.txt
+smalii.egg-info/entry_points.txt
+smalii.egg-info/top_level.txt
