@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: lab3
+Version: 0.0.0
+Summary: Calcium Imaging and Behavior Analysis
+Author: Turi et al.
+Author-email: gt22553@cumc.columbia.edu
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: cython
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: h5py
+
+# LAB3
+
+lab3 is a redesign of the shared code repository. The core philosophy is to
+centralize much of the analysis code that formerly lived in hard-to-maintain
+scripts, and provide common frameworks to add new analysis methods. It's also
+all in Python3! 
+
+## Documentation
+
+Tutorials for getting started, including installation instructions and the API 
+reference, are available here:
+https://losonczylab.gitlab.io/lab3/
