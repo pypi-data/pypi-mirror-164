@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: stockaid
+Version: 0.1
+Summary: Fetching and ML pre-processing of (free) stock data.
+Author-email: Jesse Dutton <jessedutton@gmail.com>
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Project-URL: Home, https://github.com/eisbock/stockaid
