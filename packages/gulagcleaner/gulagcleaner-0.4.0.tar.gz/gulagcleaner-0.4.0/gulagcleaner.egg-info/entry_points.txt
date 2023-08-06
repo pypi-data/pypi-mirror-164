@@ -1,0 +1,2 @@
+[console_scripts]
+gulag-cleaner = gulagcleaner.command_line:main
