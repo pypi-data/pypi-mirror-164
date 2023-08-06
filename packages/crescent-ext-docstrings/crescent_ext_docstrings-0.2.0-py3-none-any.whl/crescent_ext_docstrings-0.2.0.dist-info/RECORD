@@ -1,0 +1,7 @@
+crescent/ext/docstrings/__init__.py,sha256=3wB5s5Ooxzl6jqOpUBXCxGae9Vr1oxoPOTJ1-zKN-lk,189
+crescent/ext/docstrings/decorator.py,sha256=Y8yNjJlwn-R89PcpWFDjFBRmb732QjUoMurjOnXxiek,1741
+crescent/ext/docstrings/exceptions.py,sha256=qNnK3_OOQFiwQ5x2ya-p2R4AR6AZ6ql0YI_fd40Qt4k,39
+crescent/ext/docstrings/style.py,sha256=pHcGARtA4LpJAwS9TjKsuSQyyIn3Z7wAOR3e5UCvIjY,295
+crescent_ext_docstrings-0.2.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+crescent_ext_docstrings-0.2.0.dist-info/METADATA,sha256=DLCVNxOwiGPxyjHGsXlETifZOGfWO4aNwzIVY1n1rho,2237
+crescent_ext_docstrings-0.2.0.dist-info/RECORD,,
