@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: tfparse
+Version: 0.1.0
+Summary: Terraform HCL Parser
+License: Apache-2
+Author: Stacklet
+Author-email: info@stacklet.io
+Requires-Python: >=3.8,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
