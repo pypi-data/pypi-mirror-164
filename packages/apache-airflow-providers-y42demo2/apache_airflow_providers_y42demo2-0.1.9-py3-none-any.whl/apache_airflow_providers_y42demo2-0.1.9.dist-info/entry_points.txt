@@ -1,0 +1,3 @@
+[console_scripts]
+apache_airflow_provider_info=airflow.providers.y42demo.get_provider_info:get_provider_info
+
