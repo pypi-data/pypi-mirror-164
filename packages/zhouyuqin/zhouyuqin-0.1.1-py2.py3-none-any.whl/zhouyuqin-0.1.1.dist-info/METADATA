@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: zhouyuqin
+Version: 0.1.1
+Summary: The us trade module of zhouyuqin Python SDK.
+Home-page: UNKNOWN
+Author: zhouyuqin
+Author-email: 
+License: Apache License 2.0
+Platform: any
+Description-Content-Type: text/markdown
+Requires-Dist: zhouyuqin (==0.1.1)
+
+UNKNOWN
+
