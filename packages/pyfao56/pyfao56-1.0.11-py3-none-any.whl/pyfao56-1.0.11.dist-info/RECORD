@@ -1,0 +1,15 @@
+pyfao56/__init__.py,sha256=D7XW73oVkU7P--Vd9ghpU5MyklHLC7sbNq6shwqpnE8,2024
+pyfao56/irrigation.py,sha256=qCziI_Pm6uIuQhRz7pSfWTKaKaSMd5w1z25pyR_ovqI,4110
+pyfao56/model.py,sha256=lBnqkMj6bC_y64Sxotlf_4hn-T8MCIBTGqnPCF0h4J8,15877
+pyfao56/parameters.py,sha256=yyqQrZvHZyxQRD2zqTtp_rRvAbKn_hTLtoxLbzHuvkc,7589
+pyfao56/refet.py,sha256=X5G269VAE1yWwjHn_cIowCqbUCWXFmI9IIFJ4vc27Gs,13099
+pyfao56/update.py,sha256=JnuLKaYkxSDx1R6iDrnd7KoC5hKDTy0n6UVY18PF7hE,4288
+pyfao56/weather.py,sha256=futxrr_r5lJRgJdJDdEMVC_-yCBVBu5oD3aEtPreqcs,7316
+pyfao56/custom/__init__.py,sha256=47QBwuYQYgbZLEYKV6P5QWDYhN9-lF1XW8GdtOxcbk8,666
+pyfao56/custom/azmet_maricopa.py,sha256=rJzvuM8R7jikWhddrfApB9vVV0m5Q1HyC9TIiDsqPwQ,9868
+pyfao56/custom/forecast.py,sha256=VtbtFvVFHxJIwWob5TInGKp4q8A4K6Dpg0FwT2Tyxlc,5860
+pyfao56-1.0.11.dist-info/LICENSE.md,sha256=DzvQQxGBJa8JlugN3EKbBDCU1Yw8JdX3uYq6u1sKfmM,1378
+pyfao56-1.0.11.dist-info/METADATA,sha256=_IxB1PFBJO5lx6We3BxoPPZ5MHSz0AjtCSjkY6i7nf8,8535
+pyfao56-1.0.11.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyfao56-1.0.11.dist-info/top_level.txt,sha256=FVMFuelS-F8hftKYVgg5gVVE392069lE_wc5kn4ea0c,8
+pyfao56-1.0.11.dist-info/RECORD,,
