@@ -1,0 +1,3 @@
+
+        [console_scripts]
+        galaxy-config=galaxy.config.script:main
