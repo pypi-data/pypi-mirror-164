@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+photopea/__init__.py
+photopea/age_net.caffemodel
+photopea/deploy.prototxt.txt
+photopea/deploy_age.prototxt
+photopea/deploy_gender.prototxt
+photopea/gender_net.caffemodel
+photopea/getface.py
+photopea/res10_300x300_ssd_iter_140000_fp16.caffemodel
+photopea.egg-info/PKG-INFO
+photopea.egg-info/SOURCES.txt
+photopea.egg-info/dependency_links.txt
+photopea.egg-info/top_level.txt

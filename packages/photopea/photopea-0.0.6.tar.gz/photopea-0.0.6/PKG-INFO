@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: photopea
+Version: 0.0.6
+Summary: Photo and Video convertor
+Home-page: https://github.com/icodernet/
+Author: iCoderNet
+Author-email: iCoderNet@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Photopea
+
+**Photo** and **Video** Convertor.
+
+## Instructions
+
+1. Install:
+
+```
+pip install photopea
+```
+
+2. Age and Gender determination:
+
+```python
+from photopea import getface
+from getface import predict_age_and_gender
+
+# Input photo file
+photo = "/home/uzbpromax/Pictures/photo.png"
+# Output photo file
+output = "/home/uzbpromax/Pictures/output.png"
+# Check Age and Gender
+r = predict_age_and_gender(photo, output)
+```
+
