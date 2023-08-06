@@ -1,0 +1,2 @@
+[console_scripts]
+asediag = asediag.aer_diag_cli:main
