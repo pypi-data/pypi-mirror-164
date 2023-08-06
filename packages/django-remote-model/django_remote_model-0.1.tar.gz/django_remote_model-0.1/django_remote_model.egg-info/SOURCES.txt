@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+django_remote_model.egg-info/PKG-INFO
+django_remote_model.egg-info/SOURCES.txt
+django_remote_model.egg-info/dependency_links.txt
+django_remote_model.egg-info/requires.txt
+django_remote_model.egg-info/top_level.txt
+dynamic_remote_model/get_model.py
+dynamic_remote_model/provider/provider_fields_generator.py
+dynamic_remote_model/provider/provider_serializer.py
+dynamic_remote_model/provider/provider_view_set.py
