@@ -1,0 +1,50 @@
+from . import default
+from ._histogram import hist
+from ._bar import bar
+from ._scatter import scatter
+from ._box import box, violin
+from ._line import lines
+from ._rectangle import rect
+from ._venn import venn
+from ._layout import layout, merge_layout
+from ._show import figure, show, show_mult, show_image
+from ._type import Traces, BaseTraceType
+from ._config import (set_default_theme,
+                      set_default_layout,
+                      update_default_layout,
+                      set_default_renderer,
+                      set_default_config,
+                      update_default_config,
+                      set_default_colors)
+from ._renderer import _set_custom_iframe_renderers
+from ._crawl import _remove_unused_htmls
+
+
+# Set default theme/layout/config of Plotly Light
+set_default_theme(default.theme)
+set_default_layout(default.layout)
+set_default_config(default.config)
+
+
+# If imported from an IPython environment, turn on the connected notebook mode.
+# Moreover, if it is a Jupyter notebook, define and set a customized iframe renderer.
+try:
+    get_ipython()
+except NameError:
+    pass
+except Exception as e:
+    print(e)
+else:
+    import plotly.offline as _py
+    _py.init_notebook_mode(connected=True)
+
+    try:
+        _set_custom_iframe_renderers()
+    except Exception as e:
+        pass
+    else:
+        set_default_renderer("iframe_connected")
+        _remove_unused_htmls()
+
+from logzero import logger as _logger
+_logger.info(f"pl.default.renderer = {default.renderer}")
