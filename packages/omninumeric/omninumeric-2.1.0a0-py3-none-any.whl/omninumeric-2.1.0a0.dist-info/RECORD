@@ -1,0 +1,16 @@
+omninumeric/__init__.py,sha256=v6oMZ_XiXZem_Vt-VRgh_3I4KJy-yCkTG4nCdNvNx9o,88
+omninumeric/omninumeric.py,sha256=jHfRyodImEUmjl0rXPPOzW9OSQOs08CBiDSD5QbhjFY,4173
+omninumeric/cyrillic/__init__.py,sha256=p0nnMP-tGnAEga3CHWPEAcjZsl7dRXjSSbkK_F26_ew,204
+omninumeric/cyrillic/cyrillic.py,sha256=SrMq566rJXNrB51bJRFpFdgd9cfKoHnpxlb3JIO1iV8,6332
+omninumeric/greek/__init__.py,sha256=p_AjAt52GgXD2LkICRKZje93zBnB76BfjixVy1G_z0w,100
+omninumeric/greek/greek.py,sha256=sIvjnkD9fVvDCUNrvmeKQuRVZFS_L1f67ctXK2pTcl4,5207
+omninumeric/greek/old.py,sha256=3s0OKPAxBGlKcnIMBK4LziOXgkLfyKUnOGGyAIZxlOg,1993
+omninumeric/roman/__init__.py,sha256=V8hceeluNOzYODF8bXhwAuLo50YaNsnFeIQf0znT1NQ,53
+omninumeric/roman/roman.py,sha256=mWc4dKCxDFBShLM0BGtmbb9Nf0epUFGGvTDjin06P7g,3382
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_cyrillic.py,sha256=Yq-uiiigaJ-BFHBGC8orM-3VtkXCEoNldF-0GCPILb4,5168
+tests/test_roman.py,sha256=urjEv-RK-Tbh0CkBTXGp1FdCqKRfcMd4hWpS6Y5BsEA,4851
+omninumeric-2.1.0a0.dist-info/METADATA,sha256=SnlPF3BmITUbx61QHyElpKvWbIUH0kQ2OZuDp1BJtVg,3315
+omninumeric-2.1.0a0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+omninumeric-2.1.0a0.dist-info/top_level.txt,sha256=F4k_KLoRl2OSXYCPYzeoeUcNxEYfNm2WKWUbkXw5AMw,18
+omninumeric-2.1.0a0.dist-info/RECORD,,
