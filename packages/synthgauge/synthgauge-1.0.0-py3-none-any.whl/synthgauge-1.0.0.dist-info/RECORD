@@ -1,0 +1,17 @@
+synthgauge/__init__.py,sha256=IHXGIhB3Cyd57da5y-3NWNnbLK5Rq0S_xKKuF9bIFes,403
+synthgauge/datasets.py,sha256=9-ptlp71AHogSmxMCIOW8d7x9p7RESnGZJUOS19pt_o,2139
+synthgauge/evaluate.py,sha256=obM1Rl8DPqCum3PEd2cKavOSxPwVGdsom0nXmLiw8cU,12852
+synthgauge/plot.py,sha256=Au_lE3Ptaau0zbkS-s6oqGtO_sfhTPImy5oOGi4gijw,21646
+synthgauge/utils.py,sha256=W332HUuYs1P9MNoPdSQaaEXOxVTL7xY1aiG4hgzwyXU,9610
+synthgauge/metrics/__init__.py,sha256=PQZSuPX0g7lIn-WFW44hnHrjlj8NZ2pKCkJpSbCzwjc,945
+synthgauge/metrics/classification.py,sha256=dVvGJjYrhglTpt-VqsrQ11aVXxq_w4AHdEIxUehLph8,5288
+synthgauge/metrics/cluster.py,sha256=BbGk_6DGpvLHVxfgxjy9AI78J9Wdom5pyfzuZA2_1RM,5591
+synthgauge/metrics/correlation.py,sha256=verrwXr4otr7KokodteIspbZxkfBXVr9thbcJtnR6_Y,8642
+synthgauge/metrics/privacy.py,sha256=StDXmr7R1RQcgPfsYYMn1GZK76LCXZx_0HJSU4QnQlo,9033
+synthgauge/metrics/propensity.py,sha256=Rp7u72apbwhH1zp4g-P80rgNYykJtvLqHzuN0tvzDNA,16696
+synthgauge/metrics/univariate_distance.py,sha256=eJEVw71qFyqmw84GavoLXLmS_r_Dr6-SOvTQaXrABUE,23075
+synthgauge-1.0.0.dist-info/LICENSE,sha256=RbXncm21FQlsrJv1zNlyFqJTjWmWVdb_Y_RTAsP6CvU,354
+synthgauge-1.0.0.dist-info/METADATA,sha256=Ml6LQBiNJbBeyCYSW4CX5P_B50t3UOcIqAflJ-BtI3k,4243
+synthgauge-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+synthgauge-1.0.0.dist-info/top_level.txt,sha256=EF2_loEYWYDCTT_E-ou80fKHz07k_UJt6O84dULogs0,11
+synthgauge-1.0.0.dist-info/RECORD,,
