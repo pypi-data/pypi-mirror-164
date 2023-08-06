@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: aiomeasures
+Version: 0.6
+Summary: Squatted pypi package
+Home-page: http://lab.errorist.xyz/abc/
+Author: Xavier Barbosa
+Author-email: clint.northwood@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 7 - Inactive
+Description-Content-Type: text/markdown
+
+# aiomeasures squatted
+
+This is an empty package that raises an exception when imported. This exists
+to prevent malicious use of this Pypi package. To install aiomeasures, do so
+from the source repo : https://github.com/cookkkie/aiomeasures
+

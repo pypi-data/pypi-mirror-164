@@ -1,0 +1,7 @@
+README.md
+setup.py
+aiomeasures/__init__.py
+aiomeasures.egg-info/PKG-INFO
+aiomeasures.egg-info/SOURCES.txt
+aiomeasures.egg-info/dependency_links.txt
+aiomeasures.egg-info/top_level.txt
