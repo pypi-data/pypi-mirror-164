@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/bin/maddog
+src/maddog/__init__.py
+src/maddog/build.py
+src/maddog.egg-info/PKG-INFO
+src/maddog.egg-info/SOURCES.txt
+src/maddog.egg-info/dependency_links.txt
+src/maddog.egg-info/requires.txt
+src/maddog.egg-info/top_level.txt
