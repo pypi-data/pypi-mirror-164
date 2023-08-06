@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+pyflaskcreator/__init__.py
+pyflaskcreator/flaskbuilder.py
+pyflaskcreator.egg-info/PKG-INFO
+pyflaskcreator.egg-info/SOURCES.txt
+pyflaskcreator.egg-info/dependency_links.txt
+pyflaskcreator.egg-info/entry_points.txt
+pyflaskcreator.egg-info/requires.txt
+pyflaskcreator.egg-info/top_level.txt
+pyflaskcreator/assets/__init__.py
+pyflaskcreator/assets/app.py
+pyflaskcreator/assets/flask_icon.png
+pyflaskcreator/assets/welcome.css
+pyflaskcreator/assets/welcome.html

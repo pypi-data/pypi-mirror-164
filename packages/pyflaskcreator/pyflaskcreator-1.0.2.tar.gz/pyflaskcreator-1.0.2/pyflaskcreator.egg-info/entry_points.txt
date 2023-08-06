@@ -1,0 +1,3 @@
+[console_scripts]
+pyflaskcreator = pyflaskcreator.flaskbuilder:create
+

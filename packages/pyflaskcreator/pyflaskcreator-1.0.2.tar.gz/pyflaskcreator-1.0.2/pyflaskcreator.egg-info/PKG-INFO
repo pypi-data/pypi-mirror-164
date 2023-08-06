@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pyflaskcreator
+Version: 1.0.2
+Summary: Create simple Flask skeletons
+Home-page: UNKNOWN
+Author: Jael Gonzalez
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+Simple python creator
+
