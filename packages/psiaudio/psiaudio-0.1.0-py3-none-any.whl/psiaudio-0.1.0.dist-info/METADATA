@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: psiaudio
+Version: 0.1.0
+Summary: Audio tools supporting psiexperiment
+Author: psiaudio development team
+License: LICENSE.txt
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme ; extra == 'docs'
+Requires-Dist: pygments-enaml ; extra == 'docs'
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pytest-benchmark ; extra == 'test'
+
