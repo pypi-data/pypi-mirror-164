@@ -1,0 +1,10 @@
+genet/__init__.py,sha256=SGNZtD9l62MUFr6XcjykL2o93oCXe9bGDHzU9DPWaf4,64
+genet/genet_print.py,sha256=SuhQw-OEa6qocsEYXAHRrymrUdu_C2Cpw7o8pGvxWIE,74
+genet/main.py,sha256=2lV5r-JueQs4sTqj0ZhLah1lrKuRGfR6k7yty3ivPMY,35
+genet/analysis/__init__.py,sha256=KLhDhpJ12nV4R7mnUsZ-nznJ2o_w3SgA_EvWR_yTm8E,74
+genet/analysis/functions.py,sha256=NCDdZwQRyzHQt7YwFoHDKWUzIjWn_8gw1tQoLPSh7aY,420
+genet/utils/__init__.py,sha256=whlljAMlHiVCEFHVtlthmFpau2CY_OTGzCoxZxMmXVQ,44
+genet-0.0.1.dist-info/METADATA,sha256=VXadZr8EWQcHnJRPCfIViMgvaPPERW02rRJ1zN-BCww,2156
+genet-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+genet-0.0.1.dist-info/top_level.txt,sha256=m2K71dLyY5_Q5jMT_tx9RqaQ0uFJpx02K563NXWGomI,6
+genet-0.0.1.dist-info/RECORD,,
