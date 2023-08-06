@@ -1,0 +1,7 @@
+ispyb
+procrunner
+zocalo
+
+[Jupyter]
+nbformat
+papermill
