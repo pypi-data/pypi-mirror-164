@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: xlcsv
+Version: 0.3.0
+Summary: A Python micropackage for consuming Excel as CSV.
+Home-page: https://github.com/cnpryer/xlcsv.git
+License: MIT
+Author: Chris Pryer
+Author-email: cnpryer@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: openpyxl (>=3.0.10,<4.0.0)
+Project-URL: Repository, https://github.com/cnpryer/xlcsv.git
+Description-Content-Type: text/markdown
+
+[![ci](https://github.com/cnpryer/xlcsv/workflows/ci/badge.svg)](https://github.com/cnpryer/xlcsv/actions)
+[![PyPI Latest Release](https://img.shields.io/pypi/v/xlcsv.svg)](https://pypi.org/project/xlcsv/)
+
+# xlcsv
+
+A Python micropackage for consuming Excel as CSV.
+
+Build CSV `StringIO` from Excel files.
+
+```py
+import xlcsv
+
+buffer = xlcsv.to_csv_buffer("my-file.xlsx")
+```
+
+Read Excel files without Excel using a `DataFrame` library.
+
+```py
+# ...
+
+import pandas as pd
+
+df = pd.read_csv(buffer)
+
+import polars as pl
+
+df = pl.read_csv(buffer)
+```
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
