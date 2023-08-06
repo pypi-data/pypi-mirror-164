@@ -1,0 +1,17 @@
+.gitignore.txt
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+nonstandardcode.py
+requirements.txt
+setup.py
+HousePredicition.egg-info/PKG-INFO
+HousePredicition.egg-info/SOURCES.txt
+HousePredicition.egg-info/dependency_links.txt
+HousePredicition.egg-info/requires.txt
+HousePredicition.egg-info/top_level.txt
+src/house_prediction/__init__.py
+src/house_prediction/ingest_data.py
+src/house_prediction/score.py
+src/house_prediction/train.py
