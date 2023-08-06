@@ -1,0 +1,6 @@
+LiH.py
+setup.py
+LiH.egg-info/PKG-INFO
+LiH.egg-info/SOURCES.txt
+LiH.egg-info/dependency_links.txt
+LiH.egg-info/top_level.txt
