@@ -1,0 +1,50 @@
+---
+title: Proto Board Data
+boards:
+  DM320118:
+    description: CryptoAuth Trust Platform
+    partNumber: DM320118
+    web_link: https://www.microchip.com/en-us/development-tool/DM320118
+    img: https://www.microchip.com/content/dam/mchp/mrt-dam/devtools/3609-rev6.jpg
+    serial_series: MCHP3311
+    mcu_part_number: ATSAMD21E18A
+    program_tool: nEDBG
+    connection:
+      interfaceType: hid
+      vid: 1003
+      pid: 8565
+    devices:
+      - deviceName: ATECC608B-TCSM
+        partInterface:
+          interfaceType: i2c
+          address: 0xC0
+      - deviceName: ATECC608B-TNGTLS
+        partInterface:
+          interfaceType: i2c
+          address: 0x6A
+      - deviceName: ATECC608B-TFLXTLS
+        partInterface:
+          interfaceType: i2c
+          address: 0x6C
+  DM320109:
+    description: CryptoAuth XSTK
+    partNumber: DM320109
+    web_link: https://www.microchip.com/en-us/development-tool/DM320109
+    img: https://www.microchip.com/content/dam/mchp/mrt-dam/devtools/2674-180601-spg-cryptoauthssh-xstk-kit.jpg
+    serial_series: ATML2130
+    mcu_part_number: ATSAMD21J18A
+    program_tool: EDBG
+    connection:
+      interfaceType: hid
+      vid: 1003
+      pid: 8465
+  AC164166:
+    description: TA100 SOIC-14 Socket
+    partNumber: AC164166
+    web_link: https://www.microchip.com/en-us/development-tool/AC164166
+    img: https://www.microchip.com/content/dam/mchp/mrt-dam/devtools/3287-191115-spg-ac164166.jpg
+  AC164167:
+    description: TA100 SOIC-8 Socket
+    partNumber: AC164167
+    web_link: https://www.microchip.com/en-us/development-tool/AC164167
+    img: https://www.microchip.com/content/dam/mchp/mrt-dam/devtools/3273-191115-spg-ac164167.jpg
