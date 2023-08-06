@@ -1,0 +1,8 @@
+tads/__init__.py,sha256=ryAfvAaW7VM8g1gnCrFCPrXmcbbm99Xw44aLkwGZzaI,23
+tads/payroll/__init__.py,sha256=-HG9EBYj-QHWIIdLIJMZZZAXpPf_DqubroWmquoWT3A,96
+tads/payroll/payroll.py,sha256=JrCBCrqjf1g9KeO75Wa8ABsumOkDqoJuFVi_E-hGMqM,2882
+tads/payroll/timesheet.py,sha256=8EFH3mdr9VexOGvwoFovPTQKs2iARheSvbUduhwo4BM,3080
+tads/payroll/tipsheet.py,sha256=stY_TNAB02I0R8bMAYAPwik6De-Tf6EYvf5l49oN6-g,2573
+tads-0.1.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+tads-0.1.1.dist-info/METADATA,sha256=XjPghEJR0KHt57Jx2pwo-bbKHthGm9qSZ9GZCDMFBm0,427
+tads-0.1.1.dist-info/RECORD,,
