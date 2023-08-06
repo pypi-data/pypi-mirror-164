@@ -1,0 +1,1 @@
+A collection of Gaussian and Binomial distribution functions. These are here purely so that I can try uploading to PyPI, but you are welcome to muck around with them in accordance with the MIT license.

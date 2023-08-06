@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+ah-distributions-gauss-binom/Binomialdistribution.py
+ah-distributions-gauss-binom/Gaussiandistribution.py
+ah-distributions-gauss-binom/Generaldistribution.py
+ah-distributions-gauss-binom/__init__.py
+ah_distributions_gauss_binom.egg-info/PKG-INFO
+ah_distributions_gauss_binom.egg-info/SOURCES.txt
+ah_distributions_gauss_binom.egg-info/dependency_links.txt
+ah_distributions_gauss_binom.egg-info/not-zip-safe
+ah_distributions_gauss_binom.egg-info/top_level.txt
