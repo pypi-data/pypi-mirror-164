@@ -1,0 +1,11 @@
+slipcover/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+slipcover/__main__.py,sha256=YzqDVly-Tb_RBBB8WPB9HWDX81X6OKRaXKtJtadkjLg,8071
+slipcover/branch.py,sha256=_zntvULH1gYECjQKaRPylAuRdpYhK5jTxU7X8gB11TY,4866
+slipcover/bytecode.py,sha256=gptXqWCUJkQwuxjspGgZdoAkpSXDlopXBdSOU2h1x18,25061
+slipcover/slipcover.py,sha256=UiWHe3_41iICcN3BeopB4R8n7zb_GnnQ9R9DBOzDmoU,21233
+slipcover/tracker.cpython-39-darwin.so,sha256=1ABse_h6dHwPmLhoM1H2rc3pJGLqZ0FnJxHtIOVtWBM,201439
+slipcover-0.2.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+slipcover-0.2.0.dist-info/METADATA,sha256=zIo_ft1U64-wHATPRIV91NnuB-hR4GhxWhZgSWxIrgY,8402
+slipcover-0.2.0.dist-info/WHEEL,sha256=Iuh0bPwfIJ3F9Bsr_Hd-395x8HJPnFDUJ4yj45l4BIY,114
+slipcover-0.2.0.dist-info/top_level.txt,sha256=5VXLPH9Pwp6leK8l70xKGMYUOtHuCaL-XVui6MGDwlY,10
+slipcover-0.2.0.dist-info/RECORD,,
