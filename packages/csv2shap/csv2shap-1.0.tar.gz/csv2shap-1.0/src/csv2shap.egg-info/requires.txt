@@ -1,0 +1,9 @@
+pandas
+numpy
+catboost
+sklearn
+Ipython
+plotly
+shap
+matplotlib
+seaborn

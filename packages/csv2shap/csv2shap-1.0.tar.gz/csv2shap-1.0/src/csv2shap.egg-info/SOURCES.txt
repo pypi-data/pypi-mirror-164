@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/csv2shap/__init__.py
+src/csv2shap/csv2shap.py
+src/csv2shap.egg-info/PKG-INFO
+src/csv2shap.egg-info/SOURCES.txt
+src/csv2shap.egg-info/dependency_links.txt
+src/csv2shap.egg-info/requires.txt
+src/csv2shap.egg-info/top_level.txt
