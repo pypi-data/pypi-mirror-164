@@ -1,0 +1,6 @@
+# Emacs
+*.~undo-tree~
+
+# Build
+dist
+*.egg-info
