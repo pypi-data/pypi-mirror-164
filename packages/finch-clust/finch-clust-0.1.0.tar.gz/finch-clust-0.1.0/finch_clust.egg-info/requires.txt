@@ -1,0 +1,7 @@
+scipy
+numpy
+sklearn
+
+[ann]
+numpy<=1.20
+pynndescent
