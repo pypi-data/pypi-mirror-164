@@ -1,0 +1,2 @@
+[ibis.backends]
+datasette = ibis_datasette

@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+versioneer.py
+ibis_datasette/__init__.py
+ibis_datasette/_version.py
+ibis_datasette/core.py
+ibis_datasette.egg-info/PKG-INFO
+ibis_datasette.egg-info/SOURCES.txt
+ibis_datasette.egg-info/dependency_links.txt
+ibis_datasette.egg-info/entry_points.txt
+ibis_datasette.egg-info/not-zip-safe
+ibis_datasette.egg-info/requires.txt
+ibis_datasette.egg-info/top_level.txt
