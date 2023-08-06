@@ -1,0 +1,2 @@
+[console_scripts]
+kolang = kolang.main:main
