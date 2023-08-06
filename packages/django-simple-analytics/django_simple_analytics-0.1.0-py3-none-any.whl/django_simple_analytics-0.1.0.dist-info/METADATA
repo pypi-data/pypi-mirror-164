@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: django-simple-analytics
+Version: 0.1.0
+Summary: A simple django packages to track requests on the site
+Home-page: https://github.com/mrswats/django-simple-analytics
+License: MIT
+Keywords: django,analytics
+Author: Ferran Jovell
+Author-email: ferran.jovell+gh@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Requires-Dist: Django (==3.2.14)
+Description-Content-Type: text/markdown
+
+# Django Simple Analytics
+
+⚠️ This package is still in beta. Do not use for production ⚠️
+
+## Usage
+
+```
+todo!()
+```
+
+## Installation
+
+```
+todo!()
+```
+
+## Licence
+
+This package is distributed under [MIT Licence](./LICENCE).
+

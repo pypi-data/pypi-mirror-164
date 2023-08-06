@@ -1,0 +1,8 @@
+simple_analytics/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+simple_analytics/admin.py,sha256=c2kEUu22wV_RNxvS2APsd-0y3Lx81FrkV4I_XXF0xZc,405
+simple_analytics/apps.py,sha256=VY47GVLka7kgmYcXOh6uq2IMHakt3puYOTGgXPN4Qhw,150
+simple_analytics/middleware.py,sha256=OE7Nz4-k8DXC0A3OxzH7UVQErBhkqNWXtuzwG3pREXQ,1532
+simple_analytics/models.py,sha256=3UZmJXYH0Nc56dPNe-umlrPsOhR8q019mzVa0kE1x4E,525
+django_simple_analytics-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+django_simple_analytics-0.1.0.dist-info/METADATA,sha256=-vNQgHErVVFaedP7E6yb_MvNS7i_Ukmv9RazZXV1BqI,1183
+django_simple_analytics-0.1.0.dist-info/RECORD,,
