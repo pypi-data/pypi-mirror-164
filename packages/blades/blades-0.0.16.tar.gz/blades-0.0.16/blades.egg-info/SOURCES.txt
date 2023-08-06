@@ -1,0 +1,8 @@
+LICENSE.md
+setup.py
+blades.egg-info/PKG-INFO
+blades.egg-info/SOURCES.txt
+blades.egg-info/dependency_links.txt
+blades.egg-info/not-zip-safe
+blades.egg-info/requires.txt
+blades.egg-info/top_level.txt
