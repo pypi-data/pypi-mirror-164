@@ -1,0 +1,12 @@
+name: "txp-training-service"
+project_id: "prj_3YRUcZkufRu429SjvigKhLrP"
+compute_config: txp-model-serving-compute-0-workers
+cluster_env: txp-model-serving-env:1
+runtime_env:
+  working_dir: "gs://txp-model-training/anyscale_runtime/txp-model-training-workdir.zip"
+  py_modules:
+    - gs://txp-model-training/anyscale_runtime/txp.zip
+    - gs://txp-model-training/anyscale_runtime/txp_cloud.zip
+    - gs://txp-model-training/anyscale_runtime/txp_ml.zip
+entrypoint: "python -u training_service.py"
+healthcheck_url: "/healthcheck"
