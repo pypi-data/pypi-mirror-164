@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pkgs-bob8gook
+Version: 1.0.0.6
+Summary: bob8gook packages
+Home-page: https://github.com/woounnan
+Author: bob8gook
+Author-email: hyeok.jang@lotte.net
+License: MIT
+Requires-Python: >=3
+
