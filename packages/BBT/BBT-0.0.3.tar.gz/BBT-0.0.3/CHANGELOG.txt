@@ -1,0 +1,9 @@
+Change Log
+
+==============
+
+0.0.1 (24/08/2022)
+
+0.0.2 Game invented
+
+0.0.3 Game Working
