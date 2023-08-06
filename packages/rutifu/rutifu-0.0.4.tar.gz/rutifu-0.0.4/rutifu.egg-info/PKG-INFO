@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: rutifu
+Version: 0.0.4
+Summary: RUTIFU - Random Utilities That I Find Useful
+Author-email: Joe Buehl <jbuehl@buehltech.com>
+Project-URL: Homepage, https://github.com/jbuehl/rutifu
+Project-URL: Bug Tracker, https://github.com/jbuehl/rutifu/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# RUTIFU - Random Utilities That I Find Useful
+
+This is a set of Python routines that perform various functions that I found myself copying and pasting into multiple projects.
