@@ -1,0 +1,3 @@
+[console_scripts]
+html2flask = html2flask.__main__:main
+

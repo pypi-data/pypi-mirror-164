@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.cfg
+setup.py
+html2flask/__init__.py
+html2flask/__main__.py
+html2flask/config.py
+html2flask/exceptions.py
+html2flask.egg-info/PKG-INFO
+html2flask.egg-info/SOURCES.txt
+html2flask.egg-info/dependency_links.txt
+html2flask.egg-info/entry_points.txt
+html2flask.egg-info/top_level.txt
+html2flask.egg-info/zip-safe
