@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_xm = {'_': ['xm1203_non-line-of-sight_cannon',
+       'xm1111_mid-range_munition',
+       'xm736_8-inch_projectile',
+       'xm174_grenade_launcher',
+       'xm148_grenade_launcher',
+       'xm_gravity_indonesia',
+       'xm_satellite_radio',
+       'xm913_chain_gun',
+       'xm_radio_canada',
+       'xm_hd_surround',
+       'xm_music_lab'],
+ 'a': ['xmas_party_album', 'xmas_ear_bender'],
+ 'l': ['xml-binary_optimized_packaging',
+       'xml_denial-of-service_attack',
+       'xml_transformation_language',
+       'xml_professional_publisher',
+       'xml_certification_program',
+       'xml_metadata_interchange',
+       'xml_enabled_directory',
+       'xml_information_set',
+       'xml_schema_editors',
+       'xml_data_package',
+       'xml_data_binding',
+       'xml_for_analysis',
+       'xml_object_model',
+       'xml_and_mime'],
+ 'm': ['xmm_cluster_survey'],
+ 'p': ['xmpp_standards_foundation'],
+ 's': ['xms_capital_partners'],
+ 'u': ['xmucane_and_xpiacoc']}

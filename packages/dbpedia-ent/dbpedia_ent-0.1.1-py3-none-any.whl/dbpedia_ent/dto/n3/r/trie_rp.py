@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_rp = {'_': ['rp_photonics_encyclopedia',
+       'rp_101-class_tugboat',
+       'rp_118-class_tugboat',
+       'rp_125-class_tugboat',
+       'rp-selecta_ice_cream',
+       'rp_113-class_tugboat',
+       'rp_funding_center',
+       'rp_mall,_kollam'],
+ 'd': ['rpd_machine_gun'],
+ 'f': ['rpfg_rna_motif'],
+ 'g': ['rpg_life_sciences',
+       'rpg_real_estate',
+       'rpg_jinsei_game',
+       'rpg_maker_2000',
+       'rpg_maker_2003',
+       'rpg_maker_vx',
+       'rpg_maker_95',
+       'rpg_maker_2',
+       'rpg_maker_3'],
+ 'i': ['rpi-wpi_football_rivalry'],
+ 'k': ['rpk-6_vodopad/rpk-7_veter'],
+ 'l': ['rpl_character_set'],
+ 'm': ['rpm_nautical_foundation', 'rpm_package_manager', 'rpm_college,_patna'],
+ 'n': ['rpn_arangkada_balita', 'rpn_kampong_mentiri', 'rpn_kampong_rimba'],
+ 'o': ["rpos_mrna_5'utr"],
+ 'p': ['rpp_film_factory'],
+ 'r': ['rpr_problem_diagnosis'],
+ 's': ['rpsf_leader_rna'],
+ 'w': ['rpw_heavyweight_championship',
+       "rpw_women's_championship",
+       'rpw/njpw_uprising_2015']}

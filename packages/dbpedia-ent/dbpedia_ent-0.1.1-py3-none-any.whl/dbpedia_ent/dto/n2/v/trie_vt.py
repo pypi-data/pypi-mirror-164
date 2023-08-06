@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_vt = {'_': ['vt_communications',
+       'vt100_encoding',
+       'vt-1_reactor',
+       'vt_group',
+       'vt_tank',
+       'vt_100'],
+ 'a': ['vtacnik_mountains', 'vtar_institute'],
+ 'b': ['vtb_capital', 'vtb_arena', 'vtb_bank'],
+ 'c': ['vtc_delfin'],
+ 'd': ['vtdigger', 'vtd-xml', 'vtdk'],
+ 'e': ['vtech_creativision', 'vtech_socrates'],
+ 'g': ['vtg'],
+ 'i': ['vti_transmission', 'vti_instruments', 'vti_engine', 'vtime_xr'],
+ 'k': ['vtk'],
+ 'l': ['vtls', 'vtl'],
+ 'm': ['vtm_nieuws', 'vtm_kids', 'vtm_2', 'vtm_3'],
+ 'n': ['vtnz'],
+ 'o': ['vtoraya_pyatiletka',
+       'vtorye_korosteli',
+       'vtoraya_kamenka',
+       'vtoraya_rechka',
+       'vtol_x-plane'],
+ 'p': ['vtpr'],
+ 's': ['vts1', 'vts'],
+ 't': ['vttest'],
+ 'u': ['vtuber', 'vtune', 'vtun'],
+ 'v': ['vtv-t&t_cup', 'vtv_awards', 'vtv_ganesh'],
+ 'w': ['vtwm'],
+ 'x': ['vtx'],
+ 'y': ['vty'],
+ 'z': ['vtz']}

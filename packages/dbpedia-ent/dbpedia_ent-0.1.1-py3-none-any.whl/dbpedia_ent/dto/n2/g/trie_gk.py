@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_gk = {'_': ['gk_wien-southeast',
+       'gk_investment',
+       'gk_durnrohr',
+       'gk_partners',
+       'gk_software',
+       'gk_convoys',
+       'gk_persei',
+       'gk_films',
+       'gk_tauri',
+       'gk_reid'],
+ 'a': ['gkart', 'gka'],
+ 'b': ['gkb_opticals'],
+ 'c': ['gkc'],
+ 'd': ['gkd_evolution', 'gkd_legend'],
+ 'e': ['gke'],
+ 'h': ['gkhs', 'gkh'],
+ 'i': ['gkikas_magiorkinis'],
+ 'j': ['gkj'],
+ 'k': ['gkk_etzenricht', 'gkk_sibenka'],
+ 'l': ['gkl'],
+ 'm': ['gkm_grudziadz', 'gkm_variety'],
+ 'n': ['gkn_driveline', 'gkn_simba'],
+ 'o': ['gko'],
+ 'p': ['gkp'],
+ 'r': ['gkrellm'],
+ 's': ['gks_jastrzebie', 'gks_belchatow', 'gks_katowice', 'gks_tychy'],
+ 't': ['gkt'],
+ 'u': ['gkuthaarn_language'],
+ 'v': ['gkv'],
+ 'w': ['gkw']}
