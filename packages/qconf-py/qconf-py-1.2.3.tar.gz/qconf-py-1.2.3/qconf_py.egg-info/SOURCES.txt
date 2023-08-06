@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+lib/python_qconf.cc
+qconf_py.egg-info/PKG-INFO
+qconf_py.egg-info/SOURCES.txt
+qconf_py.egg-info/dependency_links.txt
+qconf_py.egg-info/top_level.txt
+test/test_so.py
