@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: necessary
+Version: 0.1.0
+Summary: Python package to enforce optional dependencies
+Author-email: Luca Soldaini <lucas@allenai.org>
+License: Apache-2.0
+Project-URL: homepage, https://github.com/soldaini/necessary
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+# Necessary
+
+Python package to enforce optional dependencies.

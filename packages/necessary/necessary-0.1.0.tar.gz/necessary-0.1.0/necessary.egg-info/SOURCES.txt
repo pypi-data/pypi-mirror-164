@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+necessary/__init__.py
+necessary/core.py
+necessary.egg-info/PKG-INFO
+necessary.egg-info/SOURCES.txt
+necessary.egg-info/dependency_links.txt
+necessary.egg-info/requires.txt
+necessary.egg-info/top_level.txt
