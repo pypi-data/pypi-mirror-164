@@ -1,0 +1,8 @@
+README.md
+setup.py
+python_jenkins_monitor/__init__.py
+python_jenkins_monitor/python_jenkins_monitor.py
+python_jenkins_monitor.egg-info/PKG-INFO
+python_jenkins_monitor.egg-info/SOURCES.txt
+python_jenkins_monitor.egg-info/dependency_links.txt
+python_jenkins_monitor.egg-info/top_level.txt
