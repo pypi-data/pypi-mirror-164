@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: PdifFinder
+Version: 1.1.3
+Summary: This program is designed for annotation of antimicrobal resistance(AMR), pdif site and pdif-ARGs module in bacteria
+Home-page: https://github.com/mjshao06/pdifFinder.git
+Author: Shao Mengjie
+Author-email: 1437819081@qq.com
+License: UNKNOWN
+Description: Author: Shao Mengjie, Liang Qian at 20220803
+        
+        Email: 1437819081@qq.com; norah-liang@dmicrobe.com
+        
+        Institute: Hangzhou Digital-Micro Biotech Co.,Ltd
+        
+        This program is designed for annotation of antimicrobal resistance(AMR), pdif site and pdif-ARGs module in bacteria.
+        
+        PdifFinder is a python3.X script, running on linux. You can download from github by git clone https://github.com/mjshao06/pdifFinder.git.
+        
+Platform: linux
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
