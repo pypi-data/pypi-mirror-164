@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+gene_cluster_matrix/__init__.py
+gene_cluster_matrix/__main__.py
+gene_cluster_matrix/core.py
+gene_cluster_matrix/gff_parse.py
+gene_cluster_matrix/make_plotly_data.py
+gene_cluster_matrix/make_plotly_fig.py
+gene_cluster_matrix/make_tree.py
+gene_cluster_matrix/parse_args.py
+gene_cluster_matrix.egg-info/PKG-INFO
+gene_cluster_matrix.egg-info/SOURCES.txt
+gene_cluster_matrix.egg-info/dependency_links.txt
+gene_cluster_matrix.egg-info/entry_points.txt
+gene_cluster_matrix.egg-info/requires.txt
+gene_cluster_matrix.egg-info/top_level.txt
