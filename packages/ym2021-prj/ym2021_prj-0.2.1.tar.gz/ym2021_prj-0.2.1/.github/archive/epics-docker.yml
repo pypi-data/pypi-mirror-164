@@ -1,0 +1,89 @@
+name: Cache Something
+
+# NOTE: this idea is not working out
+# Takes ~13 minutes to build the cache but the tar.gz file is not recovered in the cache.
+
+on: push
+
+jobs:
+  cache-job:
+    name: Cache EPICS Docker Images
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Cache vault directory
+      id: cache-vault
+      uses: actions/cache@v3
+      with:
+        path: ~/vault
+        key: ${{ runner.os }}-epics_docker-v1_1
+
+    - name: Generate Cache Content
+      if: steps.cache-vault.outputs.cache-hit != 'true'
+      run: |
+        mkdir -p ~/vault
+        wget $URL/$REPO/$AD/start_adsim.sh
+        wget $URL/$REPO/$SYNAPPS/start_xxx.sh
+        wget $URL/$REPO/$SYNAPPS/remove_container.sh
+        mv start_adsim.sh remove_container.sh  start_xxx.sh   ~/vault
+        # get the images
+        docker pull prjemian/custom-synapps-6.2:latest
+        docker pull prjemian/custom-synapps-6.2-ad-3.10:latest
+        cd /var/lib
+        # sudo tar czf $HOME/vault/docker.tar.gz ./docker
+        cd ~
+      env:
+        AD: v1.1/n6_custom_areaDetector
+        SYNAPPS: v1.1/n5_custom_synApps
+        REPO: prjemian/epics-docker/main
+        URL: https://raw.githubusercontent.com
+
+    - name: Show Cache Content
+      run: |
+        ls -lAFgh ~/vault/
+        # cat ~/vault/start_xxx.sh
+        sudo ls /var/lib/docker
+
+    - name: Start docker containers
+      run: |
+        cd $HOME/vault
+        bash ./start_xxx.sh gp
+        bash ./start_adsim.sh ad
+        docker ps
+
+  use-cache:
+    name: Use Cache
+    runs-on: ubuntu-latest
+    needs: cache-job
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Epics Docker Image Cache
+      id: cache-vault
+      uses: actions/cache@v3
+      with:
+        path: ~/vault
+        key: ${{ runner.os }}-epics_docker-v1_1
+
+    - name: Show Cache Content
+      run: |
+        ls -lAFgh ~/vault
+        # cat ~/vault/start_xxx.sh
+
+    - name: Restore docker images
+      run: |
+        ls -lAFgh ~/vault/
+        cd /var/lib
+        # sudo tar xzf $HOME/vault/docker.tar.gz
+        # sudo systemctl restart docker.service
+        docker image
+
+    # - name: Start docker containers
+    #   run: |
+    #     cd $HOME/vault
+    #     bash ./start_xxx.sh gp
+    #     bash ./start_adsimdet.sh ad
+    #     docker ps
