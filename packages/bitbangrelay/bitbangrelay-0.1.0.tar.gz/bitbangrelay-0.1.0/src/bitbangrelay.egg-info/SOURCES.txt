@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.cfg
+LICENSES/Apache-2.0.txt
+LICENSES/CC-BY-4.0.txt
+LICENSES/CC0-1.0.txt
+src/bitbangrelay/__init__.py
+src/bitbangrelay/__main__.py
+src/bitbangrelay/relay.py
+src/bitbangrelay.egg-info/PKG-INFO
+src/bitbangrelay.egg-info/SOURCES.txt
+src/bitbangrelay.egg-info/dependency_links.txt
+src/bitbangrelay.egg-info/entry_points.txt
+src/bitbangrelay.egg-info/requires.txt
+src/bitbangrelay.egg-info/top_level.txt
