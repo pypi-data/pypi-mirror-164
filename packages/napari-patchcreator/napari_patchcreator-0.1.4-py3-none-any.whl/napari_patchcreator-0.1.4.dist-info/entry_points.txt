@@ -1,0 +1,2 @@
+[napari.manifest]
+napari-patchcreator = napari_patchcreator:napari.yaml
