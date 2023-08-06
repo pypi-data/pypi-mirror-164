@@ -1,0 +1,10 @@
+modbus4mqtt/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+modbus4mqtt/modbus4mqtt.py,sha256=P3O39h4f-95Td1mDutNzpR3wKy3YWnzv1xvhog2FfEk,15161
+modbus4mqtt/modbus_interface.py,sha256=oA11Tky_Abadq-DvNtDRPBYiGcQhcODC5zInUpx75Ec,10460
+modbus4mqtt/version.py,sha256=jqcaQtX0g6MQ0Z7gZ1oh9KmZSpaQaN4FpoL993HBIHU,22
+modbus4mqtt-0.6.0rc1.dist-info/LICENSE,sha256=1H5_5y9hXLBdQfgb_f5LHCgDoXrspet2Fsgc6ZsANhM,733
+modbus4mqtt-0.6.0rc1.dist-info/METADATA,sha256=ZU3KL13kBBPOTbuUFA0Li7IGcpCFPEPpXPs79-NT96I,8144
+modbus4mqtt-0.6.0rc1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+modbus4mqtt-0.6.0rc1.dist-info/entry_points.txt,sha256=n6yT0su-Uq_4ujPnM4lONm1Amz7CQ736y5KVo0fzu90,80
+modbus4mqtt-0.6.0rc1.dist-info/top_level.txt,sha256=a4by4rUKIH4_X0eua7wSyPKxKfeZiAC5y9PGAcWk318,12
+modbus4mqtt-0.6.0rc1.dist-info/RECORD,,
