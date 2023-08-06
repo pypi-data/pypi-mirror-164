@@ -1,0 +1,13 @@
+scipy
+numpy
+pillow
+ase
+tqdm
+plotly
+pandas
+spglib
+scikit-image
+scikit-learn
+pyNSID
+sidpy
+SciFiReaders
