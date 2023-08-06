@@ -1,0 +1,108 @@
+# -*- coding: utf-8 -*-
+from setuptools import setup
+
+packages = \
+['stix2',
+ 'stix2.canonicalization',
+ 'stix2.confidence',
+ 'stix2.datastore',
+ 'stix2.equivalence',
+ 'stix2.equivalence.graph',
+ 'stix2.equivalence.object',
+ 'stix2.equivalence.pattern',
+ 'stix2.equivalence.pattern.compare',
+ 'stix2.equivalence.pattern.transform',
+ 'stix2.markings',
+ 'stix2.test',
+ 'stix2.test.v20',
+ 'stix2.test.v21',
+ 'stix2.v20',
+ 'stix2.v21']
+
+package_data = \
+{'': ['*'],
+ 'stix2.test.v20': ['stix2_data/attack-pattern/attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22/*',
+                    'stix2_data/attack-pattern/attack-pattern--0f20e3cb-245b-4a61-8a91-2d93f7cb0e9b/*',
+                    'stix2_data/attack-pattern/attack-pattern--774a3188-6ba9-4dc4-879d-d54ee48a5ce9/*',
+                    'stix2_data/attack-pattern/attack-pattern--7e150503-88e7-4861-866b-ff1ac82c4475/*',
+                    'stix2_data/attack-pattern/attack-pattern--ae676644-d2d2-41b7-af7e-9bed1b55898c/*',
+                    'stix2_data/attack-pattern/attack-pattern--b3d682b6-98f2-4fb0-aa3b-b4df007ca70a/*',
+                    'stix2_data/course-of-action/course-of-action--95ddb356-7ba0-4bd9-a889-247262b8946f/*',
+                    'stix2_data/course-of-action/course-of-action--d9727aee-48b8-4fdb-89e2-4c49746ba4dd/*',
+                    'stix2_data/identity/identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5/*',
+                    'stix2_data/intrusion-set/intrusion-set--a653431d-6a5e-4600-8ad3-609b5af57064/*',
+                    'stix2_data/intrusion-set/intrusion-set--f3bdec95-3d62-42d9-a840-29630f6cdc1a/*',
+                    'stix2_data/malware/*',
+                    'stix2_data/malware/malware--6b616fc1-1505-48e3-8b2c-0d19337bff38/*',
+                    'stix2_data/malware/malware--92ec0cbd-2c30-44a2-b270-73f4ec949841/*',
+                    'stix2_data/malware/malware--96b08451-b27a-4ff6-893f-790e26393a8e/*',
+                    'stix2_data/malware/malware--b42378e0-f147-496f-992a-26a49705395b/*',
+                    'stix2_data/marking-definition/*',
+                    'stix2_data/relationship/relationship--0d4a7788-7f3b-4df8-a498-31a38003c883/*',
+                    'stix2_data/relationship/relationship--0e55ee98-0c6d-43d4-b424-b18a0036b227/*',
+                    'stix2_data/relationship/relationship--1e91cd45-a725-4965-abe3-700694374432/*',
+                    'stix2_data/relationship/relationship--3a3084f9-0302-4fd5-9b8a-e0db10f5345e/*',
+                    'stix2_data/relationship/relationship--3a3ed0b2-0c38-441f-ac40-53b873e545d1/*',
+                    'stix2_data/relationship/relationship--592d0c31-e61f-495e-a60e-70d7be59a719/*',
+                    'stix2_data/relationship/relationship--70dc6b5c-c524-429e-a6ab-0dd40f0482c1/*',
+                    'stix2_data/relationship/relationship--8797579b-e3be-4209-a71b-255a4d08243d/*',
+                    'stix2_data/tool/tool--03342581-f790-4f03-ba41-e82e67392e23/*',
+                    'stix2_data/tool/tool--242f3da3-4425-4d11-8f5c-b842886da966/*'],
+ 'stix2.test.v21': ['stix2_data/attack-pattern/attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22/*',
+                    'stix2_data/attack-pattern/attack-pattern--0f20e3cb-245b-4a61-8a91-2d93f7cb0e9b/*',
+                    'stix2_data/attack-pattern/attack-pattern--774a3188-6ba9-4dc4-879d-d54ee48a5ce9/*',
+                    'stix2_data/attack-pattern/attack-pattern--7e150503-88e7-4861-866b-ff1ac82c4475/*',
+                    'stix2_data/attack-pattern/attack-pattern--ae676644-d2d2-41b7-af7e-9bed1b55898c/*',
+                    'stix2_data/attack-pattern/attack-pattern--b3d682b6-98f2-4fb0-aa3b-b4df007ca70a/*',
+                    'stix2_data/course-of-action/course-of-action--95ddb356-7ba0-4bd9-a889-247262b8946f/*',
+                    'stix2_data/course-of-action/course-of-action--d9727aee-48b8-4fdb-89e2-4c49746ba4dd/*',
+                    'stix2_data/directory/*',
+                    'stix2_data/identity/identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5/*',
+                    'stix2_data/intrusion-set/intrusion-set--a653431d-6a5e-4600-8ad3-609b5af57064/*',
+                    'stix2_data/intrusion-set/intrusion-set--f3bdec95-3d62-42d9-a840-29630f6cdc1a/*',
+                    'stix2_data/malware/*',
+                    'stix2_data/malware/malware--6b616fc1-1505-48e3-8b2c-0d19337bff38/*',
+                    'stix2_data/malware/malware--92ec0cbd-2c30-44a2-b270-73f4ec949841/*',
+                    'stix2_data/malware/malware--96b08451-b27a-4ff6-893f-790e26393a8e/*',
+                    'stix2_data/malware/malware--b42378e0-f147-496f-992a-26a49705395b/*',
+                    'stix2_data/marking-definition/*',
+                    'stix2_data/relationship/relationship--0d4a7788-7f3b-4df8-a498-31a38003c883/*',
+                    'stix2_data/relationship/relationship--0e55ee98-0c6d-43d4-b424-b18a0036b227/*',
+                    'stix2_data/relationship/relationship--1e91cd45-a725-4965-abe3-700694374432/*',
+                    'stix2_data/relationship/relationship--3a3084f9-0302-4fd5-9b8a-e0db10f5345e/*',
+                    'stix2_data/relationship/relationship--3a3ed0b2-0c38-441f-ac40-53b873e545d1/*',
+                    'stix2_data/relationship/relationship--592d0c31-e61f-495e-a60e-70d7be59a719/*',
+                    'stix2_data/relationship/relationship--70dc6b5c-c524-429e-a6ab-0dd40f0482c1/*',
+                    'stix2_data/relationship/relationship--8797579b-e3be-4209-a71b-255a4d08243d/*',
+                    'stix2_data/tool/tool--03342581-f790-4f03-ba41-e82e67392e23/*',
+                    'stix2_data/tool/tool--242f3da3-4425-4d11-8f5c-b842886da966/*']}
+
+install_requires = \
+['pytz>=2022.2.1,<2023.0.0',
+ 'requests>=2.28.1,<3.0.0',
+ 'simplejson>=3.17.6,<4.0.0',
+ 'stix2-patterns>=2.0.0,<3.0.0']
+
+extras_require = \
+{'semantic': ['haversine>=2.6.0,<3.0.0', 'rapidfuzz>=2.6.0,<3.0.0'],
+ 'taxii': ['medallion>=3.0.0,<4.0.0', 'taxii2-client>=2.3.0,<3.0.0']}
+
+setup_kwargs = {
+    'name': 'misp-lib-stix2',
+    'version': '3.0.1.1',
+    'description': 'Produce and consume STIX 2 JSON content',
+    'long_description': '|Build_Status| |Coverage| |Version| |Downloads_Badge|\n\ncti-python-stix2\n================\n\nThis is the MISP core team STIX2 library forked from the `OASIS TC Open Repository <https://www.oasis-open.org/resources/open-repositories/>`__.\n\nThis repository provides Python APIs for serializing and de-serializing STIX2\nJSON content, along with higher-level APIs for common tasks, including data\nmarkings, versioning, and for resolving STIX IDs across multiple data sources.\n\nFor more information, see `the documentation <https://stix2.readthedocs.io/>`__ on ReadTheDocs.\n\nInstallation\n------------\n\nInstall with `pip <https://pip.pypa.io/en/stable/>`__:\n\n.. code-block:: bash\n\n  $ pip install misp-lib-stix2\n\nNote: The library requires Python 3.7+.\n\nUsage\n-----\n\nTo create a STIX object, provide keyword arguments to the type\'s constructor.\nCertain required attributes of all objects, such as ``type`` or ``id``,  will\nbe set automatically if not provided as keyword arguments.\n\n.. code-block:: python\n\n    from stix2 import Indicator\n\n    indicator = Indicator(name="File hash for malware variant",\n                          indicator_types=["malicious-activity"],\n                          pattern_type="stix",\n                          pattern="[file:hashes.md5 = \'d41d8cd98f00b204e9800998ecf8427e\']")\n\nTo parse a STIX JSON string into a Python STIX object, use ``parse()``. To serialize a STIX object, use ``serialize()``:\n\n.. code-block:: python\n\n    from stix2 import parse\n\n    indicator = parse("""{\n        "type": "indicator",\n        "spec_version": "2.1",\n        "id": "indicator--dbcbd659-c927-4f9a-994f-0a2632274394",\n        "created": "2017-09-26T23:33:39.829Z",\n        "modified": "2017-09-26T23:33:39.829Z",\n        "name": "File hash for malware variant",\n        "indicator_types": [\n            "malicious-activity"\n        ],\n        "pattern_type": "stix",\n        "pattern_version": "2.1",\n        "pattern": "[file:hashes.md5 =\'d41d8cd98f00b204e9800998ecf8427e\']",\n        "valid_from": "2017-09-26T23:33:39.829952Z"\n    }""")\n\n    print(indicator.serialize(pretty=True))\n\nFor more in-depth documentation, please see `https://stix2.readthedocs.io/ <https://stix2.readthedocs.io/>`__.\n\nSTIX 2 Technical Specification Support\n--------------------------------------\n\nThis version of cti-python-stix2 brings support to `STIX Version 2.1 <https://docs.oasis-open.org/cti/stix/v2.1/os/stix-v2.1-os.html>`__\npublished on 10 June 2021 currently at the Committee Specification (CS) 03 level, also know as the "OASIS Standard".\n\nThe stix2 Python library supports multiple versions of the STIX 2 Technical\nSpecification. The library will be updated to support new Committee\nSpecification Drafts (CSDs) as they are released, but modules for these\nversions must be imported manually until the CSD reaches CS level. In new\nmajor releases of stix2 the ``import stix2`` implicit import statement\nwill be updated to automatically load the STIX Objects equivalent to the most\nrecently supported CS. Please see the `library documentation <https://stix2.readthedocs.io/en/latest/guide/ts_support.html>`__\nfor details.\n\nContributing\n------------\n\nThis is the MISP core team STIX2 library forked from the `OASIS TC Open Repository <https://www.oasis-open.org/resources/open-repositories/>`__.\n\nThe contributing rules of this repository is the MISP standard rules bound to the `Developer Certificate of Origin <https://www.misp-project.org/license/>`__.\n\nIf you want to contribute, no need to sign a CLA.\n\n\n.. |Build_Status| image:: https://github.com/misp/cti-python-stix2/workflows/cti-python-stix2%20test%20harness/badge.svg\n   :target: https://github.com/misp/cti-python-stix2/actions?query=workflow%3A%22cti-python-stix2+test+harness%22\n   :alt: Build Status\n.. |Coverage| image:: https://codecov.io/gh/misp/cti-python-stix2/branch/main/graph/badge.svg\n   :target: https://codecov.io/gh/misp/cti-python-stix2\n   :alt: Coverage\n.. |Version| image:: https://img.shields.io/pypi/v/misp-lib-stix2.svg?maxAge=3600\n   :target: https://pypi.python.org/pypi/misp-lib-stix2/\n   :alt: Version\n.. |Downloads_Badge| image:: https://img.shields.io/pypi/dm/misp-lib-stix2.svg?maxAge=3600\n   :target: https://pypi.python.org/pypi/misp-lib-stix2/\n   :alt: Downloads\n',
+    'author': 'OASIS Cyber Threat Intelligence Technical Committee',
+    'author_email': 'cti-users@lists.oasis-open.org',
+    'maintainer': 'OASIS Cyber Threat Intelligence Technical Committee',
+    'maintainer_email': 'cti-users@lists.oasis-open.org',
+    'url': 'https://github.com/MISP/cti-python-stix2',
+    'packages': packages,
+    'package_data': package_data,
+    'install_requires': install_requires,
+    'extras_require': extras_require,
+    'python_requires': '>=3.7,<4.0',
+}
+
+
+setup(**setup_kwargs)
