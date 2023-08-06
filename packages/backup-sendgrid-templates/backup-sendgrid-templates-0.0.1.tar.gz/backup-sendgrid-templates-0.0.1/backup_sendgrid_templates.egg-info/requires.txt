@@ -1,0 +1,4 @@
+sendgrid>=6.9.7
+
+[s3]
+boto3
