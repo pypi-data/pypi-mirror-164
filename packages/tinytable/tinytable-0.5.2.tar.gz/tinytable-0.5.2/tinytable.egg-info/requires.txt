@@ -1,0 +1,3 @@
+tinytim
+openpyxl
+tabulate
