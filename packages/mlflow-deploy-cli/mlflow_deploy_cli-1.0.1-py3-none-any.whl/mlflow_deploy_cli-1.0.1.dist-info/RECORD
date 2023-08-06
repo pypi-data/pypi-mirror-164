@@ -1,0 +1,8 @@
+mlflow_deploy_cli/__main__.py,sha256=IbBtpsJGPU0_dHj2OpMz9WGNJ86Pvg-LPFqOu6Cjjzc,2896
+mlflow_deploy_cli/template/Dockerfile.template,sha256=QnVo8-GLRqITsU9s_lNmRGNuK-M5Nbslv7zU5HRK8Ds,342
+mlflow_deploy_cli/template/docker-compose.yml,sha256=kiNk_ByXtCRqVnn-mulgEcwhbzeSteyayPygarxu2xI,542
+mlflow_deploy_cli/utils/__init__.py,sha256=tW2mTR8kX6_gWSkGk9tvoCUjImCftNj8_gn_Ozq3Y8s,186
+mlflow_deploy_cli/utils/utils.py,sha256=WLtX6HdoW6VBWFo0_PvZlBnQat0ZLWc3JZJ_I8yzsps,2891
+mlflow_deploy_cli-1.0.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+mlflow_deploy_cli-1.0.1.dist-info/METADATA,sha256=WtGApjVa5FmHORNnXh3DePDxsC4ddihsJCdFrI2krp0,1312
+mlflow_deploy_cli-1.0.1.dist-info/RECORD,,
