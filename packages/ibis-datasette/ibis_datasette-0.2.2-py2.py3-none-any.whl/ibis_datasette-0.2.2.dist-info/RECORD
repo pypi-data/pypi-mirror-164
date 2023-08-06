@@ -1,0 +1,9 @@
+ibis_datasette/__init__.py,sha256=1lf2XqG_MLyHM26_wzq9kJyZF5b_13TaU71KOl9VxgA,100
+ibis_datasette/_version.py,sha256=8Z1LiJNvHHf-_ubd-Krpw6JbTgU8SwtcW_h_Y_DSwRY,497
+ibis_datasette/core.py,sha256=QkcC2iTfO7gtvsgfiWw83h7B91P7pHVHEjfSWXc4Jeg,10261
+ibis_datasette-0.2.2.dist-info/LICENSE,sha256=fJVMNpO6wdzbZeirFYeZz3XfEpKLicdVOKgEMSVaEI4,1498
+ibis_datasette-0.2.2.dist-info/METADATA,sha256=iGudROpj1Zkprvg_-qav3qkUesiWc9uZ3KZVr4D3ILk,2831
+ibis_datasette-0.2.2.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+ibis_datasette-0.2.2.dist-info/entry_points.txt,sha256=dfDfQcQAdJ_6bxRd6nGI321pTRaiPmBkMluxy3wAxJY,43
+ibis_datasette-0.2.2.dist-info/top_level.txt,sha256=70A0OMrxZAs1pi16NJfFIzVp0OyAn06ZPy4hU1DqCc0,15
+ibis_datasette-0.2.2.dist-info/RECORD,,
