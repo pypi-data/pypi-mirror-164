@@ -1,0 +1,5 @@
+postgres_rename_operator/__init__.py,sha256=kt1KhvjZYre4bF0NFQfypg7fufWXYzFNc4VOk4W-I2Y,66
+postgres_rename_operator/postgres_rename_operator.py,sha256=v6g3q20EuPFvQviiJc5tP15-h6YCQTscghzpV9fsLoI,4203
+amsterdam_airflow_postgres_rename_operator-1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+amsterdam_airflow_postgres_rename_operator-1.0.dist-info/METADATA,sha256=eFst3D8n-DCgR0lY5damd8pRjL_ANI3-ZhOm6grkgQ8,945
+amsterdam_airflow_postgres_rename_operator-1.0.dist-info/RECORD,,
