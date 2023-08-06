@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+tasm/__init__.py
+tasm/bc.py
+tasm/cli.py
+tasm/exceptions.py
+tasm/lang.py
+tasm/spec.py
+tasm/tvm.py
+tcc_gh.egg-info/PKG-INFO
+tcc_gh.egg-info/SOURCES.txt
+tcc_gh.egg-info/dependency_links.txt
+tcc_gh.egg-info/entry_points.txt
+tcc_gh.egg-info/top_level.txt
