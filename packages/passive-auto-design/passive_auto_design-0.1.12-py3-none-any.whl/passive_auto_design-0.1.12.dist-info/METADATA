@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: passive-auto-design
+Version: 0.1.12
+Summary: 
+License: MIT
+Author: Patarimi
+Author-email: 38954040+Patarimi@users.noreply.github.com
+Requires-Python: >=3.9,<3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Requires-Dist: black (>=22.6.0,<23.0.0)
+Requires-Dist: flake8 (>=4.0.1,<6.0.0)
+Requires-Dist: hydralit (>=1.0.13,<2.0.0)
+Requires-Dist: matplotlib (>=3.5.2,<4.0.0)
+Requires-Dist: mkdocstrings-python (>=0.7.1,<0.8.0)
+Requires-Dist: numpy (>=1.22.3,<2.0.0)
+Requires-Dist: pydantic (>=1.9.0,<2.0.0)
+Requires-Dist: pytest-cov (>=3.0.0,<4.0.0)
+Requires-Dist: scikit-rf (>=0.22.1,<0.24.0)
+Requires-Dist: scipy (>=1.8.0,<2.0.0)
+Requires-Dist: streamlit (>=1.10.0,<2.0.0)
