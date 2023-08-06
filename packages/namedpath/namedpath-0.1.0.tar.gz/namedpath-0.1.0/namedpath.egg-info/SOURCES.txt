@@ -1,0 +1,10 @@
+LICENSE
+README.md
+namedpath.py
+pyproject.toml
+setup.cfg
+setup.py
+namedpath.egg-info/PKG-INFO
+namedpath.egg-info/SOURCES.txt
+namedpath.egg-info/dependency_links.txt
+namedpath.egg-info/top_level.txt
