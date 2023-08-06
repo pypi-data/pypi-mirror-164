@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: SecureHardwareExtension
+Version: 0.2.1
+Summary: A set of tools for AUTOSAR Secure Hardware Extension.
+Home-page: https://github.com/Deejuha/SecureHardwareExtension
+Author: Michał Juszczyk
+Author-email: michaljuszczyk2@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: pycryptodome
+
