@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+biasgen/__init__.py
+biasgen/coil_setup.py
+biasgen/config.py
+biasgen/field_calc.py
+biasgen/phantom.py
+biasgen/typing_utils.py
+biasgen/view_utils.py
+biasgen.egg-info/PKG-INFO
+biasgen.egg-info/SOURCES.txt
+biasgen.egg-info/dependency_links.txt
+biasgen.egg-info/requires.txt
+biasgen.egg-info/top_level.txt
