@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+cdef.c
+setup.py
+./__init__.py
+./_const.py
+./cffi_build.py
+./example.py
+./test_curl.py
+curl_cffi.egg-info/PKG-INFO
+curl_cffi.egg-info/SOURCES.txt
+curl_cffi.egg-info/dependency_links.txt
+curl_cffi.egg-info/requires.txt
+curl_cffi.egg-info/top_level.txt
+include/index.c
+include/index.h
