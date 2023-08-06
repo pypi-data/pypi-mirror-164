@@ -1,0 +1,7 @@
+setup.py
+thisspackage/__init__.py
+thisspackage/main.py
+thisspackage.egg-info/PKG-INFO
+thisspackage.egg-info/SOURCES.txt
+thisspackage.egg-info/dependency_links.txt
+thisspackage.egg-info/top_level.txt
