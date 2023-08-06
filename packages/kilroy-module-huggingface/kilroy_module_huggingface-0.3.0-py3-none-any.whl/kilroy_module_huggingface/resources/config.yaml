@@ -1,0 +1,16 @@
+module:
+  modelName: gpt2
+  trainerType: basic
+  trainersParams:
+    basic:
+      batchSize: 64
+  optimizerType: adam
+  generatorParams:
+    samplerType: epsilonNucleus
+    maxLength: 8
+    endTokens:
+      - "<|endoftext|>"
+    batchSize: 64
+server:
+  host: localhost
+  port: 11000
