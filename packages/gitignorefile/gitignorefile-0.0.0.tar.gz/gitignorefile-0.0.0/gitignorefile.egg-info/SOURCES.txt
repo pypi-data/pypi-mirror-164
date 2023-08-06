@@ -1,0 +1,13 @@
+.gitignore
+LICENSE
+README.md
+gitignore_parser.py
+setup.cfg
+setup.py
+tests.py
+.github/workflows/ci.yml
+gitignorefile.egg-info/PKG-INFO
+gitignorefile.egg-info/SOURCES.txt
+gitignorefile.egg-info/dependency_links.txt
+gitignorefile.egg-info/requires.txt
+gitignorefile.egg-info/top_level.txt
