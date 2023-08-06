@@ -1,0 +1,15 @@
+mosromgr/__init__.py,sha256=c5EUJCRqzK09WrlCnQ19CrorRvaThTZbPlPxiPYCAxI,142
+mosromgr/cli.py,sha256=WBPvLsD4TTKQt1TydJhSAaATNBJV0hsG1FCAJxLaKSc,10407
+mosromgr/exc.py,sha256=HZRDXTNBoTwKqUn07oTrnGKWTtelAPx5U4tzEF__lBg,1453
+mosromgr/moscollection.py,sha256=OXjsMZFZKG5ziTFELxcXq_jvHTWTz8McSBC-PYNfIIw,10247
+mosromgr/moselements.py,sha256=uCvdcHJFpeEoDfkGil-cHqaTMY4Cy_Jbp6e5GJpMfCE,9683
+mosromgr/mostypes.py,sha256=Mg_g6G3uuBNoszOAkUdEq4aRoerCAhsXWZKEkXaqbWg,69029
+mosromgr/utils/__init__.py,sha256=xgz3DoGmmaCG0bQqQIvgYa0DqN5bKP3tMwGawoN_j5Y,118
+mosromgr/utils/s3.py,sha256=CMIi5MkC36Hlwx2qWPPMcYanDshb4BGJFaK7zpoFzqI,1564
+mosromgr/utils/xml.py,sha256=cyzdxS1Yuc8zeNC5tqfSSqEb__d8jp1MGzwMsCw5eo0,1463
+mosromgr-0.10.0.dist-info/LICENSE.txt,sha256=ul9adUa6szyTPbCI4xtcj449tmzCKc0PC3dF5EqYtAs,543
+mosromgr-0.10.0.dist-info/METADATA,sha256=p4ZjjPW1ycrByoazJ9MZeZuziFtvbGVYs9J-BqkHEqw,6081
+mosromgr-0.10.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mosromgr-0.10.0.dist-info/entry_points.txt,sha256=Dv0uBG3jK4ho8QpxT_X4y8YzThXg5pGuhT2kqzG7Pck,48
+mosromgr-0.10.0.dist-info/top_level.txt,sha256=BiVGpCCdnX9k1H0KDiZrvaDe7qn0KQtHc6qqUSEU8mA,9
+mosromgr-0.10.0.dist-info/RECORD,,
