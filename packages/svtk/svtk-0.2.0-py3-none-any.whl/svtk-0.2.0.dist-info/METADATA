@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: svtk
+Version: 0.2.0
+Summary: Streaming addons for VTK
+Home-page: UNKNOWN
+Author: SimLeek
+Author-email: simulator.leek@gmail.com
+License: MIT
+Project-URL: repository, https://github.com/simleek/displayarray
+Platform: UNKNOWN
+Requires-Python: ==3.*,>=3.6.0
+License-File: LICENSE.md
+Requires-Dist: vtk
+Requires-Dist: numpy
+Provides-Extra: dev
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: tox ; extra == 'dev'
+Requires-Dist: coverage ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pydocstyle ; extra == 'dev'
+Requires-Dist: mypy ; extra == 'dev'
+
+UNKNOWN
+

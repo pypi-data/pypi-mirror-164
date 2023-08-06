@@ -1,0 +1,14 @@
+svtk/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+svtk/tk_integration.py,sha256=sOvA1kD3qgrk9-pIvaeACYLw2Z-04lTmpP8E9AyWs1k,525
+svtk/util.py,sha256=20tIfjad2vRvrxCe1m8xFO-z_8FG5eGFwRHJaCEIIxM,557
+svtk/lib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+svtk/vtk_classes/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+svtk/vtk_classes/vtk_animation_timer_callback.py,sha256=p-HzIGb8FZYz7B30LqjaXvr3pjpNe6ryGzJwsT47Wb4,24095
+svtk/vtk_classes/vtk_displayer.py,sha256=lqEMUyfheNYBCBbk1D0oJaClUmFk3SGa7DTFjT-YiNA,6022
+svtk/vtk_classes/vtk_keypress_interactor_style.py,sha256=fFhMEl0IWh_FATXO7rmjfSqrWKN6m6p8IZLMVeqDiGg,4856
+svtk-0.2.0.dist-info/LICENSE.md,sha256=krKH2Fb36n51QupQ1CHk0Lj7StmuckfAHBdaaZPMKlI,1068
+svtk-0.2.0.dist-info/METADATA,sha256=DehjXaQGiZ63DTPEInOvNKm3RuWbc6al3bZG5oJDtFQ,612
+svtk-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+svtk-0.2.0.dist-info/entry_points.txt,sha256=SS3rPz8voeBO5pFFLSg_baKiosT9bztGyIaJBkO-S5w,61
+svtk-0.2.0.dist-info/top_level.txt,sha256=n6WtW25q9ykdMIlYtQK_YYas4GNfQLoe2CiXzoPdcbU,5
+svtk-0.2.0.dist-info/RECORD,,
