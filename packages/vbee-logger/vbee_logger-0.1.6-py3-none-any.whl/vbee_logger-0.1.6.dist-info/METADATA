@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: vbee-logger
+Version: 0.1.6
+Summary: Vbee python logging
+Home-page: UNKNOWN
+Author: Vbee
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+## Vbee Python Logger
+
+### Install
+  ```bash
+  pip install vbee-logger
+  ```
+
+### Usage
+  ```python
+  from VbeeLogger import VbeeLogger
+  logger = ("test_product","test_service","test_name")
+  logger.info("mess")
+  ```
+
+## install from source
+```bash
+python -m pip install -e .
+```
+
+### Build and updatd to Pypi
+```bash
+rm -rf dist/*
+python setup.py sdist bdist_wheel #build dist
+twine check dist/* # check dist
+
+twine upload --repository-url https://test.pypi.org/legacy/ dist/*  # upload to Pypi
+# or run twine upload dist/* 
+```
+
