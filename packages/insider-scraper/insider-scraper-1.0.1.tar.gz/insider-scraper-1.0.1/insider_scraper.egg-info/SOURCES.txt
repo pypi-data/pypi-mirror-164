@@ -1,0 +1,11 @@
+README.md
+setup.py
+insider/__init__.py
+insider/__main__.py
+insider/scraper.py
+insider_scraper.egg-info/PKG-INFO
+insider_scraper.egg-info/SOURCES.txt
+insider_scraper.egg-info/dependency_links.txt
+insider_scraper.egg-info/entry_points.txt
+insider_scraper.egg-info/requires.txt
+insider_scraper.egg-info/top_level.txt
