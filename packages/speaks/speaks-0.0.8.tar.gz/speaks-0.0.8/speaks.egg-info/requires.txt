@@ -1,0 +1,4 @@
+gtts
+SpeechRecognition==3.8.1
+playsound
+pyaudio

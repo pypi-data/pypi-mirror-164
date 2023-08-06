@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: speaks
+Version: 0.0.8
+Summary: text-to-speech module for Python
+Home-page: https://github.com/TwoIt202/Speaker
+Download-URL: https://github.com/TwoIt202/Speaker/raw/89a99b41e4c3565c661691dfae0054e5ea600a13/speaker.zip
+Author: two-it2022
+Author-email: kodland.group@gmail.com
+License: Apache License, Version 0.8, see LICENSE file
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Description-Content-Type: text/markdown
+
+
+============================
+Speaks
+============================
+
+
+=============
+1. Installing
+=============
+
+Open the CMD and write in: <<pip install speaks>>.
+
+Create the file [your_file_name].py and write in: <<import speaks>>
+
+
+========================
+2. Commands
+========================
+
+speak(*text, *language) - Reads text on any language.
+
+listen(*pausetime, *language) - Listen the voice on any language and pause time.
+
+
+=========================================
+
