@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: nerdlerxml
+Version: 1.0.2
+Summary: Converts XML to a dictionary. Can take inputs from URL, a file and binary data
+Home-page: https://github.com/nerdlertech/nerdlerxml
+Author: Hendrik Koester
+Keywords: xml,converter,dictionary,dict
+License-File: LICENSE
+
+Converts XML to a dictionary. Can take inputs from URL, a file and binary data
