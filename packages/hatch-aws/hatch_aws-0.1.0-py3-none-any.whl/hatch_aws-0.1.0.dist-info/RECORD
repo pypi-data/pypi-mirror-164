@@ -1,0 +1,10 @@
+hatch_aws/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hatch_aws/aws.py,sha256=qG6gpE_v4wN_AF__-gYHx4ooe3FWOz-zRCHxYDiLdrY,3037
+hatch_aws/builder.py,sha256=1jNcXK1i0W7B5cU55fDi4Z1xfuS6pWadZPghtRrUySc,4662
+hatch_aws/exceptions.py,sha256=m-qT0NtRv4hG2eDibowNHzmbRK8UeUPVwzegwxlubN0,562
+hatch_aws/hooks.py,sha256=_c_ehZyPByed7a7jQMZsxUuCZJxPL9qRUsgpoyW4I6o,144
+hatch_aws-0.1.0.dist-info/METADATA,sha256=jYQfz24XYD118BRMDrNnkpZDZdSrczbk8R1fUpHMdmo,4729
+hatch_aws-0.1.0.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+hatch_aws-0.1.0.dist-info/entry_points.txt,sha256=niMm6VDOztAKoAgtGcUZpvQDgdbENSfmYbCL1vaOkIk,30
+hatch_aws-0.1.0.dist-info/licenses/LICENSE.txt,sha256=jJ6JBtFkp2hTrsqYYbSQsUOalTmz9MAJluSNpLuPseU,1061
+hatch_aws-0.1.0.dist-info/RECORD,,
