@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: oelint-parser
+Version: 2.6.0
+Summary: Alternative parser for bitbake recipes
+Home-page: https://github.com/priv-kweihmann/oelint-parser
+Author: Konrad Weihmann
+Author-email: kweihmann@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/plain
+Provides-Extra: dev
+License-File: LICENSE
+
+See https://github.com/priv-kweihmann/oelint-parser for documentation
+
