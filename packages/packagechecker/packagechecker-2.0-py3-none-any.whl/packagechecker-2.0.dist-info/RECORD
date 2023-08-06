@@ -1,0 +1,7 @@
+packagechecker/__init__.py,sha256=jHnE9dHoTeWWpj8VBsfz1XG3z7cAmh3UcJ7khysXXFE,41
+packagechecker/package_checker.py,sha256=SoVbX9U2aFMUeUa_WZ9VE1jP_ktHbbgtJ5RX5JtF1qU,2186
+packagechecker-2.0.dist-info/LICENSE,sha256=tqi_Y64slbCqJW7ndGgNe9GPIfRX2nVGb3YQs7FqzE4,34670
+packagechecker-2.0.dist-info/METADATA,sha256=i73FhEdhG7RL3uvgZ6KY_M3H_9dVDWQf_VMnl-d6KD0,681
+packagechecker-2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+packagechecker-2.0.dist-info/top_level.txt,sha256=0FlvvS7VL5W4SOafMxSnM8aseSPUh9xGxOTt11BC2hI,15
+packagechecker-2.0.dist-info/RECORD,,
