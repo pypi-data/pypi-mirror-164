@@ -1,0 +1,3 @@
+[console_scripts]
+gene_cluster_matrix = gene_cluster_matrix.core:main
+
