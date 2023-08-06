@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: metafitch
+Version: 0.0.2
+Summary: "Metadata ancestral state reconstruction by Fitch's method"
+Home-page: https://github.com/theosanderson/chronumental
+Author: Theo Sanderson
+Author-email: theo@theo.io
+Project-URL: Bug Tracker, https://github.com/theosanderson/chronumental/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# metaFitch
+
+Metafitch is a tool to perform reconstruction of character traits using Fitch's method
+
+
+
+### [📚 Consult the documentation](https://metafitch.readthedocs.io/en/latest/)
