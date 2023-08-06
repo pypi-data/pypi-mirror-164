@@ -1,0 +1,7 @@
+scadgen/__init__.py,sha256=1svifQJIROxlny3KoNrFB7ZXeNCXdcNuyH-hrB6nr8c,1378
+scadgen/scadobj.py,sha256=ciXWI8WvjZDqgS67h7GV7Ip8SA4X_HWqJ_brxvARfPw,7257
+scadgen/scadobj_test.py,sha256=ryT1vXsvbyYbttmLWPMb7zrQxeNt_hS3WSCDG9eK8gk,6727
+scadgen-0.0.2.dist-info/LICENSE,sha256=Eb31dsfioe9Q9H3_dpwJYCORlSfz8kK7k0cJ9bDs4H8,1069
+scadgen-0.0.2.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+scadgen-0.0.2.dist-info/METADATA,sha256=ZM3xdubvWbJL7aEnGGvpyc0LTLGvO4yePqvnso7D3m0,846
+scadgen-0.0.2.dist-info/RECORD,,
