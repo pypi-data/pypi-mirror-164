@@ -1,0 +1,9 @@
+cli_table/__init__.py,sha256=pZBsto1ASwqH4OGYfS32FjBUY9UijRgBY4SLSYIRzs8,142
+cli_table/aligners.py,sha256=5I1s7GxB0wRn7KrrgzPClZMiUalRVLgXsjOb7y7ew20,709
+cli_table/table.py,sha256=yO8ILYvzsxBzYUcOdH4JhkOdI1hwRQRrnrlQU74Wb0s,8209
+cli_table/util.py,sha256=5sdnqqu2eO1NP7T1yRk8Vav5c59kEJVwXpTxmPCAEPk,8
+hamolicious_cli_table-1.0.1.dist-info/LICENCE,sha256=InEfOE00Q6MAANeCn_cfCXRZlck1v9Ll9zCISkqlV6k,494
+hamolicious_cli_table-1.0.1.dist-info/METADATA,sha256=poPJbyhd17hv2004xvXDXqQbOEmp9KDWyBM4LSHYreI,4008
+hamolicious_cli_table-1.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+hamolicious_cli_table-1.0.1.dist-info/top_level.txt,sha256=0dGnhaYMPK17sUrtVCRKomdWCUarfFBUZBm-mq5Tk6U,10
+hamolicious_cli_table-1.0.1.dist-info/RECORD,,
