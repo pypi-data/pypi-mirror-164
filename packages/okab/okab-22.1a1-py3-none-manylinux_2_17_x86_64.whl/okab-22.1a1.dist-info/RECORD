@@ -1,0 +1,11 @@
+okab/__init__.py,sha256=XGo9gGzf1YidA1Q4iYqPnvRmHFow6aGB5zVFPkSJiBI,63
+okab/__main__.py,sha256=HicnFWjwKAgrJf2yUndwzQKVMevO8shEbvFvtw15uTE,317
+okab/_okab.py,sha256=BvyRvqkRkww502WPh3keiwMuvqxrIVKuRklJ7dtmaeg,3349
+okab/_version.py,sha256=oVsn0J9rve5w_3u6kdXQAhdl0157m23LwQDr1WQgHL0,175
+okab/vega/vega-resvg,sha256=NgX4HPMTdWR8-v_m3O8U-jU_bRJ-Mc0aQ3Oot0gFJxk,62448245
+okab-22.1a1.dist-info/LICENSE,sha256=AYdlhME-jfiZTMnQG9dyDzw8zrX0Qx5fYUfgYdmGYAw,1053
+okab-22.1a1.dist-info/METADATA,sha256=kaf2ZS8RFnSN06wPXRO9UH_uxlqHcCd4FEE1_KVpHVQ,3482
+okab-22.1a1.dist-info/WHEEL,sha256=qugYWRNorVs_gu337JlT-YCtZCaqnJxChOkWcSeMWMA,110
+okab-22.1a1.dist-info/entry_points.txt,sha256=ZOYmfqMeb-458Yxrzm5fTXs4YeGHfJBgNUjUWIySxRQ,44
+okab-22.1a1.dist-info/top_level.txt,sha256=j9yxcBlMw8tmI5ta8ckf1zX3hPjbQwzn6KKeVVMOQxI,5
+okab-22.1a1.dist-info/RECORD,,
