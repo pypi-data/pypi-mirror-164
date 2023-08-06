@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eboekhoudennl_api"
+version = "0.0.3"
+authors = [{name = "RAYLAN", email = "info@raylan.nl"}]
+description = "e-boekhouden api made easy"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.7"
+classifiers = ["License :: OSI Approved :: MIT License"]
+dependencies = ["zeep"]
+
+[project.urls]
+Home = "https://github.com/raylanconsulting/eboekhouden"
