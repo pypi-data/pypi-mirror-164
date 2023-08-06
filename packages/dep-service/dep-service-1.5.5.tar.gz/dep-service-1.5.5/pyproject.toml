@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "dep-service"
+version = "1.5.5"
+description = ""
+authors = ["everhide <i.tolkachnikov@gmail.com>"]
+
+packages = [
+    { include = "service" },
+    { include = "README.md" },
+    { include = ".gitignore" },
+    { include = "pyproject.toml" },
+]
+
+include = [
+    "README.md",
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = "^7.1.2"
+fire = "^0.4.0"
+Pygments = "^2.12.0"
+logging-json = "^0.2.1"
+PyYAML = "^6.0"
+dep-spec = "0.5.72"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.pytest.ini_options]
+addopts = '''
+    tests -s -vv -p no:warnings
+    --showlocals
+    --maxfail=1
+    --no-header
+    --disable-pytest-warnings
+'''
+
+asyncio_mode = 'auto'
+python_files = 'test_*.py tests_*.py'
+log_cli = 1
+log_level = 'ERROR'
