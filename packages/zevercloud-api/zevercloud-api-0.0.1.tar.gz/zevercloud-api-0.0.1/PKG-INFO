@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: zevercloud-api
+Version: 0.0.1
+Summary: Python API for the Zevercloud API
+Home-page: https://github.com/rogiervandergeer/zevercloud_api
+Author: Rogier van der Geer
+Author-email: rogier@vander-geer.nl
+License: Apache License 2.0
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Typing :: Typed
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+# Zevercloud API
+
+Python API for the Zevercloud API
