@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pierl
+Version: 0.1.2
+Summary: Environment Agnostic RL algorithm implementations using Pytorch.
+Author: Charlie Gaynor
+Author-email: charliejackcoding@gmail.com
+Requires-Python: >=3.10.1
+License-File: LICENSE
