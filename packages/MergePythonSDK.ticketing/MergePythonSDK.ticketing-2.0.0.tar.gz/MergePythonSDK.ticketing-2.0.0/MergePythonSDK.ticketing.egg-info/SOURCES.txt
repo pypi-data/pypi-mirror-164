@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+MergePythonSDK.ticketing.egg-info/PKG-INFO
+MergePythonSDK.ticketing.egg-info/SOURCES.txt
+MergePythonSDK.ticketing.egg-info/dependency_links.txt
+MergePythonSDK.ticketing.egg-info/requires.txt
+MergePythonSDK.ticketing.egg-info/top_level.txt
