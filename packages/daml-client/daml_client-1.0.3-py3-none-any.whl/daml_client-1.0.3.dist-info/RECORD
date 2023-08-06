@@ -1,0 +1,6 @@
+daml_client/__init__.py,sha256=AGXPR0i34cPxFngaypKUEg_wwIQrvNU8ZJS4r8kVtzc,90
+daml_client/daml_client.py.py,sha256=iunEibqH045W5BHYz0CAsGpTdB6c3nWH7ECgEuwrWds,12033
+daml_client-1.0.3.dist-info/METADATA,sha256=zvK3Y5rNihz2qBSnpcU5yEd-f8DXfY9VhIrrkrYLYpQ,342
+daml_client-1.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+daml_client-1.0.3.dist-info/top_level.txt,sha256=vrTeXB4ZgZuD85r5d4yu0bavg7APMtwC1wSLaLt0n7Q,12
+daml_client-1.0.3.dist-info/RECORD,,
