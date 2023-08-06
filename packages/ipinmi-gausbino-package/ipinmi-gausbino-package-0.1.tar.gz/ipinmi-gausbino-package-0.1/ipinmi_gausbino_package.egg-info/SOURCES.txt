@@ -1,0 +1,10 @@
+setup.py
+ipinmi-gausbino-package/Binomialdistribution.py
+ipinmi-gausbino-package/Gaussiandistribution.py
+ipinmi-gausbino-package/Generaldistribution.py
+ipinmi-gausbino-package/__init__.py
+ipinmi_gausbino_package.egg-info/PKG-INFO
+ipinmi_gausbino_package.egg-info/SOURCES.txt
+ipinmi_gausbino_package.egg-info/dependency_links.txt
+ipinmi_gausbino_package.egg-info/not-zip-safe
+ipinmi_gausbino_package.egg-info/top_level.txt
