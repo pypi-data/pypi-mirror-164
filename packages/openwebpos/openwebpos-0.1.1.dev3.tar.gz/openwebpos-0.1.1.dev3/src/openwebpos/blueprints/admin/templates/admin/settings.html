@@ -1,0 +1,23 @@
+{% extends 'layouts/base.html' %}
+
+
+{% block main %}
+
+    <div class="row mb0">
+        <div class="col s6 m3 waves-effect waves-light">
+            <a href="{{ url_for('admin.categories') }}">
+                <div class="card-panel blue-grey rounded center-align">
+                    <span class="white-text flow-text">Categories</span>
+                </div>
+            </a>
+        </div>
+        <div class="col s6 m3 waves-effect waves-light">
+            <a href="{{ url_for('admin.items') }}">
+                <div class="card-panel blue-grey rounded center-align">
+                    <span class="white-text flow-text">Items</span>
+                </div>
+            </a>
+        </div>
+    </div>
+
+{% endblock %}
