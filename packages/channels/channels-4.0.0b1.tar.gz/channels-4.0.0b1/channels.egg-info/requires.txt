@@ -1,0 +1,12 @@
+Django>=3.2
+asgiref<4,>=3.5.0
+
+[daphne]
+daphne>=4.0.0b1
+
+[tests]
+pytest
+pytest-django
+pytest-asyncio
+async-timeout
+coverage~=4.5
