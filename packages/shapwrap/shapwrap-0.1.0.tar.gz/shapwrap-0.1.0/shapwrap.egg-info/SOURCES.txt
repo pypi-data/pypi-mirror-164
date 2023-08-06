@@ -1,0 +1,8 @@
+README.md
+setup.py
+shapwrap/wrapper.py
+shapwrap.egg-info/PKG-INFO
+shapwrap.egg-info/SOURCES.txt
+shapwrap.egg-info/dependency_links.txt
+shapwrap.egg-info/requires.txt
+shapwrap.egg-info/top_level.txt
