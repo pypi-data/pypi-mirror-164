@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: daml-client
+Version: 1.0.6
+Summary: A demo for python packaging.
+Home-page: https://github.com/xxx
+Author: yut-75
+Author-email: xiao3952@foxmail.com
+License: MIT
+Description: ===========
+        daml_client
+        ===========
+         
+        This project provides a demo for packaging and distributing python application.
+Keywords: demo
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
