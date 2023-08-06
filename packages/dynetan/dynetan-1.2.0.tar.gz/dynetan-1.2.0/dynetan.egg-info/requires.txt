@@ -1,0 +1,14 @@
+MDAnalysis
+SciPy
+NumPy
+colorama
+pandas
+tqdm
+networkx
+numba
+cython
+h5py
+pympler
+python-louvain
+tzlocal
+recommonmark
