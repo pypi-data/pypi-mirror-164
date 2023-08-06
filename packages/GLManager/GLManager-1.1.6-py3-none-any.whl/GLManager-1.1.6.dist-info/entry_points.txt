@@ -1,0 +1,4 @@
+[console_scripts]
+vps = app.__main__:main_console
+vps-bot = bot.__main__:main
+vps-cli = app.__main__:main_cli
