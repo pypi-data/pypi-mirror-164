@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: authix
+Version: 0.0.4
+Summary: Authix - Authentication as a service
+Home-page: https://github.com/nymann/authix
+Maintainer: Kristian Nymann Jakobsen
+Maintainer-email: kristian@nymann.dev
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi (<1.0.0,>=0.79)
+Requires-Dist: passlib[bcrypt]
+Requires-Dist: pyjwt[crypto]
+Requires-Dist: redis
+Requires-Dist: pymongo
+Provides-Extra: all
+Requires-Dist: add-trailing-comma ; extra == 'all'
+Requires-Dist: black ; extra == 'all'
+Requires-Dist: devtools[pygmentz] ; extra == 'all'
+Requires-Dist: isort ; extra == 'all'
+Requires-Dist: mypy ; extra == 'all'
+Requires-Dist: nitpick ; extra == 'all'
+Requires-Dist: python-dotenv ; extra == 'all'
+Requires-Dist: types-redis ; extra == 'all'
+Requires-Dist: types-python-jose ; extra == 'all'
+Requires-Dist: types-passlib ; extra == 'all'
+Requires-Dist: unicorn ; extra == 'all'
+Requires-Dist: wemake-python-styleguide ; extra == 'all'
+Requires-Dist: uvicorn ; extra == 'all'
+Requires-Dist: pytest ; extra == 'all'
+Requires-Dist: pytest-cov ; extra == 'all'
+Requires-Dist: pytest-mock ; extra == 'all'
+Provides-Extra: dev
+Requires-Dist: add-trailing-comma ; extra == 'dev'
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: devtools[pygmentz] ; extra == 'dev'
+Requires-Dist: isort ; extra == 'dev'
+Requires-Dist: mypy ; extra == 'dev'
+Requires-Dist: nitpick ; extra == 'dev'
+Requires-Dist: python-dotenv ; extra == 'dev'
+Requires-Dist: types-redis ; extra == 'dev'
+Requires-Dist: types-python-jose ; extra == 'dev'
+Requires-Dist: types-passlib ; extra == 'dev'
+Requires-Dist: unicorn ; extra == 'dev'
+Requires-Dist: wemake-python-styleguide ; extra == 'dev'
+Requires-Dist: uvicorn ; extra == 'dev'
+Provides-Extra: tests
+Requires-Dist: pytest ; extra == 'tests'
+Requires-Dist: pytest-cov ; extra == 'tests'
+Requires-Dist: pytest-mock ; extra == 'tests'
+
+# Authix
+
+_Authentication as a microservice_
+
+## Development
+
+For help getting started developing check [DEVELOPMENT.md](DEVELOPMENT.md)
