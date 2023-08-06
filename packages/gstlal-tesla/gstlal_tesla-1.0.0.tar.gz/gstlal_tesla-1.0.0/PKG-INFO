@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: gstlal_tesla
+Version: 1.0.0
+Summary: GstLAL-based sub-threshold lensed gravitational waves search pipeline
+Home-page: https://git.ligo.org/chun-lung.chan/tesla/
+Author: Alvin K.Y. Li, Juno C.L. Chan
+Author-email: kli7@caltech.edu, clchan@link.cuhk.edu.hk
+License: UNKNOWN
+Description: Insert long description here.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX
+Requires-Python: >=3.6
