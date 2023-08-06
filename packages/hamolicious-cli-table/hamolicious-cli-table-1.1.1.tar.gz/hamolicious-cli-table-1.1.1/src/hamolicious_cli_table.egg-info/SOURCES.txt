@@ -1,0 +1,12 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+src/cli_table/__init__.py
+src/cli_table/aligners.py
+src/cli_table/table.py
+src/cli_table/util.py
+src/hamolicious_cli_table.egg-info/PKG-INFO
+src/hamolicious_cli_table.egg-info/SOURCES.txt
+src/hamolicious_cli_table.egg-info/dependency_links.txt
+src/hamolicious_cli_table.egg-info/top_level.txt
