@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/keyio/__init__.py
+src/keyio.egg-info/PKG-INFO
+src/keyio.egg-info/SOURCES.txt
+src/keyio.egg-info/dependency_links.txt
+src/keyio.egg-info/requires.txt
+src/keyio.egg-info/top_level.txt
