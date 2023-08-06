@@ -1,0 +1,8 @@
+alicebot/adapter/dingtalk/__init__.py,sha256=LAA4eDdD9B6efgc07xxe47dGvPDPmw35tpjgcTyMIpA,5497
+alicebot/adapter/dingtalk/config.py,sha256=UbqKIoaz78sgG6zvGH6erqjDsSvjHAFqKo0z_9oC14M,623
+alicebot/adapter/dingtalk/event.py,sha256=mv5RGPAZvZ6iYO0yu_th3u64iNMCTr7bzhTZmRMos7Q,2366
+alicebot/adapter/dingtalk/exceptions.py,sha256=RfkmkNV3c9BkiMd4MOXdL1TmMup0B2ywTFcWJ1WSrZo,390
+alicebot/adapter/dingtalk/message.py,sha256=v8XAJBAc5IWAsi45v0moJrCZk_Fr_V3-SvFiUGN3psU,3203
+alicebot_adapter_dingtalk-0.2.2.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+alicebot_adapter_dingtalk-0.2.2.dist-info/METADATA,sha256=gq21YGKuQF2Hh2jKjJr4JMUMnEYZXkWSgD_YZK2zcgo,1226
+alicebot_adapter_dingtalk-0.2.2.dist-info/RECORD,,
