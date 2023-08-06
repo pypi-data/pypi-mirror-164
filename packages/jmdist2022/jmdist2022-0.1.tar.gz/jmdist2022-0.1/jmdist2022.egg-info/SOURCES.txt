@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+jmdist2022/Binomialdistribution.py
+jmdist2022/Gaussiandistribution.py
+jmdist2022/Generaldistribution.py
+jmdist2022/__init__.py
+jmdist2022.egg-info/PKG-INFO
+jmdist2022.egg-info/SOURCES.txt
+jmdist2022.egg-info/dependency_links.txt
+jmdist2022.egg-info/not-zip-safe
+jmdist2022.egg-info/top_level.txt
