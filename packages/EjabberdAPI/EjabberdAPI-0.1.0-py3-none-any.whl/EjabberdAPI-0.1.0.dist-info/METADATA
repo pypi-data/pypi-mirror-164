@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: EjabberdAPI
+Version: 0.1.0
+Summary: Python wrapper for the [Ejabberd](https://www.ejabberd.im) API.
+Home-page: https://git.mastodont.cat/pla/EjabberdAPI.py
+Author: spla
+Author-email: spla@catala.digital
+Project-URL: Bug Tracker, https://git.mastodont.cat/spla/EjabberdAPI.py/issues
+Keywords: ejabberd xmpp chat omemo
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Communications
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet :: XMPP
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
+# EjabberdAPI
+Python wrapper for Ejabberd API.
