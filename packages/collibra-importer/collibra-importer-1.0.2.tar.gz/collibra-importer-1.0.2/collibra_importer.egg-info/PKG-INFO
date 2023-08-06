@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: collibra-importer
+Version: 1.0.2
+Summary: Collibra Import API
+Home-page: 
+Author: OpenAPI Generator community
+Author-email: team@openapitools.org
+Keywords: OpenAPI,OpenAPI-Generator,Collibra Import API
+License-File: LICENSE.txt
+
+    The Import API is an efficient way to load large volumes of data into the Collibra Data Governance Center. The API can automatically differentiate between creating and updating data.  # noqa: E501
+    
