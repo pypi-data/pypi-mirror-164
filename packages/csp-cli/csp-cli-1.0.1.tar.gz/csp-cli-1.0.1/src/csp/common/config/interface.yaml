@@ -1,0 +1,17 @@
+# 后端接口地址配置
+
+search:
+  dataset: http://27.196.43.166:30000/devkitClient/dataSetList
+  resource: http://27.196.43.166:30000/devkitClient/findRes
+  docker: http://27.196.43.166:30000/devkitClient/getDockerImagesInfo
+
+download:
+  dataset: http://27.196.43.166:30000/devkitClient/downDataSet
+  resource: http://27.196.43.166:30000/devkitClient/downRes
+
+list:
+  resource: http://27.196.43.166:30000/devkitClient/resList
+
+info:
+  dataset: http://27.196.43.166:30000/
+  resource: http://27.196.43.166:30000/devkitClient/getInfo
