@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+src/PieRl.egg-info/PKG-INFO
+src/PieRl.egg-info/SOURCES.txt
+src/PieRl.egg-info/dependency_links.txt
+src/PieRl.egg-info/requires.txt
+src/PieRl.egg-info/top_level.txt
+src/pierl.egg-info/PKG-INFO
+src/pierl.egg-info/SOURCES.txt
+src/pierl.egg-info/dependency_links.txt
+src/pierl.egg-info/requires.txt
+src/pierl.egg-info/top_level.txt
