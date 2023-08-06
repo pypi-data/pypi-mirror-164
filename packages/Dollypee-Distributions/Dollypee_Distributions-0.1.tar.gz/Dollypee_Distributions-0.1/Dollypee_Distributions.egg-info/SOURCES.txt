@@ -1,0 +1,11 @@
+README.md
+setup.py
+Dollypee_Distributions.egg-info/PKG-INFO
+Dollypee_Distributions.egg-info/SOURCES.txt
+Dollypee_Distributions.egg-info/dependency_links.txt
+Dollypee_Distributions.egg-info/not-zip-safe
+Dollypee_Distributions.egg-info/top_level.txt
+distributions/Binomialdistribution.py
+distributions/Gaussiandistribution.py
+distributions/Generaldistribution.py
+distributions/__init__.py
