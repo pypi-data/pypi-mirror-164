@@ -1,0 +1,15 @@
+
+[dev]
+autopep8
+bandit
+black
+bumpversion
+flake8
+isort
+mypy
+pep8
+pre-commit
+pylint
+pytest
+pytest-mock
+rope
