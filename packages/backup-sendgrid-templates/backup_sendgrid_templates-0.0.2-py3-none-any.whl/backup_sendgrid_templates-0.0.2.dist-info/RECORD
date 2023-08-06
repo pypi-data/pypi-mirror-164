@@ -1,0 +1,11 @@
+backup_sendgrid_templates/__init__.py,sha256=sXLh7g3KC4QCFxcZGBTpG2scR7hmmBsMjq6LqRptkRg,22
+backup_sendgrid_templates/__main__.py,sha256=oX0FtaQSUPMRI7Ngz44VKlb-7i3PsBZG4jdWVSuMPBw,1161
+backup_sendgrid_templates/aws_utils.py,sha256=KnpyPvY6IvUSIPW_5OBUM18TTebFfSrAIRaFf-n5ht8,563
+backup_sendgrid_templates/service.py,sha256=Mcq2xLxeIdOX5Xvw2oHXR-f-3ibuuJ9E6VlRUBBgaCU,3989
+backup_sendgrid_templates/strategies.py,sha256=TDJu0xnVIKRvbUAs7iksnY8GARsZr49LgdtyQNk-pBc,3515
+backup_sendgrid_templates-0.0.2.dist-info/LICENSE,sha256=Nk918Umo6ALftYpXcqVqY6VMZv4efimY_XEl_5-DXkk,1080
+backup_sendgrid_templates-0.0.2.dist-info/METADATA,sha256=jD1oITqbLize84-99fcYUqct5YcPWS4jFRR-Q2Y8Qyw,4007
+backup_sendgrid_templates-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+backup_sendgrid_templates-0.0.2.dist-info/entry_points.txt,sha256=ot6r_-_mdjXWlzVSZSfxCGald5tZ9AqDS6NbaaDF4O8,179
+backup_sendgrid_templates-0.0.2.dist-info/top_level.txt,sha256=3nzqviCAWn9TcZKALwvBdt9Vw7fy9Q45cbitisxMwy0,26
+backup_sendgrid_templates-0.0.2.dist-info/RECORD,,
