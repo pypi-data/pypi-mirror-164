@@ -1,0 +1,12 @@
+dask_histogram/__init__.py,sha256=NCnt2Qa1yngk0L7pY6oNK4X-mY_Wp6TBV_k0yiTuAhs,675
+dask_histogram/bins.py,sha256=_5gCHshbxCLr4Y_ygM6hbYCsBfTu4VoUvDCixuzr81g,6417
+dask_histogram/boost.py,sha256=UgcuOiYISsIHXMpJgsvW0avyVwtLx9LAF3Rt7fE9uwk,28824
+dask_histogram/core.py,sha256=ssVL63X0PGoRsRLMZ_n54FEbCpO4ICOYxDVC063Xrw8,29508
+dask_histogram/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dask_histogram/routines.py,sha256=gQtMi5KDDEJ7wtLmoDSGNfJdEEEtDGBsNggJSbG62B0,16836
+dask_histogram/typing.py,sha256=Am4EXuFBhjjLoREI8YcJEt44zpdHo4XTWbf41uVRYVw,436
+dask_histogram/version.py,sha256=s8KLuFgVuWX0-NpZ1nsKaoJMZw-9qbTyS7p8vz9n4QM,182
+dask_histogram-2022.8.0.dist-info/METADATA,sha256=gjT3OFJQb8cBrWx4AoAAvtC_pLxV3T3MkPud8NQT5tU,2980
+dask_histogram-2022.8.0.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+dask_histogram-2022.8.0.dist-info/licenses/LICENSE,sha256=uvDdB2CwkwIsJx04ah6ZV2xvBxQeVO8IKiPhzcnIndY,1517
+dask_histogram-2022.8.0.dist-info/RECORD,,
