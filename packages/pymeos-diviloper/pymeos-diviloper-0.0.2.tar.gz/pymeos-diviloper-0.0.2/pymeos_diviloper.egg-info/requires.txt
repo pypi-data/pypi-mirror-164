@@ -1,0 +1,7 @@
+pymeos-cffi
+python-dateutil
+spans
+postgis
+shapely
+cartopy<0.20
+movingpandas
