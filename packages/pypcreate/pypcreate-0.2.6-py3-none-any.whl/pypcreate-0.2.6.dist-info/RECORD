@@ -1,0 +1,13 @@
+pypcreate/__init__.py,sha256=0EGVjkTVVAU_vY2Sm79zhLBIqvtaK0MTSkP2uMKorBQ,114
+pypcreate/create.py,sha256=pi35uFNYY8llyRk5nCBtboun4a6hrLI2fEOZlIkh8a0,2007
+pypcreate/create_func.py,sha256=l0fX00nMFcqLFUrO4vrLQTV-FnWZv2dN9p54Wtx0yXo,2442
+pypcreate/example.yaml,sha256=9Os6AhUWpRoujFEDoSwWjq4DixeDTIpUc16RWRthXMQ,355
+pypcreate/utils.py,sha256=gGwSQKE03Y-ViOoMltKBewtzfK5J_JhZG2insVi_eBo,2437
+pysetup_template/__init__.py,sha256=Cb3xGFfodw_qbvwjyYsc60XWLCUNwI4reRYPmsc9pq4,117
+pysetup_template/setup.py,sha256=0y-jxBd1OP_YPNybzbryrwHAzPFJ6Ncm3PGdUvxk-Js,982
+pypcreate-0.2.6.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+pypcreate-0.2.6.dist-info/METADATA,sha256=lO2AMyWuzUa4Ti6DbIkBg5a0BV38cYEQFwMsA1nOP0k,2036
+pypcreate-0.2.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pypcreate-0.2.6.dist-info/entry_points.txt,sha256=8Rbgp2hQc90W8Gqswxt6LK85A_rIeYQ2NisMQ7vCybI,52
+pypcreate-0.2.6.dist-info/top_level.txt,sha256=NlPF3sfkP29P9yzFtITznzXeD0ycInfsy-5Isi4323M,27
+pypcreate-0.2.6.dist-info/RECORD,,
