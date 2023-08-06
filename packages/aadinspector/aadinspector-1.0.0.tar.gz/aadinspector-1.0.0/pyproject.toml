@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "aadinspector"
+dynamic = ["version"]
+authors = [{ name = "Dinesh Kushwaha", email = "2kush.dinesh@gmail.com" }]
+description = "This package help to validate azure ad jwt token."
+readme = "README.md"
+license = { file = "LICENSE" }
+keywords = ["python", "azure active directory", "jwt", "token", "validation"]
+requires-python = ">=3.6"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+dependencies = ["cryptography==37.0.4", "PyJWT==2.4.0","requests==2.28.1"]
+
+[tool.setuptools.dynamic]
+version = { attr = "aadinspector.__version__" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+# [tool.setuptools.package-data]
+# aadinspector = ["*.txt",".json"]
+
+[project.scripts]
+pigeon = "aadinspector.inspector_cli:startup"
+
+[project.urls]
+"Homepage" = "https://github.com/dinesh-kushwaha/aadinspector"
+"Bug Tracker" = "https://github.com/dinesh-kushwaha/aadinspector/issues"
