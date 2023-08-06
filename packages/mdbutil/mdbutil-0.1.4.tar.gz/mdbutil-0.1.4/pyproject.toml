@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "mdbutil"
+version = "0.1.4"
+description = "Utilities to run SQL and load a CSV/TSV (gz) file into MariaDB"
+authors = ["Eetu Mäkelä <eetu.makela@iki.fi>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+tqdm = "^4.64.0"
+PyMySQL = "^1.0.2"
+click = "^8.1.3"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+load-db = "mdbutil.loaddb:load_db"
+run-sql = "mdbutil.runsql:run_sql"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
