@@ -1,0 +1,9 @@
+README.md
+setup.py
+newsdataio/__init__.py
+newsdataio/news.py
+newsdataio/version.py
+newsdataio.egg-info/PKG-INFO
+newsdataio.egg-info/SOURCES.txt
+newsdataio.egg-info/dependency_links.txt
+newsdataio.egg-info/top_level.txt
