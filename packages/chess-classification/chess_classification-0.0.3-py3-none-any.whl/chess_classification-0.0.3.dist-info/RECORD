@@ -1,0 +1,10 @@
+chess_classification/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chess_classification/chess_classification.py,sha256=EE9XaXpSp8dD4qQkx9-vDwlbpb21H-FJcu7e342jaP0,1639
+chess_classification/genPgn.py,sha256=eDDzfCiT7z6crQ2NSCGFXkkVDgyIUD4tZxV51qOR9f4,2127
+chess_classification/importPgn.py,sha256=JjI2bnRdRxmP0jPpu6QCRH7cE1Lf8aawJRqUE82NhMI,1720
+chess_classification-0.0.3.dist-info/LICENSE.txt,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+chess_classification-0.0.3.dist-info/METADATA,sha256=z-FJkYsoIR3ofAFgkqoK27n3clh4vlmxdv0sES5GMGg,1306
+chess_classification-0.0.3.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+chess_classification-0.0.3.dist-info/entry_points.txt,sha256=FtOyocw_3Q5dkM5R8njR_cIIXcB_bMSDpbQoaR7fgL4,129
+chess_classification-0.0.3.dist-info/top_level.txt,sha256=Xlj9GXrJPfbUVFvQAHSUw5DnpDcFrRD7alhb4OUB9Ig,21
+chess_classification-0.0.3.dist-info/RECORD,,
