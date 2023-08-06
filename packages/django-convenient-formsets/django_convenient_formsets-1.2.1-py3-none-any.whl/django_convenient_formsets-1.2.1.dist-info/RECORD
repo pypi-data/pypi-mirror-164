@@ -1,0 +1,10 @@
+convenient_formsets/__init__.py,sha256=MELMwkUt5doQQFHsP55Mg7TUB1n6KB3e_vQzaYkUdSg,344
+convenient_formsets/apps.py,sha256=bLjDQTK9gzcQtALvWpSfLW9ZUt7i5JpY0XdwB-F1c0s,153
+convenient_formsets/formsets.py,sha256=0O4NNPkOGTNk5iTRlzn58I6kyeeHFM1osKb8HGCH1Y8,2432
+convenient_formsets/static/convenient_formsets/convenient_formsets.js,sha256=tdcT3gNwrh30jvj_D2Qr083rvUGYwEi-9m5HDXAOQkM,26323
+convenient_formsets/static/convenient_formsets/convenient_formsets.min.js,sha256=YwUCr9TD4LMNCA5m9onQoRu4sxKDmV7BhNTdq_MtlXo,13627
+django_convenient_formsets-1.2.1.dist-info/LICENSE,sha256=zbZ8NegEHD946WpD86uV3EwJrDCXqUh7z-qO1ZGZBf4,1532
+django_convenient_formsets-1.2.1.dist-info/METADATA,sha256=9srsfVFLvK0pjJqiB0NCdhP9yyii1WOnntbtqBk4urM,10642
+django_convenient_formsets-1.2.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+django_convenient_formsets-1.2.1.dist-info/top_level.txt,sha256=uRdOuTn-AMmQ5bQT-1X-sXm-IYs1mwKuLTz05xjEVdc,20
+django_convenient_formsets-1.2.1.dist-info/RECORD,,
