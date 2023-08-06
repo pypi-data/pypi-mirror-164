@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+ehispassword/__init__.py
+ehispassword/passwordexplainer.py
+ehispassword/passwordgenerator.py
+ehispassword.egg-info/PKG-INFO
+ehispassword.egg-info/SOURCES.txt
+ehispassword.egg-info/dependency_links.txt
+ehispassword.egg-info/top_level.txt
