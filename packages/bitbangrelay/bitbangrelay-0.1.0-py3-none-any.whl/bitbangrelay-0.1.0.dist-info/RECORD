@@ -1,0 +1,11 @@
+bitbangrelay/__init__.py,sha256=nX-kmOJVyViYMSWnoo_amx1kER0kMeTfNvrFCTo_4G4,233
+bitbangrelay/__main__.py,sha256=FbK_lfbmyFJANNUdirbfFVlPU5u9sDg0l6N2J2NKOvc,1628
+bitbangrelay/relay.py,sha256=buNwz2yiZjj5LA1ARpZfOQG0fvfkP3qmg-OvFiYv5fg,2970
+bitbangrelay-0.1.0.dist-info/Apache-2.0.txt,sha256=Z6uEQmxeL3oNI9_OS3p17hqz6MiBdigKqm1t8geMIug,10255
+bitbangrelay-0.1.0.dist-info/CC-BY-4.0.txt,sha256=7c0hyauupom08_UpP9pKbWZ6l34JOEjiVNZaaODZ-7I,16627
+bitbangrelay-0.1.0.dist-info/CC0-1.0.txt,sha256=ogEPNDSH0_dhiv_lT3ifVIdgIzHAqNA_SemnxUfPBJk,7048
+bitbangrelay-0.1.0.dist-info/METADATA,sha256=O7phsDNqx173ZNUaKYUSeSe_OdQyYRy612B8y7O7Uck,4429
+bitbangrelay-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bitbangrelay-0.1.0.dist-info/entry_points.txt,sha256=fRUBtkXAmYX49hFn8TVepHBVRsMFAVvoqeelw6Ee1vM,60
+bitbangrelay-0.1.0.dist-info/top_level.txt,sha256=rR8RP2AqLIpuKQx2uTjhLBCpr9J5KjpT8fliOA-h998,13
+bitbangrelay-0.1.0.dist-info/RECORD,,

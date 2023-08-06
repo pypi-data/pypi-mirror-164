@@ -1,0 +1,2 @@
+[console_scripts]
+bitbangrelay = bitbangrelay.__main__:main
