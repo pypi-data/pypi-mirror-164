@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyspectcl
+Version: 0.3.2
+Summary: Python interface to SpecTcl server
+Home-page: UNKNOWN
+Author: Tong Zhang
+Author-email: zhangt@frib.msu.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Physics
+Requires-Dist: pandas (==1.1.4)
+Requires-Dist: requests (==2.24.0)
+Requires-Dist: simplejson (==3.16.0)
+
+UNKNOWN
+
+
