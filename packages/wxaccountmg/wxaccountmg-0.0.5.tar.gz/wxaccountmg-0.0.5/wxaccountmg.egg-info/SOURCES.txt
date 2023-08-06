@@ -1,0 +1,9 @@
+README.md
+setup.py
+wx/__init__.py
+wx/wx_test.py
+wxaccountmg.egg-info/PKG-INFO
+wxaccountmg.egg-info/SOURCES.txt
+wxaccountmg.egg-info/dependency_links.txt
+wxaccountmg.egg-info/requires.txt
+wxaccountmg.egg-info/top_level.txt
