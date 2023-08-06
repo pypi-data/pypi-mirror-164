@@ -1,0 +1,15 @@
+surfaces/__init__.py,sha256=n3a5hDXZv4b-AVocqGn8RcaS2XkABC6IrtjJpl_ul6w,121
+surfaces/base_objective_function.py,sha256=Auob0pHx8DPYiTakyffll0YMRO4uhuUVCFWhspobK1k,1192
+surfaces/test_functions.py,sha256=IwtYN_D48PD2rQucR7v37SO6dzUa9Rt_n-tcZroJmqw,10063
+surfaces/visualize.py,sha256=5d9W5_MTS12Lr42HhNzzQQljBiPtyI5hjrWIIQyr-aA,3508
+surfaces/machine_learning/__init__.py,sha256=L7EAbp2wvJCp3RKWLE4SpUn0k59CkEBextqgMaS1_VI,78
+surfaces/machine_learning/base_machine_learning_function.py,sha256=b87P1s-iM6N8mdhy_4vk4rZY07E1XTcoD9J_a6BNecQ,2338
+surfaces/machine_learning/machine_learning_functions.py,sha256=W_YVrMK-vj_XYXkdP_yAtJtSZnZg0STvZiPZW0ywo9A,994
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_arrays_input.py,sha256=vGddqhlRlfUb-2y_UKifMVFN_3AcKyq6gt42Jm9eQtA,1892
+tests/test_optimization.py,sha256=3MZ2uDo-TGMb6aNWKSIsoC-BNTaNpVlgalGy8mE1ISU,3134
+surfaces-0.0.7.dist-info/LICENSE,sha256=O_PC0c7QLEIrMjzCtvU1zuRDnajd4QUwXsa8FowQgfg,1069
+surfaces-0.0.7.dist-info/METADATA,sha256=wxkDxxBkdbWOWfVV-iBQIO7EelX38RZP7-6RrlufQ1Y,5039
+surfaces-0.0.7.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+surfaces-0.0.7.dist-info/top_level.txt,sha256=jzGcUHG7eovLiONXVZ10-WV4ZC53_d8woyMRWd8mhBQ,15
+surfaces-0.0.7.dist-info/RECORD,,
