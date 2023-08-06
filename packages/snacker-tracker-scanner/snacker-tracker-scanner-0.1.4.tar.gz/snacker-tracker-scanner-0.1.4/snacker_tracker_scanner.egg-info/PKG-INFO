@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: snacker-tracker-scanner
+Version: 0.1.4
+Summary: Pipe barcode scanner input events to a remote web service
+Home-page: https://github.com/snacker-tracker/scanner
+Author: lmac
+Author-email: leprechaun@gmail.com
+License: MIT
+Keywords: barcode scanner snacker-tracker
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Provides-Extra: evdev
+License-File: LICENSE
+
+# Snacker-Tracker/Scanner
+
+This is the bit that just reads a barcode scanner and transmits over the wire.
+
+Most barcode scanners I've seen basically act like a keyboard that just "types" the code as you scan items. If we were running this in the foreground, it'd be pretty simple, but since we're running this in the background as a systemd unit, then we need to capture that input from a special device type. That abstraction is done by the `evdev` lib.
+
+
+
+Documentation
+-------------
+
+The full documentation is at http://snacker-tracker-scanner.rtfd.org.
+
+# Changelog
+
+## 0.1.0 (2019-10-31)
+
+* First non-released version
