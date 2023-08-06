@@ -1,0 +1,9 @@
+djib/__init__.py,sha256=OVbUCNlwiIiZxG_zbuyYkwqPV-BsWeoV-u7TssPUETE,130
+djib/constants.py,sha256=4h4EMbtoMvRqyTtCx-Vr0BjgBkT-I70z_vovdCmPxQ0,315
+djib/dtypes.py,sha256=fNI7CzdID5UqR9mas91lIyOOH2sBqrjCzb8uP4VqVXg,3051
+djib/kms.py,sha256=FrIZ3gFc3gwFVx9T1G_lxe-mBb6XkGU05hYDDprKFtI,3843
+djib/rpc.py,sha256=fjuFx9lb_FY9bbae-bxvBOZ6ra2T1kdCdCpae2QSR9c,21934
+djib-0.1.1.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+djib-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+djib-0.1.1.dist-info/METADATA,sha256=DqCDW3aEl_QkQeC_qkDIUoekQW5jDr1W4PvsnCpoi4U,2280
+djib-0.1.1.dist-info/RECORD,,
