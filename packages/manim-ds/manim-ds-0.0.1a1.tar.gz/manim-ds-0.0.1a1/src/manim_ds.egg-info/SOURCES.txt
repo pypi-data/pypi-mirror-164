@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/manim_ds/__init__.py
+src/manim_ds/animations.py
+src/manim_ds/colours.py
+src/manim_ds/mlist.py
+src/manim_ds.egg-info/PKG-INFO
+src/manim_ds.egg-info/SOURCES.txt
+src/manim_ds.egg-info/dependency_links.txt
+src/manim_ds.egg-info/requires.txt
+src/manim_ds.egg-info/top_level.txt
