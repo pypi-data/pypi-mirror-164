@@ -1,0 +1,72 @@
+Metadata-Version: 2.1
+Name: qutrunk
+Version: 0.1.9
+Summary: qutrunk is an open source library for quantum computing.
+Home-page: http://www.qudoor.com/
+License: Apache-2.0
+Keywords: qutrunk,quantum,sdk
+Author: qudoorzh2022
+Author-email: qudoorzh2022@163.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: networkx (>=2.8,<3.0)
+Requires-Dist: numba (>=0.56.0,<0.57.0)
+Requires-Dist: numpy (>=1.22.3,<2.0.0)
+Requires-Dist: ply (>=3.11,<4.0)
+Requires-Dist: pyyaml (>=6.0,<7.0)
+Requires-Dist: requests (>=2.27.1,<3.0.0)
+Requires-Dist: retworkx (>=0.11.0,<0.12.0)
+Requires-Dist: thrift (>=0.15.0,<0.16.0)
+Description-Content-Type: text/markdown
+
+## qutrunk
+qutrunk is an quantum programming framework developed by QuDoor corporation, provide the required APIs for quantum programming, it works as follow: 
+
+Export quantum programs based on quantum circuit, qubit and quantum gate, etc. Then you can run the 
+quantum circuit by the following two ways:
+1. Use PC for quantum computing(work as the default way). 
+2. Connect with QuBox(a quantum device developed by qudoor), to run quantum programs, it provide more powerful quantum computing. 
+
+## Install
+1. Install from whl package, run the following command directly:
+```
+pip install qutrunk
+```
+
+2. Install from source code, run the following command to install qutrunk by source code:
+```
+python3 setup.py install
+```
+
+## Example:
+bell-pair quantum algorithm：
+
+```
+from qutrunk.circuit import QCircuit
+from qutrunk.circuit.gates import H, CNOT, Measure
+
+qc = QCircuit()
+qr = qc.allocate(2) # allocate
+
+H | qr[0]   # apply gate
+CNOT | (qr[0], qr[1])
+Measure | qr[0]
+Measure | qr[1]
+
+qc.print(qc)   # print circuit
+res = qc.run(shots=1024) # run circuit
+print(res.get_counts()) # print result
+```
+
+ ## License
+ Apache Licence 2.0
+
+ Copyright (c) 2022-2025 By QUDOOR Technolgies Inc. All Right Reserved.
