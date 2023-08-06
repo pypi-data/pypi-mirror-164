@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: insider-scraper
+Version: 1.0.2
+Summary: A simple CLI app for scraping events from insider.in
+Home-page: https://github.com/MinatoNamikaze02/insider-scraper
+Download-URL: 
+Author: S Arjhun
+Author-email: arjunsreedar@yahoo.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.0.0
+Description-Content-Type: text/markdown
+
+# insider-scraper
+A simple CLI app for scraping events from insider.in
+# Installation
+## Using Pip
+```bash
+  $ pip install insider-scraper
+```
+## Manual
+```bash
+  $ git clone https://github.com/MinatoNamikaze02/insider-scraper
+  $ cd insider-scraper
+  $ python setup.py install
+```
+# Usage
+```bash
+$ cver
+```
+## Search
+`search <keyword>`
+```bash
+$ cver search python
+```
+## Lookup
+`search <name>`
+```bash
+$ cver look-up CVE-2020-2121
+```
