@@ -1,0 +1,13 @@
+ranker/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ranker/__main__.py,sha256=Ksb-1LJZKCpUj1FiRFw3D0NCFyD22oTSVBQEEV0AJf4,74
+ranker/modules/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ranker/modules/main.py,sha256=Uap4UOPRQxSXcN9AlCvVijOStLI4m6vWrXQQ2MtvnVw,2408
+ranker/modules/ranker.py,sha256=ENvR8Q_y1V-TrIppDQH539z3_0gJDHxXS46txWqlObo,4149
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_ranking.py,sha256=PYmipnNUuhXMIvuKbduZ8n2e3Ru5Oyl7BypcBPL9iYA,1855
+ranker-0.0.1.dist-info/LICENSE,sha256=GSAKapQH5ZIGWlpQTA7v5YrfECyaxaohUb1vJX-qepw,1090
+ranker-0.0.1.dist-info/METADATA,sha256=nCShlO6Bd4ujSnxJjU8xUjMTIJB-G4x4HnAQPZyYJM8,2601
+ranker-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ranker-0.0.1.dist-info/entry_points.txt,sha256=L3CpMqkumcdT5XJ6qYDj0B-NiKmO4oULxeg6qNbnAYI,53
+ranker-0.0.1.dist-info/top_level.txt,sha256=r2RexPqa56C1gmxsfzFOgbJ_06wybOMg_evZsqnkqEM,13
+ranker-0.0.1.dist-info/RECORD,,

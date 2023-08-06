@@ -1,0 +1,79 @@
+Metadata-Version: 2.1
+Name: ranker
+Version: 0.0.1
+Summary: Generates rankings
+Home-page: https://github.com/julianlefunk/ranker
+Author: Julian Colmenares
+Author-email: juliancpelayo@protonmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Ranker
+
+**Ranker** is a CLI tool that processes results from games and generates a ranking table into stdout.
+
+    1. Tarantulas, 6 pts
+    2. Lions, 5 pts
+    3. FC Awesome, 1 pt
+    4. Snakes, 1 pt
+    5. Grouches, 0 pts
+
+**The rules**
+A draw (tie) is worth 1 point and a win is worth 3 points. A loss is worth 0 points. If two or more teams have the same number of points, they should have the same rank and be printed in alphabetical order (as in the tie for 3rd place in the sample data).
+
+
+## Installation & Requirements
+
+**Ranker** has been tested in Python versions 3.7 - 3.9. It is recomended to have at least Python 3.7 with [PIP](https://pip.pypa.io/en/stable/installation/) installed.
+
+Run the following command:
+```bash
+# Install package from PyPI
+$ pip install ranker
+```
+
+## Usage
+
+**Format**
+The input must contain results of games one per line and must have this format:
+
+    Lions 3, Snakes 3
+    Tarantulas 1, FC Awesome 0
+    Lions 1, FC Awesome 1
+    Tarantulas 3, Snakes 1
+    Lions 4, Grouches 0
+
+
+**File**
+```bash
+$ ranker path/to/file
+```
+
+**Ranker** accepts a file path as an optional argument to process the information inside the file and returns the ranking table.
+
+**Stdin**
+```bash
+$ ranker
+```
+
+If no argument is provided to **Ranker**, it will read the input from stdin and stop when it finds an empty line then returns the result.
+
+## Tests
+
+The tests can be run from the project root directory using the following command:
+
+```bash
+$ python -m unittest
+```
+
+## References
+
+This CLI uses the [argparse](https://docs.python.org/3/library/argparse.html) library for command-line parsing, and the [unittest](https://docs.python.org/3/library/unittest.html) framework for testing, both of which come by default in the Python [standard library](https://docs.python.org/3/library/) being this the main reason I decided to use them in the project.
+
+The project was built using [setuptools](https://pypi.org/project/setuptools/), and distributed to the [Python Package Index (PyPI)](https://pypi.org/) using [twine](https://twine.readthedocs.io/en/stable/).
+
+For a detailed Python Packaging Guide visit: https://packaging.python.org/en/latest/
