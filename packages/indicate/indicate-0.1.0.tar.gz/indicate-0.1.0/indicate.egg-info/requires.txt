@@ -1,0 +1,10 @@
+tqdm
+func-timeout
+tensorflow
+tensorflow_addons
+
+[dev]
+check-manifest
+
+[test]
+coverage
