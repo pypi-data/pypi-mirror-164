@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: lzstr
+Version: 0.0.1
+Summary: Native Python implementation of LZString string compression
+Home-page: https://github.com/johndoe31415/pylzstring
+Author: Johannes Bauer
+Author-email: joe@johannes-bauer.com
+License: gpl-3.0
+Download-URL: https://github.com/johndoe31415/pylzstring/archive/v0.0.1.tar.gz
+Keywords: python,lzstring
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# lzstr
+This is a native Python3.10+ lzstring decompression library.
+
+So far it only supports decompression.
+
+## License
+GNU GPL-3.
+
+
