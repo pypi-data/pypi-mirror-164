@@ -1,0 +1,6 @@
+OP_AUTH_RESPONSE    = 0x0014
+OP_AUTH_CHALLENGE   = 0x8021
+OP_AUTH_RESULT      = 0x8022
+
+MODE_SSO            = 0
+MODE_LOCAL          = 1
