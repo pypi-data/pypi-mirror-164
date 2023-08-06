@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+fullstory_api/fullstory_api.egg-info/PKG-INFO
+fullstory_api/fullstory_api.egg-info/SOURCES.txt
+fullstory_api/fullstory_api.egg-info/dependency_links.txt
+fullstory_api/fullstory_api.egg-info/top_level.txt
