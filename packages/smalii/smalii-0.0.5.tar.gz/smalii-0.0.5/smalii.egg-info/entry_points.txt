@@ -1,0 +1,2 @@
+[console_scripts]
+smalii = smalii.cli:main
