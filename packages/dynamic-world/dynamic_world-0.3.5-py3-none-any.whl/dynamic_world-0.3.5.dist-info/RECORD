@@ -1,0 +1,11 @@
+dynamic_world/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dynamic_world/calculations.py,sha256=9MfcDJUPS7YukRquAtsQa2gwEuBAAwEpEAixzQyMVzc,5003
+dynamic_world/configurations.py,sha256=U8mgFwY9pe-3ksa4wbgAHynNx5gDRom3kSikvP6OWyE,3652
+dynamic_world/constants.py,sha256=COau3asiIfOS7uWmFwxdq70kc8IouWDP9txHKSTA8So,613
+dynamic_world/downloads.py,sha256=FGJzMO6f9HdYlpT7f0gC2jY_rMIMtrvwi7wtBzfhTpY,2742
+dynamic_world/errors.py,sha256=a_hywybPEe25L6qSl-EC1u_-e5Foook1d8issDewvB4,816
+dynamic_world/utils.py,sha256=71HZkmmpx9g4nrjPNtTuW3qFC7L_lAHQCb5Y4tpIxDI,2365
+dynamic_world-0.3.5.dist-info/LICENSE,sha256=ld8ulWSGLlHWloOombbcyCGNV3BXvfZzIogHaf-F8p4,18649
+dynamic_world-0.3.5.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+dynamic_world-0.3.5.dist-info/METADATA,sha256=U8OkfuMnXX0O5Y-sPA4SZ4F-7gJsL8kpZqXabMBfHUU,5344
+dynamic_world-0.3.5.dist-info/RECORD,,
