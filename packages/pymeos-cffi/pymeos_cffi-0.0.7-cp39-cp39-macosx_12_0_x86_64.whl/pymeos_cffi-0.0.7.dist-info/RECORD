@@ -1,0 +1,16 @@
+_meos_cffi.abi3.so,sha256=a1PYTku0KUWBY_2A2pr2BvBNvU0JWZtdK4KYGZR5Dx4,1090088
+pymeos_cffi/__init__.py,sha256=xj6d0EGBslRMqwegomzD_egs_JIiUAgqULcq3ZW7t1I,25
+pymeos_cffi/functions.py,sha256=7Z2vNsnyszZBbmn5-XtaofYY3HJi1j4_7lBF7XjZDxs,325194
+pymeos_cffi/builder/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pymeos_cffi/builder/build_header.py,sha256=qtZ2ZciVk5a2CbJFh1uzPY3J4q1fq5NyFuxdDuUCqXs,389
+pymeos_cffi/builder/build_helpers.py,sha256=WPDy2T33F2UTFDuSmcJTy1yheJXU1GDZL-avs5kKK2U,10623
+pymeos_cffi/builder/build_pymeos.py,sha256=xuCOIs2GUJjsUs6_7yPi6AecERHlIIhXxdNpX1LYAps,595
+pymeos_cffi/builder/build_pymeos_functions.py,sha256=W1drXrPR8cjxqv2GNYEjXsJcf80Sffd4ckmkrRaGO7c,15097
+pymeos_cffi/builder/build_pymeos_functions_modifiers.py,sha256=IyfCoQF7iFK6u04dAYp5ed56ZeYyUh-ICH4AA5M1OH0,1168
+pymeos_cffi/builder/meos.h,sha256=17LziBv373dZyIzQlSw9pRIqxnhhHwToWaHNOPhEbDE,104983
+pymeos_cffi/builder/objects.py,sha256=9olr3vVQQ5WFhMX39bf0RFc79dsDDz1mEpU4aZ4nf_s,3252
+pymeos_cffi-0.0.7.dist-info/LICENSE,sha256=P7ZOCjjTgKceVctiVC6rGXF2LSJkBXoXm1eWO2x1LMg,1265
+pymeos_cffi-0.0.7.dist-info/METADATA,sha256=7mi86XFRkwbbNjKx2msYBhzrNSv-ocDzTRFC4blGwdg,2415
+pymeos_cffi-0.0.7.dist-info/WHEEL,sha256=y7K-tAFFmwxZCcxZHQCi4mvY6zksAe2r-anRy0Gcypg,109
+pymeos_cffi-0.0.7.dist-info/top_level.txt,sha256=jSIcIDEBRlgZB-u-IYc7stvpq63jDQzGE2OzZdyTgrs,23
+pymeos_cffi-0.0.7.dist-info/RECORD,,
