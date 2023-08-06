@@ -1,0 +1,11 @@
+master_screen/__init__.py,sha256=WhmPbAcHG2jGT2GWPdYkDjSlDnf2iKH21v0a2jFJh6o,268
+master_screen/__main__.py,sha256=Qr8pTDjEIosI_df7IXK7jVHVPqNVt2bB10hTS00F6KA,1560
+master_screen/version.py,sha256=MBwUztTZbYRRHlxGbtWFij2xduBj_Vt9yrSEgxROtic,323
+master_screen/data/logger.ini,sha256=ZoO6pYOXDLSVIFYjpTxU3fKOx3I1xXIhmWpdb6cEUsU,541
+master_screen-0.0.1.data/scripts/master-screen,sha256=dMnpasQBoDZ4jjpNXx2vOKzEvUnF2ZKIrG_0WG0VeDc,315
+master_screen-0.0.1.dist-info/LICENSE,sha256=HyVuytGSiAUQ6ErWBHTqt1iSGHhLmlC8fO7jTCuR8dU,16725
+master_screen-0.0.1.dist-info/METADATA,sha256=2D9B89bu7QQlrjM7JvfTIsk0bPMIGvP-kqvyBQV_-Yk,1425
+master_screen-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+master_screen-0.0.1.dist-info/entry_points.txt,sha256=U8t-3jsWVhFZ_AaIhiZWbwo7Wiat2wjuModIWM5KbgA,62
+master_screen-0.0.1.dist-info/top_level.txt,sha256=nmOkuQDoIyVbexZjBzWngh67z2xb4KKvJIicH2sb1_A,14
+master_screen-0.0.1.dist-info/RECORD,,
