@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: lwdp
+Version: 0.0.1
+Summary: Lightweight Data Pipeline for with code-based stage cacheing
+Author-email: Nick Padon <npadon@gmail.com>
+License: MIT License
+        
+        Copyright (c) 2022 Nick Padon
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+Project-URL: Homepage, https://github.com/npadon/lwdp
+Project-URL: Bug Tracker, https://github.com/npadon/lwdp/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Lightweight Data Pipeline (LWDP)
+
+LWDP attempts to fill the niche for structuring pure-Python data transformations,
+with robust data- and code-based-cacheing across a few locales. 
+
+Because sometimes Spark or Dask or AWS Glue or anything other than a 5kb library and some
+dumbly hashed files is just too much.
+
+LWDP is meant for the case where you're doing a few data transformations, possibly across
+multiple input file types (csvs, Excel, parquet, etc.). Each of these files can generally (although
+not strictly) be held in memory. 25 csvs with structured transformations that you'd like to keep organized
+and possibly streamline with cacheing? LWDP could be the answer.
+
+If the data changes or your code changes, you want to be able to refresh the data pipeline *once* - and,
+ideally, only those parts of the data pipeline who need to be refreshed.
+
+# Installation
+
+You should be able to install from PyPi with `pip install lwdp`
