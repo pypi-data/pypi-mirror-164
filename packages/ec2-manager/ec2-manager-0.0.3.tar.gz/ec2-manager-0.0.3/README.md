@@ -1,0 +1,54 @@
+# EC2 Manager
+
+[![Publish Package](https://github.com/jamesbaber1/ec2-manager/actions/workflows/publish-package.yaml/badge.svg)](https://github.com/jamesbaber1/ec2-manager/actions/workflows/publish-package.yaml)
+
+A python wrapper around a terraformed ec2 deployment. It awaits instances till their done initializing and allows the user more control over updating or not updating particular instances.
+
+## Dependencies
+* [Terraform](https://www.terraform.io/downloads.html) The python package deploys a terraform module.
+* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) Boto3 commands check the instance status and send it ssm commands. 
+* [GitHub](https://github.com) Optional methods that clone a repo on your ec2.
+* [Docker](https://docs.docker.com/) Optional methods that run compose up and down on your instance.
+* [Python](https://www.python.org/downloads/)
+
+## Installation
+You can install this package with pip by running the command below.
+```shell
+pip install ec2-manager
+```
+
+## Usage
+Here is a basic example of 
+
+### config.yaml
+```yaml
+# globals
+type: some-group-name
+aws_region: us-east-1
+vpc_name: "Default VPC"
+public_subnet_cidr: "172.31.64.0/20"
+
+# instance configurations
+instances:
+  instance-1:
+    update: True
+```
+
+### custom_manager.py
+```python
+import ec2_manager
+
+class CustomManager(ec2_manager.EC2Manager):
+    def update(self):
+        """
+        Update the bots according to the config.
+        """
+        self.create_instances()
+        self.update_repos()
+        self.stop()
+        self.start()
+
+if __name__ == '__main__':
+    custom_manager = ec2_manager.CustomManager()
+    custom_manager.update()
+```
