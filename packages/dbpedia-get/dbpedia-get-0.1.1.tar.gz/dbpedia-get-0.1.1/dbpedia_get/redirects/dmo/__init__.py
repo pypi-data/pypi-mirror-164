@@ -1,0 +1,2 @@
+from .dbpedia_redirects_parser import DBpediaRedirectsParser
+from .dbpedia_redirects_lookup import DbPediaRedirectsLookup
