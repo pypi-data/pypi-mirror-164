@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+mmconfig/mmconfig.egg-info/PKG-INFO
+mmconfig/mmconfig.egg-info/SOURCES.txt
+mmconfig/mmconfig.egg-info/dependency_links.txt
+mmconfig/mmconfig.egg-info/top_level.txt
