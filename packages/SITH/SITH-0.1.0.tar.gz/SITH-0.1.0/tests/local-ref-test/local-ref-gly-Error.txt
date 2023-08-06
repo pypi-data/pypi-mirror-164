@@ -1,0 +1,6 @@
+Deformation        ΔE         Expected ΔE      %Error        Error      
+Gly-opt08       0.000000E+00    0.000000E+00         nan    0.000000E+00
+Gly-streched06    1.751223E-02    1.853109E-03      845.02    1.565912E-02
+Gly-streched07    3.802138E-03    6.690364E-04      468.30    3.133102E-03
+Gly-streched08    3.282187E-04    2.949091E-04       11.29    3.330961E-05
+Gly-streched09    3.182210E-02    3.686784E-03      763.14    2.813531E-02
