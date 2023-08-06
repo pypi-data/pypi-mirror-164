@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: xmipy
+Version: 1.2.0
+Summary: xmipy is an extension to the bmipy Python package
+Home-page: https://github.com/Deltares/xmipy
+Download-URL: https://pypi.org/project/xmipy/
+Author: Martijn Russcher, Julian Hofer, Joseph D. Hughes
+Author-email: Martijn.Russcher@deltares.nl, Julian.Hofer@deltares.nl, jdhughes@usgs.gov
+License: CC0
+Platform: Windows
+Platform: Mac OS-X
+Platform: Linux
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+Classifier: Topic :: Scientific/Engineering :: Hydrology
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: bmipy
+Requires-Dist: numpy
+Provides-Extra: lint
+Requires-Dist: mypy ; extra == 'lint'
+Requires-Dist: black ; extra == 'lint'
+Requires-Dist: isort ; extra == 'lint'
+Provides-Extra: tests
+Requires-Dist: pytest ; extra == 'tests'
+Requires-Dist: pytest-cov ; extra == 'tests'
+Requires-Dist: requests ; extra == 'tests'
+Requires-Dist: mfpymake ; extra == 'tests'
+Requires-Dist: flopy ; extra == 'tests'
+
+# xmipy
+
+![Continuous integration](https://github.com/Deltares/xmipy/workflows/Continuous%20integration/badge.svg)
+[![codecov](https://codecov.io/gh/Deltares/xmipy/branch/develop/graph/badge.svg)](https://codecov.io/gh/Deltares/xmipy)
+
+
+`xmipy` is an extension to [bmipy](https://pypi.org/project/bmipy/) including an implementation of the abstract methods.
+The extended interface is required to couple certain hydrological kernels, particularly MODFLOW 6. Currently it is a joint development of the USGS and Deltares. The [imod_coupler](https://github.com/Deltares/imod_coupler) uses it, for example, to couple Modflow 6 and MetaSWAP.
+
+`xmipy` can be installed by running
+```
+pip install xmipy
+```
+
+# Contributing
+
+In order to develop on `xmipy` locally, execute the following line inside your virtual environment
+
+```bash
+pip install -e ".[tests, lint]"
+```
