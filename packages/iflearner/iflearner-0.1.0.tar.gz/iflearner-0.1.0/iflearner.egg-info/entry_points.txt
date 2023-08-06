@@ -1,0 +1,3 @@
+[console_scripts]
+ifl_server = iflearner.business.homo.aggregate_server:main
+
