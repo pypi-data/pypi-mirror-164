@@ -1,0 +1,10 @@
+adafruit_pn532/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+adafruit_pn532/adafruit_pn532.py,sha256=gcTfpjas9XzyMFPTuEjEKbxNvra2Rx44bI9776K7Er8,19796
+adafruit_pn532/i2c.py,sha256=pMFEQTsQaBp8s-HP185ltpGMWy7QTAWmG8sFlYn4SZ8,3012
+adafruit_pn532/spi.py,sha256=uhiyht1-xs5XoUma9XNwU1GuNKwAULoTW_9jbby9JZA,3758
+adafruit_pn532/uart.py,sha256=y7pRFNhkzH3gx3yH-MIZF7dCM6TLD3G3HTG4MRPokg0,2180
+adafruit_circuitpython_pn532-2.3.13.dist-info/LICENSE,sha256=pkSMCsmhQH8jLZmNntD2zARj8EDtZTAU87BLdU2IV5o,1098
+adafruit_circuitpython_pn532-2.3.13.dist-info/METADATA,sha256=67TLLzy-xXkIwWEJ2XUusWt8PNsLR7DhwNm0q06d8RU,3540
+adafruit_circuitpython_pn532-2.3.13.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+adafruit_circuitpython_pn532-2.3.13.dist-info/top_level.txt,sha256=HeW-EXl0aH1Znv3deiUQfJJaEhlGDLJbZM2vVGuJ1Vk,15
+adafruit_circuitpython_pn532-2.3.13.dist-info/RECORD,,
