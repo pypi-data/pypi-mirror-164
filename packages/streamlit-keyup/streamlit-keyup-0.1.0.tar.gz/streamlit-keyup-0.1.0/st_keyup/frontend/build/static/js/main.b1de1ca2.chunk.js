@@ -1,0 +1,2 @@
+(this.webpackJsonpst_keyup=this.webpackJsonpst_keyup||[]).push([[0],{3:function(e,t,a){"use strict";a.r(t);var n=a(1);function s(e){n.a.setComponentValue(e.target.value)}n.a.events.addEventListener(n.a.RENDER_EVENT,(function(e){var t=e.detail.args.label,a=document.getElementsByTagName("input")[0],n=document.getElementsByTagName("label")[0];n&&(n.innerText=t),a.onkeyup=s})),n.a.setComponentReady(),n.a.setFrameHeight(93)}},[[3,1,2]]]);
+//# sourceMappingURL=main.b1de1ca2.chunk.js.map
