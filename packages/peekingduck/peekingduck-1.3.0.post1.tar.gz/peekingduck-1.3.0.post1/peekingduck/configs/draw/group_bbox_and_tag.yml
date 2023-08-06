@@ -1,0 +1,4 @@
+input: ["img", "bboxes", "obj_attrs", "large_groups"]
+output: ["none"]
+
+tag: "LARGE GROUP!"
