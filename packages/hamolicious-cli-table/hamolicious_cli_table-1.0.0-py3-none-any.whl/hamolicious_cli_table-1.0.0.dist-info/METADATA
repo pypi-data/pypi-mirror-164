@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: hamolicious-cli-table
+Version: 1.0.0
+Summary: Print tables directly in the terminal
+Home-page: https://github.com/hamolicious/Console-Table
+Author: Hamolicous
+Author-email: hamolicious@protonmail.com
+License: { file="LICENSE" }
+Project-URL: Bug Tracker, https://github.com/hamolicious/Console-Table/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10.4
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# Console-Table
+Displaying Tables in the console
