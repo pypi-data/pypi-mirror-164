@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: alicona-converter
+Version: 1.0.9
+Summary: Convert data between the output format of the alicona microscope and the tribo-x input format
+Author-email: Felix Fischer <f.fischer@ifas.rwth-aachen.de>
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: numba
+Requires-Dist: scientific-plots
+Provides-Extra: dev
+Requires-Dist: mypy ; extra == 'dev'
+Requires-Dist: typing-extensions ; extra == 'dev'
+Requires-Dist: pylint ; extra == 'dev'
+Requires-Dist: flake8 ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+
