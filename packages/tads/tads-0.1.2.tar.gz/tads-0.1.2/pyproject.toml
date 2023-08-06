@@ -1,0 +1,21 @@
+[tool.poetry]
+authors = ["FL03 <jo3mccain@icloud.com>"]
+description = "Tads is reserved for ..."
+name = "tads"
+version = "0.1.2"
+
+
+[tool.poetry.dependencies]
+numpy = "latest"
+openpyxl = "latest"
+pandas = "latest"
+python = ">=3.9,<3.11"
+python-multipart = "latest"
+xlrd = "latest"
+
+[tool.poetry.dev-dependencies]
+pytest = "latest"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
