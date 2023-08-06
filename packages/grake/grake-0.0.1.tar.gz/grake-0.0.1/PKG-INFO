@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: grake
+Version: 0.0.1
+Summary: tool for managing storage on the UM GReat lAKE cluster
+License: MIT
+Author-email: Andrew Robbins <robbiand@med.umich.edu>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# grake
+
+tool for managing storage on the UM GReat lAKE cluster
+
