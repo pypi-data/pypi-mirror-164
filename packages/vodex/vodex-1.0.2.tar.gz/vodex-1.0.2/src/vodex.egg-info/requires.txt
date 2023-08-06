@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+pathlib
+tifffile
+tqdm
+
+[dev]
+bumpver
+pytest

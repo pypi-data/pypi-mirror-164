@@ -1,0 +1,13 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+src/vodex/__init__.py
+src/vodex/core.py
+src/vodex/dbmethods.py
+src/vodex/utils.py
+src/vodex.egg-info/PKG-INFO
+src/vodex.egg-info/SOURCES.txt
+src/vodex.egg-info/dependency_links.txt
+src/vodex.egg-info/requires.txt
+src/vodex.egg-info/top_level.txt
