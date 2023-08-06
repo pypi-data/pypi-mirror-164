@@ -1,0 +1,19 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rblx-open-cloud"
+version = "0.1.0"
+description = "Read the latest Real Python tutorials"
+readme = "README.md"
+dependencies = [
+    "requests",
+    "python-dateutil"
+]
+requires-python = ">=3.9"
+packages = [
+    "rblx_opencloud"
+]
