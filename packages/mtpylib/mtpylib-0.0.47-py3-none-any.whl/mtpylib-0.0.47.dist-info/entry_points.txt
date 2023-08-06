@@ -1,0 +1,6 @@
+[console_scripts]
+dc = console_scripts.app:entry_dc
+dockerdev = console_scripts.dockerdev:console_script_entry
+gitup = console_scripts.gitup:console_script_entry
+sm = console_scripts.main:console_script_entry
+
