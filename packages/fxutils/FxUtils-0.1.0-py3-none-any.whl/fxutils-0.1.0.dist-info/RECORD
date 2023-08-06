@@ -1,0 +1,15 @@
+fxutils/__init__.py,sha256=udfuQR5Q44dfyO4lFTMJ54LlXA6ti3ymwkSFGJyj7mo,53
+fxutils/historyreader/__init__.py,sha256=TBk78UgDfd53Ro6mGvjmeesBftmRP8HVQhfzLi5vMR8,312
+fxutils/historyreader/backtest_report.py,sha256=zy3h9a4s-Y9xQC8zcqM130BLKEf73dcxK1kgV1J4hpc,18724
+fxutils/historyreader/mql5.py,sha256=Ur3QozmXRiVs1SwRzrGxHjjdII8mNd-LorjCdecAGgE,2598
+fxutils/historyreader/mt5.py,sha256=EASmKw7kntu7i5JTtP729y6DFnDdixcikjgWk2JjEVA,4657
+fxutils/historyreader/myfxbook.py,sha256=uZn-W5N7LPZuvUfsKT5o56tUnPANA3ZgYIkdOYqyHsE,1075
+fxutils/historyreader/reader.py,sha256=AVryQGlj47Ra2-sWSCBh2I6QWUm_314V6xJJxi4_E7E,8554
+fxutils/mt5wrapper.py,sha256=BPQ-tDXftsuTkZ-jR4_KRkxkxXkhy6jTEfVTl9EeG7M,14330
+fxutils/portfolio/Portfolio.py,sha256=8Wikm3hA4HDLW-HDsNUhAtJHxVAivzjfEhKYe8NaUPE,3790
+fxutils/portfolio/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fxutils/tools/newsfilter.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fxutils/utils.py,sha256=ru_wx5uz1i6U3TvrQCdsrFX17SKDoaj-8I--vhZTcms,2451
+fxutils-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+fxutils-0.1.0.dist-info/METADATA,sha256=dzksB0amteCIB9d0H8W6eYWc1nd3jWTTtSLVctY32pI,474
+fxutils-0.1.0.dist-info/RECORD,,
