@@ -1,0 +1,12 @@
+django_chapa/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_chapa/admin.py,sha256=suMo4x8I3JBxAFBVIdE-5qnqZ6JAZV0FESABHOSc-vg,63
+django_chapa/api.py,sha256=wno4kfupj0gMy0mckT89MUQeOEiQJzyXy32yrxAzX-E,1588
+django_chapa/apps.py,sha256=ewu9udsscBmCOsZZYNy_mrOginpRFbNeaXBJjFWkb5U,142
+django_chapa/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_chapa/models.py,sha256=hYQ__uWduJ_H-6oX-ZYYBHP2Qn47ni8rgbfdxxow6x0,1212
+django_chapa/tests.py,sha256=mrbGGRNg5jwbTJtWWa7zSKdDyeB4vmgZCRc2nk6VY-g,60
+django_chapa/urls.py,sha256=xPhuu1QqigAZCRulkGQXQmUZBtvAfzjljFusu9g91oY,102
+django_chapa/views.py,sha256=iNJmaHylwD6qjfmpF16PE_XhlnD5QxTA4QgAZ3kZpQg,687
+django_chapa-1.0.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+django_chapa-1.0.1.dist-info/METADATA,sha256=4wr9vLWyC2cnNautPmQ-HPdXN79kwdoJsPRYqndHTo0,1547
+django_chapa-1.0.1.dist-info/RECORD,,
