@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: mo-gym
+Version: 0.1.1
+Summary: Environments for Multi-Objective RL.
+Home-page: https://www.github.com/LucasAlegre/mo-gym
+Author: LucasAlegre
+Author-email: lnalegre@inf.ufrgs.br
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: gym (==0.24.1)
+Requires-Dist: numpy
+Requires-Dist: pygame
+Requires-Dist: scipy
+Requires-Dist: pymoo
+Provides-Extra: all
+Requires-Dist: nes-py ; extra == 'all'
+Requires-Dist: gym-super-mario-bros ; extra == 'all'
+Requires-Dist: scipy ; extra == 'all'
+Provides-Extra: mario
+Requires-Dist: nes-py ; extra == 'mario'
+Requires-Dist: gym-super-mario-bros ; extra == 'mario'
+Provides-Extra: minecart
+Requires-Dist: scipy ; extra == 'minecart'
+
