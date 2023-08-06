@@ -1,0 +1,12 @@
+views_mapper2/BBoxWriter.py,sha256=G_sXOrAiW_c75JS8gP25mhWYAEX4wOOSHEnZ4SmGd0U,2538
+views_mapper2/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+views_mapper2/assets/logo_transparent.png,sha256=v9v5iMkUW9peRezcqEXHT1yeMzxic2TXUYOwjFHyiuM,19434
+views_mapper2/color.py,sha256=P6IfmgUcMqSle15Iv06tUhmS3kUCk5X8eXNs8C2Ns3I,3242
+views_mapper2/config.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+views_mapper2/dictionary_writer.py,sha256=DRFG8n6rtvCq1UnsLTqSUsGD-f3tkuhQgqiuVcMmQsE,2896
+views_mapper2/label_writer.py,sha256=SsptwiUGqEs8_ZcYXJBZwtSPnYEzTnmRos1fzSASK2U,7541
+views_mapper2/mapper2.py,sha256=Yv5z6BVTl9-Uo-6okfblRNXSL8h5TNtUbFLP3mEOV-4,12406
+views_mapper2/utils.py,sha256=Xj1QDBzGdlCJpmFYI3YOoeULnGqdELKw27wrYmjkn7I,6125
+views_mapper2-1.4.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+views_mapper2-1.4.0.dist-info/METADATA,sha256=dtPYS6MBmbvmQrMVkfIlrlo5IiDBaw4LqsiVcT8VdCc,565
+views_mapper2-1.4.0.dist-info/RECORD,,
