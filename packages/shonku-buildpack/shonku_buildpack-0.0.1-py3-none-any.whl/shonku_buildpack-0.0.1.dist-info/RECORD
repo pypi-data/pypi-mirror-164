@@ -1,0 +1,8 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+buildpack.py,sha256=9teC395k3JafsZX6USJx5WghxWGeJniwVyywh_FLIuY,959
+main.py,sha256=Z3AsR9N-_v1Dx4oL0EOq5-89cFTCmEyvzAfO0Fc-KjQ,128
+sh_buildpack.py,sha256=l99ldxq-0602eLjUCtRFVRQ48SqnNi-2R_US1MeQ2e4,944
+shonku_buildpack-0.0.1.dist-info/METADATA,sha256=StaKzf8pPUv5UcuvMwNHYmwTwPN9LNhqlmJ9oWQu4hs,661
+shonku_buildpack-0.0.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+shonku_buildpack-0.0.1.dist-info/top_level.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+shonku_buildpack-0.0.1.dist-info/RECORD,,
