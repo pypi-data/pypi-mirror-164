@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dfshell
+Version: 1.1
+Summary: The Best Forwarded Shell
+Home-page: https://github.com/D3Ext/DFShell
+Author: D3Ext
+Author-email: d3ext@proton.me
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
