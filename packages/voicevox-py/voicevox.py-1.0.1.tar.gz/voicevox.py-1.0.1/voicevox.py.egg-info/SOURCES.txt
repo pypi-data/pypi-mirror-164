@@ -1,0 +1,8 @@
+setup.py
+voicevox/__init__.py
+voicevox/webapi.py
+voicevox.py.egg-info/PKG-INFO
+voicevox.py.egg-info/SOURCES.txt
+voicevox.py.egg-info/dependency_links.txt
+voicevox.py.egg-info/requires.txt
+voicevox.py.egg-info/top_level.txt
