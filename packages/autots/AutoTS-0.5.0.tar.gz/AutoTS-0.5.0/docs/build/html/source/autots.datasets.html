@@ -1,0 +1,312 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>autots.datasets package &#8212; AutoTS 0.5.0 documentation</title>
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="autots.evaluator package" href="autots.evaluator.html" />
+    <link rel="prev" title="autots package" href="autots.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="autots-datasets-package">
+<h1>autots.datasets package<a class="headerlink" href="#autots-datasets-package" title="Permalink to this headline">¶</a></h1>
+<section id="submodules">
+<h2>Submodules<a class="headerlink" href="#submodules" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="module-autots.datasets.fred">
+<span id="autots-datasets-fred-module"></span><h2>autots.datasets.fred module<a class="headerlink" href="#module-autots.datasets.fred" title="Permalink to this headline">¶</a></h2>
+<p>FRED (Federal Reserve Economic Data) Data Import</p>
+<p>requires API key from FRED
+and pip install fredapi</p>
+<dl class="function">
+<dt id="autots.datasets.fred.get_fred_data">
+<code class="sig-prename descclassname">autots.datasets.fred.</code><code class="sig-name descname">get_fred_data</code><span class="sig-paren">(</span><em class="sig-param">fredkey: str</em>, <em class="sig-param">SeriesNameDict: dict = None</em>, <em class="sig-param">long=True</em>, <em class="sig-param">observation_start=None</em>, <em class="sig-param">sleep_seconds: int = 1</em>, <em class="sig-param">**kwargs</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.fred.get_fred_data" title="Permalink to this definition">¶</a></dt>
+<dd><p>Imports Data from Federal Reserve.
+For simplest results, make sure requested series are all of the same frequency.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>fredkey</strong> (<em>str</em>) – an API key from FRED</p></li>
+<li><p><strong>SeriesNameDict</strong> (<em>dict</em>) – pairs of FRED Series IDs and Series Names like: {‘SeriesID’: ‘SeriesName’} or a list of FRED IDs.
+Series id must match Fred IDs, but name can be anything
+if None, several default series are returned</p></li>
+<li><p><strong>long</strong> (<em>bool</em>) – if True, return long style data, else return wide style data with dt index</p></li>
+<li><p><strong>observation_start</strong> (<em>datetime</em>) – passed to Fred get_series</p></li>
+<li><p><strong>sleep_seconds</strong> (<em>int</em>) – seconds to sleep between each series call, reduces failure chance usually</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+</section>
+<section id="module-autots.datasets">
+<span id="module-contents"></span><h2>Module contents<a class="headerlink" href="#module-autots.datasets" title="Permalink to this headline">¶</a></h2>
+<p>Tools for Importing Sample Data</p>
+<dl class="function">
+<dt id="autots.datasets.load_daily">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_daily</code><span class="sig-paren">(</span><em class="sig-param">long: bool = True</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_daily" title="Permalink to this definition">¶</a></dt>
+<dd><p>2020 Covid, Air Pollution, and Economic Data.</p>
+<p>Sources: Covid Tracking Project, EPA, and FRED</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><p><strong>long</strong> (<em>bool</em>) – if True, return data in long format. Otherwise return wide</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_monthly">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_monthly</code><span class="sig-paren">(</span><em class="sig-param">long: bool = True</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_monthly" title="Permalink to this definition">¶</a></dt>
+<dd><p>Federal Reserve of St. Louis monthly economic indicators.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_yearly">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_yearly</code><span class="sig-paren">(</span><em class="sig-param">long: bool = True</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_yearly" title="Permalink to this definition">¶</a></dt>
+<dd><p>Federal Reserve of St. Louis annual economic indicators.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_hourly">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_hourly</code><span class="sig-paren">(</span><em class="sig-param">long: bool = True</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_hourly" title="Permalink to this definition">¶</a></dt>
+<dd><p>Traffic data from the MN DOT via the UCI data repository.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_weekly">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_weekly</code><span class="sig-paren">(</span><em class="sig-param">long: bool = True</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_weekly" title="Permalink to this definition">¶</a></dt>
+<dd><p>Weekly petroleum industry data from the EIA.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_weekdays">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_weekdays</code><span class="sig-paren">(</span><em class="sig-param">long: bool = False</em>, <em class="sig-param">categorical: bool = True</em>, <em class="sig-param">periods: int = 180</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_weekdays" title="Permalink to this definition">¶</a></dt>
+<dd><p>Test edge cases by creating a Series with values as day of week.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>long</strong> (<em>bool</em>) – if True, return a df with columns “value” and “datetime”
+if False, return a Series with dt index</p></li>
+<li><p><strong>categorical</strong> (<em>bool</em>) – if True, return str/object, else return int</p></li>
+<li><p><strong>periods</strong> (<em>int</em>) – number of periods, ie length of data to generate</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_live_daily">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_live_daily</code><span class="sig-paren">(</span><em class="sig-param">long: bool = False, observation_start: str = None, observation_end: str = None, fred_key: str = None, fred_series=['DGS10', 'T5YIE', 'SP500', 'DCOILWTICO', 'DEXUSEU', 'WPU0911'], tickers: list = ['MSFT'], trends_list: list = ['forecasting', 'cycling', 'microsoft'], trends_geo: str = 'US', weather_data_types: list = ['AWND', 'WSF2', 'TAVG'], weather_stations: list = ['USW00094846', 'USW00014925'], weather_years: int = 10, london_air_stations: list = ['CT3', 'SK8'], london_air_species: str = 'PM25', london_air_days: int = 180, earthquake_days: int = 180, earthquake_min_magnitude: int = 5, gsa_key: str = None, gov_domain_list=['nasa.gov'], gov_domain_limit: int = 600, wikipedia_pages: list = ['Microsoft_Office', 'List_of_highest-grossing_films'], wiki_language: str = 'en', weather_event_types=['%28Z%29+Winter+Weather', '%28Z%29+Winter+Storm'], timeout: float = 300.05, sleep_seconds: int = 2</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_live_daily" title="Permalink to this definition">¶</a></dt>
+<dd><p>Generates a dataframe of data up to the present day. Requires active internet connection.
+Try to be respectful of these free data sources by not calling too much too heavily.
+Pass None instead of specification lists to exclude a data source.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>long</strong> (<em>bool</em>) – whether to return in long format or wide</p></li>
+<li><p><strong>observation_start</strong> (<em>str</em>) – %Y-%m-%d earliest day to retrieve, passed to Fred.get_series and yfinance.history
+note that apis with more restricts have other default lengths below which ignore this</p></li>
+<li><p><strong>observation_end</strong> (<em>str</em>) – %Y-%m-%d most recent day to retrieve</p></li>
+<li><p><strong>fred_key</strong> (<em>str</em>) – <a class="reference external" href="https://fred.stlouisfed.org/docs/api/api_key.html">https://fred.stlouisfed.org/docs/api/api_key.html</a></p></li>
+<li><p><strong>fred_series</strong> (<em>list</em>) – list of FRED series IDs. This requires fredapi package</p></li>
+<li><p><strong>tickers</strong> (<em>list</em>) – list of stock tickers, requires yfinance pypi package</p></li>
+<li><p><strong>trends_list</strong> (<em>list</em>) – list of search keywords, requires pytrends pypi package. None to skip.</p></li>
+<li><p><strong>weather_data_types</strong> (<em>list</em>) – from NCEI NOAA api data types, GHCN Daily Weather Elements
+PRCP, SNOW, TMAX, TMIN, TAVG, AWND, WSF1, WSF2, WSF5, WSFG</p></li>
+<li><p><strong>weather_stations</strong> (<em>list</em>) – from NCEI NOAA api station ids. Pass empty list to skip.</p></li>
+<li><p><strong>london_air_stations</strong> (<em>list</em>) – londonair.org.uk source station IDs. Pass empty list to skip.</p></li>
+<li><p><strong>london_species</strong> (<em>str</em>) – what measurement to pull from London Air. Not all stations have all metrics.</p></li>
+<li><p><strong>earthquake_min_magnitude</strong> (<em>int</em>) – smallest earthquake magnitude to pull from earthquake.usgs.gov. Set None to skip this.</p></li>
+<li><p><strong>gsa_key</strong> (<em>str</em>) – api key from <a class="reference external" href="https://open.gsa.gov/api/dap/">https://open.gsa.gov/api/dap/</a></p></li>
+<li><p><strong>gov_domain_list</strong> (<em>list</em>) – dist of government run domains to get traffic data for. Can be very slow, so fewer is better.
+some examples: [‘usps.com’, ‘ncbi.nlm.nih.gov’, ‘cdc.gov’, ‘weather.gov’, ‘irs.gov’, “usajobs.gov”, “studentaid.gov”, ‘nasa.gov’, “uk.usembassy.gov”, “tsunami.gov”]</p></li>
+<li><p><strong>gov_domain_limit</strong> (<em>int</em>) – max number of records. Smaller will be faster. Max is currently 10000.</p></li>
+<li><p><strong>wikipedia_pages</strong> (<em>list</em>) – list of Wikipedia pages, html encoded if needed (underscore for space)</p></li>
+<li><p><strong>weather_event_types</strong> (<em>list</em>) – list of html encoded severe weather event types <a class="reference external" href="https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/Storm-Data-Export-Format.pdf">https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/Storm-Data-Export-Format.pdf</a></p></li>
+<li><p><strong>timeout</strong> (<em>float</em>) – used by some queries</p></li>
+<li><p><strong>sleep_seconds</strong> (<em>int</em>) – increasing this may reduce probability of server download failures</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_zeroes">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_zeroes</code><span class="sig-paren">(</span><em class="sig-param">long=False</em>, <em class="sig-param">shape=None</em>, <em class="sig-param">start_date: str = '2021-01-01'</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_zeroes" title="Permalink to this definition">¶</a></dt>
+<dd><p>Create a dataset of just zeroes for testing edge case.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_linear">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_linear</code><span class="sig-paren">(</span><em class="sig-param">long=False</em>, <em class="sig-param">shape=None</em>, <em class="sig-param">start_date: str = '2021-01-01'</em>, <em class="sig-param">introduce_nan: float = None</em>, <em class="sig-param">introduce_random: float = None</em>, <em class="sig-param">random_seed: int = 123</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_linear" title="Permalink to this definition">¶</a></dt>
+<dd><p>Create a dataset of just zeroes for testing edge case.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>long</strong> (<em>bool</em>) – whether to make long or wide</p></li>
+<li><p><strong>shape</strong> (<em>tuple</em>) – shape of output dataframe</p></li>
+<li><p><strong>start_date</strong> (<em>str</em>) – first date of index</p></li>
+<li><p><strong>introduce_nan</strong> (<em>float</em>) – percent of rows to make null. 0.2 = 20%</p></li>
+<li><p><strong>introduce_random</strong> (<em>float</em>) – shape of gamma distribution</p></li>
+<li><p><strong>random_seed</strong> (<em>int</em>) – seed for random</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_sine">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_sine</code><span class="sig-paren">(</span><em class="sig-param">long=False</em>, <em class="sig-param">shape=None</em>, <em class="sig-param">start_date: str = '2021-01-01'</em>, <em class="sig-param">introduce_random: float = None</em>, <em class="sig-param">random_seed: int = 123</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_sine" title="Permalink to this definition">¶</a></dt>
+<dd><p>Create a dataset of just zeroes for testing edge case.</p>
+</dd></dl>
+
+<dl class="function">
+<dt id="autots.datasets.load_artificial">
+<code class="sig-prename descclassname">autots.datasets.</code><code class="sig-name descname">load_artificial</code><span class="sig-paren">(</span><em class="sig-param">long=False</em>, <em class="sig-param">date_start=None</em>, <em class="sig-param">date_end=None</em><span class="sig-paren">)</span><a class="headerlink" href="#autots.datasets.load_artificial" title="Permalink to this definition">¶</a></dt>
+<dd><p>Load artifically generated series from random distributions.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>long</strong> (<em>bool</em>) – if True long style data, if False, wide style data</p></li>
+<li><p><strong>date_start</strong> – str or datetime.datetime of start date</p></li>
+<li><p><strong>date_end</strong> – str or datetime.datetime of end date</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../index.html">
+    <img class="logo" src="../_static/autots_logo.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+<p class="blurb">Automated Forecasting</p>
+
+
+
+
+<p>
+<iframe src="https://ghbtns.com/github-btn.html?user=winedarksea&repo=autots&type=watch&count=true&size=large&v=2"
+  allowtransparency="true" frameborder="0" scrolling="0" width="200px" height="35px"></iframe>
+</p>
+
+
+
+
+
+<h3>Navigation</h3>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="intro.html#autots">AutoTS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tutorial.html">Tutorial</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="modules.html">autots</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="autots.html">autots package</a></li>
+</ul>
+</li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+  <li><a href="modules.html">autots</a><ul>
+  <li><a href="autots.html">autots package</a><ul>
+      <li>Previous: <a href="autots.html" title="previous chapter">autots package</a></li>
+      <li>Next: <a href="autots.evaluator.html" title="next chapter">autots.evaluator package</a></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2022, Colin Catlin.
+      
+      |
+      <a href="../_sources/source/autots.datasets.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-166997414-1']);
+      _gaq.push(['_setDomainName', 'none']);
+      _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+  </body>
+</html>
