@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: npgame
+Version: 0.1.1
+Summary: Write simple games in Numpy!
+Home-page: http://github.com/danijar/npgame
+Author: Danijar Hafner
+Author-email: mail@danijar.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+
+npgame
+======
+
+Write simple games in Numpy!
+
+
