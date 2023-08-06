@@ -1,0 +1,7 @@
+resotonotebook/__init__.py,sha256=C-UPt2wSRyGaIG8FuU2Moux0DuyQCFitzEF4K3h89pM,6321
+resotonotebook/client.py,sha256=klSb5jlAjhQIzLOZ4wt17tD3YCMXiOmQAjWjL2yMtRQ,1631
+resotonotebook/pyodide_client.py,sha256=Q9QzfSRygoMhbrF7Hnckj4MnhMt5mTXHv0WCLm5tu9M,3961
+resotonotebook-0.2.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+resotonotebook-0.2.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+resotonotebook-0.2.0.dist-info/METADATA,sha256=HNB7L1Ga9lgURPf-kkA6NhgI2f9-qlBTNVhH2foYAoo,1833
+resotonotebook-0.2.0.dist-info/RECORD,,
