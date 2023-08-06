@@ -1,0 +1,9 @@
+setup.py
+auto_upload_bot/__init__.py
+auto_upload_bot/__main__.py
+auto_upload_bot/uploader.py
+i_upload.egg-info/PKG-INFO
+i_upload.egg-info/SOURCES.txt
+i_upload.egg-info/dependency_links.txt
+i_upload.egg-info/requires.txt
+i_upload.egg-info/top_level.txt
