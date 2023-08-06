@@ -1,0 +1,2 @@
+torch>=1.12
+torch-composer>=0.0.3
