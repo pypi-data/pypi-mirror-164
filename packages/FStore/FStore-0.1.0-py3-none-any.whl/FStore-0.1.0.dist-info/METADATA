@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: FStore
+Version: 0.1.0
+Summary: Key-value store in Python
+Home-page: https://github.com/colin-m-davis/kvs
+Author: Colin Davis
+Author-email: colinmichaelsdavis@gmail.com
+License: LICENSE.txt
+License-File: LICENSE.txt
+Requires-Dist: pylint
+
+# Vault
+A simple key-value store written in Python. 
+
+## Usage
+NOTE: Requires pip/pip3. Download the repository and run `$ pip3 install [path/to/repository]`. Now you can run `$ vault [init/connect] [path/to/database]`. The program will guide you through the rest!
