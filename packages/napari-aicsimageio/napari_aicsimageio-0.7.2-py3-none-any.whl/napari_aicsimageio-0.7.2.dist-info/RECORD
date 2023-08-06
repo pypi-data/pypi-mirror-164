@@ -1,0 +1,16 @@
+images/console-access.png,sha256=YU2sobsKkg3m1sVWh_F5zCS5fpCxa65RwjOMyXPLbvs,575159
+images/ome-tiff-with-metadata-viewer.png,sha256=8WOgpxaQD7tVRZJNIzCTiN87KEaA-_OwWjPu5UTZbQk,4399086
+images/scene-selection.gif,sha256=v5ZTxsgNiPlDdcMs57P4Lq-JuFNSZLokbZjYMYIop7o,20262175
+images/tiled-czi.png,sha256=4OSpmzlWXR_LSh2oXSF9pKy650HPGmUdtbN6q2fYYoI,2042551
+images/tiled-lif.png,sha256=PTNFQ_ESKtYeguPaiidfa-PEDtJ_w7L5tT15Y4b_Tx8,3583122
+napari_aicsimageio/__init__.py,sha256=FHYrt7WgYZ3o6ZAAkPjKuy1xcRUuJGbssSvvyv_rxpw,383
+napari_aicsimageio/core.py,sha256=l-RhWR4SedCYiD2UcvRfYZy-1uLRBtsnzlhlFDQnCTg,10132
+napari_aicsimageio/napari.yaml,sha256=bLyX1b4h2YskJuxTbnpAPf7RzrrYzZfiyNcg_lp8vK4,3182
+napari_aicsimageio/tests/conftest.py,sha256=VHNYkrkwDF0cCUSv-G0vzfswrhZuPzedgPFQMRD1ncY,181
+napari_aicsimageio/tests/test_core.py,sha256=3qIQl-cgO95rA-RSI_hsQXml8Ur0vdHlDkEmMRVDKK4,5024
+napari_aicsimageio-0.7.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+napari_aicsimageio-0.7.2.dist-info/METADATA,sha256=LQH0MTqtkY25Mup9Y3PnwyV7MhooHtxITegqw2Lqm_g,8653
+napari_aicsimageio-0.7.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+napari_aicsimageio-0.7.2.dist-info/entry_points.txt,sha256=NBTsK_QqIAgs41k--kyb5isOVd_bTAeoxrbuK4I5a1w,70
+napari_aicsimageio-0.7.2.dist-info/top_level.txt,sha256=ggmkdDzIMJLx04xsNU0-_SxRlhmMorKjdEeK2oylmQ0,26
+napari_aicsimageio-0.7.2.dist-info/RECORD,,
