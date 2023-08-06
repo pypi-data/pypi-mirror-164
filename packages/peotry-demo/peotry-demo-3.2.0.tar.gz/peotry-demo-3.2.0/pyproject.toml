@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "peotry-demo"
+version = "3.2.0"
+description = ""
+authors = ["SiyuCh <siyuch0308@gmail.com >"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = {version = "~=2.22.0", extras = ["security", "socks"]}
+pendulum = "^2.0.5"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
