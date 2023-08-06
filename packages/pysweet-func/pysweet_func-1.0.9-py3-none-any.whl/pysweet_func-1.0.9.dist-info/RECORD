@@ -1,0 +1,8 @@
+pysweet/__init__.py,sha256=K9hAYwEosG0hnDS7cEYulTJy63EmBXwZbRTspCl8ljE,65
+pysweet/block.py,sha256=Rik9F62lJbAoplhIlK2PyXt1rm1FPNNuG7xjojPmSOM,2294
+pysweet/func.py,sha256=ltGGcPa2S9iNMTnT_zBRnV1PxoiaBlwm9RrYShcX2kU,948
+pysweet/iterable.py,sha256=HclsuYtGQWV9xYOknlXry3Q4dN_kyn3DRnlLXQdwf2g,3439
+pysweet_func-1.0.9.dist-info/LICENSE,sha256=rqZjdcGisdNtjVoibdVrvGxAdc2tPzL7MCQ2_agzZNg,1072
+pysweet_func-1.0.9.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+pysweet_func-1.0.9.dist-info/METADATA,sha256=g7xra2cnwgd3eKdKF12Vz-Qe1Fhk_GKIIBmgHH4g7PM,4420
+pysweet_func-1.0.9.dist-info/RECORD,,
