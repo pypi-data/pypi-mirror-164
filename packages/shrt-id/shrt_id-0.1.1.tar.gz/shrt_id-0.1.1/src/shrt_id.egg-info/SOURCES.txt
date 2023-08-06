@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+src/shrt_id/__init__.py
+src/shrt_id.egg-info/PKG-INFO
+src/shrt_id.egg-info/SOURCES.txt
+src/shrt_id.egg-info/dependency_links.txt
+src/shrt_id.egg-info/top_level.txt
