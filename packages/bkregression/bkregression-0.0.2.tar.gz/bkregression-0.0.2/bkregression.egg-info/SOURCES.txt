@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+bkregression/__init__.py
+bkregression/kernel_smoothing.py
+bkregression/kernels.py
+bkregression.egg-info/PKG-INFO
+bkregression.egg-info/SOURCES.txt
+bkregression.egg-info/dependency_links.txt
+bkregression.egg-info/requires.txt
+bkregression.egg-info/top_level.txt
