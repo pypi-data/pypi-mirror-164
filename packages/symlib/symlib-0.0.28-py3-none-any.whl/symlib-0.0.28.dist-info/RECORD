@@ -1,0 +1,11 @@
+symlib/__init__.py,sha256=1dPmr71rs8Zt9422sYPqhWTQBpuHNDTxKUjKjUQOOPk,1556
+symlib/download_tables.py,sha256=-2wQp-96PMIYlnfzQ79bZtVIu2SpWxsy-XD5r5pL_qQ,27714
+symlib/file_management.py,sha256=5RG_eChJq1gwFGiew5iZwrNcuxbu5VhbI6_xEi-8f4k,4195
+symlib/lib.py,sha256=VxkurZicQbfNR0x-GYdyZN1LunyhBRiVktkPBS3Uen8,36046
+symlib/star_tagging.py,sha256=kVO3KUCXYnw-i8SeVrkFv0oPhr97HuH1LK5PcXwaHy4,34589
+symlib/util.py,sha256=Mw8jtKh0lxTG9bysClnwgCSEM3glzUMs8s1qtEknBvc,8203
+symlib-0.0.28.dist-info/LICENSE,sha256=5Kao6uuJ59zTGJ507bcJAaSig1WGST9hKBASahQdzIo,1071
+symlib-0.0.28.dist-info/METADATA,sha256=D7py91Ks-a0Kzh6B-cyUmVlnJCFjusvNo6fFq31b3hY,876
+symlib-0.0.28.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+symlib-0.0.28.dist-info/top_level.txt,sha256=tjePFZp-EIYINS8mQ1JKK6l3KqF8rntUQepjfX77K6s,7
+symlib-0.0.28.dist-info/RECORD,,
