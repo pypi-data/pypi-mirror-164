@@ -1,0 +1,6 @@
+setup.py
+mactable/manage.py
+mactable.egg-info/PKG-INFO
+mactable.egg-info/SOURCES.txt
+mactable.egg-info/dependency_links.txt
+mactable.egg-info/top_level.txt
