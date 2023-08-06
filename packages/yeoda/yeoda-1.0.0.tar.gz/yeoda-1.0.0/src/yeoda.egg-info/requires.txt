@@ -1,0 +1,7 @@
+veranda
+geopathfinder
+
+[testing]
+pytest-cov
+coverage
+pytest
