@@ -1,0 +1,12 @@
+cache3/__init__.py,sha256=O1T5Pzupv5uXv8PAaJucorJkO2m9sQbG7eqHEQTI5AQ,737
+cache3/base.py,sha256=C54SMMAvHa9DYaJxYeS1Lc_EYnHZWvkgzG2lgYJDFTA,10517
+cache3/disk.py,sha256=5BXDRgfaTkQiLtgOZjlrlwJueK9y9K4BGC3T3AAf9v4,23499
+cache3/memory.py,sha256=MWCqJeMiszRM0LYJaLNtkotEP-TavKrOkqPEagl36OM,7364
+cache3/setting.py,sha256=O-VxkgjOugNULjnq4OiTZkX1AvzdFwFzgVV4ybUdndA,805
+cache3/utils.py,sha256=gZIvk9raF2BShH_T751c_P_ovAuGMCvsz7I_wHhKUkQ,2131
+cache3/validate.py,sha256=jOJG4z3xr8StV8yKNauCTqHiVj_cKxNM3thbrSCx1CQ,3268
+cache3-0.3.1.dist-info/LICENSE,sha256=tXzIFdjzapualNAdRBlhjSNixUbb-GC7fDF7c7y3zss,1090
+cache3-0.3.1.dist-info/METADATA,sha256=I91RgbxgURszw_rhqRenLd6m9AXK2mJJW9_b-uJ0zyM,2313
+cache3-0.3.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cache3-0.3.1.dist-info/top_level.txt,sha256=_I6FZ3jPrHtGAFANSHFSWud38ze-Z00gAABvllsnJ38,7
+cache3-0.3.1.dist-info/RECORD,,
