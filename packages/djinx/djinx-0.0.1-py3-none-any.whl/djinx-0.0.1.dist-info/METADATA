@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: djinx
+Version: 0.0.1
+Summary: Sphinx plugin for Django model documentation
+Author-email: Andrey Kislyuk <andrey.kislyuk@color.com>
+Provides-Extra: dev
+
