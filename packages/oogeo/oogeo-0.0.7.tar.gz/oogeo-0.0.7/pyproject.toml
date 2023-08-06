@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oogeo"
+version = "0.0.7"
+authors = [
+  { name="Brian Lott", email="briguy360@gmail.com" },
+]
+description = "An open source library for processing geospatial data using Python and PostGIS."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+keywords = [
+    "GIS",
+    "PostGIS",
+    "Geoprocessing",
+    "Geodatabase",
+]
+dependencies = [
+    "matplotlib==3.5.3",
+    "Shapely>=1.3.0",
+    "GeoAlchemy2==0.12.3",
+    "psycopg2==2.9.3",
+    "numpy==1.22.4",
+    "SQLAlchemy==1.4.40",
+    "Pint==0.19.2",
+    "pyproj==3.3.1",
+    "more-itertools==8.14.0",
+    "GDAL==3.5.1",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/bmlott27/oogeo"
+"Bug Tracker" = "https://github.com/bmlott27/oogeo/issues"
