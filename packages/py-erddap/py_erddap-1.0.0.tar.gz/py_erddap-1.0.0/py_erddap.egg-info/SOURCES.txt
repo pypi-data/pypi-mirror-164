@@ -1,0 +1,9 @@
+License.txt
+setup.py
+py_erddap/__init__.py
+py_erddap/download.py
+py_erddap/download_setting.py
+py_erddap.egg-info/PKG-INFO
+py_erddap.egg-info/SOURCES.txt
+py_erddap.egg-info/dependency_links.txt
+py_erddap.egg-info/top_level.txt

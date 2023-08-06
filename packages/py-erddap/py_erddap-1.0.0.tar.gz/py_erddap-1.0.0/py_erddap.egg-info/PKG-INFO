@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: py-erddap
+Version: 1.0.0
+Summary: Package contains handy and customize tool for downloading grid data from ERDDAP website with API
+Home-page: https://github.com/GMfatcat/py_erddap
+Author: GMfatcat
+Author-email: a60102244@gmail.com
+License: MIT License
+Platform: all
+License-File: License.txt
+
+UNKNOWN
+
