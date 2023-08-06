@@ -1,0 +1,13 @@
+gym==0.24.0
+numpy
+pandas
+pillow
+pettingzoo==1.18.1
+sumolib
+traci
+
+[all]
+pyvirtualdisplay
+
+[rendering]
+pyvirtualdisplay
