@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: baydemir
+Version: 1.0.0
+Summary: Brian A's idiosyncratic utilities
+Home-page: https://github.com/brianaydemir/pythonlib
+License: Apache-2.0
+Author: Brian Aydemir
+Author-email: brian.aydemir@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Project-URL: Repository, https://github.com/brianaydemir/pythonlib
