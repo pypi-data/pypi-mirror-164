@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: chtk
+Version: 0.0.2
+Summary: A data science toolkit for working with Clone Hero charts.
+Home-page: https://github.com/elliottwaissbluth/chtk
+License: MIT
+Keywords: chtk,clone,hero,tool,kit,toolkit,guitar,elliottwaissbluth,Elliott,Waissbluth
+Author: Elliott Waissbluth
+Author-email: ewaissbluth@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: librosa (>=0.9.2,<0.10.0)
+Requires-Dist: matplotlib (>=3.5.3,<4.0.0)
+Requires-Dist: numpy (>=1.23.2,<2.0.0)
+Project-URL: Repository, https://github.com/elliottwaissbluth/chtk
+Description-Content-Type: text/markdown
+
+# chtk
+
+#### Purpose
+chtk is short for "Clone Hero Toolkit." It is a suite of data science tools that are useful for working with Clone Hero data.
+
+### Features
+
+### Getting Started
+chtk can be installed using pip
+```bash
+pip install chtk
+```
+
+### Usage
+TODO
+
+### Examples
+TODO
+
+### API
+TODO
+
+### Documentation
+You can check out the full documentation [here](https://elliottwaissbluth.github.io/chtk/)
+
+### Contribution
+TODO
+
+### Author
+TODO
