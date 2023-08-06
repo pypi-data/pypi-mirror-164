@@ -1,0 +1,13 @@
+LICENSE,sha256=LWU5W_iR2fzJS-5iqVLK42KpVIi-b8ulzWPaHE9EkJ8,1072
+dslr/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dslr/cli.py,sha256=4OlO354YQGCY5tB_QxGWXz4SPv1leoHSqWCRHjQD18o,7680
+dslr/config.py,sha256=-90lyG58VQbN0rGaGXaRJ7jESAhEWpp1MbuPfMVdFBs,824
+dslr/console.py,sha256=_c6LhjgpaLloHpgZmIGHDiyOFRxv2hjE5rqQ8gfbLkA,245
+dslr/operations.py,sha256=fEp7ylxzfIudiEfKI4yWdwy9A0j6QobzVQHo11GzHww,4771
+dslr/pg_client.py,sha256=a2oM_Go-647Vf8ph0WEJ6SuLKFefuvu1MLXc2rjXMl8,1080
+dslr/runner.py,sha256=bLUqD0zO2qXBAd9WyD27gjcLAwR2Wkp6HRwrLGXCoJQ,2045
+dslr-0.3.1a0.dist-info/entry_points.txt,sha256=g7_JWKLElEeP1tSi1aMr74LhNpwJUu-FCRXukUtFBkQ,37
+dslr-0.3.1a0.dist-info/LICENSE,sha256=LWU5W_iR2fzJS-5iqVLK42KpVIi-b8ulzWPaHE9EkJ8,1072
+dslr-0.3.1a0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+dslr-0.3.1a0.dist-info/METADATA,sha256=-ZqBcigc5OrQOQY0y_WIYDescqBcK5YspSU6xSlfJ3g,6676
+dslr-0.3.1a0.dist-info/RECORD,,
