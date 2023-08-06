@@ -1,0 +1,10 @@
+pypeform/__init__.py,sha256=tbECl9gsXMH4LuD3eLzGldkjVDx0WAQ1pVME4tC3kSM,170
+pypeform/answer.py,sha256=_ufjqmpA7hrtkP5BXH2TpsAt-kKdup-4URfJoTlGiR0,748
+pypeform/event.py,sha256=Zdol7daD_yz-rGKjcGZ3lXYH69hrIqEmVHz9LE7oCII,2761
+pypeform/field.py,sha256=fhKGBZPk-1CUmTrH6NHkvormq067LFC3Bm8QaNvKBjI,2379
+pypeform/formresponse.py,sha256=GsuI9I7dx4JJkBVZYg9lgpPip8HQuZNrD22M2ipxs04,7821
+pypeform/variable.py,sha256=-FhTEE5cXUBvyCuqqF292xZwpXwWj6PkPORS_VsIt54,425
+pypeform_package-0.0.4.dist-info/METADATA,sha256=Ykw2nIaPCESWndQLB6QJ4qBcyC88HTNJ5gpYv6Jnzsg,3807
+pypeform_package-0.0.4.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+pypeform_package-0.0.4.dist-info/licenses/LICENSE,sha256=8r-XFIlWWy7WUDz-7K3bUfBMM6FgMt1hlISjm15BjSU,1067
+pypeform_package-0.0.4.dist-info/RECORD,,
