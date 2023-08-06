@@ -1,0 +1,19 @@
+name: spg_ip_protection
+
+frontend:
+  entrypoints:
+  - name: ip_protection
+    title: IP Protection
+    description: ""
+    entry: TrustFlex/IP Protection.ipynb
+    icon:
+      name: ip_protection_png
+      path: TrustFlex/assets/IP protection.png
+    applications:
+      - Accessory Authentication
+      - Disposable Authentication
+      - IoT
+    devices:
+      - ATECC608B-TFLXTLS
+    boards:
+      - DM320118

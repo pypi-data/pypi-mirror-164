@@ -1,0 +1,23 @@
+tpds_extension/ip_protection/extension.yaml,sha256=_e6i8iwjy0iVZgv_2myYkVcmPZt3kNxhXurMxazdO_w,412
+tpds_extension/ip_protection/setup.py,sha256=hDrCbDikGrrleCULwPlBkZSzIKD2cyfZQQN6Qmj2z-c,38
+tpds_extension/ip_protection/version.py,sha256=4B_sNNJUbslsnt_SC5cGzr8VJieqD-1boMlbFU1Hg88,21
+tpds_extension/ip_protection/TrustFlex/IP Protection.ipynb,sha256=xb26bn85ncN2vhyqPL5H-Gevh3XbG1SzE_tuL-deVXU,7409
+tpds_extension/ip_protection/TrustFlex/firmware.zip,sha256=bZ3EqU8Jfh9khy2PjTu2jo_OaCZcN-x-zKNWVV04bqI,647727
+tpds_extension/ip_protection/TrustFlex/slot_5_secret_key.h,sha256=DMkh_UxJNgSJzE5AHsM3briqzcIgyLpGl0-s8xff7hc,405
+tpds_extension/ip_protection/TrustFlex/assets/IP Protection.md,sha256=51pOUUMIvtmSLUG9lVsGz2zXykjL_sQCTJule1gZQfc,1741
+tpds_extension/ip_protection/TrustFlex/assets/IP protection.png,sha256=oBBlku5raUcrEPXqWM6s4cVQwRNlndbOB2FbrjzVnhM,65346
+tpds_extension/ip_protection/TrustFlex/assets/c-snippet.png,sha256=4NHEuMIE2tIL4Izmgb4fzkiyfldg5ezM14rb-CGrpkU,29097
+tpds_extension/ip_protection/TrustFlex/assets/crypto-assets.png,sha256=pbJpeoc6099Tjnu5uaVCOsGYV3ebH5IA-XY6zfYtLPI,16607
+tpds_extension/ip_protection/TrustFlex/assets/td_ip_protection.png,sha256=OHrcpUezUO16biTBLUTcbriBxoV51N0y3UHN56pWgEo,545127
+tpds_extension/ip_protection/TrustFlex/assets/usecase_steps.png,sha256=OnQoNBvNiHrATiSEqIjvLn9KVhG0GBip-OL-ZFipiOw,17984
+tpds_extension/ip_protection/TrustFlex/assets/python/LICENSE,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tpds_extension/ip_protection/TrustFlex/assets/python/README.md,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tpds_extension/ip_protection/TrustFlex/assets/python/__init__.py,sha256=_7b_NReCQj2h8aTGKblNveI1UHolnrcWpDHyCCH3V18,96
+tpds_extension/ip_protection/TrustFlex/assets/python/requirements.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tpds_extension/ip_protection/TrustFlex/assets/python/setup.py,sha256=cgLds-2MCoGIbbIdedbQeWH_O2IXf7iLb14Ml5NejkM,637
+tpds_extension/ip_protection/TrustFlex/assets/python/ip_protection/__init__.py,sha256=9w_IROTv32-_qsU1YbOrKW8jgxk8yAdjgUhEtnRWDFs,95
+tpds_extension/ip_protection/TrustFlex/assets/python/ip_protection/ip_protection.py,sha256=noh6IlmZtq2lRP8YAbPwIUH1LeSyZ6sQ2uvrb8nG03I,6946
+tpds_extension_spg_ip_protection-2.2.2.dist-info/METADATA,sha256=AWOOdA-_D7FLwRFp6BcIHBfFY77sz8ptALzxmZ7U7-Q,508
+tpds_extension_spg_ip_protection-2.2.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tpds_extension_spg_ip_protection-2.2.2.dist-info/top_level.txt,sha256=CvrSPFJ0i_aZqR-9kHMw-9oKAWXwtI1bWfcG9WS43Is,15
+tpds_extension_spg_ip_protection-2.2.2.dist-info/RECORD,,
