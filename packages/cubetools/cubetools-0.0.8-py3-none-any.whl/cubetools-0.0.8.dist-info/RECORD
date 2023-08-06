@@ -1,0 +1,7 @@
+cubetools/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cubetools/image_tools.py,sha256=uHsGBL2wZMVTB1l1scWo4uwMdzYjzFa9EiToWVnCTPY,3868
+cubetools/paddle_predict.py,sha256=MgLPElnRtiDNE7Hdg7bm9JcwFgIJWUl0gf-GxEtPi0s,2838
+cubetools-0.0.8.dist-info/METADATA,sha256=swiW5kE3eN_hEAXFCQU0xhbUV-9SZXWcl--vTvyhax4,880
+cubetools-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cubetools-0.0.8.dist-info/top_level.txt,sha256=kRZTWJEuOF3kUTJ2tYvnhyVvuNGVcNr8a6k2-CkaoQQ,10
+cubetools-0.0.8.dist-info/RECORD,,
