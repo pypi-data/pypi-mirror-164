@@ -1,0 +1,36 @@
+# CI checks
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+variables:
+  - &python_image 'python:3.10.6'
+
+pipeline:
+  typing:
+    group: checks
+    image: *python_image
+    commands:
+      - pip install mypy
+      - mypy --pretty .
+
+  linter:
+    group: checks
+    image: *python_image
+    commands:
+      - pip install pylint
+      - pip install osc4py3
+      - pylint ./src
+
+  security:
+    group: checks
+    image: *python_image
+    commands:
+      - pip install bandit
+      - bandit -r .
+
+  testing:
+    group: checks
+    image: *python_image
+    commands:
+      - pip install pytest
+      - pip install -e .[osc4py3]
+      - pytest

@@ -1,0 +1,4 @@
+#!/bin/sh
+source $(conda info --base)/etc/profile.d/conda.sh
+conda activate vmcp
+python .githooks/pre-commit.py $*

@@ -1,0 +1,43 @@
+# Publish documentation
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+variables:
+  - &python_image 'python:3.10.6'
+
+pipeline:
+  setup:
+    image: *python_image
+    commands:
+      - git fetch --tags
+      - git config user.name $(git tag -l --format='%(taggername))' $(git describe))
+      - git config user.email $(git tag -l --format='%(taggeremail)' $(git describe))
+    when:
+      event: tag
+      tag: v*
+
+  build:
+    image: *python_image
+    commands:
+      - pip install -e .[osc4py3,docu]
+      - export VERSION=$(python -m setuptools_scm)
+      - pdoc vmcp vmcp.osc vmcp.osc.backend -o ./docu --footer-text "Version $VERSION" --logo "https://protocol.vmc.info/vmpc_logo_128x128.png" --logo-link "https://protocol.vmc.info/english"
+      - git add ./docu && git stash push -m "docu"
+      - git fetch && git checkout pages
+      - find . -maxdepth 1 -type f,d -not -name '.' -and -not -name '.git' -and -not -name '.gitignore' -and -not -name 'docu' -exec rm -rv {} +
+      - git stash apply "stash^{/docu}" && mv ./docu/* ./ && git add -A
+      - ([ -z "$(git status --porcelain)" ] || git commit -m "[skip ci] docu update")
+    when:
+      event: tag
+      tag: v*
+
+  publish:
+    image: appleboy/drone-git-push
+    settings:
+      branch: pages
+      remote: git@codeberg.org:${CI_REPO}.git
+      force: true
+      ssh_key:
+        from_secret: ssh_key
+    when:
+      event: tag
+      tag: v*

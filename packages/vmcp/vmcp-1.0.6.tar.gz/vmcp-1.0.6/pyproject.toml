@@ -1,0 +1,71 @@
+[build-system]
+requires = ["setuptools>=61.0", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vmcp"
+authors = [{name="Vivien Richter", email="vivien-richter@outlook.de" }]
+description = "Virtual Motion Capture protocol package"
+keywords = ["VMC", "protocol", "MR", "VR", "XR", "AR"]
+readme = "README.md"
+license = {text="AGPL-3.0-or-later"}
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Internet",
+    "Topic :: Multimedia :: Graphics :: Capture",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+    "Operating System :: OS Independent",
+    "Development Status :: 5 - Production/Stable"
+]
+dynamic = ["version"]
+
+[project.optional-dependencies]
+osc4py3 = ["osc4py3 >= 1.0.1, < 1.0.4"]
+docu = [
+    "pdoc",
+    "setuptools_scm"
+]
+tests = [
+    "pylint",
+    "mypy",
+    "pytest",
+    "bandit"
+]
+dev = [
+    "pylint",
+    "mypy",
+    "pytest",
+    "bandit",
+    "black",
+    "flake8",
+    "pydocstyle"
+]
+
+[project.urls]
+homepage = "https://codeberg.org/vivi90/python-vmcp"
+documentation = "https://vivi90.codeberg.page/python-vmcp"
+repository = "https://codeberg.org/vivi90/python-vmcp"
+tracker = "https://codeberg.org/vivi90/python-vmcp/issues"
+
+# Dynamic versioning
+[tool.setuptools_scm]
+
+[tool.mypy]
+python_version = "3.10"
+
+# Suppress missing imports, due to missing library stubs or py.typed marker
+[[tool.mypy.overrides]]
+module = [
+    "setuptools",
+    "pytest.*",
+    "osc4py3.*"
+]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+addopts = "--doctest-modules"
+testpaths = "tests"
