@@ -1,0 +1,16 @@
+gingerbread/__init__.py,sha256=Ii46s6o2qrSpfXcyfZUyJahh4AMDKW4rZ4oBL0ME12M,329
+gingerbread/_cffi_deps.py,sha256=8z2aV_C0mc4GqMllSCgdFxC7pRBIvEa-y55c4h253yU,711
+gingerbread/_geometry.py,sha256=d5phrXZ5a1K_oUcwFL9A3ccSANNnh3EUkwEKl8OXlL4,3664
+gingerbread/_print.py,sha256=-kmPN1Z7p6LRuajqVRgOUdajw5Y7XZTCf6_bHX3YR-g,1455
+gingerbread/_sexpr.py,sha256=TOXmSBV4rdjuKHJ74NEO-kVfTsZpSL5Nz0WITm7gNfM,16348
+gingerbread/_svg_document.py,sha256=kmA8IU2wktEbt4q5yh4MFK-5YEPcc7DDrK0NPg_dFPI,3656
+gingerbread/_utils.py,sha256=32F0luEeTeGWttS1OEe6IyTcsFFVLj7XocVn5dqLnGs,564
+gingerbread/convert.py,sha256=HUYxgFmBgvXKDibv4mq_SyrPHqn_KgWzeaT-uXpVfT8,13926
+gingerbread/fancytext.py,sha256=JreMhJ_8JHv0J_MDJiR_oxKoceRvuWJB2pRjQpPbDG0,16668
+gingerbread/pcb.py,sha256=SdHsQ3ozCCIkExaUaF-y5tYYvpxT6mTwOXhDIb9g1fY,7993
+gingerbread/py.typed,sha256=bWew9mHgMy8LqMu7RuqQXFXLBxh2CRx0dUbSx-3wE48,27
+gingerbread/trace.py,sha256=v5KMhhaftWKXJ4S3EPMRdB3oXYve4gGFuFL2YevCb8M,7566
+gingerbread-2022.8.23.dist-info/LICENSE,sha256=2H-JUtOR-N1yc4IbzCPIm2tZO-YF1LhaMWYxpWRhRNE,1092
+gingerbread-2022.8.23.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+gingerbread-2022.8.23.dist-info/METADATA,sha256=x8pAAv0gmBqhzHMk6Qcs-nWrcAdDCH9FRasmUwju29Y,14427
+gingerbread-2022.8.23.dist-info/RECORD,,
