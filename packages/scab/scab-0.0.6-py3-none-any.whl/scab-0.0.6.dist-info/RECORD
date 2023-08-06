@@ -1,0 +1,15 @@
+scab/__init__.py,sha256=44XFDP1bdHRLxZ4UwyoGQxxTUYau1Nm4WAM05F842QM,143
+scab/io.py,sha256=2qWU35AMdtXb9fqtP0Vfe3zNMDEJKD8LGThP3ee3pr4,29246
+scab/pl.py,sha256=lNvXXRng68Brxhu2PSQUOmV9DPucHEtyRamriIu_cRM,117836
+scab/pp.py,sha256=YzvgdoeTxfpL8X3fy0_vwvQUxqYJSdouOXietyjSmeY,11297
+scab/tl.py,sha256=EOwuKCGNrzCZeRo5_RWnJTt45mQ0Bfgb9oGjNKFDsEw,34210
+scab/ut.py,sha256=FnCyWm37RunbaxCP8Xx4OG7fWAaifYpL1KHbsYShpAQ,1716
+scab/vdj.py,sha256=GqnEWy38CrHe1YayGz6h1-OO8R4bSbyMWyGhaD3sehs,20562
+scab/version.py,sha256=QiiYsv0kcJaB8wCWyT-FnI2b6be87HA-CrrIUn8LQhg,22
+scab/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scab/models/lineage.py,sha256=SZFoMLSsHT-fZOXii6Yxve9CAmTqZhHahzl38gf9veQ,20989
+scab-0.0.6.dist-info/LICENSE,sha256=PWRGdL6CvkzG5l2Zt_N8m9j8LF-nAA199Msi5MbMMek,1074
+scab-0.0.6.dist-info/METADATA,sha256=sC01xfC4QqW8viYybHt3NJ5YHHd578vppfHqvgxVEnE,1005
+scab-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+scab-0.0.6.dist-info/top_level.txt,sha256=LD0ZPlfXyNuKsxbSPxbfqJ4oC_Bh6Nrml1hcC8yDTwA,5
+scab-0.0.6.dist-info/RECORD,,
