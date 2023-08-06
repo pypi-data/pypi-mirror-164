@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/dsolve/atoms.py
+src/dsolve/expressions.py
+src/dsolve/solvers.py
+src/dsolve.egg-info/PKG-INFO
+src/dsolve.egg-info/SOURCES.txt
+src/dsolve.egg-info/dependency_links.txt
+src/dsolve.egg-info/requires.txt
+src/dsolve.egg-info/top_level.txt
