@@ -1,0 +1,66 @@
+from .stack import Stack
+import time
+
+
+def wait_function(timeout, func, *args, **kwargs):
+    time_started_sec = time.time()
+    while time.time() < time_started_sec + timeout / 1000.0:
+        result = func(*args, **kwargs)
+        if result is not None:
+            finish_time = time.time() - time_started_sec
+            # print("Found element in {} s".format(finish_time))
+            return result
+    raise TimeoutError
+
+
+def find_element_by_query(*args, **query):
+    all_node = Stack()
+    all_node.push(args[0])
+    result = None
+
+    while all_node.is_not_empty():
+        element = all_node.pop()
+        elements_list = element.get_acc_children_elements()
+
+        result_list = [eval("element.get_{}".format(query_method), {}, {"element": element}) for query_method, query_string in query.items() if
+                       eval("element.get_{}".format(query_method), {}, {"element": element})
+                       == query_string]
+
+        if len(query) == len(result_list):
+            if len(args) > 1 and "last" in args[1]:
+                result = all_node.pop()
+            elif len(args) > 1 and "next" in args[1]:
+                result = last_element
+            else:
+                result = element
+
+        last_element = element
+        if len(elements_list) > 0:
+            for child_element in elements_list:
+                if child_element._i_object_id == 0:
+                    all_node.push(child_element)
+    return result
+
+
+def find_elements_by_query(*args, **query):
+    all_node = Stack()
+    all_node.push(args[0])
+    result = None
+
+    while all_node.is_not_empty():
+        element = all_node.pop()
+        elements_list = element.get_acc_children_elements()
+
+        result_list = [eval("element.get_{}".format(query_method), {}, {"element": element}) for
+                       query_method, query_string in query.items() if
+                       eval("element.get_{}".format(query_method), {}, {"element": element})
+                       == query_string]
+
+        if len(query) == len(result_list):
+            result.append(element)
+
+        if len(elements_list) > 0:
+            for child_element in elements_list:
+                if child_element._i_object_id == 0:
+                    all_node.push(child_element)
+    return result
