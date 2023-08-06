@@ -1,0 +1,5 @@
+ampel-ztf>=0.7.4.post1
+pandas
+scikit-learn
+xgboost
+seaborn
