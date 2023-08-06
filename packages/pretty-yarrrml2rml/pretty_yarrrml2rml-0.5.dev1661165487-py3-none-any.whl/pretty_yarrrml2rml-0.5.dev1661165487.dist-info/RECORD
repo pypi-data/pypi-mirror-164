@@ -1,0 +1,12 @@
+pretty_yarrrml2rml/__init__.py,sha256=FAHDe5r_3iS2mQfbMeoVM62_csZs1Qi0yAXmNugaZB8,2367
+pretty_yarrrml2rml/__main__.py,sha256=ZkXdGieDtOOEhvV5dw37WQBT0gwqFXImqbeTAhtRZa4,1260
+pretty_yarrrml2rml/constants.py,sha256=pLu1yviBbwKuMN7gPY1wJrReTDSKefCHMZXt_UNLkC8,3231
+pretty_yarrrml2rml/mapping.py,sha256=NHJRGFDiTzd7lg0aktK_JrpXeAJLz1HnT3OezuMnqZ8,1646
+pretty_yarrrml2rml/predicateobject.py,sha256=OcXiNypi3VCRVeAhSiBrpnDTt-RFJ038DPuOAQDlbr8,7993
+pretty_yarrrml2rml/source.py,sha256=lKo-iKdrcSOOYvFrJqhytSgM0j25i5vlN-piYUlq4KI,7021
+pretty_yarrrml2rml/subject.py,sha256=QwZ7FbdzmVQvurxBTQa91MIZY2aNxnzSdAcmsNSBbCU,1238
+pretty_yarrrml2rml/termmap.py,sha256=i82LUIS8NfKsJxcxJd9ri4NRhR3GoYx7jcKtHtbKcJA,1315
+pretty_yarrrml2rml-0.5.dev1661165487.dist-info/METADATA,sha256=A2_jrxcPdKA6w1wus2-12rwd0YToMZ7VAbiEBuHIfzg,2087
+pretty_yarrrml2rml-0.5.dev1661165487.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pretty_yarrrml2rml-0.5.dev1661165487.dist-info/top_level.txt,sha256=J1CfQeaAHv-eKmZk2dbIF6T6SR5lUd_hWK-Dte8NuzA,19
+pretty_yarrrml2rml-0.5.dev1661165487.dist-info/RECORD,,
