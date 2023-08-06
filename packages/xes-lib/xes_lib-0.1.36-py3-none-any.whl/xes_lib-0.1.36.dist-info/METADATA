@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: xes-lib
+Version: 0.1.36
+Summary: 学而思库
+Home-page: https://code.xueersi.com
+Author: xes
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: pypinyin
+Requires-Dist: pygame
+
+UNKNOWN
+
