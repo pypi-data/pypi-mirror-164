@@ -1,0 +1,17 @@
+codeforces/__init__.py,sha256=Q78lAPm_OCRrzwTLkXe-lbMMuQHs0_HIeanI2aUvRQo,115
+codeforces/__main__.py,sha256=X76Do_DHEtJ5se9U5NXMSZR8tQcGKr99jxdzdstxkes,3499
+codeforces/_http.py,sha256=_p5x9leBL7ehG4P7XFhFWiFwztSpHXEXPFHRzGzwETQ,3792
+codeforces/_ws.py,sha256=vA7QQRbUYe_0eOMMUgr_7a38rA12qRtRM7Z8EKXBnEM,690
+codeforces/account.py,sha256=fl3vLsX5JDs5Q1isE1gbLhspSLH-vFk893YCpQoEjRc,2098
+codeforces/config.py,sha256=Lq4u4AS8Bx3ntiGpaP0xK131QFld039xXe9g2XdGMc4,3491
+codeforces/contest.py,sha256=4Tg1xBDrR9MFjoTaCuIg1qlxmwlXzbg98WGU_C0FMz8,15814
+codeforces/judge.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+codeforces/problem.py,sha256=aF_B6xcxav_oX1onPb4zU6k0bSq-NfO6NwG3EM9X3ck,6428
+codeforces/ui.py,sha256=4mMXfMrAryxw-Jy2Za_LAKy74ngXhFBgbHffZuDfzto,1323
+codeforces/util.py,sha256=ib7VgQ5uNwHPqleg0mY8oR-bLjVWUBzJ5cDwqwrc87U,749
+cftools-0.5.0.dist-info/LICENSE,sha256=aiJTslo-qYZa6RWoVFtGM_PWKrSWLjebO4mgkqi4W6U,1071
+cftools-0.5.0.dist-info/METADATA,sha256=9hkO5n_GZ25bHzzDYZWtO5o0-2ljK-Wz8K3GwY3LvoU,175
+cftools-0.5.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cftools-0.5.0.dist-info/entry_points.txt,sha256=81egCL0yCL2TAotjIO1vpDITmL9_UDZ5HiT9kB8e7lw,48
+cftools-0.5.0.dist-info/top_level.txt,sha256=pOMmDl8CdkllD9u7xBD6nnvY6Uys4Ohp_Q35Dgdu-rg,11
+cftools-0.5.0.dist-info/RECORD,,
