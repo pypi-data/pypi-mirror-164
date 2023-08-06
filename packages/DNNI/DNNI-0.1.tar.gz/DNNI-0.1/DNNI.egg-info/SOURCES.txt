@@ -1,0 +1,8 @@
+setup.py
+DNNI/DNNI.py
+DNNI/__init__.py
+DNNI.egg-info/PKG-INFO
+DNNI.egg-info/SOURCES.txt
+DNNI.egg-info/dependency_links.txt
+DNNI.egg-info/not-zip-safe
+DNNI.egg-info/top_level.txt
