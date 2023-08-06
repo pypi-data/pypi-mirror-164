@@ -1,0 +1,5 @@
+postgres_insert_csv_operator/__init__.py,sha256=0eAK-qHfGJgYr9kVsJvhn5MXCK-TC5Je7aMSqJjagF0,91
+postgres_insert_csv_operator/postgres_insert_csv_operator.py,sha256=_r8HqFT7z4IqDxURlu0CS1tFD-x8y9DviSbOf99S4WM,6002
+amsterdam_airflow_postgres_insert_csv_operator-1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+amsterdam_airflow_postgres_insert_csv_operator-1.0.dist-info/METADATA,sha256=iVR6qpVqNP-u1q1GVaddmxkWzwBj_DNKod9eEV-DpCY,973
+amsterdam_airflow_postgres_insert_csv_operator-1.0.dist-info/RECORD,,
