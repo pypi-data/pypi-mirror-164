@@ -1,0 +1,10 @@
+click
+pandas
+requests
+tqdm
+prettytable
+
+[dev]
+black
+isort
+flake8
