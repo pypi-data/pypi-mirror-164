@@ -1,0 +1,86 @@
+Metadata-Version: 2.1
+Name: Termage
+Version: 0.6.0
+Summary: Generate SVGs from any Python code, even in your documentation.
+Project-URL: homepage, https://github.com/bczsalba/Termage
+Project-URL: repository, https://github.com/bczsalba/Termage
+Project-URL: documentation, https://termage.bczsalba.com
+Author-email: Balázs Cene <bczsalba@gmail.com>
+License: MIT
+Keywords: PyTermGUI,documentation,mkdocs,mkdocs-material,mkdocs-plugin,svg-images,terminal
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Documentation
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Documentation
+Classifier: Topic :: Terminals
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Python: >=3.8
+Requires-Dist: pytermgui
+Description-Content-Type: text/markdown
+
+# Termage
+
+See the [docs](https://termage.bczsalba.com) for some live examples.
+
+`Termage` allows you to generate up-to-date, reproducible and _real_ screenshots of Python output while building your documentation. It uses [PyTermGUI](https://github.com/bczsalba/pytermgui) to create the SVGs, and pre-processes your markdown file into a `codefences` format.
+
+![Code](https://raw.githubusercontent.com/bczsalba/mkdocs-termage-plugin/master/assets/code.png)
+![Output](https://raw.githubusercontent.com/bczsalba/mkdocs-termage-plugin/master/assets/output.png)
+
+
+## Installation
+
+`Termage` is best installed using `pip`:
+
+```
+$ pip install mkdocs-termage-plugin
+```
+
+This installs the plugin, as well as PyTermGUI as a dependency. By this point you probably _should_ already have mkdocs installed.
+
+
+## Setup
+
+To use the plugin, you should first add it to your `mkdocs.yml` plugin list:
+
+```yaml
+plugins:
+    - termage
+```
+
+## Latest release
+
+### [0.6.0] - 2022-08-22
+
+### Additions
+
+- Add support for inserting SVGs inline, without writing files
+
+### Refactors
+
+- Unify the codeblock-formatting API under `execution.format_codeblock`
+- Rewrite & refactor most of the plugin to be more maintainable
+- Refactor the Python API so that the `termage` function is called by the CLI, not the other way around.
+
+
+Read the full changelog [here](https://github.com/bczsalba/Termage/blob/master/CHANGELOG.md).
+
+
+[0.6.0]: https://github.com/bczsalba/termage/compare/0.5.0...0.6.0
+[0.5.0]: https://github.com/bczsalba/termage/compare/0.4.0...0.5.0
+[0.4.0]: https://github.com/bczsalba/termage/compare/0.3.2...0.4.0
+[0.3.2]: https://github.com/bczsalba/termage/compare/0.3.1...0.3.2
+[0.3.1]: https://github.com/bczsalba/termage/compare/0.3.0...0.3.1
+[0.3.0]: https://github.com/bczsalba/termage/compare/0.2.0...0.3.0
+[0.2.0]: https://github.com/bczsalba/termage/compare/0.1.0...0.2.0
+[0.1.0]: https://github.com/bczsalba/termage/tree/v0.1.0

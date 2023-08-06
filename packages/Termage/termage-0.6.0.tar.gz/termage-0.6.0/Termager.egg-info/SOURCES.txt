@@ -1,0 +1,8 @@
+setup.py
+Termager.egg-info/PKG-INFO
+Termager.egg-info/SOURCES.txt
+Termager.egg-info/dependency_links.txt
+Termager.egg-info/entry_points.txt
+Termager.egg-info/top_level.txt
+termage/__init__.py
+termage/__main__.py

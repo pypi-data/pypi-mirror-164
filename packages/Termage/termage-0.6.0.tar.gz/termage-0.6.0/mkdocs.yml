@@ -1,0 +1,77 @@
+site_name: Termage::docs
+
+theme:
+  name: material
+
+  custom_dir: docs/overrides
+
+  font:
+    text: Open Sans
+
+  features:
+    - navigation.tabs
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light-green
+      accent: amber
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: lime
+      accent: orange
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+
+plugins:
+  - search
+  - gen-files:
+      scripts:
+        - docs/gen_ref_nav.py
+
+  - literate-nav:
+      nav_file: SUMMARY.md
+
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [termage]
+          options:
+            docstring_style: google
+            docstring_options:
+              ignore_init_summary: yes
+              merge_init_into_class: yes
+              show_submodules: no
+
+  - termage:
+      # MkDocs Material's theme colors
+      background: "#21222C"
+      foreground: "#D5D7E2"
+
+repo_url: https://github.com/bczsalba/termage
+repo_name: bczsalba/termage
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Termage:
+    - Introduction: index.md
+    - Options: options.md
+    - In the command line: cli.md
+    - As an MkDocs plugin: plugin.md
+
+  - Reference: reference/

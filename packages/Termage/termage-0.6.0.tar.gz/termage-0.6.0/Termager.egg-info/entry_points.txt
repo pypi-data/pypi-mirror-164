@@ -1,0 +1,2 @@
+[console_scripts]
+termage = termage.__main__:main

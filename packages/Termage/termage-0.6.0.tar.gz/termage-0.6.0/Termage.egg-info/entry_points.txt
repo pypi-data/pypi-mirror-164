@@ -1,0 +1,5 @@
+[console_scripts]
+termage = termage.__main__:main
+
+[mkdocs.plugins]
+termage = termage.mkdocs_plugin:TermagePlugin

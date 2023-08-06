@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+Termage.egg-info/PKG-INFO
+Termage.egg-info/SOURCES.txt
+Termage.egg-info/dependency_links.txt
+Termage.egg-info/entry_points.txt
+Termage.egg-info/top_level.txt
+termage/__init__.py
+termage/__main__.py
+termage/execution.py
+termage/mkdocs_plugin.py
