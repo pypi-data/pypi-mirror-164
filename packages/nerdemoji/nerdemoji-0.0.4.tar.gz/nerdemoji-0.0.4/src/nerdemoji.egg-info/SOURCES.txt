@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/nerdemoji/__init__.py
+src/nerdemoji/nerdemoji.py
+src/nerdemoji.egg-info/PKG-INFO
+src/nerdemoji.egg-info/SOURCES.txt
+src/nerdemoji.egg-info/dependency_links.txt
+src/nerdemoji.egg-info/top_level.txt
