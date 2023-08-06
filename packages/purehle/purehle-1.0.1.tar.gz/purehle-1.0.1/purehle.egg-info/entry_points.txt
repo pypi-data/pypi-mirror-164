@@ -1,0 +1,2 @@
+[console_scripts]
+purehle = purehle._cli:cli
