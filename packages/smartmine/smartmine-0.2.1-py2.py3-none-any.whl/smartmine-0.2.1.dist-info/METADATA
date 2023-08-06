@@ -1,0 +1,91 @@
+Metadata-Version: 2.1
+Name: smartmine
+Version: 0.2.1
+Summary: Python bindings for the Smartmine API
+Home-page: https://smartmine.net
+Author: Smartmine
+Author-email: info@smartmine.net
+License: MIT
+Keywords: smartmine api
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.0, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*
+Description-Content-Type: text/x-rst
+Requires-Dist: requests
+Requires-Dist: tqdm
+
+Official Smartmine Bindings for Python
+======================================
+
+A Python library for Smartmine's API.
+
+
+Setup
+-----
+
+You can install this package by using the pip tool and installing:
+
+    pip install smartmine
+
+
+
+Setting up a Smartmine Account
+------------------------------
+
+Sign up for Smartmine at https://ap.smartmine.net/pricing.
+
+Using the Smartmine API
+-----------------------
+
+General Usage:
+
+.. code-block:: python
+
+    import smartmine
+    from smartmine import ServiceName
+
+    smartmine.username = input("Username: ")
+    smartmine.password = input("Password: ")
+
+    smartmine.process_image(
+        service_name=ServiceName.image_restoration,
+        load_path="examples/images/earth.png",
+        save_path="results/earth_restored.png",
+    )
+
+
+Advanced Usage:
+
+.. code-block:: python
+
+    import os
+    from pathlib import Path
+
+    import smartmine
+    from smartmine import ServiceName
+
+    smartmine.username = os.environ.get("SMARTMINE_USERNAME")
+    smartmine.password = os.environ.get("SMARTMINE_PASSWORD")
+
+
+    # Bulk process images
+    smartmine.bulk_process_images(
+        service_name=ServiceName.image_restoration,
+        load_dir="examples/images/",
+        save_dir=str(Path.home() / "Downloads"),
+    )
+
+
