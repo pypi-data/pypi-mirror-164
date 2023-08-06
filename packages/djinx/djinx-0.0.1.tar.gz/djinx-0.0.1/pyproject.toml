@@ -1,0 +1,8 @@
+[project]
+name = "djinx"
+description = "Sphinx plugin for Django model documentation"
+version = "0.0.1"
+authors = [{name="Andrey Kislyuk", email="andrey.kislyuk@color.com"}]
+dependencies = []
+[project.optional-dependencies]
+dev = []

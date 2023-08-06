@@ -1,0 +1,7 @@
+pyproject.toml
+djinx/__init__.py
+djinx.egg-info/PKG-INFO
+djinx.egg-info/SOURCES.txt
+djinx.egg-info/dependency_links.txt
+djinx.egg-info/requires.txt
+djinx.egg-info/top_level.txt
