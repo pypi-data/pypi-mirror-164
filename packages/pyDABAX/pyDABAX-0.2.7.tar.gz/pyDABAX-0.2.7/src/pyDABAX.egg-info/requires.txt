@@ -1,0 +1,12 @@
+pandas
+tinydb>="4.7.0"
+numpy>="1.23"
+astropy>="5.04"
+regex
+
+[:python_version < "3.8"]
+importlib-metadata
+
+[testing]
+pytest
+pytest-cov
