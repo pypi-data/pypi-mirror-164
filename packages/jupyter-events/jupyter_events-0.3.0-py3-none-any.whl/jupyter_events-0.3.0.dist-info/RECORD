@@ -1,0 +1,14 @@
+jupyter_events/__init__.py,sha256=JKOy29IV8HA_42FE3YExJziTnld6MkO211Jd8CX0msk,104
+jupyter_events/_version.py,sha256=KCt-Wgto9LxltdZxqXj_GeFDYPaI00D9pAztoTAgZB8,55
+jupyter_events/logger.py,sha256=pBDetppZv7mxFPSx2DmqVq7rMJ6jkoOAyd--ry0ksi8,14166
+jupyter_events/schema.py,sha256=nWvjqGSRwmq-zWN6op9EiYBZcJdkaFIZxWb6v7zzfIY,2894
+jupyter_events/schema_registry.py,sha256=YQsbn6LWrdpfv3-xvdpp6guOrpCzSzJQQRtoUeRTGW0,2334
+jupyter_events/traits.py,sha256=SEylZBC2myniPvSTgSzkS082U9ZvoHSmWcqcNocSnr8,1440
+jupyter_events/validators.py,sha256=wskY1MpRALYFaQd3gBeTlKLfCkxK0sBkvmzeVWicjYg,1396
+jupyter_events/yaml.py,sha256=UwvsI3e1qIn8UYqlZlaunV6azOueRIDMoYGaKeBJYv4,529
+jupyter_events/schemas/event-metaschema.yml,sha256=oT_S2gstVzsfcNN5FNMEokxi5FtgG_3iKJAVl_88Jbw,563
+jupyter_events/schemas/property-metaschema.yml,sha256=miq2bRRzo9m_ehVK1vYxbwx46RhH4uDlIS-lpyvGhuM,624
+jupyter_events-0.3.0.dist-info/METADATA,sha256=qqQ-tohRNGSErTZevQD-gcCzkt21jFHHieXRJpJ82Zg,4732
+jupyter_events-0.3.0.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+jupyter_events-0.3.0.dist-info/licenses/COPYING.md,sha256=1ONQQ8QiFmGpx9upRJ-TV2oA5wnn5hA0OeRVk2mbNHg,2833
+jupyter_events-0.3.0.dist-info/RECORD,,
