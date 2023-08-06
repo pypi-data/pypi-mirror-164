@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/vizwiz.py
+src/vizwiz_fewshot.egg-info/PKG-INFO
+src/vizwiz_fewshot.egg-info/SOURCES.txt
+src/vizwiz_fewshot.egg-info/dependency_links.txt
+src/vizwiz_fewshot.egg-info/requires.txt
+src/vizwiz_fewshot.egg-info/top_level.txt
