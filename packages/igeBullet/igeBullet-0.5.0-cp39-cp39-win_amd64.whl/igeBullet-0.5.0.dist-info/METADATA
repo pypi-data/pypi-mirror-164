@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: igeBullet
+Version: 0.5.0
+Summary: Bullet Physic for 3D and 2D games.
+Home-page: https://indigames.net/
+Author: Indigames
+Author-email: dev@indigames.net
+License: MIT
+Keywords: Physic 3D game Indigames
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Topic :: Games/Entertainment
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+igeBullet
+--------
+
+Bullet physics library for Indi game engine
+-------------------------------------------------------------
+
+
+
