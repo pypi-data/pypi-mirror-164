@@ -1,0 +1,3 @@
+[console_scripts]
+dc = mtxdc.app:entry_dc
+
