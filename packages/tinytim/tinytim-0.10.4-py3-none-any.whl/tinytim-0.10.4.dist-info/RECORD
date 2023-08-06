@@ -1,0 +1,15 @@
+tinytim/__init__.py,sha256=IcBeoTodZNV4bE96nNfCbmMC0oFAdhKfqZ7_tu1IFjo,195
+tinytim/columns.py,sha256=M4NOfI5GHuLBsa2b_7MWKTmnYSVHvpVhOocjQP4Baos,441
+tinytim/copy.py,sha256=oBJ9Sg62wxRbrAYEaogOlI5nknwdZOdgM6ASBU853Fc,373
+tinytim/data.py,sha256=LIEou3A3wPIX2JHYXce44gSgT3HtCN18onn2I8NDplA,1764
+tinytim/edit.py,sha256=vu5cilShRXzPX2oedQsP1NgC84v1pCXZNETWW1EaXd4,4133
+tinytim/filter.py,sha256=CJr1nD6BjGb9q7ePVogs9t1BiWInZlBanpSDDTMakio,3818
+tinytim/group.py,sha256=QaxhcQOgiq9F-99qXmo1fgzUd7_gOVd7MNi4v9iNiaU,2280
+tinytim/rows.py,sha256=pXY2j8qY0wmgGGAoFm9Y0nspsq6k8F9tPocN39jNZ4E,1206
+tinytim/utils.py,sha256=aHtRsUBKwaB1ntSIT4PEjtBBy1sGgQYnoFNBSp0Lwtg,2839
+tinytim/validate.py,sha256=d-pzfDkl5OX_MiF8QwDjvCmThSo7AR_B5OgTT_JrNvA,574
+tinytim-0.10.4.dist-info/LICENSE.md,sha256=1pE569s9d8U87JIZhE80lo9skpJm49AKQicwCRwlf-8,1101
+tinytim-0.10.4.dist-info/METADATA,sha256=4EECP_vhOwRFAXb3hMfU4dRkGAJ8VObUMoNG0f4KZas,1095
+tinytim-0.10.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tinytim-0.10.4.dist-info/top_level.txt,sha256=-yi6FeB_3uS8qAU3Qk6MmedasS6g8z_ZgixIjnHJvWE,8
+tinytim-0.10.4.dist-info/RECORD,,
