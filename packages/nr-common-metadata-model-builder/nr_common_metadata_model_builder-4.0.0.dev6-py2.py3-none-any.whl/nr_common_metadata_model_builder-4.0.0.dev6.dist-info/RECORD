@@ -1,0 +1,9 @@
+nr_common_metadata_model_builder/__init__.py,sha256=o7JMgmCUq4k2WqMHXc8vjbFEBAxTDrgiUPeTQIdkpcU,172
+nr_common_metadata_model_builder/models/__init__.py,sha256=MCEaBJG3vfBJ-jlO82NnBE4N310d2Qr2c1ocar31oUU,120
+nr_common_metadata_model_builder/models/nr-common-metadata-model.yaml,sha256=-BoBBsRKX5J7YlHaKawy0BqFXyeDhfv2HR4vpBvUYK4,15011
+nr_common_metadata_model_builder/models/nr_common_metadata.yaml,sha256=NsppYWSKm5kscnQnCZAcbVBj5OeTlLkNz64-EVMrvbo,1233
+nr_common_metadata_model_builder-4.0.0.dev6.dist-info/METADATA,sha256=ZFyFo-PNYJ-j5kFJUTJpSSa-i3_hxW8CcdjG4Xylhwo,655
+nr_common_metadata_model_builder-4.0.0.dev6.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+nr_common_metadata_model_builder-4.0.0.dev6.dist-info/entry_points.txt,sha256=xnsWV6CVbmciZe1ufEOFe4FyKHHDO_IkOL1hlZIoDN0,101
+nr_common_metadata_model_builder-4.0.0.dev6.dist-info/top_level.txt,sha256=voRvCBdH-6BLk84blpsiDs-qxaKF-BwvZyQbHhLfgb4,33
+nr_common_metadata_model_builder-4.0.0.dev6.dist-info/RECORD,,
