@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: geox
+Version: 0.0.6
+Summary: GeoX, Geostatic Dataset Integration Tool
+Home-page: https://github.com/geoxdat/geox
+Author: GeoX
+Author-email: geoxdat@gmail.com
+License: MIT
+Keywords: geox,geostatistic,mining,dataset
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# GeoX
