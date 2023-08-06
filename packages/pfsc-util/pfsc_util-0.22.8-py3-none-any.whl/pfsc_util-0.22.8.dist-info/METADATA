@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pfsc-util
+Version: 0.22.8
+Summary: Proofscape Utilities
+Home-page: https://github.com/proofscape/pfsc-util
+License: Apache 2.0
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+
+# Proofscape Utilities.
+
+This is a library of utilities that were originally developed for use in
+Proofscape, but which are highly general, and may be more broadly useful.
+
+
