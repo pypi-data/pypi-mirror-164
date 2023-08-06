@@ -1,0 +1,7 @@
+kateb/__init__.py,sha256=s2wc5Lk6T4qZYg-4euz_v70W-aZgNfSmF8D7AlL4AwY,39
+kateb/table_manager.py,sha256=AhW03zTjDxU6VJkBNQcQ89BhS_PfFcG98U3Uq6W8gog,2148
+kateb/web_table.py,sha256=ZIAKRlJpgMpBXcQuVhyL4gLVQSZ9cQcE9ELOEGIALX4,2761
+kateb-0.0.3.dist-info/METADATA,sha256=TeNWhuZMTffZimn4-F3zwSunJoCla5-tNT925UwEN0U,1815
+kateb-0.0.3.dist-info/WHEEL,sha256=09RFlvY3aVzvCNk4AXPZt-N-AI7GY_KktGsTb2IqIBU,86
+kateb-0.0.3.dist-info/licenses/LICENSE,sha256=4tFq9OQqybx6-_rC2PPA5CxM0J8w7nIrMNzzUR8v7XY,1081
+kateb-0.0.3.dist-info/RECORD,,
