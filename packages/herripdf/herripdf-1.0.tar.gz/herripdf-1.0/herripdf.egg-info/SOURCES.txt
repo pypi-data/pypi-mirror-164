@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+herripdf.egg-info/PKG-INFO
+herripdf.egg-info/SOURCES.txt
+herripdf.egg-info/dependency_links.txt
+herripdf.egg-info/top_level.txt
