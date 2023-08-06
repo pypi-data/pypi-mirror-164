@@ -1,0 +1,10 @@
+wg_federation/__init__.py,sha256=Cx2hXOLzuPDe7OisrB6lNeOmZGCJugCkClH7sGagQuI,172
+wg_federation/constants.py,sha256=R7edeBJJgDL6STLWq3V1eN85DsF_YbtEfCWtpDvdOTo,326
+wg_federation/hello.py,sha256=dqCC_ZYVaJSNNHZ4jD7cTmzjqPV_El3vfkoCJrvARyk,188
+wg_federation-0.0.0.dist-info/LICENSE,sha256=G-KbQeDNbXVOGiNuFIwYsvLLP7_IIBir6TuDM5K87Ks,1473
+wg_federation-0.0.0.dist-info/METADATA,sha256=SEjLfQOqAnXLBf4pAp8JnY9LVfBCso6Op5N1e9ClOXU,2335
+wg_federation-0.0.0.dist-info/NOTICE,sha256=vsA_Wy9BbZcrd1GhHnIbF43U0gZOtvow7md9ebniuY0,925
+wg_federation-0.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+wg_federation-0.0.0.dist-info/entry_points.txt,sha256=2WoFsSfjcfunXJWJuugV-Gln2V9e6AiNkMzfUGYm-tI,53
+wg_federation-0.0.0.dist-info/top_level.txt,sha256=fEnX6tXxs3HVuzLlFXx4nmO2UlCz5P6Lsb8KcWysQ0w,14
+wg_federation-0.0.0.dist-info/RECORD,,
