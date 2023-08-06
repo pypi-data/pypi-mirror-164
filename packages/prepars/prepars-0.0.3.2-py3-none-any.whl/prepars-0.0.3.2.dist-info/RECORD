@@ -1,0 +1,14 @@
+prepars/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+prepars/normalizer.py,sha256=6ySwBMzfRew_7efVi-Cj4nDJ-tb_Ypbj_2WGOI4F3ok,3786
+prepars/regexer.py,sha256=PO8mMAeX2Jk99JNvFU6eK-oFSXLGh5RvjRZxUG80Nq0,2561
+prepars/spacing.py,sha256=6Fm-L6m-GL5_SOcE-AnNFVm8hkoFASgK-ZCXUk3Yyb8,2038
+prepars/verb.py,sha256=9ag-RK28sbVWrN7M_donR3U_74IEoEbTsN5T9l82XZI,8192
+prepars/PVC/Data/TXT/all_verbs.txt,sha256=Fq0kxKQWmQJS5IKuLIYpSuNTtsoVbe9hDntuAnZMsTY,47164967
+prepars/PVC/Data/TXT/prefix.txt,sha256=EgBWz-cONqh19yY0aZPT1WH2GLhrF-Ovbcoy1Vwt4RY,166
+prepars/PVC/Data/TXT/replacement.json,sha256=1-zsN59LZenUn-ikkVdIca75k7L6RbYZTXOQyNKrEFM,2333
+prepars/PVC/Data/TXT/suffix.csv,sha256=cXmh6ScqbYU6CYlkQoWnYlGKbeka1Jmd81yTuTTvsCU,1364
+prepars-0.0.3.2.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+prepars-0.0.3.2.dist-info/METADATA,sha256=1RAY0JH_CWFiWFotIlZDcwebdSTUHwW7y3_y4akm8Iw,2630
+prepars-0.0.3.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+prepars-0.0.3.2.dist-info/top_level.txt,sha256=zFv5yiTzOlzI8fusX4t4bx6F5pmhzC1lACbZW8E2pY4,8
+prepars-0.0.3.2.dist-info/RECORD,,
