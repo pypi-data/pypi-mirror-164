@@ -1,0 +1,10 @@
+vtk
+numpy
+
+[dev]
+black
+tox
+coverage
+pytest
+pydocstyle
+mypy
