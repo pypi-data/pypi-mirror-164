@@ -1,0 +1,2 @@
+recursive-include src/covey *
+exclude src/covey/utils.py
