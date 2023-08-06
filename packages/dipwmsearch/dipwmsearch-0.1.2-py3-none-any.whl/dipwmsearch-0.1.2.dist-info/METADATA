@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: dipwmsearch
+Version: 0.1.2
+Summary: Provides functions to search for any di-nucleotidic Position Weight Matrix (di-PWM) in a genomic sequence
+Home-page: https://gite.lirmm.fr/rivals/dipwmsearch
+Author: Marie Mille (main contributor), Bastien Cazaux, Julie Ripoll and Eric Rivals
+Author-email: dipwm@lirmm.fr
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gite.lirmm.fr/rivals/dipwmsearch/-/issues
+Project-URL: Documentation, https://rivals.lirmm.net/dipwmsearch/
+Project-URL: Team, http://www.lirmm.fr/equipes/mab
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: CeCILL-B Free Software License Agreement (CECILL-B)
+Classifier: License :: OSI Approved :: CEA CNRS Inria Logiciel Libre License, version 2.1 (CeCILL-2.1)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pytest
+Requires-Dist: pyahocorasick
+
+# Package `dipwmsearch`
+
+## Description
+This package provides efficient functions to search for one kind of probabilistic motifs known as *di-nucleotidic Position Weight Matrices* (di-PWMs) in a genomic sequence. 
+
+
+## Documentation
+A full [documentation](https://rivals.lirmm.net/dipwmsearch/) details how to install and use the package, and also provides ready-to-use scripts for searching a motif in FASTA sequence. 
+
+**Please refer to**:   [https://rivals.lirmm.net/dipwmsearch/](https://rivals.lirmm.net/dipwmsearch/) 
+
+
+**Contact**: [dipwm@lirmm.fr](mailto:dipwm@lirmm.fr)
+
+## License
+License type: [CeCILL-B](https://cecill.info/licences/Licence_CeCILL-B_V1-en.html)
+
+## Authors
+- Marie Mille (main contributor)
+- Bastien Cazaux
+- Julie Ripoll
+- [Eric Rivals](https://www.lirmm.fr/~rivals/)
+
+## Dependencies
+### Basics to install
+- `pyahocorasick`
+   [documentation](https://pyahocorasick.readthedocs.io/en/latest/index.html)
+   
+### For tests
+- `pytest`
+- `pandas`
+
+
