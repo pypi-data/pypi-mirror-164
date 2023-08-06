@@ -1,0 +1,9 @@
+plotly~=5.0
+numpy
+matplotlib
+matplotlib-venn
+ipython
+pandas
+scikit-image
+logzero
+ipynb-path
