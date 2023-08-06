@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+tsnotes/__init__.py
+tsnotes/_modidx.py
+tsnotes/core.py
+tsnotes.egg-info/PKG-INFO
+tsnotes.egg-info/SOURCES.txt
+tsnotes.egg-info/dependency_links.txt
+tsnotes.egg-info/entry_points.txt
+tsnotes.egg-info/not-zip-safe
+tsnotes.egg-info/requires.txt
+tsnotes.egg-info/top_level.txt
