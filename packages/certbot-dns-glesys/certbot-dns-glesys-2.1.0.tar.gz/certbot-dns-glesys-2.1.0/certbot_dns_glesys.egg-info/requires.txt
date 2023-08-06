@@ -1,0 +1,7 @@
+acme>=1.8.0
+certbot>=1.7.0
+requests
+
+[dev]
+pytest
+wheel
