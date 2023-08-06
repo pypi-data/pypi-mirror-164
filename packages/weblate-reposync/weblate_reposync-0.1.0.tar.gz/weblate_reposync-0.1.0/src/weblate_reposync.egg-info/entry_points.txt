@@ -1,0 +1,2 @@
+[console_scripts]
+weblate_reposync = weblate_reposync:start

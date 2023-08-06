@@ -1,0 +1,11 @@
+.gitignore
+LICENSE
+README.md
+pyproject.toml
+src/weblate_reposync/__init__.py
+src/weblate_reposync.egg-info/PKG-INFO
+src/weblate_reposync.egg-info/SOURCES.txt
+src/weblate_reposync.egg-info/dependency_links.txt
+src/weblate_reposync.egg-info/entry_points.txt
+src/weblate_reposync.egg-info/requires.txt
+src/weblate_reposync.egg-info/top_level.txt
