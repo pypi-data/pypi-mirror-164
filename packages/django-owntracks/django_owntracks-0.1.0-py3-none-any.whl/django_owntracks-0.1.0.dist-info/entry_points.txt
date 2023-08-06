@@ -1,0 +1,2 @@
+[console_scripts]
+owntracks = owntracks.standalone.manage:main
