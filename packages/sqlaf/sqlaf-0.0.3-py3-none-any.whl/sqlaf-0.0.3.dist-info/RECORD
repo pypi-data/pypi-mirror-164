@@ -1,0 +1,16 @@
+sqlaf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sqlaf/config.py,sha256=RbjNMsl2wPrW_O3YPZgql-6kEU3BSla7IDRgcWiXMWA,368
+sqlaf/exceptions.py,sha256=LoGMnMCuts2yzSehA7XRx38xgmT63Fx9nCSDD0XEjbU,893
+sqlaf/operators.py,sha256=ib5oxrPzI8rt_lBSyIHhct5dWA9Ee6LijT6C2P8h8YA,2157
+sqlaf/utils.py,sha256=4kypqPsom1ElIzozE5C0UF2LFhtyXwVf907oZYPZLGU,980
+sqlaf/fields/__init__.py,sha256=Z_cyvW4ILPC_mNAz_egjroq_SfJD1Hb8BkK_Y2ELlUY,77
+sqlaf/fields/base.py,sha256=kfuKAwmJK9ApIutmaQpgq_iIYxTE1vQDF7_HkJ0HtAE,2211
+sqlaf/fields/fields.py,sha256=oNgqfLIvDey6MDhofdUK0zIgwqdRP7Jypst-h3zdwc4,4222
+sqlaf/fields/interfaces.py,sha256=iJYKXxnj3EboUWu48jwhK5de-SvZtAzPGeL-v72t9kE,291
+sqlaf/filters/__init__.py,sha256=oXgZA4kkv-t36z6D83TQ7ic2t5VLRklkuibcohYB5YU,86
+sqlaf/filters/filters.py,sha256=3tVWxMdOsJ2YOJUFZFUjlc1i8pPzunCn1ysX3KPcEyk,2891
+sqlaf/filters/interfaces.py,sha256=vjmFsD26hXSnVoL1_iiXnqOxc1O1pVz_vxS-brXkvjY,295
+sqlaf-0.0.3.dist-info/METADATA,sha256=4v_DQyZHyCZoOLLEqdxhYD19MLpq6k-5Wffjce2kcy4,1138
+sqlaf-0.0.3.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+sqlaf-0.0.3.dist-info/licenses/LICENSE,sha256=iErA6EG_liFZ9z_LvMddGO5CTdK2JbLZE0-OTix-7EU,552
+sqlaf-0.0.3.dist-info/RECORD,,
