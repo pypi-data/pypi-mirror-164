@@ -1,0 +1,9 @@
+pytest_cqase/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytest_cqase/conftest.py,sha256=xcpkSwwR8ghsrzpGe4c-shQMfeAoARbjhor0dVXtS0s,2263
+pytest_cqase/plugin.py,sha256=Cc_zePmMcUy4lIXPSsG38EdNuNxSS62jDiwqyCVR5dU,7496
+pytest_cqase/singltone_like.py,sha256=HMiLJUj7_ZrCR7hFK31AkZdGhW9-UrvIDSumPrnIyTw,1006
+pytest_cqase-0.1.10.dist-info/entry_points.txt,sha256=P3bleu-QFnGVWI2Dq-bY4HThNbersiM6coS06yFhy4U,49
+pytest_cqase-0.1.10.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pytest_cqase-0.1.10.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+pytest_cqase-0.1.10.dist-info/METADATA,sha256=_AffAVT7zSBkKCSukSbRAeCCA85mkoVib8HaK8cAusc,502
+pytest_cqase-0.1.10.dist-info/RECORD,,
