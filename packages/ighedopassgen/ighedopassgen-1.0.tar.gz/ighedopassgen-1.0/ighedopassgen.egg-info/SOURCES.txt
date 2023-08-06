@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+ighedopass/__init__.py
+ighedopass/passwdgen.py
+ighedopass/sugstpass.py
+ighedopassgen.egg-info/PKG-INFO
+ighedopassgen.egg-info/SOURCES.txt
+ighedopassgen.egg-info/dependency_links.txt
+ighedopassgen.egg-info/top_level.txt
