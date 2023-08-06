@@ -1,0 +1,12 @@
+git_build_branch/__init__.py,sha256=zyprWVAWGXDkT6082LXeKHdltAHxhzqDggIJNa_lMBs,125
+git_build_branch/branch_builder.py,sha256=nz7VPCV2xDtCcRXZozkyhkEl2WVDg4P1dAILfT5QN4c,12301
+git_build_branch/checkyaml.py,sha256=nshvNHRYU4LwVE2dERKyEAIYm5_GRlCYGD9FQ4n_XJ4,703
+git_build_branch/gitutils.py,sha256=mbX5oUVE7IGxrY3ksA8wERFYLQ2nOrf4O-Bje5REoJc,7231
+git_build_branch/safe_commit_files.py,sha256=aSTK5S5JlPDmKSLZNFQgEAhvFsjOgTJkKeHo0T8GKaY,2443
+git_build_branch/sh_verbose.py,sha256=OVCEwHNw9VO5imD3aHLxYMK2XHKiK43J25UjjWk-s1c,1413
+git_build_branch-0.1.14.dist-info/LICENSE,sha256=2OFRiLPG4wdv1oyTQOG3mRuLkOl4k4yzI3VhA3Atawk,1503
+git_build_branch-0.1.14.dist-info/METADATA,sha256=5GOY7fbHlq51UgGdTXoMp0rXtQcQ7niorYTgitebHdc,3911
+git_build_branch-0.1.14.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+git_build_branch-0.1.14.dist-info/entry_points.txt,sha256=xoSWtmp88wxVOsmXx4qjsIoH6GTdnP8vM-31YeQ_nsM,134
+git_build_branch-0.1.14.dist-info/top_level.txt,sha256=wn_cq3Ec0-wLdr9yVwOWN01x8nL0ao7NcvwAHAfBXqI,17
+git_build_branch-0.1.14.dist-info/RECORD,,
