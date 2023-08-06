@@ -1,0 +1,37 @@
+[tool.isort]
+profile = "black"
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "backup-sendgrid-templates"
+version = "0.0.2"
+authors = [
+  { name="Sergio Morstabilini"},
+]
+description = "Backup all your Sendgrid templates on file system or on a S3 bucket."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["sendgrid", "backup"]
+dependencies = [
+    "sendgrid >= 6.9.7",
+]
+
+[project.optional-dependencies]
+# dev = ["black", "isort", "pip-tools", "pytest"]
+s3 = ["boto3"]
+
+[project.urls]
+Homepage = "https://github.com/smorstabilini/backup_sendgrid_templates"
+
+[project.scripts]
+backup_sg_on_fs = "backup_sendgrid_templates.__main__:backup_templates_on_file_system"
+backup_sg_on_s3 = "backup_sendgrid_templates.__main__:backup_templates_on_s3"
