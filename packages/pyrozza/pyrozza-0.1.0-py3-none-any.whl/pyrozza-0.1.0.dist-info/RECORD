@@ -1,0 +1,10 @@
+pyrozza/__init__.py,sha256=MF64bwUCd4sm3dvcxZnkb4ujHtxT_KeuXdD0nVieEt4,27
+pyrozza/client.py,sha256=HXF-K_9LJ3CjSqFiMsJOISr2qX1OeyTuivhpF8mkJ0c,3385
+pyrozza/exceptions.py,sha256=7q-22cAT5aCsWwdUVgI19WA2RskEQV8MvsPxwu_GTq4,114
+pyrozza/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyrozza/tests/conftest.py,sha256=X7rzSwiIzUik6rA3JhWf2rDefP71jqfg6Nhpuc2dHPQ,487
+pyrozza/tests/test_client.py,sha256=NbMnc5LxZ7zl5eAU2htHfhpH3-rOcmGpAz2wa22OhbM,3370
+pyrozza-0.1.0.dist-info/LICENSE,sha256=uwqrxSWWmtcH_8nTJaLDuaNFfGXilg5lEwGQ8_U_cQ4,1064
+pyrozza-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+pyrozza-0.1.0.dist-info/METADATA,sha256=T7ADNrfLYKu38Z5Q2dwGZ9zqo8-Ehfl0ULLT6ed9Y9I,1555
+pyrozza-0.1.0.dist-info/RECORD,,
