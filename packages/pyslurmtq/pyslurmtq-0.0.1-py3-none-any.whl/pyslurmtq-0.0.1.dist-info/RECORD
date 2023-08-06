@@ -1,0 +1,12 @@
+pyslurmtq/SLURMTaskQueue.py,sha256=78F8eEE6dYGkPe46cIoRCxTfHZHWbfzJkgxdnVd7G74,20895
+pyslurmtq/Slot.py,sha256=3pqtESGWFbl7IoNTeeKUCsnvZn5LGhiUurHWdQsv7RA,3126
+pyslurmtq/Task.py,sha256=K1RX7C20wP58QnNhDIKXGJwat7CaXWQLgYFjzEKT6zM,8937
+pyslurmtq/__init__.py,sha256=pH5i4Fj1tbXLqLtTVIdoojiplZssQn0nnud8-HXodRE,577
+pyslurmtq/pyslurmtq.py,sha256=NOoN41loK9xYVYDCehaQrzwTUnMM7yv_sDx_MZNtLf0,4841
+pyslurmtq/utils.py,sha256=5_yX3EiiVumM_isGde4QIS07oliZVaY9KcfWXEadIJk,2360
+pyslurmtq-0.0.1.dist-info/LICENSE.txt,sha256=U4h1GkXVVZTcPeIegnEbpXLZPEnSAyjvYn7lAPxdExg,1094
+pyslurmtq-0.0.1.dist-info/METADATA,sha256=Zrfcw-Ggy91viIzY94z68HurMJIKvaFwfFPzkCdkiaA,2510
+pyslurmtq-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyslurmtq-0.0.1.dist-info/entry_points.txt,sha256=KN8ACk4iYKmAh59fgLlpOuQgGaeJzL39ZzYT58d3kI0,54
+pyslurmtq-0.0.1.dist-info/top_level.txt,sha256=KDzOYpgYjtwhF1tR4mFYudd9TKGpvyb9f_jV4D7Ra2s,10
+pyslurmtq-0.0.1.dist-info/RECORD,,
