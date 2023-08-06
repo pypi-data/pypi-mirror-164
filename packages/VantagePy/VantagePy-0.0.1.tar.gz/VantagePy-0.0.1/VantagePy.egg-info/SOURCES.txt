@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+VantagePy.egg-info/PKG-INFO
+VantagePy.egg-info/SOURCES.txt
+VantagePy.egg-info/dependency_links.txt
+VantagePy.egg-info/not-zip-safe
+VantagePy.egg-info/requires.txt
+VantagePy.egg-info/top_level.txt
+vantagepy/__init__.py
+vantagepy/client.py
+vantagepy/utils.py
