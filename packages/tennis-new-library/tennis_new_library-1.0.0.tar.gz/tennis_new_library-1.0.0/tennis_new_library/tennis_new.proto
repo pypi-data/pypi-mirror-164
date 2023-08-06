@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/duration.proto";
+import "google/protobuf/wrappers.proto";
+import "th2_grpc_common/common.proto";
+
+option java_multiple_files = true;
+option java_package = "alexander.oniani.tennis_new";
+
+package alexander.oniani.tennis_new;
+
+
+service MatchInfo{
+  rpc MatchResult (Match) returns (Message) {}
+
+  rpc MostWinners (Tournament) returns (BestPlayer) {}
+
+  rpc MostErrors (Tournament) returns (BestPlayer) {}
+
+  rpc MostAces (Tournament) returns (BestPlayer) {}
+
+  rpc MostGamesWon (Tournament) returns (BestPlayer) {}
+}
+
+message BestPlayer{
+  Player player = 1;
+  Message message = 2;
+}
+
+message Match{
+  Player player1 = 1;
+  Player player2 = 2;
+  Score score1 = 3;
+  Score score2 = 4;
+}
+
+message Tournament{
+  repeated Match matches = 1;
+}
+
+message Score{
+  int32 set1 = 1;
+  int32 set2 = 2;
+  int32 set3 = 3;
+  int32 winners = 4;
+  int32 errors = 5;
+  int32 aces = 6;
+  int32 double_faults = 7;
+}
+
+message Player{
+  string name = 1;
+  string surname = 2;
+  int32 titles = 3;
+  int32 rating = 4;
+  int32 age = 5;
+  int32 wins = 6;
+}
