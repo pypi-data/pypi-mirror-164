@@ -1,0 +1,7 @@
+Alexsecdemoraw.py
+setup.py
+Alex/__init__.py
+Alexsecdemo.egg-info/PKG-INFO
+Alexsecdemo.egg-info/SOURCES.txt
+Alexsecdemo.egg-info/dependency_links.txt
+Alexsecdemo.egg-info/top_level.txt
