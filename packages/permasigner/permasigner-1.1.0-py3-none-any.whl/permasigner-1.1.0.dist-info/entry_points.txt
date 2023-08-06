@@ -1,0 +1,3 @@
+[console_scripts]
+permasigner = permasigner.__main__:main
+
