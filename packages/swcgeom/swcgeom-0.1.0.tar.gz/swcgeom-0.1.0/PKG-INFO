@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: swcgeom
+Version: 0.1.0
+Summary: This is a neuron geometry library in swc format
+Author-email: yzx9 <yuan.zx@outlook.com>
+Keywords: neuron,swc,geom
+Requires-Python: >=3.10
+
+# SWC geom
+
+This is a neuron geometry library in swc format.
