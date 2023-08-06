@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+bds_openapi_client.egg-info/PKG-INFO
+bds_openapi_client.egg-info/SOURCES.txt
+bds_openapi_client.egg-info/dependency_links.txt
+bds_openapi_client.egg-info/top_level.txt
+data/dists.csv
+data/trig.json
