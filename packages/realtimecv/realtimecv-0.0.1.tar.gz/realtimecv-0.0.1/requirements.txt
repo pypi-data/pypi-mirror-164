@@ -1,0 +1,9 @@
+# python -m build && python -m twine upload --repository testpypi dist/*
+
+
+# Example requirements
+numpy>=1.18.5
+
+# PyPI package deployment
+build
+twine

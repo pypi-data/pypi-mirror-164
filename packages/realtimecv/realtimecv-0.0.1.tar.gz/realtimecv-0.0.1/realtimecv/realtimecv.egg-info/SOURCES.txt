@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+data/data_file
+realtimecv/__init__.py
+realtimecv/realtimecv.egg-info/PKG-INFO
+realtimecv/realtimecv.egg-info/SOURCES.txt
+realtimecv/realtimecv.egg-info/dependency_links.txt
+realtimecv/realtimecv.egg-info/requires.txt
+realtimecv/realtimecv.egg-info/top_level.txt
+realtimecv/utils/__init__.py
+realtimecv/utils/general.py
