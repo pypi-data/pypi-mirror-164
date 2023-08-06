@@ -1,0 +1,18 @@
+CHANGES
+=======
+
+0.9.10
+------
+
+* catch brokePipeError
+* do little update
+* add retry for create\_inner\_connection
+* update alternative
+* fix wdaproxy missing property for logger
+* use connect\_instruments instead instruments\_context
+* disable log by default
+* update wait ready timeout
+* fix wdaproxy bug
+* add env settings to launch command
+* fix instruments leak error
+* test with py38
