@@ -1,0 +1,17 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.7
+  pre_build:
+    commands:
+      - pip install --upgrade pip setuptools wheel twine==3.7.1
+      - pip install awscli --upgrade --user
+      - aws codeartifact login --tool twine --repository $CODEARTIFACT_REPOSITORY --domain $CODEARTIFACT_DOMAIN --domain-owner $CODEARTIFACT_DOMAIN_OWNER
+      - pip install -r requirements.txt
+  build:
+    commands:
+      - pytest tradingtools/tests -vv --cov=tradingtools --cov-branch --cov-report=xml:coverage/coverage_$CODEBUILD_SOURCE_VERSION.xml --junit-xml=coverage/pytests_$CODEBUILD_SOURCE_VERSION.xml
+      - python setup.py bdist_wheel
+      - twine upload --repository codeartifact dist/*.whl --verbose
