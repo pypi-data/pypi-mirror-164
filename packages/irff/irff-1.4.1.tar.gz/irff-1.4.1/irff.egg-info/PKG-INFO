@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: irff
+Version: 1.4.1
+Summary: Intelligent-Reactive Force Field
+Home-page: https://github.com/fenggo/I-ReaxFF
+Download-URL: https://github.com/fenggo/I-ReaxFF/archive/1.4.1.tar.gz
+Author: FengGuo
+Author-email: fengguo@lcu.edu.cn
+License: LGPL-3.0
+Platform: UNKNOWN
+
+A differentiable ReaxFF framework based on TensorFlow
+
