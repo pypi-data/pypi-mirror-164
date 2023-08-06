@@ -1,0 +1,3 @@
+[console_scripts]
+yvpn=yvpn.main:main
+
