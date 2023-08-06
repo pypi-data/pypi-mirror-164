@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: gazetimation
+Version: 0.1.0
+Summary: Gaze estimation from facial landmarks
+Home-page: https://github.com/paul-shuvo/gazetimation
+License: MIT
+Keywords: gaze,gaze estimation,head pose,eye pose
+Author: Shuvo Kumar Paul
+Author-email: shuvo.k.paul@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: mediapipe (>=0.8.10,<0.9.0)
+Requires-Dist: numpy (>=1.23.2,<2.0.0)
+Requires-Dist: opencv-python (>=4.6.0,<5.0.0)
+Project-URL: Repository, https://github.com/paul-shuvo/gazetimation
+Description-Content-Type: text/markdown
+
+
