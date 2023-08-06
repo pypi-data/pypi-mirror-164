@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<registry>
+
+  <record name="plone.default_page">
+    <value>
+      <element>index</element>
+    </value>
+  </record>
+
+  <record name="plone.displayed_types">
+    <value purge="false">
+      <element>collective.contentsections.BasicPage</element>
+      <element>collective.contentsections.EventPage</element>
+    </value>
+  </record>
+
+  <record name="plone.types_not_searched">
+    <value purge="false">
+      <element>collective.contentsections.CardsSection</element>
+      <element>collective.contentsections.CollectionSection</element>
+      <element>collective.contentsections.FilesSection</element>
+      <element>collective.contentsections.HTMLSection</element>
+      <element>collective.contentsections.ImagesSection</element>
+      <element>collective.contentsections.LinksSection</element>
+      <element>collective.contentsections.SelectionSection</element>
+      <element>collective.contentsections.TextSection</element>
+      <element>Image</element>
+      <element>Link</element>
+    </value>
+  </record>
+
+  <record name="plone.default_page_types" purge="false">
+    <value>
+      <element>collective.contentsections.BasicPage</element>
+    </value>
+  </record>
+
+</registry>
