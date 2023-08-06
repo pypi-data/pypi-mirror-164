@@ -1,0 +1,19 @@
+[project]
+name = "shrt_id"
+version = "0.1.7"
+authors = [
+  { name="Vo Tuan", email="keocoin@gmail.com" },
+]
+description = "Simple way to create short id in python"
+readme = "README.md"
+license = { file="LICENSE.txt" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/shrt-id/py"
+"Bug Tracker" = "https://github.com/shrt-id/py/issues"
