@@ -1,0 +1,9 @@
+clerk/__init__.py,sha256=Sw1QvLfHS45pD-GewnSG1S_9w0hcjfIUjDKKo0xYtd0,55
+clerk/app.py,sha256=pGO1-RH3YYW0kJylkIMDW1tVEQiHkvg565TPM8BXRVg,5353
+clerk/config.py,sha256=fJ8m5HJww11iLIZTYQp9qhsdW0TBLi9S_84eACHfT2A,1097
+clerk/parse.py,sha256=eIZTbdPKt0vDGDDswvlND2BmvzwfUZM1yggKkEfOfRA,2524
+josephhaaga_clerk-0.0.4.dist-info/METADATA,sha256=mrtTtBLC0KD4xxbUsf9oyNLfbQp7mFX2GaynTQFMeUo,3592
+josephhaaga_clerk-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+josephhaaga_clerk-0.0.4.dist-info/entry_points.txt,sha256=_jqVjw5ecCQaz5ZYs0Nk2vavL30i4r3bMnH5js75DT4,43
+josephhaaga_clerk-0.0.4.dist-info/top_level.txt,sha256=T5uHHqMJ3tNgvIOsRs25kwG-LH2QXL_oZX6sdrHC97c,11
+josephhaaga_clerk-0.0.4.dist-info/RECORD,,
