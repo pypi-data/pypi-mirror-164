@@ -1,0 +1,135 @@
+
+
+
+
+
+window_levels:
+  Full: null
+  CT Soft Tissue: [400, 50]
+  CT Bones: [1800, 400]
+  CT Lung: [1500, -600]
+  CT Liver: [150, 30]
+  PET 0-6 SUV: [6, 3]
+  PET 0-10 SUV: [10, 5]
+  PET 0-3 SUV: [3, 1.5]
+  PET 0-1 SUV: [0.5, 1]
+  Mask: [0.5, 1]
+
+presets:
+  Full Scale:
+    image:
+        window_level: null
+        cmap: 'gray'
+    fusion:
+        window_level: null
+        cmap: 'hot'
+  
+  Overlay:
+    image:
+      window_level: 'CT Bones'
+      cmap: 'Greens'
+    fusion:
+      window_level: 'CT Bones'
+      cmap: 'Magentas'
+      alpha: 0.5
+  
+  PET SUV 0-6:
+    image:
+      window_level: 'PET 0-6 SUV'
+      cmap: 'gray_r'
+    fusion:
+      window_level: null
+      cmap: 'hot'
+      alpha: 0.5      
+  PET SUV 0-10:
+    image:
+      window_level: 'PET 0-10 SUV'
+      cmap: 'gray_r'
+    fusion:
+      window_level: null
+      cmap: 'hot'
+      alpha: 0.5     
+      
+  PET-CT:
+    image:
+      window_level: 'CT Soft Tissue'
+      cmap: 'gray'
+    fusion:
+      window_level: null
+      cmap: 'hot'
+      alpha: 0.5
+     
+  PET-CT SUV 0-6:
+    image:
+      window_level: 'CT Soft Tissue'
+      cmap: 'gray'
+    fusion:
+      window_level: 'PET 0-6 SUV'
+      cmap: 'hot'
+      alpha: 0.5
+      
+  PET-CT SUV 0-10:
+    image:
+      window_level: 'CT Soft Tissue'
+      cmap: 'gray'
+    fusion:
+      window_level: 'PET 0-10 SUV'
+      cmap: 'hot'
+      alpha: 0.5
+  PET-CT Delta-SUV -10 to 10:
+    image:
+      window_level: 'CT Bones'
+      cmap: 'gray'
+    fusion:
+      window_level: [-10, 10]
+      cmap: 'seismic'
+      alpha: 0.5   
+  PET-CT Delta-SUV -6 to 6:
+    image:
+      window_level: 'CT Bones'
+      cmap: 'gray'
+    fusion:
+      window_level: [-6, 6]
+      cmap: 'seismic'
+      alpha: 0.5 
+           
+  Mask:
+    image:
+      window_level: 'CT Soft Tissue'
+      cmap: 'gray'
+    fusion:
+      window_level: 'Mask'
+      cmap: 'copper'
+      alpha: 0.5
+    
+      
+      
+    
+
+
+  # ct:
+  #   window_level: 'CT Soft Tissue'
+  #   cmap: 'gray'
+  #   alpha: 1
+    
+  # pet:
+  #   window_level: 'PET 0-6 SUV'
+  #   cmap: 'hot'
+  #   alpha: 0.5
+
+  # mask:
+  #   window_level: 'Mask'
+  #   cmap: 'copper'
+  #   alpha: 1
+
+  # overlay_image:
+  #   window_level: 'CT Soft Tissue'
+  #   cmap: 'greens'
+  #   alpha: 1
+    
+    
+  # overlay_fusion:
+  #   window_level: 'CT Soft Tissue'
+  #   cmap: 'magentas'
+  #   alpha: 1
+    
