@@ -1,0 +1,8 @@
+bkregression/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bkregression/kernel_smoothing.py,sha256=M5VACvdKTDWqDVJH2JVA3nAnj7G30NVvJksABG5AnXM,4108
+bkregression/kernels.py,sha256=RLnnH8ytJwABDgmFDOFsVIXAntDDAgORdfRTDxAPaDc,10266
+bkregression-0.0.2.dist-info/LICENSE,sha256=YAcYE-Ip5ZU1vXR25BDqqFUq-G23X0UWBYCni-MMvSo,1073
+bkregression-0.0.2.dist-info/METADATA,sha256=-4U1i8uG2SZrC1ICTur7cQpd8QmBFjrN0D_ggefB8ew,491
+bkregression-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bkregression-0.0.2.dist-info/top_level.txt,sha256=VOS3XB3gVKJdzrlLA70WBpLb5dMVn8PgLg-eVg9xoE4,13
+bkregression-0.0.2.dist-info/RECORD,,

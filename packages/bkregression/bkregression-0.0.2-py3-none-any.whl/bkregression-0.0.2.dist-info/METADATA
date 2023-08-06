@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: bkregression
+Version: 0.0.2
+Summary: A package for Bayesian kernel regression
+Author: Marc Schlichting
+Author-email: mschl@stanford.edu
+Keywords: python,first package
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: ax-platform
+Requires-Dist: tqdm
+
+A package for Bayesian kernel regression using a local uncertainty approximation using weighted sample variance.
