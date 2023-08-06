@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: steemhd
+Version: 1.0.2
+Summary: Bitcoin/Ethereum/STEEM key manipulation
+Home-page: https://github.com/maiyude2018/steem_to_hdwallet
+Author: maiyude
+Author-email: steem@steem.vip
+Keywords: steem,security,cryptography,cryptocurrency,bitcoin
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Security :: Cryptography
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=3
