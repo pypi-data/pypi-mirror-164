@@ -1,0 +1,5 @@
+[console_scripts]
+dc = dc:console_script_entry
+mtlibs = main:hello
+nginx = dc.nginx:console_script_entry
+
