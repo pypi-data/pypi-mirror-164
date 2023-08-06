@@ -1,0 +1,37 @@
+[kenya]
+category = EWCM
+calendar_file = EWCM_2021-6-17.xlsx
+shp_boundary = EWCM_Level_1.shp
+crops = ['mz', 'sr', 'ml', 'rc', 'ww', 'tf']
+use_cropland_mask = True
+
+[ww]
+mask = cropland_v9.tif
+
+[mz]
+mask = cropland_v9.tif
+
+[sb]
+mask = cropland_v9.tif
+
+[rc]
+mask = cropland_v9.tif
+
+[tf]
+mask = cropland_v9.tif
+
+[sr]
+mask = cropland_v9.tif
+
+[ml]
+mask = cropland_v9.tif
+
+[DEFAULT]
+redo = False
+threshold = True
+floor = 20
+ceil = 90
+countries = ['kenya']
+forecast_seasons = [2022]
+mask = cropland_v9.tif
+eo_model = ['ndvi', 'cpc_tmax', 'cpc_tmin', 'cpc_precip', 'esi_4wk', 'soil_moisture_as1', 'soil_moisture_as2']
