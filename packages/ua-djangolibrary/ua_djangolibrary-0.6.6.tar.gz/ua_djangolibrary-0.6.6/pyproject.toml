@@ -1,0 +1,23 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name		= "ua_djangolibrary"
+version		= "0.6.6"
+description	= "Includes the guardedsettings.py and projectbuilder.py modules under Apache 2.0 LICENSE. "
+authors		= [{name = "Gunnar Swan", email = "gunnar.swan@yahoo.com"}]
+readme		= "readme.md"
+license		= {file = "LICENSE"}
+requires-python = ">=3.6"
+
+
+
+dependencies = [
+
+]
+
+[project.scripts]
+ua-projectbuilder = "ua_djangolibrary.projectbuilder:main"
+
+
