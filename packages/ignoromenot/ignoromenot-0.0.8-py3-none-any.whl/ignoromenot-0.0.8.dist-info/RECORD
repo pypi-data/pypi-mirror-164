@@ -1,0 +1,12 @@
+__init__.py,sha256=srwPZqICCZ_davkQxFHmOd1xtiBe5uVEYEI5AQ4uo7g,22
+ignoromenot.py,sha256=w6yP7_9wk9oU8-TY4ijexWuega4kcKOYil3z74MPCHE,12235
+ignoromenot/__init__.py,sha256=srwPZqICCZ_davkQxFHmOd1xtiBe5uVEYEI5AQ4uo7g,22
+ignoromenot/ignoromenot.py,sha256=zAqf5VKUpNzl7P_AykxYJOxFRyk4vZwTli2UQV4Qljc,12215
+ignoromenot/__pycache__/__init__.cpython-38.pyc,sha256=WlvFoqXKPKq12KhPx-FnmTdpwK4AR3tGBI6Re38a8R8,174
+ignoromenot/__pycache__/ignoromenot.cpython-38.pyc,sha256=5hdx6g4elyOUiSFHrzo584cd67H7Hwn4hOuXvnHftzo,8338
+ignoromenot-0.0.8.dist-info/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+ignoromenot-0.0.8.dist-info/METADATA,sha256=mF3vrvBriWtKmwKDMD2EHGpkeTlL1NeDDl0ahVntyEU,5552
+ignoromenot-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ignoromenot-0.0.8.dist-info/entry_points.txt,sha256=mkMXSQ77EI7vDLsmB6aHXwc5vsTqsJMz-TzTlqVJCkU,61
+ignoromenot-0.0.8.dist-info/top_level.txt,sha256=pVcnv8O5XE8oB_an-bRL0jxLcbMyCPrhtXaAQQLU3W8,12
+ignoromenot-0.0.8.dist-info/RECORD,,
