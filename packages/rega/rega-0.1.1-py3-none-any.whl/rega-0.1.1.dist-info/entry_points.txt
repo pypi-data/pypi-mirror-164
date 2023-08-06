@@ -1,0 +1,2 @@
+[console_scripts]
+rega = src.rega:main

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: rega
+Version: 0.1.1
+Summary: Apply regex in bulk!.
+Author: Josep Maria Salvia Hornos
+Requires-Python: >=3.8
+Requires-Dist: appdirs (>=1.4.4)
+Requires-Dist: argcomplete (>=2.0.0)
+
