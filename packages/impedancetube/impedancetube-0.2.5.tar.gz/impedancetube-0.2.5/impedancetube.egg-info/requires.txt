@@ -1,0 +1,5 @@
+acoular
+numpy
+setuptools
+acoular
+traits>=6.0
