@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "trio-paho-mqtt-up1"
+version = "0.4.1"
+description = "MQTT support for the Trio async runtime using Paho (update fork)"
+authors = ["Olivier (fork) <triopahomqtt.python@librepush.net>", "bkanuka (original maintainer) <bkanuka@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+packages = [{include = "trio_paho_mqtt"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+trio = "^0.21.0"
+paho-mqtt = "^1.6.1"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^0.971"
+black = "^22.6.0"
+isort = "^5.10.1"
+paho-mqtt-stubs = "^0.1.0"
+trio-typing = "^0.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
