@@ -1,0 +1,70 @@
+Metadata-Version: 2.1
+Name: azure_mlops_helper
+Version: 0.6.0
+Summary: Azure helper for e2e ml pipelines
+Project-URL: Home, https://dev.azure.com/klimczakmathieu/test/_git/azure-helper-core
+Author-email: Mathieu Klimczak <klimczak.mathieu@pm.me>
+License: MIT License
+        
+        Copyright (c) 2022 Klimorg
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Requires-Dist: azure-storage-blob>=12.13.1
+Requires-Dist: azureml-sdk>=1.44.0
+Requires-Dist: dynaconf>=3.1.9
+Requires-Dist: joblib>=1.1.0
+Requires-Dist: loguru>=0.6.0
+Requires-Dist: pandas>=1.4.3
+Requires-Dist: pydantic>=1.9.1
+Requires-Dist: requests>=2.28.1
+Requires-Dist: scikit-learn>=1.1.1
+Requires-Dist: skl2onnx>=1.12
+Provides-Extra: dev
+Requires-Dist: black>=22.6.0; extra == 'dev'
+Requires-Dist: darglint>=1.8.1; extra == 'dev'
+Requires-Dist: flake8>=4.0.1; extra == 'dev'
+Requires-Dist: hatch>=1.3.1; extra == 'dev'
+Requires-Dist: isort>=5.10.1; extra == 'dev'
+Requires-Dist: mypy>=0.961; extra == 'dev'
+Requires-Dist: pre-commit>=2.20.0; extra == 'dev'
+Requires-Dist: radon>=5.1.0; extra == 'dev'
+Requires-Dist: rope>=1.2.0; extra == 'dev'
+Requires-Dist: wemake-python-styleguide>=0.16.1; extra == 'dev'
+Provides-Extra: doc
+Requires-Dist: mike>=1.1.2; extra == 'doc'
+Requires-Dist: mkdocs-material>=8.3.9; extra == 'doc'
+Requires-Dist: mkdocs>=1.3.0; extra == 'doc'
+Requires-Dist: mkdocstrings-python>=0.7.1; extra == 'doc'
+Requires-Dist: mkdocstrings>=0.19.0; extra == 'doc'
+Provides-Extra: test
+Requires-Dist: codecov>=2.1.12; extra == 'test'
+Requires-Dist: pytest-cov>=3.0.0; extra == 'test'
+Requires-Dist: pytest-mock>=3.8.2; extra == 'test'
+Requires-Dist: pytest-xdist>=2.5.0; extra == 'test'
+Requires-Dist: pytest>=7.1.2; extra == 'test'
+Requires-Dist: tox>=3.25.1; extra == 'test'
+Description-Content-Type: text/markdown
+
+# azure-mlops-helper
+
+## End-to-End MLOps pipelines using Azure ML and Azure Pipelines
+
+Inspired from MLOps article found at [benalexkeen.com](https://benalexkeen.com/creating-end-to-end-mlops-pipelines-using-azure-ml-and-azure-pipelines-part-1/).
