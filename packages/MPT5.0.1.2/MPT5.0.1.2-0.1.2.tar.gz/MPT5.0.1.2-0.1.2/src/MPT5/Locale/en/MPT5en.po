@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-07-08 09:51+0300\n"
+"PO-Revision-Date: 2022-07-08 09:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: DCC1\n"
+"X-Poedit-SearchPath-1: DCC1/AuiPan2.py\n"
+"X-Poedit-SearchPath-2: DCC1/DBDev2.py\n"
+"X-Poedit-SearchPath-3: DCC1/ListPro2.py\n"
+"X-Poedit-SearchPath-4: DCC1/MenuDev2.py\n"
+"X-Poedit-SearchPath-5: DCC1/MLDev2.py\n"
+"X-Poedit-SearchPath-6: DCC1/ProgDev2.py\n"
+"X-Poedit-SearchPath-7: DCC1/Proper2.py\n"
+"X-Poedit-SearchPath-8: DCC1/ToolBar2.py\n"
+"X-Poedit-SearchPath-9: AI/OpnSrc.py\n"
+"X-Poedit-SearchPath-10: GUI/window2.py\n"
+"X-Poedit-SearchPath-11: GUI/MainMenu2.py\n"
+"X-Poedit-SearchPath-12: GUI/BG2.py\n"
+
+#: AI/OpnSrc.py:232
+msgid "File"
+msgstr ""
+
+#: AI/OpnSrc.py:232
+msgid "New"
+msgstr ""
+
+#: AI/OpnSrc.py:232
+msgid "Open..."
+msgstr ""
+
+#: AI/OpnSrc.py:232
+msgid "Save"
+msgstr ""
+
+#: AI/OpnSrc.py:233
+msgid "Save As..."
+msgstr ""
+
+#: AI/OpnSrc.py:233 DCC1/MenuDev2.py:1369
+msgid "Close"
+msgstr ""
+
+#: AI/OpnSrc.py:234 DCC1/AuiPan2.py:76 DCC1/ListPro2.py:92 DCC1/MLDev2.py:116
+#: DCC1/MenuDev2.py:73 DCC1/ProgDev2.py:82 DCC1/ToolBar2.py:74
+msgid "Edit"
+msgstr ""
+
+#: AI/OpnSrc.py:234
+msgid "Cut"
+msgstr ""
+
+#: AI/OpnSrc.py:234
+msgid "Copy"
+msgstr ""
+
+#: AI/OpnSrc.py:234
+msgid "Paste"
+msgstr ""
+
+#: AI/OpnSrc.py:235
+msgid "Select All"
+msgstr ""
+
+#: AI/OpnSrc.py:237 AI/OpnSrc.py:243 AI/OpnSrc.py:247 DCC1/AuiPan2.py:69
+#: DCC1/ListPro2.py:86 DCC1/MLDev2.py:110 DCC1/MenuDev2.py:66
+#: DCC1/ProgDev2.py:74 DCC1/ToolBar2.py:67
+msgid "Add"
+msgstr ""
+
+#: AI/OpnSrc.py:237
+msgid "line-close"
+msgstr ""
+
+#: AI/OpnSrc.py:237
+msgid "add close code to button function"
+msgstr ""
+
+#: AI/OpnSrc.py:238
+msgid "line-getdata"
+msgstr ""
+
+#: AI/OpnSrc.py:238
+msgid "get data from fields textctrl "
+msgstr ""
+
+#: AI/OpnSrc.py:239
+msgid "line-putdata"
+msgstr ""
+
+#: AI/OpnSrc.py:239
+msgid "put data to fields textctrl"
+msgstr ""
+
+#: AI/OpnSrc.py:240
+msgid "line-fillnull"
+msgstr ""
+
+#: AI/OpnSrc.py:240
+msgid "fill empty record in all data"
+msgstr ""
+
+#: AI/OpnSrc.py:243 AI/OpnSrc.py:247
+msgid "Import Numpy"
+msgstr ""
+
+#: AI/OpnSrc.py:243 AI/OpnSrc.py:247
+msgid "Import matplotlib"
+msgstr ""
+
+#: AI/OpnSrc.py:244 AI/OpnSrc.py:248
+msgid "Import Axes 3D"
+msgstr ""
+
+#: AI/OpnSrc.py:249
+msgid "MLA Utility(Y select)"
+msgstr ""
+
+#: AI/OpnSrc.py:249
+msgid "MLA Utility(Show Matrix)"
+msgstr ""
+
+#: AI/OpnSrc.py:299
+msgid "Do you like to save change"
+msgstr ""
+
+#: AI/OpnSrc.py:311
+msgid "Please work in this file or close it then use new file"
+msgstr ""
+
+#: AI/OpnSrc.py:322
+msgid "Open a file"
+msgstr ""
+
+#: AI/OpnSrc.py:335
+msgid "Save new file"
+msgstr ""
+
+#: AI/OpnSrc.py:357
+msgid "You save to file change successful."
+msgstr ""
+
+#: AI/OpnSrc.py:364
+msgid "Save As new file"
+msgstr ""
+
+#: AI/OpnSrc.py:409
+msgid ""
+"No any part of Panel for get data! Please use one of this object: \t"
+"\t                  wx.TextCtrl wx.Choice wx.CheckBox wx.RadioBox"
+msgstr ""
+
+#: AI/OpnSrc.py:435
+msgid ""
+"No any part of Panel for Put data! Please use one of this object: \t\t\t"
+"\t                  wx.TextCtrl wx.Choice wx.CheckBox wx.RadioBox wx."
+"RadioButton"
+msgstr ""
+
+#: AI/OpnSrc.py:462
+msgid ""
+"No any part of Panel for Put data! Please use one of this object: \t\t\t\t\t"
+"\t                  wx.TextCtrl wx.Choice wx.CheckBox wx.RadioBox"
+msgstr ""
+
+#: DCC1/AuiPan2.py:41
+msgid "List of Panes:"
+msgstr ""
+
+#: DCC1/AuiPan2.py:47 DCC1/AuiPan2.py:131 DCC1/ListPro2.py:64
+#: DCC1/MenuDev2.py:48 DCC1/MenuDev2.py:129 DCC1/MenuDev2.py:1076
+#: DCC1/ProgDev2.py:65 DCC1/ToolBar2.py:133
+msgid "ID"
+msgstr ""
+
+#: DCC1/AuiPan2.py:48
+msgid "Name Pane"
+msgstr ""
+
+#: DCC1/AuiPan2.py:83 DCC1/DBDev2.py:83 DCC1/ListPro2.py:98 DCC1/MLDev2.py:122
+#: DCC1/MenuDev2.py:80 DCC1/MenuDev2.py:1003 DCC1/MenuDev2.py:1298
+#: DCC1/ProgDev2.py:89 DCC1/ToolBar2.py:81
+msgid "Delete"
+msgstr ""
+
+#: DCC1/AuiPan2.py:90
+msgid "Show"
+msgstr ""
+
+#: DCC1/AuiPan2.py:97 DCC1/DBDev2.py:76 DCC1/MLDev2.py:134 DCC1/MenuDev2.py:94
+#: DCC1/ProgDev2.py:103 DCC1/ToolBar2.py:95
+msgid "Update"
+msgstr ""
+
+#: DCC1/AuiPan2.py:104 DCC1/MenuDev2.py:101 DCC1/ToolBar2.py:102
+msgid "Info"
+msgstr ""
+
+#: DCC1/AuiPan2.py:111 DCC1/DBDev2.py:104 DCC1/ListPro2.py:116
+#: DCC1/MLDev2.py:140 DCC1/MLDev2.py:586 DCC1/MLDev2.py:823
+#: DCC1/MenuDev2.py:109 DCC1/ProgDev2.py:110 DCC1/ToolBar2.py:110
+msgid "Apply"
+msgstr ""
+
+#: DCC1/AuiPan2.py:124
+msgid "Pane Info:"
+msgstr ""
+
+#: DCC1/AuiPan2.py:139 DCC1/MenuDev2.py:137 DCC1/MenuDev2.py:1084
+#: DCC1/ToolBar2.py:141
+msgid "Access"
+msgstr ""
+
+#: DCC1/AuiPan2.py:155 DCC1/DBDev2.py:59 DCC1/ListPro2.py:63
+#: DCC1/MenuDev2.py:155 DCC1/ToolBar2.py:158
+msgid "Name"
+msgstr ""
+
+#: DCC1/AuiPan2.py:168
+msgid "Caption"
+msgstr ""
+
+#: DCC1/AuiPan2.py:181
+msgid "Setting"
+msgstr ""
+
+#: DCC1/AuiPan2.py:200
+msgid "Size"
+msgstr ""
+
+#: DCC1/AuiPan2.py:211
+msgid "Other Size"
+msgstr ""
+
+#: DCC1/AuiPan2.py:219
+msgid "resize"
+msgstr ""
+
+#: DCC1/AuiPan2.py:229
+msgid "dock"
+msgstr ""
+
+#: DCC1/AuiPan2.py:244
+msgid "Docking"
+msgstr ""
+
+#: DCC1/AuiPan2.py:257
+msgid "Layer"
+msgstr ""
+
+#: DCC1/AuiPan2.py:275 DCC1/MenuDev2.py:250 DCC1/ToolBar2.py:247
+msgid "Program:"
+msgstr ""
+
+#: DCC1/AuiPan2.py:281 DCC1/MenuDev2.py:256 DCC1/ToolBar2.py:253
+msgid "list of program can changed"
+msgstr ""
+
+#: DCC1/AuiPan2.py:293 DCC1/MenuDev2.py:268 DCC1/ProgDev2.py:241
+#: DCC1/ToolBar2.py:265
+msgid "Directory:"
+msgstr ""
+
+#: DCC1/AuiPan2.py:387 DCC1/MenuDev2.py:343 DCC1/MenuDev2.py:448
+#: DCC1/MenuDev2.py:505 DCC1/MenuDev2.py:536 DCC1/MenuDev2.py:679
+#: DCC1/ProgDev2.py:624
+msgid "Directory: "
+msgstr ""
+
+#: DCC1/AuiPan2.py:431
+msgid "Pane is successful Update "
+msgstr ""
+
+#: DCC1/AuiPan2.py:453
+msgid " Pane delete from application successful"
+msgstr ""
+
+#: DCC1/AuiPan2.py:523
+msgid "A new Pane add to application "
+msgstr ""
+
+#: DCC1/AuiPan2.py:532
+msgid "Please press Add bottom to make new pane"
+msgstr ""
+
+#: DCC1/AuiPan2.py:611 DCC1/MenuDev2.py:892 DCC1/ProgDev2.py:777
+#: DCC1/ToolBar2.py:775
+msgid "Double Program: Please Close Program Develop then Do this item"
+msgstr ""
+
+#: DCC1/AuiPan2.py:759 DCC1/AuiPan2.py:875 DCC1/AuiPan2.py:1000
+#: DCC1/MLDev2.py:583 DCC1/MenuDev2.py:1131 DCC1/ProgDev2.py:847
+msgid "Cancel"
+msgstr ""
+
+#: DCC1/AuiPan2.py:762 DCC1/AuiPan2.py:878 DCC1/AuiPan2.py:1003
+#: DCC1/ProgDev2.py:850
+msgid "Ok"
+msgstr ""
+
+#: DCC1/DBDev2.py:45
+msgid "Select database"
+msgstr ""
+
+#: DCC1/DBDev2.py:50
+msgid "Select Database file"
+msgstr ""
+
+#: DCC1/DBDev2.py:53
+msgid "List of Tabel:"
+msgstr ""
+
+#: DCC1/DBDev2.py:60
+msgid "Type"
+msgstr ""
+
+#: DCC1/DBDev2.py:69
+msgid "Insert"
+msgstr ""
+
+#: DCC1/DBDev2.py:90
+msgid "Join"
+msgstr ""
+
+#: DCC1/DBDev2.py:97
+msgid "Brows"
+msgstr ""
+
+#: DCC1/DBDev2.py:112 DCC1/ListPro2.py:122 DCC1/MLDev2.py:146
+#: DCC1/ProgDev2.py:118
+msgid "Generate"
+msgstr ""
+
+#: DCC1/DBDev2.py:127
+msgid "Method in program"
+msgstr ""
+
+#: DCC1/DBDev2.py:146
+msgid "Program Statments"
+msgstr ""
+
+#: DCC1/DBDev2.py:162
+msgid "SQL  Statments"
+msgstr ""
+
+#: DCC1/DBDev2.py:178
+msgid "To CVS"
+msgstr ""
+
+#: DCC1/DBDev2.py:181
+msgid "To Excel"
+msgstr ""
+
+#: DCC1/DBDev2.py:185
+msgid "Extended"
+msgstr ""
+
+#: DCC1/DBDev2.py:345 DCC1/DBDev2.py:383 DCC1/DBDev2.py:414
+msgid "Select Key feild"
+msgstr ""
+
+#: DCC1/DBDev2.py:477
+msgid "Select Table"
+msgstr ""
+
+#: DCC1/DBDev2.py:544
+msgid "Save as CSV file"
+msgstr ""
+
+#: DCC1/DBDev2.py:567
+msgid "Save as Excel file"
+msgstr ""
+
+#: DCC1/DBDev2.py:593
+msgid "Please connect to our site and send your request"
+msgstr ""
+
+#: DCC1/DBDev2.py:634
+msgid "ok"
+msgstr ""
+
+#: DCC1/DBDev2.py:667
+msgid "Key of Field UpDate"
+msgstr ""
+
+#: DCC1/DBDev2.py:682
+msgid "SomeData"
+msgstr ""
+
+#: DCC1/DBDev2.py:692
+msgid "Cancle or Return"
+msgstr ""
+
+#: DCC1/DBDev2.py:695
+msgid "Ok or Apply"
+msgstr ""
+
+#: DCC1/DBDev2.py:737 DCC1/DBDev2.py:838
+msgid "Base Table For Join"
+msgstr ""
+
+#: DCC1/DBDev2.py:752 DCC1/DBDev2.py:853
+msgid "Key of Field For Join"
+msgstr ""
+
+#: DCC1/DBDev2.py:783 DCC1/DBDev2.py:881
+msgid "Cancle & Return"
+msgstr ""
+
+#: DCC1/DBDev2.py:786 DCC1/DBDev2.py:884
+msgid "Ok & Apply"
+msgstr ""
+
+#: DCC1/ListPro2.py:57
+msgid "List of Programs and Tools can download"
+msgstr ""
+
+#: DCC1/ListPro2.py:104 DCC1/MLDev2.py:128 DCC1/ProgDev2.py:96
+msgid "Preview"
+msgstr ""
+
+#: DCC1/ListPro2.py:110
+msgid "UpDate"
+msgstr ""
+
+#: DCC1/ListPro2.py:135
+msgid "Description"
+msgstr ""
+
+#: DCC1/ListPro2.py:161
+msgid "Extract, Check and Show File"
+msgstr ""
+
+#: DCC1/ListPro2.py:170
+msgid "To Directory"
+msgstr ""
+
+#: DCC1/ListPro2.py:175 DCC1/MenuDev2.py:1106 DCC1/ProgDev2.py:183
+msgid "Select a folder"
+msgstr ""
+
+#: DCC1/ListPro2.py:194
+msgid "Message"
+msgstr ""
+
+#: DCC1/ListPro2.py:362
+msgid " The file is in Zip file Please select new file!"
+msgstr ""
+
+#: DCC1/ListPro2.py:364
+msgid "Only file in Src Directory path send to zip file"
+msgstr ""
+
+#: DCC1/ListPro2.py:488
+msgid "Please Change your path or select a correct path"
+msgstr ""
+
+#: DCC1/ListPro2.py:503
+msgid " All file Successfull copy to Src path"
+msgstr ""
+
+#: DCC1/ListPro2.py:506
+msgid "We Pack tar file all file to Account path Do you like delete file ?"
+msgstr ""
+
+#: DCC1/MLDev2.py:50
+msgid "Type of Machin Learning"
+msgstr ""
+
+#: DCC1/MLDev2.py:88
+msgid "Learn Type"
+msgstr ""
+
+#: DCC1/MLDev2.py:89
+msgid "Method"
+msgstr ""
+
+#: DCC1/MLDev2.py:97
+msgid "Select Data"
+msgstr ""
+
+#: DCC1/MLDev2.py:100
+msgid "Conect Data"
+msgstr ""
+
+#: DCC1/MLDev2.py:161
+msgid "Algorithm Pane Parameter "
+msgstr ""
+
+#: DCC1/MLDev2.py:396 DCC1/MLDev2.py:426
+msgid "Algorithm already added "
+msgstr ""
+
+#: DCC1/MLDev2.py:411 DCC1/MLDev2.py:463
+msgid "Your source Add to list Successfully."
+msgstr ""
+
+#: DCC1/MLDev2.py:413 DCC1/MLDev2.py:465
+msgid "Please attend to coding range!"
+msgstr ""
+
+#: DCC1/MLDev2.py:415 DCC1/MLDev2.py:467
+msgid "Some fields is empty or wrong ! try again!"
+msgstr ""
+
+#: DCC1/MLDev2.py:417
+msgid "Please Use <Generate> for create Panel"
+msgstr ""
+
+#: DCC1/MLDev2.py:429
+msgid "Please Use <Apply> for add Algorithm file"
+msgstr ""
+
+#: DCC1/MLDev2.py:475
+msgid "Add MLA to List"
+msgstr ""
+
+#: DCC1/MLDev2.py:766
+msgid "Alg. id"
+msgstr ""
+
+#: DCC1/MLDev2.py:783
+msgid "Example: GD  EN  GLM  MLE"
+msgstr ""
+
+#: DCC1/MLDev2.py:820
+msgid "Cancle"
+msgstr ""
+
+#: DCC1/MenuDev2.py:41
+msgid "List of menu:"
+msgstr ""
+
+#: DCC1/MenuDev2.py:49
+msgid "Name Menu"
+msgstr ""
+
+#: DCC1/MenuDev2.py:87
+msgid "Separator"
+msgstr ""
+
+#: DCC1/MenuDev2.py:122
+msgid "MenuBar:"
+msgstr ""
+
+#: DCC1/MenuDev2.py:146
+msgid "Code Generator"
+msgstr ""
+
+#: DCC1/MenuDev2.py:168 DCC1/ToolBar2.py:171
+msgid "Icon"
+msgstr ""
+
+#: DCC1/MenuDev2.py:173 DCC1/ToolBar2.py:176
+msgid "Select a file"
+msgstr ""
+
+#: DCC1/MenuDev2.py:185
+msgid "ShortCut"
+msgstr ""
+
+#: DCC1/MenuDev2.py:198
+msgid "Status"
+msgstr ""
+
+#: DCC1/MenuDev2.py:211
+msgid "Disable"
+msgstr ""
+
+#: DCC1/MenuDev2.py:214
+msgid "Hide"
+msgstr ""
+
+#: DCC1/MenuDev2.py:225
+msgid "Normal"
+msgstr ""
+
+#: DCC1/MenuDev2.py:228
+msgid "Check"
+msgstr ""
+
+#: DCC1/MenuDev2.py:231
+msgid "Radio"
+msgstr ""
+
+#: DCC1/MenuDev2.py:239
+msgid "Sub Menu"
+msgstr ""
+
+#: DCC1/MenuDev2.py:326 DCC1/MenuDev2.py:437 DCC1/MenuDev2.py:471
+msgid "MenuBar: "
+msgstr ""
+
+#: DCC1/MenuDev2.py:404 DCC1/MenuDev2.py:955
+msgid "New Menu Bar"
+msgstr ""
+
+#: DCC1/MenuDev2.py:406
+msgid "Edit Menu Bar"
+msgstr ""
+
+#: DCC1/MenuDev2.py:408 DCC1/MenuDev2.py:1005
+msgid "Delete Menu Bar"
+msgstr ""
+
+#: DCC1/MenuDev2.py:411 DCC1/MenuDev2.py:1019
+msgid "Manage Directory"
+msgstr ""
+
+#: DCC1/MenuDev2.py:518
+msgid "Some things wrong!"
+msgstr ""
+
+#: DCC1/MenuDev2.py:542
+msgid "You can NOT edit Separator line"
+msgstr ""
+
+#: DCC1/MenuDev2.py:564
+msgid "Menu Edited Successfully"
+msgstr ""
+
+#: DCC1/MenuDev2.py:577
+msgid "Please remove the sub menu item first!"
+msgstr ""
+
+#: DCC1/MenuDev2.py:595
+msgid "Please use Delete Menu Bar with right click on mouse"
+msgstr ""
+
+#: DCC1/MenuDev2.py:640
+msgid " Add Successful Separator"
+msgstr ""
+
+#: DCC1/MenuDev2.py:699
+msgid "you successful add menu "
+msgstr ""
+
+#: DCC1/MenuDev2.py:702
+msgid "Please Use Edit icon or first Add item"
+msgstr ""
+
+#: DCC1/MenuDev2.py:771
+msgid "Please Close Application Now!"
+msgstr ""
+
+#: DCC1/MenuDev2.py:948
+msgid ""
+"Note: To avoid duplicate code, pay attention to the correct format  [991] "
+"[99az] \t            The automatic code generation button helps you to "
+"create and generate new code [...] \t            To create a new directory, "
+"just type its name at the end of the path after the slash \t            You "
+"can use the same directories for multiple menu bars."
+msgstr ""
+
+#: DCC1/MenuDev2.py:953 DCC1/MenuDev2.py:1047 DCC1/MenuDev2.py:1160
+#: DCC1/MenuDev2.py:1220
+msgid "Create"
+msgstr ""
+
+#: DCC1/MenuDev2.py:964
+msgid ""
+"Note: To avoid duplicate code, pay attention to the correct format  [991] "
+"[99az] \t        The automatic code generation button helps you to create "
+"and generate new code [...] \t        To create a new directory, just type "
+"its name at the end of the path after the slash \t\t    You can use the same "
+"directories for the several menu bar . "
+msgstr ""
+
+#: DCC1/MenuDev2.py:980 DCC1/MenuDev2.py:1267
+msgid "Change"
+msgstr ""
+
+#: DCC1/MenuDev2.py:982
+msgid "Change Menu Bar"
+msgstr ""
+
+#: DCC1/MenuDev2.py:991
+msgid ""
+" Note : that by deleting the menu bar, all the items below it will also be "
+"removed \t              Only the programs attached to the items will not be "
+"removed and the code will remain \t              You can assign them to "
+"other items or create a new item . "
+msgstr ""
+
+#: DCC1/MenuDev2.py:1008
+msgid "Menu Bar and Access and Sub Item successfully Deleted"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1068
+msgid "Bar name"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1094
+msgid "Automatic code generate"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1100 DCC1/ProgDev2.py:178
+msgid "Directory"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1337
+msgid "List of Directory and Path in Program"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1358
+msgid "Delete from HDD"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1363
+msgid "Delete Record"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1427
+msgid "Please selected one item you like to delete it"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1432
+msgid ""
+" You can not delete this Directory, MenuBar is exist .\n"
+" If you want please delete MenuBar first."
+msgstr ""
+
+#: DCC1/MenuDev2.py:1436
+msgid ""
+" Some program is exist in Hanlder .\n"
+" Please remove the programs from the list first and then the directory."
+msgstr ""
+
+#: DCC1/MenuDev2.py:1441
+msgid "Do you want to delete this directory from HardDisk"
+msgstr ""
+
+#: DCC1/MenuDev2.py:1446
+msgid "Your Path in HardDisk is exist you can use it later"
+msgstr ""
+
+#: DCC1/ProgDev2.py:57 DCC1/ProgDev2.py:292
+msgid "List of Programs:"
+msgstr ""
+
+#: DCC1/ProgDev2.py:64
+msgid "Program name"
+msgstr ""
+
+#: DCC1/ProgDev2.py:131
+msgid "Description:"
+msgstr ""
+
+#: DCC1/ProgDev2.py:141
+msgid "ID No."
+msgstr ""
+
+#: DCC1/ProgDev2.py:149
+msgid "Prog. No."
+msgstr ""
+
+#: DCC1/ProgDev2.py:162
+msgid "import "
+msgstr ""
+
+#: DCC1/ProgDev2.py:191
+msgid "Parameters"
+msgstr ""
+
+#: DCC1/ProgDev2.py:204
+msgid "Link:"
+msgstr ""
+
+#: DCC1/ProgDev2.py:212
+msgid "Public it"
+msgstr ""
+
+#: DCC1/ProgDev2.py:223
+msgid "Database:"
+msgstr ""
+
+#: DCC1/ProgDev2.py:229
+msgid "Select Database Tabels and Fields for this program"
+msgstr ""
+
+#: DCC1/ProgDev2.py:539
+#, python-format
+msgid "Do you like delete program [%s] from HDD"
+msgstr ""
+
+#: DCC1/ProgDev2.py:546
+msgid "File Successfully Remove from HardDisk"
+msgstr ""
+
+#: DCC1/ProgDev2.py:548
+msgid "File Open or dose not exist please close it or check Harddisk"
+msgstr ""
+
+#: DCC1/ProgDev2.py:560
+msgid "Program successful delete from your list"
+msgstr ""
+
+#: DCC1/ProgDev2.py:619
+msgid "Please first Generate program then select the correct one to use it"
+msgstr ""
+
+#: DCC1/ProgDev2.py:650 DCC1/ProgDev2.py:694
+msgid "Program Successfull add to list"
+msgstr ""
+
+#: DCC1/ProgDev2.py:666
+msgid "You Forgot add main function! Please add it"
+msgstr ""
+
+#: DCC1/ProgDev2.py:677
+msgid "You forgot add [if __name__=='__main__'] to end of file. We add it!!"
+msgstr ""
+
+#: DCC1/ProgDev2.py:749
+msgid "Please move your file to API directory or use correct form! "
+msgstr ""
+
+#: DCC1/ProgDev2.py:752
+msgid "You can only generate the unlisted program with end with this code '??'"
+msgstr ""
+
+#: DCC1/ProgDev2.py:812
+msgid "Create for Aui Pane"
+msgstr ""
+
+#: DCC1/ProgDev2.py:819
+msgid "name of file to create"
+msgstr ""
+
+#: DCC1/ProgDev2.py:832
+msgid "choise path of file to create"
+msgstr ""
+
+#: DCC1/ToolBar2.py:47
+msgid "List of toolbar:"
+msgstr ""
+
+#: DCC1/ToolBar2.py:56
+msgid "Toolbar ID"
+msgstr ""
+
+#: DCC1/ToolBar2.py:57
+msgid "Toolbar Name"
+msgstr ""
+
+#: DCC1/ToolBar2.py:88
+msgid "Seperator"
+msgstr ""
+
+#: DCC1/ToolBar2.py:123
+msgid "Group:"
+msgstr ""
+
+#: DCC1/ToolBar2.py:150
+msgid "Code generator"
+msgstr ""
+
+#: DCC1/ToolBar2.py:189
+msgid "Short text"
+msgstr ""
+
+#: DCC1/ToolBar2.py:202
+msgid "Long text"
+msgstr ""
+
+#: DCC1/ToolBar2.py:215
+msgid "Type Toolbar"
+msgstr ""
+
+#: DCC1/ToolBar2.py:439
+msgid "Directory :"
+msgstr ""
+
+#: DCC1/ToolBar2.py:505 DCC1/ToolBar2.py:621 DCC1/ToolBar2.py:669
+msgid ""
+"Please press Add button and then press [...] generator cod button. Group and "
+"cod NOT match"
+msgstr ""
+
+#: DCC1/ToolBar2.py:533
+msgid "successful change Toolbar in program"
+msgstr ""
+
+#: DCC1/ToolBar2.py:551
+msgid "successful delete Toolbar at program"
+msgstr ""
+
+#: DCC1/ToolBar2.py:564
+msgid "Please First Add 1 item then use line separator"
+msgstr ""
+
+#: DCC1/ToolBar2.py:609
+msgid "You must choose an image for tool, Please select a correct image."
+msgstr ""
+
+#: DCC1/ToolBar2.py:612
+msgid ""
+"Please fill the name ,id  and access field, this fields must could not be "
+"empty."
+msgstr ""
+
+#: DCC1/ToolBar2.py:654
+msgid "successful add Toolbar to program"
+msgstr ""
+
+#: DCC1/ToolBar2.py:841
+msgid "Please select toolbar or create it"
+msgstr ""
+
+#: GUI/MainMenu2.py:104 GUI/MainMenu2.py:121
+msgid "Error In Menu Database. Please connect to Programmer"
+msgstr ""
+
+#: GUI/window2.py:172
+msgid "Menu Change"
+msgstr ""
+
+#: GUI/window2.py:172
+msgid "Toolbar Change"
+msgstr ""
+
+#: GUI/window2.py:172
+msgid "Panes Change"
+msgstr ""
+
+#: GUI/window2.py:173
+msgid "Databases..."
+msgstr ""
+
+#: GUI/window2.py:173
+msgid "Programs..."
+msgstr ""
+
+#: GUI/window2.py:173
+msgid "Add Tools..."
+msgstr ""
+
+#: GUI/window2.py:174
+msgid "MLA Design..."
+msgstr ""
+
+#: GUI/window2.py:174
+msgid "Settings..."
+msgstr ""
