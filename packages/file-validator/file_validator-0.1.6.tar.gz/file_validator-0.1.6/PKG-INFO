@@ -1,0 +1,296 @@
+Metadata-Version: 2.1
+Name: file_validator
+Version: 0.1.6
+Summary: A library for validating files in Python
+Home-page: https://github.com/rzashakeri/file_validator
+Author: Reza Shakeri
+Author-email: rzashakeri@outlook.com
+License: MIT license
+Keywords: file_validator,file,validator,image_validator,audio_validator,video_validator,django
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Framework :: Django
+Classifier: Topic :: Multimedia
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=3.6
+License-File: LICENSE
+License-File: AUTHORS.rst
+
+==============
+File Validator
+==============
+
+
+.. image:: https://img.shields.io/pypi/v/file_validator.svg?color=light
+        :target: https://pypi.python.org/pypi/file_validator
+
+.. image:: https://readthedocs.org/projects/file-validator/badge/?version=latest
+        :target: https://file-validator.readthedocs.io/en/latest/?version=latest
+        :alt: Documentation Status
+
+.. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg?color=light
+        :target: https://python.org
+        :alt: made with python
+
+.. image:: https://img.shields.io/github/license/rzashakeri/file_validator?color=light
+        :alt: GitHub
+        :target: https://pypi.org/project/file-validator/
+
+.. image:: https://img.shields.io/appveyor/build/rzashakeri/file-validator
+        :alt: AppVeyor
+        :target: https://ci.appveyor.com/api/projects/status/v8e1kr94a0259uw6?svg=true
+
+.. image:: https://img.shields.io/codecov/c/github/rzashakeri/file_validator?token=13ZVSJWH8M
+        :alt: Codecov
+        :target: https://codecov.io/gh/rzashakeri/file_validator
+
+.. image:: https://img.shields.io/pypi/pyversions/file-validator?color=light
+        :alt: PyPI - Python Version
+        :target: https://pypi.org/project/file-validator/
+
+.. image:: https://static.pepy.tech/personalized-badge/file-validator?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads
+        :target: https://pepy.tech/project/file-validator
+
+.. image:: https://mperlet.github.io/pybadge/badges/10.svg
+    :target: https://pypi.org/project/file-validator/
+    :alt: pylint
+
+
+.. image:: https://www.codefactor.io/repository/github/rzashakeri/file_validator/badge
+   :target: https://www.codefactor.io/repository/github/rzashakeri/file_validator
+   :alt: CodeFactor
+
+.. image:: https://raw.githubusercontent.com/rzashakeri/file_validator/master/file_validator.png
+        :target: https://raw.githubusercontent.com/rzashakeri/file_validator/master/file_validator.png
+
+
+Features
+--------
+If you are looking for a safe way to validate your files,
+the file validator library will do this for you, this
+library also supports `Django <https://www.djangoproject.com/>`_.With this library you can
+validate files based on extension, size, mimes and magic numbers
+
+* File validation using the `filetype`_ library
+
+.. _filetype: https://github.com/h2non/filetype.py
+
+* File validation using the `python-magic`_ library
+
+.. _python-magic: https://github.com/ahupp/python-magic
+
+* File validation using the `mimetypes`_ library
+
+.. _mimetypes: https://docs.python.org/3/library/mimetypes.html
+
+* File validation using the `puremagic`_ library
+
+.. _puremagic: https://github.com/cdgriffith/puremagic
+
+.. | line |
+
+* File validation with Size
+
+.. |  line |
+
+* Supporting for all `mimes`_
+
+.. _mimes: https://www.iana.org/assignments/media-types/media-types.xhtml
+
+.. |   line |
+
+* File validation simultaneously with all four libraries
+
+
+
+**installation**
+
+
+
+To install File Validator, run this command in your terminal:
+
+.. code-block:: console
+
+    $ pip install file_validator
+
+
+.. warning::
+    After installing file validator, we need to install libmagic,
+    which you need to install using the following command:
+
+**for windows:**
+
+.. code-block:: console
+
+    $ pip install python-magic-bin
+
+
+**for Debian/Ubuntu:**
+
+.. code-block:: console
+
+    $ sudo apt-get install libmagic1
+
+**for OSX:**
+
+When using Homebrew:
+
+.. code-block:: console
+
+    brew install libmagic
+
+
+When using macports:
+
+.. code-block:: console
+
+    port install file
+
+
+
+This is the preferred method to install File Validator, as it will always install the most recent stable release.
+
+
+
+
+Documentation
+--------------
+
+* Read the `document`_ for more information
+
+.. _document: https://file-validator.readthedocs.io
+
+Credits
+-------
+
+This package was created By RezaShakeri_
+
+.. _RezaShakeri: https://github.com/rzashakeri
+
+
+=======
+History
+=======
+
+0.0.1 (2022-08-04)
+------------------
+
+* First release on PyPI.
+
+
+0.0.2 (2022-08-06)
+------------------
+
+* Added django file validator
+
+
+0.0.3 (2022-08-07)
+------------------
+* Added File Validator With File Type Library
+* Added File Validator With Python Magic Library
+
+0.0.4 (2022-08-07)
+------------------
+* Added File Validator
+
+0.0.5 (2022-08-08)
+------------------
+* Added **validator for pure python** project
+* Added **get_mime_type_with_python_magic** function
+* Added **get_extension_with_filetype_lib** function
+* Added **get_mime_type_with_filetype_lib** function
+* Added **file_validator_with_filetype_lib** function
+
+0.0.6 (2022-08-10)
+------------------
+* Refactoring project files
+
+0.0.7 (2022-08-10)
+------------------
+* Adding Test To Project (file validator for pure python)
+* Deleting **get_mime_type_with_python_magic**
+* Deleting **get_extension_with_filetype_lib**
+* Deleting **get_mime_type_with_filetype_lib**
+
+0.0.8 (2022-08-11)
+------------------
+* Adding error message function for customization error messages
+* Adding constants.py
+
+
+0.0.9 (2022-08-11)
+------------------
+* Refactoring error message function
+
+0.1.0 (2022-08-12)
+------------------
+* Fixing Minor Bug
+
+
+0.1.1 (2022-08-12)
+------------------
+* Fixing python magic installation problem
+
+
+0.1.2 (2022-08-14)
+------------------
+* Fixing installation problem
+
+
+0.1.3 (2022-08-14)
+------------------
+* Adding installation guide for lib magic
+
+0.1.4 (2022-08-15)
+------------------
+* Refactoring imports
+* Refactoring error message
+* Adding __eq__ to class
+* Refactoring docstring
+* Error handling when the mime type not found
+* Adding the exception module
+* Adding constant error message
+* Refactor error_message function
+* Fix get the extension problem with the mimetypes library
+
+
+0.1.5 (2022-08-18)
+------------------
+* Adding File Size Validation
+* Adding File Validation using Pure Magic Library
+* Fix Minor Problem
+
+0.1.6 (2022-08-23)
+------------------
+* In this version of file validator, instead
+  of considering a separate class for each
+  library that we want to use for file validation,
+  we considered a whole class and left it to the
+  administrator to choose the library that is
+  going to perform the validation operation.
+  From one class, you can perform validation
+  operations by one or more libraries
+
+* Adding Constants
+* Fix AttributeError When Mime Not Found
+* Fix Value Error When Selected One Mime
+* Fix Minor Problem
+
+
+
