@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: pygow-poker
+Version: 0.0.1
+Summary: Play or Simulate Pai Gow Poker
+Home-page: https://github.com/jarroddowalter/pygow-poker
+Author: Jarrod Dowalter
+License: MIT License
+Keywords: pai,gow,poker
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: rich (>=12.5.1)
+
+# pygow-poker
+
+Simulate or play your favorite pai gow poker variant with python!
+
+## Installation
+
+Run the following to install
+
+```
+pip install pygow-poker
+```
+
+On init (Windows)
+
+```
+python -m virtualenv venv
+
+source venv/Scripts/activate
+
+pip install -r dev-requirements.txt
+```
+
+On init (Mac)
+
+```
+virtualenv venv
+
+source venv/bin/activate
+
+pip install -r dev-requirements.txt
+```
+
+Build
+
+```
+pip install --upgrade build
+python -m build
+```
