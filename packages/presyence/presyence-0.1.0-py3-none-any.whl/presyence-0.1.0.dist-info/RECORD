@@ -1,0 +1,11 @@
+presyence/.python-version,sha256=Mq_ddpTLnMN0Y5qXG6i2IQIeXG_2EG-dFhookVZ3xqs,7
+presyence/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+presyence/faster.sh,sha256=pdXYx7B8g5Dv06BUGqKBejLxN-57UPYDGqSKeDuOH4I,107
+presyence/main.py,sha256=ld3eDr9yE8CZAPUio5kGH9txw-heHDy4Hi48a1OTn7w,328
+presyence/reporter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+presyence/testing.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+presyence/testrunner/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+presyence-0.1.0.dist-info/entry_points.txt,sha256=HMflf2SesbrJ5KENKUhWiCBxwy9o31Ik89QWfz2chzs,48
+presyence-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+presyence-0.1.0.dist-info/METADATA,sha256=I-kkvtQZGARqvsS89_Dc7iSsxqv02NJZowLS7I52SsA,414
+presyence-0.1.0.dist-info/RECORD,,
