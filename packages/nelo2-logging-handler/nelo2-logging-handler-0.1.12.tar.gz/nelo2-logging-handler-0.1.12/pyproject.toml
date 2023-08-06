@@ -1,0 +1,33 @@
+[[tool.poetry.source]]
+name = "ncloud-pypi"
+url = "http://10.168.127.57:8000/simple"
+
+
+[tool.poetry]
+name = "nelo2-logging-handler"
+version = "0.1.12"
+description = ""
+authors = ["ultimatelife"]
+readme = "README.rst"
+homepage = "https://github.com/ultimatelife/nelo2-logging-handler"
+repository = "https://github.com/ultimatelife/nelo2-logging-handler"
+documentation = "https://github.com/ultimatelife/nelo2-logging-handler"
+keywords = ["nelo", "nelo2", "naver", "ncloud", "elsa"]
+classifiers= [
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8.7"
+aiohttp = "^3.7.4"
+requests = "^2.23.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
