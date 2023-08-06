@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: oShape-package
+Version: 0.0.1.post1
+Summary: HairÇoSys oShape Package
+Home-page: https://github.com/NVlabs/SPADE
+Author: Ferdy
+Author-email: moeharyoso89@gmail.com
+License: BSD-3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.9.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy (==1.23.1)
+Requires-Dist: opencv-contrib-python (==4.6.0.66)
+Requires-Dist: orjson (==3.7.11)
+Requires-Dist: Pillow (==9.2.0)
+Requires-Dist: pydantic (==1.9.1)
+Requires-Dist: python-dotenv (==0.20.0)
+Requires-Dist: PyYAML (==6.0)
+Requires-Dist: torch (==1.12.1)
+Requires-Dist: torchvision (==0.13.1)
+Requires-Dist: strictyaml (<1.4.0,>=1.3.2)
+Requires-Dist: ruamel.yaml (==0.16.12)
+
+HairÇoSys oShape Package
