@@ -1,0 +1,17 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ab_ratio/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ab_ratio/detectFacialFeatures.py,sha256=JA3dIeLsRo3Cv1ObuRagT5S5jYbHdQrPv-ylZnao8ck,9376
+ab_ratio/predict.py,sha256=WEu814bUYJf9hkjHoJ8Cmg3nsBu3Uas3Y8MzsE8gmTI,3177
+ab_ratio/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ab_ratio/utils/algorithm_utils.py,sha256=cpi9nIAMpqVcwJR48eSkN31iFR4GsMfLyOeM5fImsY4,4694
+ab_ratio/utils/drawAndCalculate.py,sha256=xrBzfl0eyLudSK6S563y6lEVRNCga0GwE3wWLf3T-KY,892
+ab_ratio/utils/preprocess.py,sha256=tZaOJIT-wEYyXQ00VHLZ99_U0ivrZ_J_k_Z2QFn68V4,437
+ab_ratio/utils/print_utils.py,sha256=omlHeNIlEAw9wd53cARaSqnT1z8kuIE9euekkTHuCZE,3337
+ab_ratio/utils/shape_predictor_81_face_landmarks.dat,sha256=jK5DdVid2RXZoKiBEBvtG7tOmIfjXmOwJDiPHKJf-Gk,19743860
+requirements/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+requirements/requirements.txt,sha256=i11Zubz3zH3LV94ExLTPiJE1B4isy93TJd61HCmBa80,135
+M_Shape_AB_Ratio-0.0.1.dist-info/LICENSE,sha256=QGam9UqqTK9_nywewepOCFm4wIwSNrKNb0LaikROAc4,1092
+M_Shape_AB_Ratio-0.0.1.dist-info/METADATA,sha256=h0Gjm9ANRiWkGdKKnDCr4nrd4_EnM3RhKQYWuBmZf6I,904
+M_Shape_AB_Ratio-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+M_Shape_AB_Ratio-0.0.1.dist-info/top_level.txt,sha256=3zYMpXLJAKve50qQrviIR1e3Ah1fO3Yaqf-w-2Ca7TA,31
+M_Shape_AB_Ratio-0.0.1.dist-info/RECORD,,
