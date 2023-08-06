@@ -1,0 +1,103 @@
+Metadata-Version: 2.1
+Name: revalorise
+Version: 0.0.1
+Summary: Who is Revalorise
+Home-page: https://github.com/Revalorise
+Author: Revalorise
+Author-email: Blackball007b@gmail.com
+License: MIT
+Download-URL: https://github.com/Revalorise
+Keywords: Revalorise,Introduction
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+The package is the introduction of my online-self
+=================================================
+
+PyPi: https://pypi.org/project/Revalorise/
+
+Hello! This package is the introduction of my online-self named
+(Revalorise)
+
+How to install
+~~~~~~~~~~~~~~
+
+open CMD / Terminal
+
+.. code:: python
+
+   pip install revalorise
+
+How to use this package
+~~~~~~~~~~~~~~~~~~~~~~~
+
+-  open IDLE and type..
+
+.. code:: python
+
+   from revalorise import revalorise
+
+   rev = revalorise() #Declare class name
+   rev.show_name() #Show name
+   rev.show_youtube() #Show youtube link
+   rev.show_github() #Show Github link
+   rev.about_me() #Show my bio
+   rev.show_art() #Show ASCII Art
+
+Developed by : Revalorise FB: https://www.facebook.com/
+
+YouTube: https://www.youtube.com/ # The package is the introduction of
+my online-self
+
+PyPi: https://pypi.org/project/Revalorise/
+
+Hello! This package is the introduction of my online-self named
+(Revalorise)
+
+.. _how-to-install-1:
+
+How to install
+~~~~~~~~~~~~~~
+
+open CMD / Terminal
+
+.. code:: python
+
+   pip install revalorise
+
+.. _how-to-use-this-package-1:
+
+How to use this package
+~~~~~~~~~~~~~~~~~~~~~~~
+
+-  open IDLE and type..
+
+.. code:: python
+
+   from revalorise import revalorise
+
+   rev = revalorise() #Declare class name
+   rev.show_name() #Show name
+   rev.show_youtube() #Show youtube link
+   rev.show_github() #Show Github link
+   rev.about_me() #Show my bio
+   rev.show_art() #Show ASCII Art
+
+Developed by : Revalorise FB: https://www.facebook.com/
+
+YouTube: https://www.youtube.com/
+
+
