@@ -1,0 +1,13 @@
+snappyko/__init__.py,sha256=sMq27UM4jCVmh1fbLfGss2HXuZdTpsjCShLnA_16LJk,24
+snappyko/newton.py,sha256=NO5oDR0zcs0B5VKO5AKuVjQuR2Hwg4LONxRaSjXzN5M,1769
+snappyko/orbit.py,sha256=-aGDRO3Ogm1M3M5xHrcx7kyF8dYlOR4lRmUE8_zIJcE,4765
+snappyko/tsorbit.py,sha256=coVZA6Z0QITPugS4XA0WRdUo2s-Qy57FkaBj7IvgBdM,8904
+snappyko/utils.py,sha256=zFv2b1vAMxlQFGvI31yI0z0NSAOFa2_faXvGIq3BoyI,3214
+snappyko/version.py,sha256=sNO-A9B71t8Ovg1iLZuL0KXJjxpjY2L4i0kzbyomiUQ,829
+snappyko/xy5.py,sha256=Msz7pOEs3-ZX4h41fbY7DLKryE1UGp961CU0UBdIhYU,8215
+snappyko/xyz5.py,sha256=Ounlzmzwfy_-0P6btTRYaYIyaYYfIztk6ocFxCU8yDc,9905
+SnappyKO-0.5.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+SnappyKO-0.5.2.dist-info/METADATA,sha256=ewJeeMbehkpNyguxdUyhTLk4oV6e4FTXA7xWme2Yi84,760
+SnappyKO-0.5.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+SnappyKO-0.5.2.dist-info/top_level.txt,sha256=MPCRTAocEpPwGjd5vKobDvW-v3u_v2myaRM4KVJQwzs,9
+SnappyKO-0.5.2.dist-info/RECORD,,
