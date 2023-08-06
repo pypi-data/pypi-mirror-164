@@ -1,0 +1,4 @@
+lz4
+aiofiles
+aioconsole
+importlib-metadata
