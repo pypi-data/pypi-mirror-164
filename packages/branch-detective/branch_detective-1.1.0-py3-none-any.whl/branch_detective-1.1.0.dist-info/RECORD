@@ -1,0 +1,12 @@
+branch_detective/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+branch_detective/__main__.py,sha256=Rl7nwpcQnxyt5DDHxy44l3DUdBW4wR4qibS4PzEqnuo,3855
+branch_detective/commits.py,sha256=DIAF6I4eW5kLV0p9boXkNQ6ykt3gpmZq_mEFUYfNOPQ,5378
+branch_detective/compare.py,sha256=7mW8MshRWF374LF6Uvh0UGSbgEcJ3zlf6yhr4RiBCHY,2097
+branch_detective/description.py,sha256=nL-7qqBArBl9qpWl8RIqIORZbXvFNF7yeSfHp4JL8m4,1298
+branch_detective/repository.py,sha256=O64E8EUI5Pd4h-NUWShYeHorH9VMRyfMDyAXRPIzdQU,3715
+branch_detective-1.1.0.dist-info/LICENSE,sha256=TM5UlPhvqVSb3xEJcHp-BLyvdAsF3duDMkr0gOEhpdE,1525
+branch_detective-1.1.0.dist-info/METADATA,sha256=E_RyGHtrb1GMHJL0qRcLRC15ihOBe3c6PhtZLjG5Zrw,5190
+branch_detective-1.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+branch_detective-1.1.0.dist-info/entry_points.txt,sha256=KRlcTMKE2a0EKjeTntpBrzzWriqTTcLddvNMorR1-Kw,68
+branch_detective-1.1.0.dist-info/top_level.txt,sha256=OtcB_XPrcfPC-ODcss8zHs7SqARHDxHIy55fumDePVk,17
+branch_detective-1.1.0.dist-info/RECORD,,
