@@ -1,0 +1,8 @@
+LICENSE
+README.md
+main.py
+pyproject.toml
+zeit3101helpers.egg-info/PKG-INFO
+zeit3101helpers.egg-info/SOURCES.txt
+zeit3101helpers.egg-info/dependency_links.txt
+zeit3101helpers.egg-info/top_level.txt

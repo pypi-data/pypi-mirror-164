@@ -1,0 +1,19 @@
+[project]
+name = "zeit3101helpers"
+version = "0.0.2"
+authors = [
+  { name="Ryan Cartwright", email="fryzee.cartwright@gmail.com" },
+]
+description = "Helpers for the ZEIT3101 project"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/System-Not-Found/ZEIT3101"
+"Bug Tracker" = "https://github.com/System-Not-Found/ZEIT3101/issues"
