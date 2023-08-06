@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+pyproject.toml
+setup.py
+src/__init__.py
+src/deutschcase.py
+src/deutschcase.egg-info/PKG-INFO
+src/deutschcase.egg-info/SOURCES.txt
+src/deutschcase.egg-info/dependency_links.txt
+src/deutschcase.egg-info/top_level.txt

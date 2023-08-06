@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: deutschcase
+Version: 0.0.1
+Summary: Determine the case of Boolean function
+Home-page: UNKNOWN
+Author: Amira Mahmoud
+Author-email: amiramahmoudabd@gmail.com
+License: MIT
+Keywords: Deutsch
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+License-File: LICENCE.txt
+
+This library is based on Deutsch-Jozsa Algorithm which help determine whether a Boolean function is constant or balanced.
+ 
+
+Change Log
+=============
+
+0.0.1 (01/07/2022)
+----------------------
+First Release
+
