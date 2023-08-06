@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: yb-wishes
+Version: 0.0.5
+Summary: wishes
+Author: yone
+Author-email: 1242925780@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+
