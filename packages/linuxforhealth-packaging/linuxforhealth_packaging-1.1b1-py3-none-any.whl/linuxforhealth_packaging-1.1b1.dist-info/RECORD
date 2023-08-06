@@ -1,0 +1,8 @@
+linuxforhealth/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+linuxforhealth/packaging/__init__.py,sha256=zb9Wa489y-alb8BRuTwvaYROVTBKDCAyM9jjiwE03j8,23
+linuxforhealth/packaging/calculator.py,sha256=v7C1xZeAWmFNS8QAnhxFN05od8fon6ljNC73v57iW64,238
+linuxforhealth_packaging-1.1b1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+linuxforhealth_packaging-1.1b1.dist-info/METADATA,sha256=hJz8I0q8vHJusYsgIyufTS4iQs1Kge6YezaYp4EPyUo,1598
+linuxforhealth_packaging-1.1b1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+linuxforhealth_packaging-1.1b1.dist-info/top_level.txt,sha256=jSGt9cLAqIco6Pn985BF1QKJCBqhykAOe09hG4hS6j4,15
+linuxforhealth_packaging-1.1b1.dist-info/RECORD,,
