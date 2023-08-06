@@ -1,0 +1,14 @@
+README.md
+setup.py
+merge_res/__init__.py
+merge_res/__main__.py
+merge_res/cli.py
+merge_res/merge.py
+merge_res/merge_file.py
+merge_res/merge_public.py
+merge_res/merge_xml.py
+merge_res.egg-info/PKG-INFO
+merge_res.egg-info/SOURCES.txt
+merge_res.egg-info/dependency_links.txt
+merge_res.egg-info/entry_points.txt
+merge_res.egg-info/top_level.txt
