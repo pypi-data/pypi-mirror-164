@@ -1,0 +1,3 @@
+[console_scripts]
+merge-openapi=merge_openapi.__main__:main
+
