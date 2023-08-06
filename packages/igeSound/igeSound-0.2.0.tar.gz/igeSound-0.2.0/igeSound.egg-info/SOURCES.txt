@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+Sound.h
+igeSound.h
+igeSound_doc_en.h
+setup.py
+igeSound.egg-info/PKG-INFO
+igeSound.egg-info/SOURCES.txt
+igeSound.egg-info/dependency_links.txt
+igeSound.egg-info/top_level.txt
