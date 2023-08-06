@@ -1,0 +1,2 @@
+[console_scripts]
+retica = Retica.cli:main
