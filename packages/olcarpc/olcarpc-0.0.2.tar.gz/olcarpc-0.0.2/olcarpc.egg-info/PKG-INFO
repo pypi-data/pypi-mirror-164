@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: olcarpc
+Version: 0.0.2
+Summary: A Python gRPC client library for openLCA.
+Home-page: https://github.com/GreenDelta/olcarpc.py
+License: UNKNOWN
+Keywords: openLCA,life cycle assessment,LCA
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# olcarpc
+
+This is a Python 3.7+ gRPC client library for 
+[openLCA 2](https://www.openlca.org/). It can be installed via pip:
+
+```bash
+pip install olcarpc
+```
+
+See the [openLCA API documentation](https://github.com/GreenDelta/openLCA-ApiDoc)
+for the supported service and message types. Also, the [examples](./examples)
+folder contains some examples.
+
+
