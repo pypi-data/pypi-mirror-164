@@ -1,0 +1,10 @@
+pyvmaf-1.0.0a1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+pyvmaf-1.0.0a1.dist-info/top_level.txt,sha256=RpmyCCz5hwDNCg8QTFsNCZAbU21bt2D0RexN9PTr8GM,7
+pyvmaf-1.0.0a1.dist-info/WHEEL,sha256=PngPnaXTX2MykTXP9n0F7DS2ostOsGEYg4EiSG1fUJk,113
+pyvmaf-1.0.0a1.dist-info/METADATA,sha256=YHAtpn7cFN9iN4MjgL3vC6nYVB00LkWyMWyWBYYF7C4,1365
+pyvmaf-1.0.0a1.dist-info/RECORD,,
+pyvmaf-1.0.0a1.dist-info/LICENSE,sha256=2OVGYqtUM-NAr-FX89iogWQHqSurbsu0w2nTsRfuz7w,4149
+pyvmaf/_vmaf.so,sha256=SQzUnmVXOaPu1-c6ZWwsRme9iu31UET2-vY8KBIoO4U,23224
+pyvmaf/core.py,sha256=lcP11EJiX-aNBxl2EL4B-Tg__ItjhRY5ZhT0GtOKCso,2917
+pyvmaf/__init__.py,sha256=vZmhD2jXI761SFBQevuRsIm1LxPrvZdf3gzuL8gzILc,68
+pyvmaf.libs/libvmaf-6d8fbf0a.so.1.1.3,sha256=dEIONVTTQukfJ2-r3wRAt2HbhVSLvvJSA6ITAXnssyA,2357640
