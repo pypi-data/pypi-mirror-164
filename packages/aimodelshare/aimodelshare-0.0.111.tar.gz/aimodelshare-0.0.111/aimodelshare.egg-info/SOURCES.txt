@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+aimodelshare.egg-info/PKG-INFO
+aimodelshare.egg-info/SOURCES.txt
+aimodelshare.egg-info/dependency_links.txt
+aimodelshare.egg-info/requires.txt
+aimodelshare.egg-info/top_level.txt
