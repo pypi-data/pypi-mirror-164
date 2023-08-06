@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="mpy-modcore">
+    <title>mpy-modcore - edit file</title>
+
+    <style type="text/css" media="screen">
+        .ace_editor,
+        .toolbar {
+            border: 1px solid lightgray;
+            margin: auto;
+            width: 70%;
+        }
+
+        .ace_editor {
+            height: 531px;
+            position: relative;
+            /*top: 85px;
+        right: 0;
+        bottom: 20px;
+        left: 0;*/
+        }
+    </style>
+
+
+    <!-- jquery
+-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js" integrity="sha512-6UofPqm0QupIL0kzS/UIzekR73/luZdC6i/kXDbWnLOJoqwklBK6519iUnShaYceJ0y4FaiPtX/hRnV/X/xlUQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- ace editor
+    https://ace.c9.io/#nav=embedding
+    https://cdnjs.com/libraries/ace
+-->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ace.min.js" integrity="sha512-U2JKYiHG3ixOjmdycNbi4Xur8q4Nv73CscCGEopBeiVyzDR5ErC6jmHNr0pOB8CUVWb0aQXLgL0wYXhoMU6iqw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ext-beautify.min.js" integrity="sha512-uXfi0GwpQZcHIhGOMMHeNYtBSjt7qDXjXHmjShWSp+RWMSmjdy69N7M/pufinvQLv6rSYlpbSXqSnLRzWE952w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ext-language_tools.min.js" integrity="sha512-yszTJ9Ko+JGmUNZYpHStWpMg2rSXrh2WjSSZGydzpHY+qOS/3nSgA+hBHUK3RvLhfjycKL8XWEmfUCZod/mEqA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ext-modelist.min.js" integrity="sha512-RX03+gQxfTlsbKpLDZ7MH1c3xkEEsywyr3DaHUiWre/Q5NmcpZsZ3yF5Il+rEJnru9rwA+3S+77ZDKELDsOBsQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ext-split.min.js" integrity="sha512-nRl6zFdpVhZ6mOiUV7WaD7VsHc58qfgXWZ7bxN5IkCVJ3+vBAprFSTfaGkesK7P6uv+2H7Uo7TienJp7bp1gow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ext-statusbar.min.js" integrity="sha512-eX2592PABdFExxA/fowxeNjxiQSbb2GHXLV7C6YebfTKp4fTuQ2RUacG9PeJIh7HWLwM3A6MkFtV+xBaAujVoQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ext-textarea.min.js" integrity="sha512-h+W6ZLOn7HpSnYvq3YgLGE7208sBzKVADckeSqrZP2bFGE8dzdC+6iJE7NTv8clB8g73xc043pxUWfIQyHNU2Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/ext-whitespace.min.js" integrity="sha512-L8DnrN/9xeOVTDlIb50+rDPaJmFNVZZiKtzCS8wLVBlZpOok+C2vJywi3pTn14tPhjA/5xXUB1UonCBzQnEL7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.6/beautify.min.js" integrity="sha512-Go7cpbYvU1StOCxAyBeJI1ouRj3JNrAts0a4u3VqrGKhRSfzs4G0ao7ztXyK9gdz6c/jY98keIKgl/xXoEsEHQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.6/beautifier.min.js" integrity="sha512-SJeXlVx2s0MuyysA3htTFeX8anKOuGDWSxQG0jWFsSa9CaIBeU+guA9TW/FmEaAgCM54iuBP55OVtpQf/hfweQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.6/beautify-css.min.js" integrity="sha512-GFqdK8eWyIrg2lcsWGNO82y8+NGy+nkhsrswfJQxTxWrzhpkRWPtBJTLOyuwo836SpK116KSBS/C4/+zhEgUVA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.6/beautify-html.min.js" integrity="sha512-Fw9RTM7unAZWlhm3dc17qHnluqVVbodz4lRR5GBvt81il5bi65zzZQ4OhR8qN53OJve7Vbisgu9hUKMJb0YnXQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-asciidoc.min.js" integrity="sha512-9PByMGqjHFjTdnElAL07Kkha4bec6x9Pd0MrJb7gf261Atjj/MU6AnT+aodL45dRMBdjvpldB1LIKJCHnW4Kpw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-css.min.js" integrity="sha512-8icusxCu6Y01zcVKm5BFeF1halztoO4gZa/uwM6zWwFk+aEhz+kJmBsX+0x2a/Hich1NX+v73hz+rwaY2efJJA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-html.min.js" integrity="sha512-uMmxLS29LYgQIt2f6xjpFHZFA9GFQKO65aO+d/CNEra0lXPDnuMOxDqLJaBAYgmwd2KdNVXWMT5Y8B6Z5/DBng==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-javascript.min.js" integrity="sha512-YTXoWGqn9pbJcdaqpRr6rWHjbSb8fohZFsgMuOlTwMGncpJ9Jij+1BwlAuUXokpusLYypwTpCz3b7hwVkoAjIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-json.min.js" integrity="sha512-YXUz04sMmhEPQR5FLg4/6MFWcrTzZRobwv6cEVWsX9bfos1lm/Z5hfVz4WB3Z3XyhcVjWWUOvudJ+CCxecDI7Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-markdown.min.js" integrity="sha512-VAjIEMQm6jf8KuP/SExcgB+2Z5HMdXGaQ1cwyL9/DVG28qBqrhNuDpXFDHn7Fa1GuNUYG78I13YHstv1B8h8wA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-plain_text.min.js" integrity="sha512-NyxLJrkArPeXhbuXzTLHVfYHYqq45rMVJM4CwuVd+gmkX6TGce8zyP8TFvEdsyv0eA4x72QX7qKmbBsSqMxIyA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-python.min.js" integrity="sha512-W1k0SdTb7FU3nxWYkBLQVhTC8b8BU6Je3deBSnLm/dSQ956goMMnL+NYi2SXse1i7k0eUJNMNycTvbEdrJmEFw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-rst.min.js" integrity="sha512-8+SQpC2NN/LZp6FQwFrhMl6ST8KMz1f2RyvkeKFTzENmbSuLpN/ZcsvYlCDFjTlAvqVg6r7tq6m6cN6B8IFy3g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-text.min.js" integrity="sha512-o/Hk1fQMV0j7iAwG7LayjUOcD1s+M08PgYzmtJaYJW9CGXJfAA6CzEBrL2MvaZYw5R+uGJrsp/TFmkcE6OV7OA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.9.6/mode-yaml.min.js" integrity="sha512-WcvQVyf7ECu3mkQRpaJJ2l05xJAIlFM1bscCbwduQBztxzoGUWqkAawsMdLr6tkD9ke4V6soIh6aufeAuW1ruw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/js/bootstrap.min.js" integrity="sha512-8Y8eGK92dzouwpROIppwr+0kPauu0qqtnzZZNEF8Pat5tuRNJxJXCkbQfJ0HlUG3y1HB3z18CSKmUo7i2zcPpg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- jstree
+    https://github.com/vakata/jstree
+    https://cdnjs.com/libraries/jstree
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.10/jstree.min.js" integrity="sha512-fgHQj3Fsk5TtG3XglZ/JkE06lx/gJdBZ+Lll785gf5RW3NWcGsyTBwauFtwrlZvpsuv6XSjzB97fBNagkT6uDg==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.10/themes/default-dark/style.min.css" integrity="sha512-WXJRkkdEPD+ELJ8Q/Wlbob6an44EFSIzz8+IAZKIpDzUr5ft20F310lnW8qaqP9bCconQq+ukILgrO1lJDAQvg==" crossorigin="anonymous" />
+-->
+
+
+</head>
+
+<body class="">
+
+    <div class="toolbar">
+        <button onclick="on_new()">new</button>
+        <label for="inp_file">file:</label>
+        <input id="inp_file" value=""></input>
+        <button onclick="on_reload()">re/load</button>
+        <button onclick="on_save()">save</button>
+
+        <span id="busystate" style="display: none" class="spinner-border" role="status">
+
+        </span>
+
+    </div>
+    <div class="toolbar">
+        <input id="line_nr" size="3" value="1"></input>
+        <button onclick="on_go_nr()">goto line</button>
+        <button onclick="on_undo()">undo</button>
+        <button onclick="on_redo()">redo</button>
+        <select id="edit_mode" onchange="on_mode_change()">
+            <option value="txt">default</option>
+            <option value="python">Python</option>
+            <option value="javascript">JavaScript</option>
+            <option value="json">JSON</option>
+            <option value="html">HTML</option>
+            <option value="css">CSS</option>
+            <option value="md">MarkDown</option>
+        </select>
+
+        <button id="btn_beautify" disabled=true onclick="on_beautify()">beautify</button>
+    </div>
+    <div class="toolbar">
+        <label for="inp_term">search:</label>
+        <input id="inp_term" size="7" value=""></input>
+        <button onclick="on_next()">next</button>
+        <button onclick="on_prev()">prev</button>
+        <input id="replace_term" size="7" value=""></input>
+        <button onclick="on_replace()">replace</button>
+        <button onclick="on_replace_all()">replace all</button>
+
+    </div>
+
+    <div id="folder_view"></div>
+
+    <div id="editor" class="ace_editor">
+
+    </div>
+
+
+    </div>
+
+
+    <script type="text/javascript">
+        function set_busy(en) {
+            if (en)
+                $("#busystate").show()
+            else
+                $("#busystate").hide()
+        }
+
+        async function get(url, as_json) {
+            console.log("get", url);
+            var response
+            try {
+                response = await fetch(url, {
+                    method: 'GET', // *GET, POST, PUT, DELETE, etc.
+                    mode: 'no-cors', // no-cors, *cors, same-origin
+                    redirect: 'error', // manual, *follow, error
+                })
+            } catch (ex) {
+                console.log(ex);
+                throw ex;
+            } finally {
+
+            }
+            console.log("get done", url, response.status);
+            try {
+                if (as_json == true) {
+                    jsn = await response.json()
+                    return jsn
+                }
+                jsn = await response.text()
+                return jsn
+            } catch (ex) {
+                console.log(response, ex);
+                throw ex;
+            }
+        }
+
+        async function post(url = '', data = {}, content = 'application/json') {
+            //url = urlmock(url)
+            console.log("post", url, data);
+            // Default options are marked with *
+            try {
+                const response = await fetch(url, {
+                    method: 'POST', // *GET, POST, PUT, DELETE, etc.
+                    mode: 'cors', // no-cors, *cors, same-origin
+                    cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
+                    credentials: 'same-origin', // include, *same-origin, omit
+                    headers: {
+                        'Content-Length': content.length,
+                        'Content-Type': content,
+                    },
+                    redirect: 'error', // manual, *follow, error
+                    referrerPolicy: 'no-referrer', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
+                    body: data, // body data type must match "Content-Type" header
+                });
+                console.log("post done", url, data);
+                return response;
+            } catch (ex) {
+                console.log("post failed", url, data, ex)
+                return;
+            } finally {
+
+            }
+        }
+
+        var inp_term_last = ""
+
+        function set_file_name(fnam = "") {
+            document.title = "edit: '" + fnam + "'"
+        }
+
+        function on_beautify() {
+            editor.setValue(beautifier.html(editor.getValue()))
+        }
+
+        function on_new() {
+            console.log("on_new")
+            editor.setValue("");
+            set_file_name()
+            inp_file.value = ""
+        }
+
+        function on_save() {
+            console.log("on_save")
+            src = editor.getValue()
+            console.log(src)
+            fnam = inp_file.value
+            set_file_name(fnam)
+            url = "/admin/file/" + fnam
+            set_busy(1)
+            post(url, data = src, content = "plain/text").then(x => {
+                set_busy(0);
+                console.log(x);
+            })
+        }
+
+        function on_save_as() {
+            console.log("on_save_as")
+        }
+
+        function on_close() {
+            console.log("on_close")
+        }
+
+        function on_reload() {
+            console.log("on_reload")
+            fnam = inp_file.value
+            set_file_name(fnam)
+            url = "/admin/file/" + fnam
+            set_mode_from_file(fnam)
+            set_busy(1);
+            get(url).then(src => {
+                editor.setValue(src);
+                editor.gotoLine(1);
+                set_busy(0);
+            })
+        }
+
+        function on_undo() {
+            console.log("on_undo")
+            editor.undo()
+        }
+
+        function on_redo() {
+            console.log("on_redo")
+            editor.redo()
+        }
+
+        function on_go_nr() {
+            console.log("on_go_nr", line_nr.value)
+            line = parseInt(line_nr.value)
+            if (line <= 0) return
+            editor.gotoLine(line)
+        }
+
+        function on_search() {
+            if (inp_term_last != inp_term.value) {
+                inp_term_last = inp_term.value
+                editor.find(inp_term_last)
+                return true
+            }
+            return false
+        }
+
+        function on_next() {
+            console.log("on_next", inp_term.value)
+            if (on_search()) return
+            editor.findNext()
+        }
+
+        function on_prev() {
+            console.log("on_prev", inp_term.value)
+            if (on_search()) return
+            editor.findPrevious()
+        }
+
+        function on_replace() {
+            console.log("on_replace", inp_term.value, replace_term.value)
+            editor.replace(replace_term.value)
+            editor.find(inp_term_last)
+        }
+
+        function on_replace_all() {
+            console.log("on_replace_all", inp_term.value, replace_term.value)
+            editor.replaceAll(replace_term.value)
+        }
+
+        function reset_tab() {
+            editor.session.setTabSize(4);
+            editor.session.setUseSoftTabs(true);
+        }
+
+        modes = {
+            "txt": function() {
+                btn_beautify.disabled = true;
+                editor.session.setMode("");
+            },
+            "python": function() {
+                btn_beautify.disabled = true;
+                editor.session.setTabSize(4);
+                editor.session.setUseSoftTabs(false);
+                editor.session.setMode("ace/mode/python");
+            },
+            "javascript": function() {
+                btn_beautify.disabled = false;
+                editor.session.setMode("ace/mode/javascript");
+            },
+            "json": function() {
+                btn_beautify.disabled = false;
+                editor.session.setMode("ace/mode/json");
+            },
+            "html": function() {
+                btn_beautify.disabled = false;
+                editor.session.setMode("ace/mode/html");
+            },
+            "css": function() {
+                btn_beautify.disabled = false;
+                editor.session.setMode("ace/mode/css");
+            },
+            "md": function() {
+                btn_beautify.disabled = true;
+                editor.session.setMode("ace/mode/markdown");
+            },
+        }
+
+        function set_mode(m) {
+            for (i in edit_mode.children) {
+                x = edit_mode.children[i]
+                if (x.value == m) {
+                    x.selected = true
+                }
+            }
+            reset_tab()
+            modes[m]()
+        }
+
+        function on_mode_change() {
+            i = edit_mode.selectedIndex
+            set_mode(edit_mode.children[i].value)
+        }
+
+        function set_mode_from_file(fnam) {
+            fpos = fnam.lastIndexOf(".")
+            if (fpos > 0) {
+                ext = fnam.substr(fpos + 1)
+                switch (ext) {
+                    case "py":
+                        set_mode("python")
+                        break
+                    case "htm":
+                    case "html":
+                        set_mode("html")
+                        break
+                    case "css":
+                        set_mode("css")
+                        break
+                    case "js":
+                    case "jsm":
+                        set_mode("javascript")
+                        break
+                    case "json":
+                        set_mode("json")
+                        break
+                    case "md":
+                        set_mode("md")
+                        break
+                    default:
+                        set_mode("txt")
+                }
+            }
+        }
+
+
+        $(document).ready(function() {
+
+            /*
+                folder = $('#folder_view').jstree({ 'core' : {
+                        'data' : [
+                           'Simple root node',
+                           {
+                             'text' : 'Root node 2',
+                             'state' : {
+                               'opened' : true,
+                               'selected' : true
+                             },
+                             'children' : [
+                               { 'text' : 'Child 1' },
+                               'Child 2'
+                             ]
+                          }
+                        ]
+                    } });
+            */
+
+            /* https://ace.c9.io/#nav=howto */
+            editor = ace.edit("editor");
+
+            //editor.setTheme("ace/theme/twilight");
+            set_mode("python")
+
+            editor.resize()
+
+            editor.commands.addCommand({
+                name: 'save',
+                bindKey: {
+                    win: 'Ctrl-S',
+                    mac: 'Command-S'
+                },
+                exec: function(editor) {
+                    on_save()
+                },
+                //readOnly: true // false if this command should not apply in readOnly mode
+            });
+
+            editor.commands.addCommand({
+                name: 'find',
+                bindKey: {
+                    win: 'Ctrl-F',
+                    mac: 'Command-F'
+                },
+                exec: function(editor) {
+                    inp_term.focus()
+                    inp_term.value = editor.getSelectedText()
+                },
+                //readOnly: true // false if this command should not apply in readOnly mode
+            });
+
+            url = document.location.toString()
+            fpos = url.indexOf("?")
+            if (fpos > 0) {
+                query = url.substr(fpos + 1)
+                sp = new URLSearchParams(query)
+                fnam = sp.get("file")
+
+                inp_file.value = fnam
+                on_reload(fnam)
+            }
+
+        })
+    </script>
+</body>
+
+</html>
