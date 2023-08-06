@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_wc = {'_': ['wc_postcode_area'],
+ 'a': ['wcat_radio_tower', 'wcag_rna_motif'],
+ 'f': ['wcf_world_rankings', 'wcf_data_services'],
+ 'g': ['wcg_ultimate_gamer'],
+ 'h': ['wcha_all-tournament_teams'],
+ 'i': ['wcix_tv_tower'],
+ 'p': ['wcpw_middleweight_championship',
+       'wcpw_lightweight_championship',
+       'wcpw_heavyweight_championship',
+       'wcpw_midget_championship',
+       'wcpw_ladies_championship',
+       'wcpw_league_championship',
+       'wcpo_tv_tower'],
+ 't': ['wct_world_doubles',
+       'wct_challenge_cup',
+       'wct_arctic_cup',
+       'wct_miami_open'],
+ 'w': ['wcwa_television_championship',
+       'wcw_hardcore_championship',
+       "wcw_women's_championship",
+       'wcw_superbrawl_wrestling',
+       'wcw/new_japan_supershow',
+       'wcw_backstage_assault',
+       'wcw_saturday_night',
+       'wcw_disney_tapings',
+       'wcw_monday_nitro',
+       'wcw_power_plant',
+       'wcw_nitro_grill',
+       'wcw_all_nighter',
+       'wcw_power_hour',
+       'wcw_main_event',
+       'wcw_hog_wild']}

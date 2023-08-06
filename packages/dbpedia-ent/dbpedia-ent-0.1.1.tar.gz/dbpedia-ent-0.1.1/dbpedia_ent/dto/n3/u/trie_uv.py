@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_uv = {'_': ['uv-vis_absorption_spectroelectrochemistry'],
+ 'a': ['uva-paranagama_divisional_secretariat',
+       'uvarovskaya,_vologda_oblast',
+       'uvarovsky,_volgograd_oblast',
+       'uvarovka,_volgograd_oblast',
+       'uvarovka,_vladimir_oblast',
+       'uvarovo,_vologda_oblast',
+       'uva_wellassa_university',
+       "uva_children's_hospital",
+       'uvarovo,_tambov_oblast',
+       'uvais_mohamed_imitiyas',
+       'uvays_akhtayev_stadium',
+       'uvalde_estates,_texas',
+       'uva_college,_badulla',
+       'uvalde_county,_texas',
+       'uvas_creek_preserve',
+       'uvat,_tyumen_oblast',
+       'uva_cricket_team',
+       'uva_online_judge',
+       'uva_di_troia'],
+ 'd': ['uvdal_stave_church'],
+ 'e': ['uvedale_corbett_junior', 'uvedale_tomkins_price', 'uvek_kad_popijem'],
+ 'f': ['uvf_mid-ulster_brigade'],
+ 'i': ['uvilla,_west_virginia', 'uvis_janis_balinskis'],
+ 'm': ['uvmv_1100_gt'],
+ 's': ['uvs_lake_basin'],
+ 't': ['uvt_agroland_timisoara'],
+ 'u': ['uvular_ejective_affricate',
+       'uvular_ejective_fricative',
+       'uvular_ejective_stop',
+       'uvula_of_cerebellum'],
+ 'x': ['uvx_mining_co.']}

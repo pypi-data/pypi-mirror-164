@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_lb = {'_': ['lb&scr_belgravia_class',
+       'lb&scr_richmond_class',
+       'lb&scr_d2_class',
+       'lb&scr_h2_class',
+       'lb&scr_i3_class',
+       'lb&scr_c3_class',
+       'lb&scr_j1_class',
+       'lb&scr_e1_class',
+       'lb&scr_c1_class',
+       'lb&scr_i1_class',
+       'lb&scr_b1_class',
+       'lb&scr_c2_class',
+       'lb&scr_b2_class',
+       'lb&scr_e3_class',
+       'lb&scr_e5_class',
+       'lb&scr_e4_class',
+       'lb&scr_h1_class',
+       'lb&scr_d3_class',
+       'lb&scr_i2_class',
+       'lb&scr_d1_class',
+       'lb&scr_b4_class',
+       'lb&scr_a1_class',
+       'lb&scr_e2_class',
+       'lb&scr_e6_class',
+       'lb&scr_l_class',
+       'lb&scr_g_class',
+       'lb&scr_c_class',
+       'lb&scr_k_class',
+       'lb_iv_life'],
+ 'a': ['lba_finals_mvp'],
+ 'o': ['lbo_valuation_model'],
+ 'r': ['lbr_west_zone']}

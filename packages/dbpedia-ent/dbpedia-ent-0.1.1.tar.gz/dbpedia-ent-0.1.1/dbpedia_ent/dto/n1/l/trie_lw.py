@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_lw = {'_': ['lw5/7', 'lw6/8', 'lw12', 'lw11', 'lw10', 'lw9'],
+ 'a': ['lwangghale',
+       'lwakhakha',
+       'lwamondo',
+       'lwamata',
+       'lwangwa',
+       'lwandle',
+       'lwanda',
+       'lwala',
+       'lwa'],
+ 'b': ['lwb'],
+ 'c': ['lwc'],
+ 'd': ['lwd'],
+ 'e': ['lwensinga',
+       'lwemiyaga',
+       'lwegyaung',
+       'lweibdeh',
+       'lwengo',
+       'lweeza',
+       'lweje',
+       'lwei',
+       'lwe'],
+ 'f': ['lwfc'],
+ 'h': ['lwhs', 'lwh'],
+ 'i': ['lwiindi', 'lwin-u', 'lwip', 'lwi'],
+ 'l': ['lwl'],
+ 'm': ['lwma', 'lwm'],
+ 'n': ['lwn.net', 'lwn'],
+ 'o': ['lwowiany', 'lwowiec', 'lwowek', 'lwo'],
+ 'p': ['lwp'],
+ 's': ['lws-2', 'lws'],
+ 'v': ['lwv'],
+ 'w': ['lww']}

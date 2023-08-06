@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_gc = {'_': ['gc-content', 'gc-wiki', 'gc376', 'gc-c', 'gc32', 'gc1', 'gc2'],
+ 'a': ['gcaleka',
+       'gcash',
+       'gcamp',
+       'gcac',
+       'gcap',
+       'gcam',
+       'gcat',
+       'gcaa',
+       'gca'],
+ 'b': ['gcbc', 'gcb'],
+ 'c': ['gccc', 'gcc2', 'gcc1', 'gccs', 'gcc'],
+ 'd': ['gcda', 'gcds', 'gcd'],
+ 'e': ['gcet', 'gce'],
+ 'f': ['gcflearnfree.org', 'gcfc2', 'gcfc', 'gcf'],
+ 'g': ['gcg'],
+ 'h': ['gchfr', 'gchs', 'gchq', 'gch'],
+ 'i': ['gciriku', 'gcina', 'gcide', 'gcis', 'gcic', 'gci'],
+ 'j': ['gcj'],
+ 'k': ['gckey', 'gck'],
+ 'l': ['gcl-poly', 'gclc', 'gclp', 'gclm', 'gcl'],
+ 'm': ['gcmaf', 'gcmc', 'gcms', 'gcma', 'gcm1', 'gcm2', 'gcm'],
+ 'n': ['gcn1l1', 'gcnt2', 'gcnt1', 'gcn4', 'gcna', 'gcn2', 'gcn'],
+ 'o': ['gconf-editor', 'gcompris', 'gconf', 'gcos', 'gcov', 'gcoa', 'gco'],
+ 'p': ['gcpc', 'gcp'],
+ 'r': ['gcrt', 'gcrg', 'gcr'],
+ 's': ['gcsh', 'gcst', 'gcss', 'gcs1', 'gcs'],
+ 't': ['gctools', 'gctc', 'gcts', 'gct'],
+ 'u': ['gcu'],
+ 'v': ['gcv'],
+ 'w': ['gcwihaba', 'gcw']}

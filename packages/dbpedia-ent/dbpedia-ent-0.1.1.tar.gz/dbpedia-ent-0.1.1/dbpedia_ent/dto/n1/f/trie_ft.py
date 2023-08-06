@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_ft = {'_': ['ft32', 'ft3'],
+ 'a': ['ftanng!', 'ftampa', 'ftan', 'ftam', 'fta'],
+ 'b': ['ftb'],
+ 'c': ['ftc'],
+ 'd': ['ftdi', 'ftd'],
+ 'e': ['fterikoudi', 'ftericha', 'ftelia', 'fterre', 'fte'],
+ 'f': ['ftfc', 'ftf'],
+ 'g': ['ftg'],
+ 'h': ['fth1p5', 'fth1', 'fthc', 'fths', 'fth'],
+ 'i': ['ftireh', 'ftira', 'ftii', 'fti'],
+ 'k': ['ftk'],
+ 'l': ['ftl:2448', 'ftlife', 'ftlog', 'ftl'],
+ 'm': ['ftm'],
+ 'n': ['ftn'],
+ 'o': ['ftos', 'fto'],
+ 'p': ['ftpdrive', 'ftp-moi', 'ftpmail', 'ftp-75', 'ftpfs', 'ftpe', 'ftps'],
+ 'r': ['ftrace', 'ftrans', 'ftr'],
+ 's': ['fts2000',
+       'ftsj3',
+       'ftsj1',
+       'ftsz',
+       'ftsk',
+       'ftsj',
+       'ftse',
+       'ftsa',
+       'fts'],
+ 't': ['fttla', 'fttw', 'ftt'],
+ 'u': ['ftub', 'ftuc', 'ftu'],
+ 'v': ['ftv-1126', 'ftv-1132', 'ftv-2203', 'ftv'],
+ 'w': ['ftw'],
+ 'x': ['ftx'],
+ 'y': ['ftype', 'fty']}

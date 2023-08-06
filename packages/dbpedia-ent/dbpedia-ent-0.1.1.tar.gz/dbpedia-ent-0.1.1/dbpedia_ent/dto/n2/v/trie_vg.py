@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_vg = {'_': ['vg-lista_1962',
+       'vg-lista_1959',
+       'vg-lista_1960',
+       'vg-lista_1963',
+       'vg-lista_1958',
+       'vg-lista_1961',
+       'vg1_ribozyme',
+       'vg_ballstarz',
+       'vg_kulkarni',
+       'vg_airlines',
+       'vg_pocket',
+       'vg_cats'],
+ 'a': ['vga_connector', 'vga_planets'],
+ 'c': ['vgchartz', 'vgcc', 'vgc'],
+ 'e': ['vgenopoulos', 'vgethi', 'vge'],
+ 'f': ['vgf'],
+ 'g': ['vgg'],
+ 'h': ['vgh'],
+ 'i': ['vgi'],
+ 'l': ['vgl'],
+ 'm': ['vgmusic.com', 'vgm'],
+ 'n': ['vgn'],
+ 'o': ['vgo_communications'],
+ 'p': ['vgp_jsc'],
+ 'r': ['vgr'],
+ 's': ['vgs'],
+ 't': ['vgt'],
+ 'u': ['vgu'],
+ 'x': ['vgx-1027', 'vgx'],
+ 'z': ['vgz_video']}

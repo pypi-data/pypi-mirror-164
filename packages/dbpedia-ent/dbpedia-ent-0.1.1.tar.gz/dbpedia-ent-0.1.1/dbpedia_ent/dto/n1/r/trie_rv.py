@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_rv = {'_': ['rv10', 'rv-c', 'rv9', 'rv1', 'rv4', 'rv8', 'rv5', 'rv3', 'rv2'],
+ 'a': ['rvah-11',
+       'rvah-12',
+       'rvah-13',
+       'rvah-14',
+       'rvah-1',
+       'rvah-7',
+       'rvarud',
+       'rvah-5',
+       'rvah-3',
+       'rvah-9',
+       'rvah-6',
+       'rvati',
+       'rva'],
+ 'b': ['rvb'],
+ 'c': ['rvca', 'rvc'],
+ 'd': ['rvd-hpa'],
+ 'e': ['rveeh', 'rve'],
+ 'f': ['rvf'],
+ 'g': ['rvg'],
+ 'h': ['rvhs', 'rvh'],
+ 'i': ['rvivr', 'rvi'],
+ 'm': ['rvmagnetics', 'rvm'],
+ 'n': ['rvng', 'rvn'],
+ 'o': ['rvo'],
+ 'p': ['rvp'],
+ 'r': ['rvr'],
+ 's': ['rvssian', 'rvs'],
+ 't': ['rvt-802', 'rvt'],
+ 'u': ['rvu'],
+ 'v': ['rvvh', 'rvv'],
+ 'w': ['rvw'],
+ 'y': ['rvy']}

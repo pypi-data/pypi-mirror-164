@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_tg = {'_': ['tg-rash2_mouse',
+       'tg_collective',
+       'tg-pvr_mouse',
+       'tg_guingona',
+       'tg_lurgan',
+       'tg_omori',
+       'tg_la7',
+       'tg_now'],
+ 'a': ['tga'],
+ 'b': ['tgba01ad', 'tgb'],
+ 'c': ['tgcom24', 'tgcom', 'tgc-1', 'tgcc', 'tgc'],
+ 'e': ['tge'],
+ 'f': ['tgf_alpha'],
+ 'g': ['tggc_outlet', 'tgg_group'],
+ 'h': ['tghat', 'tghs', 'tgh'],
+ 'i': ['tgi_fridays'],
+ 'k': ['tgk_pg'],
+ 'l': ['tgl_co.'],
+ 'm': ['tgm4', 'tgm5', 'tgm6', 'tgm3', 'tgm'],
+ 'n': ['tgn_atlantic'],
+ 'o': ['tgo_gbadamosi', 'tgoj_x20'],
+ 'p': ['tgp'],
+ 'r': ['tgr_foundation', 'tgr_motorsport', 'tgrt_haber'],
+ 's': ['tgscom', 'tgs1', 'tgs'],
+ 't': ['tgt'],
+ 'u': ['tguard', 'tguma', 'tgu'],
+ 'v': ['tgv_cinemas', 'tgv_inoui', 'tgv_lyria', 'tgv_001'],
+ 'w': ['tgw'],
+ 'y': ['tgy'],
+ 'z': ['tgz']}
