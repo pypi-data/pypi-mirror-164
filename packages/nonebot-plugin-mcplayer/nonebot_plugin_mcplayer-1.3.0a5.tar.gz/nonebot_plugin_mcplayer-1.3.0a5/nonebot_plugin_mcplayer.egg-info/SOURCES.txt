@@ -1,0 +1,10 @@
+README.md
+license.txt
+setup.py
+nonebot_plugin_mcplayer/Main.py
+nonebot_plugin_mcplayer/__init__.py
+nonebot_plugin_mcplayer.egg-info/PKG-INFO
+nonebot_plugin_mcplayer.egg-info/SOURCES.txt
+nonebot_plugin_mcplayer.egg-info/dependency_links.txt
+nonebot_plugin_mcplayer.egg-info/requires.txt
+nonebot_plugin_mcplayer.egg-info/top_level.txt
