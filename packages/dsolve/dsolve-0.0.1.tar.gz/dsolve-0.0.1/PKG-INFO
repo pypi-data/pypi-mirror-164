@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: dsolve
+Version: 0.0.1
+Summary: Solver of dynamic equations
+Classifier: Programming Language :: Python :: 3.10
+Provides-Extra: dev
