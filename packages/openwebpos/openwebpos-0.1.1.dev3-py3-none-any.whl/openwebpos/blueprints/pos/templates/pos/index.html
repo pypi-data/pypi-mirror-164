@@ -1,0 +1,38 @@
+{% extends 'layouts/base.html' %}
+
+
+{% block main %}
+
+    <div class="grid-container">
+
+        {% include 'pos/_order_section.html' %}
+
+        <div class="menu-section">
+            <div class="menu-view">
+                <div class="row my0">
+                    {% if categories %}
+                        {% for category in categories %}
+                            <div class="col s6 m3">
+                                <a href="{{ url_for('pos.category', category_items=category.slug) }}">
+                                    <div class="card rounded">
+                                        <div class="card-image">
+                                            {% if category.image %}
+                                                <img src="{{ url_for('uploaded_file', filename=category.image) }}"
+                                                     alt="{{ category.name }}-image">
+                                            {% else %}
+                                                <img src="{{ url_for('static', filename='img/placeholder.png') }}"
+                                                     alt="{{ category.name }}-image">
+                                            {% endif %}
+                                            <span class="card-title">{{ category.name }}</span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
