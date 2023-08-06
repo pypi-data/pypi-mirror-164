@@ -1,0 +1,7 @@
+rabbitmq_admin/__init__.py,sha256=Gi5f4sbLKl1m47Uwkb68rs6PvpT5AJk-pgRl-7y6PaA,47
+rabbitmq_admin/api.py,sha256=IhYimkEMdbEfu4GFElZ-U4dGNKY08s00SeicfOYsfng,20118
+rabbitmq_admin/base.py,sha256=tL_fXxpNXEjx5EPL9yT96TEMseK7W12u7oeLdJt5mZQ,4704
+rabbitmq_api_admin-0.3.0.dist-info/LICENSE,sha256=mwFvbSbAHk3bbDa2ZX7ZIGyzhp58zv9PkKSIdxvfih4,11333
+rabbitmq_api_admin-0.3.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+rabbitmq_api_admin-0.3.0.dist-info/METADATA,sha256=N7C4NheobYGwmL0u-dsBPksAdagRQj4qJyWns79kvek,655
+rabbitmq_api_admin-0.3.0.dist-info/RECORD,,
