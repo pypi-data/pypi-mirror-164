@@ -1,0 +1,1 @@
+recursive-include ct_auth0_streamlit_component/frontend/build *
