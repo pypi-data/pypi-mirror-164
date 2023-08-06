@@ -1,0 +1,10 @@
+python-dateutil<3,>=2.7
+requests<3,>=2.19
+
+[excel]
+openpyxl<4,>=3
+
+[types]
+types-python-dateutil
+types-requests
+types-setuptools
