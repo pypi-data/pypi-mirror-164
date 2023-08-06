@@ -1,0 +1,12 @@
+hyccup/__init__.py,sha256=KNmUOt-q1gTz6ScxK1S04swn4hKEKz2FgrkJqn1_xDE,67
+hyccup/compiler.hy,sha256=3kuxw2NMzUklbhhxW2IH1wGHzxcNOIhl6yp-z11H3pI,5162
+hyccup/core.hy,sha256=4-Nev72eqmq09bjvxzY1qVD96ZVi1eTZd85Uil5r_GI,917
+hyccup/definition.hy,sha256=6s9_gAvqPukzc70QjEXPybjz_6JkgUlcsjcWWPC9azk,3248
+hyccup/element.hy,sha256=V0HFsXJT47CRj-OxgASrDKYHWrUVe_xXyDyRfgjlLC0,1840
+hyccup/form.hy,sha256=nT4Frk6jr01HKD6j_3mg2AvvbH5fuvR2JImTT0s-ReM,6377
+hyccup/page.hy,sha256=JuV730BtBwAI-UlEAZ23JcCTkRTcsjcnNHoztUQaKIU,2888
+hyccup/util.hy,sha256=T2bW5Q6Gk75Ljhzl_T_EsLKIlUNl3eKAcy3IgICUKgQ,4494
+hyccup-1.0.0a5.dist-info/LICENSE.txt,sha256=4RRwbsgcnVQYZZEgtL_vnlhn8sBVB8B-KXZ4UVRXxYQ,1121
+hyccup-1.0.0a5.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+hyccup-1.0.0a5.dist-info/METADATA,sha256=jfE9xw3UmQf_IkjmTsdWuFpntW2nj6y-gmqiI11TV-0,1814
+hyccup-1.0.0a5.dist-info/RECORD,,
