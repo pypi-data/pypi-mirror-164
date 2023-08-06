@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: flasket
+Version: 0.1.0
+Summary: Flask and Gunicorn WSGI application
+Home-page: https://gitlab.com/jlecomte/projects/flasket
+Author: Julien Lecomte
+Author-email: julien@lecomte.at
+License: MIT
+Project-URL: Documentation, https://jlecomte.gitlab.io/projects/flasket/
+Project-URL: Source code, https://gitlab.com/jlecomte/projects/flasket
+Classifier: Topic :: Internet :: WWW/HTTP :: HTTP Servers
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Server
+Classifier: Framework :: Flask
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.9.*
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Flasket
+
