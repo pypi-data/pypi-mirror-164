@@ -1,0 +1,3 @@
+setuptools
+PDKMaster==0.2.*
+c4m-flexcell==0.1.*
