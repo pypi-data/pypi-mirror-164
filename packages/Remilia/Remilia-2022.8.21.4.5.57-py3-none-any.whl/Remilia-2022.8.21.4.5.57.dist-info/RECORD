@@ -1,0 +1,16 @@
+Remilia/DecoratorUtils.py,sha256=t7yj5DHOpP0GVox6ccAlYdtm1JXmu5QH6IOlK1fBwtg,355
+Remilia/LiteConfig.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+Remilia/LiteI18n.py,sha256=EGdrHyDutOIZJdyrtHbtyD6tJuz1FRHLOkyuAb8Kwy4,15
+Remilia/LiteLog.py,sha256=JHiE8swuKLaYAblXCSxIr7KPCmzvyrohDyGz9y3fY_A,11471
+Remilia/LiteMixin.py,sha256=zKc7zHcVjCO8Ud1t_Afr83xjgPk9xMXRbcI5vtFIulc,2020
+Remilia/LitePGL.py,sha256=bmlCUtToPzz54GYdILwxioEIsPPkW_U4FRnM0ZOwjkA,334
+Remilia/LiteTasks.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+Remilia/LiteUtils.py,sha256=JojOZHCACofH11F7uzjNYY7w689qXNobaDi5ClF2cXk,23
+Remilia/__init__.py,sha256=qY3IPAAVeE0JcAaqGS84zmcKQBM34CxRfbh29ogTyNE,246
+Remilia/base/API.py,sha256=zY3vRr10G5vM3o9WsSqmhbglbeZqdefeuaVrMDCLphU,19
+Remilia/base/__init__.py,sha256=DtMIVGYYbXYXKm_nJCdK_fiz-WBU6hlFQlz9cChF_i0,94
+Remilia-2022.8.21.4.5.57.dist-info/LICENSE,sha256=d2Ys5ORP2Y9aE2qtZlZbJHkRnMftCPeAKNinpClosnM,1063
+Remilia-2022.8.21.4.5.57.dist-info/METADATA,sha256=jclEZdajC5B0gJEHukYbR-bKYP27we6tgHUhH0fkOMw,807
+Remilia-2022.8.21.4.5.57.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+Remilia-2022.8.21.4.5.57.dist-info/top_level.txt,sha256=XH-32PT3qZsVAG_KAXN7CriwGO5H_N3iIQetPtBdmKM,8
+Remilia-2022.8.21.4.5.57.dist-info/RECORD,,
