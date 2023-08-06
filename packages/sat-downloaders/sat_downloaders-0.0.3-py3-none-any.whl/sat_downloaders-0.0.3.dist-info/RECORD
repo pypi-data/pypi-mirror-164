@@ -1,0 +1,9 @@
+sat_downloaders/__init__.py,sha256=7RV821ahV4XhwjcNO3wDe29Xa1dtuDWDdX1N46ScnZY,1057
+sat_downloaders/datastore.py,sha256=IqX-BIJLs3bZaKH48_EXeEmFq0uC77t6UHrz43XeAMA,3473
+sat_downloaders/dhus.py,sha256=G6Mhyz_xWY0m8B_nyC9IhmejWMP656iI0JxZz1fT9MM,2011
+sat_downloaders/tests/__init__.py,sha256=-kk00XHYdhc3ayG3brmd9I-iUI2R2FjWdjMNpqeyrHY,21
+sat_downloaders/tests/test_dhus.py,sha256=SbpKEpTT5BqXxROA2KxD6HSiWFyDWfjXdtXHtbzUg4k,7561
+sat_downloaders-0.0.3.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+sat_downloaders-0.0.3.dist-info/WHEEL,sha256=-4m9Bscf2nuKX3L1zitglyC3pXho-2m1eWiGZIeIPHQ,91
+sat_downloaders-0.0.3.dist-info/METADATA,sha256=KQi3P-4IM3sBKhHA21ZrpTjYJ7TFuJJKYzSxiy0Q7Go,453
+sat_downloaders-0.0.3.dist-info/RECORD,,
