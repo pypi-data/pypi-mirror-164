@@ -1,0 +1,10 @@
+dogcputils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dogcputils/gcp_utilities.py,sha256=e0ZT7kkHLugiyjOBQvRrzd_2SWTPtpPAkdKu9GxG4m0,10197
+dogcputils/logger_wrapper.py,sha256=qcLvN8GeEJoLCM5WvFW5J1CBRsfY7aoupP3CYM9m7To,2326
+utilities/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utilities/gcp_utilities.py,sha256=3O4ZGAZcxnIXDckquN5-6Vb9EmNZFqYCrI6YxI3xu9I,10121
+utilities/logger_wrapper.py,sha256=qcLvN8GeEJoLCM5WvFW5J1CBRsfY7aoupP3CYM9m7To,2326
+dogcputils-1.0.5.dist-info/METADATA,sha256=DdcL3qRgm8vJ6zt815aJAfH2OVLz_ykvidvYavzWpwA,591
+dogcputils-1.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+dogcputils-1.0.5.dist-info/top_level.txt,sha256=cKzzxkNtZrE_p2UqQwjtE13Lm_o4LDA0gxW_K_jtnKI,11
+dogcputils-1.0.5.dist-info/RECORD,,
