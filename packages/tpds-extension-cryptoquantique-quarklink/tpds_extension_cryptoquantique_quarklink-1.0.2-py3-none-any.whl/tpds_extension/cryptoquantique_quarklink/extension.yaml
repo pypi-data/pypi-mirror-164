@@ -1,0 +1,16 @@
+name: cryptoquantique_quarklink
+
+frontend:
+  entrypoints:
+  - name: "quarklink_custom_pki"
+    title: "Quarklink Custom PKI"
+    entry: "TrustFlex/Quarklink Connect-Custom PKI-TFLEX.ipynb"
+    icon:
+      name: "crypto_quantique_png"
+      path: "TrustFlex/assets/images/crypto_quantique.png"
+    applications:
+    - "IoT"
+    devices:
+    - "ATECC608B-TFLXTLS"
+    boards:
+    - "DM320118"
