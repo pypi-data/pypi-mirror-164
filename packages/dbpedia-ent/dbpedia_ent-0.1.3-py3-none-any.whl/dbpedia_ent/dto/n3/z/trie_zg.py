@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_zg = {'h': ['zghazagh_azzjoni_kattolika',
+       'zgharta_liberation_army',
+       'zgharta_sports_complex'],
+ 'i': ['zgierz,_pomeranian_voivodeship', 'zgierz_railway_station'],
+ 'l': ['zglowiaczka,_kuyavian-pomeranian_voivodeship'],
+ 'o': ['zgoda,_kuyavian-pomeranian_voivodeship',
+       'zgoda,_warmian-masurian_voivodeship',
+       'zgorsko,_swietokrzyskie_voivodeship',
+       'zgon,_warmian-masurian_voivodeship',
+       'zgorsko,_podkarpackie_voivodeship',
+       'zgoda,_podkarpackie_voivodeship',
+       'zgorze,_masovian_voivodeship',
+       'zgornja_dobrava,_radovljica',
+       'zgornja_besnica,_ljubljana',
+       'zgoda,_lublin_voivodeship',
+       'zgorzelec_railway_station',
+       'zgornja_dobrava,_moravce',
+       'zgornji_slemen,_maribor',
+       'zgornja_pristava,_videm',
+       'zgorze,_gmina_dabrowice',
+       'zgorze,_gmina_strzelce',
+       'zgornje_jarse,_domzale',
+       'zgornja_besnica,_kranj',
+       'zgornji_janzevski_vrh',
+       'zgoda,_lowicz_county',
+       'zgornji_jakobski_dol',
+       'zgoda,_gmina_lanieta',
+       'zgoda,_gmina_zychlin',
+       'zgornji_drazen_vrh',
+       'zgornji_kozji_vrh',
+       'zgoda_ruda_slaska',
+       'zgoda_labour_camp',
+       'zgornja_nova_vas']}

@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_rm = {'_': ['rm9sbg93zxjz',
+       'rm-2493',
+       'rm-odp',
+       'rm4scc',
+       'rm-38',
+       'rm-51',
+       'rm1',
+       'rm2'],
+ 'a': ['rmaich', 'rman', 'rmas', 'rmah', 'rma'],
+ 'b': ['rmb-93', 'rmbs'],
+ 'c': ['rmcde', 'rmcc', 'rmc'],
+ 'd': ['rmdn3', 'rmdir', 'rmd'],
+ 'e': ['rmetrics', 'rmeileh', 'rmelan', 'rmeil', 'rme'],
+ 'f': ['rmf'],
+ 'g': ['rmg'],
+ 'h': ['rmhs', 'rmh'],
+ 'i': ['rmi-iiop', 'rmitv', 'rmif', 'rmi1', 'rmi'],
+ 'j': ['rmjm'],
+ 'k': ['rmk-brj'],
+ 'l': ['rmls', 'rmll', 'rml'],
+ 'm': ['rmmv', 'rmm'],
+ 'n': ['rmnd5b', 'rmn'],
+ 'o': ['rmon', 'rmo'],
+ 'p': ['rmp'],
+ 'q': ['rmq'],
+ 'r': ['rmrg', 'rmrp', 'rmr'],
+ 's': ['rmsc', 'rmsp', 'rmst', 'rms'],
+ 't': ['rmtu', 'rmt'],
+ 'u': ['rmu'],
+ 'v': ['rmvb', 'rmv'],
+ 'x': ['rmx'],
+ 'y': ['rmyn02']}

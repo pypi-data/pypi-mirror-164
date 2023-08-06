@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_mx = {'_': ['mx_designations',
+       'mx-1_kalakian',
+       'mx_unleashed',
+       'mx-7_gagamba',
+       'mx_superfly',
+       'mx_machine',
+       'mx_puppis',
+       'mx_record',
+       'mx_player',
+       'mx_linux',
+       'mx_rider',
+       'mx1_ltd',
+       'mx_igp'],
+ 'c': ['mxc'],
+ 'd': ['mxd1', 'mxd4', 'mxd3'],
+ 'e': ['mxenergy', 'mxenge', 'mxenes'],
+ 'i': ['mxipr', 'mxit', 'mxi1', 'mxi'],
+ 'l': ['mxlo'],
+ 'm': ['mxmtoon', 'mxml', 'mxm'],
+ 'o': ['mxolisi_siyonzana',
+       'mxolisa_sokatsha',
+       'mxolisi_mthethwa',
+       'mxolisi_lukhele',
+       'mxolisi_nxasana',
+       'mxolisi_kaunda',
+       'mxolisi_mgojo'],
+ 'p': ['mxpx_discography'],
+ 'r': ['mxr_yorkshire'],
+ 't': ['mxtabs'],
+ 'u': ['mxu'],
+ 'w': ['mxwendler'],
+ 'x': ['mxxwll']}

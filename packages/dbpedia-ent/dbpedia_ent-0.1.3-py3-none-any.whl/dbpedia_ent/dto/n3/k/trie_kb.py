@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_kb = {'_': ['kb_financial_group',
+       'kb_life_insurance',
+       'kb_hallen_station',
+       'kb_golf_challenge',
+       'kb_karlskoga_ff',
+       'kb_as_kastrioti',
+       'kb_killa_beats',
+       'kb_sat_sr-10'],
+ 'a': ['kbal_chhay_waterfall', 'kbach_kun_boran'],
+ 'c': ['kbc_advanced_technologies', 'kbc_bank_ireland'],
+ 'e': ['kbely_aviation_museum'],
+ 'f': ['kbf_premier_league'],
+ 'k': ['kbkm_wz._2003', 'kbkg_wz._1960'],
+ 'o': ['kbo-npb_club_championship', 'kbo_futures_league'],
+ 's': ['kbs_entertainment_awards',
+       'kbs_symphony_orchestra',
+       'kbs_hanminjok_radio',
+       'kbs_drama_special',
+       'kbs_song_festival',
+       'kbs_drama_awards',
+       'kbs_de_rietkraag',
+       'kbs_world_radio',
+       'kbsp_wz._1938m',
+       'kbs_classic_fm',
+       'kbs_tv_novel',
+       'kbs_radio_3',
+       'kbs_radio_2',
+       'kbs_radio_1',
+       'kbs_cool_fm',
+       'kbs_ps_uav',
+       'kbs_news_9']}

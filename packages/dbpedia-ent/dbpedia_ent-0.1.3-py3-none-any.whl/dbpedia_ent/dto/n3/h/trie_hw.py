@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_hw = {'a': ['hwa_cruiserweight_championship',
+       'hwa_heavyweight_championship',
+       'hwa_television_championship',
+       'hwang_chi-yeul_filmography',
+       'hwasong_concentration_camp',
+       'hwanghak-dong_flea_market',
+       'hwangju_riverside_stadium',
+       'hwanghae_chongnyon_line',
+       'hwa_chong_institution',
+       'hwarang_archery_field',
+       'hwange_national_park',
+       'hwaseong_sports_town',
+       'hwange_colliery_f.c.',
+       'hwangju_hwangbo_clan',
+       'hwange_town_airport',
+       'hwaebul_sports_club',
+       'hwaseong_ibk_altos',
+       'hwangju_byeon_clan',
+       'hwacheon_kspo_wfc',
+       'hwanjo_of_joseon',
+       'hwa_kang_museum',
+       'hwasan_lee_clan',
+       'hwang_kyung_koh',
+       'hwa_nan_college',
+       'hwasun_o_clan',
+       'hwa_rang_do'],
+ 'b': ['hwb_color_model'],
+ 'd': ['hwd_hospital_radio'],
+ 'e': ['hwee_hwee_tan'],
+ 'i': ['hwiju_yo_clan'],
+ 'l': ['hwlitsum_first_nation']}

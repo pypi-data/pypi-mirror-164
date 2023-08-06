@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_rf = {'_': ['rf-5b', 'rf64', 'rf-8', 'rf-5', 'rf7', 'rf3', 'rf2'],
+ 'a': ['rfactor', 'rfala', 'rfam', 'rfae', 'rfa'],
+ 'b': ['rfb'],
+ 'c': ['rfc5', 'rfc1', 'rfc2', 'rfc3', 'rfc4', 'rfc'],
+ 'd': ['rfdump', 'rfd-tv', 'rfd'],
+ 'e': ['rfem', 'rfe'],
+ 'f': ['rffsa', 'rffe', 'rffl', 'rffc', 'rff'],
+ 'g': ['rfg'],
+ 'h': ['rfhs', 'rfh'],
+ 'i': ['rfinder', 'rfissa', 'rfiqin', 'rfic', 'rfi'],
+ 'j': ['rfj'],
+ 'm': ['rfm'],
+ 'n': ['rfn'],
+ 'o': ['rfo'],
+ 'p': ['rfpl3-as1', 'rfpolicy', 'rfpio', 'rfpro'],
+ 'q': ['rfq'],
+ 'r': ['rfr'],
+ 's': ['rfs'],
+ 't': ['rftt', 'rft1', 'rft'],
+ 'v': ['rfv'],
+ 'w': ['rfwd2', 'rfw'],
+ 'x': ['rfxank',
+       'rfxap',
+       'rfx2',
+       'rfx6',
+       'rfx1',
+       'rfx4',
+       'rfx5',
+       'rfx3',
+       'rfx']}

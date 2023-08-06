@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_fk = {'_': ['fk-league', 'fk-space', 'fk1012', 'fk962'],
+ 'a': ['fkab', 'fka'],
+ 'b': ['fkbp1b',
+       'fkbp10',
+       'fkbp14',
+       'fkbp1a',
+       'fkbp2',
+       'fkbp5',
+       'fkbp4',
+       'fkbp7',
+       'fkbp6',
+       'fkbpl',
+       'fkbp9',
+       'fkbp8',
+       'fkbp3',
+       'fkbp',
+       'fkb'],
+ 'c': ['fkc'],
+ 'f': ['fkf'],
+ 'g': ['fkg'],
+ 'i': ['fkirina', 'fki'],
+ 'j': ['fkj'],
+ 'k': ['fkk'],
+ 'l': ['fkl'],
+ 'm': ['fkm'],
+ 'n': ['fkn'],
+ 'p': ['fkp'],
+ 's': ['fks'],
+ 't': ['fkt'],
+ 'w': ['fkw'],
+ 'y': ['fky']}

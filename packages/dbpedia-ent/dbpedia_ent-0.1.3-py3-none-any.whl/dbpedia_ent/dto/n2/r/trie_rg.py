@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_rg = {'_': ['rg_chromaticity',
+       'rg_heidelberg',
+       'rg-32_scout',
+       'rg_outrider',
+       'rg-31_nyala',
+       'rg_capital',
+       'rg_snyman',
+       'rg_line',
+       'rg_veda'],
+ 'a': ['rgangkum,_hsawlaw', 'rgangkum,_chipw', 'rgajska_planina'],
+ 'b': ['rgb_entertainment', 'rgbe_filter'],
+ 'c': ['rgc_resources', 'rgc_1404'],
+ 'd': ['rgd-33_grenade', 'rgd_motif'],
+ 'e': ['rge'],
+ 'f': ['rgf'],
+ 'g': ['rgg'],
+ 'h': ['rghioua', 'rghs', 'rgh'],
+ 'i': ['rgit_australia'],
+ 'k': ['rgk_mobile'],
+ 'l': ['rgl2', 'rgl'],
+ 'm': ['rgm-59_taurus', 'rgm-40_kastet'],
+ 'n': ['rgn'],
+ 'o': ['rgotina', 'rgoste'],
+ 'p': ['rgpd5', 'rgp3', 'rgp'],
+ 'r': ['rgraph', 'rgr'],
+ 's': ['rgs_dodderhill'],
+ 't': ['rgtk2', 'rgt'],
+ 'v': ['rgv'],
+ 'w': ['rgw'],
+ 'x': ['rgx'],
+ 'z': ['rgz-89_grenade']}

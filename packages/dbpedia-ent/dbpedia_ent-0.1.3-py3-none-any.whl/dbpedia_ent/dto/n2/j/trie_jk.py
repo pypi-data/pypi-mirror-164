@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_jk = {'_': ['jk_jalgpallihaigla',
+       "jk_she'salady",
+       'jk_revolution',
+       'jk_tabasalu',
+       'jk_memorial',
+       'jk_business',
+       'jk_luunja',
+       'jk_lasers',
+       'jk_temple',
+       'jk_place',
+       'jk_flesh',
+       'jk_loo'],
+ 'a': ['jka_foundation', 'jka_england'],
+ 'b': ['jkb'],
+ 'c': ['jkcs_041'],
+ 'd': ['jkdefrag'],
+ 'f': ['jkf_renbukai'],
+ 'h': ['jkh'],
+ 'i': ['jkia-westlands_highway'],
+ 'k': ['jkk'],
+ 'l': ['jklm_games'],
+ 'm': ['jkmm_architects'],
+ 'o': ['jkool', 'jko'],
+ 'p': ['jkp'],
+ 'r': ['jkr'],
+ 's': ['jks'],
+ 't': ['jkt48_missions', 'jkt48_school', 'jkt_mgambo', 'jkt_bc'],
+ 'u': ['jku_s.c.'],
+ 'v': ['jkv'],
+ 'x': ['jkx']}
