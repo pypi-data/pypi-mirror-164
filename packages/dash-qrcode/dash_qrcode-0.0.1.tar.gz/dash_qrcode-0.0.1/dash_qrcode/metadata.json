@@ -1,0 +1,88 @@
+{
+  "src/lib/components/QRCode.react.js": {
+    "description": "A Dash component for reading QR codes from an attached webcam.",
+    "displayName": "QRCode",
+    "methods": [
+      {
+        "name": "handleClickScan",
+        "docblock": null,
+        "modifiers": [],
+        "params": [],
+        "returns": null
+      },
+      {
+        "name": "handleScan",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "data",
+            "type": null
+          }
+        ],
+        "returns": null
+      },
+      {
+        "name": "handleError",
+        "docblock": null,
+        "modifiers": [],
+        "params": [
+          {
+            "name": "err",
+            "type": null
+          }
+        ],
+        "returns": null
+      }
+    ],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this compnent in Dash callbacks"
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash-assigned callback that should be called whenever any of the\nproperties change"
+      },
+      "scanDelay": {
+        "type": {
+          "name": "number"
+        },
+        "required": false,
+        "description": "Delay for the scanning in ms.",
+        "defaultValue": {
+          "value": "2000",
+          "computed": false
+        }
+      },
+      "result": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Prop that will contain the result",
+        "defaultValue": {
+          "value": "null",
+          "computed": false
+        }
+      },
+      "status": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Contains the status of the renderer",
+        "defaultValue": {
+          "value": "'idle'",
+          "computed": false
+        }
+      }
+    }
+  }
+}

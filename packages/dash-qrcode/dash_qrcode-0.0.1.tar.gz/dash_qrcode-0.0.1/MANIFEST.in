@@ -1,0 +1,11 @@
+include dash_qrcode/dash_qrcode.min.js
+include dash_qrcode/dash_qrcode.min.js.map
+include dash_qrcode/async-*.js
+include dash_qrcode/async-*.js.map
+include dash_qrcode/*-shared.js
+include dash_qrcode/*-shared.js.map
+include dash_qrcode/metadata.json
+include dash_qrcode/package-info.json
+include README.md
+include LICENSE
+include package.json

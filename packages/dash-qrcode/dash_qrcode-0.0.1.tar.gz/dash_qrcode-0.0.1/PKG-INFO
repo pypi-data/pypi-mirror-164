@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dash_qrcode
+Version: 0.0.1
+Summary: Parse QR Codes in Dash using the webcam
+Home-page: UNKNOWN
+Author: Sam Thompson <thompsonsed@gmail.com>
+License: MIT
+Platform: UNKNOWN
+Classifier: Framework :: Dash
+License-File: LICENSE
+
+UNKNOWN
+

@@ -1,0 +1,1 @@
+export const QRCode = React.lazy(() => import(/* webpackChunkName: "QRCode" */ './fragments/QRCode.react'));
