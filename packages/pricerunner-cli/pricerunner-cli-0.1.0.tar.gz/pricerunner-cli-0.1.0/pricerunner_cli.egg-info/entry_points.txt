@@ -1,0 +1,3 @@
+[console_scripts]
+pricerunner-cli = prcli.pricerunner_cli:cli
+

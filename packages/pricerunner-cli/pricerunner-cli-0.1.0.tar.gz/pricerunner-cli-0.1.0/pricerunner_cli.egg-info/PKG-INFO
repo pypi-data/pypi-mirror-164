@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pricerunner-cli
+Version: 0.1.0
+Summary: Cli version of pricerunner.dk
+Home-page: UNKNOWN
+Author: oxnan
+Author-email: pricerunner-cli@oxnan.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9,<4.0
+License-File: LICENSE
+
+UNKNOWN
+
