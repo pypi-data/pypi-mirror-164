@@ -1,0 +1,8 @@
+aws_requests_auth-stubs/__init__.pyi,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aws_requests_auth-stubs/aws_auth.pyi,sha256=Ye7cTV8QYM2z46ijn03MFlF_97Q5daa_R4ni66RjOVM,1747
+aws_requests_auth-stubs/boto_utils.pyi,sha256=f30BDziTotA7Y5ZbX7uCd5Tyvqm4WiqSPyBDnXveXcY,496
+aws_requests_auth_stubs-0.4.3.2.dist-info/LICENSE,sha256=OQK_zc4GTA1NGhF6aV_9gw56jl6t0-S2dCvMHzilKIg,1074
+aws_requests_auth_stubs-0.4.3.2.dist-info/METADATA,sha256=OA9_BdU8aI9hlTJoidxvh-QrthRMmEOpXws5D3z1Ras,1448
+aws_requests_auth_stubs-0.4.3.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aws_requests_auth_stubs-0.4.3.2.dist-info/top_level.txt,sha256=fdFuuOjpPRWUh4wv8q5RwuB8W-QbzYSE7Y3wunSA8iw,24
+aws_requests_auth_stubs-0.4.3.2.dist-info/RECORD,,
