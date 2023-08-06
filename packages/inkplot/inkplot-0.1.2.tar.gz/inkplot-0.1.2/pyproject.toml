@@ -1,0 +1,34 @@
+[build-system]
+requires = [
+    "setuptools>=61.0"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = 'inkplot'
+description = "a simple presentation utility that turns inkscape SVGs into multi-page pdfs with configurable layer visibility and zoom definitions"
+readme = "README.md"
+keywords = ["inkscape", "pdf"]
+license = {text = "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"}
+version = "0.1.2"
+authors = [
+    {name="Fred McDavid", email="fred@frameworklabs.us"}
+]
+requires-python = ">=3.6"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: End Users/Desktop",
+    "Topic :: Multimedia :: Graphics",
+    "Topic :: Multimedia :: Graphics :: Presentation",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Utilities"
+]
+dependencies = [
+    "click",
+    "PyYAML",
+    "PyPDF2"
+]
+
+[project.urls]
+"Homepage" = "https://gitlab.com/frameworklabs/inkplot/"
