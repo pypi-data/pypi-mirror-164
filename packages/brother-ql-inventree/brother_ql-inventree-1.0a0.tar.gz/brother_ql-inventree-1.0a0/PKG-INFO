@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: brother_ql-inventree
+Version: 1.0a0
+Summary: Python package to talk to Brother QL label printers
+Home-page: https://github.com/pklaus/brother_ql-inventree
+Author: Philipp Klaus
+Author-email: philipp.l.klaus@web.de
+License: GPL
+Keywords: Brother QL-500 QL-550 QL-560 QL-570 QL-700 QL-710W QL-720NW QL-800 QL-810W QL-820NWB QL-1050 QL-1060N
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: System :: Hardware :: Hardware Drivers
+License-File: LICENSE
