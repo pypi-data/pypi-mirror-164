@@ -1,0 +1,6 @@
+README.md
+setup.py
+smalin.egg-info/PKG-INFO
+smalin.egg-info/SOURCES.txt
+smalin.egg-info/dependency_links.txt
+smalin.egg-info/top_level.txt
