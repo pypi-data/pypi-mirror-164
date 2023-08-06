@@ -1,0 +1,107 @@
+Metadata-Version: 2.1
+Name: hatch-aws
+Version: 0.1.0
+Summary: Hatch plugin for building AWS Lambda functions with SAM
+Project-URL: Documentation, https://github.com/aka-raccoon/hatch-aws#readme
+Project-URL: Issues, https://github.com/aka-raccoon/hatch-aws/issues
+Project-URL: Source, https://github.com/aka-raccoon/hatch-aws
+Author-email: aka-raccoon <aka-raccoon@pm.me>
+License: MIT License
+        
+        Copyright (c) 2022 [pj]
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+Keywords: aws,hatch,lambda,plugin,sam
+Classifier: Framework :: Hatch
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7
+Requires-Dist: aws-sam-cli>=1.55.0
+Requires-Dist: hatchling>=0.21.0
+Description-Content-Type: text/markdown
+
+<!-- markdownlint-disable-file no-inline-html first-line-h1 -->
+<div align="center">
+
+# hatch-aws
+
+[![PyPI - Version](https://img.shields.io/pypi/v/hatch-aws.svg)](https://pypi.org/project/hatch-aws) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hatch-aws.svg)](https://pypi.org/project/hatch-aws) [![code style - black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![types - mypy](https://img.shields.io/badge/types-Mypy-blue.svg)](https://github.com/python/mypy) [![imports - isort](https://img.shields.io/badge/imports-isort-ef8336.svg)](https://github.com/pycqa/isort)
+
+AWS builder plugin for **[Hatch 🥚🐍](<https://hatch.pypa.io/latest/>)**.
+*Hatch is modern, extensible Python project manager.*
+
+</div>
+
+---
+
+## Table of Contents
+
+- [hatch-aws](#hatch-aws)
+  - [Table of Contents](#table-of-contents)
+  - [Global dependency](#global-dependency)
+  - [Builder](#builder)
+    - [Options](#options)
+  - [License](#license)
+
+## Global dependency
+
+Add `hatch-aws` within the `build-system.requires` field in your `pyproject.toml` file.
+
+```toml
+[build-system]
+requires = ["hatchling", "hatch-aws"]
+build-backend = "hatchling.build"
+```
+
+## Builder
+
+The [builder plugin](https://hatch.pypa.io/latest/plugins/builder/reference/) name is called `aws`.
+
+To enable it, include following configuration in you config file:
+
+- **pyproject.toml**
+
+    ```toml
+    [tool.hatch.build.targets.aws]
+    ```
+
+- **hatch.toml**
+
+    ```toml
+    [build.targets.aws]
+    ```
+
+### Options
+
+Following table contains available customization of builder behavior. You can see example of `pyproject.toml` in [tests/assets/pyproject.toml](https://github.com/aka-raccoon/hatch-aws/blob/first_release/tests/assets/pyproject.toml).
+
+| Option                | Type                       | Default        | Description                                            |
+| --------------------- | -------------------------- | -------------- | ------------------------------------------------------ |
+| `template-name`       | `str`                      | `template.yml` | The filename of a SAM template.                        |
+| `use-container`       | `bool`                     | `false`        | Make build inside an AWS Lambda-like Docker container. |
+| `parameter-overrides` | `array` of `inline tables` |                | Override SAM template parameter                        |
+
+## License
+
+Plugin `hatch-aws` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
