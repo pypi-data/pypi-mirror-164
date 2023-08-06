@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+setup.py
+experimentmaker.egg-info/PKG-INFO
+experimentmaker.egg-info/SOURCES.txt
+experimentmaker.egg-info/dependency_links.txt
+experimentmaker.egg-info/requires.txt
+experimentmaker.egg-info/top_level.txt

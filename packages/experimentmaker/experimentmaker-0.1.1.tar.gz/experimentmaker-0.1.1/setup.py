@@ -1,0 +1,34 @@
+from setuptools import find_packages, setup, Extension
+import os
+
+def read(fname):
+    """
+    Utility function to read the README file. Used for the long_description.
+    :param fname:
+    :return:
+    """
+    return open(os.path.join(os.path.dirname(__file__), fname)).read()
+
+_REQUIRED = ['openai', 'fpdf', 'Pillow']
+_EXTRAS = []
+setup(
+    name='experimentmaker',
+    version='0.1.1',
+    packages=find_packages(),
+    install_requires=_REQUIRED,
+    # extras_require=_EXTRAS,
+    url='https://github.com/patriziobellan86/ExperimentMaker',
+    license='MIT',
+    classifiers=[
+            "License :: OSI Approved :: MIT License",
+            "Programming Language :: Python :: 3",
+            "Programming Language :: Python :: 3.9",
+            "Programming Language :: Python :: 3.10",
+        ],
+    author='Patrizio Bellan',
+    include_package_data=True,
+    long_description=read("README.rst"),
+    long_description_content_type='text/x-rst',
+    author_email='patrizio.bellan@gmail.com',
+    description='Experiment Maker. Create prompts and experimental pipelines to do in-context learning with GPT-3'
+)
