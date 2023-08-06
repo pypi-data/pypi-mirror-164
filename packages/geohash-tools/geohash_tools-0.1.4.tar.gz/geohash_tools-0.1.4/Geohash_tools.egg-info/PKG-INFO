@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: geohash-tools
+Version: 0.1.4
+Summary: Geohash tools for performing geohash related tasks.
+Home-page: https://github.com/Jakub-Markowiak/geohash-tools
+Author: Jakub Markowiak
+Author-email: jamarkowiak@gmail.com
+License: MIT
+Download-URL: https://github.com/Jakub-Markowiak/geohash-tools/archive/refs/tags/v0.1.4.tar.gz
+Keywords: geohash,gis,location,distance,cryptography
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This module provides optimized functions to perform geohash related tasks. Module includes encoding and decoding geohashes, finding neighbouring geohashes and calculating exact distance between two geohashes using haversine formula
+
