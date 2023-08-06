@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+basic_calculations/_init_.py
+shobanaBasicCalculator.egg-info/PKG-INFO
+shobanaBasicCalculator.egg-info/SOURCES.txt
+shobanaBasicCalculator.egg-info/dependency_links.txt
+shobanaBasicCalculator.egg-info/top_level.txt
