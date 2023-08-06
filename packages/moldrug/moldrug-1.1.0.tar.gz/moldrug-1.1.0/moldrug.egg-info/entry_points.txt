@@ -1,0 +1,2 @@
+[console_scripts]
+moldrug = moldrug.cli:moldrug_cmd
