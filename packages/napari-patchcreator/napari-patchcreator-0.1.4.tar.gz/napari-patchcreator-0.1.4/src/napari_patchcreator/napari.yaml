@@ -1,0 +1,10 @@
+name: napari-patchcreator
+display_name: napari patch creator
+contributions:
+  commands:
+    - id: napari-patchcreator.make_patch_widget
+      python_name: napari_patchcreator._patch_widget:patch_creation
+      title: Patch creation from img layer
+  widgets:
+    - command: napari-patchcreator.make_patch_widget
+      display_name: Patch creation

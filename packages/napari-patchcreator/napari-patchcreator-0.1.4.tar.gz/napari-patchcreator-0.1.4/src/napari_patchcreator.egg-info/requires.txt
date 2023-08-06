@@ -1,0 +1,11 @@
+numpy
+napari
+napari-plugin-engine>=0.1.4
+
+[testing]
+tox
+pytest
+pytest-cov
+pytest-qt
+napari
+pyqt5
