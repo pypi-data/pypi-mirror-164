@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "root_directory"
+version = "0.1.2"
+authors = [
+  { name="Kristjan Kongas", email="kongaskristjan@gmail.com" },
+]
+description = "A no-nonsense utility for importing relative to root"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.4"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: The Unlicense (Unlicense)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/kongaskristjan/root_directory"
+"Bug Tracker" = "https://github.com/kongaskristjan/root_directory/issues"
