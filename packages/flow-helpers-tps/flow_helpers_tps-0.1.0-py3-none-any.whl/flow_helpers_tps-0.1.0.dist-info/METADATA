@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: flow-helpers-tps
+Version: 0.1.0
+Summary: 
+Author: joshliu3
+Author-email: jliu@theparkingspot.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: SQLAlchemy
+Requires-Dist: boto3
+Requires-Dist: botocore
+Requires-Dist: cryptography
+Requires-Dist: facebook-business
+Requires-Dist: flatdict
+Requires-Dist: google
+Requires-Dist: google-api-python-client
+Requires-Dist: httplib2
+Requires-Dist: office365
+Requires-Dist: pandas
+Requires-Dist: pendulum
+Requires-Dist: poetry
+Requires-Dist: pysftp
+Requires-Dist: uuid
