@@ -1,0 +1,6 @@
+numpy
+matplotlib
+trimesh
+python-sat
+python-fcl
+canonicaljson
