@@ -1,0 +1,10 @@
+setup.py
+akeru_distributions/Binomialdistribution.py
+akeru_distributions/Gaussiandistribution.py
+akeru_distributions/Generaldistribution.py
+akeru_distributions/__init__.py
+akeru_distributions.egg-info/PKG-INFO
+akeru_distributions.egg-info/SOURCES.txt
+akeru_distributions.egg-info/dependency_links.txt
+akeru_distributions.egg-info/not-zip-safe
+akeru_distributions.egg-info/top_level.txt
