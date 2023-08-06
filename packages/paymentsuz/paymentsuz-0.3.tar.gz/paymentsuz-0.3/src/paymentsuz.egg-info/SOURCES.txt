@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+src/payme/__init__.py
+src/payme/cards/__init__.py
+src/payme/cards/subscribe_cards.py
+src/payme/receipts/__init__.py
+src/payme/receipts/subscribe_receipts.py
+src/paymentsuz.egg-info/PKG-INFO
+src/paymentsuz.egg-info/SOURCES.txt
+src/paymentsuz.egg-info/dependency_links.txt
+src/paymentsuz.egg-info/requires.txt
+src/paymentsuz.egg-info/top_level.txt
