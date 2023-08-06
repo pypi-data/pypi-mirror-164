@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: r2sdb
+Version: 1.8.2
+Summary: string database from radareorg
+Home-page: https://www.radare.org
+Author: pancake
+Author-email: pancake@nopcode.org
+License: MIT
+License-File: LICENSE.txt
