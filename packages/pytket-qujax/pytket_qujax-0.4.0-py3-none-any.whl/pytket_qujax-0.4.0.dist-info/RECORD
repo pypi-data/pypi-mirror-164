@@ -1,0 +1,9 @@
+pytket/extensions/qujax/__init__.py,sha256=D1SWeVsHqwdTFMdkPfoip2CGsi9S6zHEVyphLMR9640,1001
+pytket/extensions/qujax/_metadata.py,sha256=9rzMotkZatG9AvApXSAIvNeemoItRcDUt_388hCpPYg,68
+pytket/extensions/qujax/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytket/extensions/qujax/qujax_convert.py,sha256=Ydb3rlFRiA2G0Afs0HPrpStew2Js8fwWMkIrBtVgNNk,11940
+pytket_qujax-0.4.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pytket_qujax-0.4.0.dist-info/METADATA,sha256=6k5-rpyKIFy0BXfMD24nTcZo4Ydy6kp1T56wgznQDDk,3912
+pytket_qujax-0.4.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pytket_qujax-0.4.0.dist-info/top_level.txt,sha256=GsvCQQpJ7P8Vrx4ydtbjs36yufXiD59vSbbQFtFgcQ0,7
+pytket_qujax-0.4.0.dist-info/RECORD,,
