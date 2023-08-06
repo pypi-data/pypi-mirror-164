@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: PyFretboard
+Version: 0.4
+Summary: PyFretboard is an API for drawing diagrams on the guitar fretboard.
+Home-page: https://github.com/narcispr/PyFretboard
+Author: Narcis Palomeras
+License: UNKNOWN
+Description: PyFretboard is an API for drawing diagrams (aka shapes) on the guitar fretboard using Python as well as to automatically generate new shapes.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
