@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+test_helloworld.py
+src/helloworldtal1948.py
+src/helloworld_eliya.egg-info/PKG-INFO
+src/helloworld_eliya.egg-info/SOURCES.txt
+src/helloworld_eliya.egg-info/dependency_links.txt
+src/helloworld_eliya.egg-info/requires.txt
+src/helloworld_eliya.egg-info/top_level.txt

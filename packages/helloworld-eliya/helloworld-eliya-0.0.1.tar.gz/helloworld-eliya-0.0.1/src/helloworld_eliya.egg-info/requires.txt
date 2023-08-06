@@ -1,0 +1,5 @@
+blessings~=1.7
+rsa==3.3
+
+[dev]
+pytest>=3.7
