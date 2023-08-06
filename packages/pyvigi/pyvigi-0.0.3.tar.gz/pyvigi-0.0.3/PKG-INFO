@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyvigi
+Version: 0.0.3
+Summary: PYthon Vitual Instrument Graphic Interface
+Home-page: https://github.com/RochSchanen/pyvigi_dev
+Author: Roch Schanen
+Author-email: r.schanen@lancaster.ac.uk
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# pyvigi
+
+A miniature package for coding Graphic Interfaces for Virtual Instruments in Python3 (https://pypi.org/project/pyvigi/) based on wxpython.
