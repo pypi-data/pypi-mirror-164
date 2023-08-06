@@ -1,0 +1,4 @@
+psycopg2-binary>=2.8
+pandas>=1.1
+python-dotenv>=0.19.2
+configservice>=0.0.27
