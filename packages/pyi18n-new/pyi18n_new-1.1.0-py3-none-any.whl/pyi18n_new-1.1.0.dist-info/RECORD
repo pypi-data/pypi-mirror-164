@@ -1,0 +1,11 @@
+pyi18n_new/__init__.py,sha256=EfdQnZpf-xgf6Fg-2JxN6TjBznx9wB4wCAlE_uko3eQ,106
+pyi18n_new/i18n.py,sha256=GJ3OzvS1U4HM9-_oeR4M-TQckI2Gwps-6OdzpNjr6_8,1544
+pyi18n_new/lib/base_class.py,sha256=gjrRQyQly9HEVH9Uu-6icdaqd-mXuqLbUhPd1bDeCmY,128
+pyi18n_new/lib/prettyword.py,sha256=k0txEuU1y4KLAxTUvNNc7mLFWuv6cVovoknD1EE9v08,497
+pyi18n_new/models/locale.py,sha256=idOXD3S71swCutacE9Ky41XX0VMJPTDAjy2Y7muU-3c,894
+pyi18n_new/models/section.py,sha256=aeUVqFG9KsSU4L8RvIVpD0MW9QB3ZBfDrnhb2yUJKAI,935
+pyi18n_new/models/value.py,sha256=J184rz4RLBctNgkea0LwKXh36H03qB27aVKG6hpn_Ps,1403
+pyi18n_new-1.1.0.dist-info/LICENSE,sha256=IOuZvHVazWlA7agwjQSMbixrvZv6WTko_m_zRF3bBLE,1093
+pyi18n_new-1.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+pyi18n_new-1.1.0.dist-info/METADATA,sha256=vdk0c3FspfZ0SkgbJKMYZDGsgcRNs_KL_hXLo-YtY9Q,464
+pyi18n_new-1.1.0.dist-info/RECORD,,
