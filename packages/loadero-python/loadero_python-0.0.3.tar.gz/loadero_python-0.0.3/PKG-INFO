@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: loadero_python
+Version: 0.0.3
+Summary: Python client for Loadero API
+Home-page: https://github.com/loadero/loadero-python
+Author: Loadero Team
+Author-email: support@loadero.com
+License: GPLv3
+Project-URL: Source, https://github.com/loadero/loadero-python
+Project-URL: Tracker, https://github.com/loadero/loadero-python/issues
+Project-URL: Loadero, https://loadero.com/
+Keywords: loadero
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Quality Assurance
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# loadero-python
+
+Soon to become an awesome client library to interact with Loadero API.
