@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: tnt-python
+Version: 0.1.3
+Summary: Telegram notification tool
+Home-page: https://github.com/watchmanix/pytnt
+License: MIT
+Keywords: python,telegram
+Author: axeman
+Author-email: axeman.ofic@gmail.com
+Maintainer: axeman
+Maintainer-email: axeman.ofic@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: httpx (>=0.23.0,<0.24.0)
+Project-URL: Repository, https://github.com/watchmanix/pytnt
+Description-Content-Type: text/markdown
+
+# tnt-python
+
+tnt - Telegram notification tool
+
+## Features
+
+* Sending text messages to chat
+* Sending text documents to chat
+
+
+## Installation
+
+```
+poetry add tnt-python
+```
+
+or
+
+```
+pip install tnt-python
+```
+
+## Example
+
+This code sends a message on your behalf to the chat
+
+```python
+import os
+from tnt_python.types import MessageData
+from tnt_python.services import NotifyerService
+
+# Your API Token
+token = os.getenv("TG_TOKEN")
+
+data = MessageData(
+    chat_id=os.getenv("CHAT_ID"),
+    text="Hello world"
+)
+NotifyerService.send_message(data, token)
+```
