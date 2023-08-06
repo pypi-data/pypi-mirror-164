@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tdotly"
+version = "1.0a1.dev1"
+authors = [
+  { name="Priom Deb", email="priom@priomdeb.com" },
+]
+description = "This is a python package for t.ly url shortener service."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "requests==2.28.1"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/PriomDeb/tdotly"
+"Bug Tracker" = "https://github.com/PriomDeb/tdotly/issues"
