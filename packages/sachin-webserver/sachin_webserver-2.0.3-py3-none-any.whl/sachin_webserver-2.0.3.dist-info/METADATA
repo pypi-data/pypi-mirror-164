@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: sachin-webserver
+Version: 2.0.3
+Summary: This is a small web server to serve PHP/Web files
+Home-page: https://github.com/sachin-acharya-projects/webserver
+Author: Sachin Acharya
+Author-email: acharyaraj71+webserver@gmail.com
+License: UNKNOWN
+Keywords: php webserver localhost
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: colorama
+Requires-Dist: py-setenv
+
+UNKNOWN
+
