@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+src/eochat_qt/__init__.py
+src/eochat_qt/config.py
+src/eochat_qt/eo_defs.py
+src/eochat_qt/helpers.py
+src/eochat_qt/main.py
+src/eochat_qt/mainwindow.py
+src/eochat_qt.egg-info/PKG-INFO
+src/eochat_qt.egg-info/SOURCES.txt
+src/eochat_qt.egg-info/dependency_links.txt
+src/eochat_qt.egg-info/entry_points.txt
+src/eochat_qt.egg-info/requires.txt
+src/eochat_qt.egg-info/top_level.txt
