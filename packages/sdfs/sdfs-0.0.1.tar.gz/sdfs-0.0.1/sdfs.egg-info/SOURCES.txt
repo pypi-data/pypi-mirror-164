@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+sdfs/__init__.py
+sdfs/_modidx.py
+sdfs/core.py
+sdfs.egg-info/PKG-INFO
+sdfs.egg-info/SOURCES.txt
+sdfs.egg-info/dependency_links.txt
+sdfs.egg-info/entry_points.txt
+sdfs.egg-info/not-zip-safe
+sdfs.egg-info/requires.txt
+sdfs.egg-info/top_level.txt
