@@ -1,0 +1,9 @@
+changelog/__init__.py,sha256=AVrHCPb31AHKHh3-eoXN2pMC1__XiaF-PUTL5_mqVmo,9330
+changelog/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+changelog/tests/test_changelog.py,sha256=edwDrPWGRc8q5NBu--7MuKOhWB5aWBN_jRzyfXidj34,14148
+github_changelog-1.5.0.dist-info/LICENSE,sha256=ogEPNDSH0_dhiv_lT3ifVIdgIzHAqNA_SemnxUfPBJk,7048
+github_changelog-1.5.0.dist-info/METADATA,sha256=ROmZywpep71OvZVj6hUT_F-ZufWr98B9-Ob7ME0dmeI,3052
+github_changelog-1.5.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+github_changelog-1.5.0.dist-info/entry_points.txt,sha256=LoU8fNv-vFG3oeGGOnFsC4LBfhFfY3sUwX64DfDGaPU,46
+github_changelog-1.5.0.dist-info/top_level.txt,sha256=xWXFAUk64Wf-S_-kRFbQ7ORx2aQdi_BPU_L_hxC9kzI,10
+github_changelog-1.5.0.dist-info/RECORD,,
