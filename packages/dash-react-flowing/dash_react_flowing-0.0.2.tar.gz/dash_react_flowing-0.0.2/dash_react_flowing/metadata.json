@@ -1,0 +1,110 @@
+{
+  "src/lib/components/DashReactFlowing.react.js": {
+    "description": "",
+    "displayName": "DashReactFlowing",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": true,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "nodes": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "shape",
+            "value": {
+              "id": {
+                "name": "string",
+                "required": false
+              },
+              "data": {
+                "name": "shape",
+                "value": {
+                  "label": {
+                    "name": "string",
+                    "required": false
+                  }
+                },
+                "required": false
+              },
+              "position": {
+                "name": "shape",
+                "value": {
+                  "x": {
+                    "name": "number",
+                    "required": false
+                  },
+                  "y": {
+                    "name": "number",
+                    "required": false
+                  }
+                },
+                "required": false
+              }
+            }
+          }
+        },
+        "required": false,
+        "description": "The nodes which make up the flow chart",
+        "defaultValue": {
+          "value": "[]",
+          "computed": false
+        }
+      },
+      "edges": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "object"
+          }
+        },
+        "required": false,
+        "description": "The edges which connect the flow chart",
+        "defaultValue": {
+          "value": "[]",
+          "computed": false
+        }
+      },
+      "defaultEdgeOptions": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "The default edge options",
+        "defaultValue": {
+          "value": "{ animated: true }",
+          "computed": false
+        }
+      },
+      "fitViewOptions": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "The fit view options"
+      },
+      "style": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "The reactFlowStyle",
+        "defaultValue": {
+          "value": "{}",
+          "computed": false
+        }
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash-assigned callback that gets fired when the value changes."
+      }
+    }
+  }
+}
