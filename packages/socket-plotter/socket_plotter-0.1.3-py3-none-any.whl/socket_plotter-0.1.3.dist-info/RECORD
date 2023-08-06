@@ -1,0 +1,11 @@
+socket_plotter/__init__.py,sha256=sURYRHlSSDVJPyxasu6QUR34bIAY_D0biscI54EevH8,103
+socket_plotter/api.py,sha256=8NZFBmlkfIDU3GJQQF_p_Q0DlrrxzxdEgQRVNl8Vp88,4558
+socket_plotter/app/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+socket_plotter/app/imageplotter.py,sha256=DAh_yGCn_zW_5YiU8CnXIqF7t1DJ9uobsoRNpkk299Q,2227
+socket_plotter/app/lineplotter.py,sha256=1S_4WoNvl-VA6fZ1gUrTqvDQzb3Iayn3htUbm8WK12Q,2715
+socket_plotter/app/receiver.py,sha256=gHmnCxbjYmNkPiCjiHLtEet0EnJKAHZVmiL0LlqJuWo,2929
+socket_plotter-0.1.3.dist-info/LICENSE,sha256=9w2HmXyvC-wZ5VXEaeM7DuHUZIDZaBuCgIwf6UQeWyE,1091
+socket_plotter-0.1.3.dist-info/METADATA,sha256=p2Ip2oXp989fBwsWFsJmOzQrqP4ICZTrRSHTRLU_Pms,2407
+socket_plotter-0.1.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+socket_plotter-0.1.3.dist-info/top_level.txt,sha256=MpwqUmAlCxUb97mCuOjUC2lu8_trDDyfzceLkQXN-NY,15
+socket_plotter-0.1.3.dist-info/RECORD,,
