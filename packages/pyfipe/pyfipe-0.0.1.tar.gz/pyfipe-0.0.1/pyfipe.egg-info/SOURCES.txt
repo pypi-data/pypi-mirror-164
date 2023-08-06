@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+pyfipe/__init__.py
+pyfipe/_modidx.py
+pyfipe/core.py
+pyfipe.egg-info/PKG-INFO
+pyfipe.egg-info/SOURCES.txt
+pyfipe.egg-info/dependency_links.txt
+pyfipe.egg-info/entry_points.txt
+pyfipe.egg-info/not-zip-safe
+pyfipe.egg-info/requires.txt
+pyfipe.egg-info/top_level.txt
