@@ -1,0 +1,3 @@
+[console_scripts]
+base64-converter=base64_converter.main:app
+
