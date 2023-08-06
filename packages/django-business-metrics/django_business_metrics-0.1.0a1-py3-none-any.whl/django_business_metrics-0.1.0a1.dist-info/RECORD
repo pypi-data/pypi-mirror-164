@@ -1,0 +1,7 @@
+django_business_metrics/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_business_metrics/metrics.py,sha256=FsflmggJbAbwo_gpLMQHYFDC1aGar0x1dz75Wm3IRHM,358
+django_business_metrics/metrics_manager.py,sha256=JqSKRDN43aSrt-G2bLXSdS33quoqgBDXsJ6j3mBNDJU,2247
+django_business_metrics/v0/__init__.py,sha256=vglj0v2dGLDrl6HwS0jReHl5ROX_M8msrEw-M2pIbSA,203
+django_business_metrics-0.1.0a1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+django_business_metrics-0.1.0a1.dist-info/METADATA,sha256=bv6QVM5us_ouvZ3hht8p3QDWefEiPgI9i3coZk43wiU,391
+django_business_metrics-0.1.0a1.dist-info/RECORD,,
