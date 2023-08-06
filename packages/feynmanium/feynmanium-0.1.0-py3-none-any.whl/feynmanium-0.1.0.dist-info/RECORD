@@ -1,0 +1,15 @@
+README.rst,sha256=Bj1JO-wpj-zfQ-VamsDpLQoZvotuoMECE1kU5EwAAWc,1611
+feynmanium/__init__.py,sha256=CqvKxniw0TVSa1K8x0SokY75qhd3MkKRHw2WLCj4qfc,717
+feynmanium/__main__.py,sha256=_hc4w23Zjlvdf4ORHXxPOY1Trall46QBVZz1I2sKUj4,731
+feynmanium/base.py,sha256=FE1sii1nAc4IfJOODedjR6WzscY-OkJ3BQ0WJlH3OVc,2303
+feynmanium/cogs/__init__.py,sha256=SQKXAdRZW1ZIKIWFXFzeUvBevP_afrlZUQ-HdM8XZHw,109
+feynmanium/cogs/calc.py,sha256=ZedfSeYWGtAm7UrOoUHmDAwNQctAzMGcgKfRyJUqesw,8989
+feynmanium/cogs/game.py,sha256=ticiwWI7tC6A0E_ujRy8AWr2u9_1U0f6dnIUxJX3LLs,16332
+feynmanium/cogs/misc.py,sha256=5frOqkNabQ-_v6uPk-Oxo4mjl5wSh35ukZotHNdkrtw,3554
+feynmanium/cogs/trans.py,sha256=VKxxwr0Msd5dDZvm4BZRINmWwqGSBkmgkh69x6bk2Ys,3113
+feynmanium/run.py,sha256=40p0hvbPBwnzqsBHc0P3Jt26T2o9KcKpHf-ZHH2T46U,2371
+feynmanium-0.1.0.dist-info/entry_points.txt,sha256=YCCk_UAxsecJunW1egVAuzAWXtYyLRmwAWLANtidLtI,50
+feynmanium-0.1.0.dist-info/LICENSE,sha256=hIahDEOTzuHCU5J2nd07LWwkLW7Hko4UFO__ffsvB-8,34523
+feynmanium-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+feynmanium-0.1.0.dist-info/METADATA,sha256=k_7WuH0RU8a-zhye5CjcBFxd7gCxG0uRpSFrk2YGeZo,2513
+feynmanium-0.1.0.dist-info/RECORD,,

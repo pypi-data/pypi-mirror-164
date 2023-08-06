@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: feynmanium
+Version: 0.1.0
+Summary: A discord bot that works.
+Home-page: https://github.com/tb148/feynmanium
+License: AGPL-3.0-or-later
+Author: Tony Brown
+Author-email: tb148@tuta.io
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: CairoSVG (>=2.5.2,<3.0.0)
+Requires-Dist: chess (>=1.9.2,<2.0.0)
+Requires-Dist: discord.py (>=2.0.0,<3.0.0)
+Requires-Dist: googletrans-py (>=4.0.0,<5.0.0)
+Requires-Dist: mpmath (>=1.2.1,<2.0.0)
+Requires-Dist: sympy (>=1.10.1,<2.0.0)
+Requires-Dist: toml (>=0.10.2,<0.11.0)
+Requires-Dist: tomlkit (>=0.11.4,<0.12.0)
+Requires-Dist: uvloop (>=0.16.0,<0.17.0)
+Project-URL: Repository, https://github.com/tb148/feynmanium
+Description-Content-Type: text/x-rst
+
+##########
+Feynmanium
+##########
+
+|Codacy Badge| |pre-commit.ci status| |Total alerts| |Language grade: Python| |Code style: black|
+
+A `Discord`_ bot that works.
+
+************
+Requirements
+************
+
+Feynmanium requires:
+
+-  `Python`_ v3.10 or later
+-  `Poetry`_ v1.1 or later
+
+************
+Installation
+************
+
+Run the following commands to install Feynmanium:
+
+::
+
+   git clone https://github.com/tb148/feynmanium.git
+   poetry install
+
+*****
+Usage
+*****
+
+Run the following commmand to run Feynmanium
+
+::
+
+   python -m feynmanium <token>
+
+.. _Discord: https://discord.com/
+.. _Python: https://python.org/
+.. _Poetry: https://python-poetry.org/
+
+.. |Codacy Badge| image:: https://app.codacy.com/project/badge/Grade/3f036df7eb36457d8182c08085e42953
+   :target: https://www.codacy.com/gh/tb148/feynmanium/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tb148/feynmanium&amp;utm_campaign=Badge_Grade
+.. |pre-commit.ci status| image:: https://results.pre-commit.ci/badge/github/tb148/feynmanium/trunk.svg
+   :target: https://results.pre-commit.ci/latest/github/tb148/feynmanium/trunk
+.. |Total alerts| image:: https://img.shields.io/lgtm/alerts/g/tb148/feynmanium.svg?logo=lgtm&logoWidth=18
+   :target: https://lgtm.com/projects/g/tb148/feynmanium/alerts/
+.. |Language grade: Python| image:: https://img.shields.io/lgtm/grade/python/g/tb148/feynmanium.svg?logo=lgtm&logoWidth=18
+   :target: https://lgtm.com/projects/g/tb148/feynmanium/context:python
+.. |Code style: black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
+   :target: https://github.com/psf/black

@@ -1,0 +1,3 @@
+[console_scripts]
+feynmanium=feynmanium.run:main
+
