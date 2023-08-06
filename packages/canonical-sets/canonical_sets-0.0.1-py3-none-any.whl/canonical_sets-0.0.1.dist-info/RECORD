@@ -1,0 +1,13 @@
+canonical_sets/__init__.py,sha256=p6dA8wX8NoNEE9jeEI3Zop-lH3drdv_w95udmeYRLFM,107
+canonical_sets/data/__init__.py,sha256=FCskBEfyaPF2tI11-op-jVqgXRjZoXAFymGc04iIIQI,220
+canonical_sets/data/adult.py,sha256=U8C_mnPv-HQ8vXsbub4nGjXGxJYfWDnhR541x6St8uA,8841
+canonical_sets/data/base.py,sha256=aG3zoBzNR7MHTj2CJPyYMhxXHsAgUg5AyZivL20s4bQ,10426
+canonical_sets/data/compas.py,sha256=5wqeH9SSUPVD5PgottnNTRNIBUOEVpcWF4JFCypESSE,7750
+canonical_sets/inverse_design.py,sha256=iZ6KtOf2TYdgh_NLfzxy9AH0w3TA2EcxiYbw6cgWY3w,21917
+canonical_sets/models/__init__.py,sha256=pzbldRfZsEUqmdebHjGJpvZII0MlGvc175QBDEhr7LI,151
+canonical_sets/models/classifiers.py,sha256=_zANhSwZ4mzMzlXbZlsBk3J0XJsJiy1ZVMscGqkkfGY,989
+canonical_sets/utils.py,sha256=NIOqroVLYGag7Zju59xw6vVkKUDALgEuBTgq1SiHb3g,904
+canonical_sets-0.0.1.dist-info/LICENSE,sha256=wvjRMYuN0BH_ghUnK7utwolOezIE_0iqB9ChxVZIbPk,1105
+canonical_sets-0.0.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+canonical_sets-0.0.1.dist-info/METADATA,sha256=DqjrGzd12ez_o2y5olUaEKjiSK1vSXJmjlYP5382v2o,5472
+canonical_sets-0.0.1.dist-info/RECORD,,
