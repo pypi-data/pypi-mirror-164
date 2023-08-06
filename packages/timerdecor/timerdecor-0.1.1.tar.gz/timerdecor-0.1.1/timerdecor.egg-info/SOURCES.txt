@@ -1,0 +1,8 @@
+LICENCE.txt
+README.txt
+setup.py
+timerdecor/__init__.py
+timerdecor.egg-info/PKG-INFO
+timerdecor.egg-info/SOURCES.txt
+timerdecor.egg-info/dependency_links.txt
+timerdecor.egg-info/top_level.txt
