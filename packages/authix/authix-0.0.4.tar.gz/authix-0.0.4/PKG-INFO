@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: authix
+Version: 0.0.4
+Summary: Authix - Authentication as a service
+Home-page: https://github.com/nymann/authix
+Maintainer: Kristian Nymann Jakobsen
+Maintainer-email: kristian@nymann.dev
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Provides-Extra: all
+Provides-Extra: dev
+Provides-Extra: tests
+
+# Authix
+
+_Authentication as a microservice_
+
+## Development
+
+For help getting started developing check [DEVELOPMENT.md](DEVELOPMENT.md)
