@@ -1,0 +1,13 @@
+dbpedia_tag/__init__.py,sha256=DjOahyZ2n_gwhrMR7oYLTMyyiVLFL00VG-iZmYQokvE,194
+dbpedia_tag/bp/__init__.py,sha256=rthM2Nfulw-ERBEmRNkMqWPzVpnKug5oAd33sT0CQV8,28
+dbpedia_tag/bp/tagger.py,sha256=a8wzCeU17ap0UwUpafBLUL8KurbKhFRUgTBdmnPH7PE,3645
+dbpedia_tag/dmo/__init__.py,sha256=bBVD4iM6DxMb43IZgRKuoB4JJ6L1PK-Yr8wdKe-KucY,174
+dbpedia_tag/dmo/candidate_fuzzy_match.py,sha256=Z53sXdbE9VE6ytif3NT0uggLk4rKHuTpmjUmlVOJme4,6613
+dbpedia_tag/dmo/sliding_window_extract.py,sha256=7zXfpIbHkVg1Ob7dObvw_O1orjVW7zetfF7r8aJ7BXE,1746
+dbpedia_tag/dmo/sliding_window_validate.py,sha256=NfiWJfS-f4PP8sEDjLrZxIvo_BHcSObWB9TAFzBZ4-s,1814
+dbpedia_tag/svc/__init__.py,sha256=q9nIWLtH6nJYKdfdYAKQrAmrlZiycqZScwmbBRS_cWc,100
+dbpedia_tag/svc/exact_match_finder.py,sha256=C1XcAmslPLuOqtAWyT_wuAppq4ykoEFu2U9XReAy_GY,2368
+dbpedia_tag/svc/fuzzy_match_finder.py,sha256=tOV9lCN4J7JP7veCmnE21KQHK_avV1iDqhBss60_uVQ,1402
+dbpedia_tag-0.1.4.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+dbpedia_tag-0.1.4.dist-info/METADATA,sha256=JVLme5cx0RdfFf_ZxUo177A4PCTcbeO5flVTMORUzHA,302
+dbpedia_tag-0.1.4.dist-info/RECORD,,
