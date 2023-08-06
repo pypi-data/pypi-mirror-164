@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_hc = {'_': ['hc-067047',
+       'hc-030031',
+       'hc-256',
+       'hc-12a',
+       'hc-one',
+       'hc-4',
+       'hc-1',
+       'hc-9',
+       'hc1'],
+ 'a': ['hcalendar', 'hcard', 'hcaw', 'hcap', 'hca'],
+ 'b': ['hcbc', 'hcb'],
+ 'c': ['hcca', 'hccs', 'hccc', 'hcc'],
+ 'd': ['hcdr', 'hcde', 'hcd'],
+ 'e': ['hcentive', 'hcesar', 'hce'],
+ 'f': ['hcfa', 'hcf'],
+ 'g': ['hcg4p11', 'hcg'],
+ 'h': ['hchs', 'hch'],
+ 'i': ['hcis', 'hcil', 'hci'],
+ 'j': ['hcjb', 'hcj'],
+ 'k': ['hck'],
+ 'l': ['hcls1', 'hclm', 'hcls', 'hcl'],
+ 'm': ['hcm-6a', 'hcmos', 'hcma', 'hcm'],
+ 'n': ['hcn-0.009-0.044', 'hcn1', 'hcn3', 'hcn4', 'hcng', 'hcn2', 'hcn'],
+ 'o': ['hcondels', 'hco'],
+ 'p': ['hcps', 'hcp5', 'hcpc', 'hcp'],
+ 'r': ['hcrd', 'hcrp', 'hcr'],
+ 's': ['hcsd', 'hcst', 'hcsa', 'hcso', 'hcss', 'hcs'],
+ 't': ['hctv', 'hctu', 'hct'],
+ 'u': ['hcuav', 'hcu'],
+ 'v': ['hcv'],
+ 'w': ['hcw'],
+ 'y': ['hcy'],
+ 'z': ['hcz']}

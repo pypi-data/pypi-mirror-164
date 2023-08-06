@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_fy = {'_': ['fy_antenaina_rakotomaharo', 'fy_postcode_area'],
+ 'a': ['fyaz_hussain_khan'],
+ 'd': ['fydell_edmund_garrett'],
+ 'e': ['fyens_stiftstidende_a/s'],
+ 'f': ['fyfin_railway_station', 'fyfield_and_tubney', 'fyfe_pty_ltd'],
+ 'k': ['fyksesund_landscape_park'],
+ 'l': ['fylde_college,_lancaster',
+       'fyli_municipal_stadium',
+       'fylde_rural_district',
+       'fyling_hall_school',
+       'fylde_ladies_f.c.',
+       'fylde_coast_derby',
+       'fylde_rugby_club',
+       'fylde_air_base'],
+ 'n': ['fyndoune_community_college', 'fynbos_golden_mole', 'fyn_power_station'],
+ 'o': ['fyodorovsky_district,_bashkortostan',
+       'fyodor_petrovich_komissarzhevsky',
+       'fyodor_mikhaylovich_reshetnikov',
+       'fyodor_grigoryevich_reshetnikov',
+       'fyodor_dostoevsky_bibliography',
+       'fyodor_aleksandrovich_golovin',
+       'fyodorovka,_fyodorov_district',
+       'fyodor_pavlovich_reshetnikov',
+       'fyodorovsky,_voronezh_oblast',
+       'fyodorov-shpagin_model_1922',
+       'fyodor_viktorovich_vinberg',
+       'fyodor_alexeyevich_golovin',
+       'fyodor_petrovich_tolstoy',
+       'fyodorovka,_oryol_oblast',
+       'fyodor_ivanovich_tolstoy',
+       'fyodorovka,_amur_oblast'],
+ 'r': ['fyr_and_flamme'],
+ 'v': ['fyvie_railway_station']}

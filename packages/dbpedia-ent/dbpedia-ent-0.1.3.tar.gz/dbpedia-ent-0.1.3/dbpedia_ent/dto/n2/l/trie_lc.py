@@ -1,0 +1,36 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_lc = {'_': ['lc,_swansea', 'lc_circuit', 'lc_davis', 'lc_peru', 'lc_43'],
+ 'a': ['lca-vision', 'lcars', 'lcad', 'lcaw', 'lcat', 'lcac', 'lca5', 'lca'],
+ 'b': ['lcbc'],
+ 'c': ['lccl_domain'],
+ 'd': ['lcd_classification',
+       'lcd_soundsystem',
+       'lcd_television',
+       'lcd_projector',
+       'lcd_crosstalk',
+       'lcd_glasses',
+       'lcd_smartie'],
+ 'e': ['lcevc', 'lcer', 'lce'],
+ 'f': ['lcf_notation', 'lcf_martina', 'lcf_ii'],
+ 'g': ['lcg'],
+ 'h': ['lchashen-metsamor_culture', 'lchh_architecture'],
+ 'i': ['lcisd', 'lciii', 'lcia', 'lcii', 'lci'],
+ 'j': ['lcj'],
+ 'k': ['lck'],
+ 'l': ['lcl_subdivision', 'lcl_s.a.'],
+ 'm': ['lcm62-class_lcm', 'lcms_foundation', 'lcm_1'],
+ 'n': ['lcn'],
+ 'o': ['lcovice', 'lcorl', 'lcor', 'lco'],
+ 'p': ['lcpe_ground', 'lcp_theory', 'lcp_family', 'lcp_array'],
+ 'q': ['lcq'],
+ 'r': ['lcr_meter', 'lcr_team'],
+ 's': ['lcs_holdings'],
+ 't': ['lctl', 'lct'],
+ 'u': ['lcu'],
+ 'v': ['lcvp', 'lcv'],
+ 'w': ['lcw'],
+ 'x': ['lcx']}

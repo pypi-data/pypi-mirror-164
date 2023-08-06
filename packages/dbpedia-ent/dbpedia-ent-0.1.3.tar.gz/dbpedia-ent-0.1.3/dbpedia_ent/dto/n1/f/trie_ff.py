@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_ff = {'_': ['ff.c', 'ff9', 'ff3', 'ff4', 'ff6', 'ff8', 'ff7', 'ff2', 'ff5'],
+ 'a': ['ffaldybrenin', 'ffairfach', 'ffarmers', 'ffado', 'ffar', 'ffa'],
+ 'b': ['ffb'],
+ 'c': ['ffcc', 'ffc'],
+ 'd': ['ffdshow', 'ffd'],
+ 'e': ['ffestiniog', 'ffernfael', 'ffermio', 'fferam', 'ffeil', 'fferm', 'ffe'],
+ 'f': ['ffffound!', 'fff'],
+ 'g': ['ffg'],
+ 'h': ['ffhs', 'ffh'],
+ 'i': ['ffinian', 'ffion', 'ffizz', 'ffii', 'ffi'],
+ 'k': ['ffkm', 'ffk'],
+ 'l': ['fflecsi', 'fflaps', 'fflach', 'fflick', 'ffl'],
+ 'm': ['ffmpeg', 'ffme', 'ffm'],
+ 'n': ['ffn'],
+ 'o': ['ffotogallery',
+       'fforestfach',
+       'ffos-y-ffin',
+       'ffostrasol',
+       'ffoshelyg',
+       'fforest',
+       'fforde',
+       'ffo'],
+ 'p': ['ffps', 'ffp'],
+ 'q': ['ffq'],
+ 'r': ['ffrench', 'ffrith', 'ffryes', 'ffr'],
+ 's': ['ffss', 'ffs2', 'ffsa', 'ffs'],
+ 't': ['fftpack', 'fftw', 'fftf'],
+ 'u': ['ffun', 'ffu'],
+ 'v': ['ffv1', 'ffv'],
+ 'w': ['ffwd', 'ffw'],
+ 'x': ['ffx'],
+ 'y': ['ffynnon-ddrain', 'ffynnongroew', 'ffynnon-oer'],
+ 'z': ['ffz']}

@@ -1,0 +1,38 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_hj = {'a': ['hjalmar_reinhold_dahlman',
+       'hjalmar_brantings_plads',
+       'hjalmar_august_schiotz',
+       'hjalmar_peter_johansen',
+       'hjalmar_v._pohjanheimo',
+       'hjalmar_hjorth_boyesen',
+       'hjalmar_olai_storeide',
+       'hjalmar_von_bonsdorff',
+       'hjalmar_magnus_eklund',
+       'hjalmar_carl_nygaard',
+       'hjalmer_s._halvorsen',
+       'hjalmar_and_ingeborg',
+       'hjalmer_j._erickson',
+       'hjalmar_j._procope',
+       'hjalmar_inge_sunde',
+       'hjalmar_g._carlson',
+       'hjalmar_von_sydow'],
+ 'e': ['hjelm_waage_thurn-basberg',
+       'hjelmar_von_danneville',
+       'hjelmeland_og_fister',
+       'hjernen_er_alene',
+       'hjem_til_jul'],
+ 'i': ['hjim_van_gasteren'],
+ 'o': ['hjordis_bjork_hakonardottir',
+       'hjordis_grontoft_raknerud',
+       'hjorvar_steinn_gretarsson',
+       'hjortur_logi_valgardsson',
+       'hjordis_piuva_andersson',
+       'hjorring_baptist_church',
+       'hjortur_mar_reynisson',
+       'hjorring_east_station',
+       'hjort_fracture_zone'],
+ 'u': ['hjuksebo_train_collision', 'hjulsta_metro_station', 'hjuki_and_bil']}

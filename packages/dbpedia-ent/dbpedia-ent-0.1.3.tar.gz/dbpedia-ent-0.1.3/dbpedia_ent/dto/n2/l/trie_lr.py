@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_lr = {'_': ['lr-attributed_grammar',
+       'lr&m_constructions',
+       'lr66_radar',
+       'lr_parser',
+       'lr_swamy'],
+ 'a': ['lrac_f1'],
+ 'b': ['lrba_deficiency'],
+ 'c': ['lrc_leerdam'],
+ 'd': ['lrdc', 'lrdd', 'lrd'],
+ 'e': ['lre_map'],
+ 'f': ['lrfc', 'lrf'],
+ 'g': ['lrg_racing'],
+ 'h': ['lrhs', 'lrh'],
+ 'i': ['lrit3', 'lrig1', 'lric', 'lri'],
+ 'j': ['lrj'],
+ 'k': ['lrk'],
+ 'l': ['lrll_54361'],
+ 'm': ['lrmt', 'lrmc', 'lrm'],
+ 'n': ['lrn'],
+ 'o': ['lroc', 'lro'],
+ 'p': ['lrp_ration'],
+ 'r': ['lrrreconcilable_ndndifferences'],
+ 's': ['lrsvm_morava'],
+ 't': ['lrt_televizija',
+       'lrt_lituanica',
+       'lrt_radijas',
+       'lrt_klasika',
+       'lrt_plius'],
+ 'u': ['lru'],
+ 'v': ['lrvi_fc'],
+ 'y': ['lrytas.lt'],
+ 'z': ['lrz']}

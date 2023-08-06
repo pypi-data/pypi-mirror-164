@@ -1,0 +1,37 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_lp = {'_': ['lp-lpa2', 'lp-211', 'lp-44', 'lp-12', 'lp1', 'lp!', 'lp3', 'lp5'],
+ 'a': ['lpa512',
+       'lpar5',
+       'lpar3',
+       'lpar6',
+       'lpar4',
+       'lpar1',
+       'lpar2',
+       'lpac',
+       'lpa'],
+ 'b': ['lpboost', 'lpb'],
+ 'c': ['lpcat1', 'lpcc', 'lpc'],
+ 'd': ['lpd-824', 'lpd433', 'lpddr', 'lpd'],
+ 'e': ['lpec', 'lpe'],
+ 'f': ['lpft', 'lpf'],
+ 'g': ['lpga', 'lpg'],
+ 'h': ['lphant', 'lphs', 'lph'],
+ 'i': ['lpin1', 'lpi'],
+ 'k': ['lpk-26', 'lpk'],
+ 'l': ['lpla', 'lpl'],
+ 'm': ['lpmud', 'lpm'],
+ 'n': ['lpny'],
+ 'o': ['lpo-50', 'lpod', 'lpo'],
+ 'p': ['lpp'],
+ 'q': ['lpq'],
+ 'r': ['lpradicals', 'lprolog', 'lprng', 'lpr'],
+ 's': ['lps/kuninkaat', 'lpss', 'lpsc', 'lps'],
+ 'u': ['lpu'],
+ 'v': ['lpv'],
+ 'w': ['lpw'],
+ 'x': ['lpxtgase', 'lpxn', 'lpx'],
+ 'y': ['lpy']}

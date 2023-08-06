@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_iu = {'_': ['iu_mien_americans', 'iu_mien_language', 'iu_mien_people'],
+ 'c': ['iucn_red_list'],
+ 'd': ['iudex_non_calculat'],
+ 'g': ['iuga_of_moldavia'],
+ 'k': ['iuka_springs,_missouri',
+       'iuka_normal_institute',
+       'iuka,_west_virginia'],
+ 'l': ['iulia_constantia_zilil',
+       'iulia_campestris_babba',
+       'iulian_cristian_stefan',
+       'iulius_town_timisoara',
+       'iulia_valentia_banasa',
+       'iulian_teodor_stefan',
+       'iulia_hasdeu_castle',
+       'iulius_mall_suceava',
+       'iuliu_cezar_savescu',
+       'iuliana_roxana_nucu',
+       'iuliu_maniu_square',
+       'iulius_mall_cluj',
+       'iulius_mall_iasi',
+       'iulia_maria_dan'],
+ 'n': ['iunca_in_mauretania'],
+ 'o': ['iuou_battery_charging'],
+ 'p': ['iupac_polymer_nomenclature',
+       'iupac_numerical_multiplier',
+       'iupui_university_library',
+       'iup_crimson_hawks'],
+ 'r': ['iura_novit_curia'],
+ 's': ['ius_non_scriptum', 'ius_in_re'],
+ 'z': ['iuz_the_evil']}
