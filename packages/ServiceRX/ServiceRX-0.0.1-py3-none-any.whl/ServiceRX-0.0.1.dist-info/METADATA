@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ServiceRX
+Version: 0.0.1
+Summary: MkNxGn ServiceRX, Connects your code to your remote code with seamless interaction.
+Home-page: https://mknxgn.com/
+Author: Mark Cartagena
+Author-email: mark@mknxgn.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: netifaces (>=0.10.9)
+
+# ServiceRX
+Python Service to send and request data to multiple services,  load balancer included
+
+Documentation Pending
+
