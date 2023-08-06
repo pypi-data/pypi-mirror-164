@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pterodactyl-exporter
+Version: 0.1.0
+Summary: Metrics exporter for Pterodactyl
+Home-page: https://github.com/LOENS2/pterodactyl_exporter
+Author: LOENS2
+Author-email: info@loens2.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: python-dotenv (~=0.20.0)
+Requires-Dist: setuptools (~=60.2.0)
+Requires-Dist: PyYAML (~=6.0)
+Requires-Dist: Twisted (~=22.4.0)
+
