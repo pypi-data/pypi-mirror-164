@@ -1,0 +1,11 @@
+pyvigi/__init__.py,sha256=MuqoK1efDyEWAeb5j7smiKU6SMdKW1WUa0tVze8kn5s,180
+pyvigi/base.py,sha256=JLYWDSfM5rlX3Rd2fZwwSrGCBZC6qykr--e-PnjQmMs,3692
+pyvigi/buttons.py,sha256=0wJXAchbD18e5JzFPvQMP-5fTR6MAIfW6Z7BcAE_D7c,7783
+pyvigi/controls.py,sha256=5UF06Cz24olmnQ_VfNjnCUP1BSG1irM-up5B8teyxVw,2017
+pyvigi/display.py,sha256=ybCd56LmeI0odPRLTIAnpo1KLNLsMJuNXi5hZQhVRKs,2738
+pyvigi/theme.py,sha256=a2gjwNAjnJugVKr76VF0UnaXrQiOwt1zn3WcmAakIQU,6586
+pyvigi-0.0.3.dist-info/LICENCE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+pyvigi-0.0.3.dist-info/METADATA,sha256=pZrAmWz8HXeYrPyhst0MQWMG1umfAWm9NYbh5AoZUe8,621
+pyvigi-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyvigi-0.0.3.dist-info/top_level.txt,sha256=MEggHkkKK3csnUadjBPmM90FdV8XkPdVn_lfcESUcBI,7
+pyvigi-0.0.3.dist-info/RECORD,,
