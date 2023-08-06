@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ccdot
+Version: 0.1
+Summary: Utility to manage a block of env variables for multiple dev projects
+Home-page: https://github.com/n-p3k/ccdot
+Author: n-p3k
+Author-email: nora-p3k@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE

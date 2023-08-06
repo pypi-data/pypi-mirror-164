@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+ccdot/__init__.py
+ccdot/ccdot.py
+ccdot.egg-info/PKG-INFO
+ccdot.egg-info/SOURCES.txt
+ccdot.egg-info/dependency_links.txt
+ccdot.egg-info/not-zip-safe
+ccdot.egg-info/top_level.txt
