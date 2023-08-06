@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: arclet-alconna-cli
+Version: 0.2.1
+Summary: Simple Cli Tool For Alconna
+License: MIT
+Keywords: alconna,cli,arclet,commandline
+Author-email: RF-Tar-Railt <rf_tar_railt@qq.com>
+Requires-Python: >=3.8
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: cli-lite~=0.2.0
+Requires-Dist: nepattern~=0.1.2
+Project-URL: Bug Reports, https://github.com/ArcletProject/Alconna/issues
+Project-URL: Documentation, https://arcletproject.github.io/docs/alconna/tutorial
+Project-URL: Homepage, https://github.com/ArcletProject/Alconna-CLI
+Project-URL: Source, https://github.com/ArcletProject/Alconna
+Description-Content-Type: text/markdown
+
+# Alconna CLI
+
+[Alconna](https://github.com/ArcletProject/Alconna) 的命令行界面 (由原 `arclet.alconna.builtin.commandline` 迁出)
