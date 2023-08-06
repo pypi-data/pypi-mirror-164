@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: neutron-cinema
+Version: 0.1.1
+Summary: China Spallation Neutron Source Monte Carlo System
+Author: Xiao-Xiao Cai, Ming Tang, Zi-Yi PAN, Ni Yang
+Author-email: cinema-users@outlook.com
+Keywords: NCyrstal,Neutron Scattering,Spectroscopy
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyvista (>=0.34.1)
+Requires-Dist: pyvistaqt (>=0.9.0)
+Requires-Dist: matplotlib
+
+--------------------------------------
+
+neutron-cinema(China Spallation Neutron Source Monte Carlo System): a neutron transport simulation system
+=======================================
+
+![PyPI](https://img.shields.io/pypi/v/neutron-cinema)
+![PyPI - License](https://img.shields.io/pypi/l/neutron-cinema)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/neutron-cinema)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/neutron-cinema)
+
+neutron-cinema (China Spallation Neutron Source Monte Carlo System) uses [NCrystal](https://github.com/mctools/ncrystal) as the backend for the scattering physics, [VecGeom](https://gitlab.cern.ch/VecGeom/VecGeom) for the geometry modelling and [pyvista](https://www.pyvista.org/) for the visualisation. The cross section generators for crystalline materials (PiXiu) and liquids (Tak) will be included in the future releases.
+
+Installation
+------------
+
+The latest stable release (and required dependencies) can be installed from PyPI:
+
+    pip install neutron-cinema
+
+Usage
+------------
+
+Run the following command on bash to simulate a square neutron guide: 
+    
+    promptpy --gdml guide_1.gdml --visualize --neutronNum 100
+
+To simulate the neutron guide and visualise the position sensity monitor at the exist of the guide:
+    
+    promptpy --gdml guide_1.gdml --neutronNum 1000000 && python ScororPSD_Monitor2_view.py
+
+Run your customized [gdml](https://gdml.web.cern.ch/GDML/) files (e.g. MyGdml.gdml):
+    
+    promptpy --gdml MyGdml.gdml --visualize --neutronNum 100
+
+Documentation and publications
+------------
+
+Under preparation.
+
+<h3 align="left">Connect with us:</h3>
+<p align="left"><a href="mailto:cinema-users@outlook.com">cinema-users@outlook.com</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
