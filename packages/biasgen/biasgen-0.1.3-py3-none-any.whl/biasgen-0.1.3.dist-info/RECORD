@@ -1,0 +1,12 @@
+biasgen/__init__.py,sha256=ZlX3_pC8HpjnUnle2Ogrr2QIOrgtMmXcUUTI4cO0csE,327
+biasgen/coil_setup.py,sha256=uJpaf-A3m4ZTMLGswlLeTPbiGR4mOp8-kqh941NzOeI,13025
+biasgen/config.py,sha256=dGXVfnQoYybetyF94ah9v-sdP52pfy5sF4hUzx-PHeg,63
+biasgen/field_calc.py,sha256=RMo4IsOEnG5kfHGNeDrjyfzNieOvbPiCVeSqw2OCAns,10323
+biasgen/phantom.py,sha256=MEtI7_WuaWhiRC6m5Eeag3fd5oP7eXOB_uZhSl276GE,12600
+biasgen/typing_utils.py,sha256=_3mvThMpaNSMeevhNrn2S36DEhTBhtzpTMxEQxPCruk,156
+biasgen/view_utils.py,sha256=N0mPhsMrCoX5rxqNfYX9nk9XVP3O896jBeThpvDSXo4,5956
+biasgen-0.1.3.dist-info/LICENSE,sha256=u8QZ-XyfGVlTbWCAAlHGU0kaJiWcVL9Q1hDYF87d28I,1069
+biasgen-0.1.3.dist-info/METADATA,sha256=kuhdHTpoXoSsC0T1PztuxCO2BrRruOSOfb_PQAauBsU,4310
+biasgen-0.1.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+biasgen-0.1.3.dist-info/top_level.txt,sha256=T9NN_3MKz6R7TKJW__s1fUitgZ65NYWgzOXZEC2QZEI,8
+biasgen-0.1.3.dist-info/RECORD,,
