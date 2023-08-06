@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pytorch_train
+Version: 0.0.1
+Summary: A python module named torch_train. The main function is for pytorch training.
+Home-page: https://github.com/Fau818/Fau_module
+Author: Fau
+Author-email: 2594797855@qq.com
+License: MIT
+Requires-Python: >=3.6
