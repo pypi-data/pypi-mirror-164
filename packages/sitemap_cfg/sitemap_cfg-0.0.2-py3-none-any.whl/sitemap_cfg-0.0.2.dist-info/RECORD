@@ -1,0 +1,8 @@
+sitemap_cfg/__init__.py,sha256=dj-mGoHw_-6G5roR0da90TYLQwEtQBys2JekTpRQK_k,64
+sitemap_cfg/apps.py,sha256=V-8T9IaZ6BkLnkcFUx1LTRprxZweR5GOR0Ds3vu9at0,271
+sitemap_cfg/tests.py,sha256=mrbGGRNg5jwbTJtWWa7zSKdDyeB4vmgZCRc2nk6VY-g,60
+sitemap_cfg/management/commands/mksitemap.py,sha256=I2c_e1M4FHELTA54BUnx1ZMkI750epHi6dHRTJAbMu4,6120
+sitemap_cfg-0.0.2.dist-info/LICENSE,sha256=j2KMeSPszdL-9uSCjj0cNMg-GIPgTOq9RqvJ8aojxUM,1492
+sitemap_cfg-0.0.2.dist-info/WHEEL,sha256=VUbF57hf4yRZWWrOOjp25Fr4BQX9EtnVSbnP2vNxHDM,81
+sitemap_cfg-0.0.2.dist-info/METADATA,sha256=lMFpc_yMjmF0qlnqtPMQOTeGejRZKV73X9rt_UC6gF4,3290
+sitemap_cfg-0.0.2.dist-info/RECORD,,
