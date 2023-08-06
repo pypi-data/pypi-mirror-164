@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+src/pypi_publish_example/__init__.py
+src/pypi_publish_example/extract_error.py
+src/pypi_publish_rockroll.egg-info/PKG-INFO
+src/pypi_publish_rockroll.egg-info/SOURCES.txt
+src/pypi_publish_rockroll.egg-info/dependency_links.txt
+src/pypi_publish_rockroll.egg-info/top_level.txt
