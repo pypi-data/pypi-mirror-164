@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ageng-tool
+Version: 0.0.1
+Summary: ageng tool
+Home-page: https://gitlab.com/wangjin199410/ageng_tool/-/blob/main/my_tool.py
+Author: wangjin
+Author-email: 631813797@qq.com
+License: MIT Licence
+Keywords: pip,picdiff
+Platform: any
+Requires-Python: >=3.5.0
+Description-Content-Type: text/markdown
