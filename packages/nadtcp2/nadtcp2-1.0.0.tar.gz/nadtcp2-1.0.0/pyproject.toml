@@ -1,0 +1,29 @@
+# pyproject.toml
+
+[build-system]
+requires      = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nadtcp2"
+version = "1.0.0"
+description = "Library for TCP/IP enabled NAD amplifiers. Currently only the C338 is supported."
+readme = "README.md"
+authors = [{ name = "IAmRGroot", email = "github@rgroot.nl" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["nad", "c338", "nadtcp"]
+dependencies = []
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+dev = ["build", "twine", "pip-tools"]
+
+[project.urls]
+Homepage = "https://github.com/realpython/reader"
+
+[project.scripts]

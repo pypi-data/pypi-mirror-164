@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+nadtcp/__init__.py
+nadtcp2.egg-info/PKG-INFO
+nadtcp2.egg-info/SOURCES.txt
+nadtcp2.egg-info/dependency_links.txt
+nadtcp2.egg-info/requires.txt
+nadtcp2.egg-info/top_level.txt
