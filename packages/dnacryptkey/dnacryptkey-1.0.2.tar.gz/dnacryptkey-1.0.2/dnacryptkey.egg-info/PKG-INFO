@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: dnacryptkey
+Version: 1.0.2
+Summary: A good code for encryption based on the genetic code of DNA
+Home-page: https://github.com/FortiHub/dnacryptkey
+Author: Rodrigo Forti
+Author-email: rodrigofort14@gmail.com
+License: MIT
+Project-URL: Código fonte, https://github.com/FortiHub/dnacryptkey
+Project-URL: Download, https://github.com/FortiHub/dnacryptkey/archive/refs/heads/main.zip
+Keywords: Encrypt and Decrypt based DNA code with security key.
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Internationalization
+Classifier: Topic :: Scientific/Engineering :: Physics
+License-File: LICENSE.txt
+
+A good code for encryption based on the genetic code of DNA you can also use to decrypt too 
+
