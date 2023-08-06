@@ -1,0 +1,12 @@
+corelink/__init__.py,sha256=_1HdQeKx5elv3eDMc_FZ0QLtClXQ4-gsnMzN2sgky-c,757
+corelink/corelink.py,sha256=CF4LSFvSgwcBU7Bd6Chrv7WfXqBsoFJ5-oIVW9tbpFo,6716
+corelink/resources/Proto.py,sha256=yHC4nAoS3WbpTASmA2niXZVekLXM08qO-9g61c_ouF8,1159
+corelink/resources/__init__.py,sha256=qumqKQP6RMGHDLUnzPeowra4kz9jaUw-9jhosYsPwUU,115
+corelink/resources/control.py,sha256=gn5aTwHR3ppAq0gcCwZfAodZgtdZpmm18UwjFQbugh8,7384
+corelink/resources/processing.py,sha256=-7LpEqPLVsysJZ35B9iwMWnb1ZvlLL-ciHrSw7T-j-I,3273
+corelink/resources/reqs.py,sha256=C79JZrQxB8UAVlJBfQg8s8mSvAQvfLT-82VCTBVqEyg,1506
+corelink/resources/variables.py,sha256=QEXAlBsbyxJgNyK2_e-WC7WYRagW6kw9CkpzkmytHuk,792
+corelink-0.0.4.dist-info/METADATA,sha256=shq4Mdlue6feVeP6iLq-QKjBoyU0J7-qTxTIHzjjuxI,1705
+corelink-0.0.4.dist-info/WHEEL,sha256=09RFlvY3aVzvCNk4AXPZt-N-AI7GY_KktGsTb2IqIBU,86
+corelink-0.0.4.dist-info/licenses/LICENSE,sha256=xVacoA9mO0_ShGAS3hxt43dGQAmLHcfLb5DGZgEBttg,1068
+corelink-0.0.4.dist-info/RECORD,,
