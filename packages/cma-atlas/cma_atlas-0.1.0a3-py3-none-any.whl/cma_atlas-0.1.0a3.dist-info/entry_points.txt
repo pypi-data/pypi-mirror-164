@@ -1,0 +1,2 @@
+[console_scripts]
+atlas = cma_atlas.cli:main
