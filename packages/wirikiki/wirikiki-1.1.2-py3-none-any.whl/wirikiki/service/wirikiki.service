@@ -1,0 +1,11 @@
+[Unit]
+Description=Wirikiki Wiki
+
+[Service]
+Type=simple
+Environment="FG=1"
+WorkingDirectory=/home/fab/Documents/mywiki/
+ExecStart=wirikiki
+
+[Install]
+WantedBy=default.target
