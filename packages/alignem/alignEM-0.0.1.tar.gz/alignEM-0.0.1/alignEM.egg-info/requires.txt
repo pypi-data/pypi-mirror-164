@@ -1,0 +1,15 @@
+numpy
+psutil
+opencv-python-headless
+pillow
+zarr
+tifffile
+imagecodecs
+neuroglancer
+qtconsole
+pyqt5
+pyqtwebengine
+qtpy
+qtawesome
+pyqtgraph
+tqdm
