@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: tahoe-figures-plugins
+Version: 0.1.1
+Summary: Backends and customizations for Figures in Tahoe.
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Backends and customizations for Figures in Tahoe.
