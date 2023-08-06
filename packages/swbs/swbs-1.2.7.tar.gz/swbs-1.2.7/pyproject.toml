@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "swbs"
+version = "1.2.7"
+description = "General-purpose socket wrapper for sending and receiving byte strings."
+authors = ["perpetualCreations <tchen0584@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://dreamerslegacy.xyz/git/perpetualCreations/swbs"
+documentation = "https://dreamerslegacy.xyz/projects/swbs/docs/html/index.html"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pycryptodomex = "^3.15.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
