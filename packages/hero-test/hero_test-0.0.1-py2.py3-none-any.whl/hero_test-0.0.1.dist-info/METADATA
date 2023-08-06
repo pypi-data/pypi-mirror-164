@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: hero-test
+Version: 0.0.1
+Summary: test project
+Author-email: "hero.park" <blurabbity@gmail.com>
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: jsonschema == 4.6.2
+Project-URL: Home, https://github.com/hyunwoo91/hero-test
