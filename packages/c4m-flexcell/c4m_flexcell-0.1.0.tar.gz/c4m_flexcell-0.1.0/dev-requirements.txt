@@ -1,0 +1,8 @@
+coverage
+klayout
+pdkmaster
+doit
+sphinx
+build
+setuptools
+setuptools_scm
