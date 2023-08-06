@@ -1,0 +1,3 @@
+city_dsm/**/__pycache__/
+dist/
+city_dsm/train_config.py
