@@ -1,0 +1,11 @@
+sph/editable.py,sha256=u4aF-ELUGEk0INDRJujuYyUCdugAGT3XeabQcPdFtFw,2228
+sph/git.py,sha256=ZhNFzJOyaPS7dcMoVFIVxVI2mPRIWfM1HB0_U9TtqCA,3081
+sph/publish.py,sha256=eeNnBN43mIOUdRl8gPL_nXQPJBxxu79lIzGI2j9g5sU,15385
+sph/sph.py,sha256=ysDQ9PHzGZ3XATztpdIXxU-a_x1e7ARsrhKRdHmPwsU,6596
+sph/utils.py,sha256=tENK0gDJgsRI2KjnQkf40f74AHb2f6ODfCLmWOlXGhA,493
+sph/workflow.py,sha256=pqeo2hq_77UBk9ZBINLB2gv2lb6CW78W3rTCHKpBMhI,1866
+sph-0.2.6.dist-info/entry_points.txt,sha256=78ESQbc1unixuJ4TuEFxNzp8R6NRnzHbPCtpOPjyHbI,75
+sph-0.2.6.dist-info/LICENSE,sha256=tr5_ihwPazXr1_Kw53zaH9BawXCh1JUUM2Pq6aTu81U,1067
+sph-0.2.6.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+sph-0.2.6.dist-info/METADATA,sha256=FGHR1znaypDLE6Y7jSYvucl1ZnoP9tS6--_tp_Exx_k,557
+sph-0.2.6.dist-info/RECORD,,
