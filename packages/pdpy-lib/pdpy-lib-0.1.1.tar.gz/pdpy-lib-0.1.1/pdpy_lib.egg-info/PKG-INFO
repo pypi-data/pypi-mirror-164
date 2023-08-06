@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: pdpy-lib
+Version: 0.1.1
+Summary: A Pure Data PYthon Utility
+Author-email: Fede Camara Halac <fdch@nyu.edu>
+Project-URL: Homepage, https://github.com/pdpy-org/pdpy
+Project-URL: Bug Tracker, https://github.com/pdpy-org/pdpy/issues
+Classifier: Topic :: Multimedia
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PdPy
+
+A Pure Data (Pd) scripting language written in Python.
+
+The documentation exists here: [pdpy-org.github.io/doc](https://pdpy-org.github.io/doc)
+
+## References
+
+This project is inspired by many discussions and projects:
+
+Pure Data to XML:
+<https://lists.puredata.info/pipermail/pd-dev/2004-12/003316.html>
+
+Pure Data to JSON:
+<https://lists.puredata.info/pipermail/pd-dev/2012-06/018434.html>
+
+new file format :
+<https://lists.puredata.info/pipermail/pd-dev/2007-09/009483.html>
+
+PURE DATA FILE FORMAT
+<http://puredata.info/docs/developer/PdFileFormat>
+
+sebpiq's web pd project:
+<https://github.com/sebpiq/WebPd_pd-parser>
+<https://github.com/sebpiq/pd-fileutils>
