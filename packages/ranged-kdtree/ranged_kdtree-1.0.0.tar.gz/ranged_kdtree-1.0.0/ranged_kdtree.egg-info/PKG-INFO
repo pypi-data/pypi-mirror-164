@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ranged-kdtree
+Version: 1.0.0
+Summary: Basic KdTree with Range Search
+Home-page: https://github.com/pgarrett-scripps/ranged_kdtree
+Author: pgarrett
+Author-email: pgarrett@scripps.edu
+License: MIT License
+Description: UNKNOWN
+Platform: UNKNOWN
