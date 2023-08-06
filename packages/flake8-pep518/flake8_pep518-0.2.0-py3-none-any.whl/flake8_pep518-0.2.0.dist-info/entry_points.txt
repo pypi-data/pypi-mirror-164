@@ -1,0 +1,3 @@
+[flake8.report]
+flake8_pep518=flake8_pep518.main:Plugin
+

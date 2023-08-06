@@ -1,0 +1,8 @@
+flake8_pep518/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flake8_pep518/main.py,sha256=gkO6IrdAkqtnlTkbxScCCYv6fT3FFO8o1yPmLXu0WCg,189
+flake8_pep518/mixins.py,sha256=wCyCiWWBFMfBdNAfJKafljy_Wf17EAWN-XN_MqgrRjc,1123
+flake8_pep518-0.2.0.dist-info/entry_points.txt,sha256=Zzil77-peAVgTU0jTBk1pDmKqNbKhXfr_h92yXXGM10,57
+flake8_pep518-0.2.0.dist-info/WHEEL,sha256=g_UdFZqm-k6b0W64OcndB0YT_D2mFFPAYBj7-_YsSPA,87
+flake8_pep518-0.2.0.dist-info/METADATA,sha256=Znd-1D5ua2hM-RCQRXq75UqfgG_KtsUR4N6TcLyj_8E,1891
+flake8_pep518-0.2.0.dist-info/license_files/LICENSE,sha256=oua2jWYpjs9bZAQimsjzCKpzFWHPaBEX3XlLDrP31bw,1064
+flake8_pep518-0.2.0.dist-info/RECORD,,
