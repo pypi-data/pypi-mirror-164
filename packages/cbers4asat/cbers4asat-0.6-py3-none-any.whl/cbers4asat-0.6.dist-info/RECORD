@@ -1,0 +1,12 @@
+cbers4asat/__init__.py,sha256=FLopv6B_5P0Z4iMLf_nOeOMcXXIEAhxes81WrNl_3qE,35
+cbers4asat/cbers4asat.py,sha256=eblAGBL-GwxzRFS81rSM1cGT6MJxcjFVRTZEWfDZce8,7817
+cbers4asat/cbers4a/__init__.py,sha256=6sU3TJWKUeQQpZYrYdIlNbwv5C0uePOwkaMv0cYgvcg,129
+cbers4asat/cbers4a/collection.py,sha256=Wl3P3RsWT0vl0fWz9j_YInuVGwJ9ieuwFgS1wjHI7hk,943
+cbers4asat/cbers4a/item.py,sha256=KzNK4iT7CnbJwjRQsGnbI26tOl81whLQ3705XY4gpLk,5037
+cbers4asat/cbers4a/itemCollection.py,sha256=xo7AQ4udz5nX9SKBsFzxRdpbF_Z2W6KXRe-1axu9RiQ,2002
+cbers4asat/cbers4a/search.py,sha256=r53_WKU_q377ILKHvaObpFhGScmJ11WQUzBqn0LYRPo,4504
+cbers4asat-0.6.dist-info/LICENSE,sha256=cLq5mkyPcQUv1kll68wiQNnBVEcRvCwZvujwSI6gwGs,1103
+cbers4asat-0.6.dist-info/METADATA,sha256=4JYTV9ZzmWRl1eXWkPThfSFxmVs9LmFYz4ZC66T7K0Q,8655
+cbers4asat-0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cbers4asat-0.6.dist-info/top_level.txt,sha256=3vvWeitf8R346c-RI4MlJIDb8lGfu5WTV0fFWbho3Bg,11
+cbers4asat-0.6.dist-info/RECORD,,
