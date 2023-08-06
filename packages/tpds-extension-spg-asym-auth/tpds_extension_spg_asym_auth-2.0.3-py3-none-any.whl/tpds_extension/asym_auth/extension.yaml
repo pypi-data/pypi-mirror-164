@@ -1,0 +1,19 @@
+name: spg_asym_auth
+
+frontend:
+  entrypoints:
+    - name: asym_auth
+      title: Asymmetric Authentication
+      description: A small description about Asymmetric Authentication
+      entry: TrustFlex/Asymmetric Authentication.ipynb
+      icon:
+        name: asym_auth_png
+        path: TrustFlex/assets/images/asymmetric auth.png
+      applications:
+        - Accessory Authentication
+        - Disposable Authentication
+        - IoT
+      devices:
+        - ATECC608B-TFLXTLS
+      boards:
+        - DM320118
