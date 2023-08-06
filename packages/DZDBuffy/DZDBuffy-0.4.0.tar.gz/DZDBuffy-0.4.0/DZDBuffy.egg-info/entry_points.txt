@@ -1,0 +1,2 @@
+[console_scripts]
+buffy-server = buffy.buffyserver.main:start_buffy_server_cli
