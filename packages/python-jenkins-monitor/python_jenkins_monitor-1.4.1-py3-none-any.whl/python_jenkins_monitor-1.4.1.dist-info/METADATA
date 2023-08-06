@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: python-jenkins-monitor
+Version: 1.4.1
+Summary: Simulate Jenkins scheduled task settings,for monitor.
+Home-page: https://github.com/Woqurefan
+Author: wqrf
+Author-email: 1074321997@qq.com
+License: MIT
+Keywords: monitor,jenkins,python,wqrf
+Platform: UNKNOWN
+
+If you need help, please email to 1074321997@qq.com 
+根据调用时间和定时设置字符串，返回定时任务的下一次执行时间的时间戳(前10位整数部分)，精确到分。当之后不会再有执行时间，则返回None 
+可完全模拟jenkins的定时任务设置，用在各种自定义的定时任务平台或脚本中
+
