@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "type": "object",
+  "title": "Test",
+  "description": "Test",
+  "properties": {
+    "id": {
+          "type": "string",
+          "minLength": 1
+    }
+  },
+  "required": [
+    "id"
+  ]
+}
