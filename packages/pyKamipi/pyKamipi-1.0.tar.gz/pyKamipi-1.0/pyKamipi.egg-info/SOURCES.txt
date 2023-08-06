@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+pyKamipi/__init__.py
+pyKamipi/pibot.py
+pyKamipi/pibot_org.py
+pyKamipi.egg-info/PKG-INFO
+pyKamipi.egg-info/SOURCES.txt
+pyKamipi.egg-info/dependency_links.txt
+pyKamipi.egg-info/requires.txt
+pyKamipi.egg-info/top_level.txt
