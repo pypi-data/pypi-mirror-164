@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: shakenbreak
+Version: 1.0.0
+Summary: Package to generate and analyse distorted defect structures, in order to identify ground-state and metastable defect configurations.
+Home-page: https://github.com/SMTG-UCL/ShakeNBreak
+Author: Irea Mosquera-Lois, Seán R. Kavanagh
+Author-email: irea.lois.20@ucl.ac.uk, sean.kavanagh.19@ucl.ac.uk
+Maintainer: Irea Mosquera-Lois, Seán R. Kavanagh
+Maintainer-email: irea.lois.20@ucl.ac.uk, sean.kavanagh.19@ucl.ac.uk
+License: MIT
+Keywords: chemistry pymatgen dft defects structure-searching distortions symmetry-breaking
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Scientific/Engineering :: Physics
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pymatgen
+Requires-Dist: matplotlib
+Requires-Dist: ase
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: hiphive
+Requires-Dist: monty
+Requires-Dist: click
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: sphinx-book-theme ; extra == 'docs'
+Requires-Dist: sphinx-click ; extra == 'docs'
+Provides-Extra: tests
+Requires-Dist: pytest ; extra == 'tests'
+Requires-Dist: pytest-mpl (==0.15.1) ; extra == 'tests'
+
