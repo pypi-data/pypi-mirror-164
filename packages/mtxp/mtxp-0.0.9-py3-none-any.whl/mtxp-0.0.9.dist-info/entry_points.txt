@@ -1,0 +1,3 @@
+[console_scripts]
+mtxp = mtxp.app:entry
+
