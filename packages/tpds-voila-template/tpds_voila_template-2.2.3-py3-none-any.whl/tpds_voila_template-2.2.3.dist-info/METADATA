@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: tpds-voila-template
+Version: 2.2.3
+Summary: Microchip(SPG) Trust Platform - Notebook template
+Home-page: https://www.microchip.com/TrustPlatform
+Author: Microchip Technology
+Author-email: SPG.Tools@microchip.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: Other/Proprietary License
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: notebook (<7,>=6.4.12)
+Requires-Dist: voila (>=0.3.6)
+
+## TPDS Voila Template
+
+This template is required to render notebooks properly.
+
+Due to the design of jupyter/voila this template must be installed into the user
+resources.
+
+### Installing
+
+To install into the local environment from the root of this repo run the following:
+
+```
+> python3 -m pip install .
+```
+
+

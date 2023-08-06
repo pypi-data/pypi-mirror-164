@@ -1,0 +1,13 @@
+tpds_voila_template-2.2.3.data/data/share/jupyter/nbconvert/templates/tpds_tpl/base.html.j2,sha256=6DSNvbfNmyzYJ1cv_NS8t-AWvWfMbNuqLLqrP7nLsWU,7751
+tpds_voila_template-2.2.3.data/data/share/jupyter/nbconvert/templates/tpds_tpl/conf.json,sha256=aiiFFsO-ung615KLyd7r5d-5PxMwpXakLt8_ng3Wdb8,251
+tpds_voila_template-2.2.3.data/data/share/jupyter/nbconvert/templates/tpds_tpl/index.html.j2,sha256=XezoAPbtHWge14yTzSrz_0QJIa16h9Yo25k8WiSeHkI,2122
+tpds_voila_template-2.2.3.data/data/share/jupyter/nbconvert/templates/tpds_tpl/static/index.css,sha256=6ncOCw6uiYCArbGOfL61FJBn-7itXqUhSaWqJjnk828,548049
+tpds_voila_template-2.2.3.data/data/share/jupyter/nbconvert/templates/tpds_tpl/static/theme-dark.css,sha256=b3Sg1uj-moOycstbahvW6bajk_UTqCM-W3eRw-MoqY4,15629
+tpds_voila_template-2.2.3.data/data/share/jupyter/nbconvert/templates/tpds_tpl/static/theme-light.css,sha256=D07CYAUp8DOdxTCH5MXC0N7705tghe-od6IQ3Mb7OpM,14533
+tpds_voila_template-2.2.3.data/data/share/jupyter/voila/templates/tpds_tpl/index.html.j2,sha256=0KHJGoMJ0LPl3xv17-maDOyms5P4lfEuuyAF2iREVQ0,4075
+tpds_voila_template-2.2.3.data/data/share/jupyter/voila/templates/tpds_tpl/static/labvariables.css,sha256=UpZgQQEmdqiUPgkWxHWcfw20P4UtbCEz22Gjbygy_1I,7337
+tpds_voila_template-2.2.3.data/data/share/jupyter/voila/templates/tpds_tpl/static/materialcolors.css,sha256=sGIMahkB00GHU5eMgfvxq5eHvYdlgKb-jY1kFRzW9zI,8825
+tpds_voila_template-2.2.3.dist-info/METADATA,sha256=Q4E7CqzfJEkGXWg84b1MKvkJqeAoKbjruGkmzM0xKuE,907
+tpds_voila_template-2.2.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tpds_voila_template-2.2.3.dist-info/top_level.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+tpds_voila_template-2.2.3.dist-info/RECORD,,
