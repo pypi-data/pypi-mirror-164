@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: iframes
+Version: 0.0.3
+Summary: Fast detection of iframes in mpegts streams
+Home-page: https://github.com/futzu/iframes
+Author: Adrian
+Author-email: spam@iodisco.com
+License: UNKNOWN
+Platform: all
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# iframes
+Fast detection of iframes in mpegts streams 
+
+## Install
+* pip install new_reader
+```smalltalk
+python3 -mpip install new_reader
+```
+* git clone the repo
+
+```smalltalk
+git clone https://github.com/futzu/iframes
+```
+* install
+```smalltalk
+su -
+
+cd  iframes
+
+install iframes.py /usr/local/bin/iframes
+```
+## Run 
+* local file
+```
+iframes video.ts
+```
+* https
+```
+iframes https://example.com/video.ts
+```
+* multicast
+```
+iframes udp://@227.5.5.5:1234
+```
+
+
