@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: apache-airflow-providers-y42demo2
+Version: 0.1.4
+Summary: This is a provider package for Y42 provider
+Home-page: https://www.y42.com
+License: Apache-2.0
+Keywords: airflow,y42
+Author: Y42
+Author-email: dev@y42.com
+Maintainer: Y42
+Maintainer-email: dev@y42.com
+Requires-Python: >=3.9,<4.0
+Classifier: Framework :: Apache Airflow
+Classifier: Framework :: Apache Airflow :: Provider
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/goes-funky/orchestration-api-v2
+Description-Content-Type: text/x-rst
+
+
+Package ``apache-airflow-providers-y42demo``
+
+Release: ``1.0.32``
+
+
+Provider package
+----------------
+
+This is a provider package for ``y42demo`` provider. All classes for this provider package
+are in ``airflow.providers.y42demo`` python package.
+
+Installation
+------------
+
+You can install this package on top of an existing Airflow 2 installation (see ``Requirements`` below
+for the minimum Airflow version supported) via
+``pip install apache-airflow-providers-y42demo``
+
+The package supports the following python versions: 3.9,3.10
+
