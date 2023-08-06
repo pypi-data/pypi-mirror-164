@@ -1,0 +1,15 @@
+LICENSE.md
+setup.cfg
+setup.py
+mpycntrl/__init__.py
+mpycntrl/__main__.py
+mpycntrl/mpycntrl.py
+mpycntrl/sample_pttyws.py
+mpycntrl/sync.py
+mpycntrl/util.py
+mpycntrl.egg-info/PKG-INFO
+mpycntrl.egg-info/SOURCES.txt
+mpycntrl.egg-info/dependency_links.txt
+mpycntrl.egg-info/entry_points.txt
+mpycntrl.egg-info/requires.txt
+mpycntrl.egg-info/top_level.txt
