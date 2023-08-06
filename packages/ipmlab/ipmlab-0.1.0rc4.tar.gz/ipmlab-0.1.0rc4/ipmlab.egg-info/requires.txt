@@ -1,0 +1,5 @@
+requests
+setuptools
+
+[:platform_system == "Windows"]
+pypiwin32
