@@ -1,0 +1,9 @@
+nzgeom/__init__.py,sha256=jj_1xWtwY0_LvjCvIaS8gaTwGfiGwhuOHT3DvmIgNW0,71
+nzgeom/coastlines.py,sha256=MyjYeZi4Tylcad_uMKrPVyqxwhUUJb1ydbOAVuPlESA,3706
+nzgeom/regions.py,sha256=Mt1t1K422jXDaYAhf87bu2u422u3iundGpoocxofra0,1390
+tests/nzgeom_test.py,sha256=IsggtqVWF8J3D1XCGlSfXxPvzMCKGSjG7wEJQCokSPU,1847
+nzgeom-0.1.4.dist-info/LICENSE.txt,sha256=5uvZWD6XrIYPZZZcKx00kYfF3nqlreyrwkU0Je1MdnY,1057
+nzgeom-0.1.4.dist-info/METADATA,sha256=t-Y7ZUgsSFuUt1JppuMZ38r9HgE7LaMLxW0q6ZZuz2k,5998
+nzgeom-0.1.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+nzgeom-0.1.4.dist-info/top_level.txt,sha256=lMrIpIJ5ewDWgG9hyX4Dag4VdCh57VqWmMpYspsV4y0,13
+nzgeom-0.1.4.dist-info/RECORD,,
