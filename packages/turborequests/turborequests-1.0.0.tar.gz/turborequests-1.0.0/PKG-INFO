@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: turborequests
+Version: 1.0.0
+Summary: TurboRequests().get("https://example.com", "status")
+Author: Your Name
+Author-email: you@example.com
+Requires-Python: ==3.9.2
+Classifier: Programming Language :: Python :: 3
