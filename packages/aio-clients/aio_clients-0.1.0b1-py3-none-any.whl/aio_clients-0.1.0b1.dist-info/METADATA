@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: aio-clients
+Version: 0.1.0b1
+Summary: Python aiohttp client
+Home-page: https://github.com/skar404/aio-clients
+License: MIT
+Author: Denis Malin
+Author-email: denis@malina.page
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: aiohttp (>=3.8.0)
+Project-URL: Documentation, https://github.com/skar404/aio-clients
+Project-URL: Repository, https://github.com/skar404/aio-clients
+Description-Content-Type: text/markdown
+
+# aiohttp client
+
+## What is the difference from aiohttp.Client?
+
+It is simpler and as a Requests
+
