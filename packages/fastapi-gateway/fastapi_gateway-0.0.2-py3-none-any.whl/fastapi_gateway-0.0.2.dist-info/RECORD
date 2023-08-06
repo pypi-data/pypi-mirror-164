@@ -1,0 +1,16 @@
+LICENSE,sha256=Wo4DPSEp2tPJRjOJ34lLSNJ5NdPFVLbWoAT7xouXrf8,1063
+README.md,sha256=6ESEHb9T8gxM1Fd78Ssai9rRudrkAPPmj9VhlDPILgg,5057
+fastapi_gateway/__init__.py,sha256=tQA4LQP1JCD1aRj6K_mL0_7ReUgcASlhX9jQdEA8SjE,43
+fastapi_gateway/core.py,sha256=eReE3EXnKfIFVHu1kNtm1rigk6JsHbVNBHicMPt8Phg,9166
+fastapi_gateway/network.py,sha256=ppm4mbvx3X-7YYxlj01awmRD3hJr1AkgtT3fv-KgEHY,1035
+fastapi_gateway/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fastapi_gateway/utils/body.py,sha256=66rqfZk751J1v0tKs8cLSZWSq8AB6vrt0saI5OleRX8,634
+fastapi_gateway/utils/form.py,sha256=u4Bi54dBawb4o-HH7yDUzA7x2MoUTSPmU-2ZLJnyCT4,1296
+fastapi_gateway/utils/headers.py,sha256=p3r_VIS0vx_3Pm8IRpeDR4tGZjMxrx2ZbZ3uGbha29k,902
+fastapi_gateway/utils/query.py,sha256=YubPQqnLAJRBAUB5VcxfCZNaIYboQmstlL5D8YUVBjY,862
+fastapi_gateway/utils/request.py,sha256=-Ixn5uQ3pnSkKIuihqKAX9pFe0QtkLzBNpFw1YOAds0,509
+fastapi_gateway/utils/response.py,sha256=Uv81ETK70hS9JJRg1aLQ6ElaDCiKwH1A6eGmNpiBD6c,323
+fastapi_gateway-0.0.2.dist-info/LICENSE,sha256=Wo4DPSEp2tPJRjOJ34lLSNJ5NdPFVLbWoAT7xouXrf8,1063
+fastapi_gateway-0.0.2.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+fastapi_gateway-0.0.2.dist-info/METADATA,sha256=oRRDM6zLt8ZghdA3sgHKtddcng_MteFgPTJkGMAlNOA,5842
+fastapi_gateway-0.0.2.dist-info/RECORD,,
