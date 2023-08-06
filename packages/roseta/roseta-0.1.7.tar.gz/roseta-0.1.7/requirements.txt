@@ -1,0 +1,4 @@
+setuptools>=40.6.3
+ruamel.yaml>=0.17.16
+cn2an>=0.5.12
+proces>=0.1.0
