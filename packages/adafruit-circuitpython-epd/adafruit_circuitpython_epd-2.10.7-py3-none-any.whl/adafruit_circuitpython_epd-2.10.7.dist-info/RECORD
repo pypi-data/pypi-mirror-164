@@ -1,0 +1,17 @@
+adafruit_epd/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+adafruit_epd/epd.py,sha256=ZG-YujWfpkIWU-jdwiHq__KWxNis9f9n5ZgXZXljJZc,13068
+adafruit_epd/il0373.py,sha256=nVejYmHfEMkf1zgsggGVvpk4wTC9flJAOSlwZMdi0o4,5107
+adafruit_epd/il0398.py,sha256=yzG73hX7JsIfxH-732pcSnPX_vj0zexcnFtxo0cCE44,5007
+adafruit_epd/il91874.py,sha256=SLk4GMpPDjjaYWlspptmMG4_tr--iw1TpSyiIEpcZE0,6842
+adafruit_epd/mcp_sram.py,sha256=vSbnzdAddj9Sd5JmSR2PhFsSVbuZl2WjAsvYDond28k,3644
+adafruit_epd/ssd1608.py,sha256=K6tbhH7GK3DDAtdsoNNdGFoesUTsgiCfcQCF47Sv5UA,5613
+adafruit_epd/ssd1675.py,sha256=2VxQYwSng6Y7KtfQnc6g_WjiAGFkWjd_VzmXWU6XDqw,6674
+adafruit_epd/ssd1675b.py,sha256=bDa9t5z_3UXyxGjlC8m8AkcNpgIehgo04IJkuKBBs5s,8166
+adafruit_epd/ssd1680.py,sha256=VisRvU9-F0bLsQu3QHEWW--iXlu_dyKKjt2Nb9qdg7U,6748
+adafruit_epd/ssd1681.py,sha256=sPtqorCoRxuz_76KzkHSbxdu_qciu2IfW57wPCQnCBQ,6345
+adafruit_epd/uc8151d.py,sha256=bQ-oG2x_n_huey4N4f8MxWP9RWsDw0xhNbX6K9he6FI,5105
+adafruit_circuitpython_epd-2.10.7.dist-info/LICENSE,sha256=tVVv13GUDogi08Jtty1I2olq7lOcF1KEa9vFRHd07FI,1102
+adafruit_circuitpython_epd-2.10.7.dist-info/METADATA,sha256=eNslWIfNTmkgh0ZmLISJ_fYRrLo6ppIzCUyF3TSvjoI,4974
+adafruit_circuitpython_epd-2.10.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+adafruit_circuitpython_epd-2.10.7.dist-info/top_level.txt,sha256=Rm_m77WZgI4TRwyVIrosBWMOJifklZ0_kHmqW8hq9rc,13
+adafruit_circuitpython_epd-2.10.7.dist-info/RECORD,,
