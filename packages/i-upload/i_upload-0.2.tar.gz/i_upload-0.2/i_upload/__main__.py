@@ -1,0 +1,2 @@
+import uploader
+uploader.start()
