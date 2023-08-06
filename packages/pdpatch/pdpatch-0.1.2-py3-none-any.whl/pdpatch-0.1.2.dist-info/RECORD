@@ -1,0 +1,15 @@
+pdpatch/__init__.py,sha256=YvuYzWnKtqBb-IqG8HAu-nhIYAsgj9Vmc_b9o7vO-js,22
+pdpatch/_modidx.py,sha256=xUUmqI2HNUh8p4e2MAoO3PcIvABWlongf4KVBUHpGqY,14389
+pdpatch/_nbdev.py,sha256=NG35LJAdaKOp6WdsH33UxoSOYfaLygx8d4mFLRggUCU,1729
+pdpatch/all.py,sha256=Yn_ZOYgk_WDyykhzjx40nrFUYOtUd9ZYVefFghH40-g,62
+pdpatch/case.py,sha256=A7kout6akzcsdfCdF7gisguyTt7Yuu1YG5I0CjcygoM,2839
+pdpatch/core.py,sha256=RhQ0LMVQ2s-b9oCoYLDrtR1jPE4doRZS4ta3bM7O5w8,4688
+pdpatch/display.py,sha256=E_lgGVuGdeJLWpJEjhOLcFR9lJ2o48snOi5lNxwcfr0,3331
+pdpatch/express.py,sha256=a8T7BraA5vGS-RYZePfAW-LvBcyMhDnvaS3sibPalMk,1930
+pdpatch/seaborn.py,sha256=wI1qlb4wBbA7pi1SQXAipVHq3njoCbzmuI4-oZLBKIQ,2035
+pdpatch-0.1.2.dist-info/LICENSE,sha256=73TWkcNq9LcAPsguXg-DF9ENehsHgAx3eC69wEoIjj8,1053
+pdpatch-0.1.2.dist-info/METADATA,sha256=7RisdYo7sCNZvd6FjOjVLmLzhcKytKtl3ysVHjA95lY,3252
+pdpatch-0.1.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pdpatch-0.1.2.dist-info/entry_points.txt,sha256=DrPgQP-gCFLaW8tNvX2wsONHe_Gd2PyIo32Bwj9GQvs,36
+pdpatch-0.1.2.dist-info/top_level.txt,sha256=JmDo2soBkscCzSRhGwcBtjHtxbc36dWI1ZkMreQXnuU,8
+pdpatch-0.1.2.dist-info/RECORD,,
