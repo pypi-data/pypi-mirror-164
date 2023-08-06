@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+get_useragents/__init__.py
+get_useragents/settings.py
+get_useragents/useragents.py
+get_useragents.egg-info/PKG-INFO
+get_useragents.egg-info/SOURCES.txt
+get_useragents.egg-info/dependency_links.txt
+get_useragents.egg-info/requires.txt
+get_useragents.egg-info/top_level.txt
