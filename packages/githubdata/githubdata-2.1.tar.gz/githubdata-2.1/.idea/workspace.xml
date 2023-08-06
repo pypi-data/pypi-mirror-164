@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="226ba462-66cb-4247-8e25-d8741d577fb7" name="Changes" comment="v2.1 - added README.md">
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+    <option name="myAllFileTypesSelected" value="false" />
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="Angular2Html" />
+        <option value="CSS" />
+        <option value="Chameleon" />
+        <option value="CoffeeScript" />
+        <option value="Cucumber" />
+        <option value="Cython" />
+        <option value="DjangoTemplate" />
+        <option value="EditorConfig" />
+        <option value="HTML" />
+        <option value="HTTP Request" />
+        <option value="Haml" />
+        <option value="Ini" />
+        <option value="JSON" />
+        <option value="JavaScript" />
+        <option value="Jinja2" />
+        <option value="Jupyter" />
+        <option value="Less" />
+        <option value="Properties" />
+        <option value="Puppet" />
+        <option value="Python" />
+        <option value="RNG Compact" />
+        <option value="ReST" />
+        <option value="SCSS" />
+        <option value="SQL" />
+        <option value="Sass" />
+        <option value="Shell Script" />
+        <option value="Stylus" />
+        <option value="TOML" />
+        <option value="TypeScript" />
+        <option value="XHTML" />
+        <option value="XML" />
+        <option value="YAML" />
+        <option value="requirements.txt" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DfhG8lsBblrY84mTR9A6ylvWCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="226ba462-66cb-4247-8e25-d8741d577fb7" name="Changes" comment="" />
+      <created>1661095947680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661095947680</updated>
+      <workItem from="1661095949065" duration="9322000" />
+    </task>
+    <task id="LOCAL-00001" summary="v2">
+      <created>1661105421499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661105421499</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v2.1 - added README.md">
+      <created>1661107710580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661107710580</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v2.1 - added README.md">
+      <created>1661107815408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661107815408</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/github_imahdimir_d-uniq-BaseTickers" />
+    </ignored-roots>
+    <MESSAGE value="v2" />
+    <MESSAGE value="v2.1 - added README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.1 - added README.md" />
+  </component>
+</project>
