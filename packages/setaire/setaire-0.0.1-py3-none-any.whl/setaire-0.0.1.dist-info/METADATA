@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: setaire
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/tuweifeng/setaire
+Author: tuweifeng
+Author-email: tuweifeng9@gmail.com
+License: MIT
+Platform: any
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+### 1. 将方法快速实现为一个命令行工具
+
+假设在 main.py 有个方法 add 需要运行在终端，仅需要用装饰器 command 包裹
+```python
+    @command(
+        a="加数",
+        b="被加数",
+        n="可变长参数,其他被加数",
+        name="姓名"
+    )
+    def add(a: int, b: float, *n: float, name: str = "无名"):
+        print(name, a+b+sum(n))
+
+    add.console()
+```
+
+
+在终端运行 python main.py --help 则会输出以下内容:
+```shell
+    usage: command.py [-h] [--name NAME] a b [n ...]
+
+    positional arguments:
+    a            加数 (int)
+    b            被加数 (float)
+    n            可变长参数,其他被加数 (float)
+
+    optional arguments:
+    -h, --help   show this help message and exit
+    --name NAME  姓名 (str default 无名)
+```
+
