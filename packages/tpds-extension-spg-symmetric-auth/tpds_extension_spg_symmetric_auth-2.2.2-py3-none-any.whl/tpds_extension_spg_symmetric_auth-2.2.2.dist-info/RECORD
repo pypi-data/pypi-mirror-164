@@ -1,0 +1,17 @@
+tpds_extension/symmetric_auth/extension.yaml,sha256=_JLJSHOPa9fSPG-ULX_evD_NjgmoG3CVZvUvGTDfwo4,458
+tpds_extension/symmetric_auth/setup.py,sha256=hDrCbDikGrrleCULwPlBkZSzIKD2cyfZQQN6Qmj2z-c,38
+tpds_extension/symmetric_auth/version.py,sha256=4B_sNNJUbslsnt_SC5cGzr8VJieqD-1boMlbFU1Hg88,21
+tpds_extension/symmetric_auth/TrustFlex/Symmetric Authentication.ipynb,sha256=rCJg_TIKkio6aheQcghj3QyaL4MT6dRsNSJr1FJ2PXM,7318
+tpds_extension/symmetric_auth/TrustFlex/firmware.zip,sha256=wZyyAuVMAngmQClE44PHhleaaN2Y88FRxPIIYhbHRrI,647443
+tpds_extension/symmetric_auth/TrustFlex/slot_5_secret_key.h,sha256=DMkh_UxJNgSJzE5AHsM3briqzcIgyLpGl0-s8xff7hc,405
+tpds_extension/symmetric_auth/TrustFlex/assets/Symmetric Authentication.md,sha256=YDjqBSdPsfycPtv5ARztPAC0ENNTKwjleIThwWUPxS8,1753
+tpds_extension/symmetric_auth/TrustFlex/assets/images/c-snippet.PNG,sha256=NiEJzLMQyz2HAATsBRigJfCeA7xC1ezSLmG4qnkM7Dk,26543
+tpds_extension/symmetric_auth/TrustFlex/assets/images/crypto-assets.png,sha256=pbJpeoc6099Tjnu5uaVCOsGYV3ebH5IA-XY6zfYtLPI,16607
+tpds_extension/symmetric_auth/TrustFlex/assets/images/symmetric key auth.png,sha256=qyuUl7Xhbu2WtMZp2IqiywxKl2-XrrKbIom4YwfXrTI,62630
+tpds_extension/symmetric_auth/TrustFlex/assets/images/td-accessory-symmetric-auth.png,sha256=tjc3HhC2Jees6BR97DJLvBPrufnxCYAoomeTkMe3nj8,516963
+tpds_extension/symmetric_auth/TrustFlex/assets/images/usecase_steps.png,sha256=WlzvtErXSd1X_JFXy5YbkuiZKZSW08M95Rgxxbb2gpo,22353
+tpds_extension/symmetric_auth/TrustFlex/assets/python/symmetric_authentication.py,sha256=ywsQbufZu2hYMyuaA9CxuwRLXFJ6jLFKYa5h3jUbqdg,6820
+tpds_extension_spg_symmetric_auth-2.2.2.dist-info/METADATA,sha256=5-iz_sHwfpnBDbma6L8qYYCMGxoT1jTekv5lURDHCEM,520
+tpds_extension_spg_symmetric_auth-2.2.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tpds_extension_spg_symmetric_auth-2.2.2.dist-info/top_level.txt,sha256=CvrSPFJ0i_aZqR-9kHMw-9oKAWXwtI1bWfcG9WS43Is,15
+tpds_extension_spg_symmetric_auth-2.2.2.dist-info/RECORD,,
