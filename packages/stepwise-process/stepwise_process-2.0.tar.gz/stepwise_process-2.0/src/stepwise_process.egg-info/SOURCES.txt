@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+setup.py
+src/stepwise_process.egg-info/PKG-INFO
+src/stepwise_process.egg-info/SOURCES.txt
+src/stepwise_process.egg-info/dependency_links.txt
+src/stepwise_process.egg-info/requires.txt
+src/stepwise_process.egg-info/top_level.txt
