@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+lewip_informal/__init__.py
+lewip_informal/lewip.py
+lewip_informal/utils.py
+lewip_informal.egg-info/PKG-INFO
+lewip_informal.egg-info/SOURCES.txt
+lewip_informal.egg-info/dependency_links.txt
+lewip_informal.egg-info/requires.txt
+lewip_informal.egg-info/top_level.txt
