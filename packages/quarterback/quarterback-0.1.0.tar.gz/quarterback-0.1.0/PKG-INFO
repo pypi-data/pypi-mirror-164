@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: quarterback
+Version: 0.1.0
+Summary: 
+Author: gbPagano
+Author-email: guilhermebpagano@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: cryptography (>=37.0.4,<38.0.0)
+Requires-Dist: minio (>=7.1.11,<8.0.0)
+Requires-Dist: opcua (>=0.98.13,<0.99.0)
+Requires-Dist: pandas (>=1.4.3,<2.0.0)
+Requires-Dist: pendulum (>=2.1.2,<3.0.0)
+Requires-Dist: rocketry (>=2.3.0,<3.0.0)

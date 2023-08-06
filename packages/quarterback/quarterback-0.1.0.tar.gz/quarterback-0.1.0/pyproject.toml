@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "quarterback"
+version = "0.1.0"
+description = ""
+authors = ["gbPagano <guilhermebpagano@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+opcua = "^0.98.13"
+pandas = "^1.4.3"
+minio = "^7.1.11"
+cryptography = "^37.0.4"
+pendulum = "^2.1.2"
+rocketry = "^2.3.0"
+
+[tool.poetry.dev-dependencies]
+rich = "^12.5.1"
+black = "^22.6.0"
+isort = "^5.10.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
