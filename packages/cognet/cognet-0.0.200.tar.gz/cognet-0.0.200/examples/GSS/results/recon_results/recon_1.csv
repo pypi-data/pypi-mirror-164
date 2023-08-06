@@ -1,0 +1,6 @@
+feature_names,sample,qsampled,random_sample
+polabuse,no,yes,no
+viruses,True,False,False
+intmil,moderately interested,not at all interested,very interested
+abpoorw,wrong only sometimes,always wrong,always wrong
+religint,agree,not agree/dsagre,agree
