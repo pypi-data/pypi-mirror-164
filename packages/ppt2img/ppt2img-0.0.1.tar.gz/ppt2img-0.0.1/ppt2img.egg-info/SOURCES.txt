@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+ppt2img.egg-info/PKG-INFO
+ppt2img.egg-info/SOURCES.txt
+ppt2img.egg-info/dependency_links.txt
+ppt2img.egg-info/requires.txt
+ppt2img.egg-info/top_level.txt
