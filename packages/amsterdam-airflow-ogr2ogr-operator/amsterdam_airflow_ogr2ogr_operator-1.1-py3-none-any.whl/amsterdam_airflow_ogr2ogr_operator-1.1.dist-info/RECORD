@@ -1,0 +1,5 @@
+ogr2ogr_operator/__init__.py,sha256=qA4fBMJklhpngT3_rZpdwV72O6yYrimDO-NzC8E-IfM,46
+ogr2ogr_operator/ogr2ogr_operator.py,sha256=Uqf-LXBaLbLPxGaHZSMe6Ic2ELiS8yvjeGQeO6J0Zow,8263
+amsterdam_airflow_ogr2ogr_operator-1.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+amsterdam_airflow_ogr2ogr_operator-1.1.dist-info/METADATA,sha256=Ep000awCmPmUfDybriErSwAOSdG531DoGt5V-_4oOP4,863
+amsterdam_airflow_ogr2ogr_operator-1.1.dist-info/RECORD,,
