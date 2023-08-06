@@ -1,0 +1,15 @@
+setuptools>=45
+wheel
+pymaat>=0.6.6
+eth_abi
+pysha3
+rlp
+crytic-compile
+slither-analyzer
+solc-select
+
+[lint]
+black~=22.0
+
+[tests]
+pytest
