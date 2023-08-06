@@ -1,0 +1,7 @@
+typer
+colorama
+pyyaml
+tqdm
+pandas
+requests
+simple-term-menu
