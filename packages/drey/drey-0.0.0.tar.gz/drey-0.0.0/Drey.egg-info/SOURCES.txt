@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+Drey.egg-info/PKG-INFO
+Drey.egg-info/SOURCES.txt
+Drey.egg-info/dependency_links.txt
+Drey.egg-info/requires.txt
+Drey.egg-info/top_level.txt
+drey/__about__.py
+drey/__init__.py
+drey.egg-info/PKG-INFO
+drey.egg-info/SOURCES.txt
+drey.egg-info/dependency_links.txt
+drey.egg-info/requires.txt
+drey.egg-info/top_level.txt
