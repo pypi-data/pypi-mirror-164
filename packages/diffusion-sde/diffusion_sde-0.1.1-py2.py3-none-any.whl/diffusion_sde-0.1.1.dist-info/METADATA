@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: diffusion-sde
+Version: 0.1.1
+Summary: Use score-based generative models to generate new images.
+Home-page: https://github.com/Ishan-phys/Diffusion-SDE.git
+Author: Ishan Srivastava
+Author-email: ishan.alld@gmail.com
+License: MIT
+Keywords: generative modelling,SDE,diffusion models
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: matplotlib (>=3.2.0)
+Requires-Dist: numpy (>=1.16.0)
+Requires-Dist: Pillow (>=8.4.0)
+Requires-Dist: torch (>=1.10.2)
+Requires-Dist: torchvision (>=0.11.3)
+Requires-Dist: tqdm (>=4.59.0)
+
+# Diffusion SDE - A score-based generative modelling with SDEs package
+
+Synthesize new images using the score-based generative models.
+
+# Installation
+
+Currently, `diffusion_sde` supports release of Python 3.7 onwards.
+
+To install the current release:
+
+```shell
+$ pip install -U diffusion_sde
+```
+
+# Getting Started 
+
+Start by instantiating a dataset class with a path where the custom dataset is located
+
+```python
+from diffusion_sde import datasets
+
+# Specify the path of the custom dataset in the dataset class
+ds = datasets(path_to_dataset)
+```
+
+Then, instantiate the `diffSDE` class to train the model and generate samples and pass the dataset using `.set_loaders()` method
+
+```python
+from diffusion_sde import diffSDE
+
+# Instantiate the diffSDE class
+cls_diff = diffSDE()
+
+# Set the dataloaders by passing the dataset instantiation as above
+cls_diff.set_loaders(dataset=ds)
+```
+
+Begin the model training using the `.train()` method and select the desired number of epochs for training.
+
+```python
+# Train the model
+cls_diff.train(n_iters)
+```
+
+Generate the samples from the trained model with the `.generate_samples()` method and specify the desired number of steps for the sampler. We suggest setting the value of `n_steps` in the range of $\sim1500$-$2000$ steps to produce high-quality samples
+
+```python
+# Generate samples from the trained model
+cls_diff.generate_samples(n_steps)
+```
+
+
