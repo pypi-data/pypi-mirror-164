@@ -1,0 +1,16 @@
+escaper_utilities/__init__.py,sha256=8VKU8lyPWH6vFhAndi7JGo_dDmy_klHBte7r9p7wIY4,31
+escaper_utils/__init__.py,sha256=eWUJzg7Ze73O04h5AJ0lUFs_o0xZ_hy3AF3XZZy9YxQ,27
+escaper_utils/escaper_utils.cp310-win_amd64.pyd,sha256=z3InaYM0DYhb2JmXTZb2MjQL3DJ3EyufnG3vKsgO4kw,264192
+escaper_utils/escaper_utils.cp36-win_amd64.pyd,sha256=3SW32kP7fEpjAqdLfdu-I-EQeHpl4yUz3Zm7sAzHqlQ,289280
+escaper_utils/escaper_utils.cp37-win_amd64.pyd,sha256=8vDk-gEzn4WTNqiFY61L-4HeicNiic18erY0QcnRxng,278016
+escaper_utils/escaper_utils.cp38-win_amd64.pyd,sha256=pbkkPixTS33XSYZgth_z91ihEcpOYmWjXGCvSS38S3E,288256
+escaper_utils/escaper_utils.cp39-win_amd64.pyd,sha256=WVobgFLGvrtzgM2JJ111F0asAR3FaT9iSeDl42xew8Y,264192
+escaper_utils/escaper_utils.cpython-310-x86_64-linux-gnu.so,sha256=QoG0Vk2vcF1lvCTKzoSdcS_P0gVaQ4JMZh9foNas6Tc,2484648
+escaper_utils/escaper_utils.cpython-36m-x86_64-linux-gnu.so,sha256=Lo3O6vxUyof_Y5NVqXZRCoLNcesvgBAVT1K1OBbGcqE,563968
+escaper_utils/escaper_utils.cpython-37m-x86_64-linux-gnu.so,sha256=NM4WTqpKDZ9nUlpGigVG09f5dI2dT7IYjMltGF2N8ok,559944
+escaper_utils/escaper_utils.cpython-38-x86_64-linux-gnu.so,sha256=bOMPfgaKwAwDip6zyqH0-FGmbW1B5LMv352Qe9_sHps,556024
+escaper_utils/escaper_utils.cpython-39-x86_64-linux-gnu.so,sha256=B9EjzhOTfVnFTc9wzEYI_gYu7H2V-siFJb9sKnPRprc,564160
+escaper_utils-1.0.10.dist-info/METADATA,sha256=pPoBx_ZAJ8WVfSR_9x-FLF_X8YUUie0rpykFx7WNtx4,766
+escaper_utils-1.0.10.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+escaper_utils-1.0.10.dist-info/top_level.txt,sha256=JQq83XRegzEZ0WbJ-ND_f54GuMXh1PbTstfw92WsI8k,32
+escaper_utils-1.0.10.dist-info/RECORD,,
