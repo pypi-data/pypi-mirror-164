@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: PTVRobot
+Version: 1.1.0
+Summary: proxytv.ru IPTV Channels Parser and Robot
+Home-page: https://github.com/NIKDISSV-Forever/ProxyTVRobot
+Author: Nikita (NIKDISSV)
+Author-email: nikdissv@proton.me
+License: MIT
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Typing :: Typed
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PTVRobot
+Robot for https://proxytv.ru/
+
+> pip install [PTVruAPI](https://pypi.org/project/PTVruAPI)
+
+> python -m PTVRobot --help
+
+```python
+from PTVRobot import *
+```
