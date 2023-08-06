@@ -1,0 +1,2 @@
+[console_scripts]
+toolbox_utils = toolbox_utils.toolbox_utils:main

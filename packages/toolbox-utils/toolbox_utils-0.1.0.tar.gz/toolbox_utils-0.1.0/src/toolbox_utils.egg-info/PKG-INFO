@@ -1,0 +1,86 @@
+Metadata-Version: 2.1
+Name: toolbox-utils
+Version: 0.1.0
+Summary: Python toolbox for common utilities
+Author-email: Tim Cera <tim@cerazone.net>
+License: Copyright (c) 2013, Tim Cera
+        All rights reserved.
+        
+        Redistribution and use in source and binary forms, with or without
+        modification, are permitted provided that the following conditions are met:
+            * Redistributions of source code must retain the above copyright
+              notice, this list of conditions and the following disclaimer.
+            * Redistributions in binary form must reproduce the above copyright
+              notice, this list of conditions and the following disclaimer in the
+              documentation and/or other materials provided with the distribution.
+            * Neither the name toolbox_utils nor the
+              names of its contributors may be used to endorse or promote products
+              derived from this software without specific prior written permission.
+        
+        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+        ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+        WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+        DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY
+        DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+        (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+        LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+        ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+        (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+        SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+        
+Keywords: time-series,cli-app,aggregate,fill,filter
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/x-rst
+Provides-Extra: dev
+License-File: LICENSE.txt
+License-File: AUTHORS.rst
+
+.. image:: https://github.com/timcera/toolbox_utils/actions/workflows/python-package.yml/badge.svg
+    :target: https://github.com/timcera/toolbox_utils/actions/workflows/python-package.yml
+    :height: 20
+
+.. image:: https://coveralls.io/repos/timcera/toolbox_utils/badge.png?branch=main
+    :target: https://coveralls.io/r/timcera/toolbox_utils?branch=main
+    :height: 20
+
+.. image:: https://img.shields.io/pypi/v/toolbox_utils.svg
+    :alt: Latest release
+    :target: https://pypi.python.org/pypi/toolbox_utils
+
+.. image:: http://img.shields.io/badge/license-BSD-lightgrey.svg
+    :alt: BSD-3 clause license
+    :target: https://pypi.python.org/pypi/toolbox_utils/
+
+.. image:: http://img.shields.io/pypi/dd/toolbox_utils.svg
+    :alt: toolbox_utils downloads
+    :target: https://pypi.python.org/pypi/toolbox_utils/
+
+toolbox_utils - Quick Guide
+===========================
+The toolbox_utils is a Python library of common utility functions that I use
+throughout my other projects.  You are welcome to use it in your own projects.
+
+Installation
+------------
+Should be as easy as running ``pip install toolbox_utils`` at any command line.
+
+Usage - API
+-----------
+
+Simply import toolbox_utils::
+
+    from toolbox_utils import tsutils
