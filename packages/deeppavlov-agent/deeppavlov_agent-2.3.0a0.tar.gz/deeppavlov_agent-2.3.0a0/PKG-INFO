@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: deeppavlov_agent
+Version: 2.3.0a0
+Summary: An open source library, allowing you to create data processing systems based on a sequence graph, alongside with saving sample processing results in database.
+Home-page: https://github.com/deepmipt/dp-agent
+Keywords: chatbots,microservices,dialog systems,NLP
+Requires-Python: >=3.7
+License-File: LICENSE
+
+An open source library, allowing you to create data processing systems based on a sequence graph, alongside with saving sample processing results in database. Possible application is chatbots or other NLP systems which combine multiple skills.
