@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+import sys
+from objdc import (parse_args, ObjDataConverter)
+
+
+def main():
+    args = parse_args(sys.argv)
+    odc = ObjDataConverter(args)
+    #confs = sc.get_confs()
+    #print_traceback=confs["main"]["print_traceback"]
+    inp_f = odc.custom_open_input()
+    out_f = odc.custom_open_output()
+    obj = odc.custom_load(inp_f)
+    odc.custom_dump(out_f, obj)
+    odc.custom_close_input(inp_f)
+    odc.custom_close_output(out_f)
+
+
+if __name__ == "__main__":
+    main()
