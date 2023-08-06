@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+source/amersham/__init__.py
+source/amersham/command.py
+source/amersham/flag.py
+source/amersham/parameter.py
+source/amersham/parse_exception.py
+source/amersham/parser.py
+source/amersham/table.py
+source/amersham/type.py
+source/amersham.egg-info/PKG-INFO
+source/amersham.egg-info/SOURCES.txt
+source/amersham.egg-info/dependency_links.txt
+source/amersham.egg-info/top_level.txt
