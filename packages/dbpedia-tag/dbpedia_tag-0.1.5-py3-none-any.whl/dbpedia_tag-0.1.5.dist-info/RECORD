@@ -1,0 +1,16 @@
+dbpedia_tag/__init__.py,sha256=bY5Y5-XAUbJ3sFoYkE1GIapnueaCZNsgCTgTOs0B71M,216
+dbpedia_tag/bp/__init__.py,sha256=rthM2Nfulw-ERBEmRNkMqWPzVpnKug5oAd33sT0CQV8,28
+dbpedia_tag/bp/tagger.py,sha256=a8wzCeU17ap0UwUpafBLUL8KurbKhFRUgTBdmnPH7PE,3645
+dbpedia_tag/dmo/__init__.py,sha256=u0MzTl_2cf58ikb11NgCphv4SvuI1IaK9qlthY4m8wU,236
+dbpedia_tag/dmo/candidate_fuzzy_match.py,sha256=Z53sXdbE9VE6ytif3NT0uggLk4rKHuTpmjUmlVOJme4,6613
+dbpedia_tag/dmo/sliding_window_blacklist.py,sha256=Ci0a7RzW4ggcvtvldaz6uNlp4stQ2vFS4aQnR9xvgk4,1311
+dbpedia_tag/dmo/sliding_window_extract.py,sha256=7zXfpIbHkVg1Ob7dObvw_O1orjVW7zetfF7r8aJ7BXE,1746
+dbpedia_tag/dmo/sliding_window_validate.py,sha256=NfiWJfS-f4PP8sEDjLrZxIvo_BHcSObWB9TAFzBZ4-s,1814
+dbpedia_tag/dto/__init__.py,sha256=XNa1N2phv2d_dcTCPX6rjF659yMWANGkwZmZ_JrK9bY,37
+dbpedia_tag/dto/stopwords_kb.py,sha256=2AZ6niWP2ruB-RfQdh0bu-bO9W9_VAv1-X7Q9oeNKmI,1400
+dbpedia_tag/svc/__init__.py,sha256=q9nIWLtH6nJYKdfdYAKQrAmrlZiycqZScwmbBRS_cWc,100
+dbpedia_tag/svc/exact_match_finder.py,sha256=vY86zoOK7vTgBtv1oknoXZlOMeTyr5IA0OuZlyf-D8c,2493
+dbpedia_tag/svc/fuzzy_match_finder.py,sha256=tOV9lCN4J7JP7veCmnE21KQHK_avV1iDqhBss60_uVQ,1402
+dbpedia_tag-0.1.5.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+dbpedia_tag-0.1.5.dist-info/METADATA,sha256=VYwV_8wlhxtVrPFHzienn4GTqw7Y6NFlBvdcEoicImo,302
+dbpedia_tag-0.1.5.dist-info/RECORD,,
