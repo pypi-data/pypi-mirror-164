@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: whatnot
+Version: 0.2.0b1
+Summary: An asynchronous, unofficial Whatnot API wrapper
+Home-page: https://github.com/wxllow/whatnot
+License: MIT
+Keywords: whatnot,api,async
+Author: wxllow
+Author-email: willow@wxllow.dev
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: AsyncIO
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Documentation
+Requires-Dist: aiohttp (>=3.8.1,<4.0.0)
+Requires-Dist: gql (>=3.3.0,<4.0.0)
+Project-URL: Repository, https://github.com/wxllow/whatnot
+Description-Content-Type: text/markdown
+
+# Whatnot API
+
+Work-in-progress unofficial asynchronous API wrapper for [Whatnot](https://www.whatnot.com) API.
+
+## Download
+
+`poetry add whatnot` *or* `pip install whatnot`
+
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md)
+
+## Example
+
+```python
+import asyncio
+from whatnot import Whatnot
+
+async def main():
+    async with Whatnot() as whatnot:
+        whatnot.login("bob@example.com", "secret_password")
+
+        # Get the whatnot account
+        whatnot_user = await whatnot.get_user("whatnot")
+        print(whatnot_user.username)
+        # OR await whatnot.get_user_by_id("21123")
+
+        # Get user's lives
+        lives = await whatnot.get_user_lives(whatnot_user.id)
+
+        # Print out all of the lives
+        for live in lives:
+            print(live.title)
+
+
+asyncio.run(main())
+```
+
+## Disclaimer
+
+This project is unofficial and is not affiliated with or endorsed by Whatnot.
+
