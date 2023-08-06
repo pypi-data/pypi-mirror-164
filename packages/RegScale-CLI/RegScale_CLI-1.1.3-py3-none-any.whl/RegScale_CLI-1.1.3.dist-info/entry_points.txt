@@ -1,0 +1,3 @@
+[console_scripts]
+RegScale = RegScale:cli
+
