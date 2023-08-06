@@ -1,0 +1,13 @@
+santic_validation/__init__.py,sha256=OuXgnZ6mDMq94BKuhSCr_qPfoX5UxgJWNc3ILNeZ2Z0,151
+santic_validation/decorator.py,sha256=Rx5zawMEW5dXPpqA-x-0CN-4UdsNSDdqw3emGn1bDMM,3233
+santic_validation/fields.py,sha256=Txwi05kHyaY7PhbnENG4kGawBWGlreCD_pbCBQL7yN0,1407
+santic_validation/utils.py,sha256=04cKI-y24HSX2YtY-g5PZmvmzAo288HN-Vzbt4_o6LE,1394
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_decorator.py,sha256=Ci2NdVCQO8Wf8OlIDCxKyjqbLr4ojHxXWneLoCpHFWc,6908
+tests/test_fields.py,sha256=0tT6a6APHJ7Yugc8miS8kJRsOXwZZzelsX4XEbYzPPI,1298
+tests/test_utils.py,sha256=nVfuz6EdHXL4FTZwTmHSjeD3zh0Vej9xtKIDzApDUn0,2973
+santic_validation-0.0.4.dist-info/LICENSE,sha256=Y5gqQwQ1gRb1EU81G5dsqlLPLrcMMP3VGQpIq1bA2l8,1065
+santic_validation-0.0.4.dist-info/METADATA,sha256=pgpkoyA4KpnEolW2i84it7Rbk6a9K202pBlCPkDV-0E,3888
+santic_validation-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+santic_validation-0.0.4.dist-info/top_level.txt,sha256=z5H8fX4L00EVWU_Y6MKFj-CAJvRmfiOlmRfrfUxbPlg,24
+santic_validation-0.0.4.dist-info/RECORD,,
