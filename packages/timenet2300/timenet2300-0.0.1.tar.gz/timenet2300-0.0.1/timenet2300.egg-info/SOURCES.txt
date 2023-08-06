@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+primelib/__init__.py
+primelib/prime_numbers.py
+timenet2300.egg-info/PKG-INFO
+timenet2300.egg-info/SOURCES.txt
+timenet2300.egg-info/dependency_links.txt
+timenet2300.egg-info/top_level.txt
