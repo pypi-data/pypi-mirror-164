@@ -1,0 +1,11 @@
+LICENSE
+NOTICE
+README.md
+setup.py
+pfsc_util/__init__.py
+pfsc_util/imports.py
+pfsc_util/scan.py
+pfsc_util.egg-info/PKG-INFO
+pfsc_util.egg-info/SOURCES.txt
+pfsc_util.egg-info/dependency_links.txt
+pfsc_util.egg-info/top_level.txt
