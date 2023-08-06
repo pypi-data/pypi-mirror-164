@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+wincom/__init__.py
+wincom/main.py
+wincom.egg-info/PKG-INFO
+wincom.egg-info/SOURCES.txt
+wincom.egg-info/dependency_links.txt
+wincom.egg-info/top_level.txt
