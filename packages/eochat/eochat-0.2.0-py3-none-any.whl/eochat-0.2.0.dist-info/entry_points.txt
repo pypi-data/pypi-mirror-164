@@ -1,0 +1,2 @@
+[console_scripts]
+eochat = eochat.wrapper:main

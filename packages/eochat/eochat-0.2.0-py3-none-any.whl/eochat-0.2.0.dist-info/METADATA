@@ -1,0 +1,182 @@
+Metadata-Version: 2.1
+Name: eochat
+Version: 0.2.0
+Summary: A CLI chat client for Everfree Outpost
+Home-page: https://gitlab.com/EO_utilities/eo-cli-chat
+Author: First Last, Script Filly
+Author-email: proto_anon_eo@protonmail.com, anonymous.indefinitely@gmail.com
+License: GPLv3
+Project-URL: Bug Tracker, https://gitlab.com/EO_utilities/eo-cli-chat/-/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: tornado
+Requires-Dist: aioconsole
+Requires-Dist: toml
+
+# WHAT IS THIS?
+Are you complaining that EO consumes too many resources? Is your machine constantly hot? Do you still have some people you want to talk in there, but can't stay for long? Worry not! You will be able to chat with other people on EO without having to load anything else.
+By the way, most of this is from https://gitlab.com/canonical-form/everfree-outpost/-/tree/master/src. I just added the chat functionality, Cargo.toml files and gen.py
+
+1. [Prerequisites](#prerequisites)
+    1. [Apt/Debian Systems](#apt-based-systems)
+2. [Building](#building)
+
+# HOW TO RUN THIS MESS
+Clone this repository `git clone https://gitlab.com/EO_utilities/eo-cli-chat` and follow the steps below. Your machine also needs to have `gcc`, `python` interpreter and `rustc` set up (last version preferred).
+
+## Prerequisites
+
+These are the prerequisites for running the application.
+
+- libsodium
+- libsodium-dev
+- python 3.6
+    - tornado
+    - aioconsole
+
+Additionally if you are building eo-cli-chat from source, then you will need:
+
+- git
+- make
+- pip
+
+### Apt-based Systems
+
+You can install the dependencies with:
+
+``` bash
+sudo apt fast install -y libsodium-dev git make 
+```
+
+Install rust alongside rustup with:
+
+``` bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+Install the python dependencies with:
+
+``` bash
+pip install tornado aioconsole
+```
+
+## Building
+
+To build this project from source:
+
+``` bash
+git clone https://gitlab.com/script-anon/eo-cli-chat
+git clone https://gitlab.com/script-anon/eoclient_crypt
+cd eoclient_crypt
+cargo build --release
+sudo make install
+cd ../eo-cli-chat
+pip install -e .
+```
+
+Then you can connect using `eochat`.
+
+### Building Libsodium
+
+If you don't have `libsodium` installed on your system, you can build it from source using the instructions below.
+
+1. After compilation, the end result should be a .a (Linux) or .lib (Windows) file. You can follow the steps here: https://libsodium.gitbook.io/doc/installation and go to "Installing Rust" section after that. I think this is the recommended way to do this from experience.
+2. Or you can follow my steps too. Clone the repository with `git clone -b stable --single-branch https://github.com/jedisct1/libsodium/` or you can also download it directly from https://github.com/jedisct1/libsodium/tree/stable.
+3. Inside libsodium root directory, create an empty directory inside `src/libsodium`
+4. Then copy gen.py to that empty directory you have just created and go to that directory.
+5. Run `python gen.py` and it will generate a .txt file
+6. Copy the contents and paste them in command line. You can ignore all warnings
+7. Once you have all .o files, run the following to generate `libsodium.a` (Linux), or `sodium.lib` Windows) depending on your Operating System:
+
+``` bash
+LINUX
+ar rc libsodium.a *.o
+
+WINDOWS
+ar rc sodium.lib *.o
+```
+
+### Rust
+OP really likes Rust. Unfortunately, you will have to love it too.
+
+Get it working on your machine by following the instructions on https://www.rust-lang.org/tools/install
+
+### Python
+You can install the executable with `pip install -e .`.
+
+### Compiling OP's crypto library
+1. Go to this project (eo-cli-chat) root directory and run: `cargo build --release`
+2. Congrats! It failed, but don't worry, it is missing the .a or .lib file from before.
+3. Copy that file to `target/release/deps`.
+4. Run again: `cargo build --release`. It should succeed!
+5. You should have a .so or .dll file in `target/release`.
+
+## Running the program
+1. Create a directory called `lib` in this project's (eo-cli-chat) root directory.
+2. Copy that .so or .dll file from target/release to lib/.
+3. Run `eochat`.
+4. You should be able to input your username and password. If there is no such combination, then you will be an anon instead.
+
+## Configuration
+You can change your appearance if you modify the `config.toml` file
+located `%APPDATA%\eochat\config.toml` for Windows and `~/.config/eochat/config.toml` for Linux.
+
+## What you can do with this
+Almost nothing, you can receive chat messages and also send them. Just type whatever you want and press Enter, and your message should be sent. You can also customize your character, and you can also run this on Android (assuming your phone is not double-potato-tier).
+
+# What?!? Android support?!?
+Yeah, you read it right. You can now talk to other people on EO using just your smartphone.
+The steps are almost similar, but there are also additional steps too since you'll have to cross-compile for your Android phone. If you have a Mac and an Iphone, maybe it is also possible to compile it for your Iphone by modifying these steps accordingly, but that's out of my reach!
+
+
+## Downloading the Android NDK
+1. you need to download the Android NDK, but version r22b (version r23b was throwing an error when using cargo) from here and unzip it:
+https://github.com/android/ndk/wiki/Unsupported-Downloads
+2. Once unzipped, you'll make use of the directory located in:
+`android-ndk-r22b/toolchains/llvm/prebuilt/linux-x86_64/bin/`
+In should say windows-x86_64 too if you are on Windows.
+3. Depending on what Android version you have and your Android architecture, you'll need to use the corresponding pair of ar and linker. For example, for Android 10 (api level 29) and architecture arm64, you will need: aarch64-linux-android-ar and aarch64-linux-android29-clang and the following paths (**remember to use the full path to reference them and add the extensions .exe for the `ar` path and .cmd for the linker ON WINDOWS**):
+`android-ndk-r22b/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android-ar`
+`android-ndk-r22b/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android29-clang`
+4. In other words, just match the pairs (aarch64 and aarch64), or (i686 and i686), or (arm and armv7) or (x86_64 and x86_64) for both the ar and the linker. **Remember, it is just clang and not clang++**. 
+
+## Building libsodium
+The steps are almost the same as the previous "building libsodium" section. However, before you compile, you need to:
+1. Open gen.py
+2. Modify the value of the `compiler` variable. Instead of `gcc` it should be the **full path** of the linker you chose previously. **For this example**, it should be the **full path** of `android-ndk-r22b/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android29-clang`
+3. Save the file and follow the rest of the steps in the previous "building libsodium" section, except for step 7.
+4. Instead of `ar` replace it with the **full path** of the `ar` you chose previously. **For this example**, it should be the **full path** of `android-ndk-r22b/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android-ar`
+5. Now, for some reason, the toolchain didn't recognize *.o on Windows reeeeee, but it did on Linux. If that happens to you, copy `name-gen.py` to where you copied gen.py and run it. It will output all the .o files in the directory in cmd. So just copy all of them and replace *.o with that and it should be good.
+6. Even if you are on Windows, the library name should be `libsodium.a`
+
+## Compiling OP's crypto library
+The steps are pretty similar to the "Compiling OP's crypto library" section, but first...
+1. In the root of this project, open this file `.cargo/config.toml`.
+2. You don't need to fill all targets, just the one that you have been using all this time.
+3. Copy the full paths that you have been using for the ar and linker.
+4. If you are on windows the linker should end in `.cmd`, and the ar should end in `.exe`. Also, the paths should contain `\\` instead of `\`
+5. In terminal/cmd, type this `rustup target add aarch64-linux-android`. If you are building for another architecture, change `aarch64-linux-android` to the one you are using.
+6. Save the file and execute `cargo build --target aarch64-linux-android --release`. If you are using another Android architecture, then use `armv7-linux-androideabi` or `i686-linux-android` instead of `aarch64-linux-android`
+7. If it fails with `ld: error: unable to find library -lsodium`, just copy the `libsodium.a` file you have compiled into `target/<architecture>/release/deps` where `<architecture>` would be `aarch64-linux-android` in this case.
+8. Run the command in step 6 again and it should succeed. You should find a .so file (even on Windows) in `target/<architecture>/release/`
+9. Copy that .so file in the directory `lib/` in the root directory. Create that directory if you haven't already.
+
+## Running the program
+Finally, the moment of truth. You won't be running this on your computer, but on your phone.
+1. Download Pydroid 3 apk for Android and install it.
+2. Copy the directories `src`, `setup.py`, `README.md` and `config.toml` from the root of this project from your computer to a directory named EO in your phone. You can delete both `libcommon_crypto` and `libcommon_crypto_bindings` directories. Create a `target/release` path in the newly created EO directory and copy the `.so` file in there.
+3. Open Pydroid 3 and press on the top left corner and choose "Terminal settings". Then scroll down and select "Home folder" and copy the address.
+4. Now, go back to before you chose "Terminal settings" and select "Terminal"
+5. Type `ls` to see some directories and copy the EO directory to the "Home folder" you copied in step 3: `cp -r EO <HOME folder>` in which `<HOME filder>` is the path you copied without the `<>`
+6. Type `cd <HOME folder>` and `cd EO`.
+7. Type `pip install -e .`
+8. Finally type `eochat`
+9. You should be greeted with the username and password prompt.
+
+## FAQ
+1. Will mobileposting ruin EO?
+No, too much effort!
