@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+import sys
+import snacker_tracker_scanner as sts
+
+sys.exit(
+    sts.scanner.cli(sys.argv[1:])
+)

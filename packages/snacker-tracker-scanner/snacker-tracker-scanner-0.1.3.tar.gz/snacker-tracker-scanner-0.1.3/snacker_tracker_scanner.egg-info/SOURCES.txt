@@ -1,0 +1,16 @@
+HISTORY.md
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+scripts/snacker-tracker-scanner
+snacker_tracker_scanner/__init__.py
+snacker_tracker_scanner/scanner.py
+snacker_tracker_scanner.egg-info/PKG-INFO
+snacker_tracker_scanner.egg-info/SOURCES.txt
+snacker_tracker_scanner.egg-info/dependency_links.txt
+snacker_tracker_scanner.egg-info/not-zip-safe
+snacker_tracker_scanner.egg-info/requires.txt
+snacker_tracker_scanner.egg-info/top_level.txt
+test/test_snacker_tracker_scanner.py
