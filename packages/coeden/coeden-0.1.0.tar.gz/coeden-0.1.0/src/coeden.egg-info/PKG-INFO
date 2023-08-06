@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: coeden
+Version: 0.1.0
+Home-page: https://github.com/ElGatoNinja/Trees
+Author: Jaime G Alonso
+Author-email: JaimeGAlonso@outlook.com
+License: MIT
+Keywords: tree trees python data structure
+Requires-Python: >=3.10
+License-File: LICENSE

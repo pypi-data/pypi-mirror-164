@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/coeden.egg-info/PKG-INFO
+src/coeden.egg-info/SOURCES.txt
+src/coeden.egg-info/dependency_links.txt
+src/coeden.egg-info/top_level.txt
+src/specialClasses/__init__.py
+src/specialClasses/base_node.py
+src/specialClasses/tree_iterator.py
