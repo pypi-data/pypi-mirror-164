@@ -1,0 +1,12 @@
+*.egg-info
+.cache/
+venv/
+.tox
+test-*.xml
+.coverage
+htmlcov
+__pycache__
+
+.DS_Store
+/build
+/dist
