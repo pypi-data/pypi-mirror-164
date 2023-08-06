@@ -1,0 +1,53 @@
+[project]
+name = "AMN"
+version = "0.6.0"
+description = "Virtual machines for the AMN instructions sets"
+requires-python = ">=3.10"
+keywords = [
+    "AM0",
+    "AM1",
+    "AMN"
+]
+classifiers = [
+    "Environment :: Console",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Education",
+    "Topic :: Utilities",
+    "Typing :: Typed"
+]
+
+[project.readme]
+file = "README.md"
+content-type = "text/markdown"
+
+[[project.authors]]
+name = "Eric Niklas Wolf"
+email = "eric_niklas.wolf@mailbox.tu-dresden.de"
+
+[project.urls]
+Repository = "https://github.com/Deric-W/AMN"
+Bugtracker = "https://github.com/Deric-W/AMN/issues"
+
+[project.scripts]
+amn = "AMN.main:main"
+
+[build-system]
+requires = ["setuptools >= 61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+AMN = ["py.typed"]
+
+[tool.mypy]
+disallow_any_unimported = true
+disallow_any_generics = true
+disallow_untyped_defs = true
+no_implicit_optional = true
+strict_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_return_any = true
+warn_unreachable = false    # problems with match statement

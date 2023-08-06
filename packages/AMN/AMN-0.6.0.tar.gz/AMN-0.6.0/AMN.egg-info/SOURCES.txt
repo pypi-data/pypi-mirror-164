@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+AMN/__init__.py
+AMN/__main__.py
+AMN/am0.py
+AMN/am1.py
+AMN/main.py
+AMN/py.typed
+AMN/repl.py
+AMN.egg-info/PKG-INFO
+AMN.egg-info/SOURCES.txt
+AMN.egg-info/dependency_links.txt
+AMN.egg-info/entry_points.txt
+AMN.egg-info/top_level.txt
