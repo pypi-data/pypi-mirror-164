@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+LanguageDetection/LanguageDetection.csv
+LanguageDetection/LanguageDetection.py
+LanguageDetection/__init__.py
+LanguageDetection.egg-info/PKG-INFO
+LanguageDetection.egg-info/SOURCES.txt
+LanguageDetection.egg-info/dependency_links.txt
+LanguageDetection.egg-info/top_level.txt
