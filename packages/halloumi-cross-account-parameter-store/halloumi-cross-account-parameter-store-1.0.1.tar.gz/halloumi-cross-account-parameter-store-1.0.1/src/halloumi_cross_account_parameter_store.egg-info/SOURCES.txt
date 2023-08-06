@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/halloumi_cross_account_parameter_store/__init__.py
+src/halloumi_cross_account_parameter_store/py.typed
+src/halloumi_cross_account_parameter_store.egg-info/PKG-INFO
+src/halloumi_cross_account_parameter_store.egg-info/SOURCES.txt
+src/halloumi_cross_account_parameter_store.egg-info/dependency_links.txt
+src/halloumi_cross_account_parameter_store.egg-info/requires.txt
+src/halloumi_cross_account_parameter_store.egg-info/top_level.txt
+src/halloumi_cross_account_parameter_store/_jsii/__init__.py
+src/halloumi_cross_account_parameter_store/_jsii/halloumi-cross-account-parameter-store@1.0.1.jsii.tgz
