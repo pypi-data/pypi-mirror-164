@@ -1,0 +1,5 @@
+setup.py
+sunnyday_f.egg-info/PKG-INFO
+sunnyday_f.egg-info/SOURCES.txt
+sunnyday_f.egg-info/dependency_links.txt
+sunnyday_f.egg-info/top_level.txt
