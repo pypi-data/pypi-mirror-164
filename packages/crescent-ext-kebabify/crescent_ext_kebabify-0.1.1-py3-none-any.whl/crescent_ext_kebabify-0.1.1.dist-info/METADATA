@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: crescent-ext-kebabify
+Version: 0.1.1
+Summary: Turn your command names into kebabs.
+Home-page: https://github.com/Lunarmagpie/crescent-ext-kebabify
+License: MPL-2.0
+Author: Lunarmagpie
+Author-email: Bambolambo0@gmail.com
+Requires-Python: >=3.8,<3.11
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: hikari-crescent (>=0.3.0,<0.4.0)
+Project-URL: Bug Tracker, https://github.com/Lunarmagpie/crescent-ext-kebabify/issues
+Project-URL: Repository, https://github.com/Lunarmagpie/crescent-ext-kebabify
+Description-Content-Type: text/markdown
+
+# crescent-ext-kebabify
+
+Turn your command names into kebabs.
+
+
+## Installing
+`pip install crescent-ext-kebabify`
+
+
+## Example
+
+```python
+
+import crescent
+from crescent.ext import kebab
+
+bot = crescent.Bot("TOKEN")
+
+
+# Make this command's name `my-class-command`
+@bot.include
+@kebab.ify
+@crescent.command
+class MyClassCommand:
+    async def callback(self, ctx: crescent.Context):
+        ...
+
+
+# Make this command's name `my-function-command`
+@bot.include
+@kebab.ify
+@crescent.command
+async def my_function_commannd(ctx: crescent.Context):
+    ...
+
+bot.run()
+
+```
+
