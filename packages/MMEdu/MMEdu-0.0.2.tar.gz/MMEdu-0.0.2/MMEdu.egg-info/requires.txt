@@ -1,0 +1,7 @@
+mmcv-full==1.4.5
+mmcls==0.20.0
+mmdet==2.19.1
+torch==1.8.1
+torchvision==0.9.1
+matplotlib==3.5.1
+tqdm==4.64.0
