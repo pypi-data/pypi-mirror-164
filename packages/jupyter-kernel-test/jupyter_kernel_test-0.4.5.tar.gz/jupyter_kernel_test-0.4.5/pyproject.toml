@@ -1,0 +1,56 @@
+[build-system]
+requires = ["hatchling >=1.5"]
+build-backend = "hatchling.build"
+
+[project]
+name = "jupyter_kernel_test"
+license = { file = "LICENSE" }
+classifiers = [
+  "License :: OSI Approved :: BSD License",
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "Topic :: Software Development :: Testing"
+]
+requires-python = ">=3.7"
+dependencies = [
+  "jupyter_client >=6.1.13",
+  "jsonschema"
+]
+dynamic = ["description", "version"]
+
+[[project.authors]]
+name = "Jupyter Development Team"
+email = "jupyter@googlegroups.com"
+
+[project.readme]
+file = "README.rst"
+content-type = "text/x-rst"
+
+[project.urls]
+Homepage = "https://github.com/jupyter/jupyter_kernel_test"
+
+[project.optional-dependencies]
+test = [
+  "ipykernel",
+  "pre-commit"
+]
+
+[tool.hatch.version]
+path = "jupyter_kernel_test/__init__.py"
+
+[tool.jupyter-releaser]
+skip = ["check-links"]
+
+[tool.tbump.version]
+current = "0.4.5"
+regex = '''
+  (?P<major>\d+)\.(?P<minor>\d+)\.(?P<patch>\d+)
+  ((?P<channel>a|b|rc|.dev)(?P<release>\d+))?
+'''
+
+[tool.tbump.git]
+message_template = "Bump to {new_version}"
+tag_template = "v{new_version}"
+
+[[tool.tbump.file]]
+src = "jupyter_kernel_test/__init__.py"
