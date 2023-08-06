@@ -1,0 +1,7 @@
+README.md
+setup.py
+roboreactormaster.egg-info/PKG-INFO
+roboreactormaster.egg-info/SOURCES.txt
+roboreactormaster.egg-info/dependency_links.txt
+roboreactormaster.egg-info/requires.txt
+roboreactormaster.egg-info/top_level.txt
