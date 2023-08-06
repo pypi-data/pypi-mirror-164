@@ -1,0 +1,10 @@
+illiterate/__init__.py,sha256=VvJ8yCFMSy39xlgxcq0J5yijo2P7MSYsobbhyQzUIhA,9465
+illiterate/__main__.py,sha256=DnXGLJUNmGjyXkub6A_-75BGViQBKRZUPbnPVwaHHe4,259
+illiterate/cli.py,sha256=vJPILc0mDmXKur4bdTo5Unkckb358BCZJkKcSzo6LrU,3693
+illiterate/config.py,sha256=0waJt9gZb1YP1krjSfRSZQZsyYu3Ep7QUrlcnV2KoqU,1672
+illiterate/core.py,sha256=siIuXpUP6VqRMBNSjrLrcRW07U6_CY1XcHN6swnxQqo,12927
+illiterate-0.5.0.dist-info/entry_points.txt,sha256=3vbzKKW5RvN395ESGwls9_182OAwvElPfcJmjZKE7-E,49
+illiterate-0.5.0.dist-info/LICENSE,sha256=qfELGCbOxXC_zx5la01Sn86tJbtQdEkBduoXOnwex7U,1079
+illiterate-0.5.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+illiterate-0.5.0.dist-info/METADATA,sha256=5gEMrOQ4C4kPDTAzcRjbwU55qxfvR48ec5eYKH_ejuM,9770
+illiterate-0.5.0.dist-info/RECORD,,
