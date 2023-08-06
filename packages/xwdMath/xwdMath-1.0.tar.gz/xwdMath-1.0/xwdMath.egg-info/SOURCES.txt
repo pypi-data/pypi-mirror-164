@@ -1,0 +1,8 @@
+setup.py
+xwdMath/__init__.py
+xwdMath/demo1.py
+xwdMath/demo2.py
+xwdMath.egg-info/PKG-INFO
+xwdMath.egg-info/SOURCES.txt
+xwdMath.egg-info/dependency_links.txt
+xwdMath.egg-info/top_level.txt
