@@ -1,0 +1,27 @@
+---
+title: CEC1736 Device Information
+devices:
+  CEC1736 Trust Shield:
+    basePart: CEC1736
+    partLink: https://www.microchip.com/product/CEC1736
+    toolLink: https://www.microchip.com/en-us/products/security/secure-boot-solutions/cec1736-configurator
+    provisioningFlow: TrustCUSTOM
+    partType: Silicon
+    productCategory: MCU32
+    tpdsRelease: Yes
+    ndaRequired: No
+parts:
+  - partNumber: CEC1736-S0-I/2ZW
+    deviceName: CEC1736 Trust Shield
+    packagePin: WFBGA-84
+    memory: 4M/384K
+    media: Tray
+    moq: 260
+    status: Production
+  - partNumber: CEC1736-S0-I/2ZW-DEV
+    deviceName: CEC1736 Trust Shield
+    packagePin: WFBGA-84
+    memory: 4M/384K
+    media: Tray
+    moq: 260
+    status: Production
