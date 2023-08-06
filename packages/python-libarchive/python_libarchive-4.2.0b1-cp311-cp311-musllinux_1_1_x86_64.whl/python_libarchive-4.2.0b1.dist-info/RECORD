@@ -1,0 +1,11 @@
+python_libarchive.libs/libbz2-e55174b0.so.1.0.8,sha256=EXxLBMTkdV-mEZ4hRZxYgJCbY1avpXfZBBovPa9UCLI,62696
+python_libarchive.libs/libarchive-93f8b5dd.so.19,sha256=3oTQQNDOV0pXs2XLQjEAj3WWSjZVWnJNHYNWnUu6ywo,975728
+python_libarchive-4.2.0b1.dist-info/top_level.txt,sha256=6TK4AdcPN4gB0UHo66H7cGGJSFOaHOo4x0Y_4HSkBPo,11
+python_libarchive-4.2.0b1.dist-info/WHEEL,sha256=ogCTRyjHDpGGFvF35n-cpV4SlFzxF7w5DeXJyxGbBi8,113
+python_libarchive-4.2.0b1.dist-info/METADATA,sha256=a0ZGt5Kge3y8isQ4PVIf1fMmFy85hPpvz-NTpbSHds4,11439
+python_libarchive-4.2.0b1.dist-info/RECORD,,
+libarchive/tar.py,sha256=2AxK9L2avUOc9vHoqe5xhhIgTbIlK8fvGhsEpRY6cpU,3103
+libarchive/__libarchive.cpython-311-x86_64-linux-musl.so,sha256=piWUm1jw0CgbKAKT_DaIIWLZU5uvSo8IzhF9x5lG9ys,772408
+libarchive/_libarchive.py,sha256=TlKMOY4DISXsPu5wwsSQUbSrMbaHI1EDL-vybPp8LhM,22749
+libarchive/zip.py,sha256=u-t6dZqjJm8vtqq1n325qLNX7q2RKSbxAX9KRN5A0ok,4576
+libarchive/__init__.py,sha256=CYNLKu0RT5G_cgDF-zLKjDHxLPRyLJCNptlDplwpkoY,26143
