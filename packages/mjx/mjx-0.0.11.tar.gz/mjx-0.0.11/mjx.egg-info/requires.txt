@@ -1,0 +1,10 @@
+google==3.0.0
+protobuf==3.17.3
+grpcio==1.39.0
+numpy
+pillow
+svgwrite
+inquirer
+
+[test]
+pytest
