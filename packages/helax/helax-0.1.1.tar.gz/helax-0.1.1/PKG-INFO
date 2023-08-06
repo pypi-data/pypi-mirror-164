@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: helax
+Version: 0.1.1
+Summary: Package for computing helicity amplitudes using NumPy or Jax.
+Author: Logan A. Morrison
+Author-email: loganmorrison99@gmail.com
+Keywords: high-energy-physics,quantum-field-theory
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: jax
+
+# `helax`: Helicity Amplitudes with Jax or NumPy
+
+Implementation from scratch of the HELAS library using Jax and NumPy.
