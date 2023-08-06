@@ -1,0 +1,7 @@
+[console_scripts]
+mtxp = app:entry
+mtxpagent = app:entry_agent
+
+[flask.commands]
+cmd1 = mtxp.commands:cli
+
