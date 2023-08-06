@@ -1,0 +1,2 @@
+[certbot.plugins]
+dns-gcore = certbot_dns_gcore.dns_gcore:Authenticator
