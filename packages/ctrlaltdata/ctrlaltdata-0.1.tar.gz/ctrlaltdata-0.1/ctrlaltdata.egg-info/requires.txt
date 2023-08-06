@@ -1,0 +1,11 @@
+moneypandas
+numpy
+pandas
+pyodbc
+python_stdnum
+tqdm
+pyodbc
+pyspark
+python-stdnum
+money
+moneypandas
