@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "modified-xicor"
+version = "0.2.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.rst"
+
+[[tool.poetry.source]]
+name = "xicor"
+url = 'https://gist.github.com/mandrewstuart/e1c584a36ca5394cc934542731b4d8c2'
+
+[tool.poetry.dependencies]
+python = "^3.5"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
