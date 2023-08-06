@@ -1,0 +1,12 @@
+greatpy/__init__.py,sha256=jwX0l8kmRJOybZG4_dUhAUBx2yPpm8Ap3FWOj6BcVSo,119
+greatpy/pl/__init__.py,sha256=LGGc7ckY-E1eiV6oUJxxngi679kHt2p83ZFsKpcqDNY,210
+greatpy/pl/basic.py,sha256=szZITTGIRsp1EFWUr3i1JtSyza0yqY2Sjicn1oO9nDY,43121
+greatpy/tl/__init__.py,sha256=DgmvLPpthMjJD76StlElhoBPS7_f76QoBQQuBl-JX9I,359
+greatpy/tl/great.py,sha256=s1NPTIv0SHTAHoN2Zm7gZpAobBmjm6Nek9iQFUO64n4,48089
+greatpy/tl/regdom.py,sha256=JP0MVboGIji5Tj2b-HLtiWUXH_Zvc_WegIS2Dbj9Mkw,13880
+greatpy/tl/utils.py,sha256=KZM_mrvcPwAYCnnVH0lQKfWGi4NN3HddAe6ZLBczao8,5404
+greatpy/tl/utils_r.py,sha256=SOP52LQf9M9lNDKZS0ltIbSzcJuBQ4sqdw9f4-cgG4s,9889
+greatpy-0.0.1.dist-info/LICENSE,sha256=kAwb4MGIyGaLwveEm7XvbTIYmpvXLe3HIlUB2lDKVUg,1072
+greatpy-0.0.1.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+greatpy-0.0.1.dist-info/METADATA,sha256=LA9DtOtg2Zve3MDtH-EUw6iisipU0kr66rgAyNuvy0w,9671
+greatpy-0.0.1.dist-info/RECORD,,
