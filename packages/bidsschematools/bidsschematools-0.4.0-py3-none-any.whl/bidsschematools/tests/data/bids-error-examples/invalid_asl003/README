@@ -1,0 +1,14 @@
+This dataset was provided by Patricia Clement and Eric Achten.
+Link to full data: https://drive.google.com/drive/folders/1VUovy3XK0Malkl6DT2JY0YtoAGuYWgWO?usp=sharing
+
+If you reference this dataset in your publications, please acknowledge its authors.
+
+This dataset is made available under CC0.
+
+# BIDS Error
+
+This dataset exemplifies the usage of a suffix invalid for the file datatype (`headshape` is valid for `meg` but not for `perf`).
+
+```
+sub-Sub1/perf/sub-Sub1_headshape.jpg
+```
