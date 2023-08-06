@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+zoom_ips/__init__.py
+zoom_ips/_version.py
+zoom_ips/zoom.py
+zoom_ips.egg-info/PKG-INFO
+zoom_ips.egg-info/SOURCES.txt
+zoom_ips.egg-info/dependency_links.txt
+zoom_ips.egg-info/requires.txt
+zoom_ips.egg-info/top_level.txt
