@@ -1,0 +1,8 @@
+python-future
+
+[tests]
+pytest
+pytest-freezegun
+pytz
+freezegun
+future
