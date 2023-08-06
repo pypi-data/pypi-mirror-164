@@ -1,0 +1,10 @@
+abby/__init__.py,sha256=aTZsp39DzvriGbOO5so5mwL1_cY4_7u7YrknPEFbjOY,94
+abby/compare.py,sha256=2PxLQir_kGgj-cD_S9X_ukO2zmD4DzNmWB6ryTDfMUk,6084
+abby/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+abby/tests/test_ttest.py,sha256=TYrYLTrdpbxEW5BpLj1N_RXddnCdddylT0j_Jb6eTR4,1339
+abby/tests/datasets/penguins.csv,sha256=XFc4qjDvgVWQOweVv_hmBtTM-7ByIFSAnPxIkeIs73A,13516
+abby/tests/datasets/sleeps.csv,sha256=xFYE0xYNYfQFNch3Oxdi4SDke4JNlVIZUOpUyhdRb9k,264
+abby-0.0.5.dist-info/LICENSE,sha256=RAL6islnc2vzmV-sG4YJE_lnUrpHHl250boN2GtfqAo,1072
+abby-0.0.5.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+abby-0.0.5.dist-info/METADATA,sha256=XEnL1dKi0viEH5l5e00EvI4rzKEGdmDmzqRaN5YTa1A,801
+abby-0.0.5.dist-info/RECORD,,
