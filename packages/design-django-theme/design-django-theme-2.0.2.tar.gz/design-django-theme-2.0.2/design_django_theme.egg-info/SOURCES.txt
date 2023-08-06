@@ -1,0 +1,14 @@
+AUTHORS
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+bootstrap_italia_template/__init__.py
+bootstrap_italia_template/apps.py
+bootstrap_italia_template/settings.py
+bootstrap_italia_template/widgets.py
+design_django_theme.egg-info/PKG-INFO
+design_django_theme.egg-info/SOURCES.txt
+design_django_theme.egg-info/dependency_links.txt
+design_django_theme.egg-info/requires.txt
+design_django_theme.egg-info/top_level.txt
