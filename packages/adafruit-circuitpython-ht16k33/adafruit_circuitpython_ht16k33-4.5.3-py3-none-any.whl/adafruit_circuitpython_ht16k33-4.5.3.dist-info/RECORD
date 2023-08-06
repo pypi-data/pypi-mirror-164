@@ -1,0 +1,11 @@
+adafruit_ht16k33/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+adafruit_ht16k33/animations.py,sha256=9A5BILrcGVJKpzvquE8kD66vOvrCC8c48zpHSx0M7ns,7662
+adafruit_ht16k33/bargraph.py,sha256=aFwhVVZvkCYZeDJe2m7IG6cjiyJfFgSyGmT9U2G_8-8,1595
+adafruit_ht16k33/ht16k33.py,sha256=705uGjEXMQUgfRwnWIs64W07RCU6zFpouCs8EB6tg1k,5518
+adafruit_ht16k33/matrix.py,sha256=hgtMnhxHpxUty7ZktiPNq_GcXTRzX-L0NkvE9cntpK0,10075
+adafruit_ht16k33/segments.py,sha256=Im3xyEkpdbbniGmhwDcrtgPHAH5MLv2ijbDQVVKlYwQ,20786
+adafruit_circuitpython_ht16k33-4.5.3.dist-info/LICENSE,sha256=Ng0_E8G9LhKGNGIzb8rALEqRLyECd30rE0_1Qw5KYA0,1124
+adafruit_circuitpython_ht16k33-4.5.3.dist-info/METADATA,sha256=6yIAtIDvq9Y4yX1bfYKRxJ-8F1QcsgtnYgvIuU-kBxA,5001
+adafruit_circuitpython_ht16k33-4.5.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+adafruit_circuitpython_ht16k33-4.5.3.dist-info/top_level.txt,sha256=YFwqL_J8mf8CvnGKGI_KzTQHpF1k--dSrnNkU7i5bhM,17
+adafruit_circuitpython_ht16k33-4.5.3.dist-info/RECORD,,
