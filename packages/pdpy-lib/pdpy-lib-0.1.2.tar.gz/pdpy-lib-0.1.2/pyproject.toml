@@ -1,0 +1,19 @@
+[project]
+name = "pdpy-lib"
+version ="0.1.2"
+authors = [
+  { name="Fede Camara Halac", email="fdch@nyu.edu" },
+]
+description = "A Pure Data PYthon Utility"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Topic :: Multimedia",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License (GPL)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pdpy-org/pdpy"
+"Bug Tracker" = "https://github.com/pdpy-org/pdpy/issues"
