@@ -1,0 +1,2 @@
+[console_scripts]
+ml_pkg_housing = ml_pkg_example.ingest_data:data_preprocessing

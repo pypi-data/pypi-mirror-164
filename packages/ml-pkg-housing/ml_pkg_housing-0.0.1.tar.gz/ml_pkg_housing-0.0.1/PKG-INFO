@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ml_pkg_housing
+Version: 0.0.1
+Summary: An example package for ml project learning
+Home-page: http://pypi.python.org/pypi/ml_pkg_housing/
+Author: Vikash Kumar
+Author-email: vikash.kumar@tigeranalytics.com
+License: MIT
+Keywords: keyword1,keyword2,keyword3
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*
+Provides-Extra: interactive
+License-File: LICENCE.txt
+
+UNKNOWN
+
