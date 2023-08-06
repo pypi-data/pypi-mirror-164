@@ -1,0 +1,30 @@
+{% load base_taglib %}
+<label>
+    <input type="checkbox" {%if model_definition.export_enabled%}checked{%endif%} onclick="toggle_model($(this), {{model_definition.id}});" />
+    {%fa fa-fw fa-database%}
+    {{model_definition.name}}
+</label>
+
+
+<div class="{%if not model_definition.export_enabled%}hidden{%endif%}" id="fields-{{model_definition.id}}">
+    <table class="table table-condensed table-hover table-striped">
+        <tr>
+            <th scope="col" class="text-center">{%fa fa-fw fa-check-square-o title="Export Enabled"%}</th>
+            <th scope="col">Field Name</th>
+            <th scope="col" width="140">Data Type</th>
+            <th scope="col">Key</th>
+            <th scope="col">Description</th>
+            <th scope="col">Cognos Name</th>
+            <th scope="col" width="140">Import Type</th>
+            <th scope="col" width="140">Oracle Type</th>
+            <th scope="col">Format</th>
+        </tr>
+        {%for field_definition in model_definition.fields%}
+            <div class="indent" >
+                {%include "psu_export/_field_definition.html"%}
+            </div>
+        {%endfor%}
+    </table>
+</div>
+
+

@@ -1,0 +1,14 @@
+{% load base_taglib %}
+<label class="xlg">
+    <input type="checkbox" {%if app_definition.export_enabled%}checked{%endif%} onclick="toggle_app($(this), {{app_definition.id}});" />
+    <b>{%fa fa-fw fa-cube%}{{app_definition.app_code|upper}}</b>
+</label>
+
+
+<div class="list-group {%if not app_definition.export_enabled%}hidden{%endif%}" id="models-{{app_definition.id}}">
+    {%for model_definition in app_definition.models%}
+        <div class="list-group-item model_item" id="model-{{model_definition.id}}">
+            {%include "psu_export/_model_definition.html"%}
+        </div>
+    {%endfor%}
+</div>

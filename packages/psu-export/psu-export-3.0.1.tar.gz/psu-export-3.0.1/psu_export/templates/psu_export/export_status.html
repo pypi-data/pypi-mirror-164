@@ -1,0 +1,54 @@
+{% extends 'psu_base/layout/main.html' %}
+{% load base_taglib %}
+
+{% block pagecontent %}
+    <h1>Export Status</h1>
+
+    {%if access_key%}
+        {%fa fa-key text-success%} Access Key is defined
+    {%else%}
+        {%fa fa-exclamation-triangle text-danger%} Missing setting: <span class="code">BI_EXPORT_ACCESS_KEY</span>
+    {%endif%}<br />
+    {%if secret_key%}
+        {%fa fa-key text-success%} Secret Key is defined
+    {%else%}
+        {%fa fa-exclamation-triangle text-danger%} Missing setting: <span class="code">BI_EXPORT_SECRET_KEY</span>
+    {%endif%}<br />
+    <br />
+
+    <div class="list-group">
+        {%for app_definition in apps%}
+            <div class="list-group-item app_item" id="app-{{app_definition.id}}">
+                {%include "psu_export/_app_definition.html"%}
+            </div>
+        {%endfor%}
+    </div>
+    <br />
+
+    <a href="{%url 'export:models'%}" class="btn btn-danger" target="_blank" style="text-decoration: none;">
+        {%fa fa-database fa-fw%}
+        Run Export Now <sup>{%fa fa-external-link fa-fw%}</sup>
+    </a>
+
+<style>
+    .list-group-item{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .list-group{
+        margin-bottom: 20px;
+    }
+    .table-condensed td{
+        padding: 3px;
+    }
+    .table-condensed td input{
+        padding: 3px;
+        font-size:.95em;
+    }
+</style>
+
+<script type="text/javascript">
+    {%include "psu_export/manage.js"%}
+</script>
+
+{% endblock %}
