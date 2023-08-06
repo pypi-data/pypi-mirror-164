@@ -1,0 +1,14 @@
+arclet/alconna_cli/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+arclet/alconna_cli/__main__.py,sha256=LWN9xI0Ijx1rwJZ8V2W1w64etebg4dspm0mnp26Ymmw,152
+arclet/alconna_cli/commandline.py,sha256=MSLunOmNF4MY-6x0_c_45Ws42rGs-xelOQRei1fegH4,254
+arclet/alconna_cli/plugins/__init__.py,sha256=vzJwShSCqIDzHA5cszsFSJOmgavsYiLAze66nbMtYnk,138
+arclet/alconna_cli/plugins/analysis.py,sha256=J8XA3VEZApnt_Y-cV9FPr9QIds29et38INqxB9PMi08,2281
+arclet/alconna_cli/plugins/cache.py,sha256=SryZu-uuysMxdUfI3souYe5Ut7actylMQU0Antm8B5M,1591
+arclet/alconna_cli/plugins/create.py,sha256=a3pFwSxi0YIgf_a-fTPH0c0UHNKlo9rRlfABaXoRJXs,6384
+arclet/alconna_cli/plugins/lang.py,sha256=NrKpoUKz1HXyfuT-RDtrx_YPJjE7L56Vi6mlfLzR2YQ,1318
+arclet/alconna_cli/plugins/using.py,sha256=33vVWl7Qs3P-QyxrCrZIo9P6BblNFe92lpYZjgw08TU,1639
+arclet_alconna_cli-0.2.0.dist-info/entry_points.txt,sha256=PQk5147KEfn0dMO4CgMNY7-bk1PdadYGAuG6rHTlYao,60
+arclet_alconna_cli-0.2.0.dist-info/WHEEL,sha256=g_UdFZqm-k6b0W64OcndB0YT_D2mFFPAYBj7-_YsSPA,87
+arclet_alconna_cli-0.2.0.dist-info/METADATA,sha256=dteDXo9l8XWM5mRaj-rHfkYEVJf_EiHd7Jucd-9c7yg,995
+arclet_alconna_cli-0.2.0.dist-info/license_files/LICENSE,sha256=O8Mha1tPnB8fvefAWJeA5Tk0C2MyAe_bAtQVOrsfjCc,1091
+arclet_alconna_cli-0.2.0.dist-info/RECORD,,
