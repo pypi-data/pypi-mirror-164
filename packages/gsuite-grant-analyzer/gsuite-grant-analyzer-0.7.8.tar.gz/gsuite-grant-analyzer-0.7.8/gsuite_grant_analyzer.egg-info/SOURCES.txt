@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+best/__init__.py
+best/integration/__init__.py
+best/unit/__init__.py
+best/unit/conftest.py
+best/unit/test_glue_session.py
+best/unit/test_glue_session_demo.py
+best/unit/test_session_apis.py
+gsuite_grant_analyzer.egg-info/PKG-INFO
+gsuite_grant_analyzer.egg-info/SOURCES.txt
+gsuite_grant_analyzer.egg-info/dependency_links.txt
+gsuite_grant_analyzer.egg-info/top_level.txt
