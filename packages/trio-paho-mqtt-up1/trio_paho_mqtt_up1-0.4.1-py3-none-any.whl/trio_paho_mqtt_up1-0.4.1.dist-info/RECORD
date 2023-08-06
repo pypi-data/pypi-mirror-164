@@ -1,0 +1,7 @@
+trio_paho_mqtt/__init__.py,sha256=YWuMgBYaeS1hioelUMKIEjBiMXMaFCSKO5FwiyUTS7g,59
+trio_paho_mqtt/client.py,sha256=rizMs7uWee_a6JYRqPHvSLiIcz8bDn4gw8RVypzyeO0,5880
+trio_paho_mqtt/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+trio_paho_mqtt_up1-0.4.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+trio_paho_mqtt_up1-0.4.1.dist-info/WHEEL,sha256=FWzWAvOOsDP6aqtZj_z3pIhVEk8S9F03Xwafa0tLqIY,90
+trio_paho_mqtt_up1-0.4.1.dist-info/METADATA,sha256=5MXpY-Y8aPdf1OmNbqLG3RKHYYU26tmBjFkOD512KIA,2620
+trio_paho_mqtt_up1-0.4.1.dist-info/RECORD,,
