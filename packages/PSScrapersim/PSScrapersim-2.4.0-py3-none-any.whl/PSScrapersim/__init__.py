@@ -1,0 +1,1 @@
+from PSScrapersim import PlayStoreScraper
