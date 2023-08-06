@@ -1,0 +1,14 @@
+gcn_kafka/__init__.py,sha256=rTVDPFEQtxB2GgK4Tgvzvbtx0Lmw-LJY51P-QCb0Nlg,206
+gcn_kafka/_version.py,sha256=-WRu2o6hwfVn4gRz63JTptYVwBkOdRjAJ4QVJAmZ_0w,176
+gcn_kafka/core.py,sha256=dbEMTn3-IxJ3mgEgj9Fl3220ECJJtJnt4WtTmbKdO8g,3740
+gcn_kafka/env.py,sha256=XkWm-bFdP12QYq-pxgPcgTznu2K2GNmR-LaJZGDqVes,1558
+gcn_kafka/oidc.py,sha256=DM-uBJJRuqlpKJrTvCmSZ-YgsVx4pe6BTx-QaXa_0ng,1061
+gcn_kafka/test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gcn_kafka/test/test_core.py,sha256=znr2tACkjSF-9lZ8zFaNwxjmJYIqHmmFwfTR129UFSw,896
+gcn_kafka/test/test_env.py,sha256=n6j1OR-QQi7n19ilKYQ_yhX8nQMCZS4Nm0gc1eqF5Uc,428
+gcn_kafka/test/test_oidc.py,sha256=kxQhDJ6qnNqSQxNmwIzUvfbDJGSkcACZdCWYbOaj1Yg,906
+gcn_kafka-0.2.3.dist-info/LICENSE.txt,sha256=ogEPNDSH0_dhiv_lT3ifVIdgIzHAqNA_SemnxUfPBJk,7048
+gcn_kafka-0.2.3.dist-info/METADATA,sha256=-pG0zuQHpYzuCZ0J-aXEwAPyp96L0P08IBKwZhriNJE,7159
+gcn_kafka-0.2.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+gcn_kafka-0.2.3.dist-info/top_level.txt,sha256=UJfJPaD8xFaiu9oZc3lwfD1HuXfcgxZZUShkxCK17uY,10
+gcn_kafka-0.2.3.dist-info/RECORD,,
