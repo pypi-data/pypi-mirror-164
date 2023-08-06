@@ -1,0 +1,4 @@
+[console_scripts]
+dc = console_scripts.dc:console_script_entry
+mtnginx = console_scripts.nginx:console_script_entry
+
