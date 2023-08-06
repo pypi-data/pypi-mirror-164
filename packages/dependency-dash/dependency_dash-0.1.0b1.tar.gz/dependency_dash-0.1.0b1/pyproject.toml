@@ -1,0 +1,124 @@
+[build-system]
+requires = [ "whey",]
+build-backend = "whey"
+
+[project]
+name = "dependency-dash"
+version = "0.1.0b1"
+description = "A fully Open Source dependency dashboard."
+readme = "README.rst"
+keywords = [ "dashboard", "dependency", "github", "requirement",]
+dynamic = []
+dependencies = [
+    "dom-toml>=0.5.0",
+    "domdf-python-tools>=2.9.1",
+    "flask>=1.0.4",
+    "flask-restx>=0.5.0",
+    "github3-py>=2.0.0",
+    "gunicorn>=20.1.0",
+    "jinja2>=2.9.0",
+    "markdown>=3.3.4",
+    "packaging>=21.0",
+    "platformdirs>=2.2.0",
+    "pybadges>=2.2.1",
+    "pygments>=2.10.0",
+    "pypi-json>=0.2.0",
+    "requests>=2.26.0",
+    "setup-py-upgrade==1.2.1",
+    "shippinglabel>=1.0.0",
+    "werkzeug<2.2",
+    "wtforms>=2.2.0",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Framework :: Flask",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Topic :: Internet :: WWW/HTTP :: WSGI :: Application",
+]
+requires-python = ">=3.7"
+
+[[project.authors]]
+name = "Dominic Davis-Foster"
+email = "dominic@davis-foster.co.uk"
+
+
+[project.license]
+file = "LICENSE"
+
+[project.urls]
+Homepage = "https://github.com/repo-helper/dependency-dash"
+"Issue Tracker" = "https://github.com/repo-helper/dependency-dash/issues"
+"Source Code" = "https://github.com/repo-helper/dependency-dash"
+
+[tool.whey]
+base-classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Framework :: Flask",
+    "Intended Audience :: Developers",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+    "Topic :: Internet :: WWW/HTTP :: WSGI :: Application",
+]
+python-versions = [ "3.7", "3.8", "3.9",]
+python-implementations = [ "CPython",]
+platforms = [ "Linux", "macOS",]
+license-key = "MIT"
+package = "dependency_dash"
+additional-files = [
+    "recursive-include dependency_dash/static/css *.css",
+    "recursive-include dependency_dash/static/css *.css.map",
+    "recursive-include dependency_dash/static/js *.js",
+    "recursive-include dependency_dash/static/webfonts *.woff",
+    "recursive-include dependency_dash/static/webfonts *.woff2",
+    "recursive-include dependency_dash/static/webfonts *.eot",
+    "recursive-include dependency_dash/static/webfonts *.ttf",
+    "recursive-include dependency_dash/static *.jpg",
+    "recursive-include dependency_dash/static *.webp",
+    "recursive-include dependency_dash/static *.avif",
+    "recursive-include dependency_dash/static *.svg",
+    "recursive-include dependency_dash/static *.png",
+    "recursive-include dependency_dash/templates *.html",
+    "recursive-include dependency_dash/pages *.md",
+]
+
+[tool.importcheck]
+always = [ "dependency_dash", "dependency_dash.github", "dependency_dash.pypi", "dependency_dash.routes",]
+
+[tool.mypy]
+python_version = "3.7"
+namespace_packages = true
+check_untyped_defs = true
+warn_unused_ignores = true
+no_implicit_optional = true
+show_error_codes = true
+
+[tool.dep_checker]
+allowed_unused = [ "gunicorn", "pygments", "werkzeug",]
+
+[tool.snippet-fmt]
+directives = [ "code-block",]
+
+[tool.dep_checker.name_mapping]
+github3-py = "github3"
+
+[tool.dependency-dash."requirements.txt"]
+order = 10
+
+[tool.snippet-fmt.languages.python]
+reformat = true
+
+[tool.snippet-fmt.languages.TOML]
+reformat = true
+
+[tool.snippet-fmt.languages.ini]
+
+[tool.snippet-fmt.languages.json]
