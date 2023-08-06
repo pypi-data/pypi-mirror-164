@@ -1,0 +1,8 @@
+adafruit_onewire/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+adafruit_onewire/bus.py,sha256=iS3N6umbMUmDiKUbOzMu2FUK1OmzNNuK-CKNj-KrdnA,6498
+adafruit_onewire/device.py,sha256=VZV2gvmReUY3oHzDLo5ssq1qS9aWcnQh-vRYS0FGLoE,2644
+adafruit_circuitpython_onewire-2.0.3.dist-info/LICENSE,sha256=9qrAsjpWSRvtbmzGsLzNQmv9C4DXaIT23X743eUI2As,1104
+adafruit_circuitpython_onewire-2.0.3.dist-info/METADATA,sha256=hYuUvPUXzBP1qIZd3jUmp6sXfj9s796r1fjn-dUay2w,2984
+adafruit_circuitpython_onewire-2.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+adafruit_circuitpython_onewire-2.0.3.dist-info/top_level.txt,sha256=uT6veuwkI3TZClPiHFIG_0sbHG18zLvhov-XYqYWcEs,17
+adafruit_circuitpython_onewire-2.0.3.dist-info/RECORD,,
