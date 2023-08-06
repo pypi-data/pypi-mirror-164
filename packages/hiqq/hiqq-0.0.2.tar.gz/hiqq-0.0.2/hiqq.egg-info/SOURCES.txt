@@ -1,0 +1,7 @@
+setup.py
+hiqq/__init__.py
+hiqq.egg-info/PKG-INFO
+hiqq.egg-info/SOURCES.txt
+hiqq.egg-info/dependency_links.txt
+hiqq.egg-info/requires.txt
+hiqq.egg-info/top_level.txt
