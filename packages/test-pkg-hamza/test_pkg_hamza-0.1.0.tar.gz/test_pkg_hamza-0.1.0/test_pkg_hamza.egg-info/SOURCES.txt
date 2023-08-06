@@ -1,0 +1,8 @@
+README.rst
+setup.py
+test_pkg_hamza/__init__.py
+test_pkg_hamza/data.py
+test_pkg_hamza.egg-info/PKG-INFO
+test_pkg_hamza.egg-info/SOURCES.txt
+test_pkg_hamza.egg-info/dependency_links.txt
+test_pkg_hamza.egg-info/top_level.txt
