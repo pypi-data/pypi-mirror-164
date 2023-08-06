@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: runfalcon-build-tools
+Version: 1.0.2
+Summary: Runfalcon tools to build process with quality and efficiency
+Author: Raul A. de Villa C.
+Author-email: r@runfalcon.com
+Keywords: runfalcon,python,deployment,pipeline,ci,cd
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: datetime
+Requires-Dist: python-abc
+
