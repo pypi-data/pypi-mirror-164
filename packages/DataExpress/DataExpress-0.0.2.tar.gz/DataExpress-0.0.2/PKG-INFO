@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: DataExpress
+Version: 0.0.2
+Summary: DataExpress -- Extract, Load and Transformation Data
+Home-page: https://github.com/DE-DataEng/DataExpress
+Author: Almir J Gomes
+Author-email: almir.jg@hotmail.com
+License: MIT
