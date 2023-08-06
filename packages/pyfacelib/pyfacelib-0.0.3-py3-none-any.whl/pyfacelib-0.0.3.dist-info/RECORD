@@ -1,0 +1,10 @@
+PyFaceLib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+PyFaceLib/face_alignment.py,sha256=6nPJfGLzBBNgSvppfm2qK95jFPzEcHl92f3D6rXvF80,2319
+PyFaceLib/face_detection.py,sha256=VvruF3ZezqkRgSWAdsIF_r8GPCVRlzTUI8oUMZRaQA4,3387
+PyFaceLib/face_emotion_recognition.py,sha256=RQHDiDLLl04axKK0J7NMyETCg_5cnyca6tNB_aPzLqk,3886
+PyFaceLib/face_normalization.py,sha256=FEVCjGGYvdg_MxaI7oDt_5WTOUGoyFZHvMbbgTnwvWo,2637
+PyFaceLib/representation_extraction.py,sha256=iDaiaSVDMinZaTEJvw4sgrCkRm1_2y9Tha9GNH0cqcw,2825
+pyfacelib-0.0.3.dist-info/METADATA,sha256=btATqp6j3QB4raBzv_qQ83WOCXaIAtQiAPOLoEeJg4s,484
+pyfacelib-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyfacelib-0.0.3.dist-info/top_level.txt,sha256=z5SaY9CLwC4WpwtDwSggCNsLXGCXS1FmSIVLUr5Pkf4,10
+pyfacelib-0.0.3.dist-info/RECORD,,
