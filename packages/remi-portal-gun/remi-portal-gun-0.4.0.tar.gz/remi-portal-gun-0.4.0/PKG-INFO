@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: remi-portal-gun
+Version: 0.4.0
+Summary: 
+Author: Rémi Connesson
+Author-email: remiconnesson@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: fastapi (>=0.80.0,<0.81.0)
+Requires-Dist: typer (>=0.6.1,<0.7.0)
+Requires-Dist: uvicorn (>=0.18.2,<0.19.0)
+Description-Content-Type: text/markdown
+
+I'm attempting to push a package on pypy 
+
