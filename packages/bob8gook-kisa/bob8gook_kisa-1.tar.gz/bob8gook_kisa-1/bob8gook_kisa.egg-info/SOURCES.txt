@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+bob8gook_kisa.egg-info/PKG-INFO
+bob8gook_kisa.egg-info/SOURCES.txt
+bob8gook_kisa.egg-info/dependency_links.txt
+bob8gook_kisa.egg-info/top_level.txt
