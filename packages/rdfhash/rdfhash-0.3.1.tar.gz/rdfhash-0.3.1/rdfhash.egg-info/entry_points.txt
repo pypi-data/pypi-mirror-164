@@ -1,0 +1,2 @@
+[console_scripts]
+rdfhash = rdfhash.__main__:run
