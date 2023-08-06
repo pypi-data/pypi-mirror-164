@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+myssml/MySSML.py
+myssml/MySSML_1.1.14.py
+myssml/MySSML_1.1.8.py
+myssml/__init__.py
+myssml.egg-info/PKG-INFO
+myssml.egg-info/SOURCES.txt
+myssml.egg-info/dependency_links.txt
+myssml.egg-info/top_level.txt
