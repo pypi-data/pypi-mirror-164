@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+yb-wishes.py
+yb_wishes.egg-info/PKG-INFO
+yb_wishes.egg-info/SOURCES.txt
+yb_wishes.egg-info/dependency_links.txt
+yb_wishes.egg-info/top_level.txt
