@@ -1,0 +1,2 @@
+graphql-core>=graphql-core
+werkzeug>=0.13
