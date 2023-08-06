@@ -1,0 +1,63 @@
+Metadata-Version: 2.1
+Name: fx-py-sdk
+Version: 0.1.0
+Summary: Python library for fx chain
+Home-page: https://github.com/functionx/fx-py-sdk
+Author: zakir
+Keywords: functionxfxCore,blockchain
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## How to use
+
+### 1. Clone the code to local
+
+```shell
+git clone https://github.com/functionx/fx-py-sdk.git
+
+cd fx-py-sdk
+```
+
+### 2. Build the Python virtual environment for the current project
+
+* Create the virtual directory venv
+
+```
+python -m venv venv
+```
+
+* Activating the Virtual Environment
+
+```
+source ./venv/bin/activate
+```
+> Windows: venv\Scripts\activate
+
+### 3. Installation Project Dependence
+
+```
+pip install -r requirements.txt
+```
+
+## Compile Proto files as Python files
+
+> If does not have execution permission, run 'chmod +x ./gen-proto.sh`
+
+```shell
+# Pull external code
+git submodule add -b release/v2.2.x https://github.com/functionx/fx-core.git
+git submodule add -b release/v3.1.x https://github.com/cosmos/ibc-go.git
+git submodule add -b release/v0.45.x https://github.com/cosmos/cosmos-sdk.git
+git submodule update
+
+pip install grpcio
+pip install grpcio-tools
+
+./gen-proto.sh
+```
