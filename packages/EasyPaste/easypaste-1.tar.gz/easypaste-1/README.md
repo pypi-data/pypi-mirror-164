@@ -1,0 +1,1 @@
+This is an easy to use library for pastebin posting.
