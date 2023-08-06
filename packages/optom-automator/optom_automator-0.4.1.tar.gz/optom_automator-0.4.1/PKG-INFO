@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: optom_automator
+Version: 0.4.1
+Summary: Automating the boring stuff in optometry.
+Author: Shivan Sivakumaran
+Author-email: <shivan.sivakumaran@gmail.com>
+License: MIT
+Project-URL: homepage, https://github.com/shivan-s/optom-automator
+Project-URL: repository, https://github.com/shivan-s/optom-automator
+Project-URL: changelog, https://github.com/shivan-s/optom-automator/blob/main/CHANGELOG.md
+Keywords: optom,optometry,optometrist,automation
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE

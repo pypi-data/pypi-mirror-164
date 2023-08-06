@@ -1,0 +1,74 @@
+[build-system]
+requires = ["setuptools >= 62.1.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "optom_automator"
+version = "0.4.1"
+authors = [
+  { name = "Shivan Sivakumaran" },
+  { email = "<shivan.sivakumaran@gmail.com>" },
+]
+requires-python = ">=3.10"
+description = "Automating the boring stuff in optometry."
+readme = { file = "README.md", content-type = "text/markdown" }
+license = { text = "MIT" }
+keywords = ["optom", "optometry", "optometrist", "automation"]
+dependencies = ["pyttsx3", "rich"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Healthcare Industry",
+  "Natural Language :: English",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: Implementation :: CPython",
+]
+
+[project.scripts]
+optom-automator = "optom_automator.main:main"
+
+[project.urls]
+homepage = "https://github.com/shivan-s/optom-automator"
+repository = "https://github.com/shivan-s/optom-automator"
+changelog = "https://github.com/shivan-s/optom-automator/blob/main/CHANGELOG.md"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["optom_automator*"]
+exclude = ["tests"]
+
+[tool.pyright]
+include = "src"
+venv = ".venv"
+venvPath = "."
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 79
+default_section = "THIRDPARTY"
+known_first_party = ["optom_automator"]
+known_third_party = ["pytest", "pyttsx3", "rich", "setuptools"]
+
+[tool.black]
+line-length = 79
+include = '.pyi?%'
+
+[tool.pytest.ini_options]
+addopts = "--cov=src --cov-report html"
+testpaths = ["tests"]
+
+[tool.mypy]
+mypy_path = "src"
+ignore_missing_imports = true
+
+[tool.pydocstyle]
+match = '.*\.py'
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version_files = ["src/optom_automator/__init__.py", "pyproject.toml"]
+version = "0.4.1"
+
+tag_format = "$version"
