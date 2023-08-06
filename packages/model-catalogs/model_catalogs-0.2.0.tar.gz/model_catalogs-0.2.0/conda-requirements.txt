@@ -1,0 +1,9 @@
+appdirs
+cf_xarray
+dask
+h5netcdf
+netcdf4
+numpy
+pandas
+pip
+xarray

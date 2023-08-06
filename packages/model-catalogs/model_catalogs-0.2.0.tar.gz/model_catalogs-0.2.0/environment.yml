@@ -1,0 +1,22 @@
+name: model_catalogs
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8  # this is required for the dev tools/precommit stuff
+  - alphashape
+  - appdirs
+  - cf_xarray
+  - dask
+  - extract_model
+  - h5netcdf
+  - netcdf4
+  - numpy
+  - pandas
+  - pip
+  - shapely
+  - xarray
+  - pip:  # install from github to get recent PRs I contributed
+    - git+https://github.com/intake/intake-xarray.git
+    - git+https://github.com/intake/intake.git@d28391c54c875a47bf34f640e46c5f68109ba8b5
+    - siphon  # can get from conda-forge but isn't recognized
+    - datetimerange
