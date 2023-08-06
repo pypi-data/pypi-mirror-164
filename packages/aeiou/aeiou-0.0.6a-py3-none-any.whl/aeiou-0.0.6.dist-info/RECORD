@@ -1,0 +1,14 @@
+aeiou/__init__.py,sha256=QiiYsv0kcJaB8wCWyT-FnI2b6be87HA-CrrIUn8LQhg,22
+aeiou/_modidx.py,sha256=4rBwd5InFrGtWOo45aW2DeuKjAaylzYCv2rGaw_1Fbs,15695
+aeiou/chunkadelic.py,sha256=NnnFNBOD3G2lPoHk5NptrWnpVDdi2fPWNCn28_11MQI,5132
+aeiou/core.py,sha256=-xFarSxbY-rm3Vvk58XHbjN53zh02j1WLFspdT5d5n4,2904
+aeiou/datasets.py,sha256=LZwsLwxZDVmznLTMTnoV78Rb20MRcireK1UePo5d6h8,10626
+aeiou/hpc.py,sha256=zRfeNCq338EI4Lk0zOH8859d79ZvIjZ36lrrzOt_d4U,3134
+aeiou/spectrofu.py,sha256=qpknDh0t0VbqTn90SKT2lbQNofuZwPQNYEYxS5fIfEU,3558
+aeiou/viz.py,sha256=xmcdYsEQGbRNs5ec2LwTVNwJ8Pb-bH4Uy0JvXM1u0oI,7165
+aeiou-0.0.6.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+aeiou-0.0.6.dist-info/METADATA,sha256=whjqFjiqCl6OcBjnyXH1zHue1FTZxU-KBO25nH0yMKY,1680
+aeiou-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aeiou-0.0.6.dist-info/entry_points.txt,sha256=saaRy95x9fSe1GdhATviSD1h3NHdPHawLPtiPcxTw0k,121
+aeiou-0.0.6.dist-info/top_level.txt,sha256=8c3X28peALEFZArYT2BVPmxL2L2zk4OUrW15GnfC_sA,6
+aeiou-0.0.6.dist-info/RECORD,,
