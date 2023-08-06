@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+genet/__init__.py
+genet/genet_print.py
+genet/main.py
+genet.egg-info/PKG-INFO
+genet.egg-info/SOURCES.txt
+genet.egg-info/dependency_links.txt
+genet.egg-info/requires.txt
+genet.egg-info/top_level.txt
+genet/analysis/__init__.py
+genet/analysis/functions.py
+genet/utils/__init__.py
