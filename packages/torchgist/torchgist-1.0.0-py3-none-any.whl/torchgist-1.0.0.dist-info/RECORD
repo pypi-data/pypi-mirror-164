@@ -1,0 +1,8 @@
+torchgist/__init__.py,sha256=r45Gf3zajhmaBoN4msdTCKhHsvPQqHQ5glp342SHlI8,28
+torchgist/models/__init__.py,sha256=YrwSw0R2dI1Gf8uJ9hYMlY3DJWKyao6NGKwubSSyuk0,24
+torchgist/models/models.py,sha256=LSP69qYx5NFHx_wz9JGUW_BaW4eWmgLQ26w1dO-bsSs,8191
+torchgist-1.0.0.dist-info/LICENSE,sha256=Rwx2NGCba3TARGeED9OsyoAH58klP9nX-zXmmop-GGM,1069
+torchgist-1.0.0.dist-info/METADATA,sha256=T8gQSMAl6Rh0MkvZ7WzJcu4pAIBd8NhYKarw2TLXaIU,483
+torchgist-1.0.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+torchgist-1.0.0.dist-info/top_level.txt,sha256=k1Fo6l_dP3VNmtNVCV8aniUzRK7pVCRyvJZ8DSoJbaY,10
+torchgist-1.0.0.dist-info/RECORD,,

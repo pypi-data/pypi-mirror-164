@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: torchgist
+Version: 1.0.0
+Summary: Pytorch GIST descriptor reimplementation.
+Home-page: https://github.com/ndo04343/torchgist
+Download-URL: https://github.com/ndo04343/torchgist/archive/master.zip
+Author: HEESUNG YANG
+Author-email: leibniz21c@gmail.com
+Keywords: gist,gist descriptor,gist feature,lmgist,computer vision
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: numpy
+
