@@ -1,0 +1,6 @@
+gene_dup_test/__init__.py,sha256=20-Td45hWNQaGXzAjQS8Wz8_V8Oz6rDSix17cXV8Hcc,38
+gene_dup_test/pypitest.py,sha256=3KlsPyxIlxbil3Lv3knYvZO0aprhQ4STT_qzs9D0WnE,3717
+pymodule1-1.0.0.1.dist-info/METADATA,sha256=iWJGDvfw6Q1OMOwzWD4tNO0ElT1DJPTqMqPj0TdTD8w,126
+pymodule1-1.0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pymodule1-1.0.0.1.dist-info/top_level.txt,sha256=LNShQofRH09nfxDipcwiKQhOf_yBsyNHfxTErSFtD2o,24
+pymodule1-1.0.0.1.dist-info/RECORD,,
