@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: serket
+Version: 0.0.0rc0
+Summary: JAX NN library.
+Home-page: https://github.com/ASEM000/serket
+Author: Mahmoud Asem
+Author-email: asem00@kaist.ac.kr
+License: MIT
+Keywords: python machine-learning pytorch jax
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+<div align="center">
+<img width="350px" src="assets/serketLogo.svg"></div>
+<h2 align="center">The JAX NN Library.</h2>
+
+
+![Tests](https://github.com/ASEM000/serket/actions/workflows/tests.yml/badge.svg)
+![pyver](https://img.shields.io/badge/python-3.7%203.8%203.9%203.10-red)
+![codestyle](https://img.shields.io/badge/codestyle-black-lightgrey)
+<!-- [![codecov](https://codecov.io/gh/ASEM000/serket/branch/main/graph/badge.svg?token=C6NXOK9EVS)](https://codecov.io/gh/ASEM000/serket) -->
+
+## 🛠️ Installation<a id="Installation"></a>
+
+```python
+pip install serket
+```
+
+
+## 📖 Description<a id="Description"></a>
+- `serket` aims to be the most intuitive and easy-to-use Neural network library in JAX.
+- `serket` is built on top of [`pytreeclass`](https://github.com/ASEM000/pytreeclass)
+- `serket` currently implements 
+  - `Linear`, `FNN`
+  - `Dropout`
+  - `Sequential`
+  - `Lambda`
+
+
+## ⏩ Quick Example <a id="QuickExample">
