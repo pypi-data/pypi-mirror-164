@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "stockcli"
+version = "0.2.0"
+description = "This is a CLI tool to retrieve data from yahoo finance"
+authors = ["hasindu sithmin <hasindusithmin64@gmail.com>"]
+readme = "README.md"
+repository="https://github.com/hasindusithmin/financecli.git"
+
+[tool.poetry.scripts]
+stockcli = "stockcli.main:app"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+typer = {extras = ["all"], version = "^0.6.1"}
+yfinance = "^0.1.74"
+httpx = "^0.23.0"
+mplfinance = "^0.12.9-beta.1"
+prettytable = "^3.3.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
