@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+matplotlib
+
+[docs]
+sphinx
+sphinx_rtd_theme
+pygments-enaml
+
+[test]
+pytest
+pytest-benchmark
