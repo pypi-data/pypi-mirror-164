@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+tele_upload/__inti__.py
+tele_upload/cli.py
+tele_upload/config.ini
+tele_upload/main.py
+tele_upload.egg-info/PKG-INFO
+tele_upload.egg-info/SOURCES.txt
+tele_upload.egg-info/dependency_links.txt
+tele_upload.egg-info/entry_points.txt
+tele_upload.egg-info/requires.txt
+tele_upload.egg-info/top_level.txt

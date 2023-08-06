@@ -1,0 +1,54 @@
+# Tele-Upload
+
+Upload files to your Telegram channel or group with your telegram bot
+
+ [![PyPI version](https://badge.fury.io/py/tele-upload.svg)](https://pypi.org/project/tele-upload/)
+ [![Downloads](https://pepy.tech/badge/tele-upload/month)](https://pepy.tech/project/tele-upload)
+ [![Downloads](https://static.pepy.tech/personalized-badge/tele-upload?period=total&units=international_system&left_color=green&right_color=blue&left_text=Total%20Downloads)](https://pepy.tech/project/tele-upload)
+ ![GitHub Contributors](https://img.shields.io/github/contributors/jakbin/tele-upload)
+ ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jakbin/tele-upload)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/jakbin/tele-upload)
+ ![Python 3.6](https://img.shields.io/badge/python-3.6-yellow.svg)
+
+
+## Features
+- Progress bar
+- You can change file name before upload on telegram
+
+Note : Bot can upload only 50 MB file
+
+
+## Installation
+
+```sh
+pip3 install tele-upload
+```
+
+## Usage 
+```sh
+tele-upload setup                   # setup your telegram credentials
+tele-upload reset                   # reset to default your telegram credentials
+tele-upload test                    # test telegram bot token
+tele-upload up {file_name}          # upload Telegram channel or group
+tele-upload d {url}                 # download and upload Telegram channel or group
+```
+
+# API
+
+The anonfile-upload client is also usable through an API (for test integration, automation, etc)
+
+### tele_upload.main.test_token(bot_token)
+
+```py
+from tele_upload.main import test_token
+
+test_token(bot_token)   # bot_token type str
+```
+
+### tele_upload.main.uploadd_file(bot_token, chat_id, file_name)
+
+```py
+from tele_upload.main import uploadd_file
+
+uploadd_file(bot_token, chat_id, file_name)    # all arguments must be str
+```
