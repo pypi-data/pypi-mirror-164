@@ -1,0 +1,5 @@
+# ninja log v5
+1	9774	1661313347466534011	/home/rakpong/EasyOCR/build/bdist.linux-x86_64/wheel/easyocr/DBNet/assets/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_conv_cuda_kernel.o	1bfa0e96f1f867a4
+0	15850	1661313353538465076	/home/rakpong/EasyOCR/build/bdist.linux-x86_64/wheel/easyocr/DBNet/assets/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_conv_cuda.o	11bf350d9f84d73b
+0	9295	1661313363414354215	/home/rakpong/EasyOCR/build/bdist.linux-x86_64/wheel/easyocr/DBNet/assets/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_pool_cuda_kernel.o	6c816bef2855cc84
+0	14433	1661313368550297172	/home/rakpong/EasyOCR/build/bdist.linux-x86_64/wheel/easyocr/DBNet/assets/ops/dcn/build/temp.linux-x86_64-3.8/src/deform_pool_cuda.o	b3b2e23a9b44a90c
