@@ -1,0 +1,11 @@
+ChangeLog.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+zhouyuqin_python_sdk_demo.egg-info/PKG-INFO
+zhouyuqin_python_sdk_demo.egg-info/SOURCES.txt
+zhouyuqin_python_sdk_demo.egg-info/dependency_links.txt
+zhouyuqin_python_sdk_demo.egg-info/requires.txt
+zhouyuqin_python_sdk_demo.egg-info/top_level.txt
+zhouyuqinsdkdemo/__init__.py
