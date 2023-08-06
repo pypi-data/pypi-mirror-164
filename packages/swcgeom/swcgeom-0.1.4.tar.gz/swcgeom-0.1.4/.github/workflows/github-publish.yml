@@ -1,0 +1,34 @@
+name: Release to GitHub
+
+on:
+  push:
+    tags:
+      - v*
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    uses: ./.github/workflows/build.yml
+
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Download release
+      uses: actions/download-artifact@v3
+      with:
+        name: release
+
+    - name: Pack release
+      run: tar czf swcgeom-${{ github.ref }}.tgz dist/ LICENSE README.md
+
+    - name: Create release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+        upload_url: ${{ github.event.release.upload_url }}
+        asset_path: ./swcgeom-${{ github.ref }}.tgz
+        asset_name: swcgeom-${{ github.ref }}.tgz
+        asset_content_type: application/gzip
