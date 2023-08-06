@@ -1,0 +1,2 @@
+[console_scripts]
+insider-scraper = insider.__main__:main
