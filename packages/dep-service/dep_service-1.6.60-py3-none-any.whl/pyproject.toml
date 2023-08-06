@@ -1,0 +1,72 @@
+[tool.poetry]
+name = "dep-service"
+version = "1.6.60"
+description = ""
+authors = ["everhide <i.tolkachnikov@gmail.com>"]
+
+packages = [
+    { include = "service" },
+    { include = "README.md" },
+    { include = ".gitignore" },
+    { include = "pyproject.toml" },
+]
+
+include = [
+    "README.md",
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = "^7.1.2"
+fire = "^0.4.0"
+Pygments = "^2.12.0"
+logging-json = "^0.2.1"
+PyYAML = "^6.0"
+dep-spec = "^0.60.0"
+
+flakehell = "^0.9.0"
+flake8 = "3.9.0"
+flake8-bandit = "^3.0.0"
+flake8-docstrings = "^1.6.0"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+pytest-mock = "^3.8.2"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.pytest.ini_options]
+addopts = '''
+    tests -s -vv -p no:warnings
+    --showlocals
+    --maxfail=1
+    --no-header
+    --disable-pytest-warnings
+'''
+
+asyncio_mode = 'auto'
+python_files = 'test_*.py tests_*.py'
+log_cli = 1
+log_level = 'ERROR'
+
+
+[tool.flakehell]
+exclude = [".venv", ".env"]
+format = "colored"
+max_line_length = 79
+show_source = true
+count = true
+
+[tool.flakehell.plugins]
+flake8-bandit = ["+*", "-S322"]
+flake8-docstrings = ["+*"]
+mccabe = ["+*"]
+pep8-naming = ["+*"]
+pycodestyle = ["+*"]
+pyflakes = ["+*"]
+pylint = ["+*"]
