@@ -1,0 +1,4 @@
+[console_scripts]
+dc = console_scripts.dc:console_script_entry
+mtx = console_scripts.main:console_script_entry
+
