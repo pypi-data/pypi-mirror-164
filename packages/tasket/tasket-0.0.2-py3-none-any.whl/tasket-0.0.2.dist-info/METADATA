@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: tasket
+Version: 0.0.2
+Summary: A command line app to track your to-dos, tasks, checklists, and other needful things.
+Home-page: https://gitlab.com/damiencalloway/tasket
+Author: Damien Calloway
+Author-email: cheeseshop@damiencalloway.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+License-File: LICENSE
+
+A command line app to track your to-dos, tasks, checklists, and other needful things.
+
