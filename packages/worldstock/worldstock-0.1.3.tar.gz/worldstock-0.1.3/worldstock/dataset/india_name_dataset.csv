@@ -1,0 +1,993 @@
+﻿symbol,longName,quoteType,currency,search_country,marketCap,Market_Cap,name
+RELIANCE.NS,Reliance Industries Limited,EQUITY,INR,india,"{'raw': 17984001146880, 'fmt': '17.984T', 'longFmt': '17,984,001,146,880'}",225171558057,"reliance,industries"
+TCS.NS,Tata Consultancy Services Limited,EQUITY,INR,india,"{'raw': 11883863080960, 'fmt': '11.884T', 'longFmt': '11,883,863,080,960'}",148793805329,"tata,consultancy"
+HDFCBANK.NS,HDFC Bank Limited,EQUITY,INR,india,"{'raw': 8253818273792, 'fmt': '8.254T', 'longFmt': '8,253,818,273,792'}",103343249672,hdfc
+INFY.NS,Infosys Limited,EQUITY,INR,india,"{'raw': 6457485950976, 'fmt': '6.457T', 'longFmt': '6,457,485,950,976'}",80851983985,infosys
+ICICIBANK.NS,ICICI Bank Limited,EQUITY,INR,india,"{'raw': 6129340907520, 'fmt': '6.129T', 'longFmt': '6,129,340,907,520'}",76743391570,icici
+HINDUNILVR.NS,Hindustan Unilever Limited,EQUITY,INR,india,"{'raw': 6119859159040, 'fmt': '6.12T', 'longFmt': '6,119,859,159,040'}",76624673824,unilever
+SBIN.NS,State Bank of India,EQUITY,INR,india,"{'raw': 4693452390400, 'fmt': '4.693T', 'longFmt': '4,693,452,390,400'}",58765120107,"state,bank"
+HDFC.NS,Housing Development Finance Corporation Limited,EQUITY,INR,india,"{'raw': 4469503819776, 'fmt': '4.47T', 'longFmt': '4,469,503,819,776'}",55961136269,"housing,development"
+BHARTIARTL.NS,Bharti Airtel Limited,EQUITY,INR,india,"{'raw': 4436457947136, 'fmt': '4.436T', 'longFmt': '4,436,457,947,136'}",55547380143,airtel
+BAJFINANCE.NS,Bajaj Finance Limited,EQUITY,INR,india,"{'raw': 4334662713344, 'fmt': '4.335T', 'longFmt': '4,334,662,713,344'}",54272836664,"bajaj,finance"
+LICI.NS,Life Insurance Corporation of India,EQUITY,INR,india,"{'raw': 4308278444032, 'fmt': '4.308T', 'longFmt': '4,308,278,444,032'}",53942488207,"life,insurance"
+ADANITRANS.NS,Adani Transmission Limited,EQUITY,INR,india,"{'raw': 4142483898368, 'fmt': '4.142T', 'longFmt': '4,142,483,898,368'}",51866631124,adani
+ITC.NS,ITC Limited,EQUITY,INR,india,"{'raw': 3904382959616, 'fmt': '3.904T', 'longFmt': '3,904,382,959,616'}",48885450300,"itc,limited"
+KOTAKBANK.NS,Kotak Mahindra Bank Limited,EQUITY,INR,india,"{'raw': 3775396315136, 'fmt': '3.775T', 'longFmt': '3,775,396,315,136'}",47270452421,kotak
+ASIANPAINT.NS,Asian Paints Limited,EQUITY,INR,india,"{'raw': 3253311897600, 'fmt': '3.253T', 'longFmt': '3,253,311,897,600'}",40733611105,"asian,paints"
+DMART.NS,Avenue Supermarts Limited,EQUITY,INR,india,"{'raw': 2827507728384, 'fmt': '2.828T', 'longFmt': '2,827,507,728,384'}",35402262011,supermarts
+LT.NS,Larsen & Toubro Limited,EQUITY,INR,india,"{'raw': 2677097889792, 'fmt': '2.677T', 'longFmt': '2,677,097,889,792'}",33519031610,toubro
+MARUTI.NS,Maruti Suzuki India Limited,EQUITY,INR,india,"{'raw': 2666158096384, 'fmt': '2.666T', 'longFmt': '2,666,158,096,384'}",33382058179,maruti
+BAJAJFINSV.NS,Bajaj Finserv Ltd.,EQUITY,INR,india,"{'raw': 2620161261568, 'fmt': '2.62T', 'longFmt': '2,620,161,261,568'}",32806147464,finserv
+HCLTECH.NS,HCL Technologies Limited,EQUITY,INR,india,"{'raw': 2576086728704, 'fmt': '2.576T', 'longFmt': '2,576,086,728,704'}",32254305238,"hcl,technologies"
+AXISBANK.NS,Axis Bank Limited,EQUITY,INR,india,"{'raw': 2315747065856, 'fmt': '2.316T', 'longFmt': '2,315,747,065,856'}",28994680918,"axis,bank"
+WIPRO.NS,Wipro Limited,EQUITY,INR,india,"{'raw': 2295484645376, 'fmt': '2.295T', 'longFmt': '2,295,484,645,376'}",28740982047,wipro
+TITAN.NS,Titan Company Limited,EQUITY,INR,india,"{'raw': 2211563700224, 'fmt': '2.212T', 'longFmt': '2,211,563,700,224'}",27690236452,"titan,company"
+SUNPHARMA.NS,Sun Pharmaceutical Industries Limited,EQUITY,INR,india,"{'raw': 2122687315968, 'fmt': '2.123T', 'longFmt': '2,122,687,315,968'}",26577445491,"sun,pharmaceutical"
+NESTLEIND.NS,Nestlé India Limited,EQUITY,INR,india,"{'raw': 1900353421312, 'fmt': '1.9T', 'longFmt': '1,900,353,421,312'}",23793678461,"nestle,india"
+ULTRACEMCO.NS,UltraTech Cement Limited,EQUITY,INR,india,"{'raw': 1882285146112, 'fmt': '1.882T', 'longFmt': '1,882,285,146,112'}",23567451736,ultratech
+ONGC.NS,Oil and Natural Gas Corporation Limited,EQUITY,INR,india,"{'raw': 1734823247872, 'fmt': '1.735T', 'longFmt': '1,734,823,247,872'}",21721131492,"oil,and"
+TATAMOTORS.NS,Tata Motors Limited,EQUITY,INR,india,"{'raw': 1665946484736, 'fmt': '1.666T', 'longFmt': '1,665,946,484,736'}",20858748981,"tata,motors"
+POWERGRID.NS,Power Grid Corporation of India Limited,EQUITY,INR,india,"{'raw': 1595634221056, 'fmt': '1.596T', 'longFmt': '1,595,634,221,056'}",19978393056,"power,grid"
+JSWSTEEL.NS,JSW Steel Limited,EQUITY,INR,india,"{'raw': 1583788457984, 'fmt': '1.584T', 'longFmt': '1,583,788,457,984'}",19830076288,"jsw,steel"
+M&M.NS,Mahindra & Mahindra Limited,EQUITY,INR,india,"{'raw': 1575681130496, 'fmt': '1.576T', 'longFmt': '1,575,681,130,496'}",19728567200,mahindra
+NTPC.NS,NTPC Limited,EQUITY,INR,india,"{'raw': 1551476588544, 'fmt': '1.551T', 'longFmt': '1,551,476,588,544'}",19425510367,ntpc
+COALINDIA.NS,Coal India Limited,EQUITY,INR,india,"{'raw': 1395242041344, 'fmt': '1.395T', 'longFmt': '1,395,242,041,344'}",17469350771,"coal,india"
+PIDILITIND.NS,Pidilite Industries Limited,EQUITY,INR,india,"{'raw': 1368384733184, 'fmt': '1.368T', 'longFmt': '1,368,384,733,184'}",17133079556,pidilite
+TATASTEEL.NS,Tata Steel Limited,EQUITY,INR,india,"{'raw': 1309715595264, 'fmt': '1.31T', 'longFmt': '1,309,715,595,264'}",16398503246,"tata,steel"
+SBILIFE.NS,SBI Life Insurance Company Limited,EQUITY,INR,india,"{'raw': 1308430565376, 'fmt': '1.308T', 'longFmt': '1,308,430,565,376'}",16382413824,sbi
+HINDZINC.NS,Hindustan Zinc Limited,EQUITY,INR,india,"{'raw': 1197878149120, 'fmt': '1.198T', 'longFmt': '1,197,878,149,120'}",14998224644,"hindustan,zinc"
+BAJAJ-AUTO.NS,Bajaj Auto Limited,EQUITY,INR,india,"{'raw': 1163174871040, 'fmt': '1.163T', 'longFmt': '1,163,174,871,040'}",14563716709,"bajaj,auto"
+GRASIM.NS,Grasim Industries Limited,EQUITY,INR,india,"{'raw': 1081677381632, 'fmt': '1.082T', 'longFmt': '1,081,677,381,632'}",13543314379,grasim
+DABUR.NS,Dabur India Limited,EQUITY,INR,india,"{'raw': 1035310399488, 'fmt': '1.035T', 'longFmt': '1,035,310,399,488'}",12962769175,dabur
+SIEMENS.NS,Siemens Limited,EQUITY,INR,india,"{'raw': 1034510794752, 'fmt': '1.035T', 'longFmt': '1,034,510,794,752'}",12952757597,"siemens,limited"
+IOC.NS,Indian Oil Corporation Limited,EQUITY,INR,india,"{'raw': 1010371854336, 'fmt': '1.01T', 'longFmt': '1,010,371,854,336'}",12650522139,"indian,oil"
+VEDL.NS,Vedanta Limited,EQUITY,INR,india,"{'raw': 1003383685120, 'fmt': '1.003T', 'longFmt': '1,003,383,685,120'}",12563025650,"vedanta,limited"
+HINDALCO.NS,Hindalco Industries Limited,EQUITY,INR,india,"{'raw': 972320342016, 'fmt': '972.32B', 'longFmt': '972,320,342,016'}",12174092103,hindalco
+EICHERMOT.NS,Eicher Motors Limited,EQUITY,INR,india,"{'raw': 957096001536, 'fmt': '957.096B', 'longFmt': '957,096,001,536'}",11983473317,eicher
+DLF.NS,DLF Limited,EQUITY,INR,india,"{'raw': 947548651520, 'fmt': '947.549B', 'longFmt': '947,548,651,520'}",11863934196,dlf
+GODREJCP.NS,Godrej Consumer Products Limited,EQUITY,INR,india,"{'raw': 945616781312, 'fmt': '945.617B', 'longFmt': '945,616,781,312'}",11839745907,godrej
+DIVISLAB.NS,Divi's Laboratories Limited,EQUITY,INR,india,"{'raw': 938273603584, 'fmt': '938.274B', 'longFmt': '938,273,603,584'}",11747804477,divi's
+BRITANNIA.NS,Britannia Industries Limited,EQUITY,INR,india,"{'raw': 877963837440, 'fmt': '877.964B', 'longFmt': '877,963,837,440'}",10992686420,"britannia,industries"
+INDUSINDBK.NS,IndusInd Bank Limited,EQUITY,INR,india,"{'raw': 854031400960, 'fmt': '854.031B', 'longFmt': '854,031,400,960'}",10693036528,indusind
+DRREDDY.BO,Dr. Reddy's Laboratories Limited,EQUITY,INR,india,"{'raw': 704357466112, 'fmt': '704.357B', 'longFmt': '704,357,466,112'}",8819020126,reddy's
+CIPLA.NS,Cipla Limited,EQUITY,INR,india,"{'raw': 831851462656, 'fmt': '831.851B', 'longFmt': '831,851,462,656'}",10415329068,cipla
+HAVELLS.NS,Havells India Limited,EQUITY,INR,india,"{'raw': 823262904320, 'fmt': '823.263B', 'longFmt': '823,262,904,320'}",10307794652,havells
+AMBUJACEM.NS,Ambuja Cements Limited,EQUITY,INR,india,"{'raw': 794260013056, 'fmt': '794.26B', 'longFmt': '794,260,013,056'}",9944659321,ambuja
+SHREECEM.NS,Shree Cement Limited,EQUITY,INR,india,"{'raw': 787499253760, 'fmt': '787.499B', 'longFmt': '787,499,253,760'}",9860010155,"shree,cement"
+INDIGO.NS,InterGlobe Aviation Limited,EQUITY,INR,india,"{'raw': 765666656256, 'fmt': '765.667B', 'longFmt': '765,666,656,256'}",9586651631,interglobe
+BPCL.BO,Bharat Petroleum Corporation Limited,EQUITY,INR,india,"{'raw': 724746436608, 'fmt': '724.746B', 'longFmt': '724,746,436,608'}",9074303487,"bharat,petroleum"
+TATACONSUM.NS,Tata Consumer Products Limited,EQUITY,INR,india,"{'raw': 746219503616, 'fmt': '746.22B', 'longFmt': '746,219,503,616'}",9343160451,"tata,consumer"
+HAL.NS,Hindustan Aeronautics Limited,EQUITY,INR,india,"{'raw': 744160362496, 'fmt': '744.16B', 'longFmt': '744,160,362,496'}",9317378646,"hindustan,aeronautics"
+TATAPOWER.NS,The Tata Power Company Limited,EQUITY,INR,india,"{'raw': 740844371968, 'fmt': '740.844B', 'longFmt': '740,844,371,968'}",9275860257,"tata,power"
+BEL.NS,Bharat Electronics Limited,EQUITY,INR,india,"{'raw': 722936332288, 'fmt': '722.936B', 'longFmt': '722,936,332,288'}",9051639787,"bharat,electronics"
+SRF.NS,SRF Limited,EQUITY,INR,india,"{'raw': 714384211968, 'fmt': '714.384B', 'longFmt': '714,384,211,968'}",8944561599,srf
+MARICO.NS,Marico Limited,EQUITY,INR,india,"{'raw': 675103440896, 'fmt': '675.103B', 'longFmt': '675,103,440,896'}",8452740432,marico
+VBL.NS,Varun Beverages Limited,EQUITY,INR,india,"{'raw': 668484435968, 'fmt': '668.484B', 'longFmt': '668,484,435,968'}",8369866124,varun
+ABB.NS,ABB India Limited,EQUITY,INR,india,"{'raw': 655007612928, 'fmt': '655.008B', 'longFmt': '655,007,612,928'}",8201127409,"abb,india"
+NYKAA.NS,FSN E-Commerce Ventures Limited,EQUITY,INR,india,"{'raw': 651377901568, 'fmt': '651.378B', 'longFmt': '651,377,901,568'}",8155681029,fsn
+CHOLAFIN.NS,Cholamandalam Investment and Finance Company Limited,EQUITY,INR,india,"{'raw': 650666049536, 'fmt': '650.666B', 'longFmt': '650,666,049,536'}",8146768172,cholamandalam
+BERGEPAINT.NS,Berger Paints India Limited,EQUITY,INR,india,"{'raw': 643082223616, 'fmt': '643.082B', 'longFmt': '643,082,223,616'}",8051813668,"berger,paints"
+HEROMOTOCO.BO,Hero MotoCorp Limited,EQUITY,INR,india,"{'raw': 559945613312, 'fmt': '559.946B', 'longFmt': '559,945,613,312'}",7010888463,motocorp
+BATAINDIA.NS,Bata India Limited,EQUITY,INR,india,"{'raw': 240270245888, 'fmt': '240.27B', 'longFmt': '240,270,245,888'}",3008341980,"bata,india"
+TATAELXSI.NS,Tata Elxsi Limited,EQUITY,INR,india,"{'raw': 608437338112, 'fmt': '608.437B', 'longFmt': '608,437,338,112'}",7618036847,elxsi
+APOLLOHOSP.NS,Apollo Hospitals Enterprise Limited,EQUITY,INR,india,"{'raw': 604968189952, 'fmt': '604.968B', 'longFmt': '604,968,189,952'}",7574600824,"apollo,hospitals"
+BAJAJHLDNG.NS,Bajaj Holdings & Investment Limited,EQUITY,INR,india,"{'raw': 601521782784, 'fmt': '601.522B', 'longFmt': '601,521,782,784'}",7531449532,"bajaj,holdings"
+MCDOWELL-N.NS,United Spirits Limited,EQUITY,INR,india,"{'raw': 593885528064, 'fmt': '593.886B', 'longFmt': '593,885,528,064'}",7435838586,"united,spirits"
+GAIL.NS,GAIL (India) Limited,EQUITY,INR,india,"{'raw': 586286497792, 'fmt': '586.286B', 'longFmt': '586,286,497,792'}",7340693714,"gail,india"
+NAUKRI.NS,Info Edge (India) Limited,EQUITY,INR,india,"{'raw': 583265615872, 'fmt': '583.266B', 'longFmt': '583,265,615,872'}",7302870279,"info,edge"
+UPL.NS,UPL Limited,EQUITY,INR,india,"{'raw': 581683707904, 'fmt': '581.684B', 'longFmt': '581,683,707,904'}",7283063748,upl
+IRCTC.NS,Indian Railway Catering & Tourism Corporation Limited,EQUITY,INR,india,"{'raw': 580639981568, 'fmt': '580.64B', 'longFmt': '580,639,981,568'}",7269995606,"indian,railway"
+MOTHERSON.NS,Samvardhana Motherson International Limited,EQUITY,INR,india,"{'raw': 567637704704, 'fmt': '567.638B', 'longFmt': '567,637,704,704'}",7107198522,samvardhana
+PAGEIND.NS,Page Industries Limited,EQUITY,INR,india,"{'raw': 555909840896, 'fmt': '555.91B', 'longFmt': '555,909,840,896'}",6960357931,"page,industries"
+MINDTREE.NS,Mindtree Limited,EQUITY,INR,india,"{'raw': 550832963584, 'fmt': '550.833B', 'longFmt': '550,832,963,584'}",6896792077,mindtree
+INDUSTOWER.NS,Indus Towers Limited,EQUITY,INR,india,"{'raw': 537775276032, 'fmt': '537.775B', 'longFmt': '537,775,276,032'}",6733301215,"indus,towers"
+ZOMATO.NS,Zomato Limited,EQUITY,INR,india,"{'raw': 531731644416, 'fmt': '531.732B', 'longFmt': '531,731,644,416'}",6657630961,zomato
+JSWENERGY.NS,JSW Energy Limited,EQUITY,INR,india,"{'raw': 532172505088, 'fmt': '532.173B', 'longFmt': '532,172,505,088'}",6663150827,"jsw,energy"
+LODHA.NS,Macrotech Developers Limited,EQUITY,INR,india,"{'raw': 523417026560, 'fmt': '523.417B', 'longFmt': '523,417,026,560'}",6553526460,macrotech
+TORNTPHARM.NS,Torrent Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 522559062016, 'fmt': '522.559B', 'longFmt': '522,559,062,016'}",6542784178,"torrent,pharmaceuticals"
+PIIND.NS,PI Industries Limited,EQUITY,INR,india,"{'raw': 518860374016, 'fmt': '518.86B', 'longFmt': '518,860,374,016'}",6496474164,"pi,industries"
+BOSCHLTD.NS,Bosch Limited,EQUITY,INR,india,"{'raw': 510681677824, 'fmt': '510.682B', 'longFmt': '510,681,677,824'}",6394071493,"bosch,limited"
+PAYTM.NS,One97 Communications Limited,EQUITY,INR,india,"{'raw': 502748774400, 'fmt': '502.749B', 'longFmt': '502,748,774,400'}",6294746309,one97
+BIOCON.BO,Biocon Limited,EQUITY,INR,india,"{'raw': 369120018432, 'fmt': '369.12B', 'longFmt': '369,120,018,432'}",4621626132,biocon
+PEL.NS,Piramal Enterprises Limited,EQUITY,INR,india,"{'raw': 485427511296, 'fmt': '485.428B', 'longFmt': '485,427,511,296'}",6077872668,piramal
+TRENT.NS,Trent Limited,EQUITY,INR,india,"{'raw': 484884283392, 'fmt': '484.884B', 'longFmt': '484,884,283,392'}",6071071096,"trent,limited"
+BANDHANBNK.NS,Bandhan Bank Limited,EQUITY,INR,india,"{'raw': 481873788928, 'fmt': '481.874B', 'longFmt': '481,873,788,928'}",6033377720,bandhan
+MUTHOOTFIN.BO,Muthoot Finance Limited,EQUITY,INR,india,"{'raw': 420849516544, 'fmt': '420.85B', 'longFmt': '420,849,516,544'}",5269313573,muthoot
+IDBI.NS,IDBI Bank Limited,EQUITY,INR,india,"{'raw': 470955130880, 'fmt': '470.955B', 'longFmt': '470,955,130,880'}",5896668918,idbi
+SCHAEFFLER.NS,Schaeffler India Limited,EQUITY,INR,india,"{'raw': 469537226752, 'fmt': '469.537B', 'longFmt': '469,537,226,752'}",5878915823,schaeffler
+PGHH.NS,Procter & Gamble Hygiene and Health Care Limited,EQUITY,INR,india,"{'raw': 461178896384, 'fmt': '461.179B', 'longFmt': '461,178,896,384'}",5774264013,"procter,&"
+AUROPHARMA.BO,Aurobindo Pharma Limited,EQUITY,INR,india,"{'raw': 329192243200, 'fmt': '329.192B', 'longFmt': '329,192,243,200'}",4121704046,aurobindo
+TVSMOTOR.NS,TVS Motor Company Limited,EQUITY,INR,india,"{'raw': 452282843136, 'fmt': '452.283B', 'longFmt': '452,282,843,136'}",5662879558,tvs
+LUPIN.BO,Lupin Limited,EQUITY,INR,india,"{'raw': 304441327616, 'fmt': '304.441B', 'longFmt': '304,441,327,616'}",3811806255,"lupin,limited"
+AUBANK.NS,AU Small Finance Bank Limited,EQUITY,INR,india,"{'raw': 440883085312, 'fmt': '440.883B', 'longFmt': '440,883,085,312'}",5520147070,"au,small"
+ASHOKLEY.NS,Ashok Leyland Limited,EQUITY,INR,india,"{'raw': 437981052928, 'fmt': '437.981B', 'longFmt': '437,981,052,928'}",5483811710,"ashok,leyland"
+CANBK.NS,Canara Bank,EQUITY,INR,india,"{'raw': 437386772480, 'fmt': '437.387B', 'longFmt': '437,386,772,480'}",5476370927,"canara,bank"
+ACC.NS,ACC Limited,EQUITY,INR,india,"{'raw': 429910196224, 'fmt': '429.91B', 'longFmt': '429,910,196,224'}",5382759260,"acc,limited"
+COLPAL.NS,Colgate-Palmolive (India) Limited,EQUITY,INR,india,"{'raw': 428812107776, 'fmt': '428.812B', 'longFmt': '428,812,107,776'}",5369010468,colgate-palmolive
+UBL.NS,United Breweries Limited,EQUITY,INR,india,"{'raw': 427542872064, 'fmt': '427.543B', 'longFmt': '427,542,872,064'}",5353118800,"united,breweries"
+ASTRAL.NS,Astral Limited,EQUITY,INR,india,"{'raw': 427600642048, 'fmt': '427.601B', 'longFmt': '427,600,642,048'}",5353842118,"astral,limited"
+STARHEALTH.NS,Star Health and Allied Insurance Company Limited,EQUITY,INR,india,"{'raw': 425421012992, 'fmt': '425.421B', 'longFmt': '425,421,012,992'}",5326551724,"star,health"
+YESBANK.NS,Yes Bank Limited,EQUITY,INR,india,"{'raw': 419671244800, 'fmt': '419.671B', 'longFmt': '419,671,244,800'}",5254560833,"yes,bank"
+MPHASIS.NS,Mphasis Limited,EQUITY,INR,india,"{'raw': 415579209728, 'fmt': '415.579B', 'longFmt': '415,579,209,728'}",5203325855,mphasis
+JINDALSTEL.NS,Jindal Steel & Power Limited,EQUITY,INR,india,"{'raw': 415584649216, 'fmt': '415.585B', 'longFmt': '415,584,649,216'}",5203393961,jindal
+PATANJALI.NS,Patanjali Foods Limited,EQUITY,INR,india,"{'raw': 415368511488, 'fmt': '415.369B', 'longFmt': '415,368,511,488'}",5200687774,patanjali
+DELHIVERY.NS,Delhivery Limited,EQUITY,INR,india,"{'raw': 410912292864, 'fmt': '410.912B', 'longFmt': '410,912,292,864'}",5144892977,delhivery
+BALKRISIND.NS,Balkrishna Industries Limited,EQUITY,INR,india,"{'raw': 405008777216, 'fmt': '405.009B', 'longFmt': '405,008,777,216'}",5070977067,balkrishna
+TIINDIA.NS,Tube Investments of India Limited,EQUITY,INR,india,"{'raw': 402986401792, 'fmt': '402.986B', 'longFmt': '402,986,401,792'}",5045655592,"tube,investments"
+ABBOTINDIA.NS,Abbott India Limited,EQUITY,INR,india,"{'raw': 401696751616, 'fmt': '401.697B', 'longFmt': '401,696,751,616'}",5029508321,"abbott,india"
+CONCOR.NS,Container Corporation of India Limited,EQUITY,INR,india,"{'raw': 432088023040, 'fmt': '432.088B', 'longFmt': '432,088,023,040'}",5410027088,"container,corporation"
+GLAND.NS,Gland Pharma Limited,EQUITY,INR,india,"{'raw': 394309959680, 'fmt': '394.31B', 'longFmt': '394,309,959,680'}",4937020813,"gland,pharma"
+ZYDUSLIFE.NS,Zydus Lifesciences Limited,EQUITY,INR,india,"{'raw': 393749594112, 'fmt': '393.75B', 'longFmt': '393,749,594,112'}",4930004667,zydus
+JUBLFOOD.NS,Jubilant FoodWorks Limited,EQUITY,INR,india,"{'raw': 390892191744, 'fmt': '390.892B', 'longFmt': '390,892,191,744'}",4894228104,foodworks
+INDHOTEL.NS,The Indian Hotels Company Limited,EQUITY,INR,india,"{'raw': 389899812864, 'fmt': '389.9B', 'longFmt': '389,899,812,864'}",4881802866,"indian,hotels"
+LTTS.NS,L&T Technology Services Limited,EQUITY,INR,india,"{'raw': 390193545216, 'fmt': '390.194B', 'longFmt': '390,193,545,216'}",4885480589,l&t
+PNB.NS,Punjab National Bank,EQUITY,INR,india,"{'raw': 387587211264, 'fmt': '387.587B', 'longFmt': '387,587,211,264'}",4852847568,"punjab,national"
+HONAUT.NS,Honeywell Automation India Limited,EQUITY,INR,india,"{'raw': 382396628992, 'fmt': '382.397B', 'longFmt': '382,396,628,992'}",4787858054,"honeywell,automation"
+FLUOROCHEM.NS,Gujarat Fluorochemicals Limited,EQUITY,INR,india,"{'raw': 370112102400, 'fmt': '370.112B', 'longFmt': '370,112,102,400'}",4634047677,fluorochemicals
+MAXHEALTH.NS,Max Healthcare Institute Limited,EQUITY,INR,india,"{'raw': 367880503296, 'fmt': '367.881B', 'longFmt': '367,880,503,296'}",4606106584,"max,healthcare"
+MRF.NS,MRF Limited,EQUITY,INR,india,"{'raw': 365728137216, 'fmt': '365.728B', 'longFmt': '365,728,137,216'}",4579157541,"mrf,limited"
+POLYCAB.NS,Polycab India Limited,EQUITY,INR,india,"{'raw': 362136076288, 'fmt': '362.136B', 'longFmt': '362,136,076,288'}",4534182569,polycab
+SRTRANSFIN.NS,Shriram Transport Finance Company Limited,EQUITY,INR,india,"{'raw': 361739321344, 'fmt': '361.739B', 'longFmt': '361,739,321,344'}",4529214935,shriram
+NMDC.NS,NMDC Limited,EQUITY,INR,india,"{'raw': 360904622080, 'fmt': '360.905B', 'longFmt': '360,904,622,080'}",4518763950,nmdc
+OBEROIRLTY.NS,Oberoi Realty Limited,EQUITY,INR,india,"{'raw': 358766084096, 'fmt': '358.766B', 'longFmt': '358,766,084,096'}",4491988043,oberoi
+NHPC.NS,NHPC Limited,EQUITY,INR,india,"{'raw': 352579485696, 'fmt': '352.579B', 'longFmt': '352,579,485,696'}",4414527750,nhpc
+PETRONET.BO,Petronet LNG Limited,EQUITY,INR,india,"{'raw': 323849977856, 'fmt': '323.85B', 'longFmt': '323,849,977,856'}",4054815360,petronet
+CGPOWER.NS,CG Power and Industrial Solutions Limited,EQUITY,INR,india,"{'raw': 348250570752, 'fmt': '348.251B', 'longFmt': '348,250,570,752'}",4360326880,"cg,power"
+ALKEM.NS,Alkem Laboratories Limited,EQUITY,INR,india,"{'raw': 347324350464, 'fmt': '347.324B', 'longFmt': '347,324,350,464'}",4348729990,alkem
+HINDPETRO.NS,Hindustan Petroleum Corporation Limited,EQUITY,INR,india,"{'raw': 341941485568, 'fmt': '341.941B', 'longFmt': '341,941,485,568'}",4281332971,"hindustan,petroleum"
+BHARATFORG.NS,Bharat Forge Limited,EQUITY,INR,india,"{'raw': 340903165952, 'fmt': '340.903B', 'longFmt': '340,903,165,952'}",4268332524,"bharat,forge"
+BANKBARODA.NS,Bank of Baroda,EQUITY,INR,india,"{'raw': 657796956160, 'fmt': '657.797B', 'longFmt': '657,796,956,160'}",8236051827,"bank,of,baroda"
+CUMMINSIND.NS,Cummins India Limited,EQUITY,INR,india,"{'raw': 336215900160, 'fmt': '336.216B', 'longFmt': '336,215,900,160'}",4209644865,"cummins,india"
+IOB.NS,Indian Overseas Bank,EQUITY,INR,india,"{'raw': 337407868928, 'fmt': '337.408B', 'longFmt': '337,407,868,928'}",4224569100,"indian,overseas"
+VOLTAS.NS,Voltas Limited,EQUITY,INR,india,"{'raw': 333548617728, 'fmt': '333.549B', 'longFmt': '333,548,617,728'}",4176248729,voltas
+SAIL.NS,Steel Authority of India Limited,EQUITY,INR,india,"{'raw': 333127254016, 'fmt': '333.127B', 'longFmt': '333,127,254,016'}",4170972977,"steel,authority"
+TATACOMM.NS,Tata Communications Limited,EQUITY,INR,india,"{'raw': 331214159872, 'fmt': '331.214B', 'longFmt': '331,214,159,872'}",4147019777,"tata,communications"
+GUJGASLTD.NS,Gujarat Gas Limited,EQUITY,INR,india,"{'raw': 329182609408, 'fmt': '329.183B', 'longFmt': '329,182,609,408'}",4121583425,"gujarat,gas"
+UNOMINDA.NS,UNO Minda Limited,EQUITY,INR,india,"{'raw': 324554358784, 'fmt': '324.554B', 'longFmt': '324,554,358,784'}",4063634674,"uno,minda"
+PFC.NS,Power Finance Corporation Limited,EQUITY,INR,india,"{'raw': 318393614336, 'fmt': '318.394B', 'longFmt': '318,393,614,336'}",3986498089,"power,finance"
+SOLARINDS.NS,Solar Industries India Limited,EQUITY,INR,india,"{'raw': 317262790656, 'fmt': '317.263B', 'longFmt': '317,262,790,656'}",3972339431,"solar,industries"
+LAURUSLABS.NS,Laurus Labs Limited,EQUITY,INR,india,"{'raw': 311372677120, 'fmt': '311.373B', 'longFmt': '311,372,677,120'}",3898591324,"laurus,labs"
+IDFCFIRSTB.NS,IDFC First Bank Limited,EQUITY,INR,india,"{'raw': 309458927616, 'fmt': '309.459B', 'longFmt': '309,458,927,616'}",3874629917,idfc
+MANYAVAR.NS,Vedant Fashions Limited,EQUITY,INR,india,"{'raw': 309179383808, 'fmt': '309.179B', 'longFmt': '309,179,383,808'}",3871129844,vedant
+SONACOMS.NS,Sona BLW Precision Forgings Limited,EQUITY,INR,india,"{'raw': 307165462528, 'fmt': '307.165B', 'longFmt': '307,165,462,528'}",3845914221,blw
+IDEA.NS,Vodafone Idea Limited,EQUITY,INR,india,"{'raw': 301916717056, 'fmt': '301.917B', 'longFmt': '301,916,717,056'}",3780196466,vodafone
+COROMANDEL.NS,Coromandel International Limited,EQUITY,INR,india,"{'raw': 299020189696, 'fmt': '299.02B', 'longFmt': '299,020,189,696'}",3743930032,"coromandel,international"
+IGL.NS,Indraprastha Gas Limited,EQUITY,INR,india,"{'raw': 295750434816, 'fmt': '295.75B', 'longFmt': '295,750,434,816'}",3702990544,indraprastha
+DALBHARAT.NS,Dalmia Bharat Limited,EQUITY,INR,india,"{'raw': 290848768000, 'fmt': '290.849B', 'longFmt': '290,848,768,000'}",3641618442,dalmia
+AARTIIND.NS,Aarti Industries Limited,EQUITY,INR,india,"{'raw': 289534050304, 'fmt': '289.534B', 'longFmt': '289,534,050,304'}",3625157309,aarti
+UNIONBANK.NS,Union Bank of India,EQUITY,INR,india,"{'raw': 288084721664, 'fmt': '288.085B', 'longFmt': '288,084,721,664'}",3607010759,"union,bank"
+RECLTD.NS,REC Limited,EQUITY,INR,india,"{'raw': 285177741312, 'fmt': '285.178B', 'longFmt': '285,177,741,312'}",3570613447,"rec,limited"
+OFSS.BO,Oracle Financial Services Software Limited,EQUITY,INR,india,"{'raw': 279683072000, 'fmt': '279.683B', 'longFmt': '279,683,072,000'}",3501816562,"oracle,financial"
+LINDEINDIA.NS,Linde India Limited,EQUITY,INR,india,"{'raw': 284094922752, 'fmt': '284.095B', 'longFmt': '284,094,922,752'}",3557055844,linde
+MFSL.NS,Max Financial Services Limited,EQUITY,INR,india,"{'raw': 281942917120, 'fmt': '281.943B', 'longFmt': '281,942,917,120'}",3530111314,"max,financial"
+TATACHEM.NS,Tata Chemicals Limited,EQUITY,INR,india,"{'raw': 281454444544, 'fmt': '281.454B', 'longFmt': '281,454,444,544'}",3523995315,"tata,chemicals"
+THERMAX.NS,Thermax Limited,EQUITY,INR,india,"{'raw': 279194435584, 'fmt': '279.194B', 'longFmt': '279,194,435,584'}",3495698512,thermax
+ABFRL.NS,Aditya Birla Fashion and Retail Limited,EQUITY,INR,india,"{'raw': 279075094528, 'fmt': '279.075B', 'longFmt': '279,075,094,528'}",3494204283,birla
+KANSAINER.BO,Kansai Nerolac Paints Limited,EQUITY,INR,india,"{'raw': 264070807552, 'fmt': '264.071B', 'longFmt': '264,070,807,552'}",3306340712,nerolac
+TORNTPOWER.NS,Torrent Power Limited,EQUITY,INR,india,"{'raw': 277219868672, 'fmt': '277.22B', 'longFmt': '277,219,868,672'}",3470975632,"torrent,power"
+IPCALAB.BO,Ipca Laboratories Limited,EQUITY,INR,india,"{'raw': 115485728768, 'fmt': '115.486B', 'longFmt': '115,485,728,768'}",1445957507,ipca
+PERSISTENT.NS,Persistent Systems Limited,EQUITY,INR,india,"{'raw': 275084148736, 'fmt': '275.084B', 'longFmt': '275,084,148,736'}",3444235009,"persistent,systems"
+ATUL.NS,Atul Ltd,EQUITY,INR,india,"{'raw': 272708976640, 'fmt': '272.709B', 'longFmt': '272,708,976,640'}",3414496288,"atul,ltd"
+DEEPAKNTR.NS,Deepak Nitrite Limited,EQUITY,INR,india,"{'raw': 270091599872, 'fmt': '270.092B', 'longFmt': '270,091,599,872'}",3381725004,deepak
+WHIRLPOOL.BO,Whirlpool of India Limited,EQUITY,INR,india,"{'raw': 233063858176, 'fmt': '233.064B', 'longFmt': '233,063,858,176'}",2918113252,"whirlpool,of"
+CROMPTON.NS,Crompton Greaves Consumer Electricals Limited,EQUITY,INR,india,"{'raw': 260979245056, 'fmt': '260.979B', 'longFmt': '260,979,245,056'}",3267632311,electricals
+APLAPOLLO.NS,APL Apollo Tubes Limited,EQUITY,INR,india,"{'raw': 260141039616, 'fmt': '260.141B', 'longFmt': '260,141,039,616'}",3257137426,"apl,apollo"
+3MINDIA.NS,3M India Limited,EQUITY,INR,india,"{'raw': 257082540032, 'fmt': '257.083B', 'longFmt': '257,082,540,032'}",3218842993,"3m,india"
+ZEEL.NS,Zee Entertainment Enterprises Limited,EQUITY,INR,india,"{'raw': 255546064896, 'fmt': '255.546B', 'longFmt': '255,546,064,896'}",3199605311,"zee,entertainment"
+GLAXO.BO,GlaxoSmithKline Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 250297368576, 'fmt': '250.297B', 'longFmt': '250,297,368,576'}",3133888170,glaxosmithkline
+MSUMI.NS,Motherson Sumi Wiring India Limited,EQUITY,INR,india,"{'raw': 251687010304, 'fmt': '251.687B', 'longFmt': '251,687,010,304'}",3151287402,motherson
+CRISIL.NS,CRISIL Limited,EQUITY,INR,india,"{'raw': 249690570752, 'fmt': '249.691B', 'longFmt': '249,690,570,752'}",3126290661,crisil
+PHOENIXLTD.NS,The Phoenix Mills Limited,EQUITY,INR,india,"{'raw': 247167320064, 'fmt': '247.167B', 'longFmt': '247,167,320,064'}",3094697898,"phoenix,mills"
+RELAXO.NS,Relaxo Footwears Limited,EQUITY,INR,india,"{'raw': 246934585344, 'fmt': '246.935B', 'longFmt': '246,934,585,344'}",3091783906,relaxo
+GRINDWELL.NS,Grindwell Norton Limited,EQUITY,INR,india,"{'raw': 246241280000, 'fmt': '246.241B', 'longFmt': '246,241,280,000'}",3083103266,grindwell
+AIAENG.NS,AIA Engineering Limited,EQUITY,INR,india,"{'raw': 245025538048, 'fmt': '245.026B', 'longFmt': '245,025,538,048'}",3067881374,"aia,engineering"
+SYNGENE.NS,Syngene International Limited,EQUITY,INR,india,"{'raw': 243971506176, 'fmt': '243.972B', 'longFmt': '243,971,506,176'}",3054684200,syngene
+DIXON.NS,Dixon Technologies (India) Limited,EQUITY,INR,india,"{'raw': 242794905600, 'fmt': '242.795B', 'longFmt': '242,794,905,600'}",3039952385,"dixon,technologies"
+BAYERCROP.BO,Bayer CropScience Limited,EQUITY,INR,india,"{'raw': 236730269696, 'fmt': '236.73B', 'longFmt': '236,730,269,696'}",2964019142,cropscience
+FEDERALBNK.NS,The Federal Bank Limited,EQUITY,INR,india,"{'raw': 241593499648, 'fmt': '241.593B', 'longFmt': '241,593,499,648'}",3024909990,"federal,bank"
+SUPREMEIND.NS,The Supreme Industries Limited,EQUITY,INR,india,"{'raw': 240296968192, 'fmt': '240.297B', 'longFmt': '240,296,968,192'}",3008676561,"supreme,industries"
+SUMICHEM.NS,Sumitomo Chemical India Limited,EQUITY,INR,india,"{'raw': 240788013056, 'fmt': '240.788B', 'longFmt': '240,788,013,056'}",3014824766,sumitomo
+SKFINDIA.NS,SKF India Limited,EQUITY,INR,india,"{'raw': 236585549824, 'fmt': '236.586B', 'longFmt': '236,585,549,824'}",2962207154,skf
+INDIANB.NS,Indian Bank,EQUITY,INR,india,"{'raw': 236587597824, 'fmt': '236.588B', 'longFmt': '236,587,597,824'}",2962232797,"indian,bank"
+ESCORTS.NS,Escorts Kubota Limited,EQUITY,INR,india,"{'raw': 234505338880, 'fmt': '234.505B', 'longFmt': '234,505,338,880'}",2936161541,kubota
+SUNDARMFIN.NS,Sundaram Finance Limited,EQUITY,INR,india,"{'raw': 233885040640, 'fmt': '233.885B', 'longFmt': '233,885,040,640'}",2928394998,sundaram
+PFIZER.BO,Pfizer Limited,EQUITY,INR,india,"{'raw': 190651236352, 'fmt': '190.651B', 'longFmt': '190,651,236,352'}",2387079248,"pfizer,limited"
+POLICYBZR.NS,PB Fintech Limited,EQUITY,INR,india,"{'raw': 232391507968, 'fmt': '232.392B', 'longFmt': '232,391,507,968'}",2909694983,"pb,fintech"
+VINATIORGA.NS,Vinati Organics Limited,EQUITY,INR,india,"{'raw': 230375047168, 'fmt': '230.375B', 'longFmt': '230,375,047,168'}",2884447564,vinati
+DEVYANI.NS,Devyani International Limited,EQUITY,INR,india,"{'raw': 227394666496, 'fmt': '227.395B', 'longFmt': '227,394,666,496'}",2847131232,devyani
+COFORGE.NS,Coforge Limited,EQUITY,INR,india,"{'raw': 225623932928, 'fmt': '225.624B', 'longFmt': '225,623,932,928'}",2824960480,coforge
+TIMKEN.NS,Timken India Limited,EQUITY,INR,india,"{'raw': 225276248064, 'fmt': '225.276B', 'longFmt': '225,276,248,064'}",2820607236,"timken,india"
+POONAWALLA.NS,Poonawalla Fincorp Limited,EQUITY,INR,india,"{'raw': 223081889792, 'fmt': '223.082B', 'longFmt': '223,081,889,792'}",2793132423,poonawalla
+FORTIS.NS,Fortis Healthcare Limited,EQUITY,INR,india,"{'raw': 222749212672, 'fmt': '222.749B', 'longFmt': '222,749,212,672'}",2788967086,"fortis,healthcare"
+LICHSGFIN.NS,LIC Housing Finance Limited,EQUITY,INR,india,"{'raw': 222307942400, 'fmt': '222.308B', 'longFmt': '222,307,942,400'}",2783442091,lic
+HATSUN.NS,Hatsun Agro Product Limited,EQUITY,INR,india,"{'raw': 219766489088, 'fmt': '219.766B', 'longFmt': '219,766,489,088'}",2751621419,hatsun
+EMAMILTD.NS,Emami Limited,EQUITY,INR,india,"{'raw': 219411300352, 'fmt': '219.411B', 'longFmt': '219,411,300,352'}",2747174221,emami
+METROBRAND.NS,Metro Brands Limited,EQUITY,INR,india,"{'raw': 215535828992, 'fmt': '215.536B', 'longFmt': '215,535,828,992'}",2698650763,"metro,brands"
+LALPATHLAB.NS,Dr. Lal PathLabs Limited,EQUITY,INR,india,"{'raw': 214881206272, 'fmt': '214.881B', 'longFmt': '214,881,206,272'}",2690454455,pathlabs
+GICRE.NS,General Insurance Corporation of India,EQUITY,INR,india,"{'raw': 213510471680, 'fmt': '213.51B', 'longFmt': '213,510,471,680'}",2673291954,"general,insurance"
+BANKINDIA.NS,Bank of India Limited,EQUITY,INR,india,"{'raw': 212359741440, 'fmt': '212.36B', 'longFmt': '212,359,741,440'}",2658884052,"bank,of,india"
+KPRMILL.NS,K.P.R. Mill Limited,EQUITY,INR,india,"{'raw': 211908050944, 'fmt': '211.908B', 'longFmt': '211,908,050,944'}",2653228589,kpr
+NAVINFLUOR.NS,Navin Fluorine International Limited,EQUITY,INR,india,"{'raw': 210676629504, 'fmt': '210.677B', 'longFmt': '210,676,629,504'}",2637810380,navin
+OIL.NS,Oil India Limited,EQUITY,INR,india,"{'raw': 208757047296, 'fmt': '208.757B', 'longFmt': '208,757,047,296'}",2613775945,"oil,india"
+GMRINFRA.NS,GMR Infrastructure Limited,EQUITY,INR,india,"{'raw': 208544563200, 'fmt': '208.545B', 'longFmt': '208,544,563,200'}",2611115504,gmr
+JKCEMENT.NS,J.K. Cement Limited,EQUITY,INR,india,"{'raw': 206340866048, 'fmt': '206.341B', 'longFmt': '206,340,866,048'}",2583523762,"jk,cement"
+BLUEDART.NS,Blue Dart Express Limited,EQUITY,INR,india,"{'raw': 206381711360, 'fmt': '206.382B', 'longFmt': '206,381,711,360'}",2584035172,"blue,dart"
+ENDURANCE.NS,Endurance Technologies Limited,EQUITY,INR,india,"{'raw': 203018928128, 'fmt': '203.019B', 'longFmt': '203,018,928,128'}",2541930907,"endurance,technologies"
+SUNTV.NS,Sun TV Network Limited,EQUITY,INR,india,"{'raw': 201929146368, 'fmt': '201.929B', 'longFmt': '201,929,146,368'}",2528286121,"sun,tv"
+TTML.NS,Tata Teleservices (Maharashtra) Limited,EQUITY,INR,india,"{'raw': 197740478464, 'fmt': '197.74B', 'longFmt': '197,740,478,464'}",2475841235,teleservices
+APLLTD.BO,Alembic Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 128955162624, 'fmt': '128.955B', 'longFmt': '128,955,162,624'}",1614603705,"alembic,pharmaceuticals"
+SANOFI.BO,Sanofi India Limited,EQUITY,INR,india,"{'raw': 143549726720, 'fmt': '143.55B', 'longFmt': '143,549,726,720'}",1797337275,sanofi
+CLEAN.NS,Clean Science and Technology Limited,EQUITY,INR,india,"{'raw': 191233720320, 'fmt': '191.234B', 'longFmt': '191,233,720,320'}",2394372331,"clean,science"
+NAM-INDIA.NS,Nippon Life India Asset Management Limited,EQUITY,INR,india,"{'raw': 190670143488, 'fmt': '190.67B', 'longFmt': '190,670,143,488'}",2387315977,"nippon,life"
+FINEORG.NS,Fine Organic Industries Limited,EQUITY,INR,india,"{'raw': 190006837248, 'fmt': '190.007B', 'longFmt': '190,006,837,248'}",2379010946,"fine,organic"
+PRESTIGE.NS,Prestige Estates Projects Limited,EQUITY,INR,india,"{'raw': 189066559488, 'fmt': '189.067B', 'longFmt': '189,066,559,488'}",2367238048,"prestige,estates"
+TRIDENT.NS,Trident Limited,EQUITY,INR,india,"{'raw': 188295725056, 'fmt': '188.296B', 'longFmt': '188,295,725,056'}",2357586692,"trident,limited"
+KAJARIACER.NS,Kajaria Ceramics Limited,EQUITY,INR,india,"{'raw': 186549420032, 'fmt': '186.549B', 'longFmt': '186,549,420,032'}",2335721801,kajaria
+ZFCVINDIA.NS,ZF Commercial Vehicle Control Systems India Limited,EQUITY,INR,india,"{'raw': 185013764096, 'fmt': '185.014B', 'longFmt': '185,013,764,096'}",2316494376,"zf,commercial"
+RAMCOCEM.BO,The Ramco Cements Limited,EQUITY,INR,india,"{'raw': 179853606912, 'fmt': '179.854B', 'longFmt': '179,853,606,912'}",2251885804,ramco
+AFFLE.NS,Affle (India) Limited,EQUITY,INR,india,"{'raw': 183644995584, 'fmt': '183.645B', 'longFmt': '183,644,995,584'}",2299356491,affle
+AAVAS.NS,Aavas Financiers Limited,EQUITY,INR,india,"{'raw': 180075053056, 'fmt': '180.075B', 'longFmt': '180,075,053,056'}",2254658456,aavas
+RAJESHEXPO.NS,Rajesh Exports Limited,EQUITY,INR,india,"{'raw': 177628413952, 'fmt': '177.628B', 'longFmt': '177,628,413,952'}",2224024920,"rajesh,exports"
+SUNDRMFAST.NS,Sundram Fasteners Limited,EQUITY,INR,india,"{'raw': 177022337024, 'fmt': '177.022B', 'longFmt': '177,022,337,024'}",2216436437,sundram
+GILLETTE.NS,Gillette India Limited,EQUITY,INR,india,"{'raw': 175308374016, 'fmt': '175.308B', 'longFmt': '175,308,374,016'}",2194976490,"gillette,india"
+MANCREDIT.BO,Mangal Credit and Fincorp Limited,EQUITY,INR,india,"{'raw': 474625343488, 'fmt': '474.625B', 'longFmt': '474,625,343,488'}",5942622401,fincorp
+ASTRAL.BO,Astral Poly Technik Limited,EQUITY,INR,india,"{'raw': 321775861760, 'fmt': '321.776B', 'longFmt': '321,775,861,760'}",4028846058,technik
+NIACL.BO,The New India Assurance Company Limited,EQUITY,INR,india,"{'raw': 148319993856, 'fmt': '148.32B', 'longFmt': '148,319,993,856'}",1857064166,"new,india"
+APTUS.NS,Aptus Value Housing Finance India Limited,EQUITY,INR,india,"{'raw': 169831677952, 'fmt': '169.832B', 'longFmt': '169,831,677,952'}",2126404642,aptus
+AJANTPHARM.NS,Ajanta Pharma Limited,EQUITY,INR,india,"{'raw': 169125003264, 'fmt': '169.125B', 'longFmt': '169,125,003,264'}",2117556609,"ajanta,pharma"
+NATCOPHARM.BO,NATCO Pharma Limited,EQUITY,INR,india,"{'raw': 118811975680, 'fmt': '118.812B', 'longFmt': '118,811,975,680'}",1487604313,natco
+CENTRALBK.NS,Central Bank of India,EQUITY,INR,india,"{'raw': 167564722176, 'fmt': '167.565B', 'longFmt': '167,564,722,176'}",2098020860,"central,bank"
+ESCORTS.BO,Escorts Limited,EQUITY,INR,india,"{'raw': 239332147200, 'fmt': '239.332B', 'longFmt': '239,332,147,200'}",2996596365,"escorts,limited"
+APOLLOTYRE.NS,Apollo Tyres Limited,EQUITY,INR,india,"{'raw': 158171774976, 'fmt': '158.172B', 'longFmt': '158,171,774,976'}",1980414965,"apollo,tyres"
+KPITTECH.NS,KPIT Technologies Limited,EQUITY,INR,india,"{'raw': 156645883904, 'fmt': '156.646B', 'longFmt': '156,645,883,904'}",1961309802,kpit
+HAPPSTMNDS.NS,Happiest Minds Technologies Limited,EQUITY,INR,india,"{'raw': 156116434944, 'fmt': '156.116B', 'longFmt': '156,116,434,944'}",1954680752,"happiest,minds"
+CARBORUNIV.NS,Carborundum Universal Limited,EQUITY,INR,india,"{'raw': 156375515136, 'fmt': '156.376B', 'longFmt': '156,375,515,136'}",1957924607,"carborundum,universal"
+ALKYLAMINE.NS,Alkyl Amines Chemicals Limited,EQUITY,INR,india,"{'raw': 155600683008, 'fmt': '155.601B', 'longFmt': '155,600,683,008'}",1948223198,"alkyl,amines"
+CREDITACC.NS,CreditAccess Grameen Limited,EQUITY,INR,india,"{'raw': 154741080064, 'fmt': '154.741B', 'longFmt': '154,741,080,064'}",1937460402,creditaccess
+ASAHIINDIA.NS,Asahi India Glass Limited,EQUITY,INR,india,"{'raw': 154325680128, 'fmt': '154.326B', 'longFmt': '154,325,680,128'}",1932259320,"asahi,india"
+IRB.NS,IRB Infrastructure Developers Limited,EQUITY,INR,india,"{'raw': 151951917056, 'fmt': '151.952B', 'longFmt': '151,951,917,056'}",1902538241,irb
+ELGIEQUIP.NS,Elgi Equipments Limited,EQUITY,INR,india,"{'raw': 149709996032, 'fmt': '149.71B', 'longFmt': '149,709,996,032'}",1874467911,elgi
+CAMPUS.NS,Campus Activewear Limited,EQUITY,INR,india,"{'raw': 149274050560, 'fmt': '149.274B', 'longFmt': '149,274,050,560'}",1869009586,activewear
+POWERINDIA.NS,Hitachi Energy India Limited,EQUITY,INR,india,"{'raw': 149079752704, 'fmt': '149.08B', 'longFmt': '149,079,752,704'}",1866576848,"hitachi,energy"
+IIFLWAM.NS,IIFL Wealth Management Limited,EQUITY,INR,india,"{'raw': 148504035328, 'fmt': '148.504B', 'longFmt': '148,504,035,328'}",1859368487,iifl
+CENTURYPLY.NS,Century Plyboards (India) Limited,EQUITY,INR,india,"{'raw': 148455997440, 'fmt': '148.456B', 'longFmt': '148,455,997,440'}",1858767021,plyboards
+BDL.NS,Bharat Dynamics Limited,EQUITY,INR,india,"{'raw': 148265435136, 'fmt': '148.265B', 'longFmt': '148,265,435,136'}",1856381055,"bharat,dynamics"
+NATIONALUM.NS,National Aluminium Company Limited,EQUITY,INR,india,"{'raw': 148124221440, 'fmt': '148.124B', 'longFmt': '148,124,221,440'}",1854612967,"national,aluminium"
+BASF.NS,BASF India Limited,EQUITY,INR,india,"{'raw': 147047677952, 'fmt': '147.048B', 'longFmt': '147,047,677,952'}",1841133932,basf
+NH.NS,Narayana Hrudayalaya Limited,EQUITY,INR,india,"{'raw': 146935545856, 'fmt': '146.936B', 'longFmt': '146,935,545,856'}",1839729964,narayana
+IEX.NS,Indian Energy Exchange Limited,EQUITY,INR,india,"{'raw': 144640933888, 'fmt': '144.641B', 'longFmt': '144,640,933,888'}",1810999909,"indian,energy"
+SFL.NS,Sheela Foam Limited,EQUITY,INR,india,"{'raw': 144233660416, 'fmt': '144.234B', 'longFmt': '144,233,660,416'}",1805900576,"sheela,foam"
+UCOBANK.NS,UCO Bank,EQUITY,INR,india,"{'raw': 141801848832, 'fmt': '141.802B', 'longFmt': '141,801,848,832'}",1775452691,uco
+JBCHEPHARM.NS,J. B. Chemicals & Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 140936380416, 'fmt': '140.936B', 'longFmt': '140,936,380,416'}",1764616455,"j,b"
+MANAPPURAM.BO,Manappuram Finance Limited,EQUITY,INR,india,"{'raw': 89480151040, 'fmt': '89.48B', 'longFmt': '89,480,151,040'}",1120350519,manappuram
+RADICO.NS,Radico Khaitan Limited,EQUITY,INR,india,"{'raw': 139009884160, 'fmt': '139.01B', 'longFmt': '139,009,884,160'}",1740495451,radico
+CHAMBLFERT.NS,Chambal Fertilisers and Chemicals Limited,EQUITY,INR,india,"{'raw': 137993764864, 'fmt': '137.994B', 'longFmt': '137,993,764,864'}",1727772967,chambal
+EXIDEIND.BO,Exide Industries Limited,EQUITY,INR,india,"{'raw': 135405002752, 'fmt': '135.405B', 'longFmt': '135,405,002,752'}",1695359958,exide
+GLENMARK.BO,Glenmark Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 107816394752, 'fmt': '107.816B', 'longFmt': '107,816,394,752'}",1349932386,glenmark
+CUB.NS,City Union Bank Limited,EQUITY,INR,india,"{'raw': 136823226368, 'fmt': '136.823B', 'longFmt': '136,823,226,368'}",1713117053,"city,union"
+GRINFRA.NS,G R Infraprojects Limited,EQUITY,INR,india,"{'raw': 135964786688, 'fmt': '135.965B', 'longFmt': '135,964,786,688'}",1702368822,infraprojects
+INDIAMART.NS,IndiaMART InterMESH Limited,EQUITY,INR,india,"{'raw': 131909042176, 'fmt': '131.909B', 'longFmt': '131,909,042,176'}",1651588225,indiamart
+MRPL.NS,Mangalore Refinery and Petrochemicals Limited,EQUITY,INR,india,"{'raw': 130656337920, 'fmt': '130.656B', 'longFmt': '130,656,337,920'}",1635903542,"mangalore,refinery"
+AMARAJABAT.BO,Amara Raja Batteries Limited,EQUITY,INR,india,"{'raw': 88796610560, 'fmt': '88.797B', 'longFmt': '88,796,610,560'}",1111792141,"amara,raja"
+KEI.NS,KEI Industries Limited,EQUITY,INR,india,"{'raw': 128422125568, 'fmt': '128.422B', 'longFmt': '128,422,125,568'}",1607929729,"kei,industries"
+LAXMIMACH.NS,Lakshmi Machine Works Limited,EQUITY,INR,india,"{'raw': 127741190144, 'fmt': '127.741B', 'longFmt': '127,741,190,144'}",1599403969,"lakshmi,machine"
+CDSL.NS,Central Depository Services (India) Limited,EQUITY,INR,india,"{'raw': 125640351744, 'fmt': '125.64B', 'longFmt': '125,640,351,744'}",1573100086,"central,depository"
+NUVOCO.NS,Nuvoco Vistas Corporation Limited,EQUITY,INR,india,"{'raw': 125237477376, 'fmt': '125.237B', 'longFmt': '125,237,477,376'}",1568055833,nuvoco
+TTKPRESTIG.NS,TTK Prestige Limited,EQUITY,INR,india,"{'raw': 124856836096, 'fmt': '124.857B', 'longFmt': '124,856,836,096'}",1563289953,ttk
+RATNAMANI.NS,Ratnamani Metals & Tubes Limited,EQUITY,INR,india,"{'raw': 122941366272, 'fmt': '122.941B', 'longFmt': '122,941,366,272'}",1539307007,ratnamani
+MAHABANK.NS,Bank of Maharashtra,EQUITY,INR,india,"{'raw': 121485524992, 'fmt': '121.486B', 'longFmt': '121,485,524,992'}",1521078914,"bank,of,maharashtra"
+SUNTECK.NS,Sunteck Realty Limited,EQUITY,INR,india,"{'raw': 67945480192, 'fmt': '67.945B', 'longFmt': '67,945,480,192'}",850722234,sunteck
+KIOCL.NS,KIOCL Limited,EQUITY,INR,india,"{'raw': 118237954048, 'fmt': '118.238B', 'longFmt': '118,237,954,048'}",1480417183,kiocl
+BRIGADE.NS,Brigade Enterprises Limited,EQUITY,INR,india,"{'raw': 117367169024, 'fmt': '117.367B', 'longFmt': '117,367,169,024'}",1469514381,"brigade,enterprises"
+REDINGTON.NS,Redington (India) Limited,EQUITY,INR,india,"{'raw': 119778795520, 'fmt': '119.779B', 'longFmt': '119,778,795,520'}",1499709535,redington
+GALAXYSURF.NS,Galaxy Surfactants Limited,EQUITY,INR,india,"{'raw': 114978144256, 'fmt': '114.978B', 'longFmt': '114,978,144,256'}",1439602214,surfactants
+ALOKTEXT.BO,Alok Industries Limited,EQUITY,INR,india,"{'raw': 99553050624, 'fmt': '99.553B', 'longFmt': '99,553,050,624'}",1246469867,alok
+BALAMINES.NS,Balaji Amines Limited,EQUITY,INR,india,"{'raw': 115224715264, 'fmt': '115.225B', 'longFmt': '115,224,715,264'}",1442689446,balaji
+CASTROLIND.NS,Castrol India Limited,EQUITY,INR,india,"{'raw': 115034890240, 'fmt': '115.035B', 'longFmt': '115,034,890,240'}",1440312712,castrol
+SUVENPHAR.NS,Suven Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 114554249216, 'fmt': '114.554B', 'longFmt': '114,554,249,216'}",1434294769,suven
+GNFC.NS,Gujarat Narmada Valley Fertilizers & Chemicals Limited,EQUITY,INR,india,"{'raw': 113906597888, 'fmt': '113.907B', 'longFmt': '113,906,597,888'}",1426185747,"gujarat,narmada"
+MOTILALOFS.NS,Motilal Oswal Financial Services Limited,EQUITY,INR,india,"{'raw': 113793204224, 'fmt': '113.793B', 'longFmt': '113,793,204,224'}",1424765984,"motilal,oswal"
+PVR.NS,PVR Limited,EQUITY,INR,india,"{'raw': 113343463424, 'fmt': '113.343B', 'longFmt': '113,343,463,424'}",1419134932,pvr
+ITI.BO,ITI Limited,EQUITY,INR,india,"{'raw': 106619961344, 'fmt': '106.62B', 'longFmt': '106,619,961,344'}",1334952251,iti
+SJVN.NS,SJVN Limited,EQUITY,INR,india,"{'raw': 112785260544, 'fmt': '112.785B', 'longFmt': '112,785,260,544'}",1412145864,sjvn
+HINDCOPPER.NS,Hindustan Copper Limited,EQUITY,INR,india,"{'raw': 112513236992, 'fmt': '112.513B', 'longFmt': '112,513,236,992'}",1408739949,"hindustan,copper"
+CAMS.NS,Computer Age Management Services Limited,EQUITY,INR,india,"{'raw': 109687070720, 'fmt': '109.687B', 'longFmt': '109,687,070,720'}",1373354483,"computer,age"
+ASTERDM.NS,Aster DM Healthcare Limited,EQUITY,INR,india,"{'raw': 107844853760, 'fmt': '107.845B', 'longFmt': '107,844,853,760'}",1350288712,"aster,dm"
+CGCL.NS,Capri Global Capital Limited,EQUITY,INR,india,"{'raw': 126902157312, 'fmt': '126.902B', 'longFmt': '126,902,157,312'}",1588898724,"capri,global"
+AETHER.NS,Aether Industries Limited,EQUITY,INR,india,"{'raw': 106563674112, 'fmt': '106.564B', 'longFmt': '106,563,674,112'}",1334247497,"aether,industries"
+ANGELONE.NS,Angel One Limited,EQUITY,INR,india,"{'raw': 106611556352, 'fmt': '106.612B', 'longFmt': '106,611,556,352'}",1334847015,"angel,one"
+ASTRAZEN.BO,AstraZeneca Pharma India Limited,EQUITY,INR,india,"{'raw': 77604995072, 'fmt': '77.605B', 'longFmt': '77,604,995,072'}",971665732,astrazeneca
+PSB.NS,Punjab & Sind Bank,EQUITY,INR,india,"{'raw': 105820397568, 'fmt': '105.82B', 'longFmt': '105,820,397,568'}",1324941185,"punjab,&"
+CESC.NS,CESC Limited,EQUITY,INR,india,"{'raw': 104587476992, 'fmt': '104.587B', 'longFmt': '104,587,476,992'}",1309504206,cesc
+KEC.NS,KEC International Limited,EQUITY,INR,india,"{'raw': 104302714880, 'fmt': '104.303B', 'longFmt': '104,302,714,880'}",1305938796,kec
+BLUESTARCO.NS,Blue Star Limited,EQUITY,INR,india,"{'raw': 104096071680, 'fmt': '104.096B', 'longFmt': '104,096,071,680'}",1303351487,"blue,star"
+UTIAMC.NS,UTI Asset Management Company Limited,EQUITY,INR,india,"{'raw': 102711451648, 'fmt': '102.711B', 'longFmt': '102,711,451,648'}",1286015131,"uti,asset"
+NLCINDIA.NS,NLC India Limited,EQUITY,INR,india,"{'raw': 102477955072, 'fmt': '102.478B', 'longFmt': '102,477,955,072'}",1283091600,"nlc,india"
+HFCL.NS,HFCL Limited,EQUITY,INR,india,"{'raw': 101265358848, 'fmt': '101.265B', 'longFmt': '101,265,358,848'}",1267909095,hfcl
+VGUARD.NS,V-Guard Industries Limited,EQUITY,INR,india,"{'raw': 101865496576, 'fmt': '101.865B', 'longFmt': '101,865,496,576'}",1275423215,v-guard
+RENUKA.NS,Shree Renuka Sugars Limited,EQUITY,INR,india,"{'raw': 99719749632, 'fmt': '99.72B', 'longFmt': '99,719,749,632'}",1248557048,renuka
+SONATSOFTW.NS,Sonata Software Limited,EQUITY,INR,india,"{'raw': 99490209792, 'fmt': '99.49B', 'longFmt': '99,490,209,792'}",1245683058,"sonata,software"
+EIHOTEL.NS,EIH Limited,EQUITY,INR,india,"{'raw': 99432873984, 'fmt': '99.433B', 'longFmt': '99,432,873,984'}",1244965176,eih
+WESTLIFE.NS,Westlife Development Limited,EQUITY,INR,india,"{'raw': 98520358912, 'fmt': '98.52B', 'longFmt': '98,520,358,912'}",1233539885,westlife
+KIMS.NS,Krishna Institute of Medical Sciences Limited,EQUITY,INR,india,"{'raw': 97425842176, 'fmt': '97.426B', 'longFmt': '97,425,842,176'}",1219835813,"krishna,institute"
+VTL.NS,Vardhman Textiles Limited,EQUITY,INR,india,"{'raw': 97478664192, 'fmt': '97.479B', 'longFmt': '97,478,664,192'}",1220497180,vardhman
+GRANULES.BO,Granules India Limited,EQUITY,INR,india,"{'raw': 76570599424, 'fmt': '76.571B', 'longFmt': '76,570,599,424'}",958714416,"granules,india"
+CENTURYTEX.NS,Century Textiles and Industries Limited,EQUITY,INR,india,"{'raw': 95488851968, 'fmt': '95.489B', 'longFmt': '95,488,851,968'}",1195583418,"century,textiles"
+TANLA.NS,Tanla Platforms Limited,EQUITY,INR,india,"{'raw': 95095832576, 'fmt': '95.096B', 'longFmt': '95,095,832,576'}",1190662556,tanla
+SUNCLAYLTD.NS,Sundaram-Clayton Limited,EQUITY,INR,india,"{'raw': 94445158400, 'fmt': '94.445B', 'longFmt': '94,445,158,400'}",1182515686,sundaram-clayton
+EIDPARRY.NS,E.I.D.- Parry (India) Limited,EQUITY,INR,india,"{'raw': 94372921344, 'fmt': '94.373B', 'longFmt': '94,372,921,344'}",1181611231,eid-
+ROUTE.NS,Route Mobile Limited,EQUITY,INR,india,"{'raw': 93677707264, 'fmt': '93.678B', 'longFmt': '93,677,707,264'}",1172906692,"route,mobile"
+ERIS.NS,Eris Lifesciences Limited,EQUITY,INR,india,"{'raw': 93569818624, 'fmt': '93.57B', 'longFmt': '93,569,818,624'}",1171555855,lifesciences
+CYIENT.NS,Cyient Limited,EQUITY,INR,india,"{'raw': 93319077888, 'fmt': '93.319B', 'longFmt': '93,319,077,888'}",1168416415,cyient
+AEGISCHEM.NS,Aegis Logistics Limited,EQUITY,INR,india,"{'raw': 92366782464, 'fmt': '92.367B', 'longFmt': '92,366,782,464'}",1156493049,"aegis,logistics"
+MCX.BO,Multi Commodity Exchange of India Limited,EQUITY,INR,india,"{'raw': 66774278144, 'fmt': '66.774B', 'longFmt': '66,774,278,144'}",836058012,"multi,commodity"
+BSOFT.NS,Birlasoft Limited,EQUITY,INR,india,"{'raw': 91561631744, 'fmt': '91.562B', 'longFmt': '91,561,631,744'}",1146412030,birlasoft
+AKZOINDIA.BO,Akzo Nobel India Limited,EQUITY,INR,india,"{'raw': 87688757248, 'fmt': '87.689B', 'longFmt': '87,688,757,248'}",1097921087,akzo
+RHIM.NS,RHI Magnesita India Limited,EQUITY,INR,india,"{'raw': 90243334144, 'fmt': '90.243B', 'longFmt': '90,243,334,144'}",1129906075,rhi
+FINPIPE.NS,Finolex Industries Limited,EQUITY,INR,india,"{'raw': 90186334208, 'fmt': '90.186B', 'longFmt': '90,186,334,208'}",1129192398,finolex
+BCG.NS,Brightcom Group Limited,EQUITY,INR,india,"{'raw': 88680849408, 'fmt': '88.681B', 'longFmt': '88,680,849,408'}",1110342735,brightcom
+MEDPLUS.NS,MedPlus Health Services Limited,EQUITY,INR,india,"{'raw': 88602607616, 'fmt': '88.603B', 'longFmt': '88,602,607,616'}",1109363096,medplus
+BSE.NS,BSE Limited,EQUITY,INR,india,"{'raw': 88247377920, 'fmt': '88.247B', 'longFmt': '88,247,377,920'}",1104915386,"bse,limited"
+LXCHEM.NS,Laxmi Organic Industries Limited,EQUITY,INR,india,"{'raw': 88038408192, 'fmt': '88.038B', 'longFmt': '88,038,408,192'}",1102298947,laxmi
+EASEMYTRIP.NS,Easy Trip Planners Limited,EQUITY,INR,india,"{'raw': 85362638848, 'fmt': '85.363B', 'longFmt': '85,362,638,848'}",1068796550,"easy,trip"
+MGL.NS,Mahanagar Gas Limited,EQUITY,INR,india,"{'raw': 85052620800, 'fmt': '85.053B', 'longFmt': '85,052,620,800'}",1064914919,mahanagar
+QUESS.NS,Quess Corp Limited,EQUITY,INR,india,"{'raw': 84997922816, 'fmt': '84.998B', 'longFmt': '84,997,922,816'}",1064230065,quess
+CANFINHOME.NS,Can Fin Homes Limited,EQUITY,INR,india,"{'raw': 84982317056, 'fmt': '84.982B', 'longFmt': '84,982,317,056'}",1064034670,"can,fin"
+VIPIND.NS,V.I.P. Industries Limited,EQUITY,INR,india,"{'raw': 84775043072, 'fmt': '84.775B', 'longFmt': '84,775,043,072'}",1061439463,"vip,industries"
+KALYANKJIL.NS,Kalyan Jewellers India Limited,EQUITY,INR,india,"{'raw': 84206583808, 'fmt': '84.207B', 'longFmt': '84,206,583,808'}",1054321978,"kalyan,jewellers"
+HOMEFIRST.NS,Home First Finance Company India Limited,EQUITY,INR,india,"{'raw': 83381002240, 'fmt': '83.381B', 'longFmt': '83,381,002,240'}",1043985152,"home,first"
+SUZLON.NS,Suzlon Energy Limited,EQUITY,INR,india,"{'raw': 83205390336, 'fmt': '83.205B', 'longFmt': '83,205,390,336'}",1041786375,suzlon
+BBTC.BO,"The Bombay Burmah Trading Corporation, Limited",EQUITY,INR,india,"{'raw': 63841292288, 'fmt': '63.841B', 'longFmt': '63,841,292,288'}",799335094,burmah
+FACT.NS,The Fertilisers And Chemicals Travancore Limited,EQUITY,INR,india,"{'raw': 81502969856, 'fmt': '81.503B', 'longFmt': '81,502,969,856'}",1020470948,fertilisers
+INTELLECT.NS,Intellect Design Arena Limited,EQUITY,INR,india,"{'raw': 80318562304, 'fmt': '80.319B', 'longFmt': '80,318,562,304'}",1005641384,"intellect,design"
+INDIGOPNTS.NS,Indigo Paints Limited,EQUITY,INR,india,"{'raw': 80391610368, 'fmt': '80.392B', 'longFmt': '80,391,610,368'}",1006555994,"indigo,paints"
+HUDCO.NS,Housing and Urban Development Corporation Limited,EQUITY,INR,india,"{'raw': 80476381184, 'fmt': '80.476B', 'longFmt': '80,476,381,184'}",1007617381,"housing,and"
+ALLCARGO.NS,Allcargo Logistics Limited,EQUITY,INR,india,"{'raw': 79551234048, 'fmt': '79.551B', 'longFmt': '79,551,234,048'}",996033928,allcargo
+TEJASNET.NS,Tejas Networks Limited,EQUITY,INR,india,"{'raw': 79422676992, 'fmt': '79.423B', 'longFmt': '79,422,676,992'}",994424309,tejas
+GESHIP.NS,The Great Eastern Shipping Company Limited,EQUITY,INR,india,"{'raw': 79057231872, 'fmt': '79.057B', 'longFmt': '79,057,231,872'}",989848695,"great,eastern"
+GRAPHITE.NS,Graphite India Limited,EQUITY,INR,india,"{'raw': 78873124864, 'fmt': '78.873B', 'longFmt': '78,873,124,864'}",987543554,"graphite,india"
+SAREGAMA.NS,Saregama India Limited,EQUITY,INR,india,"{'raw': 78569660416, 'fmt': '78.57B', 'longFmt': '78,569,660,416'}",983743979,saregama
+WELSPUNIND.NS,Welspun India Limited,EQUITY,INR,india,"{'raw': 78403911680, 'fmt': '78.404B', 'longFmt': '78,403,911,680'}",981668695,welspun
+AMBER.BO,Amber Enterprises India Limited,EQUITY,INR,india,"{'raw': 76378955776, 'fmt': '76.379B', 'longFmt': '76,378,955,776'}",956314912,"amber,enterprises"
+NETWORK18.NS,Network18 Media & Investments Limited,EQUITY,INR,india,"{'raw': 78051418112, 'fmt': '78.051B', 'longFmt': '78,051,418,112'}",977255243,network18
+TATAINVEST.NS,Tata Investment Corporation Limited,EQUITY,INR,india,"{'raw': 77924352000, 'fmt': '77.924B', 'longFmt': '77,924,352,000'}",975664292,"tata,investment"
+RTNINDIA.NS,RattanIndia Enterprises Limited,EQUITY,INR,india,"{'raw': 77407117312, 'fmt': '77.407B', 'longFmt': '77,407,117,312'}",969188172,rattanindia
+ANURAS.NS,Anupam Rasayan India Ltd,EQUITY,INR,india,"{'raw': 77542719488, 'fmt': '77.543B', 'longFmt': '77,542,719,488'}",970886001,anupam
+RBLBANK.NS,RBL Bank Limited,EQUITY,INR,india,"{'raw': 77487316992, 'fmt': '77.487B', 'longFmt': '77,487,316,992'}",970192325,rbl
+SAPPHIRE.NS,Sapphire Foods India Limited,EQUITY,INR,india,"{'raw': 77356630016, 'fmt': '77.357B', 'longFmt': '77,356,630,016'}",968556038,"sapphire,foods"
+JUBLINGREA.NS,Jubilant Ingrevia Limited,EQUITY,INR,india,"{'raw': 77143613440, 'fmt': '77.144B', 'longFmt': '77,143,613,440'}",965888930,ingrevia
+SPLPETRO.NS,Supreme Petrochem Limited,EQUITY,INR,india,"{'raw': 77067165696, 'fmt': '77.067B', 'longFmt': '77,067,165,696'}",964931754,petrochem
+SHYAMMETL.NS,Shyam Metalics and Energy Limited,EQUITY,INR,india,"{'raw': 76906921984, 'fmt': '76.907B', 'longFmt': '76,906,921,984'}",962925397,metalics
+JMFINANCIL.BO,JM Financial Limited,EQUITY,INR,india,"{'raw': 62429835264, 'fmt': '62.43B', 'longFmt': '62,429,835,264'}",781662721,"jm,financial"
+LATENTVIEW.NS,Latent View Analytics Limited,EQUITY,INR,india,"{'raw': 76221308928, 'fmt': '76.221B', 'longFmt': '76,221,308,928'}",954341069,"latent,view"
+BEML.NS,BEML Limited,EQUITY,INR,india,"{'raw': 74756038656, 'fmt': '74.756B', 'longFmt': '74,756,038,656'}",935994919,beml
+ECLERX.NS,eClerx Services Limited,EQUITY,INR,india,"{'raw': 74685308928, 'fmt': '74.685B', 'longFmt': '74,685,308,928'}",935109336,eclerx
+FSL.NS,Firstsource Solutions Limited,EQUITY,INR,india,"{'raw': 74248364032, 'fmt': '74.248B', 'longFmt': '74,248,364,032'}",929638497,firstsource
+TV18BRDCST.NS,TV18 Broadcast Limited,EQUITY,INR,india,"{'raw': 72774582272, 'fmt': '72.775B', 'longFmt': '72,774,582,272'}",911185778,tv18
+KNRCON.NS,KNR Constructions Limited,EQUITY,INR,india,"{'raw': 72956985344, 'fmt': '72.957B', 'longFmt': '72,956,985,344'}",913469584,knr
+METROPOLIS.NS,Metropolis Healthcare Limited,EQUITY,INR,india,"{'raw': 72507162624, 'fmt': '72.507B', 'longFmt': '72,507,162,624'}",907837507,"metropolis,healthcare"
+BORORENEW.NS,Borosil Renewables Limited,EQUITY,INR,india,"{'raw': 72319131648, 'fmt': '72.319B', 'longFmt': '72,319,131,648'}",905483235,borosil
+BALRAMCHIN.NS,Balrampur Chini Mills Limited,EQUITY,INR,india,"{'raw': 72209752064, 'fmt': '72.21B', 'longFmt': '72,209,752,064'}",904113731,balrampur
+KRBL.NS,KRBL Limited,EQUITY,INR,india,"{'raw': 71738064896, 'fmt': '71.738B', 'longFmt': '71,738,064,896'}",898207896,krbl
+JKPAPER.NS,JK Paper Limited,EQUITY,INR,india,"{'raw': 71200006144, 'fmt': '71.2B', 'longFmt': '71,200,006,144'}",891471046,"jk,paper"
+GMMPFAUDLR.NS,GMM Pfaudler Limited,EQUITY,INR,india,"{'raw': 70805086208, 'fmt': '70.805B', 'longFmt': '70,805,086,208'}",886526388,gmm
+JYOTHYLAB.NS,Jyothy Labs Limited,EQUITY,INR,india,"{'raw': 70456500224, 'fmt': '70.457B', 'longFmt': '70,456,500,224'}",882161861,jyothy
+PRAJIND.NS,Praj Industries Limited,EQUITY,INR,india,"{'raw': 70447775744, 'fmt': '70.448B', 'longFmt': '70,447,775,744'}",882052625,praj
+TCIEXP.NS,TCI Express Limited,EQUITY,INR,india,"{'raw': 70409469952, 'fmt': '70.409B', 'longFmt': '70,409,469,952'}",881573011,tci
+IBULHSGFIN.BO,Indiabulls Housing Finance Limited,EQUITY,INR,india,"{'raw': 64150921216, 'fmt': '64.151B', 'longFmt': '64,150,921,216'}",803211852,indiabulls
+RITES.NS,RITES Limited,EQUITY,INR,india,"{'raw': 68654284800, 'fmt': '68.654B', 'longFmt': '68,654,284,800'}",859596935,"rites,limited"
+SOBHA.NS,Sobha Limited,EQUITY,INR,india,"{'raw': 68597325824, 'fmt': '68.597B', 'longFmt': '68,597,325,824'}",858883771,sobha
+SHOPERSTOP.NS,Shoppers Stop Limited,EQUITY,INR,india,"{'raw': 68428193792, 'fmt': '68.428B', 'longFmt': '68,428,193,792'}",856766127,"shoppers,stop"
+POLYPLEX.NS,Polyplex Corporation Limited,EQUITY,INR,india,"{'raw': 68281733120, 'fmt': '68.282B', 'longFmt': '68,281,733,120'}",854932342,polyplex
+CHALET.NS,Chalet Hotels Limited,EQUITY,INR,india,"{'raw': 68283240448, 'fmt': '68.283B', 'longFmt': '68,283,240,448'}",854951215,"chalet,hotels"
+GUJALKALI.NS,Gujarat Alkalies and Chemicals Limited,EQUITY,INR,india,"{'raw': 68215533568, 'fmt': '68.216B', 'longFmt': '68,215,533,568'}",854103480,"gujarat,alkalies"
+RAIN.NS,Rain Industries Limited,EQUITY,INR,india,"{'raw': 67992338432, 'fmt': '67.992B', 'longFmt': '67,992,338,432'}",851308930,"rain,industries"
+GARFIBRES.NS,Garware Technical Fibres Limited,EQUITY,INR,india,"{'raw': 67988512768, 'fmt': '67.989B', 'longFmt': '67,988,512,768'}",851261030,garware
+HGS.NS,Hinduja Global Solutions Limited,EQUITY,INR,india,"{'raw': 67866886144, 'fmt': '67.867B', 'longFmt': '67,866,886,144'}",849738184,hinduja
+AVANTI.BO,Avanti Feeds Limited,EQUITY,INR,india,"{'raw': 63647318016, 'fmt': '63.647B', 'longFmt': '63,647,318,016'}",796906408,"avanti,feeds"
+MAPMYINDIA.NS,CE Info Systems Ltd.,EQUITY,INR,india,"{'raw': 67538747392, 'fmt': '67.539B', 'longFmt': '67,538,747,392'}",845629671,"ce,info"
+KSB.NS,KSB Limited,EQUITY,INR,india,"{'raw': 67483623424, 'fmt': '67.484B', 'longFmt': '67,483,623,424'}",844939482,ksb
+STLTECH.NS,Sterlite Technologies Limited,EQUITY,INR,india,"{'raw': 66789531648, 'fmt': '66.79B', 'longFmt': '66,789,531,648'}",836248995,sterlite
+PNCINFRA.NS,PNC Infratech Limited,EQUITY,INR,india,"{'raw': 66764275712, 'fmt': '66.764B', 'longFmt': '66,764,275,712'}",835932775,pnc
+GSFC.NS,Gujarat State Fertilizers & Chemicals Limited,EQUITY,INR,india,"{'raw': 66545827840, 'fmt': '66.546B', 'longFmt': '66,545,827,840'}",833197663,"gujarat,state"
+STAR.BO,Strides Pharma Science Limited,EQUITY,INR,india,"{'raw': 30137008128, 'fmt': '30.137B', 'longFmt': '30,137,008,128'}",377335222,"strides,pharma"
+CHEMPLASTS.NS,Chemplast Sanmar Limited,EQUITY,INR,india,"{'raw': 66453663744, 'fmt': '66.454B', 'longFmt': '66,453,663,744'}",832043708,chemplast
+RVNL.NS,Rail Vikas Nigam Limited,EQUITY,INR,india,"{'raw': 66303635456, 'fmt': '66.304B', 'longFmt': '66,303,635,456'}",830165255,vikas
+SIS.NS,SIS Limited,EQUITY,INR,india,"{'raw': 66235658240, 'fmt': '66.236B', 'longFmt': '66,235,658,240'}",829314135,"sis,limited"
+TRITURBINE.NS,Triveni Turbine Limited,EQUITY,INR,india,"{'raw': 65598582784, 'fmt': '65.599B', 'longFmt': '65,598,582,784'}",821337530,triveni
+RBA.NS,Restaurant Brands Asia Limited,EQUITY,INR,india,"{'raw': 64942546944, 'fmt': '64.943B', 'longFmt': '64,942,546,944'}",813123529,"restaurant,brands"
+INDIACEM.NS,The India Cements Limited,EQUITY,INR,india,"{'raw': 64814952448, 'fmt': '64.815B', 'longFmt': '64,814,952,448'}",811525961,"india,cements"
+SPARC.NS,Sun Pharma Advanced Research Company Limited,EQUITY,INR,india,"{'raw': 64761577472, 'fmt': '64.762B', 'longFmt': '64,761,577,472'}",810857671,"sun,pharma"
+SYMPHONY.NS,Symphony Limited,EQUITY,INR,india,"{'raw': 64769687552, 'fmt': '64.77B', 'longFmt': '64,769,687,552'}",810959215,"symphony,limited"
+PRINCEPIPE.NS,Prince Pipes and Fittings Limited,EQUITY,INR,india,"{'raw': 64672497664, 'fmt': '64.672B', 'longFmt': '64,672,497,664'}",809742333,"prince,pipes"
+GOCOLORS.NS,Go Fashion (India) Limited,EQUITY,INR,india,"{'raw': 64335802368, 'fmt': '64.336B', 'longFmt': '64,335,802,368'}",805526686,"go,fashion"
+CERA.NS,Cera Sanitaryware Limited,EQUITY,INR,india,"{'raw': 64178917376, 'fmt': '64.179B', 'longFmt': '64,178,917,376'}",803562383,sanitaryware
+MAZDOCK.NS,Mazagon Dock Shipbuilders Limited,EQUITY,INR,india,"{'raw': 63784464384, 'fmt': '63.784B', 'longFmt': '63,784,464,384'}",798623571,mazagon
+INDIGRID.BO,India Grid Trust,EQUITY,INR,india,"{'raw': 83770662912, 'fmt': '83.771B', 'longFmt': '83,770,662,912'}",1048863961,"india,grid"
+RAYMOND.NS,Raymond Limited,EQUITY,INR,india,"{'raw': 63428091904, 'fmt': '63.428B', 'longFmt': '63,428,091,904'}",794161552,"raymond,limited"
+PRSMJOHNSN.NS,Prism Johnson Limited,EQUITY,INR,india,"{'raw': 62919622656, 'fmt': '62.92B', 'longFmt': '62,919,622,656'}",787795182,"prism,johnson"
+MMTC.NS,MMTC Limited,EQUITY,INR,india,"{'raw': 62475001856, 'fmt': '62.475B', 'longFmt': '62,475,001,856'}",782228236,mmtc
+CCL.NS,CCL Products (India) Limited,EQUITY,INR,india,"{'raw': 62483251200, 'fmt': '62.483B', 'longFmt': '62,483,251,200'}",782331524,"ccl,products"
+VAIBHAVGBL.BO,Vaibhav Global Limited,EQUITY,INR,india,"{'raw': 9915442176, 'fmt': '9.915B', 'longFmt': '9,915,442,176'}",124147877,vaibhav
+JCHAC.BO,Johnson Controls-Hitachi Air Conditioning India Limited,EQUITY,INR,india,"{'raw': 40160960512, 'fmt': '40.161B', 'longFmt': '40,160,960,512'}",502841719,controls-hitachi
+PNBHOUSING.NS,PNB Housing Finance Limited,EQUITY,INR,india,"{'raw': 62007799808, 'fmt': '62.008B', 'longFmt': '62,007,799,808'}",776378558,"pnb,housing"
+MFL.NS,Meghmani Finechem Limited,EQUITY,INR,india,"{'raw': 61597896704, 'fmt': '61.598B', 'longFmt': '61,597,896,704'}",771246301,meghmani
+NBCC.NS,NBCC (India) Limited,EQUITY,INR,india,"{'raw': 60839997440, 'fmt': '60.84B', 'longFmt': '60,839,997,440'}",761756902,nbcc
+RAINBOW.NS,Rainbow Children's Medicare Limited,EQUITY,INR,india,"{'raw': 61017931776, 'fmt': '61.018B', 'longFmt': '61,017,931,776'}",763984758,"rainbow,children's"
+GODFRYPHLP.NS,Godfrey Phillips India Limited,EQUITY,INR,india,"{'raw': 60300337152, 'fmt': '60.3B', 'longFmt': '60,300,337,152'}",755000000,"godfrey,phillips"
+INOXLEISUR.NS,INOX Leisure Limited,EQUITY,INR,india,"{'raw': 60056399872, 'fmt': '60.056B', 'longFmt': '60,056,399,872'}",751945744,inox
+VMART.NS,V-Mart Retail Limited,EQUITY,INR,india,"{'raw': 59448520704, 'fmt': '59.449B', 'longFmt': '59,448,520,704'}",744334696,v-mart
+CAPLIPOINT.NS,Caplin Point Laboratories Limited,EQUITY,INR,india,"{'raw': 58896986112, 'fmt': '58.897B', 'longFmt': '58,896,986,112'}",737429119,"caplin,point"
+TEAMLEASE.NS,TeamLease Services Limited,EQUITY,INR,india,"{'raw': 58727510016, 'fmt': '58.728B', 'longFmt': '58,727,510,016'}",735307166,teamlease
+FDC.BO,FDC Limited,EQUITY,INR,india,"{'raw': 44126932992, 'fmt': '44.127B', 'longFmt': '44,126,932,992'}",552498310,fdc
+GHCL.NS,GHCL Limited,EQUITY,INR,india,"{'raw': 58336681984, 'fmt': '58.337B', 'longFmt': '58,336,681,984'}",730413742,ghcl
+INGERRAND.NS,Ingersoll-Rand (India) Limited,EQUITY,INR,india,"{'raw': 58055176192, 'fmt': '58.055B', 'longFmt': '58,055,176,192'}",726889103,ingersoll-rand
+EQUITASBNK.NS,Equitas Small Finance Bank Limited,EQUITY,INR,india,"{'raw': 57914474496, 'fmt': '57.914B', 'longFmt': '57,914,474,496'}",725127425,equitas
+RAJRATAN.NS,Rajratan Global Wire Limited,EQUITY,INR,india,"{'raw': 57891631104, 'fmt': '57.892B', 'longFmt': '57,891,631,104'}",724841411,rajratan
+MASTEK.NS,Mastek Limited,EQUITY,INR,india,"{'raw': 57790980096, 'fmt': '57.791B', 'longFmt': '57,790,980,096'}",723581194,mastek
+EDELWEISS.NS,Edelweiss Financial Services Limited,EQUITY,INR,india,"{'raw': 57152774144, 'fmt': '57.153B', 'longFmt': '57,152,774,144'}",715590434,"edelweiss,financial"
+DELTACORP.NS,Delta Corp Limited,EQUITY,INR,india,"{'raw': 57072758784, 'fmt': '57.073B', 'longFmt': '57,072,758,784'}",714588589,"delta,corp"
+RCF.NS,Rashtriya Chemicals and Fertilizers Limited,EQUITY,INR,india,"{'raw': 56934199296, 'fmt': '56.934B', 'longFmt': '56,934,199,296'}",712853733,rashtriya
+UFLEX.NS,Uflex Limited,EQUITY,INR,india,"{'raw': 56238317568, 'fmt': '56.238B', 'longFmt': '56,238,317,568'}",704140835,uflex
+SWSOLAR.NS,Sterling and Wilson Renewable Energy Limited,EQUITY,INR,india,"{'raw': 56187068416, 'fmt': '56.187B', 'longFmt': '56,187,068,416'}",703499162,"sterling,and"
+ORIENTELEC.NS,Orient Electric Limited,EQUITY,INR,india,"{'raw': 56028864512, 'fmt': '56.029B', 'longFmt': '56,028,864,512'}",701518344,"orient,electric"
+CRAFTSMAN.NS,Craftsman Automation Limited,EQUITY,INR,india,"{'raw': 55899144192, 'fmt': '55.899B', 'longFmt': '55,899,144,192'}",699894160,"craftsman,automation"
+JKLAKSHMI.NS,JK Lakshmi Cement Limited,EQUITY,INR,india,"{'raw': 55799115776, 'fmt': '55.799B', 'longFmt': '55,799,115,776'}",698641739,"jk,lakshmi"
+THYROCARE.BO,Thyrocare Technologies Limited,EQUITY,INR,india,"{'raw': 33250355200, 'fmt': '33.25B', 'longFmt': '33,250,355,200'}",416316381,thyrocare
+INFIBEAM.BO,Infibeam Avenues Limited,EQUITY,INR,india,"{'raw': 10043919360, 'fmt': '10.044B', 'longFmt': '10,043,919,360'}",125756496,infibeam
+KALPATPOWR.NS,Kalpataru Power Transmission Limited,EQUITY,INR,india,"{'raw': 55684517888, 'fmt': '55.685B', 'longFmt': '55,684,517,888'}",697206897,kalpataru
+ZENSARTECH.NS,Zensar Technologies Limited,EQUITY,INR,india,"{'raw': 55435464704, 'fmt': '55.435B', 'longFmt': '55,435,464,704'}",694088587,zensar
+CEATLTD.NS,CEAT Limited,EQUITY,INR,india,"{'raw': 55214387200, 'fmt': '55.214B', 'longFmt': '55,214,387,200'}",691320551,ceat
+TCI.NS,Transport Corporation of India Limited,EQUITY,INR,india,"{'raw': 55299964928, 'fmt': '55.3B', 'longFmt': '55,299,964,928'}",692392041,"transport,corporation"
+GMDCLTD.NS,Gujarat Mineral Development Corporation Limited,EQUITY,INR,india,"{'raw': 55141490688, 'fmt': '55.141B', 'longFmt': '55,141,490,688'}",690407839,"gujarat,mineral"
+MAHSEAMLES.NS,Maharashtra Seamless Limited,EQUITY,INR,india,"{'raw': 55033868288, 'fmt': '55.034B', 'longFmt': '55,033,868,288'}",689060335,"maharashtra,seamless"
+LEMONTREE.NS,Lemon Tree Hotels Limited,EQUITY,INR,india,"{'raw': 54823419904, 'fmt': '54.823B', 'longFmt': '54,823,419,904'}",686425383,"lemon,tree"
+KARURVYSYA.NS,The Karur Vysya Bank Limited,EQUITY,INR,india,"{'raw': 54648332288, 'fmt': '54.648B', 'longFmt': '54,648,332,288'}",684233170,vysya
+SCI.NS,The Shipping Corporation of India Limited,EQUITY,INR,india,"{'raw': 54452568064, 'fmt': '54.453B', 'longFmt': '54,452,568,064'}",681782073,"shipping,corporation"
+JUBLPHARMA.NS,Jubilant Pharmova Limited,EQUITY,INR,india,"{'raw': 54474006528, 'fmt': '54.474B', 'longFmt': '54,474,006,528'}",682050497,pharmova
+SWANENERGY.NS,Swan Energy Limited,EQUITY,INR,india,"{'raw': 54487203840, 'fmt': '54.487B', 'longFmt': '54,487,203,840'}",682215736,"swan,energy"
+MINDACORP.NS,Minda Corporation Limited,EQUITY,INR,india,"{'raw': 54330703872, 'fmt': '54.331B', 'longFmt': '54,330,703,872'}",680256253,"minda,corporation"
+PRIVISCL.NS,Privi Speciality Chemicals Limited,EQUITY,INR,india,"{'raw': 54291009536, 'fmt': '54.291B', 'longFmt': '54,291,009,536'}",679759254,privi
+GREENPANEL.NS,Greenpanel Industries Limited,EQUITY,INR,india,"{'raw': 54139822080, 'fmt': '54.14B', 'longFmt': '54,139,822,080'}",677866287,greenpanel
+JPPOWER.NS,Jaiprakash Power Ventures Limited,EQUITY,INR,india,"{'raw': 53666652160, 'fmt': '53.667B', 'longFmt': '53,666,652,160'}",671941887,jaiprakash
+HATHWAY.BO,Hathway Cable and Datacom Limited,EQUITY,INR,india,"{'raw': 30180202496, 'fmt': '30.18B', 'longFmt': '30,180,202,496'}",377876044,hathway
+VRLLOG.NS,VRL Logistics Limited,EQUITY,INR,india,"{'raw': 53832110080, 'fmt': '53.832B', 'longFmt': '53,832,110,080'}",674013530,vrl
+TATVA.NS,Tatva Chintan Pharma Chem Limited,EQUITY,INR,india,"{'raw': 53765709824, 'fmt': '53.766B', 'longFmt': '53,765,709,824'}",673182155,tatva
+SIS.BO,Security and Intelligence Services (India) Limited,EQUITY,INR,india,"{'raw': 66007265280, 'fmt': '66.007B', 'longFmt': '66,007,265,280'}",826454505,"security,and"
+EPL.NS,EPL Limited,EQUITY,INR,india,"{'raw': 52939984896, 'fmt': '52.94B', 'longFmt': '52,939,984,896'}",662843534,"epl,limited"
+VSTIND.BO,VST Industries Limited,EQUITY,INR,india,"{'raw': 49339187200, 'fmt': '49.339B', 'longFmt': '49,339,187,200'}",617759171,vst
+ROSSARI.NS,Rossari Biotech Limited,EQUITY,INR,india,"{'raw': 52213506048, 'fmt': '52.214B', 'longFmt': '52,213,506,048'}",653747539,rossari
+RPOWER.NS,Reliance Power Limited,EQUITY,INR,india,"{'raw': 52021989376, 'fmt': '52.022B', 'longFmt': '52,021,989,376'}",651349624,"reliance,power"
+RALLIS.BO,Rallis India Limited,EQUITY,INR,india,"{'raw': 44513951744, 'fmt': '44.514B', 'longFmt': '44,513,951,744'}",557344040,rallis
+APARINDS.NS,Apar Industries Limited,EQUITY,INR,india,"{'raw': 51214868480, 'fmt': '51.215B', 'longFmt': '51,214,868,480'}",641243938,"apar,industries"
+KENNAMET.NS,Kennametal India Limited,EQUITY,INR,india,"{'raw': 50704326656, 'fmt': '50.704B', 'longFmt': '50,704,326,656'}",634851618,kennametal
+HEG.NS,HEG Limited,EQUITY,INR,india,"{'raw': 50328530944, 'fmt': '50.329B', 'longFmt': '50,328,530,944'}",630146408,heg
+VARROC.NS,Varroc Engineering Limited,EQUITY,INR,india,"{'raw': 50281525248, 'fmt': '50.282B', 'longFmt': '50,281,525,248'}",629557865,varroc
+ESABINDIA.NS,ESAB India Limited,EQUITY,INR,india,"{'raw': 49873321984, 'fmt': '49.873B', 'longFmt': '49,873,321,984'}",624446891,esab
+BHARATRAS.NS,Bharat Rasayan Limited,EQUITY,INR,india,"{'raw': 49593597952, 'fmt': '49.594B', 'longFmt': '49,593,597,952'}",620944562,rasayan
+HNDFDS.NS,Hindustan Foods Limited,EQUITY,INR,india,"{'raw': 49430245376, 'fmt': '49.43B', 'longFmt': '49,430,245,376'}",618899280,"hindustan,foods"
+MTARTECH.NS,MTAR Technologies Limited,EQUITY,INR,india,"{'raw': 48974221312, 'fmt': '48.974B', 'longFmt': '48,974,221,312'}",613189558,mtar
+OLECTRA.NS,Olectra Greentech Limited,EQUITY,INR,india,"{'raw': 49067843584, 'fmt': '49.068B', 'longFmt': '49,067,843,584'}",614361770,olectra
+ROLEXRINGS.NS,Rolex Rings Limited,EQUITY,INR,india,"{'raw': 48992043008, 'fmt': '48.992B', 'longFmt': '48,992,043,008'}",613412697,rolex
+JUSTDIAL.NS,Just Dial Limited,EQUITY,INR,india,"{'raw': 48445349888, 'fmt': '48.445B', 'longFmt': '48,445,349,888'}",606567739,"just,dial"
+MAHSCOOTER.NS,Maharashtra Scooters Ltd.,EQUITY,INR,india,"{'raw': 48469835776, 'fmt': '48.47B', 'longFmt': '48,469,835,776'}",606874318,"maharashtra,scooters"
+JBMA.NS,JBM Auto Limited,EQUITY,INR,india,"{'raw': 48244776960, 'fmt': '48.245B', 'longFmt': '48,244,776,960'}",604056433,jbm
+NIITLTD.NS,NIIT Limited,EQUITY,INR,india,"{'raw': 47696347136, 'fmt': '47.696B', 'longFmt': '47,696,347,136'}",597189730,niit
+COCHINSHIP.BO,Cochin Shipyard Limited,EQUITY,INR,india,"{'raw': 46742740992, 'fmt': '46.743B', 'longFmt': '46,742,740,992'}",585249952,"cochin,shipyard"
+HLEGLAS.NS,HLE Glascoat Limited,EQUITY,INR,india,"{'raw': 47668432896, 'fmt': '47.668B', 'longFmt': '47,668,432,896'}",596840225,hle
+VALIANTORG.BO,Valiant Organics Limited,EQUITY,INR,india,"{'raw': 8197611520, 'fmt': '8.198B', 'longFmt': '8,197,611,520'}",102639504,"valiant,organics"
+SUPRAJIT.NS,Suprajit Engineering Limited,EQUITY,INR,india,"{'raw': 47537807360, 'fmt': '47.538B', 'longFmt': '47,537,807,360'}",595204707,suprajit
+SHARDACROP.NS,Sharda Cropchem Limited,EQUITY,INR,india,"{'raw': 47408390144, 'fmt': '47.408B', 'longFmt': '47,408,390,144'}",593584319,sharda
+PCBL.NS,PCBL Limited,EQUITY,INR,india,"{'raw': 47069634560, 'fmt': '47.07B', 'longFmt': '47,069,634,560'}",589342875,pcbl
+DATAPATTNS.NS,Data Patterns (India) Limited,EQUITY,INR,india,"{'raw': 47107846144, 'fmt': '47.108B', 'longFmt': '47,107,846,144'}",589821309,"data,patterns"
+CHENNPETRO.NS,Chennai Petroleum Corporation Limited,EQUITY,INR,india,"{'raw': 46391857152, 'fmt': '46.392B', 'longFmt': '46,391,857,152'}",580856655,"chennai,petroleum"
+BLS.NS,BLS International Services Limited,EQUITY,INR,india,"{'raw': 46665973760, 'fmt': '46.666B', 'longFmt': '46,665,973,760'}",584288776,"bls,international"
+DBL.BO,Dilip Buildcon Limited,EQUITY,INR,india,"{'raw': 33024880640, 'fmt': '33.025B', 'longFmt': '33,024,880,640'}",413493291,dilip
+GREENLAM.NS,Greenlam Industries Limited,EQUITY,INR,india,"{'raw': 46021423104, 'fmt': '46.021B', 'longFmt': '46,021,423,104'}",576218576,greenlam
+JAMNAAUTO.NS,Jamna Auto Industries Limited,EQUITY,INR,india,"{'raw': 45801783296, 'fmt': '45.802B', 'longFmt': '45,801,783,296'}",573468541,jamna
+MASFIN.BO,MAS Financial Services Limited,EQUITY,INR,india,"{'raw': 39255515136, 'fmt': '39.256B', 'longFmt': '39,255,515,136'}",491504945,"mas,financial"
+LUXIND.NS,Lux Industries Limited,EQUITY,INR,india,"{'raw': 53099106304, 'fmt': '53.099B', 'longFmt': '53,099,106,304'}",664835839,"lux,industries"
+PDSL.NS,PDS Limited,EQUITY,INR,india,"{'raw': 43946844160, 'fmt': '43.947B', 'longFmt': '43,946,844,160'}",550243479,"pds,limited"
+NOCIL.NS,NOCIL Limited,EQUITY,INR,india,"{'raw': 43953147904, 'fmt': '43.953B', 'longFmt': '43,953,147,904'}",550322406,nocil
+NCC.NS,NCC Limited,EQUITY,INR,india,"{'raw': 43823722496, 'fmt': '43.824B', 'longFmt': '43,823,722,496'}",548701915,"ncc,limited"
+HEIDELBERG.NS,HeidelbergCement India Limited,EQUITY,INR,india,"{'raw': 43770662912, 'fmt': '43.771B', 'longFmt': '43,770,662,912'}",548037574,heidelbergcement
+TATACOFFEE.NS,Tata Coffee Limited,EQUITY,INR,india,"{'raw': 43788226560, 'fmt': '43.788B', 'longFmt': '43,788,226,560'}",548257482,"tata,coffee"
+USHAMART.NS,Usha Martin Limited,EQUITY,INR,india,"{'raw': 43367546880, 'fmt': '43.368B', 'longFmt': '43,367,546,880'}",542990295,"usha,martin"
+POLYMED.BO,Poly Medicure Limited,EQUITY,INR,india,"{'raw': 65504059392, 'fmt': '65.504B', 'longFmt': '65,504,059,392'}",820154035,medicure
+BARBEQUE.NS,Barbeque-Nation Hospitality Limited,EQUITY,INR,india,"{'raw': 43249590272, 'fmt': '43.25B', 'longFmt': '43,249,590,272'}",541513401,barbeque-nation
+NAZARA.NS,Nazara Technologies Limited,EQUITY,INR,india,"{'raw': 43167895552, 'fmt': '43.168B', 'longFmt': '43,167,895,552'}",540490529,nazara
+PARADEEP.NS,Paradeep Phosphates Limited,EQUITY,INR,india,"{'raw': 43046215680, 'fmt': '43.046B', 'longFmt': '43,046,215,680'}",538967017,paradeep
+IFBIND.NS,IFB Industries Limited,EQUITY,INR,india,"{'raw': 43030847488, 'fmt': '43.031B', 'longFmt': '43,030,847,488'}",538774597,"ifb,industries"
+RELIGARE.NS,Religare Enterprises Limited,EQUITY,INR,india,"{'raw': 42648125440, 'fmt': '42.648B', 'longFmt': '42,648,125,440'}",533982664,religare
+ENGINERSIN.BO,Engineers India Limited,EQUITY,INR,india,"{'raw': 42559201280, 'fmt': '42.559B', 'longFmt': '42,559,201,280'}",532869275,"engineers,india"
+GPIL.NS,Godawari Power & Ispat Limited,EQUITY,INR,india,"{'raw': 42205790208, 'fmt': '42.206B', 'longFmt': '42,205,790,208'}",528444335,ispat
+GPPL.NS,Gujarat Pipavav Port Limited,EQUITY,INR,india,"{'raw': 42203869184, 'fmt': '42.204B', 'longFmt': '42,203,869,184'}",528420283,pipavav
+TARSONS.NS,Tarsons Products Limited,EQUITY,INR,india,"{'raw': 41887436800, 'fmt': '41.887B', 'longFmt': '41,887,436,800'}",524458341,tarsons
+HIKAL.NS,Hikal Limited,EQUITY,INR,india,"{'raw': 41540104192, 'fmt': '41.54B', 'longFmt': '41,540,104,192'}",520109507,hikal
+CMSINFO.NS,CMS Info Systems Limited,EQUITY,INR,india,"{'raw': 40924401664, 'fmt': '40.924B', 'longFmt': '40,924,401,664'}",512400505,"cms,info"
+GREAVESCOT.NS,Greaves Cotton Limited,EQUITY,INR,india,"{'raw': 40467218432, 'fmt': '40.467B', 'longFmt': '40,467,218,432'}",506676270,"greaves,cotton"
+HSCL.NS,Himadri Speciality Chemical Limited,EQUITY,INR,india,"{'raw': 40613076992, 'fmt': '40.613B', 'longFmt': '40,613,076,992'}",508502515,himadri
+NESCO.NS,Nesco Limited,EQUITY,INR,india,"{'raw': 40434139136, 'fmt': '40.434B', 'longFmt': '40,434,139,136'}",506262095,nesco
+JSWHL.NS,JSW Holdings Limited,EQUITY,INR,india,"{'raw': 40058458112, 'fmt': '40.058B', 'longFmt': '40,058,458,112'}",501558321,"jsw,holdings"
+WSTCSTPAPR.NS,West Coast Paper Mills Limited,EQUITY,INR,india,"{'raw': 39924142080, 'fmt': '39.924B', 'longFmt': '39,924,142,080'}",499876596,"west,coast"
+MIRZAINT.NS,Mirza International Limited,EQUITY,INR,india,"{'raw': 39821287424, 'fmt': '39.821B', 'longFmt': '39,821,287,424'}",498588787,"mirza,international"
+ELECON.NS,Elecon Engineering Company Limited,EQUITY,INR,india,"{'raw': 39802949632, 'fmt': '39.803B', 'longFmt': '39,802,949,632'}",498359186,elecon
+IOLCP.BO,IOL Chemicals and Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 21944115200, 'fmt': '21.944B', 'longFmt': '21,944,115,200'}",274754798,iol
+HGINFRA.NS,H.G. Infra Engineering Limited,EQUITY,INR,india,"{'raw': 38397718528, 'fmt': '38.398B', 'longFmt': '38,397,718,528'}",480764766,"hg,infra"
+HCG.NS,HealthCare Global Enterprises Limited,EQUITY,INR,india,"{'raw': 37944418304, 'fmt': '37.944B', 'longFmt': '37,944,418,304'}",475089148,"healthcare,global"
+LAOPALA.NS,La Opala RG Limited,EQUITY,INR,india,"{'raw': 37956452352, 'fmt': '37.956B', 'longFmt': '37,956,452,352'}",475239822,opala
+STARCEMENT.NS,Star Cement Limited,EQUITY,INR,india,"{'raw': 37812719616, 'fmt': '37.813B', 'longFmt': '37,812,719,616'}",473440193,"star,cement"
+IRCON.NS,Ircon International Limited,EQUITY,INR,india,"{'raw': 37808742400, 'fmt': '37.809B', 'longFmt': '37,808,742,400'}",473390396,ircon
+ASTEC.NS,Astec LifeSciences Limited,EQUITY,INR,india,"{'raw': 37640830976, 'fmt': '37.641B', 'longFmt': '37,640,830,976'}",471288034,astec
+RESPONIND.NS,Responsive Industries Limited,EQUITY,INR,india,"{'raw': 37492080640, 'fmt': '37.492B', 'longFmt': '37,492,080,640'}",469425582,"responsive,industries"
+KIRLFER.NS,Kirloskar Ferrous Industries Limited,EQUITY,INR,india,"{'raw': 37258481664, 'fmt': '37.258B', 'longFmt': '37,258,481,664'}",466500769,kirloskar
+SHAREINDIA.NS,Share India Securities Limited,EQUITY,INR,india,"{'raw': 37330722816, 'fmt': '37.331B', 'longFmt': '37,330,722,816'}",467405276,"share,india"
+ARVINDFASN.NS,Arvind Fashions Limited,EQUITY,INR,india,"{'raw': 37100830720, 'fmt': '37.101B', 'longFmt': '37,100,830,720'}",464526875,"arvind,fashions"
+RELINFRA.NS,Reliance Infrastructure Limited,EQUITY,INR,india,"{'raw': 37160476672, 'fmt': '37.16B', 'longFmt': '37,160,476,672'}",465273681,"reliance,infrastructure"
+TEGA.NS,Tega Industries Limited,EQUITY,INR,india,"{'raw': 37155438592, 'fmt': '37.155B', 'longFmt': '37,155,438,592'}",465210601,"tega,industries"
+ICRA.NS,ICRA Limited,EQUITY,INR,india,"{'raw': 36928417792, 'fmt': '36.928B', 'longFmt': '36,928,417,792'}",462368151,icra
+SHILPAMED.BO,Shilpa Medicare Limited,EQUITY,INR,india,"{'raw': 31327875072, 'fmt': '31.328B', 'longFmt': '31,327,875,072'}",392245662,shilpa
+SANSERA.NS,Sansera Engineering Limited,EQUITY,INR,india,"{'raw': 37097549824, 'fmt': '37.098B', 'longFmt': '37,097,549,824'}",464485796,sansera
+UJJIVANSFB.NS,Ujjivan Small Finance Bank Limited,EQUITY,INR,india,"{'raw': 36467343360, 'fmt': '36.467B', 'longFmt': '36,467,343,360'}",456595195,ujjivan
+VIJAYA.NS,Vijaya Diagnostic Centre Limited,EQUITY,INR,india,"{'raw': 36542304256, 'fmt': '36.542B', 'longFmt': '36,542,304,256'}",457533755,vijaya
+WOCKPHARMA.NS,Wockhardt Limited,EQUITY,INR,india,"{'raw': 36447178752, 'fmt': '36.447B', 'longFmt': '36,447,178,752'}",456342721,wockhardt
+AMIORG.NS,Ami Organics Limited,EQUITY,INR,india,"{'raw': 36429811712, 'fmt': '36.43B', 'longFmt': '36,429,811,712'}",456125274,"ami,organics"
+NEOGEN.NS,Neogen Chemicals Limited,EQUITY,INR,india,"{'raw': 36164169728, 'fmt': '36.164B', 'longFmt': '36,164,169,728'}",452799261,neogen
+SEQUENT.BO,Sequent Scientific Limited,EQUITY,INR,india,"{'raw': 28225714176, 'fmt': '28.226B', 'longFmt': '28,225,714,176'}",353404561,"sequent,scientific"
+SPANDANA.NS,Spandana Sphoorty Financial Limited,EQUITY,INR,india,"{'raw': 36087341056, 'fmt': '36.087B', 'longFmt': '36,087,341,056'}",451837316,spandana
+TCNSBRANDS.NS,TCNS Clothing Co. Limited,EQUITY,INR,india,"{'raw': 35738947584, 'fmt': '35.739B', 'longFmt': '35,738,947,584'}",447475200,tcns
+DHANI.NS,Dhani Services Limited,EQUITY,INR,india,"{'raw': 35706265600, 'fmt': '35.706B', 'longFmt': '35,706,265,600'}",447066000,dhani
+ADVENZYMES.BO,Advanced Enzyme Technologies Limited,EQUITY,INR,india,"{'raw': 29511811072, 'fmt': '29.512B', 'longFmt': '29,511,811,072'}",369507342,"advanced,enzyme"
+MIDHANI.NS,Mishra Dhatu Nigam Limited,EQUITY,INR,india,"{'raw': 35595931648, 'fmt': '35.596B', 'longFmt': '35,595,931,648'}",445684546,mishra
+BANARISUG.NS,Bannari Amman Sugars Limited,EQUITY,INR,india,"{'raw': 35385778176, 'fmt': '35.386B', 'longFmt': '35,385,778,176'}",443053286,bannari
+CSBBANK.NS,CSB Bank Limited,EQUITY,INR,india,"{'raw': 35338858496, 'fmt': '35.339B', 'longFmt': '35,338,858,496'}",442465820,"csb,bank"
+DEN.BO,DEN Networks Limited,EQUITY,INR,india,"{'raw': 17108720640, 'fmt': '17.109B', 'longFmt': '17,108,720,640'}",214212468,"den,networks"
+TASTYBITE.NS,Tasty Bite Eatables Limited,EQUITY,INR,india,"{'raw': 34886307840, 'fmt': '34.886B', 'longFmt': '34,886,307,840'}",436799587,"tasty,bite"
+ISGEC.NS,Isgec Heavy Engineering Limited,EQUITY,INR,india,"{'raw': 34791809024, 'fmt': '34.792B', 'longFmt': '34,791,809,024'}",435616400,isgec
+ITDC.NS,India Tourism Development Corporation Limited,EQUITY,INR,india,"{'raw': 34680307712, 'fmt': '34.68B', 'longFmt': '34,680,307,712'}",434220330,"india,tourism"
+NAVA.NS,Nava Limited,EQUITY,INR,india,"{'raw': 34185795584, 'fmt': '34.186B', 'longFmt': '34,185,795,584'}",428028712,"nava,limited"
+DHANUKA.BO,Dhanuka Agritech Limited,EQUITY,INR,india,"{'raw': 33637857280, 'fmt': '33.638B', 'longFmt': '33,637,857,280'}",421168163,dhanuka
+JKTYRE.NS,JK Tyre & Industries Limited,EQUITY,INR,india,"{'raw': 34349225984, 'fmt': '34.349B', 'longFmt': '34,349,225,984'}",430074968,"jk,tyre"
+MANINFRA.NS,Man Infraconstruction Limited,EQUITY,INR,india,"{'raw': 34229248000, 'fmt': '34.229B', 'longFmt': '34,229,248,000'}",428572765,infraconstruction
+GATEWAY.NS,Gateway Distriparks Limited,EQUITY,INR,india,"{'raw': 34143539200, 'fmt': '34.144B', 'longFmt': '34,143,539,200'}",427499634,distriparks
+SAFARI.NS,Safari Industries (India) Limited,EQUITY,INR,india,"{'raw': 34020792320, 'fmt': '34.021B', 'longFmt': '34,020,792,320'}",425962762,"safari,industries"
+MOIL.NS,MOIL Limited,EQUITY,INR,india,"{'raw': 33830584320, 'fmt': '33.831B', 'longFmt': '33,830,584,320'}",423581233,"moil,limited"
+PAISALO.NS,Paisalo Digital Limited,EQUITY,INR,india,"{'raw': 33835538432, 'fmt': '33.836B', 'longFmt': '33,835,538,432'}",423643261,paisalo
+GET&D.NS,GE T&D India Limited,EQUITY,INR,india,"{'raw': 33800984576, 'fmt': '33.801B', 'longFmt': '33,800,984,576'}",423210624,t&d
+SUDARSCHEM.BO,Sudarshan Chemical Industries Limited,EQUITY,INR,india,"{'raw': 32270258176, 'fmt': '32.27B', 'longFmt': '32,270,258,176'}",404044920,sudarshan
+RATEGAIN.NS,RateGain Travel Technologies Limited,EQUITY,INR,india,"{'raw': 33633531904, 'fmt': '33.634B', 'longFmt': '33,633,531,904'}",421114006,rategain
+THOMASCOOK.NS,Thomas Cook (India) Limited,EQUITY,INR,india,"{'raw': 33538959360, 'fmt': '33.539B', 'longFmt': '33,538,959,360'}",419929896,"thomas,cook"
+INDOCO.NS,Indoco Remedies Limited,EQUITY,INR,india,"{'raw': 33164929024, 'fmt': '33.165B', 'longFmt': '33,164,929,024'}",415246789,indoco
+PCJEWELLER.NS,PC Jeweller Limited,EQUITY,INR,india,"{'raw': 33066954752, 'fmt': '33.067B', 'longFmt': '33,066,954,752'}",414020087,"pc,jeweller"
+IPL.NS,India Pesticides Limited,EQUITY,INR,india,"{'raw': 32706576384, 'fmt': '32.707B', 'longFmt': '32,706,576,384'}",409507912,"india,pesticides"
+APCOTEXIND.NS,Apcotex Industries Limited,EQUITY,INR,india,"{'raw': 32385794048, 'fmt': '32.386B', 'longFmt': '32,385,794,048'}",405491505,apcotex
+ICIL.BO,Indo Count Industries Limited,EQUITY,INR,india,"{'raw': 29382991872, 'fmt': '29.383B', 'longFmt': '29,382,991,872'}",367894441,indo
+VAKRANGEE.BO,Vakrangee Limited,EQUITY,INR,india,"{'raw': 30299125760, 'fmt': '30.299B', 'longFmt': '30,299,125,760'}",379365042,vakrangee
+KAMAHOLD.BO,KAMA Holdings Limited,EQUITY,INR,india,"{'raw': 81303011328, 'fmt': '81.303B', 'longFmt': '81,303,011,328'}",1017967335,"kama,holdings"
+NAVNETEDUL.NS,Navneet Education Limited,EQUITY,INR,india,"{'raw': 32078491648, 'fmt': '32.078B', 'longFmt': '32,078,491,648'}",401643876,navneet
+DAAWAT.NS,LT Foods Limited,EQUITY,INR,india,"{'raw': 32128428032, 'fmt': '32.128B', 'longFmt': '32,128,428,032'}",402269113,"lt,foods"
+TECHNOE.NS,Techno Electric & Engineering Company Limited,EQUITY,INR,india,"{'raw': 32086327296, 'fmt': '32.086B', 'longFmt': '32,086,327,296'}",401741984,"techno,electric"
+MOLDTKPAC.NS,Mold-Tek Packaging Limited,EQUITY,INR,india,"{'raw': 31948335104, 'fmt': '31.948B', 'longFmt': '31,948,335,104'}",400014231,mold-tek
+FCL.NS,Fineotex Chemical Limited,EQUITY,INR,india,"{'raw': 29603622912, 'fmt': '29.604B', 'longFmt': '29,603,622,912'}",370656887,fineotex
+TINPLATE.NS,The Tinplate Company of India Limited,EQUITY,INR,india,"{'raw': 31819071488, 'fmt': '31.819B', 'longFmt': '31,819,071,488'}",398395765,"tinplate,company"
+GRSE.NS,Garden Reach Shipbuilders & Engineers Limited,EQUITY,INR,india,"{'raw': 31869534208, 'fmt': '31.87B', 'longFmt': '31,869,534,208'}",399027592,"garden,reach"
+GULFOILLUB.BO,Gulf Oil Lubricants India Limited,EQUITY,INR,india,"{'raw': 23144187904, 'fmt': '23.144B', 'longFmt': '23,144,187,904'}",289780500,"gulf,oil"
+KSCL.BO,Kaveri Seed Company Limited,EQUITY,INR,india,"{'raw': 27736303616, 'fmt': '27.736B', 'longFmt': '27,736,303,616'}",347276818,"kaveri,seed"
+SARDAEN.NS,Sarda Energy & Minerals Limited,EQUITY,INR,india,"{'raw': 31361908736, 'fmt': '31.362B', 'longFmt': '31,361,908,736'}",392671786,sarda
+SPICEJET.BO,SpiceJet Limited,EQUITY,INR,india,"{'raw': 28122884096, 'fmt': '28.123B', 'longFmt': '28,122,884,096'}",352117061,spicejet
+DODLA.NS,Dodla Dairy Limited,EQUITY,INR,india,"{'raw': 30977849344, 'fmt': '30.978B', 'longFmt': '30,977,849,344'}",387863109,dodla
+RAILTEL.NS,RailTel Corporation of India Limited,EQUITY,INR,india,"{'raw': 30954467328, 'fmt': '30.954B', 'longFmt': '30,954,467,328'}",387570351,railtel
+J&KBANK.NS,The Jammu and Kashmir Bank Limited,EQUITY,INR,india,"{'raw': 30719287296, 'fmt': '30.719B', 'longFmt': '30,719,287,296'}",384625741,"jammu,and"
+NILKAMAL.NS,Nilkamal Limited,EQUITY,INR,india,"{'raw': 30448613376, 'fmt': '30.449B', 'longFmt': '30,448,613,376'}",381236725,nilkamal
+ACE.NS,Action Construction Equipment Limited,EQUITY,INR,india,"{'raw': 30376540160, 'fmt': '30.377B', 'longFmt': '30,376,540,160'}",380334321,"action,construction"
+GANESHHOUC.NS,Ganesh Housing Corporation Limited,EQUITY,INR,india,"{'raw': 30134878208, 'fmt': '30.135B', 'longFmt': '30,134,878,208'}",377308554,ganesh
+HEMIPROP.NS,Hemisphere Properties India Limited,EQUITY,INR,india,"{'raw': 30125869056, 'fmt': '30.126B', 'longFmt': '30,125,869,056'}",377195754,"hemisphere,properties"
+MAITHANALL.NS,Maithan Alloys Limited,EQUITY,INR,india,"{'raw': 29953417216, 'fmt': '29.953B', 'longFmt': '29,953,417,216'}",375036543,maithan
+AUTOAXLES.NS,Automotive Axles Limited,EQUITY,INR,india,"{'raw': 29890779136, 'fmt': '29.891B', 'longFmt': '29,890,779,136'}",374252273,"automotive,axles"
+VENKEYS.NS,Venky's (India) Limited,EQUITY,INR,india,"{'raw': 29826924544, 'fmt': '29.827B', 'longFmt': '29,826,924,544'}",373452771,venky's
+CARTRADE.NS,CarTrade Tech Limited,EQUITY,INR,india,"{'raw': 29782269952, 'fmt': '29.782B', 'longFmt': '29,782,269,952'}",372893666,cartrade
+SCHNEIDER.NS,Schneider Electric Infrastructure Limited,EQUITY,INR,india,"{'raw': 29780404224, 'fmt': '29.78B', 'longFmt': '29,780,404,224'}",372870306,"schneider,electric"
+RKFORGE.NS,Ramkrishna Forgings Limited,EQUITY,INR,india,"{'raw': 29716541440, 'fmt': '29.717B', 'longFmt': '29,716,541,440'}",372070702,ramkrishna
+AHLUCONT.NS,Ahluwalia Contracts (India) Limited,EQUITY,INR,india,"{'raw': 29704071168, 'fmt': '29.704B', 'longFmt': '29,704,071,168'}",371914566,"ahluwalia,contracts"
+VESUVIUS.NS,Vesuvius India Limited,EQUITY,INR,india,"{'raw': 29635364864, 'fmt': '29.635B', 'longFmt': '29,635,364,864'}",371054317,"vesuvius,india"
+SUPRIYA.NS,Supriya Lifescience Limited,EQUITY,INR,india,"{'raw': 29376221184, 'fmt': '29.376B', 'longFmt': '29,376,221,184'}",367809668,supriya
+SEAMECLTD.NS,Seamec Limited,EQUITY,INR,india,"{'raw': 29030037504, 'fmt': '29.03B', 'longFmt': '29,030,037,504'}",363475220,seamec
+ASTRAMICRO.NS,Astra Microwave Products Limited,EQUITY,INR,india,"{'raw': 28833179648, 'fmt': '28.833B', 'longFmt': '28,833,179,648'}",361010429,"astra,microwave"
+SELMC.NS,SEL Manufacturing Company Limited,EQUITY,INR,india,"{'raw': 28789084160, 'fmt': '28.789B', 'longFmt': '28,789,084,160'}",360458325,"sel,manufacturing"
+VOLTAMP.NS,Voltamp Transformers Limited,EQUITY,INR,india,"{'raw': 28449286144, 'fmt': '28.449B', 'longFmt': '28,449,286,144'}",356203829,voltamp
+RSYSTEMS.NS,R Systems International Limited,EQUITY,INR,india,"{'raw': 28321736704, 'fmt': '28.322B', 'longFmt': '28,321,736,704'}",354606826,"r,systems"
+DCBBANK.NS,DCB Bank Limited,EQUITY,INR,india,"{'raw': 28087695360, 'fmt': '28.088B', 'longFmt': '28,087,695,360'}",351676474,"dcb,bank"
+EMUDHRA.NS,eMudhra Limited,EQUITY,INR,india,"{'raw': 28027992064, 'fmt': '28.028B', 'longFmt': '28,027,992,064'}",350928950,emudhra
+ANANTRAJ.NS,Anant Raj Limited,EQUITY,INR,india,"{'raw': 27704608768, 'fmt': '27.705B', 'longFmt': '27,704,608,768'}",346879977,anant
+HIL.NS,HIL Limited,EQUITY,INR,india,"{'raw': 27786401792, 'fmt': '27.786B', 'longFmt': '27,786,401,792'}",347904080,hil
+SAGCEM.NS,Sagar Cements Limited,EQUITY,INR,india,"{'raw': 27613769728, 'fmt': '27.614B', 'longFmt': '27,613,769,728'}",345742613,sagar
+NEWGEN.NS,Newgen Software Technologies Limited,EQUITY,INR,india,"{'raw': 27611514880, 'fmt': '27.612B', 'longFmt': '27,611,514,880'}",345714381,newgen
+SOMANYCERA.NS,Somany Ceramics Limited,EQUITY,INR,india,"{'raw': 27552524288, 'fmt': '27.553B', 'longFmt': '27,552,524,288'}",344975779,somany
+BUTTERFLY.NS,Butterfly Gandhimathi Appliances Limited,EQUITY,INR,india,"{'raw': 27336845312, 'fmt': '27.337B', 'longFmt': '27,336,845,312'}",342275336,gandhimathi
+JWL.NS,Jupiter Wagons Limited,EQUITY,INR,india,"{'raw': 27230834688, 'fmt': '27.231B', 'longFmt': '27,230,834,688'}",340948013,"jupiter,wagons"
+HAWKINCOOK.BO,Hawkins Cookers Limited,EQUITY,INR,india,"{'raw': 31156365312, 'fmt': '31.156B', 'longFmt': '31,156,365,312'}",390098246,"hawkins,cookers"
+ANANDRATHI.NS,Anand Rathi Wealth Limited,EQUITY,INR,india,"{'raw': 27119198208, 'fmt': '27.119B', 'longFmt': '27,119,198,208'}",339550251,rathi
+TIMETECHNO.NS,Time Technoplast Limited,EQUITY,INR,india,"{'raw': 26990645248, 'fmt': '26.991B', 'longFmt': '26,990,645,248'}",337940683,technoplast
+INDIAGLYCO.NS,India Glycols Limited,EQUITY,INR,india,"{'raw': 26876129280, 'fmt': '26.876B', 'longFmt': '26,876,129,280'}",336506868,"india,glycols"
+RUPA.NS,Rupa & Company Limited,EQUITY,INR,india,"{'raw': 26847506432, 'fmt': '26.848B', 'longFmt': '26,847,506,432'}",336148491,"rupa,&"
+SSWL.NS,Steel Strips Wheels Limited,EQUITY,INR,india,"{'raw': 26544605184, 'fmt': '26.545B', 'longFmt': '26,544,605,184'}",332355967,"steel,strips"
+IONEXCHANG.NS,Ion Exchange (India) Limited,EQUITY,INR,india,"{'raw': 26364860416, 'fmt': '26.365B', 'longFmt': '26,364,860,416'}",330105444,"ion,exchange"
+DCAL.BO,Dishman Carbogen Amcis Limited,EQUITY,INR,india,"{'raw': 18876674048, 'fmt': '18.877B', 'longFmt': '18,876,674,048'}",236348411,dishman
+NDTV.NS,New Delhi Television Limited,EQUITY,INR,india,"{'raw': 26278502400, 'fmt': '26.279B', 'longFmt': '26,278,502,400'}",329024185,"new,delhi"
+FAIRCHEMOR.NS,Fairchem Organics Limited,EQUITY,INR,india,"{'raw': 26133598208, 'fmt': '26.134B', 'longFmt': '26,133,598,208'}",327209889,fairchem
+EVEREADY.NS,Eveready Industries India Limited,EQUITY,INR,india,"{'raw': 26145622016, 'fmt': '26.146B', 'longFmt': '26,145,622,016'}",327360435,"eveready,industries"
+GEPIL.BO,GE Power India Limited,EQUITY,INR,india,"{'raw': 9942947840, 'fmt': '9.943B', 'longFmt': '9,942,947,840'}",124492266,"ge,power"
+ARVIND.NS,Arvind Limited,EQUITY,INR,india,"{'raw': 25920479232, 'fmt': '25.92B', 'longFmt': '25,920,479,232'}",324541499,"arvind,limited"
+GLOBUSSPR.NS,Globus Spirits Limited,EQUITY,INR,india,"{'raw': 25903708160, 'fmt': '25.904B', 'longFmt': '25,903,708,160'}",324331514,"globus,spirits"
+PRUDENT.NS,Prudent Corporate Advisory Services Limited,EQUITY,INR,india,"{'raw': 25806725120, 'fmt': '25.807B', 'longFmt': '25,806,725,120'}",323117222,"prudent,corporate"
+KKCL.NS,Kewal Kiran Clothing Limited,EQUITY,INR,india,"{'raw': 25809145856, 'fmt': '25.809B', 'longFmt': '25,809,145,856'}",323147531,kewal
+JISLJALEQS.NS,Jain Irrigation Systems Limited,EQUITY,INR,india,"{'raw': 25336797184, 'fmt': '25.337B', 'longFmt': '25,336,797,184'}",317233414,"jain,irrigation"
+PURVA.NS,Puravankara Limited,EQUITY,INR,india,"{'raw': 25315762176, 'fmt': '25.316B', 'longFmt': '25,315,762,176'}",316970042,puravankara
+NFL.NS,National Fertilizers Limited,EQUITY,INR,india,"{'raw': 25387411456, 'fmt': '25.387B', 'longFmt': '25,387,411,456'}",317867139,"national,fertilizers"
+FILATEX.NS,Filatex India Limited,EQUITY,INR,india,"{'raw': 25229750272, 'fmt': '25.23B', 'longFmt': '25,229,750,272'}",315893116,filatex
+KOLTEPATIL.NS,Kolte-Patil Developers Limited,EQUITY,INR,india,"{'raw': 25229662208, 'fmt': '25.23B', 'longFmt': '25,229,662,208'}",315892014,kolte-patil
+PTC.NS,PTC India Limited,EQUITY,INR,india,"{'raw': 25116278784, 'fmt': '25.116B', 'longFmt': '25,116,278,784'}",314472379,ptc
+DOLLAR.NS,Dollar Industries Limited,EQUITY,INR,india,"{'raw': 25104476160, 'fmt': '25.104B', 'longFmt': '25,104,476,160'}",314324602,"dollar,industries"
+PARAS.NS,Paras Defence and Space Technologies Limited,EQUITY,INR,india,"{'raw': 25032292352, 'fmt': '25.032B', 'longFmt': '25,032,292,352'}",313420813,"paras,defence"
+ALEMBICLTD.BO,Alembic Limited,EQUITY,INR,india,"{'raw': 19232972800, 'fmt': '19.233B', 'longFmt': '19,232,972,800'}",240809507,"alembic,limited"
+TATAMETALI.NS,Tata Metaliks Limited,EQUITY,INR,india,"{'raw': 24882216960, 'fmt': '24.882B', 'longFmt': '24,882,216,960'}",311541770,metaliks
+COSMOFIRST.NS,Cosmo First Limited,EQUITY,INR,india,"{'raw': 24882106368, 'fmt': '24.882B', 'longFmt': '24,882,106,368'}",311540385,"cosmo,first"
+KIRIINDUS.NS,Kiri Industries Limited,EQUITY,INR,india,"{'raw': 24735281152, 'fmt': '24.735B', 'longFmt': '24,735,281,152'}",309702037,"kiri,industries"
+INDOSTAR.NS,IndoStar Capital Finance Limited,EQUITY,INR,india,"{'raw': 24494221312, 'fmt': '24.494B', 'longFmt': '24,494,221,312'}",306683809,indostar
+ORIENTCEM.NS,Orient Cement Limited,EQUITY,INR,india,"{'raw': 24441006080, 'fmt': '24.441B', 'longFmt': '24,441,006,080'}",306017519,"orient,cement"
+CANTABIL.NS,Cantabil Retail India Limited,EQUITY,INR,india,"{'raw': 24386902016, 'fmt': '24.387B', 'longFmt': '24,386,902,016'}",305340100,cantabil
+TIRUMALCHM.NS,Thirumalai Chemicals Limited,EQUITY,INR,india,"{'raw': 24400474112, 'fmt': '24.4B', 'longFmt': '24,400,474,112'}",305510032,thirumalai
+VISHNU.NS,Vishnu Chemicals Limited,EQUITY,INR,india,"{'raw': 24096274432, 'fmt': '24.096B', 'longFmt': '24,096,274,432'}",301701251,"vishnu,chemicals"
+BAJAJCON.NS,Bajaj Consumer Care Limited,EQUITY,INR,india,"{'raw': 23982626816, 'fmt': '23.983B', 'longFmt': '23,982,626,816'}",300278308,"bajaj,consumer"
+ETHOSLTD.NS,Ethos Limited,EQUITY,INR,india,"{'raw': 23869886464, 'fmt': '23.87B', 'longFmt': '23,869,886,464'}",298866725,"ethos,limited"
+GOODYEAR.NS,Goodyear India Limited,EQUITY,INR,india,"{'raw': 23828848640, 'fmt': '23.829B', 'longFmt': '23,828,848,640'}",298352904,"goodyear,india"
+JAICORPLTD.NS,Jai Corp Limited,EQUITY,INR,india,"{'raw': 23743160320, 'fmt': '23.743B', 'longFmt': '23,743,160,320'}",297280030,"jai,corp"
+IFCI.NS,IFCI Limited,EQUITY,INR,india,"{'raw': 23853058048, 'fmt': '23.853B', 'longFmt': '23,853,058,048'}",298656022,ifci
+HINDWAREAP.NS,Hindware Home Innovation Limited,EQUITY,INR,india,"{'raw': 23662610432, 'fmt': '23.663B', 'longFmt': '23,662,610,432'}",296271492,hindware
+SIYSIL.NS,Siyaram Silk Mills Limited,EQUITY,INR,india,"{'raw': 23587481600, 'fmt': '23.587B', 'longFmt': '23,587,481,600'}",295330829,siyaram
+DISHTV.NS,Dish TV India Limited,EQUITY,INR,india,"{'raw': 23384002560, 'fmt': '23.384B', 'longFmt': '23,384,002,560'}",292783138,"dish,tv"
+KTKBANK.NS,The Karnataka Bank Limited,EQUITY,INR,india,"{'raw': 23286806528, 'fmt': '23.287B', 'longFmt': '23,286,806,528'}",291566179,"karnataka,bank"
+SBCL.NS,Shivalik Bimetal Controls Limited,EQUITY,INR,india,"{'raw': 22939912192, 'fmt': '22.94B', 'longFmt': '22,939,912,192'}",287222833,shivalik
+SOTL.NS,Savita Oil Technologies Limited,EQUITY,INR,india,"{'raw': 22782435328, 'fmt': '22.782B', 'longFmt': '22,782,435,328'}",285251119,savita
+JTEKTINDIA.NS,JTEKT India Limited,EQUITY,INR,india,"{'raw': 22590382080, 'fmt': '22.59B', 'longFmt': '22,590,382,080'}",282846486,jtekt
+MMFL.NS,M M Forgings Limited,EQUITY,INR,india,"{'raw': 22676660224, 'fmt': '22.677B', 'longFmt': '22,676,660,224'}",283926745,"m,m"
+BBOX.NS,Black Box Limited,EQUITY,INR,india,"{'raw': 22646208512, 'fmt': '22.646B', 'longFmt': '22,646,208,512'}",283545469,"black,box"
+TIIL.NS,Technocraft Industries (India) Limited,EQUITY,INR,india,"{'raw': 22588235776, 'fmt': '22.588B', 'longFmt': '22,588,235,776'}",282819612,technocraft
+GREENPLY.NS,Greenply Industries Limited,EQUITY,INR,india,"{'raw': 22509000704, 'fmt': '22.509B', 'longFmt': '22,509,000,704'}",281827537,greenply
+GRAVITA.NS,Gravita India Limited,EQUITY,INR,india,"{'raw': 22285434880, 'fmt': '22.285B', 'longFmt': '22,285,434,880'}",279028345,gravita
+HERANBA.NS,Heranba Industries Limited,EQUITY,INR,india,"{'raw': 22255400960, 'fmt': '22.255B', 'longFmt': '22,255,400,960'}",278652301,heranba
+HBLPOWER.NS,HBL Power Systems Limited,EQUITY,INR,india,"{'raw': 22161739776, 'fmt': '22.162B', 'longFmt': '22,161,739,776'}",277479601,hbl
+OPTIEMUS.NS,Optiemus Infracom Limited,EQUITY,INR,india,"{'raw': 22088574976, 'fmt': '22.089B', 'longFmt': '22,088,574,976'}",276563530,optiemus
+ASHOKA.NS,Ashoka Buildcon Limited,EQUITY,INR,india,"{'raw': 22106937344, 'fmt': '22.107B', 'longFmt': '22,106,937,344'}",276793439,ashoka
+GOKEX.NS,Gokaldas Exports Limited,EQUITY,INR,india,"{'raw': 22002948096, 'fmt': '22.003B', 'longFmt': '22,002,948,096'}",275491425,gokaldas
+HINDOILEXP.NS,Hindustan Oil Exploration Company Limited,EQUITY,INR,india,"{'raw': 21939468288, 'fmt': '21.939B', 'longFmt': '21,939,468,288'}",274696616,"hindustan,oil"
+MAYURUNIQ.NS,Mayur Uniquoters Limited,EQUITY,INR,india,"{'raw': 21927952384, 'fmt': '21.928B', 'longFmt': '21,927,952,384'}",274552429,mayur
+PSPPROJECT.NS,PSP Projects Limited,EQUITY,INR,india,"{'raw': 21858805760, 'fmt': '21.859B', 'longFmt': '21,858,805,760'}",273686667,"psp,projects"
+LGBBROSLTD.NS,L.G. Balakrishnan & Bros Limited,EQUITY,INR,india,"{'raw': 21774798848, 'fmt': '21.775B', 'longFmt': '21,774,798,848'}",272634845,balakrishnan
+BESTAGRO.NS,Best Agrolife Limited,EQUITY,INR,india,"{'raw': 21740120064, 'fmt': '21.74B', 'longFmt': '21,740,120,064'}",272200644,agrolife
+AMRUTANJAN.NS,Amrutanjan Health Care Limited,EQUITY,INR,india,"{'raw': 21654028288, 'fmt': '21.654B', 'longFmt': '21,654,028,288'}",271122718,amrutanjan
+GENESYS.NS,Genesys International Corporation Limited,EQUITY,INR,india,"{'raw': 21644357632, 'fmt': '21.644B', 'longFmt': '21,644,357,632'}",271001635,genesys
+SHANTIGEAR.NS,Shanthi Gears Limited,EQUITY,INR,india,"{'raw': 21580183552, 'fmt': '21.58B', 'longFmt': '21,580,183,552'}",270198134,shanthi
+GABRIEL.NS,Gabriel India Limited,EQUITY,INR,india,"{'raw': 21589784576, 'fmt': '21.59B', 'longFmt': '21,589,784,576'}",270318345,"gabriel,india"
+CHOICEIN.NS,Choice International Limited,EQUITY,INR,india,"{'raw': 21531908096, 'fmt': '21.532B', 'longFmt': '21,531,908,096'}",269593693,"choice,international"
+MARKSANS.BO,Marksans Pharma Limited,EQUITY,INR,india,"{'raw': 21119760384, 'fmt': '21.12B', 'longFmt': '21,119,760,384'}",264433332,marksans
+JAYNECOIND.NS,Jayaswal Neco Industries Limited,EQUITY,INR,india,"{'raw': 21507606528, 'fmt': '21.508B', 'longFmt': '21,507,606,528'}",269289421,jayaswal
+SUBROS.NS,Subros Limited,EQUITY,INR,india,"{'raw': 21667248128, 'fmt': '21.667B', 'longFmt': '21,667,248,128'}",271288240,subros
+BECTORFOOD.NS,Mrs. Bectors Food Specialities Limited,EQUITY,INR,india,"{'raw': 21317605376, 'fmt': '21.318B', 'longFmt': '21,317,605,376'}",266910482,bectors
+UNICHEMLAB.NS,Unichem Laboratories Limited,EQUITY,INR,india,"{'raw': 21354078208, 'fmt': '21.354B', 'longFmt': '21,354,078,208'}",267367146,unichem
+BOMDYEING.NS,The Bombay Dyeing and Manufacturing Company Limited,EQUITY,INR,india,"{'raw': 21242740736, 'fmt': '21.243B', 'longFmt': '21,242,740,736'}",265973127,"bombay,dyeing"
+PRICOLLTD.NS,Pricol Limited,EQUITY,INR,india,"{'raw': 21213388800, 'fmt': '21.213B', 'longFmt': '21,213,388,800'}",265605621,pricol
+BALMLAWRIE.NS,Balmer Lawrie & Co. Ltd.,EQUITY,INR,india,"{'raw': 21196068864, 'fmt': '21.196B', 'longFmt': '21,196,068,864'}",265388764,balmer
+PFOCUS.NS,Prime Focus Limited,EQUITY,INR,india,"{'raw': 21147312128, 'fmt': '21.147B', 'longFmt': '21,147,312,128'}",264778298,"prime,focus"
+ELECTCAST.NS,Electrosteel Castings Limited,EQUITY,INR,india,"{'raw': 21138227200, 'fmt': '21.138B', 'longFmt': '21,138,227,200'}",264664549,"electrosteel,castings"
+NIRLON.BO,Nirlon Limited,EQUITY,INR,india,"{'raw': 34240335872, 'fmt': '34.24B', 'longFmt': '34,240,335,872'}",428711592,nirlon
+BEPL.NS,Bhansali Engineering Polymers Limited,EQUITY,INR,india,"{'raw': 21105590272, 'fmt': '21.106B', 'longFmt': '21,105,590,272'}",264255913,bhansali
+APOLLOPIPE.NS,Apollo Pipes Limited,EQUITY,INR,india,"{'raw': 21054242816, 'fmt': '21.054B', 'longFmt': '21,054,242,816'}",263613009,"apollo,pipes"
+FORBESCO.BO,Forbes & Company Limited,EQUITY,INR,india,"{'raw': 10271155200, 'fmt': '10.271B', 'longFmt': '10,271,155,200'}",128601638,"forbes,&"
+GENUSPOWER.NS,Genus Power Infrastructures Limited,EQUITY,INR,india,"{'raw': 20951873536, 'fmt': '20.952B', 'longFmt': '20,951,873,536'}",262331278,"genus,power"
+SURYAROSNI.NS,Surya Roshni Limited,EQUITY,INR,india,"{'raw': 20947464192, 'fmt': '20.947B', 'longFmt': '20,947,464,192'}",262276070,roshni
+FINOPB.NS,Fino Payments Bank Limited,EQUITY,INR,india,"{'raw': 20903432192, 'fmt': '20.903B', 'longFmt': '20,903,432,192'}",261724760,"fino,payments"
+CAMLINFINE.NS,Camlin Fine Sciences Limited,EQUITY,INR,india,"{'raw': 20408655872, 'fmt': '20.409B', 'longFmt': '20,408,655,872'}",255529834,camlin
+STOVEKRAFT.NS,Stove Kraft Limited,EQUITY,INR,india,"{'raw': 20302534656, 'fmt': '20.303B', 'longFmt': '20,302,534,656'}",254201127,"stove,kraft"
+GATI.NS,Gati Limited,EQUITY,INR,india,"{'raw': 20271439872, 'fmt': '20.271B', 'longFmt': '20,271,439,872'}",253811799,"gati,limited"
+TIPSINDLTD.NS,Tips Industries Limited,EQUITY,INR,india,"{'raw': 20180430848, 'fmt': '20.18B', 'longFmt': '20,180,430,848'}",252672306,"tips,industries"
+TIDEWATER.NS,Tide Water Oil Co. (India) Limited,EQUITY,INR,india,"{'raw': 20032372736, 'fmt': '20.032B', 'longFmt': '20,032,372,736'}",250818521,"tide,water"
+GUFICBIO.NS,Gufic Biosciences Limited,EQUITY,INR,india,"{'raw': 19960870912, 'fmt': '19.961B', 'longFmt': '19,960,870,912'}",249923271,gufic
+FIEMIND.NS,Fiem Industries Limited,EQUITY,INR,india,"{'raw': 19854848000, 'fmt': '19.855B', 'longFmt': '19,854,848,000'}",248595794,fiem
+SHK.NS,S H Kelkar and Company Limited,EQUITY,INR,india,"{'raw': 19856490496, 'fmt': '19.856B', 'longFmt': '19,856,490,496'}",248616359,kelkar
+HCC.NS,Hindustan Construction Company Limited,EQUITY,INR,india,"{'raw': 19852265472, 'fmt': '19.852B', 'longFmt': '19,852,265,472'}",248563459,"hindustan,construction"
+SUBEXLTD.NS,Subex Limited,EQUITY,INR,india,"{'raw': 19714990080, 'fmt': '19.715B', 'longFmt': '19,714,990,080'}",246844681,subex
+STYLAMIND.NS,Stylam Industries Limited,EQUITY,INR,india,"{'raw': 19677591552, 'fmt': '19.678B', 'longFmt': '19,677,591,552'}",246376427,stylam
+INSECTICID.NS,Insecticides (India) Limited,EQUITY,INR,india,"{'raw': 19665799168, 'fmt': '19.666B', 'longFmt': '19,665,799,168'}",246228778,"insecticides,india"
+SWARAJENG.NS,Swaraj Engines Limited,EQUITY,INR,india,"{'raw': 19719776256, 'fmt': '19.72B', 'longFmt': '19,719,776,256'}",246904607,"swaraj,engines"
+GTPL.NS,GTPL Hathway Limited,EQUITY,INR,india,"{'raw': 19568562176, 'fmt': '19.569B', 'longFmt': '19,568,562,176'}",245011307,gtpl
+AGI.NS,AGI Greenpac Limited,EQUITY,INR,india,"{'raw': 19554789376, 'fmt': '19.555B', 'longFmt': '19,554,789,376'}",244838862,agi
+PILANIINVS.NS,Pilani Investment and Industries Corporation Limited,EQUITY,INR,india,"{'raw': 19442782208, 'fmt': '19.443B', 'longFmt': '19,442,782,208'}",243436459,pilani
+ACRYSIL.NS,Acrysil Limited,EQUITY,INR,india,"{'raw': 19416320000, 'fmt': '19.416B', 'longFmt': '19,416,320,000'}",243105134,acrysil
+POWERMECH.NS,Power Mech Projects Limited,EQUITY,INR,india,"{'raw': 19272617984, 'fmt': '19.273B', 'longFmt': '19,272,617,984'}",241305890,"power,mech"
+ANDHRAPAP.NS,Andhra Paper Limited,EQUITY,INR,india,"{'raw': 19228426240, 'fmt': '19.228B', 'longFmt': '19,228,426,240'}",240752581,"andhra,paper"
+CONFIPET.NS,Confidence Petroleum India Limited,EQUITY,INR,india,"{'raw': 19142410240, 'fmt': '19.142B', 'longFmt': '19,142,410,240'}",239675604,"confidence,petroleum"
+VIDHIING.NS,Vidhi Specialty Food Ingredients Limited,EQUITY,INR,india,"{'raw': 19068999680, 'fmt': '19.069B', 'longFmt': '19,068,999,680'}",238756455,vidhi
+WONDERLA.NS,Wonderla Holidays Limited,EQUITY,INR,india,"{'raw': 19011047424, 'fmt': '19.011B', 'longFmt': '19,011,047,424'}",238030854,wonderla
+IGPL.NS,I G Petrochemicals Limited,EQUITY,INR,india,"{'raw': 18908006400, 'fmt': '18.908B', 'longFmt': '18,908,006,400'}",236740713,"i,g"
+DIAMONDYD.NS,Prataap Snacks Limited,EQUITY,INR,india,"{'raw': 18968145920, 'fmt': '18.968B', 'longFmt': '18,968,145,920'}",237493699,prataap
+ANDHRSUGAR.NS,The Andhra Sugars Limited,EQUITY,INR,india,"{'raw': 18908444672, 'fmt': '18.908B', 'longFmt': '18,908,444,672'}",236746200,"andhra,sugars"
+PGEL.NS,PG Electroplast Limited,EQUITY,INR,india,"{'raw': 18767284224, 'fmt': '18.767B', 'longFmt': '18,767,284,224'}",234978778,electroplast
+DBCORP.NS,D. B. Corp Limited,EQUITY,INR,india,"{'raw': 18660014080, 'fmt': '18.66B', 'longFmt': '18,660,014,080'}",233635685,"d,b"
+ORISSAMINE.NS,The Orissa Minerals Development Company Limited,EQUITY,INR,india,"{'raw': 18690000896, 'fmt': '18.69B', 'longFmt': '18,690,000,896'}",234011140,"orissa,minerals"
+BANCOINDIA.NS,Banco Products (India) Limited,EQUITY,INR,india,"{'raw': 18634170368, 'fmt': '18.634B', 'longFmt': '18,634,170,368'}",233312105,"banco,products"
+ATFL.NS,Agro Tech Foods Limited,EQUITY,INR,india,"{'raw': 18630014976, 'fmt': '18.63B', 'longFmt': '18,630,014,976'}",233260077,agro
+OMAXE.NS,Omaxe Limited,EQUITY,INR,india,"{'raw': 18610489344, 'fmt': '18.61B', 'longFmt': '18,610,489,344'}",233015603,omaxe
+DWARKESH.NS,Dwarikesh Sugar Industries Limited,EQUITY,INR,india,"{'raw': 18585307136, 'fmt': '18.585B', 'longFmt': '18,585,307,136'}",232700305,dwarikesh
+TDPOWERSYS.NS,TD Power Systems Limited,EQUITY,INR,india,"{'raw': 18440421376, 'fmt': '18.44B', 'longFmt': '18,440,421,376'}",230886240,"td,power"
+ELANTAS.BO,ELANTAS Beck India Limited,EQUITY,INR,india,"{'raw': 32701679616, 'fmt': '32.702B', 'longFmt': '32,701,679,616'}",409446601,elantas
+EXCELINDUS.NS,Excel Industries Limited,EQUITY,INR,india,"{'raw': 18410414080, 'fmt': '18.41B', 'longFmt': '18,410,414,080'}",230510529,"excel,industries"
+VADILALIND.NS,Vadilal Industries Limited,EQUITY,INR,india,"{'raw': 18366472192, 'fmt': '18.366B', 'longFmt': '18,366,472,192'}",229960347,vadilal
+MBAPL.NS,Madhya Bharat Agro Products Limited,EQUITY,INR,india,"{'raw': 18289903616, 'fmt': '18.29B', 'longFmt': '18,289,903,616'}",229001658,madhya
+NUCLEUS.BO,Nucleus Software Exports Limited,EQUITY,INR,india,"{'raw': 11870386176, 'fmt': '11.87B', 'longFmt': '11,870,386,176'}",148625065,"nucleus,software"
+MSTCLTD.NS,MSTC Limited,EQUITY,INR,india,"{'raw': 18223837184, 'fmt': '18.224B', 'longFmt': '18,223,837,184'}",228174463,mstc
+TWL.NS,Titagarh Wagons Limited,EQUITY,INR,india,"{'raw': 18222620672, 'fmt': '18.223B', 'longFmt': '18,222,620,672'}",228159231,"titagarh,wagons"
+MAXVIL.NS,Max Ventures and Industries Limited,EQUITY,INR,india,"{'raw': 18166108160, 'fmt': '18.166B', 'longFmt': '18,166,108,160'}",227451657,"max,ventures"
+NOVARTIND.NS,Novartis India Limited,EQUITY,INR,india,"{'raw': 18116923392, 'fmt': '18.117B', 'longFmt': '18,116,923,392'}",226835832,novartis
+HESTERBIO.NS,Hester Biosciences Limited,EQUITY,INR,india,"{'raw': 18091964416, 'fmt': '18.092B', 'longFmt': '18,091,964,416'}",226523329,"hester,biosciences"
+LUMAXTECH.NS,Lumax Auto Technologies Limited,EQUITY,INR,india,"{'raw': 17990223872, 'fmt': '17.99B', 'longFmt': '17,990,223,872'}",225249470,lumax
+DATAMATICS.NS,Datamatics Global Services Limited,EQUITY,INR,india,"{'raw': 17975762944, 'fmt': '17.976B', 'longFmt': '17,975,762,944'}",225068410,datamatics
+MONTECARLO.NS,Monte Carlo Fashions Limited,EQUITY,INR,india,"{'raw': 17945704448, 'fmt': '17.946B', 'longFmt': '17,945,704,448'}",224692058,"monte,carlo"
+NELCO.NS,Nelco Limited,EQUITY,INR,india,"{'raw': 17913585664, 'fmt': '17.914B', 'longFmt': '17,913,585,664'}",224289909,nelco
+SESHAPAPER.NS,Seshasayee Paper and Boards Limited,EQUITY,INR,india,"{'raw': 17811310592, 'fmt': '17.811B', 'longFmt': '17,811,310,592'}",223009358,seshasayee
+BLISSGVS.BO,Bliss GVS Pharma Limited,EQUITY,INR,india,"{'raw': 8122826240, 'fmt': '8.123B', 'longFmt': '8,122,826,240'}",101703142,gvs
+TNPL.NS,Tamil Nadu Newsprint and Papers Limited,EQUITY,INR,india,"{'raw': 17717913600, 'fmt': '17.718B', 'longFmt': '17,717,913,600'}",221839966,nadu
+MOREPENLAB.NS,Morepen Laboratories Limited,EQUITY,INR,india,"{'raw': 17520830464, 'fmt': '17.521B', 'longFmt': '17,520,830,464'}",219372355,morepen
+SHAILY.NS,Shaily Engineering Plastics Limited,EQUITY,INR,india,"{'raw': 17457170432, 'fmt': '17.457B', 'longFmt': '17,457,170,432'}",218575289,shaily
+OAL.NS,Oriental Aromatics Limited,EQUITY,INR,india,"{'raw': 17429297152, 'fmt': '17.429B', 'longFmt': '17,429,297,152'}",218226298,"oriental,aromatics"
+TVTODAY.NS,T.V. Today Network Limited,EQUITY,INR,india,"{'raw': 17402347520, 'fmt': '17.402B', 'longFmt': '17,402,347,520'}",217888870,"tv,today"
+POKARNA.NS,Pokarna Limited,EQUITY,INR,india,"{'raw': 17315733504, 'fmt': '17.316B', 'longFmt': '17,315,733,504'}",216804406,pokarna
+GTLINFRA.NS,GTL Infrastructure Limited,EQUITY,INR,india,"{'raw': 16662749184, 'fmt': '16.663B', 'longFmt': '16,662,749,184'}",208628611,gtl
+JAGRAN.NS,Jagran Prakashan Limited,EQUITY,INR,india,"{'raw': 17289031680, 'fmt': '17.289B', 'longFmt': '17,289,031,680'}",216470081,jagran
+REPCOHOME.NS,Repco Home Finance Limited,EQUITY,INR,india,"{'raw': 17118853120, 'fmt': '17.119B', 'longFmt': '17,118,853,120'}",214339334,repco
+SOUTHBANK.NS,The South Indian Bank Limited,EQUITY,INR,india,"{'raw': 17160467456, 'fmt': '17.16B', 'longFmt': '17,160,467,456'}",214860372,"south,indian"
+NXTDIGITAL.NS,Nxtdigital Limited,EQUITY,INR,india,"{'raw': 17048343552, 'fmt': '17.048B', 'longFmt': '17,048,343,552'}",213456507,nxtdigital
+DFM.BO,DFM Foods Limited,EQUITY,INR,india,"{'raw': 16342500352, 'fmt': '16.343B', 'longFmt': '16,342,500,352'}",204618885,"dfm,foods"
+AVTNPL.NS,AVT Natural Products Limited,EQUITY,INR,india,"{'raw': 16827381760, 'fmt': '16.827B', 'longFmt': '16,827,381,760'}",210689920,avt
+ITDCEM.NS,ITD Cementation India Limited,EQUITY,INR,india,"{'raw': 16792276992, 'fmt': '16.792B', 'longFmt': '16,792,276,992'}",210250385,"itd,cementation"
+WHEELS.NS,Wheels India Limited,EQUITY,INR,india,"{'raw': 16768212992, 'fmt': '16.768B', 'longFmt': '16,768,212,992'}",209949088,"wheels,india"
+SHANKARA.NS,Shankara Building Products Limited,EQUITY,INR,india,"{'raw': 16735534080, 'fmt': '16.736B', 'longFmt': '16,735,534,080'}",209539926,"shankara,building"
+KOVAI.NS,Kovai Medical Center and Hospital Limited,EQUITY,INR,india,"{'raw': 16707517440, 'fmt': '16.708B', 'longFmt': '16,707,517,440'}",209189139,kovai
+SIRCA.NS,Sirca Paints India Limited,EQUITY,INR,india,"{'raw': 16736000000, 'fmt': '16.736B', 'longFmt': '16,736,000,000'}",209545760,sirca
+INEOSSTYRO.NS,INEOS Styrolution India Limited,EQUITY,INR,india,"{'raw': 16626306048, 'fmt': '16.626B', 'longFmt': '16,626,306,048'}",208172319,ineos
+SOLARA.NS,Solara Active Pharma Sciences Limited,EQUITY,INR,india,"{'raw': 16498881536, 'fmt': '16.499B', 'longFmt': '16,498,881,536'}",206576880,solara
+ACCELYA.NS,Accelya Solutions India Limited,EQUITY,INR,india,"{'raw': 16432364544, 'fmt': '16.432B', 'longFmt': '16,432,364,544'}",205744044,accelya
+PUNJABCHEM.NS,Punjab Chemicals and Crop Protection Limited,EQUITY,INR,india,"{'raw': 16407437312, 'fmt': '16.407B', 'longFmt': '16,407,437,312'}",205431938,"punjab,chemicals"
+VERANDA.NS,Veranda Learning Solutions Limited,EQUITY,INR,india,"{'raw': 16378475520, 'fmt': '16.378B', 'longFmt': '16,378,475,520'}",205069318,"veranda,learning"
+ISMTLTD.NS,ISMT Limited,EQUITY,INR,india,"{'raw': 16377304064, 'fmt': '16.377B', 'longFmt': '16,377,304,064'}",205054650,ismt
+MANALIPETC.NS,Manali Petrochemicals Limited,EQUITY,INR,india,"{'raw': 16228106240, 'fmt': '16.228B', 'longFmt': '16,228,106,240'}",203186595,"manali,petrochemicals"
+CIGNITITEC.NS,Cigniti Technologies Limited,EQUITY,INR,india,"{'raw': 16247682048, 'fmt': '16.248B', 'longFmt': '16,247,682,048'}",203431697,cigniti
+FORCEMOT.NS,Force Motors Limited,EQUITY,INR,india,"{'raw': 16259554304, 'fmt': '16.26B', 'longFmt': '16,259,554,304'}",203580346,"force,motors"
+ASHIANA.NS,Ashiana Housing Limited,EQUITY,INR,india,"{'raw': 16233027584, 'fmt': '16.233B', 'longFmt': '16,233,027,584'}",203248213,ashiana
+FMGOETZE.NS,Federal-Mogul Goetze (India) Limited,EQUITY,INR,india,"{'raw': 16147217408, 'fmt': '16.147B', 'longFmt': '16,147,217,408'}",202173813,federal-mogul
+MATRIMONY.NS,Matrimony.com Limited,EQUITY,INR,india,"{'raw': 16134153216, 'fmt': '16.134B', 'longFmt': '16,134,153,216'}",202010241,matrimonycom
+SUNFLAG.NS,Sunflag Iron and Steel Company Limited,EQUITY,INR,india,"{'raw': 16103377920, 'fmt': '16.103B', 'longFmt': '16,103,377,920'}",201624914,sunflag
+MUKANDLTD.NS,Mukand Limited,EQUITY,INR,india,"{'raw': 16049728512, 'fmt': '16.05B', 'longFmt': '16,049,728,512'}",200953188,mukand
+ZENTEC.NS,Zen Technologies Limited,EQUITY,INR,india,"{'raw': 16029163520, 'fmt': '16.029B', 'longFmt': '16,029,163,520'}",200695701,"zen,technologies"
+KPIGREEN.NS,KPI Green Energy Limited,EQUITY,INR,india,"{'raw': 15989295104, 'fmt': '15.989B', 'longFmt': '15,989,295,104'}",200196522,kpi
+NRBBEARING.NS,NRB Bearings Limited,EQUITY,INR,india,"{'raw': 15998676992, 'fmt': '15.999B', 'longFmt': '15,998,676,992'}",200313989,nrb
+IMAGICAA.NS,Imagicaaworld Entertainment Limited,EQUITY,INR,india,"{'raw': 15861743616, 'fmt': '15.862B', 'longFmt': '15,861,743,616'}",198599493,imagicaaworld
+WABAG.NS,VA Tech Wabag Limited,EQUITY,INR,india,"{'raw': 15768376320, 'fmt': '15.768B', 'longFmt': '15,768,376,320'}",197430473,"va,tech"
+RPSGVENT.NS,RPSG Ventures Limited,EQUITY,INR,india,"{'raw': 15740235776, 'fmt': '15.74B', 'longFmt': '15,740,235,776'}",197078135,rpsg
+TEXRAIL.NS,Texmaco Rail & Engineering Limited,EQUITY,INR,india,"{'raw': 15740738560, 'fmt': '15.741B', 'longFmt': '15,740,738,560'}",197084430,texmaco
+GALLANTT.NS,Gallantt Metal Limited,EQUITY,INR,india,"{'raw': 15537619968, 'fmt': '15.538B', 'longFmt': '15,537,619,968'}",194541251,gallantt
+GRAUWEIL.NS,Grauer & Weil (India) Limited,EQUITY,INR,india,"{'raw': 15665384448, 'fmt': '15.665B', 'longFmt': '15,665,384,448'}",196140947,grauer
+WENDT.NS,Wendt (India) Limited,EQUITY,INR,india,"{'raw': 15649500160, 'fmt': '15.65B', 'longFmt': '15,649,500,160'}",195942065,"wendt,india"
+RIIL.NS,Reliance Industrial Infrastructure Limited,EQUITY,INR,india,"{'raw': 15611890688, 'fmt': '15.612B', 'longFmt': '15,611,890,688'}",195471170,"reliance,industrial"
+THANGAMAYL.NS,Thangamayil Jewellery Limited,EQUITY,INR,india,"{'raw': 15551076352, 'fmt': '15.551B', 'longFmt': '15,551,076,352'}",194709734,thangamayil
+KITEX.NS,Kitex Garments Limited,EQUITY,INR,india,"{'raw': 15534475264, 'fmt': '15.534B', 'longFmt': '15,534,475,264'}",194501878,kitex
+ADFFOODS.NS,ADF Foods Limited,EQUITY,INR,india,"{'raw': 15485260800, 'fmt': '15.485B', 'longFmt': '15,485,260,800'}",193885680,"adf,foods"
+GOLDIAM.NS,Goldiam International Limited,EQUITY,INR,india,"{'raw': 15469000704, 'fmt': '15.469B', 'longFmt': '15,469,000,704'}",193682093,goldiam
+DHAMPURSUG.NS,Dhampur Sugar Mills Limited,EQUITY,INR,india,"{'raw': 15448394752, 'fmt': '15.448B', 'longFmt': '15,448,394,752'}",193424093,dhampur
+NEULANDLAB.BO,Neuland Laboratories Limited,EQUITY,INR,india,"{'raw': 15257958400, 'fmt': '15.258B', 'longFmt': '15,257,958,400'}",191039704,neuland
+BFUTILITIE.NS,BF Utilities Limited,EQUITY,INR,india,"{'raw': 15333444608, 'fmt': '15.333B', 'longFmt': '15,333,444,608'}",191984841,"bf,utilities"
+INFOBEAN.NS,InfoBeans Technologies Limited,EQUITY,INR,india,"{'raw': 15382730752, 'fmt': '15.383B', 'longFmt': '15,382,730,752'}",192601936,infobeans
+SANGAMIND.NS,Sangam (India) Limited,EQUITY,INR,india,"{'raw': 15294438400, 'fmt': '15.294B', 'longFmt': '15,294,438,400'}",191496458,"sangam,india"
+KRSNAA.NS,Krsnaa Diagnostics Limited,EQUITY,INR,india,"{'raw': 15292200960, 'fmt': '15.292B', 'longFmt': '15,292,200,960'}",191468443,krsnaa
+JMCPROJECT.NS,JMC Projects (India) Limited,EQUITY,INR,india,"{'raw': 15245773824, 'fmt': '15.246B', 'longFmt': '15,245,773,824'}",190887145,jmc
+HERITGFOOD.NS,Heritage Foods Limited,EQUITY,INR,india,"{'raw': 15193680896, 'fmt': '15.194B', 'longFmt': '15,193,680,896'}",190234907,"heritage,foods"
+HONDAPOWER.NS,Honda India Power Products Limited,EQUITY,INR,india,"{'raw': 15091918848, 'fmt': '15.092B', 'longFmt': '15,091,918,848'}",188960779,"honda,india"
+NACLIND.NS,NACL Industries Limited,EQUITY,INR,india,"{'raw': 15127237632, 'fmt': '15.127B', 'longFmt': '15,127,237,632'}",189402994,nacl
+KCP.NS,The KCP Limited,EQUITY,INR,india,"{'raw': 15047435264, 'fmt': '15.047B', 'longFmt': '15,047,435,264'}",188403816,kcp
+GNA.NS,G N A Axles Limited,EQUITY,INR,india,"{'raw': 15078370304, 'fmt': '15.078B', 'longFmt': '15,078,370,304'}",188791143,"g,n"
+CHEMCON.NS,Chemcon Speciality Chemicals Limited,EQUITY,INR,india,"{'raw': 15018587136, 'fmt': '15.019B', 'longFmt': '15,018,587,136'}",188042618,chemcon
+SJS.NS,S.J.S. Enterprises Limited,EQUITY,INR,india,"{'raw': 14948052992, 'fmt': '14.948B', 'longFmt': '14,948,052,992'}",187159484,sjs
+CARERATING.NS,CARE Ratings Limited,EQUITY,INR,india,"{'raw': 14935632896, 'fmt': '14.936B', 'longFmt': '14,935,632,896'}",187003976,"care,ratings"
+MANGCHEFER.NS,Mangalore Chemicals & Fertilizers Limited,EQUITY,INR,india,"{'raw': 14909422592, 'fmt': '14.909B', 'longFmt': '14,909,422,592'}",186675806,"mangalore,chemicals"
+VINDHYATEL.NS,Vindhya Telelinks Limited,EQUITY,INR,india,"{'raw': 14895987712, 'fmt': '14.896B', 'longFmt': '14,895,987,712'}",186507592,vindhya
+GOCLCORP.NS,GOCL Corporation Limited,EQUITY,INR,india,"{'raw': 14817219584, 'fmt': '14.817B', 'longFmt': '14,817,219,584'}",185521363,gocl
+MANORAMA.NS,Manorama Industries Limited,EQUITY,INR,india,"{'raw': 14900941824, 'fmt': '14.901B', 'longFmt': '14,900,941,824'}",186569621,manorama
+LSIL.NS,Lloyds Steels Industries Limited,EQUITY,INR,india,"{'raw': 14632730624, 'fmt': '14.633B', 'longFmt': '14,632,730,624'}",183211440,lloyds
+BENGALASM.BO,Bengal & Assam Company Limited,EQUITY,INR,india,"{'raw': 31460761600, 'fmt': '31.461B', 'longFmt': '31,460,761,600'}",393909489,"bengal,&"
+IMFA.NS,Indian Metals and Ferro Alloys Limited,EQUITY,INR,india,"{'raw': 14626957312, 'fmt': '14.627B', 'longFmt': '14,626,957,312'}",183139154,"indian,metals"
+HIMATSEIDE.BO,Himatsingka Seide Limited,EQUITY,INR,india,"{'raw': 10633377792, 'fmt': '10.633B', 'longFmt': '10,633,377,792'}",133136904,himatsingka
+DPSCLTD.NS,India Power Corporation Limited,EQUITY,INR,india,"{'raw': 14460782592, 'fmt': '14.461B', 'longFmt': '14,460,782,592'}",181058537,"india,power"
+HUHTAMAKI.NS,Huhtamaki India Limited,EQUITY,INR,india,"{'raw': 14255134720, 'fmt': '14.255B', 'longFmt': '14,255,134,720'}",178483690,huhtamaki
+GANECOS.NS,Ganesha Ecosphere Limited,EQUITY,INR,india,"{'raw': 14248254464, 'fmt': '14.248B', 'longFmt': '14,248,254,464'}",178397545,"ganesha,ecosphere"
+NATIONSTD.BO,National Standard (India) Limited,EQUITY,INR,india,"{'raw': 100200996864, 'fmt': '100.201B', 'longFmt': '100,200,996,864'}",1254582581,"national,standard"
+XPROINDIA.NS,Xpro India Limited,EQUITY,INR,india,"{'raw': 14084199424, 'fmt': '14.084B', 'longFmt': '14,084,199,424'}",176343467,xpro
+SANGHIIND.NS,Sanghi Industries Limited,EQUITY,INR,india,"{'raw': 14082543616, 'fmt': '14.083B', 'longFmt': '14,082,543,616'}",176322736,sanghi
+BHAGCHEM.NS,Bhagiradha Chemicals & Industries Limited,EQUITY,INR,india,"{'raw': 14027240448, 'fmt': '14.027B', 'longFmt': '14,027,240,448'}",175630303,bhagiradha
+ESTER.NS,Ester Industries Limited,EQUITY,INR,india,"{'raw': 14010158080, 'fmt': '14.01B', 'longFmt': '14,010,158,080'}",175416421,"ester,industries"
+KINGFA.NS,Kingfa Science & Technology (India) Limited,EQUITY,INR,india,"{'raw': 13892163584, 'fmt': '13.892B', 'longFmt': '13,892,163,584'}",173939052,kingfa
+DCW.NS,DCW Limited,EQUITY,INR,india,"{'raw': 13856453632, 'fmt': '13.856B', 'longFmt': '13,856,453,632'}",173491940,dcw
+GIPCL.NS,Gujarat Industries Power Company Limited,EQUITY,INR,india,"{'raw': 13726028800, 'fmt': '13.726B', 'longFmt': '13,726,028,800'}",171858935,"gujarat,industries"
+EXPLEOSOL.NS,Expleo Solutions Limited,EQUITY,INR,india,"{'raw': 13717844992, 'fmt': '13.718B', 'longFmt': '13,717,844,992'}",171756468,expleo
+SANDHAR.NS,Sandhar Technologies Limited,EQUITY,INR,india,"{'raw': 13648241664, 'fmt': '13.648B', 'longFmt': '13,648,241,664'}",170884989,sandhar
+DYNAMATECH.NS,Dynamatic Technologies Limited,EQUITY,INR,india,"{'raw': 13498600448, 'fmt': '13.499B', 'longFmt': '13,498,600,448'}",169011382,dynamatic
+EKC.NS,Everest Kanto Cylinder Limited,EQUITY,INR,india,"{'raw': 13476180992, 'fmt': '13.476B', 'longFmt': '13,476,180,992'}",168730675,kanto
+PATELENG.NS,Patel Engineering Limited,EQUITY,INR,india,"{'raw': 13485545472, 'fmt': '13.486B', 'longFmt': '13,485,545,472'}",168847925,"patel,engineering"
+ONMOBILE.NS,OnMobile Global Limited,EQUITY,INR,india,"{'raw': 13415882752, 'fmt': '13.416B', 'longFmt': '13,415,882,752'}",167975702,onmobile
+SRHHYPOLTD.NS,Sree Rayalaseema Hi-Strength Hypo Limited,EQUITY,INR,india,"{'raw': 13385117696, 'fmt': '13.385B', 'longFmt': '13,385,117,696'}",167590503,sree
+SHALBY.NS,Shalby Limited,EQUITY,INR,india,"{'raw': 13312156672, 'fmt': '13.312B', 'longFmt': '13,312,156,672'}",166676983,shalby
+KESORAMIND.NS,Kesoram Industries Limited,EQUITY,INR,india,"{'raw': 13324922880, 'fmt': '13.325B', 'longFmt': '13,324,922,880'}",166836824,kesoram
+GOKULAGRO.NS,Gokul Agro Resources Limited,EQUITY,INR,india,"{'raw': 13184084992, 'fmt': '13.184B', 'longFmt': '13,184,084,992'}",165073441,gokul
+ORCHPHARMA.NS,Orchid Pharma Limited,EQUITY,INR,india,"{'raw': 13142881280, 'fmt': '13.143B', 'longFmt': '13,142,881,280'}",164557543,"orchid,pharma"
+KABRAEXTRU.NS,Kabra Extrusiontechnik Limited,EQUITY,INR,india,"{'raw': 13131523072, 'fmt': '13.132B', 'longFmt': '13,131,523,072'}",164415331,kabra
+NAHARSPING.NS,Nahar Spinning Mills Limited,EQUITY,INR,india,"{'raw': 13115146240, 'fmt': '13.115B', 'longFmt': '13,115,146,240'}",164210282,nahar
+MEDICAMEQ.NS,Medicamen Biotech Limited,EQUITY,INR,india,"{'raw': 13085200384, 'fmt': '13.085B', 'longFmt': '13,085,200,384'}",163835340,medicamen
+UGROCAP.NS,UGRO Capital Limited,EQUITY,INR,india,"{'raw': 13078165504, 'fmt': '13.078B', 'longFmt': '13,078,165,504'}",163747259,ugro
+RAMKY.NS,Ramky Infrastructure Limited,EQUITY,INR,india,"{'raw': 13046448128, 'fmt': '13.046B', 'longFmt': '13,046,448,128'}",163350137,ramky
+ALICON.NS,Alicon Castalloy Limited,EQUITY,INR,india,"{'raw': 12987252736, 'fmt': '12.987B', 'longFmt': '12,987,252,736'}",162608971,alicon
+KSL.NS,Kalyani Steels Limited,EQUITY,INR,india,"{'raw': 12938778624, 'fmt': '12.939B', 'longFmt': '12,938,778,624'}",162002043,"kalyani,steels"
+BAJAJHIND.NS,Bajaj Hindusthan Sugar Limited,EQUITY,INR,india,"{'raw': 12749033472, 'fmt': '12.749B', 'longFmt': '12,749,033,472'}",159626309,hindusthan
+TI.NS,Tilaknagar Industries Ltd.,EQUITY,INR,india,"{'raw': 12633427968, 'fmt': '12.633B', 'longFmt': '12,633,427,968'}",158178852,tilaknagar
+PIXTRANS.NS,PIX Transmissions Limited,EQUITY,INR,india,"{'raw': 12613951488, 'fmt': '12.614B', 'longFmt': '12,613,951,488'}",157934993,"pix,transmissions"
+SUTLEJTEX.NS,Sutlej Textiles and Industries Limited,EQUITY,INR,india,"{'raw': 12582067200, 'fmt': '12.582B', 'longFmt': '12,582,067,200'}",157535781,"sutlej,textiles"
+SASKEN.NS,Sasken Technologies Limited,EQUITY,INR,india,"{'raw': 12560728064, 'fmt': '12.561B', 'longFmt': '12,560,728,064'}",157268601,sasken
+PGIL.NS,Pearl Global Industries Limited,EQUITY,INR,india,"{'raw': 12419957760, 'fmt': '12.42B', 'longFmt': '12,419,957,760'}",155506064,"pearl,global"
+SPIC.NS,Southern Petrochemical Industries Corporation Limited,EQUITY,INR,india,"{'raw': 12351370240, 'fmt': '12.351B', 'longFmt': '12,351,370,240'}",154647303,"southern,petrochemical"
+QUICKHEAL.NS,Quick Heal Technologies Limited,EQUITY,INR,india,"{'raw': 12299922432, 'fmt': '12.3B', 'longFmt': '12,299,922,432'}",154003142,"quick,heal"
+TARC.NS,TARC Limited,EQUITY,INR,india,"{'raw': 12275993600, 'fmt': '12.276B', 'longFmt': '12,275,993,600'}",153703538,tarc
+ORIENTHOT.NS,Oriental Hotels Limited,EQUITY,INR,india,"{'raw': 12252320768, 'fmt': '12.252B', 'longFmt': '12,252,320,768'}",153407138,"oriental,hotels"
+MPSLTD.NS,MPS Limited,EQUITY,INR,india,"{'raw': 12230646784, 'fmt': '12.231B', 'longFmt': '12,230,646,784'}",153135766,"mps,limited"
+ARMANFIN.NS,Arman Financial Services Limited,EQUITY,INR,india,"{'raw': 12178000896, 'fmt': '12.178B', 'longFmt': '12,178,000,896'}",152476604,"arman,financial"
+SHALPAINTS.NS,Shalimar Paints Limited,EQUITY,INR,india,"{'raw': 12146769920, 'fmt': '12.147B', 'longFmt': '12,146,769,920'}",152085572,"shalimar,paints"
+PNBGILTS.NS,PNB Gilts Ltd.,EQUITY,INR,india,"{'raw': 12069670912, 'fmt': '12.07B', 'longFmt': '12,069,670,912'}",151120241,"pnb,gilts"
+DOLATALGO.NS,Dolat Algotech Limited,EQUITY,INR,india,"{'raw': 12056000512, 'fmt': '12.056B', 'longFmt': '12,056,000,512'}",150949079,dolat
+TCPLPACK.NS,TCPL Packaging Limited,EQUITY,INR,india,"{'raw': 12026559488, 'fmt': '12.027B', 'longFmt': '12,026,559,488'}",150580458,tcpl
+RPGLIFE.NS,RPG Life Sciences Limited,EQUITY,INR,india,"{'raw': 11994909696, 'fmt': '11.995B', 'longFmt': '11,994,909,696'}",150184182,"rpg,life"
+STEELXIND.NS,Steel Exchange India Limited,EQUITY,INR,india,"{'raw': 11934836736, 'fmt': '11.935B', 'longFmt': '11,934,836,736'}",149432029,"steel,exchange"
+NITINSPIN.NS,Nitin Spinners Limited,EQUITY,INR,india,"{'raw': 11896152064, 'fmt': '11.896B', 'longFmt': '11,896,152,064'}",148947671,"nitin,spinners"
+NATPEROX.BO,National Peroxide Limited,EQUITY,INR,india,"{'raw': 8476825088, 'fmt': '8.477B', 'longFmt': '8,476,825,088'}",106135442,"national,peroxide"
+RANEHOLDIN.NS,Rane Holdings Limited,EQUITY,INR,india,"{'raw': 11737779200, 'fmt': '11.738B', 'longFmt': '11,737,779,200'}",146964738,"rane,holdings"
+SATIA.NS,Satia Industries Limited,EQUITY,INR,india,"{'raw': 11754999808, 'fmt': '11.755B', 'longFmt': '11,754,999,808'}",147180352,satia
+SPAL.NS,S.P. Apparels Limited,EQUITY,INR,india,"{'raw': 11678830592, 'fmt': '11.679B', 'longFmt': '11,678,830,592'}",146226663,"sp,apparels"
+RUSHIL.NS,Rushil Décor Limited,EQUITY,INR,india,"{'raw': 11598406656, 'fmt': '11.598B', 'longFmt': '11,598,406,656'}",145219702,rushil
+PRECAM.NS,Precision Camshafts Limited,EQUITY,INR,india,"{'raw': 11578769408, 'fmt': '11.579B', 'longFmt': '11,578,769,408'}",144973831,"precision,camshafts"
+JETAIRWAYS.NS,Jet Airways (India) Limited,EQUITY,INR,india,"{'raw': 11581213696, 'fmt': '11.581B', 'longFmt': '11,581,213,696'}",145004435,"jet,airways"
+PAUSHAKLTD.BO,Paushak Limited,EQUITY,INR,india,"{'raw': 29588256768, 'fmt': '29.588B', 'longFmt': '29,588,256,768'}",370464493,paushak
+RGL.NS,Renaissance Global Limited,EQUITY,INR,india,"{'raw': 11507018752, 'fmt': '11.507B', 'longFmt': '11,507,018,752'}",144075465,"renaissance,global"
+FOSECOIND.NS,Foseco India Limited,EQUITY,INR,india,"{'raw': 11444536320, 'fmt': '11.445B', 'longFmt': '11,444,536,320'}",143293144,foseco
+BODALCHEM.NS,Bodal Chemicals Limited,EQUITY,INR,india,"{'raw': 11366966272, 'fmt': '11.367B', 'longFmt': '11,366,966,272'}",142321916,bodal
+SANGHVIMOV.NS,Sanghvi Movers Limited,EQUITY,INR,india,"{'raw': 11309046784, 'fmt': '11.309B', 'longFmt': '11,309,046,784'}",141596726,sanghvi
+ADORWELD.NS,Ador Welding Limited,EQUITY,INR,india,"{'raw': 11339789312, 'fmt': '11.34B', 'longFmt': '11,339,789,312'}",141981642,"ador,welding"
+BFINVEST.NS,BF Investment Limited,EQUITY,INR,india,"{'raw': 11250555904, 'fmt': '11.251B', 'longFmt': '11,250,555,904'}",140864381,"bf,investment"
+BBL.NS,Bharat Bijlee Limited,EQUITY,INR,india,"{'raw': 11192663040, 'fmt': '11.193B', 'longFmt': '11,192,663,040'}",140139524,bijlee
+GMBREW.NS,G.M. Breweries Limited,EQUITY,INR,india,"{'raw': 11087187968, 'fmt': '11.087B', 'longFmt': '11,087,187,968'}",138818907,"gm,breweries"
+SURYODAY.NS,Suryoday Small Finance Bank Limited,EQUITY,INR,india,"{'raw': 11040535552, 'fmt': '11.041B', 'longFmt': '11,040,535,552'}",138234788,suryoday
+GEOJITFSL.NS,Geojit Financial Services Limited,EQUITY,INR,india,"{'raw': 11044849664, 'fmt': '11.045B', 'longFmt': '11,044,849,664'}",138288803,geojit
+PANACEABIO.BO,Panacea Biotec Limited,EQUITY,INR,india,"{'raw': 8256594432, 'fmt': '8.257B', 'longFmt': '8,256,594,432'}",103378009,biotec
+MONARCH.NS,Monarch Networth Capital Limited,EQUITY,INR,india,"{'raw': 11053622272, 'fmt': '11.054B', 'longFmt': '11,053,622,272'}",138398642,networth
+SAKSOFT.NS,Saksoft Limited,EQUITY,INR,india,"{'raw': 10942848000, 'fmt': '10.943B', 'longFmt': '10,942,848,000'}",137011675,saksoft
+GOODLUCK.NS,Goodluck India Limited,EQUITY,INR,india,"{'raw': 10866619392, 'fmt': '10.867B', 'longFmt': '10,866,619,392'}",136057243,goodluck
+CENTRUM.NS,Centrum Capital Limited,EQUITY,INR,india,"{'raw': 10837343232, 'fmt': '10.837B', 'longFmt': '10,837,343,232'}",135690686,"centrum,capital"
+SEPC.NS,SEPC Limited,EQUITY,INR,india,"{'raw': 10824385536, 'fmt': '10.824B', 'longFmt': '10,824,385,536'}",135528447,sepc
+APEX.NS,Apex Frozen Foods Limited,EQUITY,INR,india,"{'raw': 10748437504, 'fmt': '10.748B', 'longFmt': '10,748,437,504'}",134577528,"apex,frozen"
+AGSTRA.NS,AGS Transact Technologies Limited,EQUITY,INR,india,"{'raw': 10744165376, 'fmt': '10.744B', 'longFmt': '10,744,165,376'}",134524038,"ags,transact"
+KDDL.NS,KDDL Limited,EQUITY,INR,india,"{'raw': 10695343104, 'fmt': '10.695B', 'longFmt': '10,695,343,104'}",133912751,kddl
+AMBIKCO.NS,Ambika Cotton Mills Limited,EQUITY,INR,india,"{'raw': 10681214976, 'fmt': '10.681B', 'longFmt': '10,681,214,976'}",133735857,ambika
+ANDREWYU.NS,Andrew Yule & Company Limited,EQUITY,INR,india,"{'raw': 10635496448, 'fmt': '10.635B', 'longFmt': '10,635,496,448'}",133163431,"andrew,yule"
+TAJGVK.NS,TAJGVK Hotels & Resorts Limited,EQUITY,INR,india,"{'raw': 10615364608, 'fmt': '10.615B', 'longFmt': '10,615,364,608'}",132911367,tajgvk
+COFFEEDAY.NS,Coffee Day Enterprises Limited,EQUITY,INR,india,"{'raw': 10689350656, 'fmt': '10.689B', 'longFmt': '10,689,350,656'}",133837721,"coffee,day"
+JAGSNPHARM.NS,Jagsonpal Pharmaceuticals Limited,EQUITY,INR,india,"{'raw': 10543015936, 'fmt': '10.543B', 'longFmt': '10,543,015,936'}",132005514,jagsonpal
+MARATHON.NS,Marathon Nextgen Realty Limited,EQUITY,INR,india,"{'raw': 10544015360, 'fmt': '10.544B', 'longFmt': '10,544,015,360'}",132018027,nextgen
+EVERESTIND.NS,Everest Industries Limited,EQUITY,INR,india,"{'raw': 10512950272, 'fmt': '10.513B', 'longFmt': '10,512,950,272'}",131629072,"everest,industries"
+PRECWIRE.NS,Precision Wires India Limited,EQUITY,INR,india,"{'raw': 10517093376, 'fmt': '10.517B', 'longFmt': '10,517,093,376'}",131680946,"precision,wires"
+PITTIENG.NS,Pitti Engineering Limited,EQUITY,INR,india,"{'raw': 10457176064, 'fmt': '10.457B', 'longFmt': '10,457,176,064'}",130930742,pitti
+CAPACITE.NS,Capacit'e Infraprojects Limited,EQUITY,INR,india,"{'raw': 10455291904, 'fmt': '10.455B', 'longFmt': '10,455,291,904'}",130907151,capacit'e
+AVADHSUGAR.NS,Avadh Sugar & Energy Limited,EQUITY,INR,india,"{'raw': 10417575936, 'fmt': '10.418B', 'longFmt': '10,417,575,936'}",130434922,avadh
+ZEEMEDIA.NS,Zee Media Corporation Limited,EQUITY,INR,india,"{'raw': 10444664832, 'fmt': '10.445B', 'longFmt': '10,444,664,832'}",130774093,"zee,media"
+TRANSPEK.BO,Transpek Industry Limited,EQUITY,INR,india,"{'raw': 11366634496, 'fmt': '11.367B', 'longFmt': '11,366,634,496'}",142317762,transpek
+JYOTISTRUC.NS,Jyoti Structures Limited,EQUITY,INR,india,"{'raw': 10408660992, 'fmt': '10.409B', 'longFmt': '10,408,660,992'}",130323302,"jyoti,structures"
+ASTAR.BO,Asian Star Company Limited,EQUITY,INR,india,"{'raw': 11684964352, 'fmt': '11.685B', 'longFmt': '11,684,964,352'}",146303462,"asian,star"
+CENTENKA.NS,Century Enka Limited,EQUITY,INR,india,"{'raw': 10400885760, 'fmt': '10.401B', 'longFmt': '10,400,885,760'}",130225950,"century,enka"
+RAJRILTD.NS,Raj Rayon Industries Limited,EQUITY,INR,india,"{'raw': 10336544768, 'fmt': '10.337B', 'longFmt': '10,336,544,768'}",129420359,"raj,rayon"
+PARAGMILK.NS,Parag Milk Foods Limited,EQUITY,INR,india,"{'raw': 10300585984, 'fmt': '10.301B', 'longFmt': '10,300,585,984'}",128970131,parag
+BAJAJHCARE.NS,Bajaj HealthCare Limited,EQUITY,INR,india,"{'raw': 10245906432, 'fmt': '10.246B', 'longFmt': '10,245,906,432'}",128285507,"bajaj,healthcare"
+SMLISUZU.NS,SML Isuzu Limited,EQUITY,INR,india,"{'raw': 10245893120, 'fmt': '10.246B', 'longFmt': '10,245,893,120'}",128285340,isuzu
+VISAKAIND.NS,Visaka Industries Limited,EQUITY,INR,india,"{'raw': 10235536384, 'fmt': '10.236B', 'longFmt': '10,235,536,384'}",128155667,visaka
+NURECA.NS,Nureca Limited,EQUITY,INR,india,"{'raw': 10128202752, 'fmt': '10.128B', 'longFmt': '10,128,202,752'}",126811779,nureca
+NAVKARCORP.NS,Navkar Corporation Limited,EQUITY,INR,india,"{'raw': 10114876416, 'fmt': '10.115B', 'longFmt': '10,114,876,416'}",126644925,navkar
+UTTAMSUGAR.NS,Uttam Sugar Mills Limited,EQUITY,INR,india,"{'raw': 10070365184, 'fmt': '10.07B', 'longFmt': '10,070,365,184'}",126087615,uttam
+RSWM.NS,RSWM Limited,EQUITY,INR,india,"{'raw': 9994959872, 'fmt': '9.995B', 'longFmt': '9,994,959,872'}",125143491,rswm
+CLNINDIA.NS,Clariant Chemicals (India) Limited,EQUITY,INR,india,"{'raw': 9982878720, 'fmt': '9.983B', 'longFmt': '9,982,878,720'}",124992227,clariant
+RUBYMILLS.NS,The Ruby Mills Limited,EQUITY,INR,india,"{'raw': 9965119488, 'fmt': '9.965B', 'longFmt': '9,965,119,488'}",124769869,"ruby,mills"
+SHREDIGCEM.NS,Shree Digvijay Cement Company Ltd.,EQUITY,INR,india,"{'raw': 9873178624, 'fmt': '9.873B', 'longFmt': '9,873,178,624'}",123618709,digvijay
+IGARASHI.NS,Igarashi Motors India Limited,EQUITY,INR,india,"{'raw': 9887870976, 'fmt': '9.888B', 'longFmt': '9,887,870,976'}",123802667,igarashi
+ARVSMART.NS,Arvind SmartSpaces Limited,EQUITY,INR,india,"{'raw': 9868168192, 'fmt': '9.868B', 'longFmt': '9,868,168,192'}",123555975,smartspaces
+XCHANGING.BO,Xchanging Solutions Limited,EQUITY,INR,india,"{'raw': 8728503296, 'fmt': '8.729B', 'longFmt': '8,728,503,296'}",109286619,xchanging
+NGLFINE.NS,NGL Fine-Chem Limited,EQUITY,INR,india,"{'raw': 9838806016, 'fmt': '9.839B', 'longFmt': '9,838,806,016'}",123188341,ngl
+ASHAPURMIN.NS,Ashapura Minechem Limited,EQUITY,INR,india,"{'raw': 9830180864, 'fmt': '9.83B', 'longFmt': '9,830,180,864'}",123080349,ashapura
+IFGLEXPOR.NS,IFGL Refractories Limited,EQUITY,INR,india,"{'raw': 9811769344, 'fmt': '9.812B', 'longFmt': '9,811,769,344'}",122849824,ifgl
+AJMERA.NS,Ajmera Realty & Infra India Limited,EQUITY,INR,india,"{'raw': 9660764160, 'fmt': '9.661B', 'longFmt': '9,660,764,160'}",120959140,ajmera
+DHARAMSI.NS,The Dharamsi Morarji Chemical Company Limited,EQUITY,INR,india,"{'raw': 9584522240, 'fmt': '9.585B', 'longFmt': '9,584,522,240'}",120004541,dharamsi
+AGARIND.NS,Agarwal Industrial Corporation Limited,EQUITY,INR,india,"{'raw': 9568172032, 'fmt': '9.568B', 'longFmt': '9,568,172,032'}",119799825,"agarwal,industrial"
+SALASAR.NS,Salasar Techno Engineering Limited,EQUITY,INR,india,"{'raw': 9499691008, 'fmt': '9.5B', 'longFmt': '9,499,691,008'}",118942398,salasar
+MANGLMCEM.NS,Mangalam Cement Limited,EQUITY,INR,india,"{'raw': 9511019520, 'fmt': '9.511B', 'longFmt': '9,511,019,520'}",119084238,mangalam
+APTECHT.NS,Aptech Limited,EQUITY,INR,india,"{'raw': 9497011200, 'fmt': '9.497B', 'longFmt': '9,497,011,200'}",118908845,aptech
+AURUM.NS,Aurum PropTech Limited,EQUITY,INR,india,"{'raw': 9472966656, 'fmt': '9.473B', 'longFmt': '9,472,966,656'}",118607791,proptech
+IMPAL.NS,India Motor Parts & Accessories Limited,EQUITY,INR,india,"{'raw': 9434880000, 'fmt': '9.435B', 'longFmt': '9,434,880,000'}",118130921,"india,motor"
+UDAICEMENT.NS,Udaipur Cement Works Limited,EQUITY,INR,india,"{'raw': 9404581888, 'fmt': '9.405B', 'longFmt': '9,404,581,888'}",117751569,"udaipur,cement"
+PRAKASH.NS,Prakash Industries Limited,EQUITY,INR,india,"{'raw': 9366402048, 'fmt': '9.366B', 'longFmt': '9,366,402,048'}",117273532,"prakash,industries"
+SHAKTIPUMP.NS,Shakti Pumps (India) Limited,EQUITY,INR,india,"{'raw': 9354603520, 'fmt': '9.355B', 'longFmt': '9,354,603,520'}",117125807,"shakti,pumps"
+CIFL.BO,Capital India Finance Limited,EQUITY,INR,india,"{'raw': 8574093824, 'fmt': '8.574B', 'longFmt': '8,574,093,824'}",107353310,"capital,india"
+AWHCL.NS,Antony Waste Handling Cell Limited,EQUITY,INR,india,"{'raw': 9293759488, 'fmt': '9.294B', 'longFmt': '9,293,759,488'}",116363999,"antony,waste"
+SASTASUNDR.NS,Sastasundar Ventures Limited,EQUITY,INR,india,"{'raw': 9285484544, 'fmt': '9.285B', 'longFmt': '9,285,484,544'}",116260391,sastasundar
+HEXATRADEX.NS,Hexa Tradex Limited,EQUITY,INR,india,"{'raw': 9264535552, 'fmt': '9.265B', 'longFmt': '9,264,535,552'}",115998096,tradex
+SMCGLOBAL.NS,SMC Global Securities Limited,EQUITY,INR,india,"{'raw': 9224072192, 'fmt': '9.224B', 'longFmt': '9,224,072,192'}",115491468,"smc,global"
+KOPRAN.NS,Kopran Limited,EQUITY,INR,india,"{'raw': 9194820608, 'fmt': '9.195B', 'longFmt': '9,194,820,608'}",115125219,kopran
+BCLIND.NS,BCL Industries Limited,EQUITY,INR,india,"{'raw': 9151108096, 'fmt': '9.151B', 'longFmt': '9,151,108,096'}",114577910,"bcl,industries"
+SPECIALITY.NS,Speciality Restaurants Limited,EQUITY,INR,india,"{'raw': 9149708288, 'fmt': '9.15B', 'longFmt': '9,149,708,288'}",114560383,"speciality,restaurants"
+STEELCAS.NS,Steelcast Limited,EQUITY,INR,india,"{'raw': 9029063680, 'fmt': '9.029B', 'longFmt': '9,029,063,680'}",113049833,steelcast
+TNPETRO.NS,Tamilnadu Petroproducts Limited,EQUITY,INR,india,"{'raw': 9029001216, 'fmt': '9.029B', 'longFmt': '9,029,001,216'}",113049051,tamilnadu
+ANUP.NS,The Anup Engineering Limited,EQUITY,INR,india,"{'raw': 8986103808, 'fmt': '8.986B', 'longFmt': '8,986,103,808'}",112511947,anup
+ORIENTBELL.NS,Orient Bell Limited,EQUITY,INR,india,"{'raw': 8898922496, 'fmt': '8.899B', 'longFmt': '8,898,922,496'}",111420380,"orient,bell"
+RAJMET.NS,Rajnandini Metal Limited,EQUITY,INR,india,"{'raw': 8851046400, 'fmt': '8.851B', 'longFmt': '8,851,046,400'}",110820939,rajnandini
+UNIENTER.NS,Uniphos Enterprises Limited,EQUITY,INR,india,"{'raw': 8843085824, 'fmt': '8.843B', 'longFmt': '8,843,085,824'}",110721268,uniphos
+ROSSELLIND.NS,Rossell India Limited,EQUITY,INR,india,"{'raw': 8832606208, 'fmt': '8.833B', 'longFmt': '8,832,606,208'}",110590056,rossell
+RADIOCITY.NS,Music Broadcast Limited,EQUITY,INR,india,"{'raw': 8832277504, 'fmt': '8.832B', 'longFmt': '8,832,277,504'}",110585940,"music,broadcast"
+5PAISA.NS,5paisa Capital Limited,EQUITY,INR,india,"{'raw': 8796110848, 'fmt': '8.796B', 'longFmt': '8,796,110,848'}",110133110,5paisa
+OCCL.NS,Oriental Carbon & Chemicals Limited,EQUITY,INR,india,"{'raw': 8587043328, 'fmt': '8.587B', 'longFmt': '8,587,043,328'}",107515447,"oriental,carbon"
+SIGACHI.NS,Sigachi Industries Limited,EQUITY,INR,india,"{'raw': 8571008512, 'fmt': '8.571B', 'longFmt': '8,571,008,512'}",107314680,sigachi
+DPABHUSHAN.NS,D. P. Abhushan Limited,EQUITY,INR,india,"{'raw': 8520250368, 'fmt': '8.52B', 'longFmt': '8,520,250,368'}",106679155,abhushan
+INDIANHUME.NS,The Indian Hume Pipe Company Limited,EQUITY,INR,india,"{'raw': 8478260224, 'fmt': '8.478B', 'longFmt': '8,478,260,224'}",106153410,"indian,hume"
+JASH.NS,Jash Engineering Limited,EQUITY,INR,india,"{'raw': 8475005440, 'fmt': '8.475B', 'longFmt': '8,475,005,440'}",106112658,jash
+DVL.NS,Dhunseri Ventures Limited,EQUITY,INR,india,"{'raw': 8462157312, 'fmt': '8.462B', 'longFmt': '8,462,157,312'}",105951791,dhunseri
+SHREYAS.NS,Shreyas Shipping and Logistics Limited,EQUITY,INR,india,"{'raw': 8453637632, 'fmt': '8.454B', 'longFmt': '8,453,637,632'}",105845119,shreyas
+GFLLIMITED.NS,GFL Limited,EQUITY,INR,india,"{'raw': 8459310592, 'fmt': '8.459B', 'longFmt': '8,459,310,592'}",105916149,gfl
+HMT.NS,HMT Limited,EQUITY,INR,india,"{'raw': 8427767296, 'fmt': '8.428B', 'longFmt': '8,427,767,296'}",105521206,"hmt,limited"
+HPAL.NS,HP Adhesives Limited,EQUITY,INR,india,"{'raw': 8388142080, 'fmt': '8.388B', 'longFmt': '8,388,142,080'}",105025072,"hp,adhesives"
+VIMTALABS.NS,Vimta Labs Limited,EQUITY,INR,india,"{'raw': 8378856448, 'fmt': '8.379B', 'longFmt': '8,378,856,448'}",104908810,vimta
+ENIL.NS,Entertainment Network (India) Limited,EQUITY,INR,india,"{'raw': 8330806784, 'fmt': '8.331B', 'longFmt': '8,330,806,784'}",104307196,"entertainment,network"
+VENUSPIPES.NS,Venus Pipes and Tubes Limited,EQUITY,INR,india,"{'raw': 8311471104, 'fmt': '8.311B', 'longFmt': '8,311,471,104'}",104065101,"venus,pipes"
+VINYLINDIA.NS,Vinyl Chemicals (India) Limited,EQUITY,INR,india,"{'raw': 8259029504, 'fmt': '8.259B', 'longFmt': '8,259,029,504'}",103408497,"vinyl,chemicals"
+KRISHANA.NS,Krishana Phoschem Limited,EQUITY,INR,india,"{'raw': 8228024832, 'fmt': '8.228B', 'longFmt': '8,228,024,832'}",103020298,krishana
+NCLIND.NS,NCL Industries Limited,EQUITY,INR,india,"{'raw': 8218799616, 'fmt': '8.219B', 'longFmt': '8,218,799,616'}",102904792,ncl
+SATIN.NS,Satin Creditcare Network Limited,EQUITY,INR,india,"{'raw': 8169569280, 'fmt': '8.17B', 'longFmt': '8,169,569,280'}",102288396,creditcare
+BIGBLOC.NS,Bigbloc Construction Limited,EQUITY,INR,india,"{'raw': 8161845760, 'fmt': '8.162B', 'longFmt': '8,161,845,760'}",102191693,bigbloc
+MADRASFERT.NS,Madras Fertilizers Limited,EQUITY,INR,india,"{'raw': 8095324672, 'fmt': '8.095B', 'longFmt': '8,095,324,672'}",101358805,"madras,fertilizers"
+CONTROLPR.NS,Control Print Limited,EQUITY,INR,india,"{'raw': 8151668736, 'fmt': '8.152B', 'longFmt': '8,151,668,736'}",102064270,"control,print"
+GULPOLY.NS,Gulshan Polyols Limited,EQUITY,INR,india,"{'raw': 14945554432, 'fmt': '14.946B', 'longFmt': '14,945,554,432'}",187128200,gulshan
+DHANVARSHA.NS,TruCap Finance Limited,EQUITY,INR,india,"{'raw': 8082290176, 'fmt': '8.082B', 'longFmt': '8,082,290,176'}",101195604,trucap
+DREDGECORP.NS,Dredging Corporation of India Limited,EQUITY,INR,india,"{'raw': 8002399744, 'fmt': '8.002B', 'longFmt': '8,002,399,744'}",100195323,"dredging,corporation"
+ULTRAMAR.BO,Ultramarine & Pigments Limited,EQUITY,INR,india,"{'raw': 11434720256, 'fmt': '11.435B', 'longFmt': '11,434,720,256'}",143170240,"ultramarine,&"
+ELPROINTL.BO,Elpro International Limited,EQUITY,INR,india,"{'raw': 13549846528, 'fmt': '13.55B', 'longFmt': '13,549,846,528'}",169653017,elpro
+BLACKROSE.BO,Black Rose Industries Limited,EQUITY,INR,india,"{'raw': 9559950336, 'fmt': '9.56B', 'longFmt': '9,559,950,336'}",119696884,"black,rose"
+MMWL.BO,Media Matrix Worldwide Limited,EQUITY,INR,india,"{'raw': 10149350400, 'fmt': '10.149B', 'longFmt': '10,149,350,400'}",127076562,"media,matrix"
+SAINTGOBAIN.BO,Saint-Gobain Sekurit India Limited,EQUITY,INR,india,"{'raw': 8349837312, 'fmt': '8.35B', 'longFmt': '8,349,837,312'}",104545471,saint-gobain
+3IINFOTECH.BO,3i Infotech Limited,EQUITY,INR,india,"{'raw': 73395912704, 'fmt': '73.396B', 'longFmt': '73,395,912,704'}",918965244,3i
+DISAQ.BO,Disa India Limited,EQUITY,INR,india,"{'raw': 11688859648, 'fmt': '11.689B', 'longFmt': '11,688,859,648'}",146352233,"disa,india"
+WPIL.BO,WPIL Limited,EQUITY,INR,india,"{'raw': 10596304896, 'fmt': '10.596B', 'longFmt': '10,596,304,896'}",132672727,wpil
+ENKEIWHEL.BO,Enkei Wheels (India) Limited,EQUITY,INR,india,"{'raw': 8285530624, 'fmt': '8.286B', 'longFmt': '8,285,530,624'}",103740309,enkei
+ALLSEC.BO,Allsec Technologies Limited,EQUITY,INR,india,"{'raw': 7992488448, 'fmt': '7.992B', 'longFmt': '7,992,488,448'}",100071227,allsec
+BEEKAY.BO,Beekay Steel Industries Limited,EQUITY,INR,india,"{'raw': 8178116096, 'fmt': '8.178B', 'longFmt': '8,178,116,096'}",102395408,beekay
+63MOONS.BO,63 moons technologies limited,EQUITY,INR,india,"{'raw': 8409326080, 'fmt': '8.409B', 'longFmt': '8,409,326,080'}",105290309,"63,moons"
+KMCSHIL.BO,KMC Speciality Hospitals (India) Limited,EQUITY,INR,india,"{'raw': 9091988480, 'fmt': '9.092B', 'longFmt': '9,091,988,480'}",113837693,"kmc,speciality"
+SADHNANIQ.BO,Sadhana Nitro Chem Limited,EQUITY,INR,india,"{'raw': 18402045952, 'fmt': '18.402B', 'longFmt': '18,402,045,952'}",230405754,"sadhana,nitro"
+SHIVACEM.BO,Shiva Cement Limited,EQUITY,INR,india,"{'raw': 9155250176, 'fmt': '9.155B', 'longFmt': '9,155,250,176'}",114629771,"shiva,cement"
+TGVSL.BO,TGV SRAAC Limited,EQUITY,INR,india,"{'raw': 15833256960, 'fmt': '15.833B', 'longFmt': '15,833,256,960'}",198242822,sraac
+TIMEX.BO,Timex Group India Limited,EQUITY,INR,india,"{'raw': 8479799808, 'fmt': '8.48B', 'longFmt': '8,479,799,808'}",106172687,"timex,group"
+KHAICHEM.BO,Khaitan Chemicals and Fertilizers Limited,EQUITY,INR,india,"{'raw': 8656285696, 'fmt': '8.656B', 'longFmt': '8,656,285,696'}",108382407,khaitan
+MOSCHIP.BO,MosChip Technologies Limited,EQUITY,INR,india,"{'raw': 10853982208, 'fmt': '10.854B', 'longFmt': '10,853,982,208'}",135899017,moschip
+AURIONPRO.BO,Aurionpro Solutions Limited,EQUITY,INR,india,"{'raw': 8010850304, 'fmt': '8.011B', 'longFmt': '8,010,850,304'}",100301130,aurionpro
+FAZE3Q.BO,Faze Three Limited,EQUITY,INR,india,"{'raw': 9357950976, 'fmt': '9.358B', 'longFmt': '9,357,950,976'}",117167719,"faze,three"
+JYOTIRES.BO,Jyoti Resins and Adhesives Limited,EQUITY,INR,india,"{'raw': 13561600000, 'fmt': '13.562B', 'longFmt': '13,561,600,000'}",169800178,"jyoti,resins"
+AVL.BO,Aditya Vision Limited,EQUITY,INR,india,"{'raw': 15367010304, 'fmt': '15.367B', 'longFmt': '15,367,010,304'}",192405106,"aditya,vision"
+CRESSAN.BO,Cressanda Solutions Limited,EQUITY,INR,india,"{'raw': 10458261504, 'fmt': '10.458B', 'longFmt': '10,458,261,504'}",130944333,cressanda
+HITECH.BO,Hi-Tech Pipes Limited,EQUITY,INR,india,"{'raw': 10050361344, 'fmt': '10.05B', 'longFmt': '10,050,361,344'}",125837154,hi-tech

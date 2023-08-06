@@ -1,0 +1,123 @@
+﻿symbol,longName,quoteType,currency,search_country,marketCap,Market_Cap,name
+XPBRA.MC,Petróleo Brasileiro S.A. - Petrobras,EQUITY,EUR,spain,"{'raw': 97123729408, 'fmt': '97.124B', 'longFmt': '97,123,729,408'}",97230683521,petroleo
+AIR.MC,Airbus SE,EQUITY,EUR,spain,"{'raw': 82386993152, 'fmt': '82.387B', 'longFmt': '82,386,993,152'}",82477718949,"airbus,se"
+ITX.MC,"Industria de Diseño Textil, S.A.",EQUITY,EUR,spain,"{'raw': 74258882560, 'fmt': '74.259B', 'longFmt': '74,258,882,560'}",74340657559,textil
+XVALO.MC,Vale S.A.,EQUITY,EUR,spain,"{'raw': 66629922816, 'fmt': '66.63B', 'longFmt': '66,629,922,816'}",66703296690,"vale,sa"
+IBE.MC,"Iberdrola, S.A.",EQUITY,EUR,spain,"{'raw': 67332603904, 'fmt': '67.333B', 'longFmt': '67,332,603,904'}",67406751581,iberdrola
+XAMXL.MC,"América Móvil, S.A.B. de C.V.",EQUITY,EUR,spain,"{'raw': 60374540288, 'fmt': '60.375B', 'longFmt': '60,374,540,288'}",60441025641,movil
+SAN.MC,"Banco Santander, S.A.",EQUITY,EUR,spain,"{'raw': 41784463360, 'fmt': '41.784B', 'longFmt': '41,784,463,360'}",41830477040,"banco,santander"
+XBBDC.MC,Banco Bradesco S.A.,EQUITY,EUR,spain,"{'raw': 36409384960, 'fmt': '36.409B', 'longFmt': '36,409,384,960'}",36449479523,bradesco
+BBVA.MC,"Banco Bilbao Vizcaya Argentaria, S.A.",EQUITY,EUR,spain,"{'raw': 29135986688, 'fmt': '29.136B', 'longFmt': '29,135,986,688'}",29168071675,argentaria
+NTGY.MC,"Naturgy Energy Group, S.A.",EQUITY,EUR,spain,"{'raw': 28683403264, 'fmt': '28.683B', 'longFmt': '28,683,403,264'}",28714989859,naturgy
+CLNX.MC,"Cellnex Telecom, S.A.",EQUITY,EUR,spain,"{'raw': 27836491776, 'fmt': '27.836B', 'longFmt': '27,836,491,776'}",27867145739,cellnex
+AMS.MC,"Amadeus IT Group, S.A.",EQUITY,EUR,spain,"{'raw': 25014048768, 'fmt': '25.014B', 'longFmt': '25,014,048,768'}",25041594615,"amadeus,it"
+TEF.MC,"Telefónica, S.A.",EQUITY,EUR,spain,"{'raw': 24232908800, 'fmt': '24.233B', 'longFmt': '24,232,908,800'}",24259594444,telefonica
+CCEP.MC,Coca-Cola Europacific Partners PLC,EQUITY,EUR,spain,"{'raw': 24050100224, 'fmt': '24.05B', 'longFmt': '24,050,100,224'}",24076584556,europacific
+CABK.MC,"CaixaBank, S.A.",EQUITY,EUR,spain,"{'raw': 23335098368, 'fmt': '23.335B', 'longFmt': '23,335,098,368'}",23360795329,caixabank
+XELTO.MC,Centrais Elétricas Brasileiras S.A. - Eletrobrás,EQUITY,EUR,spain,"{'raw': 20949399552, 'fmt': '20.949B', 'longFmt': '20,949,399,552'}",20972469346,centrais
+MTS.MC,ArcelorMittal S.A.,EQUITY,EUR,spain,"{'raw': 20026724352, 'fmt': '20.027B', 'longFmt': '20,026,724,352'}",20048778082,arcelormittal
+ELE.MC,"Endesa, S.A.",EQUITY,EUR,spain,"{'raw': 19287508992, 'fmt': '19.288B', 'longFmt': '19,287,508,992'}",19308748687,endesa
+FER.MC,"Ferrovial, S.A.",EQUITY,EUR,spain,"{'raw': 19238674432, 'fmt': '19.239B', 'longFmt': '19,238,674,432'}",19259860350,ferrovial
+AENA.MC,"Aena S.M.E., S.A.",EQUITY,EUR,spain,"{'raw': 19042498560, 'fmt': '19.042B', 'longFmt': '19,042,498,560'}",19063468446,aena
+REP.MC,"Repsol, S.A.",EQUITY,EUR,spain,"{'raw': 18929416192, 'fmt': '18.929B', 'longFmt': '18,929,416,192'}",18950261550,repsol
+ANE.MC,"Corporación Acciona Energías Renovables, S.A.",EQUITY,EUR,spain,"{'raw': 14422081536, 'fmt': '14.422B', 'longFmt': '14,422,081,536'}",14437963349,corporacion
+XEKT.MC,"Grupo Elektra, S.A.B. de C.V.",EQUITY,EUR,spain,"{'raw': 13875495936, 'fmt': '13.875B', 'longFmt': '13,875,495,936'}",13890775841,"grupo,elektra"
+SGRE.MC,"Siemens Gamesa Renewable Energy, S.A.",EQUITY,EUR,spain,"{'raw': 12224176128, 'fmt': '12.224B', 'longFmt': '12,224,176,128'}",12237637574,gamesa
+ANA.MC,"Acciona, S.A.",EQUITY,EUR,spain,"{'raw': 11418833920, 'fmt': '11.419B', 'longFmt': '11,418,833,920'}",11431408511,acciona
+XGGB.MC,Gerdau S.A.,EQUITY,EUR,spain,"{'raw': 7422002176, 'fmt': '7.422B', 'longFmt': '7,422,002,176'}",7430175396,gerdau
+XCMIG.MC,Companhia Energética de Minas Gerais,EQUITY,EUR,spain,"{'raw': 6561757696, 'fmt': '6.562B', 'longFmt': '6,561,757,696'}",6568983602,energetica
+IAG.MC,International Consolidated Airlines Group S.A.,EQUITY,EUR,spain,"{'raw': 6407856128, 'fmt': '6.408B', 'longFmt': '6,407,856,128'}",6414912555,"international,consolidated,airlines"
+ACS.MC,"ACS, Actividades de Construcción y Servicios, S.A.",EQUITY,EUR,spain,"{'raw': 6037286912, 'fmt': '6.037B', 'longFmt': '6,037,286,912'}",6043935263,actividades
+XBRK.MC,Braskem S.A.,EQUITY,EUR,spain,"{'raw': 5399283200, 'fmt': '5.399B', 'longFmt': '5,399,283,200'}",5405228971,braskem
+GRF.MC,"Grifols, S.A.",EQUITY,EUR,spain,"{'raw': 5397635072, 'fmt': '5.398B', 'longFmt': '5,397,635,072'}",5403579029,grifols
+MAP.MC,"Mapfre, S.A.",EQUITY,EUR,spain,"{'raw': 5078177792, 'fmt': '5.078B', 'longFmt': '5,078,177,792'}",5083769957,mapfre
+ENG.MC,"Enagás, S.A.",EQUITY,EUR,spain,"{'raw': 5067215360, 'fmt': '5.067B', 'longFmt': '5,067,215,360'}",5072795453,enagas
+MRL.MC,"MERLIN Properties SOCIMI, S.A.",EQUITY,EUR,spain,"{'raw': 4469207552, 'fmt': '4.469B', 'longFmt': '4,469,207,552'}",4474129110,socimi
+BKT.MC,"Bankinter, S.A.",EQUITY,EUR,spain,"{'raw': 4415907328, 'fmt': '4.416B', 'longFmt': '4,415,907,328'}",4420770191,bankinter
+FCC.MC,"Fomento de Construcciones y Contratas, S.A.",EQUITY,EUR,spain,"{'raw': 3971591424, 'fmt': '3.972B', 'longFmt': '3,971,591,424'}",3975965000,construcciones
+XCOP.MC,Companhia Paranaense de Energia - COPEL,EQUITY,EUR,spain,"{'raw': 3747017216, 'fmt': '3.747B', 'longFmt': '3,747,017,216'}",3751143487,paranaense
+SAB.MC,"Banco de Sabadell, S.A.",EQUITY,EUR,spain,"{'raw': 3642261248, 'fmt': '3.642B', 'longFmt': '3,642,261,248'}",3646272160,"banco,de"
+GCO.MC,"Grupo Catalana Occidente, S.A.",EQUITY,EUR,spain,"{'raw': 3475777536, 'fmt': '3.476B', 'longFmt': '3,475,777,536'}",3479605114,catalana
+FDR.MC,"Fluidra, S.A.",EQUITY,EUR,spain,"{'raw': 3194603264, 'fmt': '3.195B', 'longFmt': '3,194,603,264'}",3198121209,fluidra
+CIE.MC,"CIE Automotive, S.A.",EQUITY,EUR,spain,"{'raw': 2990230784, 'fmt': '2.99B', 'longFmt': '2,990,230,784'}",2993523671,"cie,automotive"
+SLR.MC,"Solaria Energía y Medio Ambiente, S.A.",EQUITY,EUR,spain,"{'raw': 2973833728, 'fmt': '2.974B', 'longFmt': '2,973,833,728'}",2977108558,ambiente
+LOG.MC,"Compañía de Distribución Integral Logista Holdings, S.A.",EQUITY,EUR,spain,"{'raw': 2658579712, 'fmt': '2.659B', 'longFmt': '2,658,579,712'}",2661507380,distribucion
+ROVI.MC,"Laboratorios Farmaceuticos Rovi, S.A.",EQUITY,EUR,spain,"{'raw': 2643088128, 'fmt': '2.643B', 'longFmt': '2,643,088,128'}",2645998736,laboratorios
+VIS.MC,"Viscofan, S.A.",EQUITY,EUR,spain,"{'raw': 2639482624, 'fmt': '2.639B', 'longFmt': '2,639,482,624'}",2642389262,viscofan
+XUSI.MC,Usinas Siderúrgicas de Minas Gerais S.A.,EQUITY,EUR,spain,"{'raw': 2547735040, 'fmt': '2.548B', 'longFmt': '2,547,735,040'}",2550540644,usinas
+EBRO.MC,"Ebro Foods, S.A.",EQUITY,EUR,spain,"{'raw': 2474149120, 'fmt': '2.474B', 'longFmt': '2,474,149,120'}",2476873690,"ebro,foods"
+ACX.MC,"Acerinox, S.A.",EQUITY,EUR,spain,"{'raw': 2427146752, 'fmt': '2.427B', 'longFmt': '2,427,146,752'}",2429819562,acerinox
+UNI.MC,"Unicaja Banco, S.A.",EQUITY,EUR,spain,"{'raw': 2309910784, 'fmt': '2.31B', 'longFmt': '2,309,910,784'}",2312454492,unicaja
+APAM.MC,Aperam S.A.,EQUITY,EUR,spain,"{'raw': 2199182592, 'fmt': '2.199B', 'longFmt': '2,199,182,592'}",2201604364,aperam
+GEST.MC,"Gestamp Automoción, S.A.",EQUITY,EUR,spain,"{'raw': 2151736832, 'fmt': '2.152B', 'longFmt': '2,151,736,832'}",2154106357,gestamp
+VID.MC,"Vidrala, S.A.",EQUITY,EUR,spain,"{'raw': 1942498816, 'fmt': '1.942B', 'longFmt': '1,942,498,816'}",1944637924,vidrala
+ALM.MC,"Almirall, S.A.",EQUITY,EUR,spain,"{'raw': 1732675584, 'fmt': '1.733B', 'longFmt': '1,732,675,584'}",1734583632,almirall
+XBRPO.MC,Bradespar S.A.,EQUITY,EUR,spain,"{'raw': 1662665984, 'fmt': '1.663B', 'longFmt': '1,662,665,984'}",1664496936,bradespar
+SCYR.MC,"Sacyr, S.A.",EQUITY,EUR,spain,"{'raw': 1474404096, 'fmt': '1.474B', 'longFmt': '1,474,404,096'}",1476027731,sacyr
+IDR.MC,"Indra Sistemas, S.A.",EQUITY,EUR,spain,"{'raw': 1469624832, 'fmt': '1.47B', 'longFmt': '1,469,624,832'}",1471243204,sistemas
+XVOLB.MC,Volcan Compañía Minera S.A.A.,EQUITY,EUR,spain,"{'raw': 1409354880, 'fmt': '1.409B', 'longFmt': '1,409,354,880'}",1410906882,minera
+MEL.MC,"Meliá Hotels International, S.A.",EQUITY,EUR,spain,"{'raw': 1371166976, 'fmt': '1.371B', 'longFmt': '1,371,166,976'}",1372676925,"melia,hotels"
+NHH.MC,"NH Hotel Group, S.A.",EQUITY,EUR,spain,"{'raw': 1333064448, 'fmt': '1.333B', 'longFmt': '1,333,064,448'}",1334532438,"nh,hotel"
+FAE.MC,"Faes Farma, S.A.",EQUITY,EUR,spain,"{'raw': 1245403776, 'fmt': '1.245B', 'longFmt': '1,245,403,776'}",1246775233,faes
+LDA.MC,"Línea Directa Aseguradora, S.A.",EQUITY,EUR,spain,"{'raw': 1189856256, 'fmt': '1.19B', 'longFmt': '1,189,856,256'}",1191166543,aseguradora
+PHM.MC,"Pharma Mar, S.A.",EQUITY,EUR,spain,"{'raw': 1122421504, 'fmt': '1.122B', 'longFmt': '1,122,421,504'}",1123657531,"pharma,mar"
+EIDF.MC,"Energía, Innovación y Desarrollo Fotovoltaico, S.A.",EQUITY,EUR,spain,"{'raw': 1100012416, 'fmt': '1.1B', 'longFmt': '1,100,012,416'}",1101223766,innovacion
+GRE.MC,"Grenergy Renovables, S.A.",EQUITY,EUR,spain,"{'raw': 1066509568, 'fmt': '1.067B', 'longFmt': '1,066,509,568'}",1067684024,grenergy
+MVC.MC,Metrovacesa S.A.,EQUITY,EUR,spain,"{'raw': 1031360896, 'fmt': '1.031B', 'longFmt': '1,031,360,896'}",1032496646,metrovacesa
+EAT.MC,AmRest Holdings SE,EQUITY,EUR,spain,"{'raw': 1019289344, 'fmt': '1.019B', 'longFmt': '1,019,289,344'}",1020411800,amrest
+CASH.MC,"Prosegur Cash, S.A.",EQUITY,EUR,spain,"{'raw': 1004710976, 'fmt': '1.005B', 'longFmt': '1,004,710,976'}",1005817378,prosegur
+ENO.MC,"Elecnor, S.A.",EQUITY,EUR,spain,"{'raw': 965226048, 'fmt': '965.226M', 'longFmt': '965,226,048'}",966288969,elecnor
+APPS.MC,"Applus Services, S.A.",EQUITY,EUR,spain,"{'raw': 926628480, 'fmt': '926.628M', 'longFmt': '926,628,480'}",927648897,applus
+TL5.MC,"Mediaset España Comunicación, S.A.",EQUITY,EUR,spain,"{'raw': 921334400, 'fmt': '921.334M', 'longFmt': '921,334,400'}",922348987,mediaset
+ENC.MC,"ENCE Energía y Celulosa, S.A.",EQUITY,EUR,spain,"{'raw': 879242176, 'fmt': '879.242M', 'longFmt': '879,242,176'}",880210410,celulosa
+PRO.MC,"Proeduca Altus, S.A.",EQUITY,EUR,spain,"{'raw': 803985024, 'fmt': '803.985M', 'longFmt': '803,985,024'}",804870384,proeduca
+DIA.MC,"Distribuidora Internacional de Alimentación, S.A.",EQUITY,EUR,spain,"{'raw': 789322240, 'fmt': '789.322M', 'longFmt': '789,322,240'}",790191453,distribuidora
+RLIA.MC,"Realia Business, S.A.",EQUITY,EUR,spain,"{'raw': 786756352, 'fmt': '786.756M', 'longFmt': '786,756,352'}",787622739,"realia,business"
+AEDAS.MC,"Aedas Homes, S.A.",EQUITY,EUR,spain,"{'raw': 772390272, 'fmt': '772.39M', 'longFmt': '772,390,272'}",773240839,aedas
+HOME.MC,"Neinor Homes, S.A.",EQUITY,EUR,spain,"{'raw': 759114560, 'fmt': '759.115M', 'longFmt': '759,114,560'}",759950508,neinor
+OPDE.MC,"Opdenergy Holding, S.A.",EQUITY,EUR,spain,"{'raw': 703156736, 'fmt': '703.157M', 'longFmt': '703,156,736'}",703931062,opdenergy
+UBS.MC,"Urbas Grupo Financiero, S.A.",EQUITY,EUR,spain,"{'raw': 695217664, 'fmt': '695.218M', 'longFmt': '695,217,664'}",695983248,"urbas,grupo"
+A3M.MC,"Atresmedia Corporación de Medios de Comunicación, S.A.",EQUITY,EUR,spain,"{'raw': 649413376, 'fmt': '649.413M', 'longFmt': '649,413,376'}",650128519,atresmedia
+EDR.MC,eDreams ODIGEO S.A.,EQUITY,EUR,spain,"{'raw': 642957184, 'fmt': '642.957M', 'longFmt': '642,957,184'}",643665218,edreams
+DOM.MC,"Global Dominion Access, S.A.",EQUITY,EUR,spain,"{'raw': 607794176, 'fmt': '607.794M', 'longFmt': '607,794,176'}",608463488,"global,dominion"
+SOL.MC,"Soltec Power Holdings, S.A.",EQUITY,EUR,spain,"{'raw': 519485248, 'fmt': '519.485M', 'longFmt': '519,485,248'}",520057312,soltec
+ALNT.MC,"Alantra Partners, S.A.",EQUITY,EUR,spain,"{'raw': 503770464, 'fmt': '503.77M', 'longFmt': '503,770,464'}",504325223,alantra
+MCM.MC,"Miquel y Costas & Miquel, S.A.",EQUITY,EUR,spain,"{'raw': 495399712, 'fmt': '495.4M', 'longFmt': '495,399,712'}",495945253,miquel
+ADX.MC,"Audax Renovables, S.A.",EQUITY,EUR,spain,"{'raw': 492685632, 'fmt': '492.686M', 'longFmt': '492,685,632'}",493228184,audax
+ATRY.MC,"Atrys Health, S.A.",EQUITY,EUR,spain,"{'raw': 435636224, 'fmt': '435.636M', 'longFmt': '435,636,224'}",436115953,atrys
+XTZA.MC,"TV Azteca, S.A.B. de C.V.",EQUITY,EUR,spain,"{'raw': 402853088, 'fmt': '402.853M', 'longFmt': '402,853,088'}",403296715,"tv,azteca"
+R4.MC,"Renta 4 Banco, S.A.",EQUITY,EUR,spain,"{'raw': 377771584, 'fmt': '377.772M', 'longFmt': '377,771,584'}",378187591,renta
+OHLA.MC,"Obrascón Huarte Lain, S.A.",EQUITY,EUR,spain,"{'raw': 348671936, 'fmt': '348.672M', 'longFmt': '348,671,936'}",349055898,obrascon
+ENER.MC,"Grupo Ecoener, S.A.U.",EQUITY,EUR,spain,"{'raw': 336000288, 'fmt': '336M', 'longFmt': '336,000,288'}",336370296,ecoener
+CBAV.MC,"Clínica Baviera, S.A.",EQUITY,EUR,spain,"{'raw': 335856224, 'fmt': '335.856M', 'longFmt': '335,856,224'}",336226073,clinica
+TLGO.MC,"Talgo, S.A.",EQUITY,EUR,spain,"{'raw': 331368608, 'fmt': '331.369M', 'longFmt': '331,368,608'}",331733516,talgo
+YATO.MC,"Atom Hoteles SOCIMI, S.A.",EQUITY,EUR,spain,"{'raw': 326116896, 'fmt': '326.117M', 'longFmt': '326,116,896'}",326476020,hoteles
+TRE.MC,"Técnicas Reunidas, S.A.",EQUITY,EUR,spain,"{'raw': 322678272, 'fmt': '322.678M', 'longFmt': '322,678,272'}",323033610,tecnicas
+ECR.MC,"Ercros, S.A.",EQUITY,EUR,spain,"{'raw': 316419680, 'fmt': '316.42M', 'longFmt': '316,419,680'}",316768126,ercros
+TUB.MC,"Tubacex, S.A.",EQUITY,EUR,spain,"{'raw': 278083808, 'fmt': '278.084M', 'longFmt': '278,083,808'}",278390038,tubacex
+SQRL.MC,"Squirrel Media, S.A.",EQUITY,EUR,spain,"{'raw': 268808704, 'fmt': '268.809M', 'longFmt': '268,808,704'}",269104720,"squirrel,media"
+GSJ.MC,"Grupo Empresarial San José, S.A.",EQUITY,EUR,spain,"{'raw': 263355712, 'fmt': '263.356M', 'longFmt': '263,355,712'}",263645723,empresarial
+HLZ.MC,"Holaluz-Clidom, S.A.",EQUITY,EUR,spain,"{'raw': 233798208, 'fmt': '233.798M', 'longFmt': '233,798,208'}",234055670,holaluz-clidom
+PRM.MC,"Prim, S.A.",EQUITY,EUR,spain,"{'raw': 233292144, 'fmt': '233.292M', 'longFmt': '233,292,144'}",233549048,"prim,sa"
+SNG.MC,"Singular People, S.A.",EQUITY,EUR,spain,"{'raw': 226180496, 'fmt': '226.18M', 'longFmt': '226,180,496'}",226429569,"singular,people"
+AMP.MC,"Amper, S.A.",EQUITY,EUR,spain,"{'raw': 201237792, 'fmt': '201.238M', 'longFmt': '201,237,792'}",201459398,"amper,sa"
+ALC.MC,"Altia Consultores, S.A.",EQUITY,EUR,spain,"{'raw': 197788896, 'fmt': '197.789M', 'longFmt': '197,788,896'}",198006704,altia
+IZER.MC,"izertis, S.A.",EQUITY,EUR,spain,"{'raw': 183046752, 'fmt': '183.047M', 'longFmt': '183,046,752'}",183248325,izertis
+RJF.MC,"Laboratorio Reig Jofre, S.A.",EQUITY,EUR,spain,"{'raw': 200963168, 'fmt': '200.963M', 'longFmt': '200,963,168'}",201184471,laboratorio
+CEV.MC,Compañía Española de Viviendas en Alquiler S.A.,EQUITY,EUR,spain,"{'raw': 165551104, 'fmt': '165.551M', 'longFmt': '165,551,104'}",165733411,viviendas
+OLE.MC,"Deoleo, S.A.",EQUITY,EUR,spain,"{'raw': 147500000, 'fmt': '147.5M', 'longFmt': '147,500,000'}",147662429,deoleo
+ISUR.MC,"Inmobiliaria del Sur, S.A.",EQUITY,EUR,spain,"{'raw': 146961936, 'fmt': '146.962M', 'longFmt': '146,961,936'}",147123772,"inmobiliaria,del"
+IBG.MC,"Iberpapel Gestión, S.A.",EQUITY,EUR,spain,"{'raw': 145753136, 'fmt': '145.753M', 'longFmt': '145,753,136'}",145913641,iberpapel
+AZK.MC,"Azkoyen, S.A.",EQUITY,EUR,spain,"{'raw': 143837872, 'fmt': '143.838M', 'longFmt': '143,837,872'}",143996268,azkoyen
+ORY.MC,Oryzon Genomics S.A.,EQUITY,EUR,spain,"{'raw': 134157752, 'fmt': '134.158M', 'longFmt': '134,157,752'}",134305488,oryzon
+AMEN.MC,"Aeternal Mentis, S.A.",EQUITY,EUR,spain,"{'raw': 126370896, 'fmt': '126.371M', 'longFmt': '126,370,896'}",126510057,aeternal
+GALQ.MC,"General de Alquiler de Maquinaria, S.A.",EQUITY,EUR,spain,"{'raw': 123463560, 'fmt': '123.464M', 'longFmt': '123,463,560'}",123599519,alquiler
+LLYC.MC,"Llorente & Cuenca, S.A.",EQUITY,EUR,spain,"{'raw': 122215800, 'fmt': '122.216M', 'longFmt': '122,215,800'}",122350385,"llorente,&"
+NXT.MC,"Nueva Expresión Textil, S.A.",EQUITY,EUR,spain,"{'raw': 121625736, 'fmt': '121.626M', 'longFmt': '121,625,736'}",121759672,nueva
+GIGA.MC,"Gigas Hosting, S.A.",EQUITY,EUR,spain,"{'raw': 119187000, 'fmt': '119.187M', 'longFmt': '119,187,000'}",119318250,"gigas,hosting"
+USI.MC,"Umbrella Solar Investment, S.A.",EQUITY,EUR,spain,"{'raw': 116413200, 'fmt': '116.413M', 'longFmt': '116,413,200'}",116541395,"umbrella,solar"
+YMRE.MC,"Meridia Real Estate III, SOCIMI, S.A.",EQUITY,EUR,spain,"{'raw': 115082320, 'fmt': '115.082M', 'longFmt': '115,082,320'}",115209050,meridia
+NTH.MC,"Naturhouse Health, S.A.",EQUITY,EUR,spain,"{'raw': 102813392, 'fmt': '102.813M', 'longFmt': '102,813,392'}",102926611,naturhouse
+YTAN.MC,"Tander Inversiones SOCIMI, S.A.",EQUITY,EUR,spain,"{'raw': 102152520, 'fmt': '102.153M', 'longFmt': '102,152,520'}",102265011,inversiones
+BKY.MC,Berkeley Energia Limited,EQUITY,EUR,spain,"{'raw': 102533312, 'fmt': '102.533M', 'longFmt': '102,533,312'}",102646223,"berkeley,energia"
+PRS.MC,"Promotora de Informaciones, S.A.",EQUITY,EUR,spain,"{'raw': 334456704, 'fmt': '334.457M', 'longFmt': '334,456,704'}",334825012,promotora

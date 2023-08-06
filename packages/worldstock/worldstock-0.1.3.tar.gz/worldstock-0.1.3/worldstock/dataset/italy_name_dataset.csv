@@ -1,0 +1,256 @@
+﻿symbol,longName,quoteType,currency,search_country,marketCap,Market_Cap,name
+GOOG.MI,Alphabet Inc.,EQUITY,EUR,italy,"{'raw': 1477847285760, 'fmt': '1.478T', 'longFmt': '1,477,847,285,760'}",1478882498996,"alphabet,inc"
+AMZN.MI,"Amazon.com, Inc.",EQUITY,EUR,italy,"{'raw': 1387006525440, 'fmt': '1.387T', 'longFmt': '1,387,006,525,440'}",1387978105878,amazoncom
+LVMH.MI,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",EQUITY,EUR,italy,"{'raw': 345736282112, 'fmt': '345.736B', 'longFmt': '345,736,282,112'}",345978465982,lvmh
+TSLA.MI,"Tesla, Inc.",EQUITY,EUR,italy,"{'raw': 316271558656, 'fmt': '316.272B', 'longFmt': '316,271,558,656'}",316493102862,"tesla,inc"
+ASML.MI,ASML Holding N.V.,EQUITY,EUR,italy,"{'raw': 210158518272, 'fmt': '210.159B', 'longFmt': '210,158,518,272'}",210305731642,asml
+ABI.MI,Anheuser-Busch InBev SA/NV,EQUITY,EUR,italy,"{'raw': 105085779968, 'fmt': '105.086B', 'longFmt': '105,085,779,968'}",105159391220,anheuser-busch
+NFLX.MI,"Netflix, Inc.",EQUITY,EUR,italy,"{'raw': 103438614528, 'fmt': '103.439B', 'longFmt': '103,438,614,528'}",103511071962,netflix
+SAP.MI,SAP SE,EQUITY,EUR,italy,"{'raw': 102854623232, 'fmt': '102.855B', 'longFmt': '102,854,623,232'}",102926671588,"sap,se"
+SANF.MI,Sanofi,EQUITY,EUR,italy,"{'raw': 101481234432, 'fmt': '101.481B', 'longFmt': '101,481,234,432'}",101552320746,sanofi
+SBUX.MI,Starbucks Corporation,EQUITY,EUR,italy,"{'raw': 98286280704, 'fmt': '98.286B', 'longFmt': '98,286,280,704'}",98355128994,starbucks
+DTE.MI,Deutsche Telekom AG,EQUITY,EUR,italy,"{'raw': 94115840000, 'fmt': '94.116B', 'longFmt': '94,115,840,000'}",94181766949,telekom
+VOW3.MI,Volkswagen AG,EQUITY,EUR,italy,"{'raw': 84745601024, 'fmt': '84.746B', 'longFmt': '84,745,601,024'}",84804964240,"volkswagen,ag"
+SIE.MI,Siemens Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 83897753600, 'fmt': '83.898B', 'longFmt': '83,897,753,600'}",83956522909,"siemens,aktiengesellschaft"
+AIR.MI,Airbus SE,EQUITY,EUR,italy,"{'raw': 82548310016, 'fmt': '82.548B', 'longFmt': '82,548,310,016'}",82606134057,"airbus,se"
+GILD.MI,"Gilead Sciences, Inc.",EQUITY,EUR,italy,"{'raw': 79827132416, 'fmt': '79.827B', 'longFmt': '79,827,132,416'}",79883050307,"gilead,sciences"
+MRK.MI,MERCK Kommanditgesellschaft auf Aktien,EQUITY,EUR,italy,"{'raw': 76291538944, 'fmt': '76.292B', 'longFmt': '76,291,538,944'}",76344980197,kommanditgesellschaft
+ITX.MI,"Industria de Diseño Textil, S.A.",EQUITY,EUR,italy,"{'raw': 73964568576, 'fmt': '73.965B', 'longFmt': '73,964,568,576'}",74016379815,textil
+ALV.MI,Allianz SE,EQUITY,EUR,italy,"{'raw': 71506616320, 'fmt': '71.507B', 'longFmt': '71,506,616,320'}",71556705795,allianz
+EL.MI,EssilorLuxottica Société anonyme,EQUITY,EUR,italy,"{'raw': 71288840192, 'fmt': '71.289B', 'longFmt': '71,288,840,192'}",71338777118,essilorluxottica
+IBE.MI,"Iberdrola, S.A.",EQUITY,EUR,italy,"{'raw': 69207597056, 'fmt': '69.208B', 'longFmt': '69,207,597,056'}",69256076097,iberdrola
+KER.MI,Kering SA,EQUITY,EUR,italy,"{'raw': 67294785536, 'fmt': '67.295B', 'longFmt': '67,294,785,536'}",67341924677,kering
+MU.MI,"Micron Technology, Inc.",EQUITY,EUR,italy,"{'raw': 64468082688, 'fmt': '64.468B', 'longFmt': '64,468,082,688'}",64513241760,"micron,technology"
+BNP.MI,BNP Paribas SA,EQUITY,EUR,italy,"{'raw': 58586783744, 'fmt': '58.587B', 'longFmt': '58,586,783,744'}",58627823041,bnp
+AXA.MI,AXA SA,EQUITY,EUR,italy,"{'raw': 54926213120, 'fmt': '54.926B', 'longFmt': '54,926,213,120'}",54964688234,"axa,sa"
+BAY.MI,Bayer Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 53210161152, 'fmt': '53.21B', 'longFmt': '53,210,161,152'}",53247434193,"bayer,aktiengesellschaft"
+ENEL.MI,Enel SpA,EQUITY,EUR,italy,"{'raw': 50668511232, 'fmt': '50.669B', 'longFmt': '50,668,511,232'}",50704003879,enel
+BMW.MI,Bayerische Motoren Werke Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 48830185472, 'fmt': '48.83B', 'longFmt': '48,830,185,472'}",48864390396,bayerische
+DPW.MI,Deutsche Post AG,EQUITY,EUR,italy,"{'raw': 45989359616, 'fmt': '45.989B', 'longFmt': '45,989,359,616'}",46021574577,"deutsche,post"
+STLA.MI,Stellantis N.V.,EQUITY,EUR,italy,"{'raw': 44486180864, 'fmt': '44.486B', 'longFmt': '44,486,180,864'}",44517342868,stellantis
+ENI.MI,Eni S.p.A.,EQUITY,EUR,italy,"{'raw': 44183285760, 'fmt': '44.183B', 'longFmt': '44,183,285,760'}",44214235589,eni
+SANT.MI,"Banco Santander, S.A.",EQUITY,EUR,italy,"{'raw': 41749929984, 'fmt': '41.75B', 'longFmt': '41,749,929,984'}",41779175279,"banco,santander"
+BASF.MI,BASF SE,EQUITY,EUR,italy,"{'raw': 38787366912, 'fmt': '38.787B', 'longFmt': '38,787,366,912'}",38814536969,basf
+RACE.MI,Ferrari N.V.,EQUITY,EUR,italy,"{'raw': 37621637120, 'fmt': '37.622B', 'longFmt': '37,621,637,120'}",37647990598,"ferrari,nv"
+ISP.MI,Intesa Sanpaolo S.p.A.,EQUITY,EUR,italy,"{'raw': 34641076224, 'fmt': '34.641B', 'longFmt': '34,641,076,224'}",34665341857,intesa
+IFX.MI,Infineon Technologies AG,EQUITY,EUR,italy,"{'raw': 32892647424, 'fmt': '32.893B', 'longFmt': '32,892,647,424'}",32915688305,infineon
+STM.MI,STMicroelectronics N.V.,EQUITY,EUR,italy,"{'raw': 32722032640, 'fmt': '32.722B', 'longFmt': '32,722,032,640'}",32744954007,stmicroelectronics
+MUV2.MI,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,EQUITY,EUR,italy,"{'raw': 32543567872, 'fmt': '32.544B', 'longFmt': '32,543,567,872'}",32566364227,munchener
+DB1.MI,Deutsche Börse AG,EQUITY,EUR,italy,"{'raw': 31390414848, 'fmt': '31.39B', 'longFmt': '31,390,414,848'}",31412403434,borse
+ENGI.MI,ENGIE SA,EQUITY,EUR,italy,"{'raw': 31388256256, 'fmt': '31.388B', 'longFmt': '31,388,256,256'}",31410243330,engie
+RWE.MI,RWE Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 29449381888, 'fmt': '29.449B', 'longFmt': '29,449,381,888'}",29470010805,"rwe,aktiengesellschaft"
+BBVA.MI,"Banco Bilbao Vizcaya Argentaria, S.A.",EQUITY,EUR,italy,"{'raw': 29161535488, 'fmt': '29.162B', 'longFmt': '29,161,535,488'}",29181962772,argentaria
+ADS.MI,adidas AG,EQUITY,EUR,italy,"{'raw': 29142261760, 'fmt': '29.142B', 'longFmt': '29,142,261,760'}",29162675543,adidas
+HEN3.MI,Henkel AG & Co. KGaA,EQUITY,EUR,italy,"{'raw': 28348327936, 'fmt': '28.348B', 'longFmt': '28,348,327,936'}",28368185579,henkel
+AD.MI,Koninklijke Ahold Delhaize N.V.,EQUITY,EUR,italy,"{'raw': 28183603200, 'fmt': '28.184B', 'longFmt': '28,183,603,200'}",28203345455,koninklijke
+NOKIA.MI,Nokia Oyj,EQUITY,EUR,italy,"{'raw': 27872233472, 'fmt': '27.872B', 'longFmt': '27,872,233,472'}",27891757617,oyj
+ORA.MI,Orange S.A.,EQUITY,EUR,italy,"{'raw': 27544887296, 'fmt': '27.545B', 'longFmt': '27,544,887,296'}",27564182139,"orange,sa"
+ACA.MI,Crédit Agricole S.A.,EQUITY,EUR,italy,"{'raw': 27912964096, 'fmt': '27.913B', 'longFmt': '27,912,964,096'}",27932516772,"credit,agricole"
+TEF.MI,"Telefónica, S.A.",EQUITY,EUR,italy,"{'raw': 24598863872, 'fmt': '24.599B', 'longFmt': '24,598,863,872'}",24616095063,telefonica
+G.MI,Assicurazioni Generali S.p.A.,EQUITY,EUR,italy,"{'raw': 23760463872, 'fmt': '23.76B', 'longFmt': '23,760,463,872'}",23777107774,assicurazioni
+BEI.MI,Beiersdorf Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 23759464448, 'fmt': '23.759B', 'longFmt': '23,759,464,448'}",23776107650,beiersdorf
+EOAN.MI,E.ON SE,EQUITY,EUR,italy,"{'raw': 22932955136, 'fmt': '22.933B', 'longFmt': '22,932,955,136'}",22949019379,"eon,se"
+VNA.MI,Vonovia SE,EQUITY,EUR,italy,"{'raw': 22665807872, 'fmt': '22.666B', 'longFmt': '22,665,807,872'}",22681684982,vonovia
+UCG.MI,UniCredit S.p.A.,EQUITY,EUR,italy,"{'raw': 19310178304, 'fmt': '19.31B', 'longFmt': '19,310,178,304'}",19323704838,unicredit
+ATL.MI,Atlantia SpA,EQUITY,EUR,italy,"{'raw': 18669187072, 'fmt': '18.669B', 'longFmt': '18,669,187,072'}",18682264600,atlantia
+GLE.MI,Société Générale Société anonyme,EQUITY,EUR,italy,"{'raw': 17994317824, 'fmt': '17.994B', 'longFmt': '17,994,317,824'}",18006922614,"societe,generale"
+DBK.MI,Deutsche Bank Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 17422667776, 'fmt': '17.423B', 'longFmt': '17,422,667,776'}",17434872133,"deutsche,bank"
+SRG.MI,Snam S.p.A.,EQUITY,EUR,italy,"{'raw': 17261512704, 'fmt': '17.262B', 'longFmt': '17,261,512,704'}",17273604174,snam
+CNHI.MI,CNH Industrial N.V.,EQUITY,EUR,italy,"{'raw': 17235421184, 'fmt': '17.235B', 'longFmt': '17,235,421,184'}",17247494377,cnh
+TEN.MI,Tenaris S.A.,EQUITY,EUR,italy,"{'raw': 16734154752, 'fmt': '16.734B', 'longFmt': '16,734,154,752'}",16745876814,tenaris
+TRN.MI,Terna - Rete Elettrica Nazionale Società per Azioni,EQUITY,EUR,italy,"{'raw': 15583667200, 'fmt': '15.584B', 'longFmt': '15,583,667,200'}",15594583360,elettrica
+EXO.MI,Exor N.V.,EQUITY,EUR,italy,"{'raw': 14865981440, 'fmt': '14.866B', 'longFmt': '14,865,981,440'}",14876394871,"exor,nv"
+FRE.MI,Fresenius SE & Co. KGaA,EQUITY,EUR,italy,"{'raw': 14053268480, 'fmt': '14.053B', 'longFmt': '14,053,268,480'}",14063112615,fresenius
+MONC.MI,Moncler S.p.A.,EQUITY,EUR,italy,"{'raw': 12962584576, 'fmt': '12.963B', 'longFmt': '12,962,584,576'}",12971664701,moncler
+CON.MI,Continental Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 11988359168, 'fmt': '11.988B', 'longFmt': '11,988,359,168'}",11996756861,"continental,aktiengesellschaft"
+CPR.MI,Davide Campari-Milano N.V.,EQUITY,EUR,italy,"{'raw': 11776616448, 'fmt': '11.777B', 'longFmt': '11,776,616,448'}",11784865818,campari-milano
+NEXI.MI,Nexi S.p.A.,EQUITY,EUR,italy,"{'raw': 11419323392, 'fmt': '11.419B', 'longFmt': '11,419,323,392'}",11427322482,nexi
+ENR.MI,Siemens Energy AG,EQUITY,EUR,italy,"{'raw': 10940395520, 'fmt': '10.94B', 'longFmt': '10,940,395,520'}",10948059127,"siemens,energy"
+PST.MI,Poste Italiane S.p.A.,EQUITY,EUR,italy,"{'raw': 10542032896, 'fmt': '10.542B', 'longFmt': '10,542,032,896'}",10549417456,italiane
+PUM.MI,PUMA SE,EQUITY,EUR,italy,"{'raw': 9823284224, 'fmt': '9.823B', 'longFmt': '9,823,284,224'}",9830165309,"puma,se"
+INW.MI,Infrastrutture Wireless Italiane S.p.A.,EQUITY,EUR,italy,"{'raw': 9397479424, 'fmt': '9.397B', 'longFmt': '9,397,479,424'}",9404062238,infrastrutture
+VIV.MI,Vivendi SE,EQUITY,EUR,italy,"{'raw': 9330727936, 'fmt': '9.331B', 'longFmt': '9,330,727,936'}",9337263992,"vivendi,se"
+AGN.MI,Aegon N.V.,EQUITY,EUR,italy,"{'raw': 9117111296, 'fmt': '9.117B', 'longFmt': '9,117,111,296'}",9123497716,aegon
+REC.MI,Recordati Industria Chimica e Farmaceutica S.p.A.,EQUITY,EUR,italy,"{'raw': 9065680896, 'fmt': '9.066B', 'longFmt': '9,065,680,896'}",9072031290,recordati
+HEI.MI,HeidelbergCement AG,EQUITY,EUR,italy,"{'raw': 8864103424, 'fmt': '8.864B', 'longFmt': '8,864,103,424'}",8870312615,heidelbergcement
+PRY.MI,Prysmian S.p.A.,EQUITY,EUR,italy,"{'raw': 8394951168, 'fmt': '8.395B', 'longFmt': '8,394,951,168'}",8400831724,prysmian
+RNO.MI,Renault SA,EQUITY,EUR,italy,"{'raw': 8223907328, 'fmt': '8.224B', 'longFmt': '8,223,907,328'}",8229668070,"renault,sa"
+DIA.MI,DiaSorin S.p.A.,EQUITY,EUR,italy,"{'raw': 7383454720, 'fmt': '7.383B', 'longFmt': '7,383,454,720'}",7388626736,diasorin
+AGS.MI,ageas SA/NV,EQUITY,EUR,italy,"{'raw': 7361286656, 'fmt': '7.361B', 'longFmt': '7,361,286,656'}",7366443143,ageas
+LHA.MI,Deutsche Lufthansa AG,EQUITY,EUR,italy,"{'raw': 7284130304, 'fmt': '7.284B', 'longFmt': '7,284,130,304'}",7289232744,"deutsche,lufthansa"
+MB.MI,Mediobanca Banca di Credito Finanziario S.p.A.,EQUITY,EUR,italy,"{'raw': 7058403840, 'fmt': '7.058B', 'longFmt': '7,058,403,840'}",7063348162,mediobanca
+FBK.MI,FinecoBank Banca Fineco S.p.A.,EQUITY,EUR,italy,"{'raw': 7020904448, 'fmt': '7.021B', 'longFmt': '7,020,904,448'}",7025822502,finecobank
+EDNR.MI,Edison S.p.A.,EQUITY,EUR,italy,"{'raw': 6370081280, 'fmt': '6.37B', 'longFmt': '6,370,081,280'}",6374543440,"edison,spa"
+US.MI,UnipolSai Assicurazioni S.p.A.,EQUITY,EUR,italy,"{'raw': 6279403008, 'fmt': '6.279B', 'longFmt': '6,279,403,008'}",6283801649,unipolsai
+AMP.MI,Amplifon S.p.A.,EQUITY,EUR,italy,"{'raw': 6220208128, 'fmt': '6.22B', 'longFmt': '6,220,208,128'}",6224565304,amplifon
+CVO.MI,Covivio,EQUITY,EUR,italy,"{'raw': 5339022336, 'fmt': '5.339B', 'longFmt': '5,339,022,336'}",5342762253,covivio
+ERG.MI,ERG S.p.A.,EQUITY,EUR,italy,"{'raw': 5255110656, 'fmt': '5.255B', 'longFmt': '5,255,110,656'}",5258791794,"erg,spa"
+LDO.MI,Leonardo S.p.a.,EQUITY,EUR,italy,"{'raw': 5020128768, 'fmt': '5.02B', 'longFmt': '5,020,128,768'}",5023645304,"leonardo,spa"
+BMED.MI,Banca Mediolanum S.p.A.,EQUITY,EUR,italy,"{'raw': 4803354112, 'fmt': '4.803B', 'longFmt': '4,803,354,112'}",4806718800,mediolanum
+TPRO.MI,Technoprobe S.p.A.,EQUITY,EUR,italy,"{'raw': 4684194304, 'fmt': '4.684B', 'longFmt': '4,684,194,304'}",4687475522,technoprobe
+REY.MI,Reply S.p.A.,EQUITY,EUR,italy,"{'raw': 4597895168, 'fmt': '4.598B', 'longFmt': '4,597,895,168'}",4601115935,"reply,spa"
+IG.MI,Italgas S.p.A.,EQUITY,EUR,italy,"{'raw': 4513070592, 'fmt': '4.513B', 'longFmt': '4,513,070,592'}",4516231940,italgas
+TITR.MI,Telecom Italia S.p.A.,EQUITY,EUR,italy,"{'raw': 4480347648, 'fmt': '4.48B', 'longFmt': '4,480,347,648'}",4483486074,"telecom,italia"
+SDF.MI,K+S Aktiengesellschaft,EQUITY,EUR,italy,"{'raw': 4560466432, 'fmt': '4.56B', 'longFmt': '4,560,466,432'}",4563660980,k+s
+HER.MI,Hera S.p.A.,EQUITY,EUR,italy,"{'raw': 3973787904, 'fmt': '3.974B', 'longFmt': '3,973,787,904'}",3976571491,"hera,spa"
+IP.MI,Interpump Group S.p.A.,EQUITY,EUR,italy,"{'raw': 3935287552, 'fmt': '3.935B', 'longFmt': '3,935,287,552'}",3938044170,interpump
+A2A.MI,A2A S.p.A.,EQUITY,EUR,italy,"{'raw': 3891074304, 'fmt': '3.891B', 'longFmt': '3,891,074,304'}",3893799952,a2a
+PIRC.MI,Pirelli & C. S.p.A.,EQUITY,EUR,italy,"{'raw': 3884999936, 'fmt': '3.885B', 'longFmt': '3,884,999,936'}",3887721329,pirelli
+BC.MI,Brunello Cucinelli S.p.A.,EQUITY,EUR,italy,"{'raw': 3841999872, 'fmt': '3.842B', 'longFmt': '3,841,999,872'}",3844691144,brunello
+BAMI.MI,Banco BPM S.p.A.,EQUITY,EUR,italy,"{'raw': 3792041472, 'fmt': '3.792B', 'longFmt': '3,792,041,472'}",3794697748,bpm
+TKA.MI,thyssenkrupp AG,EQUITY,EUR,italy,"{'raw': 3535981568, 'fmt': '3.536B', 'longFmt': '3,535,981,568'}",3538458478,thyssenkrupp
+BB.MI,BB Biotech AG,EQUITY,EUR,italy,"{'raw': 3467532288, 'fmt': '3.468B', 'longFmt': '3,467,532,288'}",3469961250,"bb,biotech"
+TRIP.MI,"Tripadvisor, Inc.",EQUITY,EUR,italy,"{'raw': 3412276224, 'fmt': '3.412B', 'longFmt': '3,412,276,224'}",3414666480,tripadvisor
+BRE.MI,Brembo S.p.A.,EQUITY,EUR,italy,"{'raw': 3182189824, 'fmt': '3.182B', 'longFmt': '3,182,189,824'}",3184418907,brembo
+BZU.MI,Buzzi Unicem S.p.A.,EQUITY,EUR,italy,"{'raw': 3154649344, 'fmt': '3.155B', 'longFmt': '3,154,649,344'}",3156859135,buzzi
+BGN.MI,Banca Generali S.p.A.,EQUITY,EUR,italy,"{'raw': 3117969408, 'fmt': '3.118B', 'longFmt': '3,117,969,408'}",3120153505,generali
+UNI.MI,Unipol Gruppo S.p.A.,EQUITY,EUR,italy,"{'raw': 2983572736, 'fmt': '2.984B', 'longFmt': '2,983,572,736'}",2985662690,unipol
+DNR.MI,Industrie De Nora S.p.A.,EQUITY,EUR,italy,"{'raw': 2916642304, 'fmt': '2.917B', 'longFmt': '2,916,642,304'}",2918685374,"industrie,de"
+EO.MI,Faurecia S.E.,EQUITY,EUR,italy,"{'raw': 2890256128, 'fmt': '2.89B', 'longFmt': '2,890,256,128'}",2892280715,faurecia
+ACE.MI,ACEA S.p.A.,EQUITY,EUR,italy,"{'raw': 2839641088, 'fmt': '2.84B', 'longFmt': '2,839,641,088'}",2841630220,"acea,spa"
+SFER.MI,Salvatore Ferragamo S.p.A.,EQUITY,EUR,italy,"{'raw': 2833541632, 'fmt': '2.834B', 'longFmt': '2,833,541,632'}",2835526491,ferragamo
+DLG.MI,De'Longhi S.p.A.,EQUITY,EUR,italy,"{'raw': 2757018112, 'fmt': '2.757B', 'longFmt': '2,757,018,112'}",2758949368,de'longhi
+ARIS.MI,Ariston Holding N.V.,EQUITY,EUR,italy,"{'raw': 2572801536, 'fmt': '2.573B', 'longFmt': '2,572,801,536'}",2574603750,ariston
+AGL.MI,Autogrill S.p.A.,EQUITY,EUR,italy,"{'raw': 2514113536, 'fmt': '2.514B', 'longFmt': '2,514,113,536'}",2515874640,autogrill
+AZM.MI,Azimut Holding S.p.A.,EQUITY,EUR,italy,"{'raw': 2321714176, 'fmt': '2.322B', 'longFmt': '2,321,714,176'}",2323340507,azimut
+ENAV.MI,ENAV S.p.A.,EQUITY,EUR,italy,"{'raw': 2286138624, 'fmt': '2.286B', 'longFmt': '2,286,138,624'}",2287740035,enav
+BPE.MI,BPER Banca SpA,EQUITY,EUR,italy,"{'raw': 2210140160, 'fmt': '2.21B', 'longFmt': '2,210,140,160'}",2211688335,bper
+CRL.MI,Carel Industries S.p.A.,EQUITY,EUR,italy,"{'raw': 2207779072, 'fmt': '2.208B', 'longFmt': '2,207,779,072'}",2209325593,"carel,industries"
+ARN.MI,Alerion Clean Power S.p.A.,EQUITY,EUR,italy,"{'raw': 2181761792, 'fmt': '2.182B', 'longFmt': '2,181,761,792'}",2183290088,"alerion,clean"
+IRE.MI,Iren SpA,EQUITY,EUR,italy,"{'raw': 2176103424, 'fmt': '2.176B', 'longFmt': '2,176,103,424'}",2177627756,iren
+CE.MI,Credito Emiliano S.p.A.,EQUITY,EUR,italy,"{'raw': 1991142144, 'fmt': '1.991B', 'longFmt': '1,991,142,144'}",1992536913,credito
+SES.MI,SeSa S.p.A.,EQUITY,EUR,italy,"{'raw': 1931712512, 'fmt': '1.932B', 'longFmt': '1,931,712,512'}",1933065652,sesa
+IVG.MI,Iveco Group N.V.,EQUITY,EUR,italy,"{'raw': 1919916544, 'fmt': '1.92B', 'longFmt': '1,919,916,544'}",1921261421,iveco
+PSM.MI,ProSiebenSat.1 Media SE,EQUITY,EUR,italy,"{'raw': 1771648512, 'fmt': '1.772B', 'longFmt': '1,771,648,512'}",1772889529,prosiebensat1
+GVS.MI,GVS S.p.A.,EQUITY,EUR,italy,"{'raw': 1700638080, 'fmt': '1.701B', 'longFmt': '1,700,638,080'}",1701829355,gvs
+SOL.MI,SOL S.p.A.,EQUITY,EUR,italy,"{'raw': 1609017984, 'fmt': '1.609B', 'longFmt': '1,609,017,984'}",1610145080,"sol,spa"
+BPSO.MI,Banca Popolare di Sondrio S.p.A,EQUITY,EUR,italy,"{'raw': 1485927680, 'fmt': '1.486B', 'longFmt': '1,485,927,680'}",1486968553,popolare
+WBD.MI,Webuild S.p.A.,EQUITY,EUR,italy,"{'raw': 1430335744, 'fmt': '1.43B', 'longFmt': '1,430,335,744'}",1431337676,webuild
+TGYM.MI,Technogym S.p.A.,EQUITY,EUR,italy,"{'raw': 1376076928, 'fmt': '1.376B', 'longFmt': '1,376,076,928'}",1377040852,technogym
+RWAY.MI,Rai Way S.p.A.,EQUITY,EUR,italy,"{'raw': 1356635648, 'fmt': '1.357B', 'longFmt': '1,356,635,648'}",1357585954,"rai,way"
+TIP.MI,Tamburi Investment Partners S.p.A.,EQUITY,EUR,italy,"{'raw': 1348354560, 'fmt': '1.348B', 'longFmt': '1,348,354,560'}",1349299065,tamburi
+TOD.MI,TOD'S S.p.A.,EQUITY,EUR,italy,"{'raw': 1341610496, 'fmt': '1.342B', 'longFmt': '1,341,610,496'}",1342550277,tod's
+MFEA.MI,MFE-Mediaforeurope N.V.,EQUITY,EUR,italy,"{'raw': 1302734720, 'fmt': '1.303B', 'longFmt': '1,302,734,720'}",1303647269,mfe-mediaforeurope
+SRS.MI,Saras S.p.A.,EQUITY,EUR,italy,"{'raw': 1291458048, 'fmt': '1.291B', 'longFmt': '1,291,458,048'}",1292362697,saras
+BFF.MI,BFF Bank S.p.A.,EQUITY,EUR,italy,"{'raw': 1206614400, 'fmt': '1.207B', 'longFmt': '1,206,614,400'}",1207459618,bff
+DAN.MI,Danieli & C. Officine Meccaniche S.p.A.,EQUITY,EUR,italy,"{'raw': 1192117120, 'fmt': '1.192B', 'longFmt': '1,192,117,120'}",1192952182,danieli
+ICOS.MI,Intercos S.p.A.,EQUITY,EUR,italy,"{'raw': 1177630336, 'fmt': '1.178B', 'longFmt': '1,177,630,336'}",1178455251,intercos
+ANIM.MI,Anima Holding SpA,EQUITY,EUR,italy,"{'raw': 1154514304, 'fmt': '1.155B', 'longFmt': '1,154,514,304'}",1155323026,"anima,holding"
+ITM.MI,Italmobiliare S.p.A.,EQUITY,EUR,italy,"{'raw': 1120496896, 'fmt': '1.12B', 'longFmt': '1,120,496,896'}",1121281789,italmobiliare
+SL.MI,Sanlorenzo S.p.A.,EQUITY,EUR,italy,"{'raw': 1120493952, 'fmt': '1.12B', 'longFmt': '1,120,493,952'}",1121278843,sanlorenzo
+ELN.MI,EL.En. S.p.A.,EQUITY,EUR,italy,"{'raw': 1110171008, 'fmt': '1.11B', 'longFmt': '1,110,171,008'}",1110948668,elen
+SCF.MI,Salcef Group S.p.A.,EQUITY,EUR,italy,"{'raw': 1107163776, 'fmt': '1.107B', 'longFmt': '1,107,163,776'}",1107939330,salcef
+TNXT.MI,Tinexta S.p.A.,EQUITY,EUR,italy,"{'raw': 1053558016, 'fmt': '1.054B', 'longFmt': '1,053,558,016'}",1054296019,tinexta
+ZV.MI,Zignago Vetro S.p.A.,EQUITY,EUR,italy,"{'raw': 1041081024, 'fmt': '1.041B', 'longFmt': '1,041,081,024'}",1041810288,zignago
+MOL.MI,Gruppo MutuiOnline S.p.A,EQUITY,EUR,italy,"{'raw': 939484096, 'fmt': '939.484M', 'longFmt': '939,484,096'}",940142192,mutuionline
+CEM.MI,Cementir Holding N.V.,EQUITY,EUR,italy,"{'raw': 931564736, 'fmt': '931.565M', 'longFmt': '931,564,736'}",932217285,cementir
+JUVE.MI,Juventus Football Club S.p.A.,EQUITY,EUR,italy,"{'raw': 924552192, 'fmt': '924.552M', 'longFmt': '924,552,192'}",925199829,juventus
+PIA.MI,Piaggio & C. SpA,EQUITY,EUR,italy,"{'raw': 893855360, 'fmt': '893.855M', 'longFmt': '893,855,360'}",894481494,piaggio
+MT.MI,Maire Tecnimont S.p.A.,EQUITY,EUR,italy,"{'raw': 872366720, 'fmt': '872.367M', 'longFmt': '872,366,720'}",872977801,tecnimont
+FCT.MI,Fincantieri S.p.A.,EQUITY,EUR,italy,"{'raw': 856640576, 'fmt': '856.641M', 'longFmt': '856,640,576'}",857240641,fincantieri
+MARR.MI,MARR S.p.A.,EQUITY,EUR,italy,"{'raw': 811355456, 'fmt': '811.355M', 'longFmt': '811,355,456'}",811923800,"marr,spa"
+SPM.MI,Saipem SpA,EQUITY,EUR,italy,"{'raw': 1557061888, 'fmt': '1.557B', 'longFmt': '1,557,061,888'}",1558152590,saipem
+ILTY.MI,illimity Bank S.p.A.,EQUITY,EUR,italy,"{'raw': 741499456, 'fmt': '741.499M', 'longFmt': '741,499,456'}",742018866,illimity
+DGV.MI,Digital Value S.p.A.,EQUITY,EUR,italy,"{'raw': 690915904, 'fmt': '690.916M', 'longFmt': '690,915,904'}",691399881,"digital,value"
+AV.MI,Antares Vision S.p.A.,EQUITY,EUR,italy,"{'raw': 689736448, 'fmt': '689.736M', 'longFmt': '689,736,448'}",690219599,"antares,vision"
+BFG.MI,B.F. S.p.A.,EQUITY,EUR,italy,"{'raw': 669674816, 'fmt': '669.675M', 'longFmt': '669,674,816'}",670143914,"bf,spa"
+PHN.MI,Pharmanutra S.p.A.,EQUITY,EUR,italy,"{'raw': 665909312, 'fmt': '665.909M', 'longFmt': '665,909,312'}",666375773,pharmanutra
+IF.MI,Banca IFIS S.p.A.,EQUITY,EUR,italy,"{'raw': 664262784, 'fmt': '664.263M', 'longFmt': '664,262,784'}",664728091,ifis
+IOT.MI,Seco S.p.A.,EQUITY,EUR,italy,"{'raw': 660125184, 'fmt': '660.125M', 'longFmt': '660,125,184'}",660587593,"seco,spa"
+COM.MI,Comer Industries S.p.A.,EQUITY,EUR,italy,"{'raw': 653860672, 'fmt': '653.861M', 'longFmt': '653,860,672'}",654318693,"comer,industries"
+SFL.MI,Safilo Group S.p.A.,EQUITY,EUR,italy,"{'raw': 614130688, 'fmt': '614.131M', 'longFmt': '614,130,688'}",614560878,safilo
+CRG.MI,Banca Carige S.p.A. - Cassa di Risparmio di Genova e Imperia,EQUITY,EUR,italy,"{'raw': 608578432, 'fmt': '608.578M', 'longFmt': '608,578,432'}",609004733,carige
+PHIL.MI,Philogen S.p.A.,EQUITY,EUR,italy,"{'raw': 579333056, 'fmt': '579.333M', 'longFmt': '579,333,056'}",579738871,philogen
+ASC.MI,Ascopiave S.p.A.,EQUITY,EUR,italy,"{'raw': 575365056, 'fmt': '575.365M', 'longFmt': '575,365,056'}",575768091,ascopiave
+WIIT.MI,Wiit S.p.A.,EQUITY,EUR,italy,"{'raw': 502550976, 'fmt': '502.551M', 'longFmt': '502,550,976'}",502903006,wiit
+DOV.MI,doValue S.p.A.,EQUITY,EUR,italy,"{'raw': 466263424, 'fmt': '466.263M', 'longFmt': '466,263,424'}",466590035,dovalue
+LUVE.MI,LU-VE S.p.A.,EQUITY,EUR,italy,"{'raw': 465222016, 'fmt': '465.222M', 'longFmt': '465,222,016'}",465547898,lu-ve
+DAL.MI,Datalogic S.p.A.,EQUITY,EUR,italy,"{'raw': 464836896, 'fmt': '464.837M', 'longFmt': '464,836,896'}",465162508,datalogic
+CIR.MI,CIR S.p.A. - Compagnie Industriali Riunite,EQUITY,EUR,italy,"{'raw': 456321600, 'fmt': '456.322M', 'longFmt': '456,321,600'}",456641247,industriali
+OVS.MI,OVS S.p.A.,EQUITY,EUR,italy,"{'raw': 454593536, 'fmt': '454.594M', 'longFmt': '454,593,536'}",454911972,ovs
+CALT.MI,Caltagirone SpA,EQUITY,EUR,italy,"{'raw': 451651200, 'fmt': '451.651M', 'longFmt': '451,651,200'}",451967575,"caltagirone,spa"
+CMB.MI,Cembre S.p.A.,EQUITY,EUR,italy,"{'raw': 450938144, 'fmt': '450.938M', 'longFmt': '450,938,144'}",451254020,cembre
+MN.MI,Arnoldo Mondadori Editore S.p.A.,EQUITY,EUR,italy,"{'raw': 436443808, 'fmt': '436.444M', 'longFmt': '436,443,808'}",436749531,mondadori
+BEST.MI,Be Shaping The Future S.p.A.,EQUITY,EUR,italy,"{'raw': 433038624, 'fmt': '433.039M', 'longFmt': '433,038,624'}",433341962,"be,shaping"
+ACS.MI,Acsm-Agam S.p.A.,EQUITY,EUR,italy,"{'raw': 432183360, 'fmt': '432.183M', 'longFmt': '432,183,360'}",432486098,acsm-agam
+PVN.MI,Piovan S.p.A.,EQUITY,EUR,italy,"{'raw': 431880448, 'fmt': '431.88M', 'longFmt': '431,880,448'}",432182974,piovan
+BDB.MI,Banco di Desio e della Brianza S.p.A.,EQUITY,EUR,italy,"{'raw': 411150784, 'fmt': '411.151M', 'longFmt': '411,150,784'}",411438789,brianza
+FILA.MI,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,EQUITY,EUR,italy,"{'raw': 404427616, 'fmt': '404.428M', 'longFmt': '404,427,616'}",404710912,fabbrica
+IGD.MI,Immobiliare Grande Distribuzione SIIQ S.p.A.,EQUITY,EUR,italy,"{'raw': 389507264, 'fmt': '389.507M', 'longFmt': '389,507,264'}",389780108,immobiliare
+BMPS.MI,Banca Monte dei Paschi di Siena S.p.A.,EQUITY,EUR,italy,"{'raw': 382920608, 'fmt': '382.921M', 'longFmt': '382,920,608'}",383188839,paschi
+RCS.MI,RCS MediaGroup S.p.A.,EQUITY,EUR,italy,"{'raw': 372517216, 'fmt': '372.517M', 'longFmt': '372,517,216'}",372778159,mediagroup
+DIB.MI,Digital Bros S.p.A.,EQUITY,EUR,italy,"{'raw': 370780800, 'fmt': '370.781M', 'longFmt': '370,780,800'}",371040527,"digital,bros"
+AVIO.MI,Avio S.p.A.,EQUITY,EUR,italy,"{'raw': 357626368, 'fmt': '357.626M', 'longFmt': '357,626,368'}",357876880,avio
+SG.MI,SAES Getters S.p.A.,EQUITY,EUR,italy,"{'raw': 354133216, 'fmt': '354.133M', 'longFmt': '354,133,216'}",354381281,saes
+PRT.MI,Esprinet S.p.A.,EQUITY,EUR,italy,"{'raw': 352512544, 'fmt': '352.513M', 'longFmt': '352,512,544'}",352759474,esprinet
+GHC.MI,Garofalo Health Care S.p.A.,EQUITY,EUR,italy,"{'raw': 349226144, 'fmt': '349.226M', 'longFmt': '349,226,144'}",349470772,"garofalo,health"
+SERI.MI,Seri Industrial S.p.A.,EQUITY,EUR,italy,"{'raw': 345951264, 'fmt': '345.951M', 'longFmt': '345,951,264'}",346193598,"seri,industrial"
+BSS.MI,Biesse S.p.A.,EQUITY,EUR,italy,"{'raw': 344724704, 'fmt': '344.725M', 'longFmt': '344,724,704'}",344966179,biesse
+ECNL.MI,Aquafil S.p.A.,EQUITY,EUR,italy,"{'raw': 323092864, 'fmt': '323.093M', 'longFmt': '323,092,864'}",323319186,aquafil
+FUM.MI,Franchi Umberto Marmi S.p.A.,EQUITY,EUR,italy,"{'raw': 295520384, 'fmt': '295.52M', 'longFmt': '295,520,384'}",295727392,franchi
+DEA.MI,DeA Capital S.p.A.,EQUITY,EUR,italy,"{'raw': 291139872, 'fmt': '291.14M', 'longFmt': '291,139,872'}",291343811,"dea,capital"
+ADB.MI,Aeroporto Guglielmo Marconi di Bologna S.p.A.,EQUITY,EUR,italy,"{'raw': 292618176, 'fmt': '292.618M', 'longFmt': '292,618,176'}",292823151,aeroporto
+ASR.MI,A.S. Roma S.P.A.,EQUITY,EUR,italy,"{'raw': 282996896, 'fmt': '282.997M', 'longFmt': '282,996,896'}",283195131,"as,roma"
+BAN.MI,BasicNet S.p.A.,EQUITY,EUR,italy,"{'raw': 279790048, 'fmt': '279.79M', 'longFmt': '279,790,048'}",279986037,basicnet
+ORS.MI,Orsero S.p.A.,EQUITY,EUR,italy,"{'raw': 278721024, 'fmt': '278.721M', 'longFmt': '278,721,024'}",278916264,orsero
+DIS.MI,d'Amico International Shipping S.A.,EQUITY,EUR,italy,"{'raw': 269002784, 'fmt': '269.003M', 'longFmt': '269,002,784'}",269191217,d'amico
+TISG.MI,The Italian Sea Group S.p.A.,EQUITY,EUR,italy,"{'raw': 265000000, 'fmt': '265M', 'longFmt': '265,000,000'}",265185629,"italian,sea"
+PRI.MI,Prima Industrie SpA,EQUITY,EUR,italy,"{'raw': 252649200, 'fmt': '252.649M', 'longFmt': '252,649,200'}",252826177,"prima,industrie"
+GPI.MI,GPI S.p.A.,EQUITY,EUR,italy,"{'raw': 249119536, 'fmt': '249.12M', 'longFmt': '249,119,536'}",249294041,"gpi,spa"
+IKGR.MI,Intek Group S.p.A.,EQUITY,EUR,italy,"{'raw': 237722848, 'fmt': '237.723M', 'longFmt': '237,722,848'}",237889369,intek
+UNIR.MI,Unieuro S.p.A.,EQUITY,EUR,italy,"{'raw': 237766432, 'fmt': '237.766M', 'longFmt': '237,766,432'}",237932984,unieuro
+ITD.MI,Intred S.p.A.,EQUITY,EUR,italy,"{'raw': 236172448, 'fmt': '236.172M', 'longFmt': '236,172,448'}",236337883,intred
+SAB.MI,Sabaf S.p.A.,EQUITY,EUR,italy,"{'raw': 232653520, 'fmt': '232.654M', 'longFmt': '232,653,520'}",232816490,sabaf
+NWL.MI,Newlat Food S.p.A.,EQUITY,EUR,italy,"{'raw': 229841248, 'fmt': '229.841M', 'longFmt': '229,841,248'}",230002248,newlat
+CAI.MI,Cairo Communication S.p.A.,EQUITY,EUR,italy,"{'raw': 225818880, 'fmt': '225.819M', 'longFmt': '225,818,880'}",225977063,"cairo,communication"
+IWB.MI,Italian Wine Brands S.p.A.,EQUITY,EUR,italy,"{'raw': 221622688, 'fmt': '221.623M', 'longFmt': '221,622,688'}",221777931,"italian,wine"
+TYA.MI,Toscana Aeroporti S.p.A.,EQUITY,EUR,italy,"{'raw': 221482800, 'fmt': '221.483M', 'longFmt': '221,482,800'}",221637945,aeroporti
+FM.MI,Fiera Milano SpA,EQUITY,EUR,italy,"{'raw': 221022032, 'fmt': '221.022M', 'longFmt': '221,022,032'}",221176855,fiera
+RN.MI,Risanamento SpA,EQUITY,EUR,italy,"{'raw': 218982144, 'fmt': '218.982M', 'longFmt': '218,982,144'}",219135538,risanamento
+CY4.MI,Cy4gate S.p.A.,EQUITY,EUR,italy,"{'raw': 217799728, 'fmt': '217.8M', 'longFmt': '217,799,728'}",217952293,cy4gate
+PITE.MI,PITECO S.p.A.,EQUITY,EUR,italy,"{'raw': 217500640, 'fmt': '217.501M', 'longFmt': '217,500,640'}",217652996,piteco
+FF.MI,Fine Foods & Pharmaceuticals N.T.M. S.p.A.,EQUITY,EUR,italy,"{'raw': 212425632, 'fmt': '212.426M', 'longFmt': '212,425,632'}",212574433,ntm
+GEO.MI,Geox S.p.A.,EQUITY,EUR,italy,"{'raw': 205955280, 'fmt': '205.955M', 'longFmt': '205,955,280'}",206099549,geox
+SOM.MI,Somec S.p.A.,EQUITY,EUR,italy,"{'raw': 203024896, 'fmt': '203.025M', 'longFmt': '203,024,896'}",203167112,somec
+EM.MI,Emak S.p.A.,EQUITY,EUR,italy,"{'raw': 202132960, 'fmt': '202.133M', 'longFmt': '202,132,960'}",202274551,emak
+REVO.MI,REVO S.p.A.,EQUITY,EUR,italy,"{'raw': 199726800, 'fmt': '199.727M', 'longFmt': '199,726,800'}",199866706,revo
+INC.MI,Innovatec S.p.A.,EQUITY,EUR,italy,"{'raw': 195664096, 'fmt': '195.664M', 'longFmt': '195,664,096'}",195801156,innovatec
+ELC.MI,Elica S.p.A.,EQUITY,EUR,italy,"{'raw': 190946656, 'fmt': '190.947M', 'longFmt': '190,946,656'}",191080411,elica
+FNM.MI,FNM S.p.A.,EQUITY,EUR,italy,"{'raw': 187225744, 'fmt': '187.226M', 'longFmt': '187,225,744'}",187356893,fnm
+IVS.MI,IVS Group S.A.,EQUITY,EUR,italy,"{'raw': 179401744, 'fmt': '179.402M', 'longFmt': '179,401,744'}",179527412,ivs
+GSP.MI,Gas Plus S.p.A.,EQUITY,EUR,italy,"{'raw': 175163056, 'fmt': '175.163M', 'longFmt': '175,163,056'}",175285755,"gas,plus"
+SIT.MI,SIT S.p.A.,EQUITY,EUR,italy,"{'raw': 167820416, 'fmt': '167.82M', 'longFmt': '167,820,416'}",167937972,"sit,spa"
+AUTME.MI,Autostrade Meridionali S.p.A.,EQUITY,EUR,italy,"{'raw': 164062496, 'fmt': '164.062M', 'longFmt': '164,062,496'}",164177419,autostrade
+LBM.MI,Labomar S.p.A.,EQUITY,EUR,italy,"{'raw': 156374640, 'fmt': '156.375M', 'longFmt': '156,374,640'}",156484178,labomar
+EQUI.MI,Equita Group S.p.A.,EQUITY,EUR,italy,"{'raw': 154333744, 'fmt': '154.334M', 'longFmt': '154,333,744'}",154441852,equita
+MASI.MI,Masi Agricola S.p.A.,EQUITY,EUR,italy,"{'raw': 154004240, 'fmt': '154.004M', 'longFmt': '154,004,240'}",154112118,masi
+ABT.MI,Abitare In S.p.A.,EQUITY,EUR,italy,"{'raw': 150694944, 'fmt': '150.695M', 'longFmt': '150,694,944'}",150800503,abitare
+FPE.MI,Fope S.p.A.,EQUITY,EUR,italy,"{'raw': 142549696, 'fmt': '142.55M', 'longFmt': '142,549,696'}",142649550,fope
+AEF.MI,Aeffe S.p.A.,EQUITY,EUR,italy,"{'raw': 141856832, 'fmt': '141.857M', 'longFmt': '141,856,832'}",141956200,aeffe
+TXT.MI,TXT e-solutions S.p.A.,EQUITY,EUR,italy,"{'raw': 136874768, 'fmt': '136.875M', 'longFmt': '136,874,768'}",136970647,e-solutions
+SCK.MI,Sciuker Frames S.p.A.,EQUITY,EUR,italy,"{'raw': 135585440, 'fmt': '135.585M', 'longFmt': '135,585,440'}",135680415,sciuker
+GE.MI,Gefran S.p.A.,EQUITY,EUR,italy,"{'raw': 135391776, 'fmt': '135.392M', 'longFmt': '135,391,776'}",135486616,gefran
+INDB.MI,Indel B S.p.A.,EQUITY,EUR,italy,"{'raw': 134976464, 'fmt': '134.976M', 'longFmt': '134,976,464'}",135071013,indel
+IMS.MI,Immsi S.p.A.,EQUITY,EUR,italy,"{'raw': 131444576, 'fmt': '131.445M', 'longFmt': '131,444,576'}",131536651,immsi
+BST.MI,Banca Sistema S.p.A.,EQUITY,EUR,italy,"{'raw': 125980712, 'fmt': '125.981M', 'longFmt': '125,980,712'}",126068959,"banca,sistema"
+PRO.MI,Banca Profilo S.p.A.,EQUITY,EUR,italy,"{'raw': 125948168, 'fmt': '125.948M', 'longFmt': '125,948,168'}",126036393,profilo
+CNS.MI,Civitanavi Systems S.p.A.,EQUITY,EUR,italy,"{'raw': 125193208, 'fmt': '125.193M', 'longFmt': '125,193,208'}",125280904,civitanavi
+UD.MI,Unidata S.p.A.,EQUITY,EUR,italy,"{'raw': 124511304, 'fmt': '124.511M', 'longFmt': '124,511,304'}",124598522,unidata
+NET.MI,Net Insurance S.p.A.,EQUITY,EUR,italy,"{'raw': 122248744, 'fmt': '122.249M', 'longFmt': '122,248,744'}",122334377,"net,insurance"
+EDAC.MI,EdiliziAcrobatica S.p.A.,EQUITY,EUR,italy,"{'raw': 122224648, 'fmt': '122.225M', 'longFmt': '122,224,648'}",122310264,ediliziacrobatica
+LR.MI,Landi Renzo S.p.A.,EQUITY,EUR,italy,"{'raw': 119392296, 'fmt': '119.392M', 'longFmt': '119,392,296'}",119475928,landi
+TIS.MI,Tiscali Spa,EQUITY,EUR,italy,"{'raw': 119641064, 'fmt': '119.641M', 'longFmt': '119,641,064'}",119724871,tiscali
+ABP.MI,Azienda Bresciana Petroli Nocivelli S.p.A.,EQUITY,EUR,italy,"{'raw': 118755160, 'fmt': '118.755M', 'longFmt': '118,755,160'}",118838346,azienda
+ALA.MI,A.L.A. società per azioni,EQUITY,EUR,italy,"{'raw': 116487000, 'fmt': '116.487M', 'longFmt': '116,487,000'}",116568597,societa
+BEC.MI,B&C Speakers S.p.A.,EQUITY,EUR,italy,"{'raw': 115995536, 'fmt': '115.996M', 'longFmt': '115,995,536'}",116076789,b&c
+VLS.MI,Valsoia S.p.A.,EQUITY,EUR,italy,"{'raw': 115115296, 'fmt': '115.115M', 'longFmt': '115,115,296'}",115195932,valsoia
+ETH.MI,Eurotech S.p.A.,EQUITY,EUR,italy,"{'raw': 109678584, 'fmt': '109.679M', 'longFmt': '109,678,584'}",109755412,eurotech
+CED.MI,Caltagirone Editore SpA,EQUITY,EUR,italy,"{'raw': 108391848, 'fmt': '108.392M', 'longFmt': '108,391,848'}",108467775,editore
+OJM.MI,Openjobmetis S.p.A.,EQUITY,EUR,italy,"{'raw': 106142712, 'fmt': '106.143M', 'longFmt': '106,142,712'}",106217063,openjobmetis
+AIW.MI,Almawave S.p.A.,EQUITY,EUR,italy,"{'raw': 105694000, 'fmt': '105.694M', 'longFmt': '105,694,000'}",105768037,almawave
+SO.MI,Sogefi S.p.A.,EQUITY,EUR,italy,"{'raw': 104758248, 'fmt': '104.758M', 'longFmt': '104,758,248'}",104831629,sogefi
+BFE.MI,Banca Finnat Euramerica S.p.A.,EQUITY,EUR,italy,"{'raw': 103561392, 'fmt': '103.561M', 'longFmt': '103,561,392'}",103633935,finnat
+RFG.MI,Racing Force S.P.A.,EQUITY,EUR,italy,"{'raw': 101681680, 'fmt': '101.682M', 'longFmt': '101,681,680'}",101752906,"racing,force"
+MIT.MI,Mittel S.p.A.,EQUITY,EUR,italy,"{'raw': 100057304, 'fmt': '100.057M', 'longFmt': '100,057,304'}",100127392,"mittel,spa"
+CBK.MI,Commerzbank AG,EQUITY,EUR,italy,"{'raw': 7890120192, 'fmt': '7.89B', 'longFmt': '7,890,120,192'}",7895647120,commerzbank
+INGA.MI,ING Groep NV,EQUITY,EUR,italy,"{'raw': 34889953280, 'fmt': '34.89B', 'longFmt': '34,889,953,280'}",34914393248,groep

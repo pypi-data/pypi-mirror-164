@@ -1,0 +1,401 @@
+﻿symbol,longName,quoteType,currency,search_country,marketCap,Market_Cap,name
+TYT.L,Toyota Motor Corporation,EQUITY,JPY,uk,"{'raw': 287439585280, 'fmt': '287.44B', 'longFmt': '287,439,585,280'}",2104920953,"toyota,motor"
+AZN.L,AstraZeneca PLC,EQUITY,GBp,uk,"{'raw': 177695522816, 'fmt': '177.696B', 'longFmt': '177,695,522,816'}",1301264852,astrazeneca
+BHP.L,BHP Group Limited,EQUITY,GBp,uk,"{'raw': 176856252416, 'fmt': '176.856B', 'longFmt': '176,856,252,416'}",1295118872,"bhp,group"
+SHEL.L,Shell plc,EQUITY,GBp,uk,"{'raw': 169122873344, 'fmt': '169.123B', 'longFmt': '169,122,873,344'}",1238487313,"shell,plc"
+BP-A.L,BP p.l.c.,EQUITY,GBp,uk,"{'raw': 131899777024, 'fmt': '131.9B', 'longFmt': '131,899,777,024'}",965902466,"bp,plc"
+HSBA.L,HSBC Holdings plc,EQUITY,GBp,uk,"{'raw': 105311232000, 'fmt': '105.311B', 'longFmt': '105,311,232,000'}",771194471,hsbc
+ULVR.L,Unilever PLC,EQUITY,GBp,uk,"{'raw': 101061935104, 'fmt': '101.062B', 'longFmt': '101,061,935,104'}",740076857,unilever
+DGE.L,Diageo plc,EQUITY,GBp,uk,"{'raw': 87701184512, 'fmt': '87.701B', 'longFmt': '87,701,184,512'}",642236039,diageo
+RIO.L,Rio Tinto Group,EQUITY,GBp,uk,"{'raw': 80753500160, 'fmt': '80.754B', 'longFmt': '80,753,500,160'}",591358126,tinto
+BATS.L,British American Tobacco p.l.c.,EQUITY,GBp,uk,"{'raw': 77631111168, 'fmt': '77.631B', 'longFmt': '77,631,111,168'}",568492862,"british,american"
+GLEN.L,Glencore plc,EQUITY,GBp,uk,"{'raw': 65836748800, 'fmt': '65.837B', 'longFmt': '65,836,748,800'}",482122710,glencore
+GSK.L,GSK plc,EQUITY,GBp,uk,"{'raw': 57024245760, 'fmt': '57.024B', 'longFmt': '57,024,245,760'}",417588724,gsk
+RKT.L,Reckitt Benckiser Group plc,EQUITY,GBp,uk,"{'raw': 47544066048, 'fmt': '47.544B', 'longFmt': '47,544,066,048'}",348165339,reckitt
+LSEG.L,London Stock Exchange Group plc,EQUITY,GBp,uk,"{'raw': 47099285504, 'fmt': '47.099B', 'longFmt': '47,099,285,504'}",344908210,"london,stock"
+REL.L,RELX PLC,EQUITY,GBp,uk,"{'raw': 45714960384, 'fmt': '45.715B', 'longFmt': '45,714,960,384'}",334770793,relx
+GACA.L,General Accident PLC,EQUITY,GBp,uk,"{'raw': 36259999744, 'fmt': '36.26B', 'longFmt': '36,259,999,744'}",265532087,"general,accident"
+SANB.L,Santander UK plc,EQUITY,GBp,uk,"{'raw': 39901564928, 'fmt': '39.902B', 'longFmt': '39,901,564,928'}",292199280,"santander,uk"
+WDS.L,Woodside Energy Group Ltd,EQUITY,GBp,uk,"{'raw': 39342100480, 'fmt': '39.342B', 'longFmt': '39,342,100,480'}",288102321,"woodside,energy"
+AAL.L,Anglo American plc,EQUITY,GBp,uk,"{'raw': 39164342272, 'fmt': '39.164B', 'longFmt': '39,164,342,272'}",286800597,"anglo,american"
+NG.L,National Grid plc,EQUITY,GBp,uk,"{'raw': 41907798016, 'fmt': '41.908B', 'longFmt': '41,907,798,016'}",306890931,"national,grid"
+BNC.L,"Banco Santander, S.A.",EQUITY,GBp,uk,"{'raw': 35452977152, 'fmt': '35.453B', 'longFmt': '35,452,977,152'}",259622259,"banco,santander"
+CPG.L,Compass Group PLC,EQUITY,GBp,uk,"{'raw': 33912573952, 'fmt': '33.913B', 'longFmt': '33,912,573,952'}",248341881,"compass,group"
+VOD.L,Vodafone Group Public Limited Company,EQUITY,GBp,uk,"{'raw': 32513034240, 'fmt': '32.513B', 'longFmt': '32,513,034,240'}",238093048,vodafone
+LLOY.L,Lloyds Banking Group plc,EQUITY,GBp,uk,"{'raw': 30385811456, 'fmt': '30.386B', 'longFmt': '30,385,811,456'}",222515389,lloyds
+0Z4S.IL,Tencent Holdings Limited,EQUITY,HKD,uk,"{'raw': 2992770646016, 'fmt': '2.993T', 'longFmt': '2,992,770,646,016'}",21916068509,tencent
+MEL.L,Mitsubishi Electric Corporation,EQUITY,JPY,uk,"{'raw': 29826930688, 'fmt': '29.827B', 'longFmt': '29,826,930,688'}",218422703,mitsubishi
+0Q0C.L,Toshiba Corporation,EQUITY,JPY,uk,"{'raw': 29327761408, 'fmt': '29.328B', 'longFmt': '29,327,761,408'}",214767285,"toshiba,corporation"
+0R2V.IL,Apple Inc.,EQUITY,USD,uk,"{'raw': 2693948243968, 'fmt': '2.694T', 'longFmt': '2,693,948,243,968'}",19727791153,"apple,inc"
+BARC.L,Barclays PLC,EQUITY,GBp,uk,"{'raw': 26589038592, 'fmt': '26.589B', 'longFmt': '26,589,038,592'}",194711610,barclays
+PRU.L,Prudential plc,EQUITY,GBp,uk,"{'raw': 26008473600, 'fmt': '26.008B', 'longFmt': '26,008,473,600'}",190460130,"prudential,plc"
+EXPN.L,Experian plc,EQUITY,GBp,uk,"{'raw': 25721341952, 'fmt': '25.721B', 'longFmt': '25,721,341,952'}",188357465,experian
+BA.L,BAE Systems plc,EQUITY,GBp,uk,"{'raw': 25658447872, 'fmt': '25.658B', 'longFmt': '25,658,447,872'}",187896891,"bae,systems"
+HLN.L,Haleon plc,EQUITY,GBp,uk,"{'raw': 24637831168, 'fmt': '24.638B', 'longFmt': '24,637,831,168'}",180422912,haleon
+CRH.L,CRH plc,EQUITY,GBp,uk,"{'raw': 24628418560, 'fmt': '24.628B', 'longFmt': '24,628,418,560'}",180353983,crh
+0R22.IL,Barrick Gold Corporation,EQUITY,GBp,uk,"{'raw': 2440762753024, 'fmt': '2.441T', 'longFmt': '2,440,762,753,024'}",17873713036,barrick
+0QFP.IL,Richter Gedeon Vegyészeti Gyár Nyilvánosan Muködo Rt.,EQUITY,HUF,uk,"{'raw': 2398977261568, 'fmt': '2.399T', 'longFmt': '2,398,977,261,568'}",17567717755,gedeon
+NWG.L,NatWest Group plc,EQUITY,GBp,uk,"{'raw': 26509508608, 'fmt': '26.51B', 'longFmt': '26,509,508,608'}",194129211,natwest
+0RUK.IL,MOL Magyar Olaj- és Gázipari Nyilvánosan Muködo Részvénytársaság,EQUITY,HUF,uk,"{'raw': 2238208016384, 'fmt': '2.238T', 'longFmt': '2,238,208,016,384'}",16390404086,olaj-
+FERG.L,Ferguson plc,EQUITY,GBp,uk,"{'raw': 21650145280, 'fmt': '21.65B', 'longFmt': '21,650,145,280'}",158544079,"ferguson,plc"
+0QYP.IL,Microsoft Corporation,EQUITY,USD,uk,"{'raw': 2058616307712, 'fmt': '2.059T', 'longFmt': '2,058,616,307,712'}",15075253459,microsoft
+SSE.L,SSE plc,EQUITY,GBp,uk,"{'raw': 19570757632, 'fmt': '19.571B', 'longFmt': '19,570,757,632'}",143316717,"sse,plc"
+STAN.L,Standard Chartered PLC,EQUITY,GBp,uk,"{'raw': 17499402240, 'fmt': '17.499B', 'longFmt': '17,499,402,240'}",128148175,"standard,chartered"
+TSCO.L,Tesco PLC,EQUITY,GBp,uk,"{'raw': 19396847616, 'fmt': '19.397B', 'longFmt': '19,396,847,616'}",142043173,tesco
+FLTR.L,Flutter Entertainment plc,EQUITY,GBp,uk,"{'raw': 19324045312, 'fmt': '19.324B', 'longFmt': '19,324,045,312'}",141510042,"flutter,entertainment"
+AHT.L,Ashtead Group plc,EQUITY,GBp,uk,"{'raw': 19211720704, 'fmt': '19.212B', 'longFmt': '19,211,720,704'}",140687488,ashtead
+IMB.L,Imperial Brands PLC,EQUITY,GBp,uk,"{'raw': 17905686528, 'fmt': '17.906B', 'longFmt': '17,905,686,528'}",131123396,"imperial,brands"
+0QIU.IL,Novo Nordisk A/S,EQUITY,DKK,uk,"{'raw': 1801632743424, 'fmt': '1.802T', 'longFmt': '1,801,632,743,424'}",13193362039,nordisk
+LGEN.L,Legal & General Group Plc,EQUITY,GBp,uk,"{'raw': 15657458688, 'fmt': '15.657B', 'longFmt': '15,657,458,688'}",114659617,"legal,&"
+BT-A.L,BT Group plc,EQUITY,GBp,uk,"{'raw': 15339686912, 'fmt': '15.34B', 'longFmt': '15,339,686,912'}",112332573,"bt,group"
+0RIH.IL,Alphabet Inc.,EQUITY,USD,uk,"{'raw': 1490420367360, 'fmt': '1.49T', 'longFmt': '1,490,420,367,360'}",10914352866,"alphabet,inc"
+0RYA.IL,Ryanair Holdings plc,EQUITY,GBp,uk,"{'raw': 1295903358976, 'fmt': '1.296T', 'longFmt': '1,295,903,358,976'}",9489904224,ryanair
+0M2Z.IL,Equinor ASA,EQUITY,NOK,uk,"{'raw': 1286013190144, 'fmt': '1.286T', 'longFmt': '1,286,013,190,144'}",9417478488,equinor
+0NZF.IL,"CEZ, a. s.",EQUITY,CZK,uk,"{'raw': 1100670435328, 'fmt': '1.101T', 'longFmt': '1,100,670,435,328'}",8060212933,cez
+0R37.IL,Berkshire Hathaway Inc.,EQUITY,USD,uk,"{'raw': 637613113344, 'fmt': '637.613B', 'longFmt': '637,613,113,344'}",4669242761,"berkshire,hathaway"
+0NC6.IL,Investor AB (publ),EQUITY,SEK,uk,"{'raw': 535490985984, 'fmt': '535.491B', 'longFmt': '535,490,985,984'}",3921402112,"investor,ab"
+0XXT.IL,Atlas Copco AB,EQUITY,SEK,uk,"{'raw': 528228810752, 'fmt': '528.229B', 'longFmt': '528,228,810,752'}",3868221181,copco
+0R0O.IL,UnitedHealth Group Incorporated,EQUITY,USD,uk,"{'raw': 506036387840, 'fmt': '506.036B', 'longFmt': '506,036,387,840'}",3705706001,unitedhealth
+0LCV.IL,Taiwan Semiconductor Manufacturing Company Limited,EQUITY,USD,uk,"{'raw': 442839334912, 'fmt': '442.839B', 'longFmt': '442,839,334,912'}",3242913791,"taiwan,semiconductor"
+0QZI.IL,"Meta Platforms, Inc.",EQUITY,USD,uk,"{'raw': 439225221120, 'fmt': '439.225B', 'longFmt': '439,225,221,120'}",3216447625,"meta,platforms"
+0QZ0.IL,Visa Inc.,EQUITY,USD,uk,"{'raw': 409317933056, 'fmt': '409.318B', 'longFmt': '409,317,933,056'}",2997436464,"visa,inc"
+0R1M.IL,Exxon Mobil Corporation,EQUITY,USD,uk,"{'raw': 407074242560, 'fmt': '407.074B', 'longFmt': '407,074,242,560'}",2981005911,"exxon,mobil"
+0N4T.IL,Nordea Bank Abp,EQUITY,SEK,uk,"{'raw': 377771720704, 'fmt': '377.772B', 'longFmt': '377,771,720,704'}",2766423455,nordea
+0R1W.IL,Walmart Inc.,EQUITY,USD,uk,"{'raw': 370467700736, 'fmt': '370.468B', 'longFmt': '370,467,700,736'}",2712936095,walmart
+0MHW.IL,AB Volvo (publ),EQUITY,SEK,uk,"{'raw': 366777040896, 'fmt': '366.777B', 'longFmt': '366,777,040,896'}",2685909381,"ab,volvo"
+0NOF.IL,The Procter & Gamble Company,EQUITY,USD,uk,"{'raw': 347172929536, 'fmt': '347.173B', 'longFmt': '347,172,929,536'}",2542348414,"procter,&"
+0HAU.IL,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",EQUITY,EUR,uk,"{'raw': 345129746432, 'fmt': '345.13B', 'longFmt': '345,129,746,432'}",2527386178,lvmh
+0O76.IL,A.P. Møller - Mærsk A/S,EQUITY,DKK,uk,"{'raw': 347119747072, 'fmt': '347.12B', 'longFmt': '347,119,747,072'}",2541958959,moller
+0Q1F.IL,JPMorgan Chase & Co.,EQUITY,USD,uk,"{'raw': 337377525760, 'fmt': '337.378B', 'longFmt': '337,377,525,760'}",2470616643,jpmorgan
+0R2Z.IL,Mastercard Incorporated,EQUITY,USD,uk,"{'raw': 324971986944, 'fmt': '324.972B', 'longFmt': '324,971,986,944'}",2379770845,mastercard
+0QR4.IL,Nestlé S.A.,EQUITY,CHF,uk,"{'raw': 322548891648, 'fmt': '322.549B', 'longFmt': '322,548,891,648'}",2362026510,"nestle,sa"
+0RHE.IL,Ørsted A/S,EQUITY,DKK,uk,"{'raw': 324815618048, 'fmt': '324.816B', 'longFmt': '324,815,618,048'}",2378625755,orsted
+0R2Q.IL,Chevron Corporation,EQUITY,USD,uk,"{'raw': 317234872320, 'fmt': '317.235B', 'longFmt': '317,234,872,320'}",2323111931,"chevron,corporation"
+0R0X.IL,"Tesla, Inc.",EQUITY,USD,uk,"{'raw': 312761778176, 'fmt': '312.762B', 'longFmt': '312,761,778,176'}",2290355449,"tesla,inc"
+0O84.IL,DNB Bank ASA,EQUITY,NOK,uk,"{'raw': 298161733632, 'fmt': '298.162B', 'longFmt': '298,161,733,632'}",2183439278,"dnb,bank"
+0Q16.IL,Bank of America Corporation,EQUITY,USD,uk,"{'raw': 276090847232, 'fmt': '276.091B', 'longFmt': '276,090,847,232'}",2021814110,"bank,of,america"
+BC94.L,"Samsung Electronics Co., Ltd.",EQUITY,USD,uk,"{'raw': 76213755904, 'fmt': '76.214B', 'longFmt': '76,213,755,904'}",558113565,samsung
+0Q1N.IL,Pfizer Inc.,EQUITY,USD,uk,"{'raw': 267832016896, 'fmt': '267.832B', 'longFmt': '267,832,016,896'}",1961334671,"pfizer,inc"
+0O87.IL,Telefonaktiebolaget LM Ericsson (publ),EQUITY,SEK,uk,"{'raw': 264082898944, 'fmt': '264.083B', 'longFmt': '264,082,898,944'}",1933879869,telefonaktiebolaget
+0QOK.IL,Roche Holding AG,EQUITY,CHF,uk,"{'raw': 262207078400, 'fmt': '262.207B', 'longFmt': '262,207,078,400'}",1920143229,"roche,holding"
+0JN9.IL,DSV A/S,EQUITY,DKK,uk,"{'raw': 263587004416, 'fmt': '263.587B', 'longFmt': '263,587,004,416'}",1930248432,dsv
+0R87.IL,ASSA ABLOY AB (publ),EQUITY,SEK,uk,"{'raw': 250837417984, 'fmt': '250.837B', 'longFmt': '250,837,417,984'}",1836883171,assa
+0QOS.IL,"PepsiCo, Inc.",EQUITY,USD,uk,"{'raw': 246718873600, 'fmt': '246.719B', 'longFmt': '246,718,873,600'}",1806723058,"pepsico,inc"
+0HCI.IL,Alibaba Group Holding Limited,EQUITY,USD,uk,"{'raw': 244977401856, 'fmt': '244.977B', 'longFmt': '244,977,401,856'}",1793970256,alibaba
+0QCV.IL,AbbVie Inc.,EQUITY,USD,uk,"{'raw': 244402503680, 'fmt': '244.403B', 'longFmt': '244,402,503,680'}",1789760275,abbvie
+0AAZ.IL,EQT AB (publ),EQUITY,SEK,uk,"{'raw': 244645888000, 'fmt': '244.646B', 'longFmt': '244,645,888,000'}",1791542579,eqt
+0HBY.IL,Skandinaviska Enskilda Banken AB (publ),EQUITY,SEK,uk,"{'raw': 232612626432, 'fmt': '232.613B', 'longFmt': '232,612,626,432'}",1703422968,skandinaviska
+0M5J.IL,Aker BP ASA,EQUITY,NOK,uk,"{'raw': 231541374976, 'fmt': '231.541B', 'longFmt': '231,541,374,976'}",1695578190,"aker,bp"
+0QAH.IL,"Merck & Co., Inc.",EQUITY,USD,uk,"{'raw': 227972399104, 'fmt': '227.972B', 'longFmt': '227,972,399,104'}",1669442569,"merck,&"
+0HBP.IL,H & M Hennes & Mauritz AB (publ),EQUITY,SEK,uk,"{'raw': 226562310144, 'fmt': '226.562B', 'longFmt': '226,562,310,144'}",1659116483,mauritz
+0HC0.IL,Sandvik AB (publ),EQUITY,SEK,uk,"{'raw': 228361699328, 'fmt': '228.362B', 'longFmt': '228,361,699,328'}",1672293416,sandvik
+0M42.IL,ASML Holding N.V.,EQUITY,USD,uk,"{'raw': 210914983936, 'fmt': '210.915B', 'longFmt': '210,914,983,936'}",1544531066,asml
+0RH0.IL,NIBE Industrier AB (publ),EQUITY,SEK,uk,"{'raw': 202110910464, 'fmt': '202.111B', 'longFmt': '202,110,910,464'}",1480058809,nibe
+0RQ6.IL,Evolution AB (publ),EQUITY,SEK,uk,"{'raw': 195231809536, 'fmt': '195.232B', 'longFmt': '195,231,809,536'}",1429683132,"evolution,ab"
+0NZM.IL,L'Oréal S.A.,EQUITY,EUR,uk,"{'raw': 193276116992, 'fmt': '193.276B', 'longFmt': '193,276,116,992'}",1415361590,l'oreal
+0QYJ.IL,"Salesforce, Inc.",EQUITY,USD,uk,"{'raw': 192978337792, 'fmt': '192.978B', 'longFmt': '192,978,337,792'}",1413180952,salesforce
+0NMK.IL,Vestas Wind Systems A/S,EQUITY,DKK,uk,"{'raw': 191164055552, 'fmt': '191.164B', 'longFmt': '191,164,055,552'}",1399894958,a/s
+0Q15.IL,Abbott Laboratories,EQUITY,USD,uk,"{'raw': 185040142336, 'fmt': '185.04B', 'longFmt': '185,040,142,336'}",1355049523,"abbott,laboratories"
+0QBO.IL,Coloplast A/S,EQUITY,DKK,uk,"{'raw': 186757382144, 'fmt': '186.757B', 'longFmt': '186,757,382,144'}",1367624875,coloplast
+0Q1S.IL,Verizon Communications Inc.,EQUITY,USD,uk,"{'raw': 182624387072, 'fmt': '182.624B', 'longFmt': '182,624,387,072'}",1337358939,verizon
+0RQD.IL,Essity AB (publ),EQUITY,SEK,uk,"{'raw': 179392036864, 'fmt': '179.392B', 'longFmt': '179,392,036,864'}",1313688429,essity
+0YZ2.IL,Geely Automobile Holdings Limited,EQUITY,HKD,uk,"{'raw': 178467880960, 'fmt': '178.468B', 'longFmt': '178,467,880,960'}",1306920833,geely
+0QLR.IL,Novartis AG,EQUITY,CHF,uk,"{'raw': 177919066112, 'fmt': '177.919B', 'longFmt': '177,919,066,112'}",1302901860,novartis
+0R7R.IL,Svenska Handelsbanken AB (publ),EQUITY,SEK,uk,"{'raw': 177457545216, 'fmt': '177.458B', 'longFmt': '177,457,545,216'}",1299522141,svenska
+0MGB.IL,Genmab A/S,EQUITY,DKK,uk,"{'raw': 180321861632, 'fmt': '180.322B', 'longFmt': '180,321,861,632'}",1320497539,genmab
+0QZ6.IL,"NIKE, Inc.",EQUITY,USD,uk,"{'raw': 169147924480, 'fmt': '169.148B', 'longFmt': '169,147,924,480'}",1238670763,"nike,inc"
+0R2F.IL,Wells Fargo & Company,EQUITY,USD,uk,"{'raw': 168252129280, 'fmt': '168.252B', 'longFmt': '168,252,129,280'}",1232110852,"wells,fargo"
+0GO4.IL,Swedish Match AB (publ),EQUITY,SEK,uk,"{'raw': 162525806592, 'fmt': '162.526B', 'longFmt': '162,525,806,592'}",1190176974,"swedish,match"
+0H6T.IL,Swedbank AB (publ),EQUITY,SEK,uk,"{'raw': 156137078784, 'fmt': '156.137B', 'longFmt': '156,137,078,784'}",1143392301,swedbank
+0A28.IL,Prosus N.V.,EQUITY,EUR,uk,"{'raw': 162441625600, 'fmt': '162.442B', 'longFmt': '162,441,625,600'}",1189560516,prosus
+0TCP.IL,Dino Polska S.A.,EQUITY,PLN,uk,"{'raw': 157685350400, 'fmt': '157.685B', 'longFmt': '157,685,350,400'}",1154730298,"dino,polska"
+0G8C.IL,Telenor ASA,EQUITY,NOK,uk,"{'raw': 156766912512, 'fmt': '156.767B', 'longFmt': '156,766,912,512'}",1148004575,telenor
+0H6X.IL,Telia Company AB (publ),EQUITY,SEK,uk,"{'raw': 155760820224, 'fmt': '155.761B', 'longFmt': '155,760,820,224'}",1140636958,"telia,company"
+0R1F.IL,Bristol-Myers Squibb Company,EQUITY,USD,uk,"{'raw': 155220803584, 'fmt': '155.221B', 'longFmt': '155,220,803,584'}",1136682414,bristol-myers
+0M8V.IL,Philip Morris International Inc.,EQUITY,USD,uk,"{'raw': 153924173824, 'fmt': '153.924B', 'longFmt': '153,924,173,824'}",1127187191,"philip,morris"
+0QZD.IL,"Advanced Micro Devices, Inc.",EQUITY,USD,uk,"{'raw': 149389180928, 'fmt': '149.389B', 'longFmt': '149,389,180,928'}",1093977424,"advanced,micro"
+0M2B.IL,Linde plc,EQUITY,EUR,uk,"{'raw': 147989790720, 'fmt': '147.99B', 'longFmt': '147,989,790,720'}",1083729685,linde
+0HV2.IL,Hermès International Société en commandite par actions,EQUITY,EUR,uk,"{'raw': 146481561600, 'fmt': '146.482B', 'longFmt': '146,481,561,600'}",1072684919,"hermes,international"
+0AI4.IL,Carlsberg A/S,EQUITY,DKK,uk,"{'raw': 144755441664, 'fmt': '144.755B', 'longFmt': '144,755,441,664'}",1060044537,carlsberg
+0Q11.IL,Norsk Hydro ASA,EQUITY,NOK,uk,"{'raw': 144782835712, 'fmt': '144.783B', 'longFmt': '144,782,835,712'}",1060245144,"norsk,hydro"
+0A30.IL,TotalEnergies SE,EQUITY,USD,uk,"{'raw': 138151591936, 'fmt': '138.152B', 'longFmt': '138,151,591,936'}",1011684526,totalenergies
+0RQP.IL,Investment AB Latour (publ),EQUITY,SEK,uk,"{'raw': 138984079360, 'fmt': '138.984B', 'longFmt': '138,984,079,360'}",1017780834,"investment,ab"
+0A2R.IL,PetroChina Company Limited,EQUITY,USD,uk,"{'raw': 137533849600, 'fmt': '137.534B', 'longFmt': '137,533,849,600'}",1007160797,petrochina
+0R2N.IL,Raytheon Technologies Corporation,EQUITY,USD,uk,"{'raw': 137256361984, 'fmt': '137.256B', 'longFmt': '137,256,361,984'}",1005128754,"raytheon,technologies"
+0R0T.IL,Amgen Inc.,EQUITY,USD,uk,"{'raw': 130450489344, 'fmt': '130.45B', 'longFmt': '130,450,489,344'}",955289328,amgen
+0KCK.IL,Stora Enso Oyj,EQUITY,SEK,uk,"{'raw': 127373434880, 'fmt': '127.373B', 'longFmt': '127,373,434,880'}",932756049,stora
+0VSO.IL,BYD Company Limited,EQUITY,EUR,uk,"{'raw': 117942624256, 'fmt': '117.943B', 'longFmt': '117,942,624,256'}",863694194,byd
+0Q4U.IL,Novozymes A/S,EQUITY,DKK,uk,"{'raw': 122529185792, 'fmt': '122.529B', 'longFmt': '122,529,185,792'}",897281598,novozymes
+0NNF.IL,Alfa Laval Corporate AB,EQUITY,SEK,uk,"{'raw': 122179174400, 'fmt': '122.179B', 'longFmt': '122,179,174,400'}",894718464,"alfa,laval"
+0R3C.IL,American Express Company,EQUITY,USD,uk,"{'raw': 119164092416, 'fmt': '119.164B', 'longFmt': '119,164,092,416'}",872639009,"american,express"
+0NPL.IL,Christian Dior SE,EQUITY,EUR,uk,"{'raw': 120290254848, 'fmt': '120.29B', 'longFmt': '120,290,254,848'}",880885900,"christian,dior"
+0R3G.IL,"The Goldman Sachs Group, Inc.",EQUITY,USD,uk,"{'raw': 116807827456, 'fmt': '116.808B', 'longFmt': '116,807,827,456'}",855384074,"goldman,sachs"
+0R78.IL,Tryg A/S,EQUITY,DKK,uk,"{'raw': 113052385280, 'fmt': '113.052B', 'longFmt': '113,052,385,280'}",827882959,tryg
+0GWB.IL,L E Lundbergföretagen AB (publ),EQUITY,SEK,uk,"{'raw': 105681903616, 'fmt': '105.682B', 'longFmt': '105,681,903,616'}",773908900,lundbergforetagen
+0OAW.IL,Mowi ASA,EQUITY,NOK,uk,"{'raw': 107093696512, 'fmt': '107.094B', 'longFmt': '107,093,696,512'}",784247464,mowi
+0R9U.IL,"PayPal Holdings, Inc.",EQUITY,USD,uk,"{'raw': 108917284864, 'fmt': '108.917B', 'longFmt': '108,917,284,864'}",797601607,paypal
+0H13.IL,AB Industrivärden (publ),EQUITY,SEK,uk,"{'raw': 106297802752, 'fmt': '106.298B', 'longFmt': '106,297,802,752'}",778419131,industrivarden
+0A22.IL,Anheuser-Busch InBev SA/NV,EQUITY,USD,uk,"{'raw': 106186678272, 'fmt': '106.187B', 'longFmt': '106,186,678,272'}",777605366,anheuser-busch
+0O7D.IL,Yara International ASA,EQUITY,NOK,uk,"{'raw': 102205882368, 'fmt': '102.206B', 'longFmt': '102,205,882,368'}",748453986,"yara,international"
+0QYI.IL,"Netflix, Inc.",EQUITY,USD,uk,"{'raw': 103093157888, 'fmt': '103.093B', 'longFmt': '103,093,157,888'}",754951507,netflix
+0A2W.IL,SAP SE,EQUITY,USD,uk,"{'raw': 102965854208, 'fmt': '102.966B', 'longFmt': '102,965,854,208'}",754019262,"sap,se"
+0A2V.IL,Sanofi,EQUITY,USD,uk,"{'raw': 102698270720, 'fmt': '102.698B', 'longFmt': '102,698,270,720'}",752059747,sanofi
+0OJC.IL,Gjensidige Forsikring ASA,EQUITY,NOK,uk,"{'raw': 104172904448, 'fmt': '104.173B', 'longFmt': '104,172,904,448'}",762858494,gjensidige
+0R01.IL,Citigroup Inc.,EQUITY,USD,uk,"{'raw': 98631589888, 'fmt': '98.632B', 'longFmt': '98,631,589,888'}",722279431,citigroup
+0YAL.IL,Boliden AB (publ),EQUITY,SEK,uk,"{'raw': 99120390144, 'fmt': '99.12B', 'longFmt': '99,120,390,144'}",725858917,boliden
+0MPH.IL,Deutsche Telekom AG,EQUITY,EUR,uk,"{'raw': 93904232448, 'fmt': '93.904B', 'longFmt': '93,904,232,448'}",687660978,telekom
+0JOQ.IL,"JD.com, Inc.",EQUITY,USD,uk,"{'raw': 93174161408, 'fmt': '93.174B', 'longFmt': '93,174,161,408'}",682314666,jdcom
+0A2E.IL,China Life Insurance Company Limited,EQUITY,USD,uk,"{'raw': 92484395008, 'fmt': '92.484B', 'longFmt': '92,484,395,008'}",677263504,"china,life"
+0R1A.IL,"Applied Materials, Inc.",EQUITY,USD,uk,"{'raw': 87603658752, 'fmt': '87.604B', 'longFmt': '87,603,658,752'}",641521858,"applied,materials"
+0NVC.IL,Danske Bank A/S,EQUITY,DKK,uk,"{'raw': 84141555712, 'fmt': '84.142B', 'longFmt': '84,141,555,712'}",616168867,danske
+0P6O.IL,Volkswagen AG,EQUITY,EUR,uk,"{'raw': 84816019456, 'fmt': '84.816B', 'longFmt': '84,816,019,456'}",621107967,"volkswagen,ag"
+0P6M.IL,Siemens Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 84940709888, 'fmt': '84.941B', 'longFmt': '84,940,709,888'}",622021075,"siemens,aktiengesellschaft"
+0FIN.IL,Orkla ASA,EQUITY,NOK,uk,"{'raw': 83542646784, 'fmt': '83.543B', 'longFmt': '83,542,646,784'}",611783055,orkla
+0R31.IL,"Altria Group, Inc.",EQUITY,USD,uk,"{'raw': 82315476992, 'fmt': '82.315B', 'longFmt': '82,315,476,992'}",602796487,altria
+0KVV.IL,Airbus SE,EQUITY,EUR,uk,"{'raw': 82384461824, 'fmt': '82.384B', 'longFmt': '82,384,461,824'}",603301663,"airbus,se"
+0QYQ.IL,"Gilead Sciences, Inc.",EQUITY,USD,uk,"{'raw': 79488720896, 'fmt': '79.489B', 'longFmt': '79,488,720,896'}",582096143,"gilead,sciences"
+0W2Y.IL,Booking Holdings Inc.,EQUITY,USD,uk,"{'raw': 79155101696, 'fmt': '79.155B', 'longFmt': '79,155,101,696'}",579653049,"booking,holdings"
+0QE6.IL,Tele2 AB (publ),EQUITY,SEK,uk,"{'raw': 78860148736, 'fmt': '78.86B', 'longFmt': '78,860,148,736'}",577493108,tele2
+0FWY.IL,SalMar ASA,EQUITY,NOK,uk,"{'raw': 76915646464, 'fmt': '76.916B', 'longFmt': '76,915,646,464'}",563253512,salmar
+0QDX.IL,AB Sagax (publ),EQUITY,SEK,uk,"{'raw': 79166357504, 'fmt': '79.166B', 'longFmt': '79,166,357,504'}",579735475,sagax
+0O14.IL,MERCK Kommanditgesellschaft auf Aktien,EQUITY,EUR,uk,"{'raw': 78565679104, 'fmt': '78.566B', 'longFmt': '78,565,679,104'}",575336706,kommanditgesellschaft
+0H30.IL,Indutrade AB (publ),EQUITY,SEK,uk,"{'raw': 77855825920, 'fmt': '77.856B', 'longFmt': '77,855,825,920'}",570138449,indutrade
+0XS9.IL,Holmen AB (publ),EQUITY,SEK,uk,"{'raw': 73609117696, 'fmt': '73.609B', 'longFmt': '73,609,117,696'}",539039791,"holmen,ab"
+0NWX.IL,AB SKF (publ),EQUITY,SEK,uk,"{'raw': 73543450624, 'fmt': '73.543B', 'longFmt': '73,543,450,624'}",538558911,skf
+0MI0.IL,"Autoliv, Inc.",EQUITY,SEK,uk,"{'raw': 73300795392, 'fmt': '73.301B', 'longFmt': '73,300,795,392'}",536781946,autoliv
+0QWI.IL,"Industria de Diseño Textil, S.A.",EQUITY,EUR,uk,"{'raw': 74010738688, 'fmt': '74.011B', 'longFmt': '74,010,738,688'}",541980863,textil
+0NWV.IL,Schneider Electric S.E.,EQUITY,EUR,uk,"{'raw': 72416788480, 'fmt': '72.417B', 'longFmt': '72,416,788,480'}",530308361,"schneider,electric"
+0MTD.IL,Swedish Orphan Biovitrum AB (publ),EQUITY,SEK,uk,"{'raw': 71634116608, 'fmt': '71.634B', 'longFmt': '71,634,116,608'}",524576852,biovitrum
+0R6R.IL,Axfood AB (publ),EQUITY,SEK,uk,"{'raw': 71894843392, 'fmt': '71.895B', 'longFmt': '71,894,843,392'}",526486156,axfood
+0M6S.IL,Allianz SE,EQUITY,EUR,uk,"{'raw': 71243284480, 'fmt': '71.243B', 'longFmt': '71,243,284,480'}",521714788,allianz
+0OMK.IL,EssilorLuxottica Société anonyme,EQUITY,EUR,uk,"{'raw': 70929637376, 'fmt': '70.93B', 'longFmt': '70,929,637,376'}",519417949,essilorluxottica
+0NWF.IL,L'Air Liquide S.A.,EQUITY,EUR,uk,"{'raw': 69210824704, 'fmt': '69.211B', 'longFmt': '69,210,824,704'}",506831079,l'air
+0HIT.IL,"Iberdrola, S.A.",EQUITY,EUR,uk,"{'raw': 68507598848, 'fmt': '68.508B', 'longFmt': '68,507,598,848'}",501681353,iberdrola
+0A2S.IL,Pinduoduo Inc.,EQUITY,USD,uk,"{'raw': 67354058752, 'fmt': '67.354B', 'longFmt': '67,354,058,752'}",493233976,pinduoduo
+0IIH.IL,Kering SA,EQUITY,EUR,uk,"{'raw': 67412533248, 'fmt': '67.413B', 'longFmt': '67,412,533,248'}",493662185,kering
+0H2Z.IL,Fastighets AB Balder (publ),EQUITY,SEK,uk,"{'raw': 66810052608, 'fmt': '66.81B', 'longFmt': '66,810,052,608'}",489250217,fastighets
+0Y2S.IL,Trane Technologies plc,EQUITY,USD,uk,"{'raw': 66197741568, 'fmt': '66.198B', 'longFmt': '66,197,741,568'}",484766262,trane
+0HBT.IL,Skanska AB (publ),EQUITY,SEK,uk,"{'raw': 66786488320, 'fmt': '66.786B', 'longFmt': '66,786,488,320'}",489077656,skanska
+0KV7.IL,Tomra Systems ASA,EQUITY,NOK,uk,"{'raw': 66916646912, 'fmt': '66.917B', 'longFmt': '66,916,646,912'}",490030808,tomra
+0QP2.IL,Zurich Insurance Group AG,EQUITY,CHF,uk,"{'raw': 64437137408, 'fmt': '64.437B', 'longFmt': '64,437,137,408'}",471873352,"zurich,insurance"
+0A0H.IL,Beijer Ref AB (publ),EQUITY,SEK,uk,"{'raw': 64331964416, 'fmt': '64.332B', 'longFmt': '64,331,964,416'}",471103170,beijer
+0LBF.IL,Vale S.A.,EQUITY,USD,uk,"{'raw': 63583981568, 'fmt': '63.584B', 'longFmt': '63,583,981,568'}",465625689,"vale,sa"
+0QMU.IL,Compagnie Financière Richemont SA,EQUITY,CHF,uk,"{'raw': 63410634752, 'fmt': '63.411B', 'longFmt': '63,410,634,752'}",464356270,richemont
+0P4F.IL,Ford Motor Company,EQUITY,USD,uk,"{'raw': 61408276480, 'fmt': '61.408B', 'longFmt': '61,408,276,480'}",449692994,"ford,motor"
+0F08.IL,Kongsberg Gruppen ASA,EQUITY,NOK,uk,"{'raw': 62227738624, 'fmt': '62.228B', 'longFmt': '62,227,738,624'}",455693918,gruppen
+0H8X.IL,"Activision Blizzard, Inc.",EQUITY,USD,uk,"{'raw': 62044766208, 'fmt': '62.045B', 'longFmt': '62,044,766,208'}",454354010,activision
+0NL3.IL,Trelleborg AB (publ),EQUITY,SEK,uk,"{'raw': 60500692992, 'fmt': '60.501B', 'longFmt': '60,500,692,992'}",443046758,trelleborg
+0GZV.IL,Getinge AB (publ),EQUITY,SEK,uk,"{'raw': 61487919104, 'fmt': '61.488B', 'longFmt': '61,487,919,104'}",450276217,getinge
+0NXX.IL,Mercedes-Benz Group AG,EQUITY,EUR,uk,"{'raw': 60371070976, 'fmt': '60.371B', 'longFmt': '60,371,070,976'}",442097535,mercedes-benz
+0MJX.IL,Aker ASA,EQUITY,NOK,uk,"{'raw': 58780790784, 'fmt': '58.781B', 'longFmt': '58,780,790,784'}",430451909,"aker,asa"
+0NR1.IL,VERBUND AG,EQUITY,EUR,uk,"{'raw': 59661856768, 'fmt': '59.662B', 'longFmt': '59,661,856,768'}",436903957,verbund
+0K6G.IL,"NetEase, Inc.",EQUITY,USD,uk,"{'raw': 58159464448, 'fmt': '58.159B', 'longFmt': '58,159,464,448'}",425901934,netease
+0R0E.IL,General Motors Company,EQUITY,USD,uk,"{'raw': 57197555712, 'fmt': '57.198B', 'longFmt': '57,197,555,712'}",418857873,"general,motors"
+0A1U.IL,"Uber Technologies, Inc.",EQUITY,USD,uk,"{'raw': 56912801792, 'fmt': '56.913B', 'longFmt': '56,912,801,792'}",416772619,"uber,technologies"
+0SCL.IL,Schlumberger Limited,EQUITY,USD,uk,"{'raw': 56299794432, 'fmt': '56.3B', 'longFmt': '56,299,794,432'}",412283565,schlumberger
+0A45.IL,"Moderna, Inc.",EQUITY,USD,uk,"{'raw': 55459954688, 'fmt': '55.46B', 'longFmt': '55,459,954,688'}",406133416,"moderna,inc"
+0HAR.IL,AXA SA,EQUITY,EUR,uk,"{'raw': 54925512704, 'fmt': '54.926B', 'longFmt': '54,925,512,704'}",402219695,"axa,sa"
+0O26.IL,Heineken N.V.,EQUITY,EUR,uk,"{'raw': 54752899072, 'fmt': '54.753B', 'longFmt': '54,752,899,072'}",400955645,heineken
+0R3T.IL,UBS Group AG,EQUITY,CHF,uk,"{'raw': 54297079808, 'fmt': '54.297B', 'longFmt': '54,297,079,808'}",397617679,ubs
+0NX2.IL,ABB Ltd,EQUITY,CHF,uk,"{'raw': 53270355968, 'fmt': '53.27B', 'longFmt': '53,270,355,968'}",390098978,"abb,ltd"
+0RGT.IL,Demant A/S,EQUITY,DKK,uk,"{'raw': 52677836800, 'fmt': '52.678B', 'longFmt': '52,677,836,800'}",385759958,demant
+0NQM.IL,Vinci SA,EQUITY,EUR,uk,"{'raw': 53181276160, 'fmt': '53.181B', 'longFmt': '53,181,276,160'}",389446646,"vinci,sa"
+0P6S.IL,Bayer Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 52957704192, 'fmt': '52.958B', 'longFmt': '52,957,704,192'}",387809428,"bayer,aktiengesellschaft"
+0HB4.IL,Dassault Systèmes SE,EQUITY,EUR,uk,"{'raw': 52569915392, 'fmt': '52.57B', 'longFmt': '52,569,915,392'}",384969649,dassault
+0MHZ.IL,SSAB AB (publ),EQUITY,SEK,uk,"{'raw': 52134559744, 'fmt': '52.135B', 'longFmt': '52,134,559,744'}",381781538,ssab
+0YP5.IL,Adyen N.V.,EQUITY,EUR,uk,"{'raw': 51879608320, 'fmt': '51.88B', 'longFmt': '51,879,608,320'}",379914528,adyen
+0A93.IL,Snowflake Inc.,EQUITY,USD,uk,"{'raw': 50954846208, 'fmt': '50.955B', 'longFmt': '50,954,846,208'}",373142493,"snowflake,inc"
+0GT1.IL,Castellum AB (publ),EQUITY,SEK,uk,"{'raw': 50754375680, 'fmt': '50.754B', 'longFmt': '50,754,375,680'}",371674446,"castellum,ab"
+0GWL.IL,Saab AB (publ),EQUITY,SEK,uk,"{'raw': 50787930112, 'fmt': '50.788B', 'longFmt': '50,787,930,112'}",371920166,"saab,ab"
+0NRE.IL,Enel SpA,EQUITY,EUR,uk,"{'raw': 51091611648, 'fmt': '51.092B', 'longFmt': '51,091,611,648'}",374144026,enel
+0RCG.IL,Hapag-Lloyd Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 50583724032, 'fmt': '50.584B', 'longFmt': '50,583,724,032'}",370424764,hapag-lloyd
+0O0U.IL,Bayerische Motoren Werke Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 49194684416, 'fmt': '49.195B', 'longFmt': '49,194,684,416'}",360252823,bayerische
+0HAT.IL,Pernod Ricard SA,EQUITY,EUR,uk,"{'raw': 48671563776, 'fmt': '48.672B', 'longFmt': '48,671,563,776'}",356422009,"pernod,ricard"
+0HL1.IL,"Baidu, Inc.",EQUITY,USD,uk,"{'raw': 48062689280, 'fmt': '48.063B', 'longFmt': '48,062,689,280'}",351963219,baidu
+0AAE.IL,AutoStore Holdings Ltd.,EQUITY,NOK,uk,"{'raw': 47574609920, 'fmt': '47.575B', 'longFmt': '47,574,609,920'}",348389012,autostore
+0JRV.IL,The Kraft Heinz Company,EQUITY,USD,uk,"{'raw': 47259090944, 'fmt': '47.259B', 'longFmt': '47,259,090,944'}",346078466,"kraft,heinz"
+0RQ9.IL,Lundin Mining Corporation,EQUITY,SEK,uk,"{'raw': 47136530432, 'fmt': '47.137B', 'longFmt': '47,136,530,432'}",345180955,"lundin,mining"
+0HBA.IL,Electricité de France S.A.,EQUITY,EUR,uk,"{'raw': 46399913984, 'fmt': '46.4B', 'longFmt': '46,399,913,984'}",339786710,electricite
+0IU8.IL,Safran SA,EQUITY,EUR,uk,"{'raw': 46342037504, 'fmt': '46.342B', 'longFmt': '46,342,037,504'}",339362881,safran
+0H3Q.IL,Deutsche Post AG,EQUITY,EUR,uk,"{'raw': 46302720000, 'fmt': '46.303B', 'longFmt': '46,302,720,000'}",339074958,"deutsche,post"
+0R2O.IL,Freeport-McMoRan Inc.,EQUITY,USD,uk,"{'raw': 44970090496, 'fmt': '44.97B', 'longFmt': '44,970,090,496'}",329316108,freeport-mcmoran
+0QXR.IL,Stellantis N.V.,EQUITY,EUR,uk,"{'raw': 44542775296, 'fmt': '44.543B', 'longFmt': '44,542,775,296'}",326186878,stellantis
+0N9S.IL,Eni S.p.A.,EQUITY,EUR,uk,"{'raw': 44092276736, 'fmt': '44.092B', 'longFmt': '44,092,276,736'}",322887876,eni
+0L95.IL,"Block, Inc.",EQUITY,USD,uk,"{'raw': 43232010240, 'fmt': '43.232B', 'longFmt': '43,232,010,240'}",316588141,"block,inc"
+0QI7.IL,Addtech AB (publ.),EQUITY,SEK,uk,"{'raw': 42086318080, 'fmt': '42.086B', 'longFmt': '42,086,318,080'}",308198234,addtech
+0A0J.IL,AAK AB (publ.),EQUITY,SEK,uk,"{'raw': 43359002624, 'fmt': '43.359B', 'longFmt': '43,359,002,624'}",317518107,aak
+0GTR.IL,Husqvarna AB (publ),EQUITY,SEK,uk,"{'raw': 41651503104, 'fmt': '41.652B', 'longFmt': '41,651,503,104'}",305014083,husqvarna
+0GM2.IL,Lerøy Seafood Group ASA,EQUITY,NOK,uk,"{'raw': 39827464192, 'fmt': '39.827B', 'longFmt': '39,827,464,192'}",291656640,"leroy,seafood"
+0H9P.IL,Intrum AB (publ),EQUITY,SEK,uk,"{'raw': 40008515584, 'fmt': '40.009B', 'longFmt': '40,008,515,584'}",292982480,intrum
+0R9I.IL,Schibsted ASA,EQUITY,NOK,uk,"{'raw': 39995031552, 'fmt': '39.995B', 'longFmt': '39,995,031,552'}",292883737,schibsted
+0O46.IL,Neste Oyj,EQUITY,EUR,uk,"{'raw': 39514845184, 'fmt': '39.515B', 'longFmt': '39,514,845,184'}",289367331,neste
+0MDT.IL,AB Electrolux (publ),EQUITY,SEK,uk,"{'raw': 39064035328, 'fmt': '39.064B', 'longFmt': '39,064,035,328'}",286066049,electrolux
+0BFA.IL,BASF SE,EQUITY,EUR,uk,"{'raw': 38617448448, 'fmt': '38.617B', 'longFmt': '38,617,448,448'}",282795692,basf
+0RDT.IL,Ferrari N.V.,EQUITY,EUR,uk,"{'raw': 37558001664, 'fmt': '37.558B', 'longFmt': '37,558,001,664'}",275037359,"ferrari,nv"
+0NO0.IL,Storebrand ASA,EQUITY,NOK,uk,"{'raw': 37672591360, 'fmt': '37.673B', 'longFmt': '37,672,591,360'}",275876500,storebrand
+0YAY.IL,Vitrolife AB (publ),EQUITY,SEK,uk,"{'raw': 37457158144, 'fmt': '37.457B', 'longFmt': '37,457,158,144'}",274298882,vitrolife
+0H0G.IL,Sweco AB (publ),EQUITY,SEK,uk,"{'raw': 37121875968, 'fmt': '37.122B', 'longFmt': '37,121,875,968'}",271843610,sweco
+0A3T.IL,Sea Limited,EQUITY,USD,uk,"{'raw': 36647784448, 'fmt': '36.648B', 'longFmt': '36,647,784,448'}",268371836,"sea,limited"
+0A3M.IL,BioNTech SE,EQUITY,USD,uk,"{'raw': 35815317504, 'fmt': '35.815B', 'longFmt': '35,815,317,504'}",262275678,biontech
+0MQ2.IL,P/F Bakkafrost,EQUITY,NOK,uk,"{'raw': 35523141632, 'fmt': '35.523B', 'longFmt': '35,523,141,632'}",260136073,p/f
+0R28.IL,Newmont Corporation,EQUITY,USD,uk,"{'raw': 35458199552, 'fmt': '35.458B', 'longFmt': '35,458,199,552'}",259660502,newmont
+0RG8.IL,Sartorius Stedim Biotech S.A.,EQUITY,EUR,uk,"{'raw': 35793457152, 'fmt': '35.793B', 'longFmt': '35,793,457,152'}",262115595,stedim
+0R7O.IL,HEXPOL AB (publ),EQUITY,SEK,uk,"{'raw': 34690662400, 'fmt': '34.691B', 'longFmt': '34,690,662,400'}",254039825,hexpol
+0Z4C.IL,Sika AG,EQUITY,CHF,uk,"{'raw': 34835484672, 'fmt': '34.835B', 'longFmt': '34,835,484,672'}",255100359,"sika,ag"
+0GWS.IL,BillerudKorsnäs AB (publ),EQUITY,SEK,uk,"{'raw': 34346805248, 'fmt': '34.347B', 'longFmt': '34,346,805,248'}",251521758,billerudkorsnas
+0QCQ.IL,Topdanmark A/S,EQUITY,DKK,uk,"{'raw': 34313232384, 'fmt': '34.313B', 'longFmt': '34,313,232,384'}",251275904,topdanmark
+0IAH.IL,Securitas AB (publ),EQUITY,SEK,uk,"{'raw': 34049671168, 'fmt': '34.05B', 'longFmt': '34,049,671,168'}",249345845,securitas
+0KFX.IL,Danone S.A.,EQUITY,EUR,uk,"{'raw': 34410033152, 'fmt': '34.41B', 'longFmt': '34,410,033,152'}",251984777,danone
+0HBC.IL,Intesa Sanpaolo S.p.A.,EQUITY,EUR,uk,"{'raw': 34667421696, 'fmt': '34.667B', 'longFmt': '34,667,421,696'}",253869634,intesa
+0RIC.IL,ING Groep N.V.,EQUITY,EUR,uk,"{'raw': 34094534656, 'fmt': '34.095B', 'longFmt': '34,094,534,656'}",249674380,groep
+0A0D.IL,Alcon Inc.,EQUITY,CHF,uk,"{'raw': 33303638016, 'fmt': '33.304B', 'longFmt': '33,303,638,016'}",243882642,"alcon,inc"
+0M0A.IL,Rockwool A/S,EQUITY,DKK,uk,"{'raw': 32216180736, 'fmt': '32.216B', 'longFmt': '32,216,180,736'}",235919189,rockwool
+0KED.IL,Infineon Technologies AG,EQUITY,EUR,uk,"{'raw': 33494413312, 'fmt': '33.494B', 'longFmt': '33,494,413,312'}",245279690,infineon
+0KFE.IL,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,EQUITY,EUR,uk,"{'raw': 33510905856, 'fmt': '33.511B', 'longFmt': '33,510,905,856'}",245400465,munchener
+0INB.IL,STMicroelectronics N.V.,EQUITY,EUR,uk,"{'raw': 32672172032, 'fmt': '32.672B', 'longFmt': '32,672,172,032'}",239258414,stmicroelectronics
+0A6V.IL,Nordnet AB (publ),EQUITY,SEK,uk,"{'raw': 32026888192, 'fmt': '32.027B', 'longFmt': '32,026,888,192'}",234532999,nordnet
+0R7Y.IL,Wallenstam AB (publ),EQUITY,SEK,uk,"{'raw': 31851599872, 'fmt': '31.852B', 'longFmt': '31,851,599,872'}",233249362,wallenstam
+0H3T.IL,Deutsche Börse AG,EQUITY,EUR,uk,"{'raw': 31904497664, 'fmt': '31.904B', 'longFmt': '31,904,497,664'}",233636733,borse
+0A0L.IL,Sectra AB (publ),EQUITY,SEK,uk,"{'raw': 31804475392, 'fmt': '31.804B', 'longFmt': '31,804,475,392'}",232904269,sectra
+0LD0.IL,ENGIE SA,EQUITY,EUR,uk,"{'raw': 31669596160, 'fmt': '31.67B', 'longFmt': '31,669,596,160'}",231916548,engie
+0QZB.IL,"Twitter, Inc.",EQUITY,USD,uk,"{'raw': 31145512960, 'fmt': '31.146B', 'longFmt': '31,145,512,960'}",228078685,"twitter,inc"
+0HAZ.IL,Capgemini SE,EQUITY,EUR,uk,"{'raw': 31419045888, 'fmt': '31.419B', 'longFmt': '31,419,045,888'}",230081768,capgemini
+0OIR.IL,ALK-Abelló A/S,EQUITY,DKK,uk,"{'raw': 30827235328, 'fmt': '30.827B', 'longFmt': '30,827,235,328'}",225747937,alk-abello
+0XPX.IL,Fabege AB (publ),EQUITY,SEK,uk,"{'raw': 30979903488, 'fmt': '30.98B', 'longFmt': '30,979,903,488'}",226865927,fabege
+0Q57.IL,SpareBank 1 SR-Bank ASA,EQUITY,NOK,uk,"{'raw': 29822976000, 'fmt': '29.823B', 'longFmt': '29,822,976,000'}",218393743,sparebank
+0QPS.IL,Givaudan SA,EQUITY,CHF,uk,"{'raw': 29816805376, 'fmt': '29.817B', 'longFmt': '29,816,805,376'}",218348556,givaudan
+0A2B.IL,"Banco Bilbao Vizcaya Argentaria, S.A.",EQUITY,USD,uk,"{'raw': 29620482048, 'fmt': '29.62B', 'longFmt': '29,620,482,048'}",216910879,argentaria
+0HA0.IL,RWE Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 29456422912, 'fmt': '29.456B', 'longFmt': '29,456,422,912'}",215709474,"rwe,aktiengesellschaft"
+0HAI.IL,Crédit Agricole S.A.,EQUITY,EUR,uk,"{'raw': 28417474560, 'fmt': '28.417B', 'longFmt': '28,417,474,560'}",208101252,"credit,agricole"
+0R6Z.IL,Royal Unibrew A/S,EQUITY,DKK,uk,"{'raw': 29436364800, 'fmt': '29.436B', 'longFmt': '29,436,364,800'}",215562588,unibrew
+0OLD.IL,adidas AG,EQUITY,EUR,uk,"{'raw': 29134960640, 'fmt': '29.135B', 'longFmt': '29,134,960,640'}",213355405,adidas
+0IZC.IL,Henkel AG & Co. KGaA,EQUITY,EUR,uk,"{'raw': 28536469504, 'fmt': '28.536B', 'longFmt': '28,536,469,504'}",208972652,henkel
+0FF9.IL,Nordic Semiconductor ASA,EQUITY,NOK,uk,"{'raw': 29102761984, 'fmt': '29.103B', 'longFmt': '29,102,761,984'}",213119614,"nordic,semiconductor"
+0NPV.IL,"Naturgy Energy Group, S.A.",EQUITY,EUR,uk,"{'raw': 28966760448, 'fmt': '28.967B', 'longFmt': '28,966,760,448'}",212123674,naturgy
+0NIR.IL,Sartorius Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 29393235968, 'fmt': '29.393B', 'longFmt': '29,393,235,968'}",215246756,"sartorius,aktiengesellschaft"
+0RPR.IL,Ringkjøbing Landbobank A/S,EQUITY,DKK,uk,"{'raw': 28358170624, 'fmt': '28.358B', 'longFmt': '28,358,170,624'}",207666969,ringkjobing
+0QMW.IL,Kuehne + Nagel International AG,EQUITY,CHF,uk,"{'raw': 28267249664, 'fmt': '28.267B', 'longFmt': '28,267,249,664'}",207001154,kuehne
+0K8D.IL,Nokia Oyj,EQUITY,USD,uk,"{'raw': 28126398464, 'fmt': '28.126B', 'longFmt': '28,126,398,464'}",205969701,oyj
+0RII.IL,Golden Ocean Group Limited,EQUITY,NOK,uk,"{'raw': 28634073088, 'fmt': '28.634B', 'longFmt': '28,634,073,088'}",209687403,"golden,ocean"
+0GRK.IL,Millicom International Cellular S.A.,EQUITY,SEK,uk,"{'raw': 28312662016, 'fmt': '28.313B', 'longFmt': '28,312,662,016'}",207333709,millicom
+0RI8.IL,Koninklijke Ahold Delhaize N.V.,EQUITY,EUR,uk,"{'raw': 27954722816, 'fmt': '27.955B', 'longFmt': '27,954,722,816'}",204712519,koninklijke
+0R9C.IL,"Cellnex Telecom, S.A.",EQUITY,EUR,uk,"{'raw': 27812644864, 'fmt': '27.813B', 'longFmt': '27,812,644,864'}",203672082,cellnex
+0NUK.IL,Avanza Bank Holding AB (publ),EQUITY,SEK,uk,"{'raw': 27746267136, 'fmt': '27.746B', 'longFmt': '27,746,267,136'}",203185998,avanza
+0R3W.IL,Thule Group AB (publ),EQUITY,SEK,uk,"{'raw': 28080527360, 'fmt': '28.081B', 'longFmt': '28,080,527,360'}",205633786,"thule,group"
+0OQV.IL,Orange S.A.,EQUITY,EUR,uk,"{'raw': 27121215488, 'fmt': '27.121B', 'longFmt': '27,121,215,488'}",198608743,"orange,sa"
+0NMU.IL,Wolters Kluwer N.V.,EQUITY,EUR,uk,"{'raw': 26880847872, 'fmt': '26.881B', 'longFmt': '26,880,847,872'}",196848530,wolters
+0OGK.IL,Subsea 7 S.A.,EQUITY,NOK,uk,"{'raw': 26939891712, 'fmt': '26.94B', 'longFmt': '26,939,891,712'}",197280908,"subsea,7"
+0QKI.IL,Swisscom AG,EQUITY,CHF,uk,"{'raw': 26659942400, 'fmt': '26.66B', 'longFmt': '26,659,942,400'}",195230838,swisscom
+0O5H.IL,Elekta AB (publ),EQUITY,SEK,uk,"{'raw': 23988633600, 'fmt': '23.989B', 'longFmt': '23,988,633,600'}",175668836,elekta
+0QKY.IL,Holcim Ltd,EQUITY,CHF,uk,"{'raw': 26813239296, 'fmt': '26.813B', 'longFmt': '26,813,239,296'}",196353432,holcim
+0IW5.IL,Thales S.A.,EQUITY,EUR,uk,"{'raw': 26666457088, 'fmt': '26.666B', 'longFmt': '26,666,457,088'}",195278546,"thales,sa"
+0REH.IL,Frontline Ltd.,EQUITY,NOK,uk,"{'raw': 26048899072, 'fmt': '26.049B', 'longFmt': '26,048,899,072'}",190756166,"frontline,ltd"
+0ML1.IL,"EDP Renováveis, S.A.",EQUITY,EUR,uk,"{'raw': 25443840000, 'fmt': '25.444B', 'longFmt': '25,443,840,000'}",186325317,renovaveis
+0GW3.IL,Hufvudstaden AB (publ),EQUITY,SEK,uk,"{'raw': 24894691328, 'fmt': '24.895B', 'longFmt': '24,894,691,328'}",182303900,hufvudstaden
+0QP1.IL,Chocoladefabriken Lindt & Sprüngli AG,EQUITY,CHF,uk,"{'raw': 24910235648, 'fmt': '24.91B', 'longFmt': '24,910,235,648'}",182417731,chocoladefabriken
+0A0I.IL,Wihlborgs Fastigheter AB (publ),EQUITY,SEK,uk,"{'raw': 24809359360, 'fmt': '24.809B', 'longFmt': '24,809,359,360'}",181679013,wihlborgs
+0MGD.IL,Jyske Bank A/S,EQUITY,DKK,uk,"{'raw': 25091827712, 'fmt': '25.092B', 'longFmt': '25,091,827,712'}",183747530,jyske
+0P2W.IL,"Amadeus IT Group, S.A.",EQUITY,EUR,uk,"{'raw': 24915075072, 'fmt': '24.915B', 'longFmt': '24,915,075,072'}",182453170,"amadeus,it"
+0TDE.IL,"Telefónica, S.A.",EQUITY,EUR,uk,"{'raw': 24641761280, 'fmt': '24.642B', 'longFmt': '24,641,761,280'}",180451692,telefonica
+0SFN.IL,Elkem ASA,EQUITY,NOK,uk,"{'raw': 24522307584, 'fmt': '24.522B', 'longFmt': '24,522,307,584'}",179576932,elkem
+0R8U.IL,Pandox AB (publ),EQUITY,SEK,uk,"{'raw': 24792164352, 'fmt': '24.792B', 'longFmt': '24,792,164,352'}",181553094,pandox
+0DP0.IL,Bank Polska Kasa Opieki S.A.,EQUITY,PLN,uk,"{'raw': 24067641344, 'fmt': '24.068B', 'longFmt': '24,067,641,344'}",176247410,opieki
+0R3Y.IL,Entra ASA,EQUITY,NOK,uk,"{'raw': 24051976192, 'fmt': '24.052B', 'longFmt': '24,051,976,192'}",176132694,entra
+0K78.IL,Assicurazioni Generali S.p.A.,EQUITY,EUR,uk,"{'raw': 23703848960, 'fmt': '23.704B', 'longFmt': '23,703,848,960'}",173583357,assicurazioni
+0DQ7.IL,Beiersdorf Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 23691245568, 'fmt': '23.691B', 'longFmt': '23,691,245,568'}",173491063,beiersdorf
+0E4Q.IL,Nel ASA,EQUITY,NOK,uk,"{'raw': 23412090880, 'fmt': '23.412B', 'longFmt': '23,412,090,880'}",171446812,"nel,asa"
+0ILK.IL,"CaixaBank, S.A.",EQUITY,EUR,uk,"{'raw': 23390134272, 'fmt': '23.39B', 'longFmt': '23,390,134,272'}",171286024,caixabank
+0MPP.IL,E.ON SE,EQUITY,EUR,uk,"{'raw': 23020052480, 'fmt': '23.02B', 'longFmt': '23,020,052,480'}",168575914,"eon,se"
+0QFT.IL,Vonovia SE,EQUITY,EUR,uk,"{'raw': 23008022528, 'fmt': '23.008B', 'longFmt': '23,008,022,528'}",168487818,vonovia
+0DNW.IL,Austevoll Seafood ASA,EQUITY,NOK,uk,"{'raw': 22368696320, 'fmt': '22.369B', 'longFmt': '22,368,696,320'}",163806030,"austevoll,seafood"
+0A3Z.IL,"Cloudflare, Inc.",EQUITY,USD,uk,"{'raw': 22192091136, 'fmt': '22.192B', 'longFmt': '22,192,091,136'}",162512750,cloudflare
+0QW0.IL,argenx SE,EQUITY,EUR,uk,"{'raw': 21534552064, 'fmt': '21.535B', 'longFmt': '21,534,552,064'}",157697590,argenx
+0QL6.IL,Swiss Re AG,EQUITY,CHF,uk,"{'raw': 21550114816, 'fmt': '21.55B', 'longFmt': '21,550,114,816'}",157811556,"swiss,re"
+0JYZ.IL,Loomis AB (publ),EQUITY,SEK,uk,"{'raw': 20855083008, 'fmt': '20.855B', 'longFmt': '20,855,083,008'}",152721836,"loomis,ab"
+0QEK.IL,SimCorp A/S,EQUITY,DKK,uk,"{'raw': 20838942720, 'fmt': '20.839B', 'longFmt': '20,838,942,720'}",152603640,simcorp
+0OF7.IL,"EDP - Energias de Portugal, S.A.",EQUITY,EUR,uk,"{'raw': 20613369856, 'fmt': '20.613B', 'longFmt': '20,613,369,856'}",150951769,energias
+0O8D.IL,KGHM Polska Miedz S.A.,EQUITY,PLN,uk,"{'raw': 20469999616, 'fmt': '20.47B', 'longFmt': '20,469,999,616'}",149901869,kghm
+0MW7.IL,Legrand SA,EQUITY,EUR,uk,"{'raw': 20253229056, 'fmt': '20.253B', 'longFmt': '20,253,229,056'}",148314457,"legrand,sa"
+0RP9.IL,ArcelorMittal S.A.,EQUITY,EUR,uk,"{'raw': 20261498880, 'fmt': '20.261B', 'longFmt': '20,261,498,880'}",148375017,arcelormittal
+0JHU.IL,Porsche Automobil Holding SE,EQUITY,EUR,uk,"{'raw': 20554330112, 'fmt': '20.554B', 'longFmt': '20,554,330,112'}",150519421,porsche
+0RDS.IL,Kindred Group plc,EQUITY,SEK,uk,"{'raw': 20127027200, 'fmt': '20.127B', 'longFmt': '20,127,027,200'}",147390281,"kindred,group"
+0RB7.IL,Lagercrantz Group AB (publ),EQUITY,SEK,uk,"{'raw': 20857366528, 'fmt': '20.857B', 'longFmt': '20,857,366,528'}",152738558,lagercrantz
+0RBW.IL,Bravida Holding AB (publ),EQUITY,SEK,uk,"{'raw': 19971608576, 'fmt': '19.972B', 'longFmt': '19,971,608,576'}",146252150,bravida
+0EYG.IL,KBC Group NV,EQUITY,EUR,uk,"{'raw': 20131328000, 'fmt': '20.131B', 'longFmt': '20,131,328,000'}",147421775,kbc
+0GVS.IL,Catena AB (publ),EQUITY,SEK,uk,"{'raw': 20039847936, 'fmt': '20.04B', 'longFmt': '20,039,847,936'}",146751867,"catena,ab"
+0RCO.IL,Dometic Group AB (publ),EQUITY,SEK,uk,"{'raw': 19726262272, 'fmt': '19.726B', 'longFmt': '19,726,262,272'}",144455478,dometic
+0A33.IL,ZTO Express (Cayman) Inc.,EQUITY,USD,uk,"{'raw': 19706378240, 'fmt': '19.706B', 'longFmt': '19,706,378,240'}",144309867,zto
+0MHT.IL,Peab AB (publ),EQUITY,SEK,uk,"{'raw': 19679064064, 'fmt': '19.679B', 'longFmt': '19,679,064,064'}",144109845,peab
+0RLS.IL,UniCredit S.p.A.,EQUITY,EUR,uk,"{'raw': 19360004096, 'fmt': '19.36B', 'longFmt': '19,360,004,096'}",141773368,unicredit
+0P2N.IL,"Ferrovial, S.A.",EQUITY,EUR,uk,"{'raw': 19351312384, 'fmt': '19.351B', 'longFmt': '19,351,312,384'}",141709719,ferrovial
+0N9G.IL,"Endesa, S.A.",EQUITY,EUR,uk,"{'raw': 19295227904, 'fmt': '19.295B', 'longFmt': '19,295,227,904'}",141299012,endesa
+0R4Y.IL,"Aena S.M.E., S.A.",EQUITY,EUR,uk,"{'raw': 19152773120, 'fmt': '19.153B', 'longFmt': '19,152,773,120'}",140255815,aena
+0RQ8.IL,FLEX LNG Ltd.,EQUITY,NOK,uk,"{'raw': 18673387520, 'fmt': '18.673B', 'longFmt': '18,673,387,520'}",136745273,"flex,lng"
+0NQG.IL,"Repsol, S.A.",EQUITY,EUR,uk,"{'raw': 18940239872, 'fmt': '18.94B', 'longFmt': '18,940,239,872'}",138699433,repsol
+0IHM.IL,Atrium Ljungberg AB (publ),EQUITY,SEK,uk,"{'raw': 18878351360, 'fmt': '18.878B', 'longFmt': '18,878,351,360'}",138246224,ljungberg
+0I2R.IL,Atlantia SpA,EQUITY,EUR,uk,"{'raw': 18660999168, 'fmt': '18.661B', 'longFmt': '18,660,999,168'}",136654553,atlantia
+0AA9.IL,Storskogen Group AB (publ),EQUITY,SEK,uk,"{'raw': 18503868416, 'fmt': '18.504B', 'longFmt': '18,503,868,416'}",135503884,storskogen
+0NV5.IL,UPM-Kymmene Oyj,EQUITY,EUR,uk,"{'raw': 18373926912, 'fmt': '18.374B', 'longFmt': '18,373,926,912'}",134552322,upm-kymmene
+0QO1.IL,Schindler Holding AG,EQUITY,CHF,uk,"{'raw': 18090625024, 'fmt': '18.091B', 'longFmt': '18,090,625,024'}",132477701,"schindler,holding"
+0MSJ.IL,TGS ASA,EQUITY,NOK,uk,"{'raw': 18482042880, 'fmt': '18.482B', 'longFmt': '18,482,042,880'}",135344056,tgs
+0I50.IL,Trip.com Group Limited,EQUITY,USD,uk,"{'raw': 17886967808, 'fmt': '17.887B', 'longFmt': '17,886,967,808'}",130986319,tripcom
+0R3I.IL,Scatec ASA,EQUITY,NOK,uk,"{'raw': 17872967680, 'fmt': '17.873B', 'longFmt': '17,872,967,680'}",130883796,scatec
+0RNH.IL,Snap Inc.,EQUITY,USD,uk,"{'raw': 17833740288, 'fmt': '17.834B', 'longFmt': '17,833,740,288'}",130596534,"snap,inc"
+0M9A.IL,Hannover Rück SE,EQUITY,EUR,uk,"{'raw': 18093821952, 'fmt': '18.094B', 'longFmt': '18,093,821,952'}",132501112,"hannover,ruck"
+0QXP.IL,Aker Solutions ASA,EQUITY,NOK,uk,"{'raw': 17770518528, 'fmt': '17.771B', 'longFmt': '17,770,518,528'}",130133561,"aker,solutions"
+0J6X.IL,Teleperformance SE,EQUITY,EUR,uk,"{'raw': 17798543360, 'fmt': '17.799B', 'longFmt': '17,798,543,360'}",130338786,teleperformance
+0QMV.IL,Straumann Holding AG,EQUITY,CHF,uk,"{'raw': 17747900416, 'fmt': '17.748B', 'longFmt': '17,747,900,416'}",129967928,straumann
+0MJF.IL,Ambu A/S,EQUITY,DKK,uk,"{'raw': 18614749184, 'fmt': '18.615B', 'longFmt': '18,614,749,184'}",136315864,ambu
+0NQP.IL,Snam S.p.A.,EQUITY,EUR,uk,"{'raw': 17295050752, 'fmt': '17.295B', 'longFmt': '17,295,050,752'}",126651709,snam
+0A0K.IL,Nyfosa AB (publ),EQUITY,SEK,uk,"{'raw': 17251106816, 'fmt': '17.251B', 'longFmt': '17,251,106,816'}",126329907,nyfosa
+0GDU.IL,Paradox Interactive AB (publ),EQUITY,SEK,uk,"{'raw': 17213532160, 'fmt': '17.214B', 'longFmt': '17,213,532,160'}",126054748,"paradox,interactive"
+0RGZ.IL,Kinnevik AB,EQUITY,SEK,uk,"{'raw': 17066802176, 'fmt': '17.067B', 'longFmt': '17,066,802,176'}",124980244,kinnevik
+0MYY.IL,Powszechny Zaklad Ubezpieczen SA,EQUITY,PLN,uk,"{'raw': 16980982784, 'fmt': '16.981B', 'longFmt': '16,980,982,784'}",124351788,powszechny
+0QGU.IL,CNH Industrial N.V.,EQUITY,EUR,uk,"{'raw': 17181284352, 'fmt': '17.181B', 'longFmt': '17,181,284,352'}",125818597,cnh
+0QPY.IL,Sonova Holding AG,EQUITY,CHF,uk,"{'raw': 16695267328, 'fmt': '16.695B', 'longFmt': '16,695,267,328'}",122259493,sonova
+0QM9.IL,EMS-CHEMIE HOLDING AG,EQUITY,CHF,uk,"{'raw': 16641677312, 'fmt': '16.642B', 'longFmt': '16,641,677,312'}",121867053,ems-chemie
+0JZ7.IL,"Match Group, Inc.",EQUITY,USD,uk,"{'raw': 16596448256, 'fmt': '16.596B', 'longFmt': '16,596,448,256'}",121535840,"match,group"
+0QMI.IL,SGS SA,EQUITY,CHF,uk,"{'raw': 16631506944, 'fmt': '16.632B', 'longFmt': '16,631,506,944'}",121792575,sgs
+0QB7.IL,Borregaard ASA,EQUITY,NOK,uk,"{'raw': 16559644672, 'fmt': '16.56B', 'longFmt': '16,559,644,672'}",121266328,borregaard
+0HXB.IL,Tenaris S.A.,EQUITY,EUR,uk,"{'raw': 16776179712, 'fmt': '16.776B', 'longFmt': '16,776,179,712'}",122852014,tenaris
+0DTI.IL,Bonheur ASA,EQUITY,NOK,uk,"{'raw': 16459845632, 'fmt': '16.46B', 'longFmt': '16,459,845,632'}",120535499,"bonheur,asa"
+0RAQ.IL,Karo Pharma AB (publ),EQUITY,SEK,uk,"{'raw': 16395300864, 'fmt': '16.395B', 'longFmt': '16,395,300,864'}",120062837,"karo,pharma"
+0MGC.IL,NKT A/S,EQUITY,DKK,uk,"{'raw': 16377118720, 'fmt': '16.377B', 'longFmt': '16,377,118,720'}",119929690,nkt
+0QUU.IL,Afry AB,EQUITY,SEK,uk,"{'raw': 16369206272, 'fmt': '16.369B', 'longFmt': '16,369,206,272'}",119871747,afry
+0RBI.IL,Sinch AB (publ),EQUITY,SEK,uk,"{'raw': 16517292032, 'fmt': '16.517B', 'longFmt': '16,517,292,032'}",120956179,sinch
+0R1J.IL,Plug Power Inc.,EQUITY,USD,uk,"{'raw': 16216088576, 'fmt': '16.216B', 'longFmt': '16,216,088,576'}",118750465,"plug,power"
+0QQ2.IL,Geberit AG,EQUITY,CHF,uk,"{'raw': 16233510912, 'fmt': '16.234B', 'longFmt': '16,233,510,912'}",118878049,geberit
+0N7D.IL,Bure Equity AB (publ),EQUITY,SEK,uk,"{'raw': 16106563584, 'fmt': '16.107B', 'longFmt': '16,106,563,584'}",117948413,"bure,equity"
+0RB3.IL,DFDS A/S,EQUITY,DKK,uk,"{'raw': 15983794176, 'fmt': '15.984B', 'longFmt': '15,983,794,176'}",117049373,dfds
+0NY8.IL,Veolia Environnement S.A.,EQUITY,EUR,uk,"{'raw': 15736543232, 'fmt': '15.737B', 'longFmt': '15,736,543,232'}",115238753,veolia
+0G6T.IL,Symrise AG,EQUITY,EUR,uk,"{'raw': 15710372864, 'fmt': '15.71B', 'longFmt': '15,710,372,864'}",115047108,symrise
+0LBM.IL,Terna - Rete Elettrica Nazionale Società per Azioni,EQUITY,EUR,uk,"{'raw': 15564639232, 'fmt': '15.565B', 'longFmt': '15,564,639,232'}",113979900,elettrica
+0QMG.IL,Swiss Life Holding AG,EQUITY,CHF,uk,"{'raw': 15392467968, 'fmt': '15.392B', 'longFmt': '15,392,467,968'}",112719089,"swiss,life"
+0KBQ.IL,Ratos AB (publ),EQUITY,SEK,uk,"{'raw': 15112344576, 'fmt': '15.112B', 'longFmt': '15,112,344,576'}",110667745,"ratos,ab"
+0HQ8.IL,Arjo AB (publ),EQUITY,SEK,uk,"{'raw': 15235622912, 'fmt': '15.236B', 'longFmt': '15,235,622,912'}",111570512,arjo
+0V1L.IL,International Petroleum Corporation,EQUITY,SEK,uk,"{'raw': 14919872512, 'fmt': '14.92B', 'longFmt': '14,919,872,512'}",109258271,"international,petroleum"
+0YH9.IL,Netcompany Group A/S,EQUITY,DKK,uk,"{'raw': 14676998144, 'fmt': '14.677B', 'longFmt': '14,676,998,144'}",107479701,netcompany
+0BDR.IL,Borr Drilling Limited,EQUITY,NOK,uk,"{'raw': 14612055040, 'fmt': '14.612B', 'longFmt': '14,612,055,040'}",107004123,borr
+0RKY.IL,Exor N.V.,EQUITY,EUR,uk,"{'raw': 14842988544, 'fmt': '14.843B', 'longFmt': '14,842,988,544'}",108695250,"exor,nv"
+0EXG.IL,"Jerónimo Martins, SGPS, S.A.",EQUITY,EUR,uk,"{'raw': 14522310656, 'fmt': '14.522B', 'longFmt': '14,522,310,656'}",106346924,jeronimo
+0MHP.IL,DNO ASA,EQUITY,NOK,uk,"{'raw': 14251089920, 'fmt': '14.251B', 'longFmt': '14,251,089,920'}",104360774,"dno,asa"
+0DZ0.IL,ChemoMetec A/S,EQUITY,DKK,uk,"{'raw': 14274030592, 'fmt': '14.274B', 'longFmt': '14,274,030,592'}",104528769,chemometec
+0OO9.IL,Fresenius SE & Co. KGaA,EQUITY,EUR,uk,"{'raw': 14210612224, 'fmt': '14.211B', 'longFmt': '14,210,612,224'}",104064356,fresenius
+0RNQ.IL,MIPS AB (publ),EQUITY,SEK,uk,"{'raw': 14088434688, 'fmt': '14.088B', 'longFmt': '14,088,434,688'}",103169649,"mips,ab"
+0NX3.IL,ASM International NV,EQUITY,EUR,uk,"{'raw': 14470673408, 'fmt': '14.471B', 'longFmt': '14,470,673,408'}",105968785,"asm,international"
+0MKH.IL,OMV Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 13925832704, 'fmt': '13.926B', 'longFmt': '13,925,832,704'}",101978915,"omv,aktiengesellschaft"
+0MV5.IL,Eurofins Scientific SE,EQUITY,EUR,uk,"{'raw': 13903960064, 'fmt': '13.904B', 'longFmt': '13,903,960,064'}",101818741,eurofins
+0NP8.IL,Aeroports de Paris SA,EQUITY,EUR,uk,"{'raw': 13918371840, 'fmt': '13.918B', 'longFmt': '13,918,371,840'}",101924279,aeroports
+0IXZ.IL,Bolloré SE,EQUITY,EUR,uk,"{'raw': 13753737216, 'fmt': '13.754B', 'longFmt': '13,753,737,216'}",100718659,bollore
+0QP5.IL,Credit Suisse Group AG,EQUITY,CHF,uk,"{'raw': 13697587200, 'fmt': '13.698B', 'longFmt': '13,697,587,200'}",100307472,"credit,suisse"
+0ND5.IL,H. Lundbeck A/S,EQUITY,DKK,uk,"{'raw': 30118148096, 'fmt': '30.118B', 'longFmt': '30,118,148,096'}",220555289,lundbeck
+AXB.IL,Axis Bank Limited,EQUITY,USD,uk,"{'raw': 29090646016, 'fmt': '29.091B', 'longFmt': '29,090,646,016'}",213030888,"axis,bank"
+0H7D.IL,Deutsche Bank Aktiengesellschaft,EQUITY,EUR,uk,"{'raw': 17293772800, 'fmt': '17.294B', 'longFmt': '17,293,772,800'}",126642350,"deutsche,bank"
+HYUD.IL,Hyundai Motor Company,EQUITY,USD,uk,"{'raw': 27817007104, 'fmt': '27.817B', 'longFmt': '27,817,007,104'}",203704027,hyundai
+0HB5.IL,BNP Paribas SA,EQUITY,EUR,uk,"{'raw': 58472603648, 'fmt': '58.473B', 'longFmt': '58,472,603,648'}",428195053,bnp
+LTOD.IL,Larsen & Toubro Limited,EQUITY,USD,uk,"{'raw': 33429481472, 'fmt': '33.429B', 'longFmt': '33,429,481,472'}",244804194,toubro
+HTSC.IL,"Huatai Securities Co., Ltd.",EQUITY,USD,uk,"{'raw': 17517934592, 'fmt': '17.518B', 'longFmt': '17,517,934,592'}",128283888,huatai
+HHPD.IL,"Hon Hai Precision Industry Co., Ltd.",EQUITY,USD,uk,"{'raw': 51313389568, 'fmt': '51.313B', 'longFmt': '51,313,389,568'}",375768107,hai
+MHID.IL,Mahindra & Mahindra Limited,EQUITY,USD,uk,"{'raw': 19642402816, 'fmt': '19.642B', 'longFmt': '19,642,402,816'}",143841375,mahindra
+SBID.IL,State Bank of India,EQUITY,USD,uk,"{'raw': 58781597696, 'fmt': '58.782B', 'longFmt': '58,781,597,696'}",430457818,"state,bank"
+0J6Y.IL,Société Générale Société anonyme,EQUITY,EUR,uk,"{'raw': 18275352576, 'fmt': '18.275B', 'longFmt': '18,275,352,576'}",133830462,"societe,generale"

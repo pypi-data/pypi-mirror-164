@@ -1,0 +1,671 @@
+﻿symbol,longName,quoteType,currency,search_country,marketCap,Market_Cap,name
+AAPL34.SA,Apple Inc.,EQUITY,BRL,brazil,"{'raw': 13865112829952, 'fmt': '13.865T', 'longFmt': '13,865,112,829,952'}",2712586079027,"apple,inc"
+MSFT34.SA,Microsoft Corporation,EQUITY,BRL,brazil,"{'raw': 10636323979264, 'fmt': '10.636T', 'longFmt': '10,636,323,979,264'}",2080902240899,microsoft
+GOGL35.SA,Alphabet Inc.,EQUITY,BRL,brazil,"{'raw': 7654294421504, 'fmt': '7.654T', 'longFmt': '7,654,294,421,504'}",1497494665005,"alphabet,inc"
+AMZO34.SA,"Amazon.com, Inc.",EQUITY,BRL,brazil,"{'raw': 7053551075328, 'fmt': '7.054T', 'longFmt': '7,053,551,075,328'}",1379964569297,amazoncom
+TSLA34.SA,"Tesla, Inc.",EQUITY,BRL,brazil,"{'raw': 4758760325120, 'fmt': '4.759T', 'longFmt': '4,758,760,325,120'}",931009157275,"tesla,inc"
+BERK34.SA,Berkshire Hathaway Inc.,EQUITY,BRL,brazil,"{'raw': 3305533341696, 'fmt': '3.306T', 'longFmt': '3,305,533,341,696'}",646698215615,"berkshire,hathaway"
+H1SB34.SA,HSBC Holdings plc,EQUITY,BRL,brazil,"{'raw': 3145359425536, 'fmt': '3.145T', 'longFmt': '3,145,359,425,536'}",615361612695,hsbc
+UNHH34.SA,UnitedHealth Group Incorporated,EQUITY,BRL,brazil,"{'raw': 2567162560512, 'fmt': '2.567T', 'longFmt': '2,567,162,560,512'}",502242535610,unitedhealth
+JNJB34.SA,Johnson & Johnson,EQUITY,BRL,brazil,"{'raw': 2253423116288, 'fmt': '2.253T', 'longFmt': '2,253,423,116,288'}",440862202159,"johnson,&"
+VISA34.SA,Visa Inc.,EQUITY,BRL,brazil,"{'raw': 2248403058688, 'fmt': '2.248T', 'longFmt': '2,248,403,058,688'}",439880072512,"visa,inc"
+M1TA34.SA,"Meta Platforms, Inc.",EQUITY,BRL,brazil,"{'raw': 2245036605440, 'fmt': '2.245T', 'longFmt': '2,245,036,605,440'}",439221455859,"meta,platforms"
+NVDC34.SA,NVIDIA Corporation,EQUITY,BRL,brazil,"{'raw': 2209923989504, 'fmt': '2.21T', 'longFmt': '2,209,923,989,504'}",432351984665,nvidia
+EXXO34.SA,Exxon Mobil Corporation,EQUITY,BRL,brazil,"{'raw': 2112524910592, 'fmt': '2.113T', 'longFmt': '2,112,524,910,592'}",413296720650,"exxon,mobil"
+WALM34.SA,Walmart Inc.,EQUITY,BRL,brazil,"{'raw': 1895009484800, 'fmt': '1.895T', 'longFmt': '1,895,009,484,800'}",370741761075,walmart
+PGCO34.SA,The Procter & Gamble Company,EQUITY,BRL,brazil,"{'raw': 1784760107008, 'fmt': '1.785T', 'longFmt': '1,784,760,107,008'}",349172450310,"procter,&"
+MSCD34.SA,Mastercard Incorporated,EQUITY,BRL,brazil,"{'raw': 1692603514880, 'fmt': '1.693T', 'longFmt': '1,692,603,514,880'}",331142832235,mastercard
+CHVX34.SA,Chevron Corporation,EQUITY,BRL,brazil,"{'raw': 1633255817216, 'fmt': '1.633T', 'longFmt': '1,633,255,817,216'}",319531982725,"chevron,corporation"
+HOME34.SA,"The Home Depot, Inc.",EQUITY,BRL,brazil,"{'raw': 1631619121152, 'fmt': '1.632T', 'longFmt': '1,631,619,121,152'}",319211777689,"home,depot"
+LILY34.SA,Eli Lilly and Company,EQUITY,BRL,brazil,"{'raw': 1570322513920, 'fmt': '1.57T', 'longFmt': '1,570,322,513,920'}",307219641346,"eli,lilly"
+COCA34.SA,The Coca-Cola Company,EQUITY,BRL,brazil,"{'raw': 1427472777216, 'fmt': '1.427T', 'longFmt': '1,427,472,777,216'}",279272360142,"coca-cola,company"
+PFIZ34.SA,Pfizer Inc.,EQUITY,BRL,brazil,"{'raw': 1390114373632, 'fmt': '1.39T', 'longFmt': '1,390,114,373,632'}",271963520558,"pfizer,inc"
+ULEV34.SA,Unilever PLC,EQUITY,BRL,brazil,"{'raw': 972950470656, 'fmt': '972.95B', 'longFmt': '972,950,470,656'}",190349111085,unilever
+PEPB34.SA,"PepsiCo, Inc.",EQUITY,BRL,brazil,"{'raw': 1264469016576, 'fmt': '1.264T', 'longFmt': '1,264,469,016,576'}",247382123304,"pepsico,inc"
+ABBV34.SA,AbbVie Inc.,EQUITY,BRL,brazil,"{'raw': 1252380639232, 'fmt': '1.252T', 'longFmt': '1,252,380,639,232'}",245017139729,abbvie
+COWC34.SA,Costco Wholesale Corporation,EQUITY,BRL,brazil,"{'raw': 1239710302208, 'fmt': '1.24T', 'longFmt': '1,239,710,302,208'}",242538300916,costco
+N1VS34.SA,Novartis AG,EQUITY,BRL,brazil,"{'raw': 1001763766272, 'fmt': '1.002T', 'longFmt': '1,001,763,766,272'}",195986176253,novartis
+MRCK34.SA,"Merck & Co., Inc.",EQUITY,BRL,brazil,"{'raw': 1164901089280, 'fmt': '1.165T', 'longFmt': '1,164,901,089,280'}",227902543381,"merck,&"
+TMOS34.SA,Thermo Fisher Scientific Inc.,EQUITY,BRL,brazil,"{'raw': 1156806344704, 'fmt': '1.157T', 'longFmt': '1,156,806,344,704'}",226318878559,"thermo,fisher"
+DISB34.SA,The Walt Disney Company,EQUITY,BRL,brazil,"{'raw': 1109540995072, 'fmt': '1.11T', 'longFmt': '1,109,540,995,072'}",217071833042,"walt,disney"
+AVGO34.SA,Broadcom Inc.,EQUITY,BRL,brazil,"{'raw': 1099838521344, 'fmt': '1.1T', 'longFmt': '1,099,838,521,344'}",215173630302,broadcom
+DHER34.SA,Danaher Corporation,EQUITY,BRL,brazil,"{'raw': 1065902211072, 'fmt': '1.066T', 'longFmt': '1,065,902,211,072'}",208534292855,"danaher,corporation"
+ORCL34.SA,Oracle Corporation,EQUITY,BRL,brazil,"{'raw': 1046337290240, 'fmt': '1.046T', 'longFmt': '1,046,337,290,240'}",204706590006,"oracle,corporation"
+CSCO34.SA,"Cisco Systems, Inc.",EQUITY,BRL,brazil,"{'raw': 996016324608, 'fmt': '996.016B', 'longFmt': '996,016,324,608'}",194861740380,"cisco,systems"
+MCDC34.SA,McDonald's Corporation,EQUITY,BRL,brazil,"{'raw': 994407284736, 'fmt': '994.407B', 'longFmt': '994,407,284,736'}",194546946032,mcdonald's
+ACNB34.SA,Accenture plc,EQUITY,BRL,brazil,"{'raw': 983574118400, 'fmt': '983.574B', 'longFmt': '983,574,118,400'}",192427533333,accenture
+ADBE34.SA,Adobe Inc.,EQUITY,BRL,brazil,"{'raw': 978402541568, 'fmt': '978.403B', 'longFmt': '978,402,541,568'}",191415760296,"adobe,inc"
+ABTT34.SA,Abbott Laboratories,EQUITY,BRL,brazil,"{'raw': 949490286592, 'fmt': '949.49B', 'longFmt': '949,490,286,592'}",185759334609,"abbott,laboratories"
+T1MU34.SA,"T-Mobile US, Inc.",EQUITY,BRL,brazil,"{'raw': 941264797696, 'fmt': '941.265B', 'longFmt': '941,264,797,696'}",184150090823,t-mobile
+VERZ34.SA,Verizon Communications Inc.,EQUITY,BRL,brazil,"{'raw': 937028026368, 'fmt': '937.028B', 'longFmt': '937,028,026,368'}",183321204173,verizon
+SSFO34.SA,"Salesforce, Inc.",EQUITY,BRL,brazil,"{'raw': 922099580928, 'fmt': '922.1B', 'longFmt': '922,099,580,928'}",180400586520,salesforce
+UPSS34.SA,"United Parcel Service, Inc.",EQUITY,BRL,brazil,"{'raw': 919928373248, 'fmt': '919.928B', 'longFmt': '919,928,373,248'}",179975809038,"united,parcel"
+NIKE34.SA,"NIKE, Inc.",EQUITY,BRL,brazil,"{'raw': 896293011456, 'fmt': '896.293B', 'longFmt': '896,293,011,456'}",175351760596,"nike,inc"
+NEXT34.SA,"NextEra Energy, Inc.",EQUITY,BRL,brazil,"{'raw': 893949640704, 'fmt': '893.95B', 'longFmt': '893,949,640,704'}",174893300939,nextera
+N1VO34.SA,Novo Nordisk A/S,EQUITY,BRL,brazil,"{'raw': 1348320362496, 'fmt': '1.348T', 'longFmt': '1,348,320,362,496'}",263786893783,nordisk
+WFCO34.SA,Wells Fargo & Company,EQUITY,BRL,brazil,"{'raw': 868266541056, 'fmt': '868.267B', 'longFmt': '868,266,541,056'}",169868630788,"wells,fargo"
+JDCO34.SA,"JD.com, Inc.",EQUITY,BRL,brazil,"{'raw': 458386636800, 'fmt': '458.387B', 'longFmt': '458,386,636,800'}",89679270918,jdcom
+CMCS34.SA,Comcast Corporation,EQUITY,BRL,brazil,"{'raw': 838646169600, 'fmt': '838.646B', 'longFmt': '838,646,169,600'}",164073668406,comcast
+QCOM34.SA,QUALCOMM Incorporated,EQUITY,BRL,brazil,"{'raw': 820736098304, 'fmt': '820.736B', 'longFmt': '820,736,098,304'}",160569722159,qualcomm
+TEXA34.SA,Texas Instruments Incorporated,EQUITY,BRL,brazil,"{'raw': 810890428416, 'fmt': '810.89B', 'longFmt': '810,890,428,416'}",158643504363,"texas,instruments"
+BMYB34.SA,Bristol-Myers Squibb Company,EQUITY,BRL,brazil,"{'raw': 793206390784, 'fmt': '793.206B', 'longFmt': '793,206,390,784'}",155183779593,bristol-myers
+L1IN34.SA,Linde plc,EQUITY,BRL,brazil,"{'raw': 790825467904, 'fmt': '790.825B', 'longFmt': '790,825,467,904'}",154717973195,linde
+L1YG34.SA,Lloyds Banking Group plc,EQUITY,BRL,brazil,"{'raw': 723291144192, 'fmt': '723.291B', 'longFmt': '723,291,144,192'}",141505483069,lloyds
+PHMO34.SA,Philip Morris International Inc.,EQUITY,BRL,brazil,"{'raw': 771982163968, 'fmt': '771.982B', 'longFmt': '771,982,163,968'}",151031448277,"philip,morris"
+A1MD34.SA,"Advanced Micro Devices, Inc.",EQUITY,BRL,brazil,"{'raw': 770977759232, 'fmt': '770.978B', 'longFmt': '770,977,759,232'}",150834945418,"advanced,micro"
+UPAC34.SA,Union Pacific Corporation,EQUITY,BRL,brazil,"{'raw': 760113987584, 'fmt': '760.114B', 'longFmt': '760,113,987,584'}",148709545063,"union,pacific"
+COPH34.SA,ConocoPhillips,EQUITY,BRL,brazil,"{'raw': 720740024320, 'fmt': '720.74B', 'longFmt': '720,740,024,320'}",141006379143,conocophillips
+ITLC34.SA,Intel Corporation,EQUITY,BRL,brazil,"{'raw': 719171354624, 'fmt': '719.171B', 'longFmt': '719,171,354,624'}",140699482861,"intel,corporation"
+SCHW34.SA,The Charles Schwab Corporation,EQUITY,BRL,brazil,"{'raw': 712415313920, 'fmt': '712.415B', 'longFmt': '712,415,313,920'}",139377723551,"charles,schwab"
+CVSH34.SA,CVS Health Corporation,EQUITY,BRL,brazil,"{'raw': 695073308672, 'fmt': '695.073B', 'longFmt': '695,073,308,672'}",135984914376,cvs
+HONB34.SA,Honeywell International Inc.,EQUITY,BRL,brazil,"{'raw': 686614183936, 'fmt': '686.614B', 'longFmt': '686,614,183,936'}",134329961814,"honeywell,international"
+INTU34.SA,Intuit Inc.,EQUITY,BRL,brazil,"{'raw': 684680282112, 'fmt': '684.68B', 'longFmt': '684,680,282,112'}",133951611113,"intuit,inc"
+GSGI34.SA,"The Goldman Sachs Group, Inc.",EQUITY,BRL,brazil,"{'raw': 600592678912, 'fmt': '600.593B', 'longFmt': '600,592,678,912'}",117500618996,"goldman,sachs"
+RYTT34.SA,Raytheon Technologies Corporation,EQUITY,BRL,brazil,"{'raw': 704083722240, 'fmt': '704.084B', 'longFmt': '704,083,722,240'}",137747721698,"raytheon,technologies"
+LOWC34.SA,"Lowe's Companies, Inc.",EQUITY,BRL,brazil,"{'raw': 673895350272, 'fmt': '673.895B', 'longFmt': '673,895,350,272'}",131841635065,lowe's
+AMGN34.SA,Amgen Inc.,EQUITY,BRL,brazil,"{'raw': 674676670464, 'fmt': '674.677B', 'longFmt': '674,676,670,464'}",131994493415,amgen
+ABUD34.SA,Anheuser-Busch InBev SA/NV,EQUITY,BRL,brazil,"{'raw': 520068759552, 'fmt': '520.069B', 'longFmt': '520,068,759,552'}",101746829946,anheuser-busch
+ATTB34.SA,AT&T Inc.,EQUITY,BRL,brazil,"{'raw': 656100032512, 'fmt': '656.1B', 'longFmt': '656,100,032,512'}",128360139327,"at&t,inc"
+T1OW34.SA,American Tower Corporation,EQUITY,BRL,brazil,"{'raw': 647532511232, 'fmt': '647.533B', 'longFmt': '647,532,511,232'}",126683979945,"american,tower"
+SPGI34.SA,S&P Global Inc.,EQUITY,BRL,brazil,"{'raw': 640872349696, 'fmt': '640.872B', 'longFmt': '640,872,349,696'}",125380978542,"s&p,global"
+IBMB34.SA,International Business Machines Corporation,EQUITY,BRL,brazil,"{'raw': 622351155200, 'fmt': '622.351B', 'longFmt': '622,351,155,200'}",121757471472,"international,business"
+AXPB34.SA,American Express Company,EQUITY,BRL,brazil,"{'raw': 609320173568, 'fmt': '609.32B', 'longFmt': '609,320,173,568'}",119208075748,"american,express"
+MDTC34.SA,Medtronic plc,EQUITY,BRL,brazil,"{'raw': 611657515008, 'fmt': '611.658B', 'longFmt': '611,657,515,008'}",119665355824,medtronic
+DEEC34.SA,Deere & Company,EQUITY,BRL,brazil,"{'raw': 598462824448, 'fmt': '598.463B', 'longFmt': '598,462,824,448'}",117083931903,"deere,&"
+LMTB34.SA,Lockheed Martin Corporation,EQUITY,BRL,brazil,"{'raw': 585399926784, 'fmt': '585.4B', 'longFmt': '585,399,926,784'}",114528292090,"lockheed,martin"
+PYPL34.SA,"PayPal Holdings, Inc.",EQUITY,BRL,brazil,"{'raw': 559271313408, 'fmt': '559.271B', 'longFmt': '559,271,313,408'}",109416461139,paypal
+BLAK34.SA,"BlackRock, Inc.",EQUITY,BRL,brazil,"{'raw': 543902498816, 'fmt': '543.902B', 'longFmt': '543,902,498,816'}",106409689176,"blackrock,inc"
+CATP34.SA,Caterpillar Inc.,EQUITY,BRL,brazil,"{'raw': 537108381696, 'fmt': '537.108B', 'longFmt': '537,108,381,696'}",105080480554,"caterpillar,inc"
+NFLX34.SA,"Netflix, Inc.",EQUITY,BRL,brazil,"{'raw': 525227458560, 'fmt': '525.227B', 'longFmt': '525,227,458,560'}",102756083552,netflix
+SBUB34.SA,Starbucks Corporation,EQUITY,BRL,brazil,"{'raw': 504236376064, 'fmt': '504.236B', 'longFmt': '504,236,376,064'}",98649364850,starbucks
+P1LD34.SA,"Prologis, Inc.",EQUITY,BRL,brazil,"{'raw': 502766993408, 'fmt': '502.767B', 'longFmt': '502,766,993,408'}",98361893194,prologis
+BOEI34.SA,The Boeing Company,EQUITY,BRL,brazil,"{'raw': 497150427136, 'fmt': '497.15B', 'longFmt': '497,150,427,136'}",97263061928,"boeing,company"
+ELCI34.SA,The Estée Lauder Companies Inc.,EQUITY,BRL,brazil,"{'raw': 492189483008, 'fmt': '492.189B', 'longFmt': '492,189,483,008'}",96292497307,estee
+N1OW34.SA,"ServiceNow, Inc.",EQUITY,BRL,brazil,"{'raw': 478598561792, 'fmt': '478.599B', 'longFmt': '478,598,561,792'}",93633554380,servicenow
+PETR3.SA,Petróleo Brasileiro S.A. - Petrobras,EQUITY,BRL,brazil,"{'raw': 467449511936, 'fmt': '467.45B', 'longFmt': '467,449,511,936'}",91452341879,petroleo
+BOAC34.SA,Bank of America Corporation,EQUITY,BRL,brazil,"{'raw': 1426451202048, 'fmt': '1.426T', 'longFmt': '1,426,451,202,048'}",279072498041,"bank,of,america"
+B1PP34.SA,BP p.l.c.,EQUITY,BRL,brazil,"{'raw': 566421553152, 'fmt': '566.422B', 'longFmt': '566,421,553,152'}",110815341987,"bp,plc"
+A1MT34.SA,"Applied Materials, Inc.",EQUITY,BRL,brazil,"{'raw': 452952588288, 'fmt': '452.953B', 'longFmt': '452,952,588,288'}",88616147630,"applied,materials"
+MDLZ34.SA,"Mondelez International, Inc.",EQUITY,BRL,brazil,"{'raw': 450532114432, 'fmt': '450.532B', 'longFmt': '450,532,114,432'}",88142603435,mondelez
+C1IC34.SA,Cigna Corporation,EQUITY,BRL,brazil,"{'raw': 445699817472, 'fmt': '445.7B', 'longFmt': '445,699,817,472'}",87197207489,cigna
+DUKB34.SA,Duke Energy Corporation,EQUITY,BRL,brazil,"{'raw': 440948260864, 'fmt': '440.948B', 'longFmt': '440,948,260,864'}",86267607675,"duke,energy"
+GEOO34.SA,General Electric Company,EQUITY,BRL,brazil,"{'raw': 439210311680, 'fmt': '439.21B', 'longFmt': '439,210,311,680'}",85927593366,"general,electric"
+C1BL34.SA,Chubb Limited,EQUITY,BRL,brazil,"{'raw': 421088165888, 'fmt': '421.088B', 'longFmt': '421,088,165,888'}",82382156628,"chubb,limited"
+MOOO34.SA,"Altria Group, Inc.",EQUITY,BRL,brazil,"{'raw': 414602788864, 'fmt': '414.603B', 'longFmt': '414,602,788,864'}",81113350262,altria
+MMMC34.SA,3M Company,EQUITY,BRL,brazil,"{'raw': 414526996480, 'fmt': '414.527B', 'longFmt': '414,526,996,480'}",81098522155,"3m,company"
+B1AM34.SA,Brookfield Asset Management Inc.,EQUITY,BRL,brazil,"{'raw': 411762753536, 'fmt': '411.763B', 'longFmt': '411,762,753,536'}",80557722594,"brookfield,asset"
+JPMC34.SA,JPMorgan Chase & Co.,EQUITY,BRL,brazil,"{'raw': 1747751403520, 'fmt': '1.748T', 'longFmt': '1,747,751,403,520'}",341932026441,jpmorgan
+S1YK34.SA,Stryker Corporation,EQUITY,BRL,brazil,"{'raw': 410446954496, 'fmt': '410.447B', 'longFmt': '410,446,954,496'}",80300298208,"stryker,corporation"
+I1SR34.SA,"Intuitive Surgical, Inc.",EQUITY,BRL,brazil,"{'raw': 406859382784, 'fmt': '406.859B', 'longFmt': '406,859,382,784'}",79598421693,"intuitive,surgical"
+GILD34.SA,"Gilead Sciences, Inc.",EQUITY,BRL,brazil,"{'raw': 406090252288, 'fmt': '406.09B', 'longFmt': '406,090,252,288'}",79447948148,"gilead,sciences"
+BKNG34.SA,Booking Holdings Inc.,EQUITY,BRL,brazil,"{'raw': 404407943168, 'fmt': '404.408B', 'longFmt': '404,407,943,168'}",79118819322,"booking,holdings"
+Z1TS34.SA,Zoetis Inc.,EQUITY,BRL,brazil,"{'raw': 392272216064, 'fmt': '392.272B', 'longFmt': '392,272,216,064'}",76744572188,zoetis
+C1HI34.SA,China Petroleum & Chemical Corporation,EQUITY,BRL,brazil,"{'raw': 359416954880, 'fmt': '359.417B', 'longFmt': '359,416,954,880'}",70316732386,"china,petroleum"
+CPRL34.SA,Canadian Pacific Railway Limited,EQUITY,BRL,brazil,"{'raw': 390714130432, 'fmt': '390.714B', 'longFmt': '390,714,130,432'}",76439746584,"canadian,pacific"
+B1DX34.SA,"Becton, Dickinson and Company",EQUITY,BRL,brazil,"{'raw': 390362038272, 'fmt': '390.362B', 'longFmt': '390,362,038,272'}",76370862883,becton
+TGTB34.SA,Target Corporation,EQUITY,BRL,brazil,"{'raw': 388225925120, 'fmt': '388.226B', 'longFmt': '388,225,925,120'}",75952951332,"target,corporation"
+TJXC34.SA,"The TJX Companies, Inc.",EQUITY,BRL,brazil,"{'raw': 386190278656, 'fmt': '386.19B', 'longFmt': '386,190,278,656'}",75554695196,tjx
+C1CI34.SA,Crown Castle Inc.,EQUITY,BRL,brazil,"{'raw': 386029191168, 'fmt': '386.029B', 'longFmt': '386,029,191,168'}",75523179861,"crown,castle"
+NOCG34.SA,Northrop Grumman Corporation,EQUITY,BRL,brazil,"{'raw': 385420591104, 'fmt': '385.421B', 'longFmt': '385,420,591,104'}",75404112669,"northrop,grumman"
+VRTX34.SA,Vertex Pharmaceuticals Incorporated,EQUITY,BRL,brazil,"{'raw': 388284317696, 'fmt': '388.284B', 'longFmt': '388,284,317,696'}",75964375321,"vertex,pharmaceuticals"
+P1GR34.SA,The Progressive Corporation,EQUITY,BRL,brazil,"{'raw': 375321362432, 'fmt': '375.321B', 'longFmt': '375,321,362,432'}",73428288350,"progressive,corporation"
+AIRB34.SA,"Airbnb, Inc.",EQUITY,BRL,brazil,"{'raw': 373723791360, 'fmt': '373.724B', 'longFmt': '373,723,791,360'}",73115737771,airbnb
+W1MC34.SA,"Waste Management, Inc.",EQUITY,BRL,brazil,"{'raw': 369828954112, 'fmt': '369.829B', 'longFmt': '369,828,954,112'}",72353747484,"waste,management"
+E1OG34.SA,"EOG Resources, Inc.",EQUITY,BRL,brazil,"{'raw': 368198320128, 'fmt': '368.198B', 'longFmt': '368,198,320,128'}",72034728440,eog
+USBC34.SA,U.S. Bancorp,EQUITY,BRL,brazil,"{'raw': 358863601664, 'fmt': '358.864B', 'longFmt': '358,863,601,664'}",70208473748,bancorp
+OXYP34.SA,Occidental Petroleum Corporation,EQUITY,BRL,brazil,"{'raw': 358400229376, 'fmt': '358.4B', 'longFmt': '358,400,229,376'}",70117819079,"occidental,petroleum"
+CHCM34.SA,"Charter Communications, Inc.",EQUITY,BRL,brazil,"{'raw': 353214300160, 'fmt': '353.214B', 'longFmt': '353,214,300,160'}",69103238125,"charter,communications"
+COLG34.SA,Colgate-Palmolive Company,EQUITY,BRL,brazil,"{'raw': 349105291264, 'fmt': '349.105B', 'longFmt': '349,105,291,264'}",68299347059,colgate-palmolive
+P1IO34.SA,Pioneer Natural Resources Company,EQUITY,BRL,brazil,"{'raw': 342643539968, 'fmt': '342.644B', 'longFmt': '342,643,539,968'}",67035162856,"pioneer,natural"
+T1AM34.SA,Atlassian Corporation Plc,EQUITY,BRL,brazil,"{'raw': 341454716928, 'fmt': '341.455B', 'longFmt': '341,454,716,928'}",66802580196,atlassian
+REGN34.SA,"Regeneron Pharmaceuticals, Inc.",EQUITY,BRL,brazil,"{'raw': 336863199232, 'fmt': '336.863B', 'longFmt': '336,863,199,232'}",65904290573,regeneron
+MUTC34.SA,"Micron Technology, Inc.",EQUITY,BRL,brazil,"{'raw': 332436668416, 'fmt': '332.437B', 'longFmt': '332,436,668,416'}",65038279166,"micron,technology"
+GDBR34.SA,General Dynamics Corporation,EQUITY,BRL,brazil,"{'raw': 327658176512, 'fmt': '327.658B', 'longFmt': '327,658,176,512'}",64103409700,"general,dynamics"
+L1RC34.SA,Lam Research Corporation,EQUITY,BRL,brazil,"{'raw': 326247579648, 'fmt': '326.248B', 'longFmt': '326,247,579,648'}",63827438963,"lam,research"
+FDMO34.SA,Ford Motor Company,EQUITY,BRL,brazil,"{'raw': 320975929344, 'fmt': '320.976B', 'longFmt': '320,975,929,344'}",62796087440,"ford,motor"
+VALE3.SA,Vale S.A.,EQUITY,BRL,brazil,"{'raw': 334148861952, 'fmt': '334.149B', 'longFmt': '334,148,861,952'}",65373254611,"vale,sa"
+H1UM34.SA,Humana Inc.,EQUITY,BRL,brazil,"{'raw': 322735964160, 'fmt': '322.736B', 'longFmt': '322,735,964,160'}",63140422607,"humana,inc"
+S1HW34.SA,The Sherwin-Williams Company,EQUITY,BRL,brazil,"{'raw': 320429326336, 'fmt': '320.429B', 'longFmt': '320,429,326,336'}",62689149420,sherwin-williams
+ATVI34.SA,"Activision Blizzard, Inc.",EQUITY,BRL,brazil,"{'raw': 317361389568, 'fmt': '317.361B', 'longFmt': '317,361,389,568'}",62088934862,activision
+H1CA34.SA,"HCA Healthcare, Inc.",EQUITY,BRL,brazil,"{'raw': 312773509120, 'fmt': '312.774B', 'longFmt': '312,773,509,120'}",61191356834,hca
+EQIX34.SA,"Equinix, Inc.",EQUITY,BRL,brazil,"{'raw': 312205508608, 'fmt': '312.206B', 'longFmt': '312,205,508,608'}",61080232583,equinix
+E1TN34.SA,Eaton Corporation plc,EQUITY,BRL,brazil,"{'raw': 310570450944, 'fmt': '310.57B', 'longFmt': '310,570,450,944'}",60760348085,"eaton,corporation"
+P1SA34.SA,Public Storage,EQUITY,BRL,brazil,"{'raw': 308611252224, 'fmt': '308.611B', 'longFmt': '308,611,252,224'}",60377048270,"public,storage"
+A1BB34.SA,ABB Ltd,EQUITY,BRL,brazil,"{'raw': 306452889600, 'fmt': '306.453B', 'longFmt': '306,452,889,600'}",59954783808,"abb,ltd"
+B1SX34.SA,Boston Scientific Corporation,EQUITY,BRL,brazil,"{'raw': 306239078400, 'fmt': '306.239B', 'longFmt': '306,239,078,400'}",59912953548,"boston,scientific"
+FDXB34.SA,FedEx Corporation,EQUITY,BRL,brazil,"{'raw': 303611772928, 'fmt': '303.612B', 'longFmt': '303,611,772,928'}",59398944586,fedex
+F1NI34.SA,"Fidelity National Information Services, Inc.",EQUITY,BRL,brazil,"{'raw': 296888172544, 'fmt': '296.888B', 'longFmt': '296,888,172,544'}",58083531937,"fidelity,national"
+GMCO34.SA,General Motors Company,EQUITY,BRL,brazil,"{'raw': 293185191936, 'fmt': '293.185B', 'longFmt': '293,185,191,936'}",57359076696,"general,motors"
+U1BE34.SA,"Uber Technologies, Inc.",EQUITY,BRL,brazil,"{'raw': 292478320640, 'fmt': '292.478B', 'longFmt': '292,478,320,640'}",57220783611,"uber,technologies"
+UBSG34.SA,UBS Group AG,EQUITY,BRL,brazil,"{'raw': 288080592896, 'fmt': '288.081B', 'longFmt': '288,080,592,896'}",56360407269,ubs
+DGCO34.SA,Dollar General Corporation,EQUITY,BRL,brazil,"{'raw': 288704430080, 'fmt': '288.704B', 'longFmt': '288,704,430,080'}",56482455468,"dollar,general"
+E1WL34.SA,Edwards Lifesciences Corporation,EQUITY,BRL,brazil,"{'raw': 286821744640, 'fmt': '286.822B', 'longFmt': '286,821,744,640'}",56114124797,lifesciences
+C1NC34.SA,Centene Corporation,EQUITY,BRL,brazil,"{'raw': 286157897728, 'fmt': '286.158B', 'longFmt': '286,157,897,728'}",55984249050,centene
+S1NP34.SA,"Synopsys, Inc.",EQUITY,BRL,brazil,"{'raw': 282962132992, 'fmt': '282.962B', 'longFmt': '282,962,132,992'}",55359026086,synopsys
+M1RN34.SA,"Moderna, Inc.",EQUITY,BRL,brazil,"{'raw': 281996656640, 'fmt': '281.997B', 'longFmt': '281,996,656,640'}",55170139220,"moderna,inc"
+MCOR34.SA,Moody's Corporation,EQUITY,BRL,brazil,"{'raw': 281107333120, 'fmt': '281.107B', 'longFmt': '281,107,333,120'}",54996150978,moody's
+E1MR34.SA,Emerson Electric Co.,EQUITY,BRL,brazil,"{'raw': 270697119744, 'fmt': '270.697B', 'longFmt': '270,697,119,744'}",52959485267,"emerson,electric"
+SLBG34.SA,Schlumberger Limited,EQUITY,BRL,brazil,"{'raw': 270046920704, 'fmt': '270.047B', 'longFmt': '270,046,920,704'}",52832279604,schlumberger
+M1PC34.SA,Marathon Petroleum Corporation,EQUITY,BRL,brazil,"{'raw': 269323223040, 'fmt': '269.323B', 'longFmt': '269,323,223,040'}",52690694589,"marathon,petroleum"
+C1DN34.SA,"Cadence Design Systems, Inc.",EQUITY,BRL,brazil,"{'raw': 268666716160, 'fmt': '268.667B', 'longFmt': '268,666,716,160'}",52562254854,"cadence,design"
+METB34.SA,"MetLife, Inc.",EQUITY,BRL,brazil,"{'raw': 268213649408, 'fmt': '268.214B', 'longFmt': '268,213,649,408'}",52473616371,metlife
+M1CK34.SA,McKesson Corporation,EQUITY,BRL,brazil,"{'raw': 269927907328, 'fmt': '269.928B', 'longFmt': '269,927,907,328'}",52808995695,"mckesson,corporation"
+K1LA34.SA,KLA Corporation,EQUITY,BRL,brazil,"{'raw': 265161277440, 'fmt': '265.161B', 'longFmt': '265,161,277,440'}",51876446928,kla
+INGG34.SA,ING Groep N.V.,EQUITY,BRL,brazil,"{'raw': 237604421632, 'fmt': '237.604B', 'longFmt': '237,604,421,632'}",46485193040,groep
+S2NW34.SA,Snowflake Inc.,EQUITY,BRL,brazil,"{'raw': 258955395072, 'fmt': '258.955B', 'longFmt': '258,955,395,072'}",50662321206,"snowflake,inc"
+VLOE34.SA,Valero Energy Corporation,EQUITY,BRL,brazil,"{'raw': 248192679936, 'fmt': '248.193B', 'longFmt': '248,192,679,936'}",48556691659,valero
+A1DM34.SA,Archer-Daniels-Midland Company,EQUITY,BRL,brazil,"{'raw': 254640144384, 'fmt': '254.64B', 'longFmt': '254,640,144,384'}",49818080767,archer-daniels-midland
+STZB34.SA,"Constellation Brands, Inc.",EQUITY,BRL,brazil,"{'raw': 248765136896, 'fmt': '248.765B', 'longFmt': '248,765,136,896'}",48668687775,"constellation,brands"
+E1CL34.SA,Ecolab Inc.,EQUITY,BRL,brazil,"{'raw': 246301589504, 'fmt': '246.302B', 'longFmt': '246,301,589,504'}",48186716626,ecolab
+ABEV3.SA,Ambev S.A.,EQUITY,BRL,brazil,"{'raw': 248717279232, 'fmt': '248.717B', 'longFmt': '248,717,279,232'}",48659324848,ambev
+HSHY34.SA,The Hershey Company,EQUITY,BRL,brazil,"{'raw': 245939683328, 'fmt': '245.94B', 'longFmt': '245,939,683,328'}",48115912900,"hershey,company"
+M1NS34.SA,Monster Beverage Corporation,EQUITY,BRL,brazil,"{'raw': 245887303680, 'fmt': '245.887B', 'longFmt': '245,887,303,680'}",48105665287,"monster,beverage"
+B1CS34.SA,Barclays PLC,EQUITY,BRL,brazil,"{'raw': 174989099008, 'fmt': '174.989B', 'longFmt': '174,989,099,008'}",34235061753,barclays
+A1UT34.SA,"Autodesk, Inc.",EQUITY,BRL,brazil,"{'raw': 244430487552, 'fmt': '244.43B', 'longFmt': '244,430,487,552'}",47820652161,autodesk
+D1VN34.SA,Devon Energy Corporation,EQUITY,BRL,brazil,"{'raw': 244332085248, 'fmt': '244.332B', 'longFmt': '244,332,085,248'}",47801400625,"devon,energy"
+KHCB34.SA,The Kraft Heinz Company,EQUITY,BRL,brazil,"{'raw': 243756777472, 'fmt': '243.757B', 'longFmt': '243,756,777,472'}",47688846773,"kraft,heinz"
+ITUB3.SA,Itaú Unibanco Holding S.A.,EQUITY,BRL,brazil,"{'raw': 239205171200, 'fmt': '239.205B', 'longFmt': '239,205,171,200'}",46798365464,unibanco
+R1SG34.SA,"Republic Services, Inc.",EQUITY,BRL,brazil,"{'raw': 240735010816, 'fmt': '240.735B', 'longFmt': '240,735,010,816'}",47097664987,"republic,services"
+G1MI34.SA,"General Mills, Inc.",EQUITY,BRL,brazil,"{'raw': 240190291968, 'fmt': '240.19B', 'longFmt': '240,190,291,968'}",46991095586,"general,mills"
+E1XC34.SA,Exelon Corporation,EQUITY,BRL,brazil,"{'raw': 234689298432, 'fmt': '234.689B', 'longFmt': '234,689,298,432'}",45914875099,exelon
+MELI34.SA,"MercadoLibre, Inc.",EQUITY,BRL,brazil,"{'raw': 234590928896, 'fmt': '234.591B', 'longFmt': '234,590,928,896'}",45895629973,mercadolibre
+N1XP34.SA,NXP Semiconductors N.V.,EQUITY,BRL,brazil,"{'raw': 234412883968, 'fmt': '234.413B', 'longFmt': '234,412,883,968'}",45860797066,nxp
+C1MG34.SA,"Chipotle Mexican Grill, Inc.",EQUITY,BRL,brazil,"{'raw': 233198321664, 'fmt': '233.198B', 'longFmt': '233,198,321,664'}",45623178747,chipotle
+I1QV34.SA,IQVIA Holdings Inc.,EQUITY,BRL,brazil,"{'raw': 230673104896, 'fmt': '230.673B', 'longFmt': '230,673,104,896'}",45129142533,iqvia
+KMBB34.SA,Kimberly-Clark Corporation,EQUITY,BRL,brazil,"{'raw': 230629588992, 'fmt': '230.63B', 'longFmt': '230,629,588,992'}",45120629033,kimberly-clark
+FCXO34.SA,Freeport-McMoRan Inc.,EQUITY,BRL,brazil,"{'raw': 230051201024, 'fmt': '230.051B', 'longFmt': '230,051,201,024'}",45007472569,freeport-mcmoran
+R1IN34.SA,Realty Income Corporation,EQUITY,BRL,brazil,"{'raw': 224974274560, 'fmt': '224.974B', 'longFmt': '224,974,274,560'}",44014217034,"realty,income"
+S1YY34.SA,Sysco Corporation,EQUITY,BRL,brazil,"{'raw': 224031686656, 'fmt': '224.032B', 'longFmt': '224,031,686,656'}",43829808090,sysco
+C1TV34.SA,"Corteva, Inc.",EQUITY,BRL,brazil,"{'raw': 224981712896, 'fmt': '224.982B', 'longFmt': '224,981,712,896'}",44015672279,corteva
+S2HO34.SA,Shopify Inc.,EQUITY,BRL,brazil,"{'raw': 223742820352, 'fmt': '223.743B', 'longFmt': '223,742,820,352'}",43773293965,shopify
+AZOI34.SA,"AutoZone, Inc.",EQUITY,BRL,brazil,"{'raw': 223323996160, 'fmt': '223.324B', 'longFmt': '223,323,996,160'}",43691354735,autozone
+W1MB34.SA,"The Williams Companies, Inc.",EQUITY,BRL,brazil,"{'raw': 222186766336, 'fmt': '222.187B', 'longFmt': '222,186,766,336'}",43468865828,"williams,companies"
+W1DA34.SA,"Workday, Inc.",EQUITY,BRL,brazil,"{'raw': 221030809600, 'fmt': '221.031B', 'longFmt': '221,030,809,600'}",43242713168,"workday,inc"
+S2QU34.SA,"Block, Inc.",EQUITY,BRL,brazil,"{'raw': 220467298304, 'fmt': '220.467B', 'longFmt': '220,467,298,304'}",43132467192,"block,inc"
+L1UL34.SA,Lululemon Athletica Inc.,EQUITY,BRL,brazil,"{'raw': 220423716864, 'fmt': '220.424B', 'longFmt': '220,423,716,864'}",43123940871,lululemon
+KMIC34.SA,"Kinder Morgan Kansas, Inc.",EQUITY,BRL,brazil,"{'raw': 219495481344, 'fmt': '219.495B', 'longFmt': '219,495,481,344'}",42942339842,"kinder,morgan"
+CAON34.SA,Capital One Financial Corporation,EQUITY,BRL,brazil,"{'raw': 217440681984, 'fmt': '217.441B', 'longFmt': '217,440,681,984'}",42540336613,"capital,one"
+AIGB34.SA,"American International Group, Inc.",EQUITY,BRL,brazil,"{'raw': 209509810176, 'fmt': '209.51B', 'longFmt': '209,509,810,176'}",40988732040,"american,international"
+A1FL34.SA,Aflac Incorporated,EQUITY,BRL,brazil,"{'raw': 209366417408, 'fmt': '209.366B', 'longFmt': '209,366,417,408'}",40960678520,aflac
+SIMN34.SA,"Simon Property Group, Inc.",EQUITY,BRL,brazil,"{'raw': 212645724160, 'fmt': '212.646B', 'longFmt': '212,645,724,160'}",41602245736,"simon,property"
+A1GI34.SA,"Agilent Technologies, Inc.",EQUITY,BRL,brazil,"{'raw': 203144790016, 'fmt': '203.145B', 'longFmt': '203,144,790,016'}",39743472424,agilent
+F1TN34.SA,"Fortinet, Inc.",EQUITY,BRL,brazil,"{'raw': 202523475968, 'fmt': '202.523B', 'longFmt': '202,523,475,968'}",39621917854,fortinet
+D1OW34.SA,Dow Inc.,EQUITY,BRL,brazil,"{'raw': 202074882048, 'fmt': '202.075B', 'longFmt': '202,074,882,048'}",39534154441,"dow,inc"
+M1SC34.SA,MSCI Inc.,EQUITY,BRL,brazil,"{'raw': 200062828544, 'fmt': '200.063B', 'longFmt': '200,062,828,544'}",39140514058,"msci,inc"
+J1CI34.SA,Johnson Controls International plc,EQUITY,BRL,brazil,"{'raw': 196997611520, 'fmt': '196.998B', 'longFmt': '196,997,611,520'}",38540831593,"johnson,controls"
+A1NE34.SA,"Arista Networks, Inc.",EQUITY,BRL,brazil,"{'raw': 195323412480, 'fmt': '195.323B', 'longFmt': '195,323,412,480'}",38213289433,"arista,networks"
+N1UE34.SA,Nucor Corporation,EQUITY,BRL,brazil,"{'raw': 192411975680, 'fmt': '192.412B', 'longFmt': '192,411,975,680'}",37643692703,nucor
+D1LR34.SA,"Digital Realty Trust, Inc.",EQUITY,BRL,brazil,"{'raw': 191059689472, 'fmt': '191.06B', 'longFmt': '191,059,689,472'}",37379129927,"digital,realty"
+P1DT34.SA,"Prudential Financial, Inc.",EQUITY,BRL,brazil,"{'raw': 190632607744, 'fmt': '190.633B', 'longFmt': '190,632,607,744'}",37295575183,"prudential,financial"
+DLTR34.SA,"Dollar Tree, Inc.",EQUITY,BRL,brazil,"{'raw': 190001315840, 'fmt': '190.001B', 'longFmt': '190,001,315,840'}",37172068533,"dollar,tree"
+B1FC34.SA,Brown-Forman Corporation,EQUITY,BRL,brazil,"{'raw': 189642637312, 'fmt': '189.643B', 'longFmt': '189,642,637,312'}",37101896268,brown-forman
+BBDC3.SA,Banco Bradesco S.A.,EQUITY,BRL,brazil,"{'raw': 189691068416, 'fmt': '189.691B', 'longFmt': '189,691,068,416'}",37111371383,bradesco
+W1EL34.SA,Welltower Inc.,EQUITY,BRL,brazil,"{'raw': 184432427008, 'fmt': '184.432B', 'longFmt': '184,432,427,008'}",36082564935,welltower
+H1ES34.SA,Hess Corporation,EQUITY,BRL,brazil,"{'raw': 183870291968, 'fmt': '183.87B', 'longFmt': '183,870,291,968'}",35972588211,"hess,corporation"
+K1RC34.SA,The Kroger Co.,EQUITY,BRL,brazil,"{'raw': 183105748992, 'fmt': '183.106B', 'longFmt': '183,105,748,992'}",35823012174,kroger
+G1PI34.SA,Global Payments Inc.,EQUITY,BRL,brazil,"{'raw': 182608855040, 'fmt': '182.609B', 'longFmt': '182,608,855,040'}",35725799289,"global,payments"
+N1EM34.SA,Newmont Corporation,EQUITY,BRL,brazil,"{'raw': 182358245376, 'fmt': '182.358B', 'longFmt': '182,358,245,376'}",35676769736,newmont
+D1EL34.SA,Dell Technologies Inc.,EQUITY,BRL,brazil,"{'raw': 181078376448, 'fmt': '181.078B', 'longFmt': '181,078,376,448'}",35426374757,"dell,technologies"
+EAIN34.SA,Electronic Arts Inc.,EQUITY,BRL,brazil,"{'raw': 180593524736, 'fmt': '180.594B', 'longFmt': '180,593,524,736'}",35331517829,"electronic,arts"
+BONY34.SA,The Bank of New York Mellon Corporation,EQUITY,BRL,brazil,"{'raw': 179325091840, 'fmt': '179.325B', 'longFmt': '179,325,091,840'}",35083360208,"bank,of,new"
+T1DG34.SA,TransDigm Group Incorporated,EQUITY,BRL,brazil,"{'raw': 178729271296, 'fmt': '178.729B', 'longFmt': '178,729,271,296'}",34966793215,transdigm
+C1RR34.SA,Carrier Global Corporation,EQUITY,BRL,brazil,"{'raw': 178381832192, 'fmt': '178.382B', 'longFmt': '178,381,832,192'}",34898819843,"carrier,global"
+HPQB34.SA,HP Inc.,EQUITY,BRL,brazil,"{'raw': 176155410432, 'fmt': '176.155B', 'longFmt': '176,155,410,432'}",34463240216,"hp,inc"
+CTSH34.SA,Cognizant Technology Solutions Corporation,EQUITY,BRL,brazil,"{'raw': 176359374848, 'fmt': '176.359B', 'longFmt': '176,359,374,848'}",34503144041,"cognizant,technology"
+D1EX34.SA,"DexCom, Inc.",EQUITY,BRL,brazil,"{'raw': 174811004928, 'fmt': '174.811B', 'longFmt': '174,811,004,928'}",34200219229,dexcom
+R1MD34.SA,ResMed Inc.,EQUITY,BRL,brazil,"{'raw': 174128594944, 'fmt': '174.129B', 'longFmt': '174,128,594,944'}",34066711782,resmed
+I1LM34.SA,"Illumina, Inc.",EQUITY,BRL,brazil,"{'raw': 172089720832, 'fmt': '172.09B', 'longFmt': '172,089,720,832'}",33667824185,illumina
+V2EE34.SA,Veeva Systems Inc.,EQUITY,BRL,brazil,"{'raw': 171456675840, 'fmt': '171.457B', 'longFmt': '171,456,675,840'}",33543974560,veeva
+D1DG34.SA,"Datadog, Inc.",EQUITY,BRL,brazil,"{'raw': 169364946944, 'fmt': '169.365B', 'longFmt': '169,364,946,944'}",33134746394,datadog
+A1LB34.SA,Albemarle Corporation,EQUITY,BRL,brazil,"{'raw': 168885157888, 'fmt': '168.885B', 'longFmt': '168,885,157,888'}",33040879930,"albemarle,corporation"
+ROST34.SA,"Ross Stores, Inc.",EQUITY,BRL,brazil,"{'raw': 166858948608, 'fmt': '166.859B', 'longFmt': '166,858,948,608'}",32644470096,"ross,stores"
+FASL34.SA,Fastenal Company,EQUITY,BRL,brazil,"{'raw': 166335086592, 'fmt': '166.335B', 'longFmt': '166,335,086,592'}",32541981149,fastenal
+WGBA34.SA,"Walgreens Boots Alliance, Inc.",EQUITY,BRL,brazil,"{'raw': 164754898944, 'fmt': '164.755B', 'longFmt': '164,754,898,944'}",32232831482,walgreens
+MSBR34.SA,Morgan Stanley,EQUITY,BRL,brazil,"{'raw': 786963693568, 'fmt': '786.964B', 'longFmt': '786,963,693,568'}",153962451373,"morgan,stanley"
+HALI34.SA,Halliburton Company,EQUITY,BRL,brazil,"{'raw': 164146528256, 'fmt': '164.147B', 'longFmt': '164,146,528,256'}",32113809164,halliburton
+K1SG34.SA,"Keysight Technologies, Inc.",EQUITY,BRL,brazil,"{'raw': 163162996736, 'fmt': '163.163B', 'longFmt': '163,162,996,736'}",31921389965,keysight
+T2TD34.SA,"The Trade Desk, Inc.",EQUITY,BRL,brazil,"{'raw': 165319114752, 'fmt': '165.319B', 'longFmt': '165,319,114,752'}",32343215289,"trade,desk"
+TWTR34.SA,"Twitter, Inc.",EQUITY,BRL,brazil,"{'raw': 159492685824, 'fmt': '159.493B', 'longFmt': '159,492,685,824'}",31203326260,"twitter,inc"
+N1DA34.SA,"Nasdaq, Inc.",EQUITY,BRL,brazil,"{'raw': 158386700288, 'fmt': '158.387B', 'longFmt': '158,386,700,288'}",30986950021,"nasdaq,inc"
+S1GE34.SA,Seagen Inc.,EQUITY,BRL,brazil,"{'raw': 158319427584, 'fmt': '158.319B', 'longFmt': '158,319,427,584'}",30973788714,seagen
+E1QR34.SA,Equity Residential,EQUITY,BRL,brazil,"{'raw': 154816266240, 'fmt': '154.816B', 'longFmt': '154,816,266,240'}",30288426337,"equity,residential"
+A1MP34.SA,"Ameriprise Financial, Inc.",EQUITY,BRL,brazil,"{'raw': 154765803520, 'fmt': '154.766B', 'longFmt': '154,765,803,520'}",30278553754,ameriprise
+I1CE34.SA,"Intercontinental Exchange, Inc.",EQUITY,BRL,brazil,"{'raw': 153219874816, 'fmt': '153.22B', 'longFmt': '153,219,874,816'}",29976106545,"intercontinental,exchange"
+G1WW34.SA,"W.W. Grainger, Inc.",EQUITY,BRL,brazil,"{'raw': 152939331584, 'fmt': '152.939B', 'longFmt': '152,939,331,584'}",29921220755,"ww,grainger"
+O1KE34.SA,"ONEOK, Inc.",EQUITY,BRL,brazil,"{'raw': 152818040832, 'fmt': '152.818B', 'longFmt': '152,818,040,832'}",29897491298,oneok
+G1LW34.SA,Corning Incorporated,EQUITY,BRL,brazil,"{'raw': 152757420032, 'fmt': '152.757B', 'longFmt': '152,757,420,032'}",29885631377,"corning,incorporated"
+A1VB34.SA,"AvalonBay Communities, Inc.",EQUITY,BRL,brazil,"{'raw': 152094195712, 'fmt': '152.094B', 'longFmt': '152,094,195,712'}",29755877434,avalonbay
+B1AX34.SA,Baxter International Inc.,EQUITY,BRL,brazil,"{'raw': 151460511744, 'fmt': '151.461B', 'longFmt': '151,460,511,744'}",29631902799,"baxter,international"
+DDNB34.SA,"DuPont de Nemours, Inc.",EQUITY,BRL,brazil,"{'raw': 151322509312, 'fmt': '151.323B', 'longFmt': '151,322,509,312'}",29604903850,"dupont,de"
+L1YB34.SA,LyondellBasell Industries N.V.,EQUITY,BRL,brazil,"{'raw': 151817076736, 'fmt': '151.817B', 'longFmt': '151,817,076,736'}",29701661570,lyondellbasell
+APTV34.SA,Aptiv PLC,EQUITY,BRL,brazil,"{'raw': 149527920640, 'fmt': '149.528B', 'longFmt': '149,527,920,640'}",29253808528,aptiv
+E1XR34.SA,Extra Space Storage Inc.,EQUITY,BRL,brazil,"{'raw': 148981792768, 'fmt': '148.982B', 'longFmt': '148,981,792,768'}",29146963464,"extra,space"
+CRIP34.SA,Trip.com Group Limited,EQUITY,BRL,brazil,"{'raw': 84478943232, 'fmt': '84.479B', 'longFmt': '84,478,943,232'}",16527554315,tripcom
+TSNF34.SA,"Tyson Foods, Inc.",EQUITY,BRL,brazil,"{'raw': 145933041664, 'fmt': '145.933B', 'longFmt': '145,933,041,664'}",28550502411,"tyson,foods"
+R1OK34.SA,"Rockwell Automation, Inc.",EQUITY,BRL,brazil,"{'raw': 145393336320, 'fmt': '145.393B', 'longFmt': '145,393,336,320'}",28444913858,"rockwell,automation"
+C1GP34.SA,"CoStar Group, Inc.",EQUITY,BRL,brazil,"{'raw': 144171302912, 'fmt': '144.171B', 'longFmt': '144,171,302,912'}",28205833884,"costar,group"
+H1RL34.SA,Hormel Foods Corporation,EQUITY,BRL,brazil,"{'raw': 144435462144, 'fmt': '144.435B', 'longFmt': '144,435,462,144'}",28257514290,hormel
+L1VS34.SA,Las Vegas Sands Corp.,EQUITY,BRL,brazil,"{'raw': 144119824384, 'fmt': '144.12B', 'longFmt': '144,119,824,384'}",28195762568,"las,vegas"
+BPAC3.SA,Banco BTG Pactual S.A.,EQUITY,BRL,brazil,"{'raw': 143151153152, 'fmt': '143.151B', 'longFmt': '143,151,153,152'}",28006250652,btg
+D2AS34.SA,"DoorDash, Inc.",EQUITY,BRL,brazil,"{'raw': 141351436288, 'fmt': '141.351B', 'longFmt': '141,351,436,288'}",27654152045,doordash
+B1KR34.SA,Baker Hughes Company,EQUITY,BRL,brazil,"{'raw': 137177333760, 'fmt': '137.177B', 'longFmt': '137,177,333,760'}",26837525989,"baker,hughes"
+E1IX34.SA,Edison International,EQUITY,BRL,brazil,"{'raw': 139955027968, 'fmt': '139.955B', 'longFmt': '139,955,027,968'}",27380957170,"edison,international"
+FMXB34.SA,"Fomento Económico Mexicano, S.A.B. de C.V.",EQUITY,BRL,brazil,"{'raw': 120078237696, 'fmt': '120.078B', 'longFmt': '120,078,237,696'}",23492239836,economico
+C1BR34.SA,"CBRE Group, Inc.",EQUITY,BRL,brazil,"{'raw': 139760779264, 'fmt': '139.761B', 'longFmt': '139,760,779,264'}",27342954137,cbre
+A1LN34.SA,"Alnylam Pharmaceuticals, Inc.",EQUITY,BRL,brazil,"{'raw': 136350097408, 'fmt': '136.35B', 'longFmt': '136,350,097,408'}",26675684550,alnylam
+W1YC34.SA,Weyerhaeuser Company,EQUITY,BRL,brazil,"{'raw': 135625506816, 'fmt': '135.626B', 'longFmt': '135,625,506,816'}",26533924841,"weyerhaeuser,company"
+D1HI34.SA,"D.R. Horton, Inc.",EQUITY,BRL,brazil,"{'raw': 133831868416, 'fmt': '133.832B', 'longFmt': '133,831,868,416'}",26183015432,"dr,horton"
+A1RE34.SA,"Alexandria Real Estate Equities, Inc.",EQUITY,BRL,brazil,"{'raw': 133406359552, 'fmt': '133.406B', 'longFmt': '133,406,359,552'}",26099768405,"alexandria,real"
+K1EL34.SA,Kellogg Company,EQUITY,BRL,brazil,"{'raw': 132931739648, 'fmt': '132.932B', 'longFmt': '132,931,739,648'}",26006913239,"kellogg,company"
+U1DR34.SA,"UDR, Inc.",EQUITY,BRL,brazil,"{'raw': 131208282112, 'fmt': '131.208B', 'longFmt': '131,208,282,112'}",25669734092,"udr,inc"
+NOKI34.SA,Nokia Corporation,EQUITY,BRL,brazil,"{'raw': 145224859648, 'fmt': '145.225B', 'longFmt': '145,224,859,648'}",28411952895,"nokia,corporation"
+SANB11.SA,Banco Santander (Brasil) S.A.,EQUITY,BRL,brazil,"{'raw': 130049105920, 'fmt': '130.049B', 'longFmt': '130,049,105,920'}",25442951574,"banco,santander"
+S1IV34.SA,SVB Financial Group,EQUITY,BRL,brazil,"{'raw': 128785793024, 'fmt': '128.786B', 'longFmt': '128,785,793,024'}",25195795635,svb
+EBAY34.SA,eBay Inc.,EQUITY,BRL,brazil,"{'raw': 128760201216, 'fmt': '128.76B', 'longFmt': '128,760,201,216'}",25190788826,ebay
+F2NV34.SA,Franco-Nevada Corporation,EQUITY,BRL,brazil,"{'raw': 128085434368, 'fmt': '128.085B', 'longFmt': '128,085,434,368'}",25058776690,franco-nevada
+Z1OM34.SA,"Zoom Video Communications, Inc.",EQUITY,BRL,brazil,"{'raw': 128081207296, 'fmt': '128.081B', 'longFmt': '128,081,207,296'}",25057949701,"zoom,video"
+R2BL34.SA,Roblox Corporation,EQUITY,BRL,brazil,"{'raw': 127648980992, 'fmt': '127.649B', 'longFmt': '127,648,980,992'}",24973388466,roblox
+D1RE34.SA,Duke Realty Corporation,EQUITY,BRL,brazil,"{'raw': 121799532544, 'fmt': '121.8B', 'longFmt': '121,799,532,544'}",23828995873,"duke,realty"
+NUBR33.SA,Nu Holdings Ltd.,EQUITY,BRL,brazil,"{'raw': 120871829504, 'fmt': '120.872B', 'longFmt': '120,871,829,504'}",23647499020,"nu,holdings"
+WEGE3.SA,WEG S.A.,EQUITY,BRL,brazil,"{'raw': 120845164544, 'fmt': '120.845B', 'longFmt': '120,845,164,544'}",23642282257,"weg,sa"
+M1DB34.SA,"MongoDB, Inc.",EQUITY,BRL,brazil,"{'raw': 119187628032, 'fmt': '119.188B', 'longFmt': '119,187,628,032'}",23317999972,mongodb
+F1EC34.SA,FirstEnergy Corp.,EQUITY,BRL,brazil,"{'raw': 119330463744, 'fmt': '119.33B', 'longFmt': '119,330,463,744'}",23345944510,firstenergy
+BBAS3.SA,Banco do Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 118480904192, 'fmt': '118.481B', 'longFmt': '118,480,904,192'}",23179735735,"banco,do"
+T1SC34.SA,Tractor Supply Company,EQUITY,BRL,brazil,"{'raw': 116483399680, 'fmt': '116.483B', 'longFmt': '116,483,399,680'}",22788941733,"tractor,supply"
+P1PL34.SA,PPL Corporation,EQUITY,BRL,brazil,"{'raw': 116265697280, 'fmt': '116.266B', 'longFmt': '116,265,697,280'}",22746350194,"ppl,corporation"
+A1NS34.SA,"ANSYS, Inc.",EQUITY,BRL,brazil,"{'raw': 115453165568, 'fmt': '115.453B', 'longFmt': '115,453,165,568'}",22587385587,ansys
+S1OU34.SA,Southwest Airlines Co.,EQUITY,BRL,brazil,"{'raw': 115187081216, 'fmt': '115.187B', 'longFmt': '115,187,081,216'}",22535328548,"southwest,airlines"
+CTGP34.SA,Citigroup Inc.,EQUITY,BRL,brazil,"{'raw': 509076733952, 'fmt': '509.077B', 'longFmt': '509,076,733,952'}",99596337845,citigroup
+DEAI34.SA,"Delta Air Lines, Inc.",EQUITY,BRL,brazil,"{'raw': 112305831936, 'fmt': '112.306B', 'longFmt': '112,305,831,936'}",21971637738,"delta,air"
+C1FI34.SA,"CF Industries Holdings, Inc.",EQUITY,BRL,brazil,"{'raw': 112104161280, 'fmt': '112.104B', 'longFmt': '112,104,161,280'}",21932182667,"cf,industries"
+U1RI34.SA,"United Rentals, Inc.",EQUITY,BRL,brazil,"{'raw': 110849540096, 'fmt': '110.85B', 'longFmt': '110,849,540,096'}",21686727184,"united,rentals"
+M1AA34.SA,"Mid-America Apartment Communities, Inc.",EQUITY,BRL,brazil,"{'raw': 110650351616, 'fmt': '110.65B', 'longFmt': '110,650,351,616'}",21647757729,"mid-america,apartment"
+L1YV34.SA,"Live Nation Entertainment, Inc.",EQUITY,BRL,brazil,"{'raw': 110030102528, 'fmt': '110.03B', 'longFmt': '110,030,102,528'}",21526411508,"live,nation"
+ELET3.SA,Centrais Elétricas Brasileiras S.A. - Eletrobrás,EQUITY,BRL,brazil,"{'raw': 109654581248, 'fmt': '109.655B', 'longFmt': '109,654,581,248'}",21452944108,centrais
+S1PO34.SA,Spotify Technology S.A.,EQUITY,BRL,brazil,"{'raw': 109513842688, 'fmt': '109.514B', 'longFmt': '109,513,842,688'}",21425409859,spotify
+U1LT34.SA,"Ulta Beauty, Inc.",EQUITY,BRL,brazil,"{'raw': 109108027392, 'fmt': '109.108B', 'longFmt': '109,108,027,392'}",21346015704,"ulta,beauty"
+L1CA34.SA,Laboratory Corporation of America Holdings,EQUITY,BRL,brazil,"{'raw': 108393529344, 'fmt': '108.394B', 'longFmt': '108,393,529,344'}",21206230512,"laboratory,corporation"
+MOSC34.SA,The Mosaic Company,EQUITY,BRL,brazil,"{'raw': 107524276224, 'fmt': '107.524B', 'longFmt': '107,524,276,224'}",21036168866,"mosaic,company"
+VRSN34.SA,"VeriSign, Inc.",EQUITY,BRL,brazil,"{'raw': 107475599360, 'fmt': '107.476B', 'longFmt': '107,475,599,360'}",21026645670,verisign
+T1TW34.SA,"Take-Two Interactive Software, Inc.",EQUITY,BRL,brazil,"{'raw': 107405393920, 'fmt': '107.405B', 'longFmt': '107,405,393,920'}",21012910600,take-two
+H1BA34.SA,Huntington Bancshares Incorporated,EQUITY,BRL,brazil,"{'raw': 106000957440, 'fmt': '106.001B', 'longFmt': '106,000,957,440'}",20738145087,bancshares
+B1RF34.SA,"Broadridge Financial Solutions, Inc.",EQUITY,BRL,brazil,"{'raw': 105945825280, 'fmt': '105.946B', 'longFmt': '105,945,825,280'}",20727358969,broadridge
+KLBN11.SA,Klabin S.A.,EQUITY,BRL,brazil,"{'raw': 105145098240, 'fmt': '105.145B', 'longFmt': '105,145,098,240'}",20570703842,klabin
+A1LG34.SA,"Align Technology, Inc.",EQUITY,BRL,brazil,"{'raw': 104349491200, 'fmt': '104.349B', 'longFmt': '104,349,491,200'}",20415050396,"align,technology"
+S2UI34.SA,"Sun Communities, Inc.",EQUITY,BRL,brazil,"{'raw': 104259715072, 'fmt': '104.26B', 'longFmt': '104,259,715,072'}",20397486495,"sun,communities"
+WATC34.SA,Waters Corporation,EQUITY,BRL,brazil,"{'raw': 102028705792, 'fmt': '102.029B', 'longFmt': '102,028,705,792'}",19961009361,"waters,corporation"
+H1PE34.SA,Hewlett Packard Enterprise Company,EQUITY,BRL,brazil,"{'raw': 100866990080, 'fmt': '100.867B', 'longFmt': '100,866,990,080'}",19733730008,"hewlett,packard"
+V1TA34.SA,"Ventas, Inc.",EQUITY,BRL,brazil,"{'raw': 99313516544, 'fmt': '99.314B', 'longFmt': '99,313,516,544'}",19429806719,ventas
+B1LL34.SA,Ball Corporation,EQUITY,BRL,brazil,"{'raw': 98767978496, 'fmt': '98.768B', 'longFmt': '98,767,978,496'}",19323077050,"ball,corporation"
+A1CR34.SA,Amcor plc,EQUITY,BRL,brazil,"{'raw': 95773769728, 'fmt': '95.774B', 'longFmt': '95,773,769,728'}",18737286720,amcor
+BBYY34.SA,"Best Buy Co., Inc.",EQUITY,BRL,brazil,"{'raw': 95694143488, 'fmt': '95.694B', 'longFmt': '95,694,143,488'}",18721708553,"best,buy"
+C1AH34.SA,"Cardinal Health, Inc.",EQUITY,BRL,brazil,"{'raw': 95379202048, 'fmt': '95.379B', 'longFmt': '95,379,202,048'}",18660093060,"cardinal,health"
+EXGR34.SA,"Expedia Group, Inc.",EQUITY,BRL,brazil,"{'raw': 93904863232, 'fmt': '93.905B', 'longFmt': '93,904,863,232'}",18371651776,expedia
+H1OL34.SA,"Hologic, Inc.",EQUITY,BRL,brazil,"{'raw': 93120569344, 'fmt': '93.121B', 'longFmt': '93,120,569,344'}",18218211649,hologic
+G1RM34.SA,Garmin Ltd.,EQUITY,BRL,brazil,"{'raw': 92570402816, 'fmt': '92.57B', 'longFmt': '92,570,402,816'}",18110576458,garmin
+S1PL34.SA,Splunk Inc.,EQUITY,BRL,brazil,"{'raw': 91863900160, 'fmt': '91.864B', 'longFmt': '91,863,900,160'}",17972355493,splunk
+B2HI34.SA,"Bill.com Holdings, Inc.",EQUITY,BRL,brazil,"{'raw': 91584724992, 'fmt': '91.585B', 'longFmt': '91,584,724,992'}",17917737353,billcom
+M1RO34.SA,Marathon Oil Corporation,EQUITY,BRL,brazil,"{'raw': 90311368704, 'fmt': '90.311B', 'longFmt': '90,311,368,704'}",17668616514,"marathon,oil"
+W1RB34.SA,W. R. Berkley Corporation,EQUITY,BRL,brazil,"{'raw': 89627598848, 'fmt': '89.628B', 'longFmt': '89,627,598,848'}",17534843020,"w,r"
+K1EY34.SA,KeyCorp,EQUITY,BRL,brazil,"{'raw': 89171525632, 'fmt': '89.172B', 'longFmt': '89,171,525,632'}",17445616349,keycorp
+B1MR34.SA,BioMarin Pharmaceutical Inc.,EQUITY,BRL,brazil,"{'raw': 88790114304, 'fmt': '88.79B', 'longFmt': '88,790,114,304'}",17370996613,biomarin
+S1YF34.SA,Synchrony Financial,EQUITY,BRL,brazil,"{'raw': 88537669632, 'fmt': '88.538B', 'longFmt': '88,537,669,632'}",17321608057,"synchrony,financial"
+FLTC34.SA,"FLEETCOR Technologies, Inc.",EQUITY,BRL,brazil,"{'raw': 88098185216, 'fmt': '88.098B', 'longFmt': '88,098,185,216'}",17235626838,fleetcor
+C1AG34.SA,"Conagra Brands, Inc.",EQUITY,BRL,brazil,"{'raw': 88002985984, 'fmt': '88.003B', 'longFmt': '88,002,985,984'}",17217001954,conagra
+A1VY34.SA,Avery Dennison Corporation,EQUITY,BRL,brazil,"{'raw': 87971545088, 'fmt': '87.972B', 'longFmt': '87,971,545,088'}",17210850822,"avery,dennison"
+VFCO34.SA,V.F. Corporation,EQUITY,BRL,brazil,"{'raw': 86750822400, 'fmt': '86.751B', 'longFmt': '86,750,822,400'}",16972027279,"vf,corporation"
+CINF34.SA,Cincinnati Financial Corporation,EQUITY,BRL,brazil,"{'raw': 86604529664, 'fmt': '86.605B', 'longFmt': '86,604,529,664'}",16943406406,"cincinnati,financial"
+A1ES34.SA,The AES Corporation,EQUITY,BRL,brazil,"{'raw': 85493686272, 'fmt': '85.494B', 'longFmt': '85,493,686,272'}",16726079770,"aes,corporation"
+P2LT34.SA,Palantir Technologies Inc.,EQUITY,BRL,brazil,"{'raw': 86161784832, 'fmt': '86.162B', 'longFmt': '86,161,784,832'}",16856787315,palantir
+Z1BR34.SA,Zebra Technologies Corporation,EQUITY,BRL,brazil,"{'raw': 85713862656, 'fmt': '85.714B', 'longFmt': '85,713,862,656'}",16769155323,"zebra,technologies"
+W1AB34.SA,Westinghouse Air Brake Technologies Corporation,EQUITY,BRL,brazil,"{'raw': 85667651584, 'fmt': '85.668B', 'longFmt': '85,667,651,584'}",16760114537,"westinghouse,air"
+H2UB34.SA,"HubSpot, Inc.",EQUITY,BRL,brazil,"{'raw': 85070741504, 'fmt': '85.071B', 'longFmt': '85,070,741,504'}",16643334386,hubspot
+C1BS34.SA,Paramount Global,EQUITY,BRL,brazil,"{'raw': 84048101376, 'fmt': '84.048B', 'longFmt': '84,048,101,376'}",16443263935,"paramount,global"
+M1TC34.SA,"Match Group, Inc.",EQUITY,BRL,brazil,"{'raw': 83820601344, 'fmt': '83.821B', 'longFmt': '83,820,601,344'}",16398755576,"match,group"
+C2OI34.SA,"Coinbase Global, Inc.",EQUITY,BRL,brazil,"{'raw': 83043205120, 'fmt': '83.043B', 'longFmt': '83,043,205,120'}",16246664915,coinbase
+A1TM34.SA,Atmos Energy Corporation,EQUITY,BRL,brazil,"{'raw': 83877986304, 'fmt': '83.878B', 'longFmt': '83,877,986,304'}",16409982434,"atmos,energy"
+ITSA4.SA,Itaúsa S.A.,EQUITY,BRL,brazil,"{'raw': 82621734912, 'fmt': '82.622B', 'longFmt': '82,621,734,912'}",16164208015,itausa
+I1RM34.SA,Iron Mountain Incorporated,EQUITY,BRL,brazil,"{'raw': 81072046080, 'fmt': '81.072B', 'longFmt': '81,072,046,080'}",15861025171,"iron,mountain"
+A1KA34.SA,"Akamai Technologies, Inc.",EQUITY,BRL,brazil,"{'raw': 79656779776, 'fmt': '79.657B', 'longFmt': '79,656,779,776'}",15584140898,"akamai,technologies"
+M1AS34.SA,Masco Corporation,EQUITY,BRL,brazil,"{'raw': 73082560512, 'fmt': '73.083B', 'longFmt': '73,082,560,512'}",14297953337,masco
+O1KT34.SA,"Okta, Inc.",EQUITY,BRL,brazil,"{'raw': 78316199936, 'fmt': '78.316B', 'longFmt': '78,316,199,936'}",15321868369,"okta,inc"
+S1JM34.SA,The J. M. Smucker Company,EQUITY,BRL,brazil,"{'raw': 78255529984, 'fmt': '78.256B', 'longFmt': '78,255,529,984'}",15309998832,"j,m"
+C1OO34.SA,"The Cooper Companies, Inc.",EQUITY,BRL,brazil,"{'raw': 77754327040, 'fmt': '77.754B', 'longFmt': '77,754,327,040'}",15211942931,"cooper,companies"
+C2PT34.SA,Camden Property Trust,EQUITY,BRL,brazil,"{'raw': 77431545856, 'fmt': '77.432B', 'longFmt': '77,431,545,856'}",15148793662,"camden,property"
+P1EA34.SA,"Healthpeak Properties, Inc.",EQUITY,BRL,brazil,"{'raw': 74966466560, 'fmt': '74.966B', 'longFmt': '74,966,466,560'}",14666522810,healthpeak
+A1PA34.SA,APA Corporation,EQUITY,BRL,brazil,"{'raw': 67069255680, 'fmt': '67.069B', 'longFmt': '67,069,255,680'}",13121503699,"apa,corporation"
+W1MG34.SA,Warner Music Group Corp.,EQUITY,BRL,brazil,"{'raw': 75408482304, 'fmt': '75.408B', 'longFmt': '75,408,482,304'}",14752999261,"warner,music"
+D2PZ34.SA,"Domino's Pizza, Inc.",EQUITY,BRL,brazil,"{'raw': 74270679040, 'fmt': '74.271B', 'longFmt': '74,270,679,040'}",14530398166,domino's
+S1WK34.SA,"Stanley Black & Decker, Inc.",EQUITY,BRL,brazil,"{'raw': 75648892928, 'fmt': '75.649B', 'longFmt': '75,648,892,928'}",14800033462,"stanley,black"
+H1ZN34.SA,Horizon Therapeutics Public Limited Company,EQUITY,BRL,brazil,"{'raw': 73451028480, 'fmt': '73.451B', 'longFmt': '73,451,028,480'}",14370040820,"horizon,therapeutics"
+O1MC34.SA,Omnicom Group Inc.,EQUITY,BRL,brazil,"{'raw': 73438593024, 'fmt': '73.439B', 'longFmt': '73,438,593,024'}",14367607933,omnicom
+F1MC34.SA,FMC Corporation,EQUITY,BRL,brazil,"{'raw': 73426837504, 'fmt': '73.427B', 'longFmt': '73,426,837,504'}",14365308070,"fmc,corporation"
+B3SA3.SA,"B3 S.A. - Brasil, Bolsa, Balcão",EQUITY,BRL,brazil,"{'raw': 72995291136, 'fmt': '72.995B', 'longFmt': '72,995,291,136'}",14280879860,b3
+F1RA34.SA,"Franklin Resources, Inc.",EQUITY,BRL,brazil,"{'raw': 72685371392, 'fmt': '72.685B', 'longFmt': '72,685,371,392'}",14220246816,"franklin,resources"
+VIVT3.SA,Telefônica Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 72506212352, 'fmt': '72.506B', 'longFmt': '72,506,212,352'}",14185195943,telefonica
+T1XT34.SA,Textron Inc.,EQUITY,BRL,brazil,"{'raw': 72261443584, 'fmt': '72.261B', 'longFmt': '72,261,443,584'}",14137309109,"textron,inc"
+M1GM34.SA,MGM Resorts International,EQUITY,BRL,brazil,"{'raw': 72193179648, 'fmt': '72.193B', 'longFmt': '72,193,179,648'}",14123953877,"mgm,resorts"
+P2IN34.SA,"Pinterest, Inc.",EQUITY,BRL,brazil,"{'raw': 71469596672, 'fmt': '71.47B', 'longFmt': '71,469,596,672'}",13982391299,pinterest
+P1KX34.SA,POSCO Holdings Inc.,EQUITY,BRL,brazil,"{'raw': 72204599296, 'fmt': '72.205B', 'longFmt': '72,204,599,296'}",14126188029,posco
+U2ST34.SA,Unity Software Inc.,EQUITY,BRL,brazil,"{'raw': 70606929920, 'fmt': '70.607B', 'longFmt': '70,606,929,920'}",13813618218,"unity,software"
+T1CH34.SA,Bio-Techne Corporation,EQUITY,BRL,brazil,"{'raw': 70090948608, 'fmt': '70.091B', 'longFmt': '70,090,948,608'}",13712671060,bio-techne
+S1YM34.SA,NortonLifeLock Inc.,EQUITY,BRL,brazil,"{'raw': 70192685056, 'fmt': '70.193B', 'longFmt': '70,192,685,056'}",13732574892,nortonlifelock
+K1IM34.SA,Kimco Realty Corporation,EQUITY,BRL,brazil,"{'raw': 70133997568, 'fmt': '70.134B', 'longFmt': '70,133,997,568'}",13721093207,kimco
+L1DO34.SA,"Leidos Holdings, Inc.",EQUITY,BRL,brazil,"{'raw': 69973237760, 'fmt': '69.973B', 'longFmt': '69,973,237,760'}",13689641979,leidos
+C1BO34.SA,"Cboe Global Markets, Inc.",EQUITY,BRL,brazil,"{'raw': 69624086528, 'fmt': '69.624B', 'longFmt': '69,624,086,528'}",13621333644,cboe
+T1WL34.SA,Twilio Inc.,EQUITY,BRL,brazil,"{'raw': 69093818368, 'fmt': '69.094B', 'longFmt': '69,093,818,368'}",13517591392,twilio
+E2TS34.SA,"Etsy, Inc.",EQUITY,BRL,brazil,"{'raw': 68874313728, 'fmt': '68.874B', 'longFmt': '68,874,313,728'}",13474647261,etsy
+RDOR3.SA,Rede D'Or São Luiz S.A.,EQUITY,BRL,brazil,"{'raw': 68498841600, 'fmt': '68.499B', 'longFmt': '68,498,841,600'}",13401189476,d'or
+JBSS3.SA,JBS S.A.,EQUITY,BRL,brazil,"{'raw': 68007555072, 'fmt': '68.008B', 'longFmt': '68,007,555,072'}",13305073634,"jbs,sa"
+C1TX34.SA,"Citrix Systems, Inc.",EQUITY,BRL,brazil,"{'raw': 67566215168, 'fmt': '67.566B', 'longFmt': '67,566,215,168'}",13218729405,citrix
+BOXP34.SA,"Boston Properties, Inc.",EQUITY,BRL,brazil,"{'raw': 66728775680, 'fmt': '66.729B', 'longFmt': '66,728,775,680'}",13054891813,"boston,properties"
+C1CL34.SA,Carnival Corporation & plc,EQUITY,BRL,brazil,"{'raw': 65967259648, 'fmt': '65.967B', 'longFmt': '65,967,259,648'}",12905907971,"carnival,corporation"
+U1AL34.SA,"United Airlines Holdings, Inc.",EQUITY,BRL,brazil,"{'raw': 65740996608, 'fmt': '65.741B', 'longFmt': '65,740,996,608'}",12861641618,"united,airlines"
+XPBR31.SA,XP Inc.,EQUITY,BRL,brazil,"{'raw': 65446268928, 'fmt': '65.446B', 'longFmt': '65,446,268,928'}",12803980767,"xp,inc"
+A1RG34.SA,argenx SE,EQUITY,BRL,brazil,"{'raw': 93850804224, 'fmt': '93.851B', 'longFmt': '93,850,804,224'}",18361075612,argenx
+FSLR34.SA,"First Solar, Inc.",EQUITY,BRL,brazil,"{'raw': 64674967552, 'fmt': '64.675B', 'longFmt': '64,674,967,552'}",12653082509,"first,solar"
+G2DD34.SA,GoDaddy Inc.,EQUITY,BRL,brazil,"{'raw': 64649064448, 'fmt': '64.649B', 'longFmt': '64,649,064,448'}",12648014797,godaddy
+C1NS34.SA,Celanese Corporation,EQUITY,BRL,brazil,"{'raw': 64007958528, 'fmt': '64.008B', 'longFmt': '64,007,958,528'}",12522588123,"celanese,corporation"
+A1AP34.SA,"Advance Auto Parts, Inc.",EQUITY,BRL,brazil,"{'raw': 63948324864, 'fmt': '63.948B', 'longFmt': '63,948,324,864'}",12510921326,"advance,auto"
+SUZB3.SA,Suzano S.A.,EQUITY,BRL,brazil,"{'raw': 63811809280, 'fmt': '63.812B', 'longFmt': '63,811,809,280'}",12484213266,"suzano,sa"
+D1OC34.SA,"DocuSign, Inc.",EQUITY,BRL,brazil,"{'raw': 63166812160, 'fmt': '63.167B', 'longFmt': '63,166,812,160'}",12358025313,docusign
+M1CB34.SA,Molson Coors Beverage Company,EQUITY,BRL,brazil,"{'raw': 62506373120, 'fmt': '62.506B', 'longFmt': '62,506,373,120'}",12228816285,molson
+RENT3.SA,Localiza Rent a Car S.A.,EQUITY,BRL,brazil,"{'raw': 63050321920, 'fmt': '63.05B', 'longFmt': '63,050,321,920'}",12335235033,localiza
+E1MN34.SA,Eastman Chemical Company,EQUITY,BRL,brazil,"{'raw': 62180544512, 'fmt': '62.181B', 'longFmt': '62,180,544,512'}",12165070814,"eastman,chemical"
+W1SO34.SA,"Watsco, Inc.",EQUITY,BRL,brazil,"{'raw': 60313501696, 'fmt': '60.314B', 'longFmt': '60,313,501,696'}",11799800483,watsco
+L1MN34.SA,"Lumen Technologies, Inc.",EQUITY,BRL,brazil,"{'raw': 58114519040, 'fmt': '58.115B', 'longFmt': '58,114,519,040'}",11369589073,"lumen,technologies"
+BBSE3.SA,BB Seguridade Participações S.A.,EQUITY,BRL,brazil,"{'raw': 56906805248, 'fmt': '56.907B', 'longFmt': '56,906,805,248'}",11133310605,seguridade
+W1RK34.SA,WestRock Company,EQUITY,BRL,brazil,"{'raw': 55945560064, 'fmt': '55.946B', 'longFmt': '55,945,560,064'}",10945251529,westrock
+HAPV3.SA,Hapvida Participações e Investimentos S.A.,EQUITY,BRL,brazil,"{'raw': 55435120640, 'fmt': '55.435B', 'longFmt': '55,435,120,640'}",10845388593,hapvida
+T1FX34.SA,Teleflex Incorporated,EQUITY,BRL,brazil,"{'raw': 55385776128, 'fmt': '55.386B', 'longFmt': '55,385,776,128'}",10835734778,teleflex
+M1KT34.SA,MarketAxess Holdings Inc.,EQUITY,BRL,brazil,"{'raw': 53354700800, 'fmt': '53.355B', 'longFmt': '53,354,700,800'}",10438372944,marketaxess
+B1SA34.SA,Banco Santander-Chile,EQUITY,BRL,brazil,"{'raw': 36226244608, 'fmt': '36.226B', 'longFmt': '36,226,244,608'}",7087342744,santander-chile
+P1HM34.SA,"PulteGroup, Inc.",EQUITY,BRL,brazil,"{'raw': 52087050240, 'fmt': '52.087B', 'longFmt': '52,087,050,240'}",10190368380,pultegroup
+N1BI34.SA,"Neurocrine Biosciences, Inc.",EQUITY,BRL,brazil,"{'raw': 52047015936, 'fmt': '52.047B', 'longFmt': '52,047,015,936'}",10182536025,"neurocrine,biosciences"
+Q1RV34.SA,"Qorvo, Inc.",EQUITY,BRL,brazil,"{'raw': 51841499136, 'fmt': '51.841B', 'longFmt': '51,841,499,136'}",10142328489,qorvo
+N1LS34.SA,Nielsen Holdings plc,EQUITY,BRL,brazil,"{'raw': 51571343360, 'fmt': '51.571B', 'longFmt': '51,571,343,360'}",10089474913,"nielsen,holdings"
+S1RP34.SA,"Sarepta Therapeutics, Inc.",EQUITY,BRL,brazil,"{'raw': 51472470016, 'fmt': '51.472B', 'longFmt': '51,472,470,016'}",10070131222,"sarepta,therapeutics"
+R1CL34.SA,Royal Caribbean Cruises Ltd.,EQUITY,BRL,brazil,"{'raw': 51266490368, 'fmt': '51.266B', 'longFmt': '51,266,490,368'}",10029833135,"royal,caribbean"
+D1IS34.SA,DISH Network Corporation,EQUITY,BRL,brazil,"{'raw': 50257002496, 'fmt': '50.257B', 'longFmt': '50,257,002,496'}",9832335806,"dish,network"
+F1FI34.SA,"F5, Inc.",EQUITY,BRL,brazil,"{'raw': 50082320384, 'fmt': '50.082B', 'longFmt': '50,082,320,384'}",9798160804,f5
+R1KU34.SA,"Roku, Inc.",EQUITY,BRL,brazil,"{'raw': 51140284416, 'fmt': '51.14B', 'longFmt': '51,140,284,416'}",10005142063,roku
+Z2EN34.SA,"Zendesk, Inc.",EQUITY,BRL,brazil,"{'raw': 48844890112, 'fmt': '48.845B', 'longFmt': '48,844,890,112'}",9556068571,zendesk
+P2AT34.SA,UiPath Inc.,EQUITY,BRL,brazil,"{'raw': 48110772224, 'fmt': '48.111B', 'longFmt': '48,110,772,224'}",9412444931,uipath
+A1SU34.SA,"Assurant, Inc.",EQUITY,BRL,brazil,"{'raw': 47462649856, 'fmt': '47.463B', 'longFmt': '47,462,649,856'}",9285645551,"assurant,inc"
+M2PW34.SA,"Medical Properties Trust, Inc.",EQUITY,BRL,brazil,"{'raw': 46670569472, 'fmt': '46.671B', 'longFmt': '46,670,569,472'}",9130682065,"medical,properties"
+TPRY34.SA,"Tapestry, Inc.",EQUITY,BRL,brazil,"{'raw': 46627635200, 'fmt': '46.628B', 'longFmt': '46,627,635,200'}",9122282356,"tapestry,inc"
+AALL34.SA,American Airlines Group Inc.,EQUITY,BRL,brazil,"{'raw': 46543630336, 'fmt': '46.544B', 'longFmt': '46,543,630,336'}",9105847551,"american,airlines"
+R1HI34.SA,Robert Half International Inc.,EQUITY,BRL,brazil,"{'raw': 46128128000, 'fmt': '46.128B', 'longFmt': '46,128,128,000'}",9024558213,"robert,half"
+G1FI34.SA,Gold Fields Limited,EQUITY,BRL,brazil,"{'raw': 41222049792, 'fmt': '41.222B', 'longFmt': '41,222,049,792'}",8064727621,"gold,fields"
+I1VZ34.SA,Invesco Ltd.,EQUITY,BRL,brazil,"{'raw': 43947204608, 'fmt': '43.947B', 'longFmt': '43,947,204,608'}",8597879937,invesco
+B1BW34.SA,"Bath & Body Works, Inc.",EQUITY,BRL,brazil,"{'raw': 46025048064, 'fmt': '46.025B', 'longFmt': '46,025,048,064'}",9004391539,"bath,&"
+TAEE11.SA,Transmissora Aliança de Energia Elétrica S.A.,EQUITY,BRL,brazil,"{'raw': 42290819072, 'fmt': '42.291B', 'longFmt': '42,290,819,072'}",8273822830,transmissora
+CRFB3.SA,Atacadão S.A.,EQUITY,BRL,brazil,"{'raw': 42103062528, 'fmt': '42.103B', 'longFmt': '42,103,062,528'}",8237089932,atacadao
+CPFE3.SA,CPFL Energia S.A.,EQUITY,BRL,brazil,"{'raw': 41239027712, 'fmt': '41.239B', 'longFmt': '41,239,027,712'}",8068049200,cpfl
+TXSA34.SA,Ternium S.A.,EQUITY,BRL,brazil,"{'raw': 32132407296, 'fmt': '32.132B', 'longFmt': '32,132,407,296'}",6286419864,ternium
+U1NM34.SA,Unum Group,EQUITY,BRL,brazil,"{'raw': 40302919680, 'fmt': '40.303B', 'longFmt': '40,302,919,680'}",7884907985,"unum,group"
+S2TO34.SA,STORE Capital Corporation,EQUITY,BRL,brazil,"{'raw': 40067264512, 'fmt': '40.067B', 'longFmt': '40,067,264,512'}",7838804146,"store,capital"
+R2HH34.SA,RH,EQUITY,BRL,brazil,"{'raw': 39933399040, 'fmt': '39.933B', 'longFmt': '39,933,399,040'}",7812614556,rh
+D2KN34.SA,DraftKings Inc.,EQUITY,BRL,brazil,"{'raw': 39478501376, 'fmt': '39.479B', 'longFmt': '39,478,501,376'}",7723617872,draftkings
+C1AB34.SA,"Cable One, Inc.",EQUITY,BRL,brazil,"{'raw': 39148384256, 'fmt': '39.148B', 'longFmt': '39,148,384,256'}",7659033392,"cable,one"
+GGBR3.SA,Gerdau S.A.,EQUITY,BRL,brazil,"{'raw': 38853718016, 'fmt': '38.854B', 'longFmt': '38,853,718,016'}",7601384561,gerdau
+CSAN3.SA,Cosan S.A.,EQUITY,BRL,brazil,"{'raw': 38979416064, 'fmt': '38.979B', 'longFmt': '38,979,416,064'}",7625976267,cosan
+T1SS34.SA,Tenaris S.A.,EQUITY,BRL,brazil,"{'raw': 81088225280, 'fmt': '81.088B', 'longFmt': '81,088,225,280'}",15864190487,tenaris
+U1HS34.SA,"Universal Health Services, Inc.",EQUITY,BRL,brazil,"{'raw': 38989680640, 'fmt': '38.99B', 'longFmt': '38,989,680,640'}",7627984440,"universal,health"
+CRDA34.SA,Credit Acceptance Corporation,EQUITY,BRL,brazil,"{'raw': 38196547584, 'fmt': '38.197B', 'longFmt': '38,196,547,584'}",7472815007,"credit,acceptance"
+H1RB34.SA,"H&R Block, Inc.",EQUITY,BRL,brazil,"{'raw': 38190772224, 'fmt': '38.191B', 'longFmt': '38,190,772,224'}",7471685110,h&r
+RADL3.SA,Raia Drogasil S.A.,EQUITY,BRL,brazil,"{'raw': 37353398272, 'fmt': '37.353B', 'longFmt': '37,353,398,272'}",7307860339,drogasil
+RAIL3.SA,Rumo S.A.,EQUITY,BRL,brazil,"{'raw': 37039398912, 'fmt': '37.039B', 'longFmt': '37,039,398,912'}",7246429156,rumo
+M1HK34.SA,"Mohawk Industries, Inc.",EQUITY,BRL,brazil,"{'raw': 37028900864, 'fmt': '37.029B', 'longFmt': '37,028,900,864'}",7244375306,"mohawk,industries"
+GOLL4.SA,Gol Linhas Aéreas Inteligentes S.A.,EQUITY,BRL,brazil,"{'raw': 36150849536, 'fmt': '36.151B', 'longFmt': '36,150,849,536'}",7072592368,linhas
+P2LN34.SA,"Planet Fitness, Inc.",EQUITY,BRL,brazil,"{'raw': 35372879872, 'fmt': '35.373B', 'longFmt': '35,372,879,872'}",6920389519,"planet,fitness"
+COTY34.SA,Coty Inc.,EQUITY,BRL,brazil,"{'raw': 33970411520, 'fmt': '33.97B', 'longFmt': '33,970,411,520'}",6646009052,"coty,inc"
+A1IV34.SA,Apartment Investment and Management Company,EQUITY,BRL,brazil,"{'raw': 33805871104, 'fmt': '33.806B', 'longFmt': '33,805,871,104'}",6613818183,"apartment,investment"
+EGIE3.SA,Engie Brasil Energia S.A.,EQUITY,BRL,brazil,"{'raw': 33697824768, 'fmt': '33.698B', 'longFmt': '33,697,824,768'}",6592679877,engie
+CMIG4.SA,Companhia Energética de Minas Gerais,EQUITY,BRL,brazil,"{'raw': 33122801664, 'fmt': '33.123B', 'longFmt': '33,122,801,664'}",6480181718,energetica
+SBSP3.SA,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,EQUITY,BRL,brazil,"{'raw': 32617099264, 'fmt': '32.617B', 'longFmt': '32,617,099,264'}",6381245539,saneamento
+WUNI34.SA,The Western Union Company,EQUITY,BRL,brazil,"{'raw': 30860318720, 'fmt': '30.86B', 'longFmt': '30,860,318,720'}",6037547042,"western,union"
+H1OG34.SA,"Harley-Davidson, Inc.",EQUITY,BRL,brazil,"{'raw': 30705393664, 'fmt': '30.705B', 'longFmt': '30,705,393,664'}",6007237331,harley-davidson
+I1AC34.SA,IAC Inc.,EQUITY,BRL,brazil,"{'raw': 30573815808, 'fmt': '30.574B', 'longFmt': '30,573,815,808'}",5981495294,iac
+N1CL34.SA,Norwegian Cruise Line Holdings Ltd.,EQUITY,BRL,brazil,"{'raw': 30188521472, 'fmt': '30.189B', 'longFmt': '30,188,521,472'}",5906115882,"norwegian,cruise"
+V1NO34.SA,Vornado Realty Trust,EQUITY,BRL,brazil,"{'raw': 29734848512, 'fmt': '29.735B', 'longFmt': '29,734,848,512'}",5817358800,vornado
+MGLU3.SA,Magazine Luiza S.A.,EQUITY,BRL,brazil,"{'raw': 30041055232, 'fmt': '30.041B', 'longFmt': '30,041,055,232'}",5877265423,"magazine,luiza"
+TIMS3.SA,TIM S.A.,EQUITY,BRL,brazil,"{'raw': 29188093952, 'fmt': '29.188B', 'longFmt': '29,188,093,952'}",5710391130,"tim,sa"
+D1XC34.SA,DXC Technology Company,EQUITY,BRL,brazil,"{'raw': 28734623744, 'fmt': '28.735B', 'longFmt': '28,734,623,744'}",5621673715,dxc
+USSX34.SA,United States Steel Corporation,EQUITY,BRL,brazil,"{'raw': 28467449856, 'fmt': '28.467B', 'longFmt': '28,467,449,856'}",5569403518,"united,states,steel"
+BRKM3.SA,Braskem S.A.,EQUITY,BRL,brazil,"{'raw': 28282986496, 'fmt': '28.283B', 'longFmt': '28,282,986,496'}",5533314902,braskem
+P1RG34.SA,Perrigo Company plc,EQUITY,BRL,brazil,"{'raw': 28257665024, 'fmt': '28.258B', 'longFmt': '28,257,665,024'}",5528360981,perrigo
+CCRO3.SA,CCR S.A.,EQUITY,BRL,brazil,"{'raw': 28239599616, 'fmt': '28.24B', 'longFmt': '28,239,599,616'}",5524826644,"ccr,sa"
+HYPE3.SA,Hypera S.A.,EQUITY,BRL,brazil,"{'raw': 27867170816, 'fmt': '27.867B', 'longFmt': '27,867,170,816'}",5451964260,hypera
+T2DH34.SA,"Teladoc Health, Inc.",EQUITY,BRL,brazil,"{'raw': 27784953856, 'fmt': '27.785B', 'longFmt': '27,784,953,856'}",5435879243,teladoc
+L1EG34.SA,"Leggett & Platt, Incorporated",EQUITY,BRL,brazil,"{'raw': 27160371200, 'fmt': '27.16B', 'longFmt': '27,160,371,200'}",5313685198,"leggett,&"
+EQTL3.SA,Equatorial Energia S.A.,EQUITY,BRL,brazil,"{'raw': 27105558528, 'fmt': '27.106B', 'longFmt': '27,105,558,528'}",5302961586,"equatorial,energia"
+LREN3.SA,Lojas Renner S.A.,EQUITY,BRL,brazil,"{'raw': 26391887872, 'fmt': '26.392B', 'longFmt': '26,391,887,872'}",5163338266,lojas
+A2MC34.SA,"AMC Entertainment Holdings, Inc.",EQUITY,BRL,brazil,"{'raw': 25677266944, 'fmt': '25.677B', 'longFmt': '25,677,266,944'}",5023529033,"amc,entertainment"
+MACY34.SA,"Macy's, Inc.",EQUITY,BRL,brazil,"{'raw': 25665093632, 'fmt': '25.665B', 'longFmt': '25,665,093,632'}",5021147433,macy's
+PAGS34.SA,PagSeguro Digital Ltd.,EQUITY,BRL,brazil,"{'raw': 25528571904, 'fmt': '25.529B', 'longFmt': '25,528,571,904'}",4994438171,pagseguro
+B2MB34.SA,Bumble Inc.,EQUITY,BRL,brazil,"{'raw': 25214507008, 'fmt': '25.215B', 'longFmt': '25,214,507,008'}",4932994165,"bumble,inc"
+ENEV3.SA,Eneva S.A.,EQUITY,BRL,brazil,"{'raw': 24506419200, 'fmt': '24.506B', 'longFmt': '24,506,419,200'}",4794463080,eneva
+ASAI3.SA,Sendas Distribuidora S.A.,EQUITY,BRL,brazil,"{'raw': 23967698944, 'fmt': '23.968B', 'longFmt': '23,967,698,944'}",4689067250,sendas
+C1OU34.SA,Coupa Software Incorporated,EQUITY,BRL,brazil,"{'raw': 23529385984, 'fmt': '23.529B', 'longFmt': '23,529,385,984'}",4603315216,coupa
+E1DU34.SA,New Oriental Education & Technology Group Inc.,EQUITY,BRL,brazil,"{'raw': 23072802816, 'fmt': '23.073B', 'longFmt': '23,072,802,816'}",4513988778,"new,oriental"
+F1LS34.SA,Flowserve Corporation,EQUITY,BRL,brazil,"{'raw': 22768027648, 'fmt': '22.768B', 'longFmt': '22,768,027,648'}",4454362225,flowserve
+CSNA3.SA,Companhia Siderúrgica Nacional,EQUITY,BRL,brazil,"{'raw': 22130944000, 'fmt': '22.131B', 'longFmt': '22,130,944,000'}",4329722472,siderurgica
+CMIN3.SA,CSN Mineração S.A.,EQUITY,BRL,brazil,"{'raw': 21973612544, 'fmt': '21.974B', 'longFmt': '21,973,612,544'}",4298941972,mineracao
+NTCO3.SA,Natura &Co Holding S.A.,EQUITY,BRL,brazil,"{'raw': 21969760256, 'fmt': '21.97B', 'longFmt': '21,969,760,256'}",4298188306,&co
+PRIO3.SA,Petro Rio S.A.,EQUITY,BRL,brazil,"{'raw': 21924366336, 'fmt': '21.924B', 'longFmt': '21,924,366,336'}",4289307389,"petro,rio"
+A1YX34.SA,"Alteryx, Inc.",EQUITY,BRL,brazil,"{'raw': 21810399232, 'fmt': '21.81B', 'longFmt': '21,810,399,232'}",4267010738,alteryx
+VBBR3.SA,Vibra Energia S.A.,EQUITY,BRL,brazil,"{'raw': 20770584576, 'fmt': '20.771B', 'longFmt': '20,770,584,576'}",4063580243,vibra
+NEOE3.SA,Neoenergia S.A.,EQUITY,BRL,brazil,"{'raw': 20743841792, 'fmt': '20.744B', 'longFmt': '20,743,841,792'}",4058348255,neoenergia
+W1IX34.SA,Wix.com Ltd.,EQUITY,BRL,brazil,"{'raw': 20046295040, 'fmt': '20.046B', 'longFmt': '20,046,295,040'}",3921879434,wixcom
+U1AI34.SA,"Under Armour, Inc.",EQUITY,BRL,brazil,"{'raw': 19928522752, 'fmt': '19.929B', 'longFmt': '19,928,522,752'}",3898838332,"under,armour"
+T1EC34.SA,TechnipFMC plc,EQUITY,BRL,brazil,"{'raw': 19806885888, 'fmt': '19.807B', 'longFmt': '19,806,885,888'}",3875041161,technipfmc
+K1SS34.SA,Kohl's Corporation,EQUITY,BRL,brazil,"{'raw': 19179227136, 'fmt': '19.179B', 'longFmt': '19,179,227,136'}",3752245306,kohl's
+GPSI34.SA,"The Gap, Inc.",EQUITY,BRL,brazil,"{'raw': 19120551936, 'fmt': '19.121B', 'longFmt': '19,120,551,936'}",3740766024,"gap,inc"
+CPLE5.SA,Companhia Paranaense de Energia - COPEL,EQUITY,BRL,brazil,"{'raw': 19074215936, 'fmt': '19.074B', 'longFmt': '19,074,215,936'}",3731700798,paranaense
+ENGI3.SA,Energisa S.A.,EQUITY,BRL,brazil,"{'raw': 18800715776, 'fmt': '18.801B', 'longFmt': '18,800,715,776'}",3678192923,energisa
+TOTS3.SA,TOTVS S.A.,EQUITY,BRL,brazil,"{'raw': 18723268608, 'fmt': '18.723B', 'longFmt': '18,723,268,608'}",3663041073,totvs
+T1RI34.SA,"Tripadvisor, Inc.",EQUITY,BRL,brazil,"{'raw': 18137774080, 'fmt': '18.138B', 'longFmt': '18,137,774,080'}",3548494273,tripadvisor
+TRPL3.SA,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A.,EQUITY,BRL,brazil,"{'raw': 17955260416, 'fmt': '17.955B', 'longFmt': '17,955,260,416'}",3512787097,cteep
+BRFS3.SA,BRF S.A.,EQUITY,BRL,brazil,"{'raw': 17907572736, 'fmt': '17.908B', 'longFmt': '17,907,572,736'}",3503457426,brf
+CGAS5.SA,Companhia de Gás de São Paulo - COMGÁS,EQUITY,BRL,brazil,"{'raw': 17147998208, 'fmt': '17.148B', 'longFmt': '17,147,998,208'}",3354853421,comgas
+ALUP11.SA,Alupar Investimento S.A.,EQUITY,BRL,brazil,"{'raw': 16710966272, 'fmt': '16.711B', 'longFmt': '16,710,966,272'}",3269352008,alupar
+AMER3.SA,Americanas S.A.,EQUITY,BRL,brazil,"{'raw': 16564202496, 'fmt': '16.564B', 'longFmt': '16,564,202,496'}",3240638980,americanas
+STOC31.SA,StoneCo Ltd.,EQUITY,BRL,brazil,"{'raw': 15787246592, 'fmt': '15.787B', 'longFmt': '15,787,246,592'}",3088634463,stoneco
+CIEL3.SA,Cielo S.A.,EQUITY,BRL,brazil,"{'raw': 15643769856, 'fmt': '15.644B', 'longFmt': '15,643,769,856'}",3060564515,"cielo,sa"
+S1LG34.SA,SL Green Realty Corp.,EQUITY,BRL,brazil,"{'raw': 15564167168, 'fmt': '15.564B', 'longFmt': '15,564,167,168'}",3044990957,"sl,green"
+UGPA3.SA,Ultrapar Participações S.A.,EQUITY,BRL,brazil,"{'raw': 15451065344, 'fmt': '15.451B', 'longFmt': '15,451,065,344'}",3022863590,ultrapar
+J1WN34.SA,"Nordstrom, Inc.",EQUITY,BRL,brazil,"{'raw': 15242159104, 'fmt': '15.242B', 'longFmt': '15,242,159,104'}",2981992942,"nordstrom,inc"
+S2QS34.SA,"Squarespace, Inc.",EQUITY,BRL,brazil,"{'raw': 15219108864, 'fmt': '15.219B', 'longFmt': '15,219,108,864'}",2977483367,squarespace
+MULT3.SA,Multiplan Empreendimentos Imobiliários S.A.,EQUITY,BRL,brazil,"{'raw': 14754402304, 'fmt': '14.754B', 'longFmt': '14,754,402,304'}",2886567659,empreendimentos
+AURE3.SA,Auren Energia S.A.,EQUITY,BRL,brazil,"{'raw': 14180000768, 'fmt': '14.18B', 'longFmt': '14,180,000,768'}",2774191105,auren
+VAMO3.SA,"Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",EQUITY,BRL,brazil,"{'raw': 14119218176, 'fmt': '14.119B', 'longFmt': '14,119,218,176'}",2762299531,locacao
+MDIA3.SA,M. Dias Branco S.A. Indústria e Comércio de Alimentos,EQUITY,BRL,brazil,"{'raw': 14082621440, 'fmt': '14.083B', 'longFmt': '14,082,621,440'}",2755139705,"m,dias"
+EQPA3.SA,Equatorial Pará Distribuidora de Energia S.A.,EQUITY,BRL,brazil,"{'raw': 13999734784, 'fmt': '14B', 'longFmt': '13,999,734,784'}",2738923667,distribuidora
+XRXB34.SA,Xerox Holdings Corporation,EQUITY,BRL,brazil,"{'raw': 13791281152, 'fmt': '13.791B', 'longFmt': '13,791,281,152'}",2698141567,"xerox,holdings"
+PSSA3.SA,Porto Seguro S.A.,EQUITY,BRL,brazil,"{'raw': 13713797120, 'fmt': '13.714B', 'longFmt': '13,713,797,120'}",2682982505,"porto,seguro"
+GMAT3.SA,Grupo Mateus S.A.,EQUITY,BRL,brazil,"{'raw': 13587502080, 'fmt': '13.588B', 'longFmt': '13,587,502,080'}",2658274003,mateus
+RIGG34.SA,Transocean Ltd.,EQUITY,BRL,brazil,"{'raw': 14015998976, 'fmt': '14.016B', 'longFmt': '14,015,998,976'}",2742105612,"transocean,ltd"
+REDE3.SA,Rede Energia Participações S.A.,EQUITY,BRL,brazil,"{'raw': 13421635584, 'fmt': '13.422B', 'longFmt': '13,421,635,584'}",2625823697,participacoes
+ENBR3.SA,EDP - Energias do Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 13039927296, 'fmt': '13.04B', 'longFmt': '13,039,927,296'}",2551145864,energias
+ALPA3.SA,Alpargatas S.A.,EQUITY,BRL,brazil,"{'raw': 12540116992, 'fmt': '12.54B', 'longFmt': '12,540,116,992'}",2453362421,alpargatas
+DASA3.SA,Diagnósticos da América S.A.,EQUITY,BRL,brazil,"{'raw': 12364342272, 'fmt': '12.364B', 'longFmt': '12,364,342,272'}",2418973659,diagnosticos
+USIM3.SA,Usinas Siderúrgicas de Minas Gerais S.A.,EQUITY,BRL,brazil,"{'raw': 11491441664, 'fmt': '11.491B', 'longFmt': '11,491,441,664'}",2248198414,usinas
+SMTO3.SA,São Martinho S.A.,EQUITY,BRL,brazil,"{'raw': 11239869440, 'fmt': '11.24B', 'longFmt': '11,239,869,440'}",2198980545,martinho
+SULA11.SA,Sul América S.A.,EQUITY,BRL,brazil,"{'raw': 10858919936, 'fmt': '10.859B', 'longFmt': '10,858,919,936'}",2124451161,"sul,america"
+GOAU3.SA,Metalurgica Gerdau S.A.,EQUITY,BRL,brazil,"{'raw': 10706370560, 'fmt': '10.706B', 'longFmt': '10,706,370,560'}",2094606231,metalurgica
+EMBR3.SA,Embraer S.A.,EQUITY,BRL,brazil,"{'raw': 10526889984, 'fmt': '10.527B', 'longFmt': '10,526,889,984'}",2059492452,embraer
+A1LL34.SA,"Bread Financial Holdings, Inc.",EQUITY,BRL,brazil,"{'raw': 10380552192, 'fmt': '10.381B', 'longFmt': '10,380,552,192'}",2030862764,"bread,financial"
+W1BO34.SA,Weibo Corporation,EQUITY,BRL,brazil,"{'raw': 3948947968, 'fmt': '3.949B', 'longFmt': '3,948,947,968'}",772576567,"weibo,corporation"
+SOMA3.SA,Grupo de Moda SOMA S.A.,EQUITY,BRL,brazil,"{'raw': 10233101312, 'fmt': '10.233B', 'longFmt': '10,233,101,312'}",2002015310,moda
+ARZZ3.SA,Arezzo Indústria e Comércio S.A.,EQUITY,BRL,brazil,"{'raw': 9951478784, 'fmt': '9.951B', 'longFmt': '9,951,478,784'}",1946918365,"arezzo,industria"
+SLCE3.SA,SLC Agrícola S.A.,EQUITY,BRL,brazil,"{'raw': 9745652736, 'fmt': '9.746B', 'longFmt': '9,745,652,736'}",1906650329,"slc,agricola"
+UNIP6.SA,Unipar Carbocloro S.A.,EQUITY,BRL,brazil,"{'raw': 9405243392, 'fmt': '9.405B', 'longFmt': '9,405,243,392'}",1840052267,unipar
+SMFT3.SA,Smartfit Escola de Ginástica e Dança S.A.,EQUITY,BRL,brazil,"{'raw': 9774212096, 'fmt': '9.774B', 'longFmt': '9,774,212,096'}",1912237714,smartfit
+MRFG3.SA,Marfrig Global Foods S.A.,EQUITY,BRL,brazil,"{'raw': 9478048768, 'fmt': '9.478B', 'longFmt': '9,478,048,768'}",1854295991,marfrig
+BEEF3.SA,Minerva S.A.,EQUITY,BRL,brazil,"{'raw': 9376144384, 'fmt': '9.376B', 'longFmt': '9,376,144,384'}",1834359304,"minerva,sa"
+SIMH3.SA,SIMPAR S.A.,EQUITY,BRL,brazil,"{'raw': 9105908736, 'fmt': '9.106B', 'longFmt': '9,105,908,736'}",1781490102,simpar
+INTB3.SA,Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira,EQUITY,BRL,brazil,"{'raw': 9058444288, 'fmt': '9.058B', 'longFmt': '9,058,444,288'}",1772204104,intelbras
+BRAP3.SA,Bradespar S.A.,EQUITY,BRL,brazil,"{'raw': 8955951104, 'fmt': '8.956B', 'longFmt': '8,955,951,104'}",1752152224,bradespar
+B2YN34.SA,"Beyond Meat, Inc.",EQUITY,BRL,brazil,"{'raw': 8641499136, 'fmt': '8.641B', 'longFmt': '8,641,499,136'}",1690632492,"beyond,meat"
+CBAV3.SA,Companhia Brasileira de Alumínio,EQUITY,BRL,brazil,"{'raw': 8359537152, 'fmt': '8.36B', 'longFmt': '8,359,537,152'}",1635469136,aluminio
+BPAN4.SA,Banco Pan S.A.,EQUITY,BRL,brazil,"{'raw': 9344016384, 'fmt': '9.344B', 'longFmt': '9,344,016,384'}",1828073747,"banco,pan"
+WHRL4.SA,Whirlpool S.A.,EQUITY,BRL,brazil,"{'raw': 8112192000, 'fmt': '8.112B', 'longFmt': '8,112,192,000'}",1587078256,"whirlpool,sa"
+A1SN34.SA,Ascendis Pharma A/S,EQUITY,BRL,brazil,"{'raw': 5045794304, 'fmt': '5.046B', 'longFmt': '5,045,794,304'}",987164803,ascendis
+BSLI3.SA,BRB - Banco de Brasília S.A.,EQUITY,BRL,brazil,"{'raw': 7908683776, 'fmt': '7.909B', 'longFmt': '7,908,683,776'}",1547263680,brb
+DXCO3.SA,Dexco S.A.,EQUITY,BRL,brazil,"{'raw': 7887467008, 'fmt': '7.887B', 'longFmt': '7,887,467,008'}",1543112808,dexco
+RRRP3.SA,3R Petroleum Óleo e Gás S.A.,EQUITY,BRL,brazil,"{'raw': 7459473920, 'fmt': '7.459B', 'longFmt': '7,459,473,920'}",1459379765,3r
+RECV3.SA,Petroreconcavo S.A.,EQUITY,BRL,brazil,"{'raw': 7425629184, 'fmt': '7.426B', 'longFmt': '7,425,629,184'}",1452758343,petroreconcavo
+V1IP34.SA,Vipshop Holdings Limited,EQUITY,BRL,brazil,"{'raw': 3715213312, 'fmt': '3.715B', 'longFmt': '3,715,213,312'}",726848460,vipshop
+CEEB3.SA,Companhia de Eletricidade do Estado da Bahia - COELBA,EQUITY,BRL,brazil,"{'raw': 6896513024, 'fmt': '6.897B', 'longFmt': '6,896,513,024'}",1349241470,eletricidade
+GRND3.SA,Grendene S.A.,EQUITY,BRL,brazil,"{'raw': 6789741056, 'fmt': '6.79B', 'longFmt': '6,789,741,056'}",1328352484,grendene
+A1TH34.SA,Autohome Inc.,EQUITY,BRL,brazil,"{'raw': 2167201536, 'fmt': '2.167B', 'longFmt': '2,167,201,536'}",423993716,autohome
+MEGA3.SA,Omega Energia S.A.,EQUITY,BRL,brazil,"{'raw': 6704168960, 'fmt': '6.704B', 'longFmt': '6,704,168,960'}",1311611064,"omega,energia"
+BNBR3.SA,Banco do Nordeste do Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 6305983488, 'fmt': '6.306B', 'longFmt': '6,305,983,488'}",1233709615,nordeste
+CASN3.SA,Companhia Catarinense de Águas e Saneamento - CASAN,EQUITY,BRL,brazil,"{'raw': 6024081920, 'fmt': '6.024B', 'longFmt': '6,024,081,920'}",1178558079,catarinense
+F1SL34.SA,"Fastly, Inc.",EQUITY,BRL,brazil,"{'raw': 6005702144, 'fmt': '6.006B', 'longFmt': '6,005,702,144'}",1174962240,"fastly,inc"
+AZUL4.SA,Azul S.A.,EQUITY,BRL,brazil,"{'raw': 6005271552, 'fmt': '6.005B', 'longFmt': '6,005,271,552'}",1174877998,"azul,sa"
+VIVA3.SA,Vivara Participações S.A.,EQUITY,BRL,brazil,"{'raw': 5962782720, 'fmt': '5.963B', 'longFmt': '5,962,782,720'}",1166565436,vivara
+LWSA3.SA,Locaweb Serviços de Internet S.A.,EQUITY,BRL,brazil,"{'raw': 5935882240, 'fmt': '5.936B', 'longFmt': '5,935,882,240'}",1161302596,locaweb
+EKTR4.SA,Elektro Redes S.A.,EQUITY,BRL,brazil,"{'raw': 5914565632, 'fmt': '5.915B', 'longFmt': '5,914,565,632'}",1157132191,elektro
+MOAR3.SA,Monteiro Aranha S.A.,EQUITY,BRL,brazil,"{'raw': 5831571456, 'fmt': '5.832B', 'longFmt': '5,831,571,456'}",1140895118,"monteiro,aranha"
+R2DF34.SA,Redfin Corporation,EQUITY,BRL,brazil,"{'raw': 5757792768, 'fmt': '5.758B', 'longFmt': '5,757,792,768'}",1126460974,"redfin,corporation"
+CYRE3.SA,Cyrela Brazil Realty S.A. Empreendimentos e Participações,EQUITY,BRL,brazil,"{'raw': 5755465728, 'fmt': '5.755B', 'longFmt': '5,755,465,728'}",1126005709,cyrela
+V2ME34.SA,"Vimeo, Inc.",EQUITY,BRL,brazil,"{'raw': 5706936832, 'fmt': '5.707B', 'longFmt': '5,706,936,832'}",1116511462,vimeo
+BLAU3.SA,Blau Farmacêutica S.A.,EQUITY,BRL,brazil,"{'raw': 5647086592, 'fmt': '5.647B', 'longFmt': '5,647,086,592'}",1104802295,farmaceutica
+ODPV3.SA,Odontoprev S.A.,EQUITY,BRL,brazil,"{'raw': 5645033984, 'fmt': '5.645B', 'longFmt': '5,645,033,984'}",1104400720,odontoprev
+ARML3.SA,"Armac Locação, Logística e Serviços S.A.",EQUITY,BRL,brazil,"{'raw': 5566736384, 'fmt': '5.567B', 'longFmt': '5,566,736,384'}",1089082491,armac
+MOVI3.SA,Movida Participações S.A.,EQUITY,BRL,brazil,"{'raw': 5379965440, 'fmt': '5.38B', 'longFmt': '5,379,965,440'}",1052542416,movida
+VIIA3.SA,Via S.A.,EQUITY,BRL,brazil,"{'raw': 5356675072, 'fmt': '5.357B', 'longFmt': '5,356,675,072'}",1047985862,"via,sa"
+PCAR3.SA,Companhia Brasileira de Distribuição,EQUITY,BRL,brazil,"{'raw': 5293867008, 'fmt': '5.294B', 'longFmt': '5,293,867,008'}",1035698023,distribuicao
+GPRO34.SA,"GoPro, Inc.",EQUITY,BRL,brazil,"{'raw': 5284122624, 'fmt': '5.284B', 'longFmt': '5,284,122,624'}",1033791621,gopro
+FLRY3.SA,Fleury S.A.,EQUITY,BRL,brazil,"{'raw': 5236192256, 'fmt': '5.236B', 'longFmt': '5,236,192,256'}",1024414470,"fleury,sa"
+TTEN3.SA,Três Tentos Agroindustrial S/A,EQUITY,BRL,brazil,"{'raw': 5225175040, 'fmt': '5.225B', 'longFmt': '5,225,175,040'}",1022259050,tentos
+SBFG3.SA,Grupo SBF S.A.,EQUITY,BRL,brazil,"{'raw': 5139875840, 'fmt': '5.14B', 'longFmt': '5,139,875,840'}",1005571020,sbf
+MRVE3.SA,MRV Engenharia e Participações S.A.,EQUITY,BRL,brazil,"{'raw': 4953117696, 'fmt': '4.953B', 'longFmt': '4,953,117,696'}",969033449,mrv
+ALSO3.SA,Aliansce Sonae Shopping Centers S.A.,EQUITY,BRL,brazil,"{'raw': 4922501632, 'fmt': '4.923B', 'longFmt': '4,922,501,632'}",963043688,aliansce
+AESB3.SA,AES Brasil Energia S.A.,EQUITY,BRL,brazil,"{'raw': 4847916544, 'fmt': '4.848B', 'longFmt': '4,847,916,544'}",948451778,"aes,brasil"
+COGN3.SA,Cogna Educação S.A.,EQUITY,BRL,brazil,"{'raw': 4816719872, 'fmt': '4.817B', 'longFmt': '4,816,719,872'}",942348427,cogna
+VVEO3.SA,CM Hospitalar S/A,EQUITY,BRL,brazil,"{'raw': 4734778368, 'fmt': '4.735B', 'longFmt': '4,734,778,368'}",926317300,hospitalar
+JHSF3.SA,JHSF Participações S.A.,EQUITY,BRL,brazil,"{'raw': 4506844672, 'fmt': '4.507B', 'longFmt': '4,506,844,672'}",881724099,jhsf
+FESA4.SA,Cia de Ferro Ligas da Bahia - FERBASA,EQUITY,BRL,brazil,"{'raw': 4480562688, 'fmt': '4.481B', 'longFmt': '4,480,562,688'}",876582262,ferbasa
+ENAT3.SA,Enauta Participações S.A.,EQUITY,BRL,brazil,"{'raw': 4346363904, 'fmt': '4.346B', 'longFmt': '4,346,363,904'}",850327463,enauta
+ECOR3.SA,EcoRodovias Infraestrutura e Logística S.A.,EQUITY,BRL,brazil,"{'raw': 4291981568, 'fmt': '4.292B', 'longFmt': '4,291,981,568'}",839688042,ecorodovias
+GETT4.SA,Getnet Adquirencia e Servicos para Meios de Pagamento S.A. - Instituicão de Pagamento,EQUITY,BRL,brazil,"{'raw': 4284292352, 'fmt': '4.284B', 'longFmt': '4,284,292,352'}",838183715,getnet
+GUAR3.SA,Guararapes Confecções S.A.,EQUITY,BRL,brazil,"{'raw': 4283110144, 'fmt': '4.283B', 'longFmt': '4,283,110,144'}",837952427,confeccoes
+ABCB4.SA,Banco ABC Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 4166561536, 'fmt': '4.167B', 'longFmt': '4,166,561,536'}",815150728,"banco,abc"
+EZTC3.SA,EZTEC Empreendimentos e Participações S.A.,EQUITY,BRL,brazil,"{'raw': 4059324928, 'fmt': '4.059B', 'longFmt': '4,059,324,928'}",794170839,eztec
+KNCR11.SA,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII,EQUITY,BRL,brazil,"{'raw': 4010971392, 'fmt': '4.011B', 'longFmt': '4,010,971,392'}",784710899,kinea
+PORT3.SA,Wilson Sons Holdings Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 3937722368, 'fmt': '3.938B', 'longFmt': '3,937,722,368'}",770380379,"wilson,sons"
+LOGN3.SA,Log-In Logística Intermodal S.A.,EQUITY,BRL,brazil,"{'raw': 3934544128, 'fmt': '3.935B', 'longFmt': '3,934,544,128'}",769758584,log-in
+BRPR3.SA,BR Properties S.A.,EQUITY,BRL,brazil,"{'raw': 3894999040, 'fmt': '3.895B', 'longFmt': '3,894,999,040'}",762021939,"br,properties"
+TUPY3.SA,Tupy S.A.,EQUITY,BRL,brazil,"{'raw': 3849605376, 'fmt': '3.85B', 'longFmt': '3,849,605,376'}",753141072,tupy
+MLAS3.SA,Multilaser Industrial S.A.,EQUITY,BRL,brazil,"{'raw': 3803187712, 'fmt': '3.803B', 'longFmt': '3,803,187,712'}",744059869,multilaser
+CAML3.SA,Camil Alimentos S.A.,EQUITY,BRL,brazil,"{'raw': 3678701312, 'fmt': '3.679B', 'longFmt': '3,678,701,312'}",719705211,camil
+YDUQ3.SA,Yduqs Participações S.A.,EQUITY,BRL,brazil,"{'raw': 3656419328, 'fmt': '3.656B', 'longFmt': '3,656,419,328'}",715345939,yduqs
+BOAS3.SA,Boa Vista Serviços S.A.,EQUITY,BRL,brazil,"{'raw': 3647228672, 'fmt': '3.647B', 'longFmt': '3,647,228,672'}",713547869,servicos
+HGLG11.SA,Cshg Logistica - Fundo De Investimento Imobiliario,EQUITY,BRL,brazil,"{'raw': 3593995520, 'fmt': '3.594B', 'longFmt': '3,593,995,520'}",703133276,cshg
+OIBR4.SA,Oi S.A.,EQUITY,BRL,brazil,"{'raw': 3587985664, 'fmt': '3.588B', 'longFmt': '3,587,985,664'}",701957501,"oi,sa"
+MATD3.SA,Hospital Mater Dei S.A.,EQUITY,BRL,brazil,"{'raw': 3563315456, 'fmt': '3.563B', 'longFmt': '3,563,315,456'}",697130994,"hospital,mater"
+VULC3.SA,Vulcabras S.A.,EQUITY,BRL,brazil,"{'raw': 3445499136, 'fmt': '3.445B', 'longFmt': '3,445,499,136'}",674081279,vulcabras
+FRAS3.SA,Fras-le S.A.,EQUITY,BRL,brazil,"{'raw': 3294977536, 'fmt': '3.295B', 'longFmt': '3,294,977,536'}",644633066,fras-le
+RAPT3.SA,Randon S.A. Implementos e Participações,EQUITY,BRL,brazil,"{'raw': 3240139520, 'fmt': '3.24B', 'longFmt': '3,240,139,520'}",633904495,implementos
+LEVE3.SA,MAHLE Metal Leve S.A.,EQUITY,BRL,brazil,"{'raw': 3165358336, 'fmt': '3.165B', 'longFmt': '3,165,358,336'}",619274221,mahle
+GPAR3.SA,Companhia CELG de Participações S/A,EQUITY,BRL,brazil,"{'raw': 3078156032, 'fmt': '3.078B', 'longFmt': '3,078,156,032'}",602213866,celg
+AMBP3.SA,Ambipar Participações e Empreendimentos S.A.,EQUITY,BRL,brazil,"{'raw': 3047013120, 'fmt': '3.047B', 'longFmt': '3,047,013,120'}",596121032,ambipar
+ONCO3.SA,Oncoclínicas do Brasil Serviços Médicos S.A.,EQUITY,BRL,brazil,"{'raw': 2972870400, 'fmt': '2.973B', 'longFmt': '2,972,870,400'}",581615668,oncoclinicas
+IGTI3.SA,Iguatemi S.A.,EQUITY,BRL,brazil,"{'raw': 2953893120, 'fmt': '2.954B', 'longFmt': '2,953,893,120'}",577902931,"iguatemi,sa"
+QUAL3.SA,Qualicorp Consultoria e Corretora de Seguros S.A.,EQUITY,BRL,brazil,"{'raw': 2897279744, 'fmt': '2.897B', 'longFmt': '2,897,279,744'}",566827028,qualicorp
+XPLG11.SA,Xp Log Fundo Investimento Imobiliario FII,EQUITY,BRL,brazil,"{'raw': 2888164096, 'fmt': '2.888B', 'longFmt': '2,888,164,096'}",565043632,fundo
+AGRO3.SA,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,EQUITY,BRL,brazil,"{'raw': 2760042752, 'fmt': '2.76B', 'longFmt': '2,760,042,752'}",539977830,brasilagro
+CEED3.SA,Companhia Estadual de Distribuição de Energia Elétrica,EQUITY,BRL,brazil,"{'raw': 2724647168, 'fmt': '2.725B', 'longFmt': '2,724,647,168'}",533052999,estadual
+LAND3.SA,Terra Santa Propriedades Agrícolas S.A.,EQUITY,BRL,brazil,"{'raw': 2609676288, 'fmt': '2.61B', 'longFmt': '2,609,676,288'}",510559968,propriedades
+CURY3.SA,Cury Construtora e Incorporadora S.A.,EQUITY,BRL,brazil,"{'raw': 2606057216, 'fmt': '2.606B', 'longFmt': '2,606,057,216'}",509851929,construtora
+PARD3.SA,Instituto Hermes Pardini S.A.,EQUITY,BRL,brazil,"{'raw': 2590052352, 'fmt': '2.59B', 'longFmt': '2,590,052,352'}",506720719,instituto
+IRBR3.SA,IRB-Brasil Resseguros S.A.,EQUITY,BRL,brazil,"{'raw': 2523132928, 'fmt': '2.523B', 'longFmt': '2,523,132,928'}",493628529,irb-brasil
+GEPA4.SA,Rio Paranapanema Energia S.A.,EQUITY,BRL,brazil,"{'raw': 2436403968, 'fmt': '2.436B', 'longFmt': '2,436,403,968'}",476660779,"rio,paranapanema"
+AURA33.SA,Aura Minerals Inc.,EQUITY,BRL,brazil,"{'raw': 2434107392, 'fmt': '2.434B', 'longFmt': '2,434,107,392'}",476211474,"aura,minerals"
+ORVR3.SA,Orizon Valorização de Resíduos S.A.,EQUITY,BRL,brazil,"{'raw': 2380235008, 'fmt': '2.38B', 'longFmt': '2,380,235,008'}",465671821,orizon
+LIGT3.SA,Light S.A.,EQUITY,BRL,brazil,"{'raw': 2321017600, 'fmt': '2.321B', 'longFmt': '2,321,017,600'}",454086462,"light,sa"
+MYPK3.SA,Iochpe-Maxion S.A.,EQUITY,BRL,brazil,"{'raw': 2308402688, 'fmt': '2.308B', 'longFmt': '2,308,402,688'}",451618466,iochpe-maxion
+POMO4.SA,Marcopolo S.A.,EQUITY,BRL,brazil,"{'raw': 2281002496, 'fmt': '2.281B', 'longFmt': '2,281,002,496'}",446257862,marcopolo
+BKBR3.SA,Zamp S.A.,EQUITY,BRL,brazil,"{'raw': 2270300160, 'fmt': '2.27B', 'longFmt': '2,270,300,160'}",444164045,zamp
+JALL3.SA,Jalles Machado S/A,EQUITY,BRL,brazil,"{'raw': 2280953856, 'fmt': '2.281B', 'longFmt': '2,280,953,856'}",446248346,jalles
+CVCB3.SA,CVC Brasil Operadora e Agência de Viagens S.A.,EQUITY,BRL,brazil,"{'raw': 2215139584, 'fmt': '2.215B', 'longFmt': '2,215,139,584'}",433372369,cvc
+MODL4.SA,Banco Modal S.A.,EQUITY,BRL,brazil,"{'raw': 2105626240, 'fmt': '2.106B', 'longFmt': '2,105,626,240'}",411947057,"banco,modal"
+TASA4.SA,Taurus Armas S.A.,EQUITY,BRL,brazil,"{'raw': 2183241728, 'fmt': '2.183B', 'longFmt': '2,183,241,728'}",427131837,armas
+DIRR3.SA,Direcional Engenharia S.A.,EQUITY,BRL,brazil,"{'raw': 1905420672, 'fmt': '1.905B', 'longFmt': '1,905,420,672'}",372778617,direcional
+IFCM3.SA,Infracommerce CXaaS S.A.,EQUITY,BRL,brazil,"{'raw': 1892816256, 'fmt': '1.893B', 'longFmt': '1,892,816,256'}",370312675,infracommerce
+AERI3.SA,Aeris Indústria e Comércio de Equipamentos para Geração de Energia S.A.,EQUITY,BRL,brazil,"{'raw': 1891128960, 'fmt': '1.891B', 'longFmt': '1,891,128,960'}",369982570,aeris
+KEPL3.SA,Kepler Weber S.A.,EQUITY,BRL,brazil,"{'raw': 1887067264, 'fmt': '1.887B', 'longFmt': '1,887,067,264'}",369187936,"kepler,weber"
+PNVL3.SA,Dimed S.A. Distribuidora de Medicamentos,EQUITY,BRL,brazil,"{'raw': 1874410880, 'fmt': '1.874B', 'longFmt': '1,874,410,880'}",366711827,dimed
+ANIM3.SA,Anima Holding S.A.,EQUITY,BRL,brazil,"{'raw': 1851518848, 'fmt': '1.852B', 'longFmt': '1,851,518,848'}",362233204,"anima,holding"
+RANI3.SA,Irani Papel e Embalagem S.A.,EQUITY,BRL,brazil,"{'raw': 1825520256, 'fmt': '1.826B', 'longFmt': '1,825,520,256'}",357146811,embalagem
+JSLG3.SA,JSL S.A.,EQUITY,BRL,brazil,"{'raw': 1803901312, 'fmt': '1.804B', 'longFmt': '1,803,901,312'}",352917256,jsl
+HBSA3.SA,Hidrovias do Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 1802107520, 'fmt': '1.802B', 'longFmt': '1,802,107,520'}",352566317,hidrovias
+BEES4.SA,Banestes S.A - Banco do Estado do Espírito Santo,EQUITY,BRL,brazil,"{'raw': 1721114880, 'fmt': '1.721B', 'longFmt': '1,721,114,880'}",336720827,banestes
+HFOF11.SA,Hedge Top Fofii 3 Fundo Investimento Imobilirio,EQUITY,BRL,brazil,"{'raw': 1724024960, 'fmt': '1.724B', 'longFmt': '1,724,024,960'}",337290158,fofii
+CSED3.SA,Cruzeiro do Sul Educacional S.A.,EQUITY,BRL,brazil,"{'raw': 1710562688, 'fmt': '1.711B', 'longFmt': '1,710,562,688'}",334656384,educacional
+JSRE11.SA,JS Real Estate multigestão - FII fund,EQUITY,BRL,brazil,"{'raw': 1703956992, 'fmt': '1.704B', 'longFmt': '1,703,956,992'}",333364039,multigestao
+TFCO4.SA,Track & Field Co S.A.,EQUITY,BRL,brazil,"{'raw': 1703740544, 'fmt': '1.704B', 'longFmt': '1,703,740,544'}",333321692,"track,&"
+SQIA3.SA,Sinqia S.A.,EQUITY,BRL,brazil,"{'raw': 1660391808, 'fmt': '1.66B', 'longFmt': '1,660,391,808'}",324840898,sinqia
+FIQE3.SA,Unifique Telecomunicações S.A.,EQUITY,BRL,brazil,"{'raw': 1641682432, 'fmt': '1.642B', 'longFmt': '1,641,682,432'}",321180575,unifique
+POSI3.SA,Positivo Tecnologia S.A.,EQUITY,BRL,brazil,"{'raw': 1606256000, 'fmt': '1.606B', 'longFmt': '1,606,256,000'}",314249708,positivo
+ELMD3.SA,Eletromidia S.A.,EQUITY,BRL,brazil,"{'raw': 1565684992, 'fmt': '1.566B', 'longFmt': '1,565,684,992'}",306312351,eletromidia
+BMGB4.SA,Banco BMG S.A.,EQUITY,BRL,brazil,"{'raw': 1550685568, 'fmt': '1.551B', 'longFmt': '1,550,685,568'}",303377847,"banco,bmg"
+SOJA3.SA,Boa Safra Sementes S.A.,EQUITY,BRL,brazil,"{'raw': 1519305856, 'fmt': '1.519B', 'longFmt': '1,519,305,856'}",297238685,safra
+VITT3.SA,Vittia Fertilizantes e Biológicos S.A.,EQUITY,BRL,brazil,"{'raw': 1508369536, 'fmt': '1.508B', 'longFmt': '1,508,369,536'}",295099091,vittia
+BAZA3.SA,Banco da Amazônia S.A.,EQUITY,BRL,brazil,"{'raw': 1495399936, 'fmt': '1.495B', 'longFmt': '1,495,399,936'}",292561704,"banco,da"
+BBPO11.SA,BB Progressivo II Fundo de Investimento Imobiliário - FII,EQUITY,BRL,brazil,"{'raw': 1417490048, 'fmt': '1.417B', 'longFmt': '1,417,490,048'}",277319327,progressivo
+BRIT3.SA,Brisanet Participações S.A.,EQUITY,BRL,brazil,"{'raw': 1408654848, 'fmt': '1.409B', 'longFmt': '1,408,654,848'}",275590799,brisanet
+WIZS3.SA,Wiz Soluções e Corretagem de Seguros S.A.,EQUITY,BRL,brazil,"{'raw': 1384794624, 'fmt': '1.385B', 'longFmt': '1,384,794,624'}",270922758,solucoes
+PATI3.SA,Panatlântica S.A.,EQUITY,BRL,brazil,"{'raw': 1371495808, 'fmt': '1.371B', 'longFmt': '1,371,495,808'}",268320963,panatlantica
+PTBL3.SA,PBG S.A.,EQUITY,BRL,brazil,"{'raw': 1366158208, 'fmt': '1.366B', 'longFmt': '1,366,158,208'}",267276709,pbg
+TRAD3.SA,TC Traders Club S.A.,EQUITY,BRL,brazil,"{'raw': 1306002816, 'fmt': '1.306B', 'longFmt': '1,306,002,816'}",255507841,"tc,traders"
+AGXY3.SA,AgroGalaxy Participações S.A.,EQUITY,BRL,brazil,"{'raw': 1286312192, 'fmt': '1.286B', 'longFmt': '1,286,312,192'}",251655546,agrogalaxy
+TELB3.SA,Telecomunicações Brasileiras S.A. - Telebras,EQUITY,BRL,brazil,"{'raw': 1234298240, 'fmt': '1.234B', 'longFmt': '1,234,298,240'}",241479479,telecomunicacoes
+BMOB3.SA,Bemobi Mobile Tech S.A.,EQUITY,BRL,brazil,"{'raw': 1232709632, 'fmt': '1.233B', 'longFmt': '1,232,709,632'}",241168682,bemobi
+BMEB4.SA,Banco Mercantil do Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 1124863872, 'fmt': '1.125B', 'longFmt': '1,124,863,872'}",220069617,mercantil
+TGMA3.SA,Tegma Gestão Logística S.A.,EQUITY,BRL,brazil,"{'raw': 1111051904, 'fmt': '1.111B', 'longFmt': '1,111,051,904'}",217367428,tegma
+SEQL3.SA,Sequoia Logística e Transportes S.A.,EQUITY,BRL,brazil,"{'raw': 1080078976, 'fmt': '1.08B', 'longFmt': '1,080,078,976'}",211307850,logistica
+LAVV3.SA,Lavvi Empreendimentos Imobiliários S.A.,EQUITY,BRL,brazil,"{'raw': 1065355008, 'fmt': '1.065B', 'longFmt': '1,065,355,008'}",208427237,lavvi
+CASH3.SA,Méliuz S.A.,EQUITY,BRL,brazil,"{'raw': 1060844480, 'fmt': '1.061B', 'longFmt': '1,060,844,480'}",207544792,meliuz
+CLSA3.SA,ClearSale S.A.,EQUITY,BRL,brazil,"{'raw': 1042989312, 'fmt': '1.043B', 'longFmt': '1,042,989,312'}",204051587,clearsale
+ROMI3.SA,Romi S.A.,EQUITY,BRL,brazil,"{'raw': 1026674688, 'fmt': '1.027B', 'longFmt': '1,026,674,688'}",200859776,romi
+VRTA11.SA,Fator Veritá Fundo de Investimento Imobiliário - FII,EQUITY,BRL,brazil,"{'raw': 1024618816, 'fmt': '1.025B', 'longFmt': '1,024,618,816'}",200457563,verita
+CEAB3.SA,C&A Modas S.A.,EQUITY,BRL,brazil,"{'raw': 1007825920, 'fmt': '1.008B', 'longFmt': '1,007,825,920'}",197172182,c&a
+SHUL4.SA,Schulz S.A.,EQUITY,BRL,brazil,"{'raw': 993967232, 'fmt': '993.967M', 'longFmt': '993,967,232'}",194460853,"schulz,sa"
+CRPG5.SA,Tronox Pigmentos do Brasil S.A.,EQUITY,BRL,brazil,"{'raw': 988443136, 'fmt': '988.443M', 'longFmt': '988,443,136'}",193380113,tronox
+DESK3.SA,Desktop S.A.,EQUITY,BRL,brazil,"{'raw': 984262208, 'fmt': '984.262M', 'longFmt': '984,262,208'}",192562151,"desktop,sa"
+ALLD3.SA,Allied Tecnologia S.A.,EQUITY,BRL,brazil,"{'raw': 952714560, 'fmt': '952.715M', 'longFmt': '952,714,560'}",186390135,tecnologia
+EUCA4.SA,Eucatex S.A. Indústria e Comércio,EQUITY,BRL,brazil,"{'raw': 919211072, 'fmt': '919.211M', 'longFmt': '919,211,072'}",179835475,eucatex
+SHPH11.SA,FDO INV Imob Shopping Patio Higienopolis,EQUITY,BRL,brazil,"{'raw': 910940864, 'fmt': '910.941M', 'longFmt': '910,940,864'}",178217482,fdo
+TRIS3.SA,Trisul S.A.,EQUITY,BRL,brazil,"{'raw': 901459264, 'fmt': '901.459M', 'longFmt': '901,459,264'}",176362491,"trisul,sa"
+MELK3.SA,Melnick Even Desenvolvimento Imobiliário S.A.,EQUITY,BRL,brazil,"{'raw': 891631424, 'fmt': '891.631M', 'longFmt': '891,631,424'}",174439762,desenvolvimento
+ABCP11.SA,FII ABC Plaza Shopping Fund,EQUITY,BRL,brazil,"{'raw': 889534976, 'fmt': '889.535M', 'longFmt': '889,534,976'}",174029611,fii
+EMAE4.SA,Empresa Metropolitana de Águas e Energia S.A.,EQUITY,BRL,brazil,"{'raw': 844962240, 'fmt': '844.962M', 'longFmt': '844,962,240'}",165309351,metropolitana
+LIPR3.SA,Eletrobras Participações S.A. - Eletropar,EQUITY,BRL,brazil,"{'raw': 823542976, 'fmt': '823.543M', 'longFmt': '823,542,976'}",161118862,eletrobras
+DMMO3.SA,Dommo Energia S.A.,EQUITY,BRL,brazil,"{'raw': 800205440, 'fmt': '800.205M', 'longFmt': '800,205,440'}",156553081,dommo
+ETER3.SA,Eternit S.A.,EQUITY,BRL,brazil,"{'raw': 798027072, 'fmt': '798.027M', 'longFmt': '798,027,072'}",156126903,eternit
+FHER3.SA,Fertilizantes Heringer S.A.,EQUITY,BRL,brazil,"{'raw': 770159424, 'fmt': '770.159M', 'longFmt': '770,159,424'}",150674845,fertilizantes
+SYNE3.SA,SYN prop e tech S.A.,EQUITY,BRL,brazil,"{'raw': 686897984, 'fmt': '686.898M', 'longFmt': '686,897,984'}",134385484,"syn,prop"
+DEXP3.SA,Dexxos Participações S.A.,EQUITY,BRL,brazil,"{'raw': 668853696, 'fmt': '668.854M', 'longFmt': '668,853,696'}",130855280,dexxos
+BIOM3.SA,Biomm S.A.,EQUITY,BRL,brazil,"{'raw': 663961408, 'fmt': '663.961M', 'longFmt': '663,961,408'}",129898147,biomm
+CGRA3.SA,Grazziotin S.A.,EQUITY,BRL,brazil,"{'raw': 652198208, 'fmt': '652.198M', 'longFmt': '652,198,208'}",127596782,grazziotin
+ESPA3.SA,MPM Corpóreos S.A.,EQUITY,BRL,brazil,"{'raw': 635013568, 'fmt': '635.014M', 'longFmt': '635,013,568'}",124234759,mpm
+APER3.SA,Alper Consultoria e Corretora de Seguros S.A.,EQUITY,BRL,brazil,"{'raw': 625617728, 'fmt': '625.618M', 'longFmt': '625,617,728'}",122396547,consultoria
+MEAL3.SA,International Meal Company Alimentação S.A.,EQUITY,BRL,brazil,"{'raw': 585158144, 'fmt': '585.158M', 'longFmt': '585,158,144'}",114480989,"international,meal"
+CARD3.SA,CSU Cardsystem S.A.,EQUITY,BRL,brazil,"{'raw': 578934464, 'fmt': '578.934M', 'longFmt': '578,934,464'}",113263381,cardsystem
+AFLT3.SA,Afluente Transmissão de Energia Elétrica S.A.,EQUITY,BRL,brazil,"{'raw': 575963328, 'fmt': '575.963M', 'longFmt': '575,963,328'}",112682105,afluente
+ALPK3.SA,"Allpark Empreendimentos, Participações e Serviços S.A.",EQUITY,BRL,brazil,"{'raw': 566087296, 'fmt': '566.087M', 'longFmt': '566,087,296'}",110749947,allpark
+MDNE3.SA,Moura Dubeux Engenharia S.A.,EQUITY,BRL,brazil,"{'raw': 565799808, 'fmt': '565.8M', 'longFmt': '565,799,808'}",110693703,dubeux
+CARE11.SA,Máxima Renda Corporativa Fundo de Investimento Imobiliário - FII,EQUITY,BRL,brazil,"{'raw': 563317632, 'fmt': '563.318M', 'longFmt': '563,317,632'}",110208087,renda
+HBRE3.SA,HBR Realty Empreendimentos Imobiliários S.A.,EQUITY,BRL,brazil,"{'raw': 557220608, 'fmt': '557.221M', 'longFmt': '557,220,608'}",109015258,hbr
+RNEW11.SA,Renova Energia S.A.,EQUITY,BRL,brazil,"{'raw': 533014272, 'fmt': '533.014M', 'longFmt': '533,014,272'}",104279504,renova
+BRIV4.SA,Banco Alfa de Investimento S.A.,EQUITY,BRL,brazil,"{'raw': 531528736, 'fmt': '531.529M', 'longFmt': '531,528,736'}",103988872,investimento
+RPAD5.SA,Alfa Holdings S.A.,EQUITY,BRL,brazil,"{'raw': 524788032, 'fmt': '524.788M', 'longFmt': '524,788,032'}",102670113,"alfa,holdings"
+PQDP11.SA,Parque Dom Pedro Shopping Center Fund,EQUITY,BRL,brazil,"{'raw': 512725536, 'fmt': '512.726M', 'longFmt': '512,725,536'}",100310193,parque
+A1EG34.SA,Aegon N.V.,EQUITY,BRL,brazil,"{'raw': 48336281600, 'fmt': '48.336B', 'longFmt': '48,336,281,600'}",9456563836,aegon
+DBAG34.SA,Deutsche Bank Aktiengesellschaft,EQUITY,BRL,brazil,"{'raw': 87332184064, 'fmt': '87.332B', 'longFmt': '87,332,184,064'}",17085765521,"deutsche,bank"
+K2CG34.SA,Kingsoft Cloud Holdings Limited,EQUITY,BRL,brazil,"{'raw': 3173637888, 'fmt': '3.174B', 'longFmt': '3,173,637,888'}",620894042,kingsoft
+S2EA34.SA,Sea Limited,EQUITY,BRL,brazil,"{'raw': 197616844800, 'fmt': '197.617B', 'longFmt': '197,616,844,800'}",38661979080,"sea,limited"

@@ -1,0 +1,22 @@
+{
+    "country_code": {
+        "us": "3a713ca0-76f8-46d6-bd2d-a158263b8dc8",
+        "china": "1664de32-6ea8-4743-ba0a-e9da84a734ad",
+        "japan": "6e7aa543-df68-429b-aa16-b48ffa18f893",
+        "germany": "",
+        "uk": "195db0fe-6251-4d24-9682-235663d98a12",
+        "india": "4224bb94-3d0e-425d-a2dc-36a70e0aeec4",
+        "france": "",
+        "italy": "eabf4300-bc97-4edf-8b1e-0d5f158e4d9e",
+        "canada": "",
+        "korea": "6723abaa-18b7-45e2-b06a-bae16cbda336",
+        "brazil": "5d50d461-5f14-405f-9be7-f03dd5e9b678",
+        "australia": "",
+        "spain": "e8f33b07-254f-4011-b839-474a51ad402d",
+        "mexico": "",
+        "indonesia": "",
+        "hongkong": "209df3c8-8daa-4186-8fd0-7e1528d49c98",
+        "east_asia": "",
+        "another_europe": ""
+    }
+}

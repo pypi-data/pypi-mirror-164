@@ -1,0 +1,1132 @@
+﻿symbol,longName,quoteType,currency,search_country,marketCap,Market_Cap,name
+0700.HK,Tencent Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3123630571520, 'fmt': '3.124T', 'longFmt': '3,123,630,571,520'}",398148547622,tencent
+9988.HK,Alibaba Group Holding Limited,EQUITY,HKD,hongkong,"{'raw': 2005774237696, 'fmt': '2.006T', 'longFmt': '2,005,774,237,696'}",255662787680,alibaba
+1398.HK,Industrial & Commercial Bank of China Ltd.,EQUITY,HKD,hongkong,"{'raw': 1681685741568, 'fmt': '1.682T', 'longFmt': '1,681,685,741,568'}",214353368694,icbc
+0939.HK,China Construction Bank Corporation,EQUITY,HKD,hongkong,"{'raw': 1223324598272, 'fmt': '1.223T', 'longFmt': '1,223,324,598,272'}",155929102664,"china,construction,bank"
+1288.HK,Agricultural Bank of China Limited,EQUITY,HKD,hongkong,"{'raw': 1123213246464, 'fmt': '1.123T', 'longFmt': '1,123,213,246,464'}",143168570197,"agricultural,bank"
+3690.HK,Meituan,EQUITY,HKD,hongkong,"{'raw': 1121430011904, 'fmt': '1.121T', 'longFmt': '1,121,430,011,904'}",142941273072,meituan
+0941.HK,China Mobile Limited,EQUITY,HKD,hongkong,"{'raw': 1117274505216, 'fmt': '1.117T', 'longFmt': '1,117,274,505,216'}",142411598094,"china,mobile"
+0857.HK,PetroChina Company Limited,EQUITY,HKD,hongkong,"{'raw': 1114195361792, 'fmt': '1.114T', 'longFmt': '1,114,195,361,792'}",142019120029,petrochina
+0005.HK,HSBC Holdings plc,EQUITY,HKD,hongkong,"{'raw': 995390914560, 'fmt': '995.391B', 'longFmt': '995,390,914,560'}",126875902215,hsbc
+3968.HK,"China Merchants Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 983228022784, 'fmt': '983.228B', 'longFmt': '983,228,022,784'}",125325578774,"china,merchants"
+3988.HK,Bank of China Limited,EQUITY,HKD,hongkong,"{'raw': 969894199296, 'fmt': '969.894B', 'longFmt': '969,894,199,296'}",123626004406,"bank,of,china"
+1299.HK,AIA Group Limited,EQUITY,HKD,hongkong,"{'raw': 925543759872, 'fmt': '925.544B', 'longFmt': '925,543,759,872'}",117972946965,aia
+2318.HK,"Ping An Insurance (Group) Company of China, Ltd.",EQUITY,HKD,hongkong,"{'raw': 889928613888, 'fmt': '889.929B', 'longFmt': '889,928,613,888'}",113433319656,"ping,an"
+1211.HK,BYD Company Limited,EQUITY,HKD,hongkong,"{'raw': 918164144128, 'fmt': '918.164B', 'longFmt': '918,164,144,128'}",117032316112,byd
+2628.HK,China Life Insurance Company Limited,EQUITY,HKD,hongkong,"{'raw': 777629401088, 'fmt': '777.629B', 'longFmt': '777,629,401,088'}",99119281087,"china,life"
+9618.HK,"JD.com, Inc.",EQUITY,HKD,hongkong,"{'raw': 764632825856, 'fmt': '764.633B', 'longFmt': '764,632,825,856'}",97462693525,jdcom
+1088.HK,China Shenhua Energy Company Limited,EQUITY,HKD,hongkong,"{'raw': 701302046720, 'fmt': '701.302B', 'longFmt': '701,302,046,720'}",89390337606,"shenhua,energy"
+0386.HK,China Petroleum & Chemical Corporation,EQUITY,HKD,hongkong,"{'raw': 559778168832, 'fmt': '559.778B', 'longFmt': '559,778,168,832'}",71351224099,"china,petroleum"
+9633.HK,"Nongfu Spring Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 522962239488, 'fmt': '522.962B', 'longFmt': '522,962,239,488'}",66658540869,nongfu
+0883.HK,CNOOC Limited,EQUITY,HKD,hongkong,"{'raw': 517343248384, 'fmt': '517.343B', 'longFmt': '517,343,248,384'}",65942325204,cnooc
+6288.HK,"Fast Retailing Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 500510523392, 'fmt': '500.511B', 'longFmt': '500,510,523,392'}",63796768982,"fast,retailing"
+9999.HK,"NetEase, Inc.",EQUITY,HKD,hongkong,"{'raw': 467311788032, 'fmt': '467.312B', 'longFmt': '467,311,788,032'}",59565145567,netease
+1658.HK,"Postal Savings Bank of China Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 467025526784, 'fmt': '467.026B', 'longFmt': '467,025,526,784'}",59528657737,"postal,savings"
+0388.HK,Hong Kong Exchanges and Clearing Limited,EQUITY,HKD,hongkong,"{'raw': 421710299136, 'fmt': '421.71B', 'longFmt': '421,710,299,136'}",53752625118,"hong,kong,exchanges"
+9888.HK,"Baidu, Inc.",EQUITY,HKD,hongkong,"{'raw': 394479894528, 'fmt': '394.48B', 'longFmt': '394,479,894,528'}",50281745384,baidu
+0728.HK,China Telecom Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 377608634368, 'fmt': '377.609B', 'longFmt': '377,608,634,368'}",48131277339,"china,telecom"
+3328.HK,"Bank of Communications Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 367912452096, 'fmt': '367.912B', 'longFmt': '367,912,452,096'}",46895369058,"bank,of,communications"
+2840.HK,SPDR Gold Shares,EQUITY,HKD,hongkong,"{'raw': 340264517632, 'fmt': '340.265B', 'longFmt': '340,264,517,632'}",43371269553,"spdr,gold"
+6030.HK,CITIC Securities Company Limited,EQUITY,HKD,hongkong,"{'raw': 322870378496, 'fmt': '322.87B', 'longFmt': '322,870,378,496'}",41154153580,citic
+1024.HK,Kuaishou Technology,EQUITY,HKD,hongkong,"{'raw': 316349120512, 'fmt': '316.349B', 'longFmt': '316,349,120,512'}",40322931918,kuaishou
+1876.HK,Budweiser Brewing Company APAC Limited,EQUITY,HKD,hongkong,"{'raw': 300616089600, 'fmt': '300.616B', 'longFmt': '300,616,089,600'}",38317546433,budweiser
+2359.HK,"WuXi AppTec Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 295043858432, 'fmt': '295.044B', 'longFmt': '295,043,858,432'}",37607290948,apptec
+2269.HK,WuXi Biologics (Cayman) Inc.,EQUITY,HKD,hongkong,"{'raw': 288530432000, 'fmt': '288.53B', 'longFmt': '288,530,432,000'}",36777067523,"wuxi,biologics"
+1810.HK,Xiaomi Corporation,EQUITY,HKD,hongkong,"{'raw': 284944990208, 'fmt': '284.945B', 'longFmt': '284,944,990,208'}",36320054950,xiaomi
+0945.HK,Manulife Financial Corporation,EQUITY,HKD,hongkong,"{'raw': 275620757504, 'fmt': '275.621B', 'longFmt': '275,620,757,504'}",35131556623,manulife
+2333.HK,Great Wall Motor Company Limited,EQUITY,HKD,hongkong,"{'raw': 272128081920, 'fmt': '272.128B', 'longFmt': '272,128,081,920'}",34686368347,"great,wall,motor"
+0016.HK,Sun Hung Kai Properties Limited,EQUITY,HKD,hongkong,"{'raw': 269948698624, 'fmt': '269.949B', 'longFmt': '269,948,698,624'}",34408576759,"sun,hung"
+2899.HK,Zijin Mining Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 265590063104, 'fmt': '265.59B', 'longFmt': '265,590,063,104'}",33853010292,zijin
+2020.HK,ANTA Sports Products Limited,EQUITY,HKD,hongkong,"{'raw': 263085441024, 'fmt': '263.085B', 'longFmt': '263,085,441,024'}",33533762666,anta
+6690.HK,"Haier Smart Home Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 254348541952, 'fmt': '254.349B', 'longFmt': '254,348,541,952'}",32420127876,haier
+9866.HK,NIO Inc.,EQUITY,HKD,hongkong,"{'raw': 250078347264, 'fmt': '250.078B', 'longFmt': '250,078,347,264'}",31875834377,nio
+0066.HK,MTR Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 249209454592, 'fmt': '249.209B', 'longFmt': '249,209,454,592'}",31765082370,"mtr,corporation"
+2378.HK,Prudential plc,EQUITY,HKD,hongkong,"{'raw': 246687383552, 'fmt': '246.687B', 'longFmt': '246,687,383,552'}",31443610641,"prudential,plc"
+1919.HK,"COSCO SHIPPING Holdings Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 238926954496, 'fmt': '238.927B', 'longFmt': '238,926,954,496'}",30454440031,cosco
+1171.HK,Yankuang Energy Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 235981783040, 'fmt': '235.982B', 'longFmt': '235,981,783,040'}",30079038487,yankuang
+1109.HK,China Resources Land Limited,EQUITY,HKD,hongkong,"{'raw': 228546625536, 'fmt': '228.547B', 'longFmt': '228,546,625,536'}",29131328093,"china,resources"
+0688.HK,China Overseas Land & Investment Limited,EQUITY,HKD,hongkong,"{'raw': 226557362176, 'fmt': '226.557B', 'longFmt': '226,557,362,176'}",28877769838,"china,overseas,land"
+2015.HK,Li Auto Inc.,EQUITY,HKD,hongkong,"{'raw': 223606439936, 'fmt': '223.606B', 'longFmt': '223,606,439,936'}",28501635280,"li,auto"
+2202.HK,"China Vanke Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 217667043328, 'fmt': '217.667B', 'longFmt': '217,667,043,328'}",27744579642,vanke
+1339.HK,The People's Insurance Company (Group) of China Limited,EQUITY,HKD,hongkong,"{'raw': 211543490560, 'fmt': '211.543B', 'longFmt': '211,543,490,560'}",26964050836,"people's,insurance"
+2601.HK,"China Pacific Insurance (Group) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 206112964608, 'fmt': '206.113B', 'longFmt': '206,112,964,608'}",26271857579,"china,pacific,insurance"
+1772.HK,"Ganfeng Lithium Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 193433796608, 'fmt': '193.434B', 'longFmt': '193,433,796,608'}",24655727819,ganfeng
+0001.HK,CK Hutchison Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 196325392384, 'fmt': '196.325B', 'longFmt': '196,325,392,384'}",25024300425,"ck,hutchison"
+1113.HK,CK Asset Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 194384986112, 'fmt': '194.385B', 'longFmt': '194,384,986,112'}",24776969660,"ck,asset"
+0027.HK,Galaxy Entertainment Group Limited,EQUITY,HKD,hongkong,"{'raw': 192180011008, 'fmt': '192.18B', 'longFmt': '192,180,011,008'}",24495916054,"galaxy,entertainment"
+2888.HK,Standard Chartered PLC,EQUITY,HKD,hongkong,"{'raw': 163569451008, 'fmt': '163.569B', 'longFmt': '163,569,451,008'}",20849117033,"standard,chartered"
+0914.HK,Anhui Conch Cement Company Limited,EQUITY,HKD,hongkong,"{'raw': 185522896896, 'fmt': '185.523B', 'longFmt': '185,522,896,896'}",23647377709,"anhui,conch"
+2331.HK,Li Ning Company Limited,EQUITY,HKD,hongkong,"{'raw': 182748971008, 'fmt': '182.749B', 'longFmt': '182,748,971,008'}",23293803707,"li,ning"
+0981.HK,Semiconductor Manufacturing International Corporation,EQUITY,HKD,hongkong,"{'raw': 183198990336, 'fmt': '183.199B', 'longFmt': '183,198,990,336'}",23351164697,smic
+2423.HK,KE Holdings Inc.,EQUITY,HKD,hongkong,"{'raw': 180936605696, 'fmt': '180.937B', 'longFmt': '180,936,605,696'}",23062793477,"ke,holdings"
+6618.HK,JD Health International Inc.,EQUITY,HKD,hongkong,"{'raw': 180850966528, 'fmt': '180.851B', 'longFmt': '180,850,966,528'}",23051877618,"jd,health"
+0669.HK,Techtronic Industries Company Limited,EQUITY,HKD,hongkong,"{'raw': 180165574656, 'fmt': '180.166B', 'longFmt': '180,165,574,656'}",22964515245,techtronic
+0916.HK,China Longyuan Power Group Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 174896250880, 'fmt': '174.896B', 'longFmt': '174,896,250,880'}",22292869364,"china,longyuan"
+0788.HK,China Tower Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 176008003584, 'fmt': '176.008B', 'longFmt': '176,008,003,584'}",22434577134,"china,tower"
+2328.HK,PICC Property and Casualty Company Limited,EQUITY,HKD,hongkong,"{'raw': 172826558464, 'fmt': '172.827B', 'longFmt': '172,826,558,464'}",22029059348,picc
+0002.HK,CLP Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 171293310976, 'fmt': '171.293B', 'longFmt': '171,293,310,976'}",21833626423,clp
+3908.HK,China International Capital Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 170920460288, 'fmt': '170.92B', 'longFmt': '170,920,460,288'}",21786101609,cicc
+1988.HK,"China Minsheng Banking Corp., Ltd.",EQUITY,HKD,hongkong,"{'raw': 168798568448, 'fmt': '168.799B', 'longFmt': '168,798,568,448'}",21515638078,"china,minsheng"
+6818.HK,China Everbright Bank Company Limited,EQUITY,HKD,hongkong,"{'raw': 167091585024, 'fmt': '167.092B', 'longFmt': '167,091,585,024'}",21298060181,everbright
+9987.HK,"Yum China Holdings, Inc.",EQUITY,HKD,hongkong,"{'raw': 161954791424, 'fmt': '161.955B', 'longFmt': '161,954,791,424'}",20643307045,"yum,china"
+1929.HK,Chow Tai Fook Jewellery Group Limited,EQUITY,HKD,hongkong,"{'raw': 160000000000, 'fmt': '160B', 'longFmt': '160,000,000,000'}",20394142700,fook
+0175.HK,Geely Automobile Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 158900600832, 'fmt': '158.901B', 'longFmt': '158,900,600,832'}",20254009553,geely
+2057.HK,ZTO Express (Cayman) Inc.,EQUITY,HKD,hongkong,"{'raw': 158707662848, 'fmt': '158.708B', 'longFmt': '158,707,662,848'}",20229417023,zto
+0960.HK,Longfor Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 157972430848, 'fmt': '157.972B', 'longFmt': '157,972,430,848'}",20135701859,longfor
+0390.HK,China Railway Group Limited,EQUITY,HKD,hongkong,"{'raw': 151473537024, 'fmt': '151.474B', 'longFmt': '151,473,537,024'}",19307330808,"china,railway"
+1816.HK,"CGN Power Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 148659421184, 'fmt': '148.659B', 'longFmt': '148,659,421,184'}",18948634058,"cgn,power"
+1766.HK,CRRC Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 149580218368, 'fmt': '149.58B', 'longFmt': '149,580,218,368'}",19066001991,crrc
+0003.HK,The Hong Kong and China Gas Company Limited,EQUITY,HKD,hongkong,"{'raw': 146666815488, 'fmt': '146.667B', 'longFmt': '146,666,815,488'}",18694649778,towngas
+0753.HK,Air China Limited,EQUITY,HKD,hongkong,"{'raw': 146570133504, 'fmt': '146.57B', 'longFmt': '146,570,133,504'}",18682326364,"air,china"
+0316.HK,Orient Overseas (International) Limited,EQUITY,HKD,hongkong,"{'raw': 145282056192, 'fmt': '145.282B', 'longFmt': '145,282,056,192'}",18518143661,"orient,overseas"
+6160.HK,"BeiGene, Ltd.",EQUITY,HKD,hongkong,"{'raw': 144816373760, 'fmt': '144.816B', 'longFmt': '144,816,373,760'}",18458786199,beigene
+2238.HK,"Guangzhou Automobile Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 143810428928, 'fmt': '143.81B', 'longFmt': '143,810,428,928'}",18330565058,"guangzhou,automobile"
+9961.HK,Trip.com Group Limited,EQUITY,HKD,hongkong,"{'raw': 142084325376, 'fmt': '142.084B', 'longFmt': '142,084,325,376'}",18110550045,tripcom
+2611.HK,"Guotai Junan Securities Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 140519784448, 'fmt': '140.52B', 'longFmt': '140,519,784,448'}",17911128351,guotai
+1898.HK,China Coal Energy Company Limited,EQUITY,HKD,hongkong,"{'raw': 140231147520, 'fmt': '140.231B', 'longFmt': '140,231,147,520'}",17874337709,"china,coal,energy"
+2319.HK,China Mengniu Dairy Company Limited,EQUITY,HKD,hongkong,"{'raw': 139003133952, 'fmt': '139.003B', 'longFmt': '139,003,133,952'}",17717810935,mengniu
+1928.HK,Sands China Ltd.,EQUITY,HKD,hongkong,"{'raw': 136451186688, 'fmt': '136.451B', 'longFmt': '136,451,186,688'}",17392531081,"sands,china"
+9696.HK,Tianqi Lithium Corporation,EQUITY,HKD,hongkong,"{'raw': 134990340096, 'fmt': '134.99B', 'longFmt': '134,990,340,096'}",17206326619,"tianqi,lithium"
+1776.HK,"GF Securities Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 132084113408, 'fmt': '132.084B', 'longFmt': '132,084,113,408'}",16835889108,"gf,securities"
+6886.HK,"Huatai Securities Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 131080904704, 'fmt': '131.081B', 'longFmt': '131,080,904,704'}",16708016724,huatai
+0168.HK,Tsingtao Brewery Company Limited,EQUITY,HKD,hongkong,"{'raw': 129809039360, 'fmt': '129.809B', 'longFmt': '129,809,039,360'}",16545900453,tsingtao
+0486.HK,"United Company RUSAL, International Public Joint-Stock Company",EQUITY,HKD,hongkong,"{'raw': 129850032128, 'fmt': '129.85B', 'longFmt': '129,850,032,128'}",16551125530,rusal
+2313.HK,Shenzhou International Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 129427234816, 'fmt': '129.427B', 'longFmt': '129,427,234,816'}",16497234351,"shenzhou,international"
+0823.HK,Link Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 129001644032, 'fmt': '129.002B', 'longFmt': '129,001,644,032'}",16442987106,"link,real"
+2688.HK,ENN Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 128044867584, 'fmt': '128.045B', 'longFmt': '128,044,867,584'}",16321033134,enn
+9868.HK,XPeng Inc.,EQUITY,HKD,hongkong,"{'raw': 128045293568, 'fmt': '128.045B', 'longFmt': '128,045,293,568'}",16321087432,xpeng
+0012.HK,Henderson Land Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 127076245504, 'fmt': '127.076B', 'longFmt': '127,076,245,504'}",16197569279,"henderson,land"
+3993.HK,"China Molybdenum Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 124623028224, 'fmt': '124.623B', 'longFmt': '124,623,028,224'}",15884873883,"china,molybdenum"
+1800.HK,China Communications Construction Company Limited,EQUITY,HKD,hongkong,"{'raw': 124193832960, 'fmt': '124.194B', 'longFmt': '124,193,832,960'}",15830167199,"china,communications"
+6837.HK,"Haitong Securities Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 123686117376, 'fmt': '123.686B', 'longFmt': '123,686,117,376'}",15765452049,haitong
+0763.HK,ZTE Corporation,EQUITY,HKD,hongkong,"{'raw': 123225669632, 'fmt': '123.226B', 'longFmt': '123,225,669,632'}",15706761817,zte
+0902.HK,"Huaneng Power International, Inc.",EQUITY,HKD,hongkong,"{'raw': 122623016960, 'fmt': '122.623B', 'longFmt': '122,623,016,960'}",15629945664,huaneng
+1038.HK,CK Infrastructure Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 121823141888, 'fmt': '121.823B', 'longFmt': '121,823,141,888'}",15527990874,"ck,infrastructure"
+2382.HK,Sunny Optical Technology (Group) Company Limited,EQUITY,HKD,hongkong,"{'raw': 120324448256, 'fmt': '120.324B', 'longFmt': '120,324,448,256'}",15336962300,"sunny,optical"
+0762.HK,China Unicom (Hong Kong) Limited,EQUITY,HKD,hongkong,"{'raw': 119026614272, 'fmt': '119.027B', 'longFmt': '119,026,614,272'}",15171535978,unicom
+1055.HK,China Southern Airlines Company Limited,EQUITY,HKD,hongkong,"{'raw': 113162199040, 'fmt': '113.162B', 'longFmt': '113,162,199,040'}",14424037722,"china,southern,airlines"
+3606.HK,"Fuyao Glass Industry Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 111970050048, 'fmt': '111.97B', 'longFmt': '111,970,050,048'}",14272082367,fuyao
+2196.HK,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 111422898176, 'fmt': '111.423B', 'longFmt': '111,422,898,176'}",14202340534,"fosun,pharma"
+1997.HK,Wharf Real Estate Investment Company Limited,EQUITY,HKD,hongkong,"{'raw': 110662205440, 'fmt': '110.662B', 'longFmt': '110,662,205,440'}",14105380058,"wharf,real"
+6806.HK,"Shenwan Hongyuan Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 110491500544, 'fmt': '110.492B', 'longFmt': '110,491,500,544'}",14083621433,shenwan
+2338.HK,"Weichai Power Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 109061554176, 'fmt': '109.062B', 'longFmt': '109,061,554,176'}",13901355618,weichai
+1913.HK,Prada S.p.A.,EQUITY,HKD,hongkong,"{'raw': 108366028800, 'fmt': '108.366B', 'longFmt': '108,366,028,800'}",13812701595,prada
+1972.HK,Swire Properties Limited,EQUITY,HKD,hongkong,"{'raw': 105884999680, 'fmt': '105.885B', 'longFmt': '105,884,999,680'}",13496461208,"swire,properties"
+2618.HK,"JD Logistics, Inc.",EQUITY,HKD,hongkong,"{'raw': 105294184448, 'fmt': '105.294B', 'longFmt': '105,294,184,448'}",13421153894,"jd,logistics"
+0006.HK,Power Assets Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 102444482560, 'fmt': '102.444B', 'longFmt': '102,444,482,560'}",13057921226,"power,assets"
+1179.HK,H World Group Limited,EQUITY,HKD,hongkong,"{'raw': 100407533568, 'fmt': '100.408B', 'longFmt': '100,407,533,568'}",12798284798,"h,world"
+3692.HK,Hansoh Pharmaceutical Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 98547900416, 'fmt': '98.548B', 'longFmt': '98,547,900,416'}",12561249649,hansoh
+0881.HK,Zhongsheng Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 97447624704, 'fmt': '97.448B', 'longFmt': '97,447,624,704'}",12421004775,zhongsheng
+0968.HK,Xinyi Solar Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 96921223168, 'fmt': '96.921B', 'longFmt': '96,921,223,168'}",12353907850,"xinyi,solar"
+6862.HK,Haidilao International Holding Ltd.,EQUITY,HKD,hongkong,"{'raw': 96318726144, 'fmt': '96.319B', 'longFmt': '96,318,726,144'}",12277111535,haidilao
+3996.HK,China Energy Engineering Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 95175630848, 'fmt': '95.176B', 'longFmt': '95,175,630,848'}",12131408732,"china,energy,engineering"
+3347.HK,"Hangzhou Tigermed Consulting Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 94828797952, 'fmt': '94.829B', 'longFmt': '94,828,797,952'}",12087200234,tigermed
+1093.HK,CSPC Pharmaceutical Group Limited,EQUITY,HKD,hongkong,"{'raw': 94272282624, 'fmt': '94.272B', 'longFmt': '94,272,282,624'}",12016264903,cspc
+6969.HK,Smoore International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 93764395008, 'fmt': '93.764B', 'longFmt': '93,764,395,008'}",11951527825,smoore
+0670.HK,China Eastern Airlines Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 90682318848, 'fmt': '90.682B', 'longFmt': '90,682,318,848'}",11558675943,"china,eastern,airlines"
+0083.HK,Sino Land Company Limited,EQUITY,HKD,hongkong,"{'raw': 89685016576, 'fmt': '89.685B', 'longFmt': '89,685,016,576'}",11431556413,"sino,land"
+6865.HK,"Flat Glass Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 89586466816, 'fmt': '89.586B', 'longFmt': '89,586,466,816'}",11418994926,"flat,glass,group"
+3759.HK,"Pharmaron Beijing Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 88395538432, 'fmt': '88.396B', 'longFmt': '88,395,538,432'}",11267195155,pharmaron
+1821.HK,ESR Group Limited,EQUITY,HKD,hongkong,"{'raw': 88445149184, 'fmt': '88.445B', 'longFmt': '88,445,149,184'}",11273518710,"esr,group"
+1787.HK,"Shandong Gold Mining Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 87543668736, 'fmt': '87.544B', 'longFmt': '87,543,668,736'}",11158612954,"shandong,gold"
+1336.HK,New China Life Insurance Company Ltd.,EQUITY,HKD,hongkong,"{'raw': 86820036608, 'fmt': '86.82B', 'longFmt': '86,820,036,608'}",11066376349,"new,china,life"
+0004.HK,Wharf (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 84804829184, 'fmt': '84.805B', 'longFmt': '84,804,829,184'}",10809511175,"wharf,holdings"
+2600.HK,Aluminum Corporation of China Limited,EQUITY,HKD,hongkong,"{'raw': 84623990784, 'fmt': '84.624B', 'longFmt': '84,623,990,784'}",10786460899,"aluminum,corporation"
+6881.HK,"China Galaxy Securities Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 81900666880, 'fmt': '81.901B', 'longFmt': '81,900,666,880'}",10439336797,"china,galaxy"
+0992.HK,Lenovo Group Limited,EQUITY,HKD,hongkong,"{'raw': 82107236352, 'fmt': '82.107B', 'longFmt': '82,107,236,352'}",10465666843,lenovo
+3800.HK,GCL Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 81309302784, 'fmt': '81.309B', 'longFmt': '81,309,302,784'}",10363959524,"gcl,technology"
+2016.HK,"China Zheshang Bank Co., Ltd",EQUITY,HKD,hongkong,"{'raw': 80702636032, 'fmt': '80.703B', 'longFmt': '80,702,636,032'}",10286631722,zheshang
+3958.HK,Orient Securities Company Limited,EQUITY,HKD,hongkong,"{'raw': 79997247488, 'fmt': '79.997B', 'longFmt': '79,997,247,488'}",10196720505,"orient,securities"
+6823.HK,HKT Trust and HKT Limited,EQUITY,HKD,hongkong,"{'raw': 79696789504, 'fmt': '79.697B', 'longFmt': '79,696,789,504'}",10158423112,hkt
+1177.HK,Sino Biopharmaceutical Limited,EQUITY,HKD,hongkong,"{'raw': 78835687424, 'fmt': '78.836B', 'longFmt': '78,835,687,424'}",10048664120,"sino,biopharmaceutical"
+0020.HK,SenseTime Group Inc.,EQUITY,HKD,hongkong,"{'raw': 78391640064, 'fmt': '78.392B', 'longFmt': '78,391,640,064'}",9992064337,sensetime
+9626.HK,Bilibili Inc.,EQUITY,HKD,hongkong,"{'raw': 78081933312, 'fmt': '78.082B', 'longFmt': '78,081,933,312'}",9952588064,bilibili
+0087.HK,Swire Pacific Limited,EQUITY,HKD,hongkong,"{'raw': 77862166528, 'fmt': '77.862B', 'longFmt': '77,862,166,528'}",9924575844,"swire,pacific"
+1378.HK,China Hongqiao Group Limited,EQUITY,HKD,hongkong,"{'raw': 77713899520, 'fmt': '77.714B', 'longFmt': '77,713,899,520'}",9905677228,hongqiao
+0322.HK,Tingyi (Cayman Islands) Holding Corp.,EQUITY,HKD,hongkong,"{'raw': 76355952640, 'fmt': '76.356B', 'longFmt': '76,355,952,640'}",9732588713,tingyi
+1209.HK,China Resources Mixc Lifestyle Services Limited,EQUITY,HKD,hongkong,"{'raw': 73154125824, 'fmt': '73.154B', 'longFmt': '73,154,125,824'}",9324473007,mixc
+1618.HK,Metallurgical Corporation of China Ltd.,EQUITY,HKD,hongkong,"{'raw': 70589300736, 'fmt': '70.589B', 'longFmt': '70,589,300,736'}",8997551702,"metallurgical,corporation"
+0288.HK,WH Group Limited,EQUITY,HKD,hongkong,"{'raw': 69667979264, 'fmt': '69.668B', 'longFmt': '69,667,979,264'}",8880116942,"wh,group"
+2727.HK,Shanghai Electric Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 69650399232, 'fmt': '69.65B', 'longFmt': '69,650,399,232'}",8877876131,"shanghai,electric"
+6821.HK,"Asymchem Laboratories (Tianjin) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 69469274112, 'fmt': '69.469B', 'longFmt': '69,469,274,112'}",8854789309,asymchem
+0151.HK,Want Want China Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 66637197312, 'fmt': '66.637B', 'longFmt': '66,637,197,312'}",8493803194,"want,want"
+2883.HK,China Oilfield Services Limited,EQUITY,HKD,hongkong,"{'raw': 66723688448, 'fmt': '66.724B', 'longFmt': '66,723,688,448'}",8504827648,"china,oilfield"
+2800.HK,Tracker Fund of Hong Kong,EQUITY,HKD,hongkong,"{'raw': 64697794560, 'fmt': '64.698B', 'longFmt': '64,697,794,560'}",8246600341,"tracker,fund"
+0017.HK,New World Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 64677392384, 'fmt': '64.677B', 'longFmt': '64,677,392,384'}",8243999811,"new,world,development"
+3323.HK,China National Building Material Company Limited,EQUITY,HKD,hongkong,"{'raw': 63935553536, 'fmt': '63.936B', 'longFmt': '63,935,553,536'}",8149442515,"china,national"
+2607.HK,"Shanghai Pharmaceuticals Holding Co., Ltd",EQUITY,HKD,hongkong,"{'raw': 63364886528, 'fmt': '63.365B', 'longFmt': '63,364,886,528'}",8076703362,"shanghai,pharmaceuticals"
+2208.HK,"Xinjiang Goldwind Science & Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 62371192832, 'fmt': '62.371B', 'longFmt': '62,371,192,832'}",7950043793,goldwind
+2007.HK,Country Garden Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 61962788864, 'fmt': '61.963B', 'longFmt': '61,962,788,864'}",7897987238,"country,garden"
+1072.HK,Dongfang Electric Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 62132191232, 'fmt': '62.132B', 'longFmt': '62,132,191,232'}",7919579839,dongfang
+1308.HK,SITC International Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 61426503680, 'fmt': '61.427B', 'longFmt': '61,426,503,680'}",7829630510,sitc
+0868.HK,Xinyi Glass Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 61325668352, 'fmt': '61.326B', 'longFmt': '61,325,668,352'}",7816777697,"xinyi,glass"
+1071.HK,Huadian Power International Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 59331887104, 'fmt': '59.332B', 'longFmt': '59,331,887,104'}",7562643576,"huadian,power"
+0384.HK,China Gas Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 58973286400, 'fmt': '58.973B', 'longFmt': '58,973,286,400'}",7516935114,"china,gas"
+0135.HK,Kunlun Energy Company Limited,EQUITY,HKD,hongkong,"{'raw': 58101891072, 'fmt': '58.102B', 'longFmt': '58,101,891,072'}",7405864110,"kunlun,energy"
+2638.HK,HK Electric Investments and HK Electric Investments Limited,EQUITY,HKD,hongkong,"{'raw': 57877114880, 'fmt': '57.877B', 'longFmt': '57,877,114,880'}",7377213374,"hk,electric"
+0101.HK,Hang Lung Properties Limited,EQUITY,HKD,hongkong,"{'raw': 57677176832, 'fmt': '57.677B', 'longFmt': '57,677,176,832'}",7351728593,"hang,lung"
+6186.HK,China Feihe Limited,EQUITY,HKD,hongkong,"{'raw': 57090940928, 'fmt': '57.091B', 'longFmt': '57,090,940,928'}",7277004976,feihe
+6066.HK,"CSC Financial Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 57011744768, 'fmt': '57.012B', 'longFmt': '57,011,744,768'}",7266910365,"csc,financial"
+0991.HK,"Datang International Power Generation Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 55728001024, 'fmt': '55.728B', 'longFmt': '55,728,001,024'}",7103280033,"datang,international"
+1385.HK,Shanghai Fudan Microelectronics Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 55406108672, 'fmt': '55.406B', 'longFmt': '55,406,108,672'}",7062250542,fudan
+0358.HK,Jiangxi Copper Company Limited,EQUITY,HKD,hongkong,"{'raw': 55022010368, 'fmt': '55.022B', 'longFmt': '55,022,010,368'}",7013292069,"jiangxi,copper"
+1099.HK,Sinopharm Group Co. Ltd.,EQUITY,HKD,hongkong,"{'raw': 54299484160, 'fmt': '54.299B', 'longFmt': '54,299,484,160'}",6921196428,sinopharm
+0293.HK,Cathay Pacific Airways Limited,EQUITY,HKD,hongkong,"{'raw': 54523084800, 'fmt': '54.523B', 'longFmt': '54,523,084,800'}",6949697324,"cathay,pacific"
+1548.HK,Genscript Biotech Corporation,EQUITY,HKD,hongkong,"{'raw': 54379364352, 'fmt': '54.379B', 'longFmt': '54,379,364,352'}",6931378228,genscript
+1157.HK,"Zoomlion Heavy Industry Science and Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 54249926656, 'fmt': '54.25B', 'longFmt': '54,249,926,656'}",6914879660,zoomlion
+2066.HK,"Shengjing Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 52780081152, 'fmt': '52.78B', 'longFmt': '52,780,081,152'}",6727528167,shengjing
+0268.HK,Kingdee International Software Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 52454834176, 'fmt': '52.455B', 'longFmt': '52,454,834,176'}",6686071084,kingdee
+1877.HK,"Shanghai Junshi Biosciences Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 50385682432, 'fmt': '50.386B', 'longFmt': '50,385,682,432'}",6422329984,junshi
+9889.HK,"Dongguan Rural Commercial Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 50424184832, 'fmt': '50.424B', 'longFmt': '50,424,184,832'}",6427237631,"dongguan,rural"
+2380.HK,China Power International Development Limited,EQUITY,HKD,hongkong,"{'raw': 48966967296, 'fmt': '48.967B', 'longFmt': '48,966,967,296'}",6241495741,"china,power"
+1801.HK,"Innovent Biologics, Inc.",EQUITY,HKD,hongkong,"{'raw': 48980684800, 'fmt': '48.981B', 'longFmt': '48,980,684,800'}",6243244221,innovent
+1585.HK,Yadea Group Holdings Ltd.,EQUITY,HKD,hongkong,"{'raw': 48469315584, 'fmt': '48.469B', 'longFmt': '48,469,315,584'}",6178063366,yadea
+3799.HK,Dali Foods Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 48340172800, 'fmt': '48.34B', 'longFmt': '48,340,172,800'}",6161602389,"dali,foods"
+0874.HK,Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 47809519616, 'fmt': '47.81B', 'longFmt': '47,809,519,616'}",6093963534,baiyunshan
+3998.HK,Bosideng International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 47788658688, 'fmt': '47.789B', 'longFmt': '47,788,658,688'}",6091304529,bosideng
+0270.HK,Guangdong Investment Limited,EQUITY,HKD,hongkong,"{'raw': 47399194624, 'fmt': '47.399B', 'longFmt': '47,399,194,624'}",6041662119,"guangdong,investment"
+3948.HK,"Inner Mongolia Yitai Coal Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 47141322752, 'fmt': '47.141B', 'longFmt': '47,141,322,752'}",6008792895,yitai
+3311.HK,China State Construction International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 46849867776, 'fmt': '46.85B', 'longFmt': '46,849,867,776'}",5971643055,"china,state,construction"
+2588.HK,BOC Aviation Limited,EQUITY,HKD,hongkong,"{'raw': 45180047360, 'fmt': '45.18B', 'longFmt': '45,180,047,360'}",5758802081,"boc,aviation"
+6127.HK,"Joinn Laboratories(China)Co.,Ltd.",EQUITY,HKD,hongkong,"{'raw': 44279926784, 'fmt': '44.28B', 'longFmt': '44,279,926,784'}",5644069660,joinn
+1044.HK,Hengan International Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 43870027776, 'fmt': '43.87B', 'longFmt': '43,870,027,776'}",5591822542,hengan
+0489.HK,Dongfeng Motor Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 43683733504, 'fmt': '43.684B', 'longFmt': '43,683,733,504'}",5568076842,"dongfeng,motor"
+1066.HK,Shandong Weigao Group Medical Polymer Company Limited,EQUITY,HKD,hongkong,"{'raw': 43595264000, 'fmt': '43.595B', 'longFmt': '43,595,264,000'}",5556800219,weigao
+3618.HK,"Chongqing Rural Commercial Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 43027628032, 'fmt': '43.028B', 'longFmt': '43,027,628,032'}",5484447413,"chongqing,rural"
+3668.HK,Yancoal Australia Ltd,EQUITY,HKD,hongkong,"{'raw': 42562486272, 'fmt': '42.562B', 'longFmt': '42,562,486,272'}",5425158867,yancoal
+1359.HK,"China Cinda Asset Management Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 42362597376, 'fmt': '42.363B', 'longFmt': '42,362,597,376'}",5399680350,"china,cinda"
+0177.HK,Jiangsu Expressway Company Limited,EQUITY,HKD,hongkong,"{'raw': 41966092288, 'fmt': '41.966B', 'longFmt': '41,966,092,288'}",5349140466,"jiangsu,expressway"
+0696.HK,TravelSky Technology Limited,EQUITY,HKD,hongkong,"{'raw': 40908414976, 'fmt': '40.908B', 'longFmt': '40,908,414,976'}",5214325329,travelsky
+2880.HK,"Liaoning Port Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 39492042752, 'fmt': '39.492B', 'longFmt': '39,492,042,752'}",5033789721,"liaoning,port"
+9698.HK,GDS Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 39330291712, 'fmt': '39.33B', 'longFmt': '39,330,291,712'}",5013172385,"gds,holdings"
+0956.HK,China Suntien Green Energy Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 38846242816, 'fmt': '38.846B', 'longFmt': '38,846,242,816'}",4951473871,suntien
+6110.HK,Topsports International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 38447562752, 'fmt': '38.448B', 'longFmt': '38,447,562,752'}",4900656757,topsports
+3900.HK,Greentown China Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 37657161728, 'fmt': '37.657B', 'longFmt': '37,657,161,728'}",4799909562,"greentown,china"
+6198.HK,"Qingdao Port International Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 37470892032, 'fmt': '37.471B', 'longFmt': '37,470,892,032'}",4776166995,"qingdao,port"
+6680.HK,"JL Mag Rare-Earth Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 37388472320, 'fmt': '37.388B', 'longFmt': '37,388,472,320'}",4765661499,"jl,mag"
+0780.HK,Tongcheng Travel Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 37257191424, 'fmt': '37.257B', 'longFmt': '37,257,191,424'}",4748927990,tongcheng
+0973.HK,L'Occitane International S.A.,EQUITY,HKD,hongkong,"{'raw': 36679995392, 'fmt': '36.68B', 'longFmt': '36,679,995,392'}",4675356626,l'occitane
+9901.HK,New Oriental Education & Technology Group Inc.,EQUITY,HKD,hongkong,"{'raw': 36145459200, 'fmt': '36.145B', 'longFmt': '36,145,459,200'}",4607222830,"new,oriental"
+6199.HK,"Bank of Guizhou Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 35011203072, 'fmt': '35.011B', 'longFmt': '35,011,203,072'}",4462646697,guizhou
+9898.HK,Weibo Corporation,EQUITY,HKD,hongkong,"{'raw': 34916552704, 'fmt': '34.917B', 'longFmt': '34,916,552,704'}",4450582240,"weibo,corporation"
+9688.HK,Zai Lab Limited,EQUITY,HKD,hongkong,"{'raw': 34610724864, 'fmt': '34.611B', 'longFmt': '34,610,724,864'}",4411600386,zai
+3698.HK,Huishang Bank Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 34585604096, 'fmt': '34.586B', 'longFmt': '34,585,604,096'}",4408398408,huishang
+6655.HK,"Huaxin Cement Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 34455498752, 'fmt': '34.455B', 'longFmt': '34,455,498,752'}",4391814739,huaxin
+2518.HK,Autohome Inc.,EQUITY,HKD,hongkong,"{'raw': 34424438784, 'fmt': '34.424B', 'longFmt': '34,424,438,784'}",4387855730,autohome
+6993.HK,Blue Moon Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 33698449408, 'fmt': '33.698B', 'longFmt': '33,698,449,408'}",4295318662,"blue,moon"
+1456.HK,"Guolian Securities Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 33086240768, 'fmt': '33.086B', 'longFmt': '33,086,240,768'}",4217284472,guolian
+0772.HK,China Literature Limited,EQUITY,HKD,hongkong,"{'raw': 32430051328, 'fmt': '32.43B', 'longFmt': '32,430,051,328'}",4133644341,"china,literature"
+1033.HK,Sinopec Oilfield Service Corporation,EQUITY,HKD,hongkong,"{'raw': 32364308480, 'fmt': '32.364B', 'longFmt': '32,364,308,480'}",4125264534,sinopec
+0853.HK,MicroPort Scientific Corporation,EQUITY,HKD,hongkong,"{'raw': 32300103680, 'fmt': '32.3B', 'longFmt': '32,300,103,680'}",4117080773,microport
+6060.HK,"ZhongAn Online P & C Insurance Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 31747897344, 'fmt': '31.748B', 'longFmt': '31,747,897,344'}",4046694680,zhongan
+2255.HK,Haichang Ocean Park Holdings Ltd.,EQUITY,HKD,hongkong,"{'raw': 31644600320, 'fmt': '31.645B', 'longFmt': '31,644,600,320'}",4033528091,haichang
+3888.HK,Kingsoft Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 31597240320, 'fmt': '31.597B', 'longFmt': '31,597,240,320'}",4027491425,kingsoft
+9878.HK,"Huitongda Network Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 31532046336, 'fmt': '31.532B', 'longFmt': '31,532,046,336'}",4019181578,huitongda
+1216.HK,"Zhongyuan Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 31432828928, 'fmt': '31.433B', 'longFmt': '31,432,828,928'}",4006534991,zhongyuan
+1347.HK,Hua Hong Semiconductor Limited,EQUITY,HKD,hongkong,"{'raw': 31358679040, 'fmt': '31.359B', 'longFmt': '31,358,679,040'}",3997083595,"hua,hong"
+0008.HK,PCCW Limited,EQUITY,HKD,hongkong,"{'raw': 31035957248, 'fmt': '31.036B', 'longFmt': '31,035,957,248'}",3955948381,pccw
+0347.HK,Angang Steel Company Limited,EQUITY,HKD,hongkong,"{'raw': 30886912000, 'fmt': '30.887B', 'longFmt': '30,886,912,000'}",3936950568,"angang,steel"
+0659.HK,NWS Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 30188519424, 'fmt': '30.189B', 'longFmt': '30,188,519,424'}",3847931081,"nws,holdings"
+2357.HK,AviChina Industry & Technology Company Limited,EQUITY,HKD,hongkong,"{'raw': 30305525760, 'fmt': '30.306B', 'longFmt': '30,305,525,760'}",3862845106,avichina
+2689.HK,Nine Dragons Paper (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 30030206976, 'fmt': '30.03B', 'longFmt': '30,030,206,976'}",3827752039,"nine,dragons"
+2128.HK,China Lesso Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 30031425536, 'fmt': '30.031B', 'longFmt': '30,031,425,536'}",3827907361,lesso
+0123.HK,Yuexiu Property Company Limited,EQUITY,HKD,hongkong,"{'raw': 30004697088, 'fmt': '30.005B', 'longFmt': '30,004,697,088'}",3824500463,yuexiu
+0392.HK,Beijing Enterprises Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 29765500928, 'fmt': '29.766B', 'longFmt': '29,765,500,928'}",3794011709,"beijing,enterprises"
+1513.HK,Livzon Pharmaceutical Group Inc.,EQUITY,HKD,hongkong,"{'raw': 29495740416, 'fmt': '29.496B', 'longFmt': '29,495,740,416'}",3759627119,livzon
+0586.HK,China Conch Venture Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 29442957312, 'fmt': '29.443B', 'longFmt': '29,442,957,312'}",3752899205,"china,conch"
+0636.HK,Kerry Logistics Network Limited,EQUITY,HKD,hongkong,"{'raw': 29424799744, 'fmt': '29.425B', 'longFmt': '29,424,799,744'}",3750584780,"kerry,logistics"
+1691.HK,JS Global Lifestyle Company Limited,EQUITY,HKD,hongkong,"{'raw': 29424615424, 'fmt': '29.425B', 'longFmt': '29,424,615,424'}",3750561286,"js,global"
+1882.HK,Haitian International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 29047201792, 'fmt': '29.047B', 'longFmt': '29,047,201,792'}",3702454865,"haitian,international"
+0966.HK,China Taiping Insurance Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 28970479616, 'fmt': '28.97B', 'longFmt': '28,970,479,616'}",3692675596,"china,taiping"
+6185.HK,CanSino Biologics Inc.,EQUITY,HKD,hongkong,"{'raw': 28991610880, 'fmt': '28.992B', 'longFmt': '28,991,610,880'}",3695369058,cansino
+0220.HK,Uni-President China Holdings Ltd,EQUITY,HKD,hongkong,"{'raw': 28896317440, 'fmt': '28.896B', 'longFmt': '28,896,317,440'}",3683222633,uni-president
+1799.HK,"Xinte Energy Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 28814499840, 'fmt': '28.814B', 'longFmt': '28,814,499,840'}",3672793884,xinte
+0564.HK,Zhengzhou Coal Mining Machinery Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 28649138176, 'fmt': '28.649B', 'longFmt': '28,649,138,176'}",3651716326,"zhengzhou,coal"
+0867.HK,China Medical System Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 28451436544, 'fmt': '28.451B', 'longFmt': '28,451,436,544'}",3626516605,"china,medical"
+0317.HK,CSSC Offshore & Marine Engineering (Group) Company Limited,EQUITY,HKD,hongkong,"{'raw': 28185589760, 'fmt': '28.186B', 'longFmt': '28,185,589,760'}",3592630872,cssc
+1910.HK,Samsonite International S.A.,EQUITY,HKD,hongkong,"{'raw': 27922659328, 'fmt': '27.923B', 'longFmt': '27,922,659,328'}",3559116868,"samsonite,international"
+3918.HK,NagaCorp Ltd.,EQUITY,HKD,hongkong,"{'raw': 27912693760, 'fmt': '27.913B', 'longFmt': '27,912,693,760'}",3557846623,nagacorp
+1368.HK,Xtep International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 27507728384, 'fmt': '27.508B', 'longFmt': '27,507,728,384'}",3506228362,xtep
+9992.HK,Pop Mart International Group Limited,EQUITY,HKD,hongkong,"{'raw': 27168761856, 'fmt': '27.169B', 'longFmt': '27,168,761,856'}",3463022539,"pop,mart"
+3331.HK,Vinda International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 26833143808, 'fmt': '26.833B', 'longFmt': '26,833,143,808'}",3420243524,vinda
+2009.HK,BBMG Corporation,EQUITY,HKD,hongkong,"{'raw': 27025123328, 'fmt': '27.025B', 'longFmt': '27,025,123,328'}",3444713885,bbmg
+0598.HK,Sinotrans Limited,EQUITY,HKD,hongkong,"{'raw': 26768281600, 'fmt': '26.768B', 'longFmt': '26,768,281,600'}",3411975967,sinotrans
+0754.HK,Hopson Development Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 26746265600, 'fmt': '26.746B', 'longFmt': '26,746,265,600'}",3409169733,hopson
+3360.HK,Far East Horizon Limited,EQUITY,HKD,hongkong,"{'raw': 26358480896, 'fmt': '26.358B', 'longFmt': '26,358,480,896'}",3359741379,"far,east,horizon"
+0576.HK,"Zhejiang Expressway Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 26319247360, 'fmt': '26.319B', 'longFmt': '26,319,247,360'}",3354740540,"zhejiang,expressway"
+6078.HK,"Hygeia Healthcare Holdings Co., Limited",EQUITY,HKD,hongkong,"{'raw': 26179932160, 'fmt': '26.18B', 'longFmt': '26,179,932,160'}",3336982952,"hygeia,healthcare"
+0425.HK,Minth Group Limited,EQUITY,HKD,hongkong,"{'raw': 26131501056, 'fmt': '26.132B', 'longFmt': '26,131,501,056'}",3330809759,minth
+0683.HK,Kerry Properties Limited,EQUITY,HKD,hongkong,"{'raw': 25869807616, 'fmt': '25.87B', 'longFmt': '25,869,807,616'}",3297453425,"kerry,properties"
+0023.HK,"The Bank of East Asia, Limited",EQUITY,HKD,hongkong,"{'raw': 25675556864, 'fmt': '25.676B', 'longFmt': '25,675,556,864'}",3272693566,"bank,of,east"
+0631.HK,Sany Heavy Equipment International Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 25516830720, 'fmt': '25.517B', 'longFmt': '25,516,830,720'}",3252461793,sany
+0522.HK,ASMPT Limited,EQUITY,HKD,hongkong,"{'raw': 25447360512, 'fmt': '25.447B', 'longFmt': '25,447,360,512'}",3243606885,asmpt
+0148.HK,Kingboard Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 25224972288, 'fmt': '25.225B', 'longFmt': '25,224,972,288'}",3215260527,kingboard
+0053.HK,Guoco Group Limited,EQUITY,HKD,hongkong,"{'raw': 24711731200, 'fmt': '24.712B', 'longFmt': '24,711,731,200'}",3149841077,guoco
+1508.HK,China Reinsurance (Group) Corporation,EQUITY,HKD,hongkong,"{'raw': 24638283776, 'fmt': '24.638B', 'longFmt': '24,638,283,776'}",3140479220,"china,reinsurance"
+0323.HK,Maanshan Iron & Steel Company Limited,EQUITY,HKD,hongkong,"{'raw': 24595955712, 'fmt': '24.596B', 'longFmt': '24,595,955,712'}",3135083941,maanshan
+1999.HK,Man Wah Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 24558688256, 'fmt': '24.559B', 'longFmt': '24,558,688,256'}",3130333705,"man,wah"
+3868.HK,Xinyi Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 24522625024, 'fmt': '24.523B', 'longFmt': '24,522,625,024'}",3125736963,"xinyi,energy"
+1128.HK,"Wynn Macau, Limited",EQUITY,HKD,hongkong,"{'raw': 24240041984, 'fmt': '24.24B', 'longFmt': '24,240,041,984'}",3089717970,"wynn,macau"
+6869.HK,Yangtze Optical Fibre And Cable Joint Stock Limited Company,EQUITY,HKD,hongkong,"{'raw': 24033148928, 'fmt': '24.033B', 'longFmt': '24,033,148,928'}",3063346679,"yangtze,optical"
+0884.HK,CIFI Holdings (Group) Co. Ltd.,EQUITY,HKD,hongkong,"{'raw': 23774062592, 'fmt': '23.774B', 'longFmt': '23,774,062,592'}",3030322656,cifi
+9922.HK,Jiumaojiu International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 23871561728, 'fmt': '23.872B', 'longFmt': '23,871,561,728'}",3042750227,jiumaojiu
+2799.HK,"China Huarong Asset Management Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 24074010624, 'fmt': '24.074B', 'longFmt': '24,074,010,624'}",3068555050,huarong
+1528.HK,Red Star Macalline Group Corporation Ltd.,EQUITY,HKD,hongkong,"{'raw': 23230822400, 'fmt': '23.231B', 'longFmt': '23,230,822,400'}",2961079419,macalline
+0014.HK,Hysan Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 23090051072, 'fmt': '23.09B', 'longFmt': '23,090,051,072'}",2943136228,hysan
+3808.HK,Sinotruk (Hong Kong) Limited,EQUITY,HKD,hongkong,"{'raw': 22860996608, 'fmt': '22.861B', 'longFmt': '22,860,996,608'}",2913940169,sinotruk
+9668.HK,"China Bohai Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 22912980992, 'fmt': '22.913B', 'longFmt': '22,912,980,992'}",2920566275,bohai
+0694.HK,Beijing Capital International Airport Company Limited,EQUITY,HKD,hongkong,"{'raw': 22712733696, 'fmt': '22.713B', 'longFmt': '22,712,733,696'}",2895042075,"beijing,capital"
+1908.HK,C&D International Investment Group Limited,EQUITY,HKD,hongkong,"{'raw': 22716465152, 'fmt': '22.716B', 'longFmt': '22,716,465,152'}",2895517699,c&d
+0467.HK,United Energy Group Limited,EQUITY,HKD,hongkong,"{'raw': 22609313792, 'fmt': '22.609B', 'longFmt': '22,609,313,792'}",2881859823,"united,energy"
+9989.HK,"Shenzhen Hepalink Pharmaceutical Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 22580987904, 'fmt': '22.581B', 'longFmt': '22,580,987,904'}",2878249310,hepalink
+1818.HK,Zhaojin Mining Industry Company Limited,EQUITY,HKD,hongkong,"{'raw': 22500284416, 'fmt': '22.5B', 'longFmt': '22,500,284,416'}",2867962569,zhaojin
+6049.HK,"Poly Property Services Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 22354653184, 'fmt': '22.355B', 'longFmt': '22,354,653,184'}",2849399919,"poly,property"
+0069.HK,Shangri-La Asia Limited,EQUITY,HKD,hongkong,"{'raw': 22552922112, 'fmt': '22.553B', 'longFmt': '22,552,922,112'}",2874671949,"shangri-la,asia"
+1579.HK,Yihai International Holding Ltd.,EQUITY,HKD,hongkong,"{'raw': 22194280448, 'fmt': '22.194B', 'longFmt': '22,194,280,448'}",2828958266,yihai
+6699.HK,Angelalign Technology Inc.,EQUITY,HKD,hongkong,"{'raw': 22141442048, 'fmt': '22.141B', 'longFmt': '22,141,442,048'}",2822223304,angelalign
+9995.HK,"RemeGen Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 21430368256, 'fmt': '21.43B', 'longFmt': '21,430,368,256'}",2731587427,remegen
+2096.HK,Simcere Pharmaceutical Group Limited,EQUITY,HKD,hongkong,"{'raw': 21387032576, 'fmt': '21.387B', 'longFmt': '21,387,032,576'}",2726063714,simcere
+2869.HK,Greentown Service Group Co. Ltd.,EQUITY,HKD,hongkong,"{'raw': 21159356416, 'fmt': '21.159B', 'longFmt': '21,159,356,416'}",2697043338,"greentown,service"
+6196.HK,"Bank of Zhengzhou Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 21100328960, 'fmt': '21.1B', 'longFmt': '21,100,328,960'}",2689519499,"bank,of,zhengzhou"
+3396.HK,Legend Holdings Corporation,EQUITY,HKD,hongkong,"{'raw': 20946884608, 'fmt': '20.947B', 'longFmt': '20,946,884,608'}",2669960961,"legend,holdings"
+0817.HK,China Jinmao Holdings Group Limited,EQUITY,HKD,hongkong,"{'raw': 20935694336, 'fmt': '20.936B', 'longFmt': '20,935,694,336'}",2668534611,jinmao
+0354.HK,Chinasoft International Limited,EQUITY,HKD,hongkong,"{'raw': 20908687360, 'fmt': '20.909B', 'longFmt': '20,908,687,360'}",2665092210,chinasoft
+1268.HK,China MeiDong Auto Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 20866035712, 'fmt': '20.866B', 'longFmt': '20,866,035,712'}",2659655686,meidong
+3866.HK,"Bank of Qingdao Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 20705556480, 'fmt': '20.706B', 'longFmt': '20,705,556,480'}",2639200459,"bank,of,qingdao"
+9926.HK,"Akeso, Inc.",EQUITY,HKD,hongkong,"{'raw': 20395632640, 'fmt': '20.396B', 'longFmt': '20,395,632,640'}",2599696515,akeso
+2778.HK,Champion Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 20247205888, 'fmt': '20.247B', 'longFmt': '20,247,205,888'}",2580777538,"champion,real"
+1797.HK,Koolearn Technology Holding Limited,EQUITY,HKD,hongkong,"{'raw': 20364652544, 'fmt': '20.365B', 'longFmt': '20,364,652,544'}",2595747687,koolearn
+6808.HK,Sun Art Retail Group Limited,EQUITY,HKD,hongkong,"{'raw': 19651780608, 'fmt': '19.652B', 'longFmt': '19,651,780,608'}",2504882612,"sun,art"
+0548.HK,Shenzhen Expressway Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 19455348736, 'fmt': '19.455B', 'longFmt': '19,455,348,736'}",2479844740,"shenzhen,expressway"
+1208.HK,MMG Limited,EQUITY,HKD,hongkong,"{'raw': 19438041088, 'fmt': '19.438B', 'longFmt': '19,438,041,088'}",2477638648,mmg
+0921.HK,"Hisense Home Appliances Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 19416285184, 'fmt': '19.416B', 'longFmt': '19,416,285,184'}",2474865567,hisense
+0551.HK,Yue Yuen Industrial (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 19184941056, 'fmt': '19.185B', 'longFmt': '19,184,941,056'}",2445377659,yue
+0136.HK,China Ruyi Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 19083485184, 'fmt': '19.083B', 'longFmt': '19,083,485,184'}",2432445750,ruyi
+0189.HK,Dongyue Group Limited,EQUITY,HKD,hongkong,"{'raw': 18785732608, 'fmt': '18.786B', 'longFmt': '18,785,732,608'}",2394493197,dongyue
+0412.HK,Shandong Hi-Speed Holdings Group Limited,EQUITY,HKD,hongkong,"{'raw': 18729506816, 'fmt': '18.73B', 'longFmt': '18,729,506,816'}",2387326466,hi-speed
+3633.HK,Zhongyu Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 18646599680, 'fmt': '18.647B', 'longFmt': '18,646,599,680'}",2376758842,zhongyu
+1121.HK,Golden Solar New Energy Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 18557104128, 'fmt': '18.557B', 'longFmt': '18,557,104,128'}",2365351435,"golden,solar"
+1030.HK,Seazen Group Limited,EQUITY,HKD,hongkong,"{'raw': 18476300288, 'fmt': '18.476B', 'longFmt': '18,476,300,288'}",2355051904,seazen
+1839.HK,"CIMC Vehicles (Group) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 18454151168, 'fmt': '18.454B', 'longFmt': '18,454,151,168'}",2352228702,cimc
+2285.HK,Chervon Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 17721417728, 'fmt': '17.721B', 'longFmt': '17,721,417,728'}",2258832012,chervon
+9969.HK,InnoCare Pharma Limited,EQUITY,HKD,hongkong,"{'raw': 17336186880, 'fmt': '17.336B', 'longFmt': '17,336,186,880'}",2209729181,innocare
+1375.HK,"Central China Securities Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 17321721856, 'fmt': '17.322B', 'longFmt': '17,321,721,856'}",2207885420,"central,china"
+0013.HK,HUTCHMED (China) Limited,EQUITY,HKD,hongkong,"{'raw': 17143028736, 'fmt': '17.143B', 'longFmt': '17,143,028,736'}",2185108589,hutchmed
+1735.HK,Central Holding Group Co. Ltd.,EQUITY,HKD,hongkong,"{'raw': 17149440000, 'fmt': '17.149B', 'longFmt': '17,149,440,000'}",2185925791,"central,holding"
+2018.HK,AAC Technologies Holdings Inc.,EQUITY,HKD,hongkong,"{'raw': 16930636800, 'fmt': '16.931B', 'longFmt': '16,930,636,800'}",2158036393,aac
+0152.HK,Shenzhen International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 16595279872, 'fmt': '16.595B', 'longFmt': '16,595,279,872'}",2115290661,"shenzhen,international"
+0880.HK,SJM Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 16548003840, 'fmt': '16.548B', 'longFmt': '16,548,003,840'}",2109264698,sjm
+0558.HK,L.K. Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 16379040768, 'fmt': '16.379B', 'longFmt': '16,379,040,768'}",2087728092,"lk,technology"
+1958.HK,BAIC Motor Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 16351293440, 'fmt': '16.351B', 'longFmt': '16,351,293,440'}",2084191323,baic
+0570.HK,China Traditional Chinese Medicine Holdings Co. Limited,EQUITY,HKD,hongkong,"{'raw': 16315992064, 'fmt': '16.316B', 'longFmt': '16,315,992,064'}",2079691690,"china,traditional"
+9869.HK,Helens International Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 16167256064, 'fmt': '16.167B', 'longFmt': '16,167,256,064'}",2060733295,"helens,international"
+9677.HK,"Weihai City Commercial Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 16146162688, 'fmt': '16.146B', 'longFmt': '16,146,162,688'}",2058044662,"weihai,city"
+1053.HK,Chongqing Iron & Steel Company Limited,EQUITY,HKD,hongkong,"{'raw': 16094937088, 'fmt': '16.095B', 'longFmt': '16,094,937,088'}",2051515273,"chongqing,iron"
+3369.HK,"Qinhuangdao Port Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 15897503744, 'fmt': '15.898B', 'longFmt': '15,897,503,744'}",2026349749,"qinhuangdao,port"
+2343.HK,Pacific Basin Shipping Limited,EQUITY,HKD,hongkong,"{'raw': 15888854016, 'fmt': '15.889B', 'longFmt': '15,888,854,016'}",2025247225,"pacific,basin"
+1798.HK,"China Datang Corporation Renewable Power Co., Limited",EQUITY,HKD,hongkong,"{'raw': 15492981760, 'fmt': '15.493B', 'longFmt': '15,492,981,760'}",1974788005,"china,datang"
+9899.HK,Cloud Music Inc.,EQUITY,HKD,hongkong,"{'raw': 15395191808, 'fmt': '15.395B', 'longFmt': '15,395,191,808'}",1962323366,"cloud,music"
+2139.HK,"Bank of Gansu Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 15371196416, 'fmt': '15.371B', 'longFmt': '15,371,196,416'}",1959264832,gansu
+0512.HK,Grand Pharmaceutical Group Limited,EQUITY,HKD,hongkong,"{'raw': 15014681600, 'fmt': '15.015B', 'longFmt': '15,014,681,600'}",1913822244,"grand,pharmaceutical"
+2282.HK,MGM China Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 15086000128, 'fmt': '15.086B', 'longFmt': '15,086,000,128'}",1922912746,"mgm,china"
+0525.HK,Guangshen Railway Company Limited,EQUITY,HKD,hongkong,"{'raw': 14977215488, 'fmt': '14.977B', 'longFmt': '14,977,215,488'}",1909046687,guangshen
+1316.HK,Nexteer Automotive Group Limited,EQUITY,HKD,hongkong,"{'raw': 15008722944, 'fmt': '15.009B', 'longFmt': '15,008,722,944'}",1913062734,nexteer
+1252.HK,China Tianrui Group Cement Company Limited,EQUITY,HKD,hongkong,"{'raw': 14867696640, 'fmt': '14.868B', 'longFmt': '14,867,696,640'}",1895087043,tianrui
+9993.HK,Radiance Holdings (Group) Company Limited,EQUITY,HKD,hongkong,"{'raw': 14765089792, 'fmt': '14.765B', 'longFmt': '14,765,089,792'}",1882008426,"radiance,holdings"
+0639.HK,Shougang Fushan Resources Group Limited,EQUITY,HKD,hongkong,"{'raw': 14650336256, 'fmt': '14.65B', 'longFmt': '14,650,336,256'}",1867381551,shougang
+1907.HK,China Risun Group Limited,EQUITY,HKD,hongkong,"{'raw': 14693489664, 'fmt': '14.693B', 'longFmt': '14,693,489,664'}",1872882031,risun
+1108.HK,Luoyang Glass Company Limited,EQUITY,HKD,hongkong,"{'raw': 14538228736, 'fmt': '14.538B', 'longFmt': '14,538,228,736'}",1853091946,"luoyang,glass"
+9896.HK,MINISO Group Holding Limited,EQUITY,HKD,hongkong,"{'raw': 14490703872, 'fmt': '14.491B', 'longFmt': '14,490,703,872'}",1847034266,miniso
+0839.HK,China Education Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 14441774080, 'fmt': '14.442B', 'longFmt': '14,441,774,080'}",1840797508,"china,education"
+1963.HK,"Bank of Chongqing Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 14245490688, 'fmt': '14.245B', 'longFmt': '14,245,490,688'}",1815778562,"bank,of,chongqing"
+1196.HK,Realord Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 14147772416, 'fmt': '14.148B', 'longFmt': '14,147,772,416'}",1803323059,realord
+1415.HK,Cowell e Holdings Inc.,EQUITY,HKD,hongkong,"{'raw': 14017398784, 'fmt': '14.017B', 'longFmt': '14,017,398,784'}",1786705194,"cowell,e"
+1812.HK,Shandong Chenming Paper Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 13623321600, 'fmt': '13.623B', 'longFmt': '13,623,321,600'}",1736474779,chenming
+1811.HK,"CGN New Energy Holdings Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 13558991872, 'fmt': '13.559B', 'longFmt': '13,558,991,872'}",1728275094,"cgn,new"
+6878.HK,Differ Group Auto Limited,EQUITY,HKD,hongkong,"{'raw': 13479689216, 'fmt': '13.48B', 'longFmt': '13,479,689,216'}",1718166908,"differ,group"
+0990.HK,Theme International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 13471299584, 'fmt': '13.471B', 'longFmt': '13,471,299,584'}",1717097537,"theme,international"
+2068.HK,China Aluminum International Engineering Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 13438092288, 'fmt': '13.438B', 'longFmt': '13,438,092,288'}",1712864823,"china,aluminum"
+0303.HK,Vtech Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 13330030592, 'fmt': '13.33B', 'longFmt': '13,330,030,592'}",1699090913,vtech
+1258.HK,China Nonferrous Mining Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 13273591808, 'fmt': '13.274B', 'longFmt': '13,273,591,808'}",1691897034,"china,nonferrous"
+0336.HK,Huabao International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 13178114048, 'fmt': '13.178B', 'longFmt': '13,178,114,048'}",1679727115,huabao
+6826.HK,"Shanghai Haohai Biological Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 13198344192, 'fmt': '13.198B', 'longFmt': '13,198,344,192'}",1682305717,haohai
+0579.HK,"Beijing Jingneng Clean Energy Co., Limited",EQUITY,HKD,hongkong,"{'raw': 13191216128, 'fmt': '13.191B', 'longFmt': '13,191,216,128'}",1681397150,jingneng
+0142.HK,First Pacific Company Limited,EQUITY,HKD,hongkong,"{'raw': 13124865024, 'fmt': '13.125B', 'longFmt': '13,124,865,024'}",1672939813,"first,pacific"
+2185.HK,"Shanghai Bio-heart Biological Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 12896185344, 'fmt': '12.896B', 'longFmt': '12,896,185,344'}",1643791526,bio-heart
+1578.HK,"Bank of Tianjin Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 12990978048, 'fmt': '12.991B', 'longFmt': '12,990,978,048'}",1655874125,"bank,of,tianjin"
+0041.HK,Great Eagle Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 12905699328, 'fmt': '12.906B', 'longFmt': '12,905,699,328'}",1645004210,"great,eagle"
+1530.HK,3SBio Inc.,EQUITY,HKD,hongkong,"{'raw': 12889260032, 'fmt': '12.889B', 'longFmt': '12,889,260,032'}",1642908802,3sbio
+1951.HK,Jinxin Fertility Group Limited,EQUITY,HKD,hongkong,"{'raw': 12861103104, 'fmt': '12.861B', 'longFmt': '12,861,103,104'}",1639319824,jinxin
+0778.HK,Fortune Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 12747345920, 'fmt': '12.747B', 'longFmt': '12,747,345,920'}",1624819948,"fortune,real"
+0710.HK,BOE Varitronix Limited,EQUITY,HKD,hongkong,"{'raw': 12757825536, 'fmt': '12.758B', 'longFmt': '12,757,825,536'}",1626155715,varitronix
+9979.HK,Greentown Management Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 12683100160, 'fmt': '12.683B', 'longFmt': '12,683,100,160'}",1616630965,"greentown,management"
+2314.HK,Lee & Man Paper Manufacturing Limited,EQUITY,HKD,hongkong,"{'raw': 12690627584, 'fmt': '12.691B', 'longFmt': '12,690,627,584'}",1617590436,"lee,&"
+0604.HK,Shenzhen Investment Limited,EQUITY,HKD,hongkong,"{'raw': 12547294208, 'fmt': '12.547B', 'longFmt': '12,547,294,208'}",1599320678,"shenzhen,investment"
+1606.HK,"China Development Bank Financial Leasing Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 12515976192, 'fmt': '12.516B', 'longFmt': '12,515,976,192'}",1595328778,"china,development"
+0345.HK,Vitasoy International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 12228536320, 'fmt': '12.229B', 'longFmt': '12,228,536,320'}",1558690717,vitasoy
+2121.HK,"Qingdao AInnovation Technology Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 12197361664, 'fmt': '12.197B', 'longFmt': '12,197,361,664'}",1554717089,ainnovation
+9959.HK,Linklogis Inc.,EQUITY,HKD,hongkong,"{'raw': 12342782976, 'fmt': '12.343B', 'longFmt': '12,342,782,976'}",1573252983,linklogis
+1610.HK,COFCO Joycome Foods Limited,EQUITY,HKD,hongkong,"{'raw': 12096199680, 'fmt': '12.096B', 'longFmt': '12,096,199,680'}",1541822640,cofco
+1686.HK,SUNeVision Holdings Ltd.,EQUITY,HKD,hongkong,"{'raw': 12065835008, 'fmt': '12.066B', 'longFmt': '12,065,835,008'}",1537952255,sunevision
+0995.HK,Anhui Expressway Company Limited,EQUITY,HKD,hongkong,"{'raw': 11998967808, 'fmt': '11.999B', 'longFmt': '11,998,967,808'}",1529429135,"anhui,expressway"
+0363.HK,Shanghai Industrial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 11894076416, 'fmt': '11.894B', 'longFmt': '11,894,076,416'}",1516059323,"shanghai,industrial"
+0045.HK,"The Hongkong and Shanghai Hotels, Limited",EQUITY,HKD,hongkong,"{'raw': 11806838784, 'fmt': '11.807B', 'longFmt': '11,806,838,784'}",1504939718,"hongkong,and"
+2157.HK,"Lepu Biopharma Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 11815213056, 'fmt': '11.815B', 'longFmt': '11,815,213,056'}",1506007131,lepu
+1448.HK,Fu Shou Yuan International Group Limited,EQUITY,HKD,hongkong,"{'raw': 11810682880, 'fmt': '11.811B', 'longFmt': '11,810,682,880'}",1505429700,"fu,shou"
+0855.HK,China Water Affairs Group Limited,EQUITY,HKD,hongkong,"{'raw': 11654764544, 'fmt': '11.655B', 'longFmt': '11,654,764,544'}",1485555820,"china,water"
+3669.HK,China Yongda Automobiles Services Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 11529901056, 'fmt': '11.53B', 'longFmt': '11,529,901,056'}",1469640296,yongda
+0909.HK,Ming Yuan Cloud Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 11502640128, 'fmt': '11.503B', 'longFmt': '11,502,640,128'}",1466165526,"ming,yuan"
+2155.HK,Morimatsu International Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 11363307520, 'fmt': '11.363B', 'longFmt': '11,363,307,520'}",1448405719,morimatsu
+3990.HK,Midea Real Estate Holding Limited,EQUITY,HKD,hongkong,"{'raw': 11344782336, 'fmt': '11.345B', 'longFmt': '11,344,782,336'}",1446044436,"midea,real"
+1381.HK,Canvest Environmental Protection Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 11343860736, 'fmt': '11.344B', 'longFmt': '11,343,860,736'}",1445926966,canvest
+0546.HK,Fufeng Group Limited,EQUITY,HKD,hongkong,"{'raw': 11274697728, 'fmt': '11.275B', 'longFmt': '11,274,697,728'}",1437111214,fufeng
+1302.HK,LifeTech Scientific Corporation,EQUITY,HKD,hongkong,"{'raw': 11297272832, 'fmt': '11.297B', 'longFmt': '11,297,272,832'}",1439988714,lifetech
+0719.HK,Shandong Xinhua Pharmaceutical Company Limited,EQUITY,HKD,hongkong,"{'raw': 11226183680, 'fmt': '11.226B', 'longFmt': '11,226,183,680'}",1430927449,"shandong,xinhua"
+3319.HK,"A-Living Smart City Services Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 11161200640, 'fmt': '11.161B', 'longFmt': '11,161,200,640'}",1422644491,a-living
+0107.HK,Sichuan Expressway Company Limited,EQUITY,HKD,hongkong,"{'raw': 11194166272, 'fmt': '11.194B', 'longFmt': '11,194,166,272'}",1426846402,"sichuan,expressway"
+0034.HK,Kowloon Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 11060321280, 'fmt': '11.06B', 'longFmt': '11,060,321,280'}",1409786065,"kowloon,development"
+0811.HK,"Xinhua Winshare Publishing and Media Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 10950972416, 'fmt': '10.951B', 'longFmt': '10,950,972,416'}",1395848088,winshare
+8032.HK,Viva China Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 10926365696, 'fmt': '10.926B', 'longFmt': '10,926,365,696'}",1392711632,"viva,china"
+1083.HK,Towngas Smart Energy Company Limited,EQUITY,HKD,hongkong,"{'raw': 10753445888, 'fmt': '10.753B', 'longFmt': '10,753,445,888'}",1370670687,towngas
+2005.HK,SSY Group Limited,EQUITY,HKD,hongkong,"{'raw': 10782167040, 'fmt': '10.782B', 'longFmt': '10,782,167,040'}",1374331582,ssy
+1717.HK,Ausnutria Dairy Corporation Ltd,EQUITY,HKD,hongkong,"{'raw': 10681555968, 'fmt': '10.682B', 'longFmt': '10,681,555,968'}",1361507354,ausnutria
+1675.HK,Asiainfo Technologies Limited,EQUITY,HKD,hongkong,"{'raw': 10636867584, 'fmt': '10.637B', 'longFmt': '10,636,867,584'}",1355811221,asiainfo
+0535.HK,Gemdale Properties and Investment Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 10608191488, 'fmt': '10.608B', 'longFmt': '10,608,191,488'}",1352156068,gemdale
+2171.HK,CARsgen Therapeutics Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 10454032384, 'fmt': '10.454B', 'longFmt': '10,454,032,384'}",1332506426,carsgen
+3383.HK,Agile Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 10380183552, 'fmt': '10.38B', 'longFmt': '10,380,183,552'}",1323093403,"agile,group"
+1310.HK,HKBN Ltd.,EQUITY,HKD,hongkong,"{'raw': 10361639936, 'fmt': '10.362B', 'longFmt': '10,361,639,936'}",1320729771,hkbn
+2362.HK,Jinchuan Group International Resources Co. Ltd,EQUITY,HKD,hongkong,"{'raw': 10313385984, 'fmt': '10.313B', 'longFmt': '10,313,385,984'}",1314579159,jinchuan
+6122.HK,Jilin Jiutai Rural Commercial Bank Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 10247677952, 'fmt': '10.248B', 'longFmt': '10,247,677,952'}",1306203790,"jilin,jiutai"
+0038.HK,First Tractor Company Limited,EQUITY,HKD,hongkong,"{'raw': 10196596736, 'fmt': '10.197B', 'longFmt': '10,196,596,736'}",1299692805,"first,tractor"
+2179.HK,"Jiangsu Recbio Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 10190519296, 'fmt': '10.191B', 'longFmt': '10,190,519,296'}",1298918154,recbio
+0819.HK,Tianneng Power International Limited,EQUITY,HKD,hongkong,"{'raw': 10135078912, 'fmt': '10.135B', 'longFmt': '10,135,078,912'}",1291851535,tianneng
+2299.HK,Billion Industrial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 9959251968, 'fmt': '9.959B', 'longFmt': '9,959,251,968'}",1269440036,"billion,industrial"
+1635.HK,"Shanghai Dazhong Public Utilities(Group) Co.,Ltd.",EQUITY,HKD,hongkong,"{'raw': 9895330816, 'fmt': '9.895B', 'longFmt': '9,895,330,816'}",1261292429,dazhong
+0751.HK,Skyworth Group Limited,EQUITY,HKD,hongkong,"{'raw': 9881467904, 'fmt': '9.881B', 'longFmt': '9,881,467,904'}",1259525415,skyworth
+2325.HK,Yunkang Group Limited,EQUITY,HKD,hongkong,"{'raw': 9853024256, 'fmt': '9.853B', 'longFmt': '9,853,024,256'}",1255899891,yunkang
+1070.HK,TCL Electronics Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 9807276032, 'fmt': '9.807B', 'longFmt': '9,807,276,032'}",1250068668,tcl
+3983.HK,China BlueChemical Ltd.,EQUITY,HKD,hongkong,"{'raw': 9727098880, 'fmt': '9.727B', 'longFmt': '9,727,098,880'}",1239849016,bluechemical
+9857.HK,Linmon Media Limited,EQUITY,HKD,hongkong,"{'raw': 9696347136, 'fmt': '9.696B', 'longFmt': '9,696,347,136'}",1235929294,linmon
+0697.HK,Shoucheng Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 10119700480, 'fmt': '10.12B', 'longFmt': '10,119,700,480'}",1289891347,shoucheng
+1387.HK,China Dili Group,EQUITY,HKD,hongkong,"{'raw': 9430066176, 'fmt': '9.43B', 'longFmt': '9,430,066,176'}",1201988220,"china,dili"
+9858.HK,China Youran Dairy Group Limited,EQUITY,HKD,hongkong,"{'raw': 9374638080, 'fmt': '9.375B', 'longFmt': '9,374,638,080'}",1194923167,youran
+2162.HK,Keymed Biosciences Inc.,EQUITY,HKD,hongkong,"{'raw': 9385142272, 'fmt': '9.385B', 'longFmt': '9,385,142,272'}",1196262067,keymed
+0416.HK,"Bank of Jinzhou Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 9367671808, 'fmt': '9.368B', 'longFmt': '9,367,671,808'}",1194035222,"bank,of,jinzhou"
+6606.HK,New Horizon Health Limited,EQUITY,HKD,hongkong,"{'raw': 9346844672, 'fmt': '9.347B', 'longFmt': '9,346,844,672'}",1191380525,"new,horizon"
+1065.HK,Tianjin Capital Environmental Protection Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 9341220864, 'fmt': '9.341B', 'longFmt': '9,341,220,864'}",1190663695,"tianjin,capital"
+0173.HK,K. Wah International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 9336012800, 'fmt': '9.336B', 'longFmt': '9,336,012,800'}",1189999858,"k,wah"
+0460.HK,Sihuan Pharmaceutical Holdings Group Ltd.,EQUITY,HKD,hongkong,"{'raw': 9236700160, 'fmt': '9.237B', 'longFmt': '9,236,700,160'}",1177341132,sihuan
+1271.HK,Grand Ming Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 9312182272, 'fmt': '9.312B', 'longFmt': '9,312,182,272'}",1186962338,"grand,ming"
+1967.HK,Confidence Intelligence Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 9150000128, 'fmt': '9.15B', 'longFmt': '9,150,000,128'}",1166290052,"confidence,intelligence"
+0650.HK,Productive Technologies Company Limited,EQUITY,HKD,hongkong,"{'raw': 9228628992, 'fmt': '9.229B', 'longFmt': '9,228,628,992'}",1176312353,"productive,technologies"
+2192.HK,"Medlive Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 9216838656, 'fmt': '9.217B', 'longFmt': '9,216,838,656'}",1174809517,medlive
+0071.HK,"Miramar Hotel and Investment Company, Limited",EQUITY,HKD,hongkong,"{'raw': 9175948288, 'fmt': '9.176B', 'longFmt': '9,175,948,288'}",1169597492,"miramar,hotel"
+3308.HK,Golden Eagle Retail Group Limited,EQUITY,HKD,hongkong,"{'raw': 9164359680, 'fmt': '9.164B', 'longFmt': '9,164,359,680'}",1168120369,"golden,eagle"
+2099.HK,China Gold International Resources Corp. Ltd.,EQUITY,HKD,hongkong,"{'raw': 9137342464, 'fmt': '9.137B', 'longFmt': '9,137,342,464'}",1164676663,"china,gold"
+2696.HK,"Shanghai Henlius Biotech, Inc.",EQUITY,HKD,hongkong,"{'raw': 9119846400, 'fmt': '9.12B', 'longFmt': '9,119,846,400'}",1162446555,henlius
+0357.HK,Hainan Meilan International Airport Company Limited,EQUITY,HKD,hongkong,"{'raw': 9076225024, 'fmt': '9.076B', 'longFmt': '9,076,225,024'}",1156886427,meilan
+2013.HK,Weimob Inc.,EQUITY,HKD,hongkong,"{'raw': 9101107200, 'fmt': '9.101B', 'longFmt': '9,101,107,200'}",1160057993,weimob
+2150.HK,Nayuki Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 9090189312, 'fmt': '9.09B', 'longFmt': '9,090,189,312'}",1158666362,nayuki
+0187.HK,Beijing Jingcheng Machinery Electric Company Limited,EQUITY,HKD,hongkong,"{'raw': 9058000896, 'fmt': '9.058B', 'longFmt': '9,058,000,896'}",1154563517,"beijing,jingcheng"
+3377.HK,Sino-Ocean Group Holding Limited,EQUITY,HKD,hongkong,"{'raw': 8889249792, 'fmt': '8.889B', 'longFmt': '8,889,249,792'}",1133053929,sino-ocean
+6686.HK,Noah Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8826543104, 'fmt': '8.827B', 'longFmt': '8,826,543,104'}",1125061122,"noah,holdings"
+0777.HK,NetDragon Websoft Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8629954560, 'fmt': '8.63B', 'longFmt': '8,629,954,560'}",1100003279,netdragon
+0493.HK,GOME Retail Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8572559872, 'fmt': '8.573B', 'longFmt': '8,572,559,872'}",1092687558,"gome,retail"
+0179.HK,Johnson Electric Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8616088576, 'fmt': '8.616B', 'longFmt': '8,616,088,576'}",1098235874,"johnson,electric"
+2400.HK,XD Inc.,EQUITY,HKD,hongkong,"{'raw': 8590272512, 'fmt': '8.59B', 'longFmt': '8,590,272,512'}",1094945271,"xd,inc"
+1361.HK,361 Degrees International Limited,EQUITY,HKD,hongkong,"{'raw': 8539188224, 'fmt': '8.539B', 'longFmt': '8,539,188,224'}",1088433894,"361,degrees"
+6088.HK,FIT Hon Teng Limited,EQUITY,HKD,hongkong,"{'raw': 8502659072, 'fmt': '8.503B', 'longFmt': '8,502,659,072'}",1083777765,"fit,hon"
+3709.HK,EEKA Fashion Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8420438016, 'fmt': '8.42B', 'longFmt': '8,420,438,016'}",1073297590,eeka
+1349.HK,"Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co.,Ltd.",EQUITY,HKD,hongkong,"{'raw': 8418400768, 'fmt': '8.418B', 'longFmt': '8,418,400,768'}",1073037916,fudan-zhangjiang
+1477.HK,Ocumension Therapeutics,EQUITY,HKD,hongkong,"{'raw': 8403808256, 'fmt': '8.404B', 'longFmt': '8,403,808,256'}",1071177905,ocumension
+2218.HK,"Yantai North Andre Juice Co.,Ltd.",EQUITY,HKD,hongkong,"{'raw': 8325466112, 'fmt': '8.325B', 'longFmt': '8,325,466,112'}",1061192149,"yantai,north"
+2356.HK,Dah Sing Banking Group Limited,EQUITY,HKD,hongkong,"{'raw': 8322040320, 'fmt': '8.322B', 'longFmt': '8,322,040,320'}",1060755486,"dah,sing"
+0327.HK,PAX Global Technology Limited,EQUITY,HKD,hongkong,"{'raw': 8310379008, 'fmt': '8.31B', 'longFmt': '8,310,379,008'}",1059269096,"pax,global"
+1117.HK,China Modern Dairy Holdings Ltd.,EQUITY,HKD,hongkong,"{'raw': 8311442432, 'fmt': '8.311B', 'longFmt': '8,311,442,432'}",1059404643,"china,modern"
+2666.HK,Genertec Universal Medical Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 8303860224, 'fmt': '8.304B', 'longFmt': '8,303,860,224'}",1058438189,genertec
+2273.HK,Gushengtang Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8248176640, 'fmt': '8.248B', 'longFmt': '8,248,176,640'}",1051340571,gushengtang
+3678.HK,"Holly Futures Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 9874832384, 'fmt': '9.875B', 'longFmt': '9,874,832,384'}",1258679629,"holly,futures"
+1516.HK,Sunac Services Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8222899712, 'fmt': '8.223B', 'longFmt': '8,222,899,712'}",1048118688,sunac
+0691.HK,China Shanshui Cement Group Limited,EQUITY,HKD,hongkong,"{'raw': 8229003776, 'fmt': '8.229B', 'longFmt': '8,229,003,776'}",1048896733,shanshui
+1458.HK,Zhou Hei Ya International Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 8181586944, 'fmt': '8.182B', 'longFmt': '8,181,586,944'}",1042852822,"zhou,hei"
+1164.HK,CGN Mining Company Limited,EQUITY,HKD,hongkong,"{'raw': 8132727808, 'fmt': '8.133B', 'longFmt': '8,132,727,808'}",1036625071,"cgn,mining"
+0553.HK,Nanjing Panda Electronics Company Limited,EQUITY,HKD,hongkong,"{'raw': 8116943360, 'fmt': '8.117B', 'longFmt': '8,116,943,360'}",1034613132,"nanjing,panda"
+2038.HK,FIH Mobile Limited,EQUITY,HKD,hongkong,"{'raw': 8099003904, 'fmt': '8.099B', 'longFmt': '8,099,003,904'}",1032326508,fih
+1224.HK,C C Land Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 8036423168, 'fmt': '8.036B', 'longFmt': '8,036,423,168'}",1024349755,"c,c"
+0308.HK,China Travel International Investment Hong Kong Limited,EQUITY,HKD,hongkong,"{'raw': 8028113408, 'fmt': '8.028B', 'longFmt': '8,028,113,408'}",1023290565,"china,travel"
+2186.HK,Luye Pharma Group Ltd.,EQUITY,HKD,hongkong,"{'raw': 8022254080, 'fmt': '8.022B', 'longFmt': '8,022,254,080'}",1022543715,luye
+9997.HK,Kangji Medical Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 7994055680, 'fmt': '7.994B', 'longFmt': '7,994,055,680'}",1018949451,kangji
+1858.HK,"Beijing Chunlizhengda Medical Instruments Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 7987027968, 'fmt': '7.987B', 'longFmt': '7,987,027,968'}",1018053675,chunlizhengda
+0856.HK,VSTECS Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 7908345856, 'fmt': '7.908B', 'longFmt': '7,908,345,856'}",1008024586,vstecs
+1860.HK,Mobvista Inc.,EQUITY,HKD,hongkong,"{'raw': 7755071488, 'fmt': '7.755B', 'longFmt': '7,755,071,488'}",988487716,mobvista
+6055.HK,China Tobacco International (HK) Company Limited,EQUITY,HKD,hongkong,"{'raw': 7746816000, 'fmt': '7.747B', 'longFmt': '7,746,816,000'}",987435443,"china,tobacco"
+0272.HK,Shui On Land Limited,EQUITY,HKD,hongkong,"{'raw': 7737378816, 'fmt': '7.737B', 'longFmt': '7,737,378,816'}",986232548,shui
+0200.HK,Melco International Development Limited,EQUITY,HKD,hongkong,"{'raw': 7734608384, 'fmt': '7.735B', 'longFmt': '7,734,608,384'}",985879419,melco
+3613.HK,Beijing Tong Ren Tang Chinese Medicine Company Limited,EQUITY,HKD,hongkong,"{'raw': 7684578304, 'fmt': '7.685B', 'longFmt': '7,684,578,304'}",979502415,"beijing,tong"
+8446.HK,In Technical Productions Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 7592000000, 'fmt': '7.592B', 'longFmt': '7,592,000,000'}",967702071,"in,technical,productions"
+0373.HK,Allied Group Limited,EQUITY,HKD,hongkong,"{'raw': 7589549056, 'fmt': '7.59B', 'longFmt': '7,589,549,056'}",967389665,"allied,group"
+1896.HK,Maoyan Entertainment,EQUITY,HKD,hongkong,"{'raw': 7570896896, 'fmt': '7.571B', 'longFmt': '7,570,896,896'}",965012197,maoyan
+2158.HK,Yidu Tech Inc.,EQUITY,HKD,hongkong,"{'raw': 7571371520, 'fmt': '7.571B', 'longFmt': '7,571,371,520'}",965072695,"yidu,tech"
+0826.HK,Tiangong International Company Limited,EQUITY,HKD,hongkong,"{'raw': 7547350016, 'fmt': '7.547B', 'longFmt': '7,547,350,016'}",962010832,tiangong
+1176.HK,Zhuguang Holdings Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 7514655232, 'fmt': '7.515B', 'longFmt': '7,514,655,232'}",957843444,zhuguang
+2232.HK,Crystal International Group Limited,EQUITY,HKD,hongkong,"{'raw': 7331747328, 'fmt': '7.332B', 'longFmt': '7,331,747,328'}",934529382,"crystal,international"
+0297.HK,Sinofert Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 7305437696, 'fmt': '7.305B', 'longFmt': '7,305,437,696'}",931175867,sinofert
+0506.HK,China Foods Limited,EQUITY,HKD,hongkong,"{'raw': 7272772096, 'fmt': '7.273B', 'longFmt': '7,272,772,096'}",927012199,"china,foods"
+1789.HK,AK Medical Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 7229735936, 'fmt': '7.23B', 'longFmt': '7,229,735,936'}",921526664,"ak,medical"
+0658.HK,"China High Speed Transmission Equipment Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 7113511424, 'fmt': '7.114B', 'longFmt': '7,113,511,424'}",906712294,"china,high"
+9666.HK,"Jinke Smart Services Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 7168270848, 'fmt': '7.168B', 'longFmt': '7,168,270,848'}",913692116,jinke
+0588.HK,Beijing North Star Company Limited,EQUITY,HKD,hongkong,"{'raw': 7113961472, 'fmt': '7.114B', 'longFmt': '7,113,961,472'}",906769658,"beijing,north"
+1836.HK,Stella International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 7074343936, 'fmt': '7.074B', 'longFmt': '7,074,343,936'}",901719873,"stella,international"
+3738.HK,Vobile Group Limited,EQUITY,HKD,hongkong,"{'raw': 7072783872, 'fmt': '7.073B', 'longFmt': '7,072,783,872'}",901521022,vobile
+0410.HK,SOHO China Limited,EQUITY,HKD,hongkong,"{'raw': 7071346688, 'fmt': '7.071B', 'longFmt': '7,071,346,688'}",901337834,"soho,china"
+1212.HK,Lifestyle International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6923851264, 'fmt': '6.924B', 'longFmt': '6,923,851,264'}",882537566,"lifestyle,international"
+1666.HK,Tong Ren Tang Technologies Co. Ltd.,EQUITY,HKD,hongkong,"{'raw': 6839365632, 'fmt': '6.839B', 'longFmt': '6,839,365,632'}",871768741,"tong,ren"
+0797.HK,7Road Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6827936256, 'fmt': '6.828B', 'longFmt': '6,827,936,256'}",870311914,7road
+2138.HK,EC Healthcare,EQUITY,HKD,hongkong,"{'raw': 6799252992, 'fmt': '6.799B', 'longFmt': '6,799,252,992'}",866655848,"ec,healthcare"
+1082.HK,Hong Kong Education (Int'l) Investments Limited,EQUITY,HKD,hongkong,"{'raw': 906575104, 'fmt': '906.575M', 'longFmt': '906,575,104'}",115555137,int'l
+0120.HK,Cosmopolitan International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6776049664, 'fmt': '6.776B', 'longFmt': '6,776,049,664'}",863698273,"cosmopolitan,international"
+2678.HK,Texhong Textile Group Limited,EQUITY,HKD,hongkong,"{'raw': 6774840320, 'fmt': '6.775B', 'longFmt': '6,774,840,320'}",863544126,texhong
+3933.HK,The United Laboratories International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6761360384, 'fmt': '6.761B', 'longFmt': '6,761,360,384'}",861825928,"united,laboratories"
+1112.HK,Health and Happiness (H&H) International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6710194176, 'fmt': '6.71B', 'longFmt': '6,710,194,176'}",855304109,"health,and"
+0341.HK,Café de Coral Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6630169088, 'fmt': '6.63B', 'longFmt': '6,630,169,088'}",845103840,"cafe,de"
+2390.HK,Zhihu Inc.,EQUITY,HKD,hongkong,"{'raw': 6613597696, 'fmt': '6.614B', 'longFmt': '6,613,597,696'}",842991594,zhihu
+6968.HK,Ganglong China Property Group Limited,EQUITY,HKD,hongkong,"{'raw': 6619692544, 'fmt': '6.62B', 'longFmt': '6,619,692,544'}",843768464,ganglong
+6138.HK,"Harbin Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 6597360640, 'fmt': '6.597B', 'longFmt': '6,597,360,640'}",840921964,"harbin,bank"
+0667.HK,China East Education Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6589280768, 'fmt': '6.589B', 'longFmt': '6,589,280,768'}",839892076,"china,east"
+0612.HK,China Investment Fund Company Limited,EQUITY,HKD,hongkong,"{'raw': 6504749568, 'fmt': '6.505B', 'longFmt': '6,504,749,568'}",829117443,"china,investment,fund"
+1119.HK,iDreamSky Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6548617728, 'fmt': '6.549B', 'longFmt': '6,548,617,728'}",834709027,idreamsky
+1622.HK,Redco Properties Group Limited,EQUITY,HKD,hongkong,"{'raw': 6499446784, 'fmt': '6.499B', 'longFmt': '6,499,446,784'}",828441532,redco
+2858.HK,Yixin Group Limited,EQUITY,HKD,hongkong,"{'raw': 6458532352, 'fmt': '6.459B', 'longFmt': '6,458,532,352'}",823226440,yixin
+9939.HK,Kintor Pharmaceutical Limited,EQUITY,HKD,hongkong,"{'raw': 6426242560, 'fmt': '6.426B', 'longFmt': '6,426,242,560'}",819110673,kintor
+9966.HK,Alphamab Oncology,EQUITY,HKD,hongkong,"{'raw': 6414954496, 'fmt': '6.415B', 'longFmt': '6,414,954,496'}",817671858,alphamab
+1760.HK,Intron Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 6388470784, 'fmt': '6.388B', 'longFmt': '6,388,470,784'}",814296155,"intron,technology"
+0182.HK,Concord New Energy Group Limited,EQUITY,HKD,hongkong,"{'raw': 6373562368, 'fmt': '6.374B', 'longFmt': '6,373,562,368'}",812395877,"concord,new"
+1475.HK,Nissin Foods Company Limited,EQUITY,HKD,hongkong,"{'raw': 6345634816, 'fmt': '6.346B', 'longFmt': '6,345,634,816'}",808836137,nissin
+9699.HK,"Hangzhou SF Intra-city Industrial Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 6328845312, 'fmt': '6.329B', 'longFmt': '6,328,845,312'}",806696090,intra-city
+2257.HK,Sirnaomics Ltd.,EQUITY,HKD,hongkong,"{'raw': 6188818944, 'fmt': '6.189B', 'longFmt': '6,188,818,944'}",788847854,sirnaomics
+0435.HK,Sunlight Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 6171875840, 'fmt': '6.172B', 'longFmt': '6,171,875,840'}",786688228,"sunlight,real"
+1277.HK,Kinetic Development Group Limited,EQUITY,HKD,hongkong,"{'raw': 6069600256, 'fmt': '6.07B', 'longFmt': '6,069,600,256'}",773651835,"kinetic,development"
+2391.HK,Tuya Inc.,EQUITY,HKD,hongkong,"{'raw': 6149194240, 'fmt': '6.149B', 'longFmt': '6,149,194,240'}",783797155,tuya
+9923.HK,Yeahka Limited,EQUITY,HKD,hongkong,"{'raw': 6078515200, 'fmt': '6.079B', 'longFmt': '6,078,515,200'}",774788164,yeahka
+2199.HK,Regina Miracle International (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 6084521984, 'fmt': '6.085B', 'longFmt': '6,084,521,984'}",775553810,"regina,miracle"
+3378.HK,"Xiamen International Port Co., Ltd",EQUITY,HKD,hongkong,"{'raw': 6079426048, 'fmt': '6.079B', 'longFmt': '6,079,426,048'}",774904264,"xiamen,international"
+1755.HK,"S-Enjoy Service Group Co., Limited",EQUITY,HKD,hongkong,"{'raw': 6056132608, 'fmt': '6.056B', 'longFmt': '6,056,132,608'}",771935203,s-enjoy
+0743.HK,Asia Cement (China) Holdings Corporation,EQUITY,HKD,hongkong,"{'raw': 5985367040, 'fmt': '5.985B', 'longFmt': '5,985,367,040'}",762915184,"asia,cement"
+2777.HK,"Guangzhou R&F Properties Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 5966268416, 'fmt': '5.966B', 'longFmt': '5,966,268,416'}",760480809,r&f
+0035.HK,Far East Consortium International Limited,EQUITY,HKD,hongkong,"{'raw': 6049050112, 'fmt': '6.049B', 'longFmt': '6,049,050,112'}",771032444,"far,east,consortium"
+1057.HK,Zhejiang Shibao Company Limited,EQUITY,HKD,hongkong,"{'raw': 5950704128, 'fmt': '5.951B', 'longFmt': '5,950,704,128'}",758496932,shibao
+1563.HK,"International Alliance Financial Leasing Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 5880000000, 'fmt': '5.88B', 'longFmt': '5,880,000,000'}",749484744,"international,alliance"
+0116.HK,Chow Sang Sang Holdings International Limited,EQUITY,HKD,hongkong,"{'raw': 5873352704, 'fmt': '5.873B', 'longFmt': '5,873,352,704'}",748637457,"chow,sang"
+0028.HK,Tian An China Investments Company Limited,EQUITY,HKD,hongkong,"{'raw': 5864280064, 'fmt': '5.864B', 'longFmt': '5,864,280,064'}",747481027,"tian,an"
+1866.HK,China XLX Fertiliser Ltd.,EQUITY,HKD,hongkong,"{'raw': 5845851648, 'fmt': '5.846B', 'longFmt': '5,845,851,648'}",745132079,xlx
+2148.HK,"Vesync Co., Ltd",EQUITY,HKD,hongkong,"{'raw': 5860915200, 'fmt': '5.861B', 'longFmt': '5,860,915,200'}",747052130,vesync
+1668.HK,China South City Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5835368448, 'fmt': '5.835B', 'longFmt': '5,835,368,448'}",743795855,"china,south,city"
+2500.HK,Venus Medtech (Hangzhou) Inc.,EQUITY,HKD,hongkong,"{'raw': 5786064384, 'fmt': '5.786B', 'longFmt': '5,786,064,384'}",737511392,medtech
+2137.HK,Brii Biosciences Limited,EQUITY,HKD,hongkong,"{'raw': 5798350336, 'fmt': '5.798B', 'longFmt': '5,798,350,336'}",739077401,brii
+3339.HK,Lonking Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5778135040, 'fmt': '5.778B', 'longFmt': '5,778,135,040'}",736500690,lonking
+0581.HK,China Oriental Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 5732757504, 'fmt': '5.733B', 'longFmt': '5,732,757,504'}",730716716,"china,oriental"
+1763.HK,China Isotope & Radiation Corporation,EQUITY,HKD,hongkong,"{'raw': 5725762560, 'fmt': '5.726B', 'longFmt': '5,725,762,560'}",729825116,"china,isotope"
+0215.HK,Hutchison Telecommunications Hong Kong Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5590155776, 'fmt': '5.59B', 'longFmt': '5,590,155,776'}",712540216,"hutchison,telecommunications"
+2098.HK,Zall Smart Commerce Group Ltd.,EQUITY,HKD,hongkong,"{'raw': 5579774976, 'fmt': '5.58B', 'longFmt': '5,579,774,976'}",711217044,zall
+1183.HK,MECOM Power and Construction Limited,EQUITY,HKD,hongkong,"{'raw': 5506627072, 'fmt': '5.507B', 'longFmt': '5,506,627,072'}",701893364,mecom
+0861.HK,Digital China Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5539384320, 'fmt': '5.539B', 'longFmt': '5,539,384,320'}",706068714,"digital,china"
+1230.HK,Yashili International Holdings Ltd,EQUITY,HKD,hongkong,"{'raw': 5504849408, 'fmt': '5.505B', 'longFmt': '5,504,849,408'}",701666777,yashili
+2686.HK,AAG Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5500094464, 'fmt': '5.5B', 'longFmt': '5,500,094,464'}",701060696,"aag,energy"
+6868.HK,Tenfu (Cayman) Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 5477934592, 'fmt': '5.478B', 'longFmt': '5,477,934,592'}",698236123,tenfu
+0895.HK,Dongjiang Environmental Company Limited,EQUITY,HKD,hongkong,"{'raw': 5304487424, 'fmt': '5.304B', 'longFmt': '5,304,487,424'}",676127959,dongjiang
+0732.HK,Truly International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5464641024, 'fmt': '5.465B', 'longFmt': '5,464,641,024'}",696541680,"truly,international"
+3316.HK,Binjiang Service Group Co. Ltd.,EQUITY,HKD,hongkong,"{'raw': 5450745856, 'fmt': '5.451B', 'longFmt': '5,450,745,856'}",694770555,binjiang
+0873.HK,Shimao Services Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5380610560, 'fmt': '5.381B', 'longFmt': '5,380,610,560'}",685830872,shimao
+1935.HK,JH Educational Technology INC.,EQUITY,HKD,hongkong,"{'raw': 5378788352, 'fmt': '5.379B', 'longFmt': '5,378,788,352'}",685598607,"jh,educational"
+87001.HK,Hui Xian Real Estate Investment Trust,EQUITY,CNY,hongkong,"{'raw': 5377539584, 'fmt': '5.378B', 'longFmt': '5,377,539,584'}",685439435,"hui,xian"
+3380.HK,Logan Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 5287431168, 'fmt': '5.287B', 'longFmt': '5,287,431,168'}",673953910,"logan,group"
+0302.HK,CMGE Technology Group Limited,EQUITY,HKD,hongkong,"{'raw': 5314655744, 'fmt': '5.315B', 'longFmt': '5,314,655,744'}",677424047,cmge
+2019.HK,Dexin China Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 5294626304, 'fmt': '5.295B', 'longFmt': '5,294,626,304'}",674871027,dexin
+1765.HK,"Hope Education Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 5217907200, 'fmt': '5.218B', 'longFmt': '5,217,907,200'}",665092150,"hope,education"
+6069.HK,SY Holdings Group Limited,EQUITY,HKD,hongkong,"{'raw': 5202273792, 'fmt': '5.202B', 'longFmt': '5,202,273,792'}",663099463,"sy,holdings"
+1478.HK,Q Technology (Group) Company Limited,EQUITY,HKD,hongkong,"{'raw': 5211976192, 'fmt': '5.212B', 'longFmt': '5,211,976,192'}",664336163,"q,technology"
+0369.HK,Wing Tai Properties Limited,EQUITY,HKD,hongkong,"{'raw': 5193364992, 'fmt': '5.193B', 'longFmt': '5,193,364,992'}",661963917,"wing,tai"
+2616.HK,CStone Pharmaceuticals,EQUITY,HKD,hongkong,"{'raw': 5350797312, 'fmt': '5.351B', 'longFmt': '5,350,797,312'}",682030774,cstone
+6100.HK,Tongdao Liepin Group,EQUITY,HKD,hongkong,"{'raw': 5122675712, 'fmt': '5.123B', 'longFmt': '5,122,675,712'}",652953621,tongdao
+2233.HK,West China Cement Limited,EQUITY,HKD,hongkong,"{'raw': 5058158080, 'fmt': '5.058B', 'longFmt': '5,058,158,080'}",644729985,"west,china"
+0256.HK,Citychamp Watch & Jewellery Group Limited,EQUITY,HKD,hongkong,"{'raw': 5134860288, 'fmt': '5.135B', 'longFmt': '5,134,860,288'}",654506709,citychamp
+0095.HK,LVGEM (China) Real Estate Investment Company Limited,EQUITY,HKD,hongkong,"{'raw': 5046723072, 'fmt': '5.047B', 'longFmt': '5,046,723,072'}",643272440,lvgem
+0062.HK,Transport International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 5043862528, 'fmt': '5.044B', 'longFmt': '5,043,862,528'}",642907825,"transport,international"
+6600.HK,SciClone Pharmaceuticals (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 5014331904, 'fmt': '5.014B', 'longFmt': '5,014,331,904'}",639143752,sciclone
+0686.HK,"Beijing Energy International Holding Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 4979016192, 'fmt': '4.979B', 'longFmt': '4,979,016,192'}",634642292,"beijing,energy"
+1521.HK,Frontage Holdings Corporation,EQUITY,HKD,hongkong,"{'raw': 4972288000, 'fmt': '4.972B', 'longFmt': '4,972,288,000'}",633784693,"frontage,holdings"
+1733.HK,E-Commodities Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4526384128, 'fmt': '4.526B', 'longFmt': '4,526,384,128'}",576948273,e-commodities
+0051.HK,Harbour Centre Development Limited,EQUITY,HKD,hongkong,"{'raw': 4962999808, 'fmt': '4.963B', 'longFmt': '4,962,999,808'}",632600789,"harbour,centre"
+6639.HK,Arrail Group Limited,EQUITY,HKD,hongkong,"{'raw': 4931899904, 'fmt': '4.932B', 'longFmt': '4,931,899,904'}",628636690,arrail
+3309.HK,C-MER Eye Care Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4884174848, 'fmt': '4.884B', 'longFmt': '4,884,174,848'}",622553492,c-mer
+6616.HK,Global New Material International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4886215680, 'fmt': '4.886B', 'longFmt': '4,886,215,680'}",622813624,"global,new,material"
+1830.HK,Perfect Medical Health Management Limited,EQUITY,HKD,hongkong,"{'raw': 4841460224, 'fmt': '4.841B', 'longFmt': '4,841,460,224'}",617108941,"perfect,medical"
+1916.HK,"Jiangxi Bank Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 4819424256, 'fmt': '4.819B', 'longFmt': '4,819,424,256'}",614300162,"jiangxi,bank"
+1911.HK,China Renaissance Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4874655744, 'fmt': '4.875B', 'longFmt': '4,874,655,744'}",621340155,"china,renaissance"
+0376.HK,Yunfeng Financial Group Limited,EQUITY,HKD,hongkong,"{'raw': 4796307456, 'fmt': '4.796B', 'longFmt': '4,796,307,456'}",611353616,yunfeng
+2877.HK,China Shineway Pharmaceutical Group Limited,EQUITY,HKD,hongkong,"{'raw': 4755250176, 'fmt': '4.755B', 'longFmt': '4,755,250,176'}",606120316,shineway
+0776.HK,Imperium Technology Group Limited,EQUITY,HKD,hongkong,"{'raw': 4758851072, 'fmt': '4.759B', 'longFmt': '4,758,851,072'}",606579299,"imperium,technology"
+1696.HK,Sisram Medical Ltd,EQUITY,HKD,hongkong,"{'raw': 4801406976, 'fmt': '4.801B', 'longFmt': '4,801,406,976'}",612003618,sisram
+0329.HK,OCI International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4709215232, 'fmt': '4.709B', 'longFmt': '4,709,215,232'}",600252546,"oci,international"
+6608.HK,Bairong Inc.,EQUITY,HKD,hongkong,"{'raw': 4680093184, 'fmt': '4.68B', 'longFmt': '4,680,093,184'}",596540551,bairong
+0989.HK,Hua Yin International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4754402304, 'fmt': '4.754B', 'longFmt': '4,754,402,304'}",606012244,"hua,yin"
+0289.HK,Wing On Company International Limited,EQUITY,HKD,hongkong,"{'raw': 4659776000, 'fmt': '4.66B', 'longFmt': '4,659,776,000'}",593950854,"wing,on"
+1558.HK,"YiChang HEC ChangJiang Pharmaceutical Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 4655030784, 'fmt': '4.655B', 'longFmt': '4,655,030,784'}",593346013,yichang
+1501.HK,"Shanghai Kindly Medical Instruments Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 4636800000, 'fmt': '4.637B', 'longFmt': '4,636,800,000'}",591022255,"shanghai,kindly"
+6830.HK,Huazhong In-Vehicle Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 4635277824, 'fmt': '4.635B', 'longFmt': '4,635,277,824'}",590828233,huazhong
+8328.HK,Xinyi Electric Storage Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4575273984, 'fmt': '4.575B', 'longFmt': '4,575,273,984'}",583179940,"xinyi,electric"
+0315.HK,SmarTone Telecommunications Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4566210560, 'fmt': '4.566B', 'longFmt': '4,566,210,560'}",582024686,smartone
+2297.HK,Rainmed Medical Limited,EQUITY,HKD,hongkong,"{'raw': 4554420224, 'fmt': '4.554B', 'longFmt': '4,554,420,224'}",580521849,rainmed
+1234.HK,China Lilang Limited,EQUITY,HKD,hongkong,"{'raw': 4538487296, 'fmt': '4.538B', 'longFmt': '4,538,487,296'}",578490984,lilang
+1813.HK,KWG Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4488749056, 'fmt': '4.489B', 'longFmt': '4,488,749,056'}",572151179,kwg
+1809.HK,Prinx Chengshan Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4467808768, 'fmt': '4.468B', 'longFmt': '4,467,808,768'}",569482059,prinx
+2337.HK,United Strength Power Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4426613760, 'fmt': '4.427B', 'longFmt': '4,426,613,760'}",564231204,"united,strength"
+0185.HK,Zensun Enterprises Limited,EQUITY,HKD,hongkong,"{'raw': 4419930624, 'fmt': '4.42B', 'longFmt': '4,419,930,624'}",563379349,zensun
+6889.HK,"DYNAM JAPAN HOLDINGS Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 4417415680, 'fmt': '4.417B', 'longFmt': '4,417,415,680'}",563058785,"dynam,japan"
+0488.HK,Lai Sun Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 4340609536, 'fmt': '4.341B', 'longFmt': '4,340,609,536'}",553268814,"lai,sun"
+1286.HK,Impro Precision Industries Limited,EQUITY,HKD,hongkong,"{'raw': 4331567104, 'fmt': '4.332B', 'longFmt': '4,331,567,104'}",552116235,impro
+1576.HK,Qilu Expressway Company Limited,EQUITY,HKD,hongkong,"{'raw': 4300000256, 'fmt': '4.3B', 'longFmt': '4,300,000,256'}",548092617,qilu
+9991.HK,Baozun Inc.,EQUITY,HKD,hongkong,"{'raw': 4249016064, 'fmt': '4.249B', 'longFmt': '4,249,016,064'}",541593999,baozun
+1137.HK,Hong Kong Technology Venture Company Limited,EQUITY,HKD,hongkong,"{'raw': 4264082432, 'fmt': '4.264B', 'longFmt': '4,264,082,432'}",543514410,"hong,kong,technology"
+0127.HK,Chinese Estates Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4253992448, 'fmt': '4.254B', 'longFmt': '4,253,992,448'}",542228306,"chinese,estates"
+0806.HK,Value Partners Group Limited,EQUITY,HKD,hongkong,"{'raw': 4244740352, 'fmt': '4.245B', 'longFmt': '4,244,740,352'}",541049002,"value,partners"
+6667.HK,Mega Genomics Limited,EQUITY,HKD,hongkong,"{'raw': 4210518528, 'fmt': '4.211B', 'longFmt': '4,210,518,528'}",536686973,"mega,genomics"
+9956.HK,ANE (Cayman) Inc.,EQUITY,HKD,hongkong,"{'raw': 4208648192, 'fmt': '4.209B', 'longFmt': '4,208,648,192'}",536448573,"ane,cayman"
+3813.HK,Pou Sheng International (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 4154420224, 'fmt': '4.154B', 'longFmt': '4,154,420,224'}",529536493,pou
+1382.HK,Pacific Textiles Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4134845440, 'fmt': '4.135B', 'longFmt': '4,134,845,440'}",527041424,"pacific,textiles"
+2246.HK,Gogox Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4185590528, 'fmt': '4.186B', 'longFmt': '4,185,590,528'}",533509565,gogox
+1031.HK,Kingston Financial Group Limited,EQUITY,HKD,hongkong,"{'raw': 4184844544, 'fmt': '4.185B', 'longFmt': '4,184,844,544'}",533414480,"kingston,financial"
+1238.HK,Powerlong Real Estate Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4181804032, 'fmt': '4.182B', 'longFmt': '4,181,804,032'}",533026926,powerlong
+6169.HK,China YuHua Education Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 4169608448, 'fmt': '4.17B', 'longFmt': '4,169,608,448'}",531472435,yuhua
+6855.HK,Ascentage Pharma Group International,EQUITY,HKD,hongkong,"{'raw': 4169292544, 'fmt': '4.169B', 'longFmt': '4,169,292,544'}",531432169,ascentage
+0242.HK,Shun Tak Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4107716608, 'fmt': '4.108B', 'longFmt': '4,107,716,608'}",523583491,"shun,tak"
+1881.HK,Regal Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 4104361728, 'fmt': '4.104B', 'longFmt': '4,104,361,728'}",523155867,"regal,real"
+1330.HK,"Dynagreen Environmental Protection Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 4096713728, 'fmt': '4.097B', 'longFmt': '4,096,713,728'}",522181027,dynagreen
+0178.HK,Sa Sa International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 4065178624, 'fmt': '4.065B', 'longFmt': '4,065,178,624'}",518161456,"sa,sa"
+1133.HK,Harbin Electric Company Limited,EQUITY,HKD,hongkong,"{'raw': 4061517824, 'fmt': '4.062B', 'longFmt': '4,061,517,824'}",517694838,"harbin,electric"
+3306.HK,JNBY Design Limited,EQUITY,HKD,hongkong,"{'raw': 4009937664, 'fmt': '4.01B', 'longFmt': '4,009,937,664'}",511120255,jnby
+0480.HK,HKR International Limited,EQUITY,HKD,hongkong,"{'raw': 3965751040, 'fmt': '3.966B', 'longFmt': '3,965,751,040'}",505488078,hkr
+0032.HK,The Cross-Harbour (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 3950492928, 'fmt': '3.95B', 'longFmt': '3,950,492,928'}",503543228,cross-harbour
+2342.HK,Comba Telecom Systems Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3950045952, 'fmt': '3.95B', 'longFmt': '3,950,045,952'}",503486255,comba
+2163.HK,"Changsha Broad Homes Industrial Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3944999680, 'fmt': '3.945B', 'longFmt': '3,944,999,680'}",502843040,"changsha,broad"
+0606.HK,SCE Intelligent Commercial Management Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3942500096, 'fmt': '3.943B', 'longFmt': '3,942,500,096'}",502524434,"sce,intelligent"
+1729.HK,Time Interconnect Technology Limited,EQUITY,HKD,hongkong,"{'raw': 3930818816, 'fmt': '3.931B', 'longFmt': '3,930,818,816'}",501035499,"time,interconnect"
+1426.HK,Spring Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 3927353088, 'fmt': '3.927B', 'longFmt': '3,927,353,088'}",500593745,"spring,real"
+1600.HK,Tian Lun Gas Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3918916608, 'fmt': '3.919B', 'longFmt': '3,918,916,608'}",499518403,"tian,lun"
+6166.HK,China VAST Industrial Urban Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 3913438464, 'fmt': '3.913B', 'longFmt': '3,913,438,464'}",498820140,"china,vast"
+9996.HK,Peijia Medical Limited,EQUITY,HKD,hongkong,"{'raw': 3906827008, 'fmt': '3.907B', 'longFmt': '3,906,827,008'}",497977421,peijia
+6989.HK,Excellence Commercial Property & Facilities Management Group Limited,EQUITY,HKD,hongkong,"{'raw': 3880712960, 'fmt': '3.881B', 'longFmt': '3,880,712,960'}",494648836,"excellence,commercial"
+0105.HK,Associated International Hotels Limited,EQUITY,HKD,hongkong,"{'raw': 3888000000, 'fmt': '3.888B', 'longFmt': '3,888,000,000'}",495577667,"associated,international"
+2190.HK,"Zylox-Tonbridge Medical Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3882443776, 'fmt': '3.882B', 'longFmt': '3,882,443,776'}",494869452,zylox-tonbridge
+1709.HK,DL Holdings Group Limited,EQUITY,HKD,hongkong,"{'raw': 3861323776, 'fmt': '3.861B', 'longFmt': '3,861,323,776'}",492177425,"dl,holdings"
+1140.HK,Wealthking Investments Limited,EQUITY,HKD,hongkong,"{'raw': 3852359936, 'fmt': '3.852B', 'longFmt': '3,852,359,936'}",491034864,wealthking
+1596.HK,Hebei Yichen Industrial Group Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 3806841344, 'fmt': '3.807B', 'longFmt': '3,806,841,344'}",485232910,yichen
+1672.HK,Ascletis Pharma Inc.,EQUITY,HKD,hongkong,"{'raw': 3781820416, 'fmt': '3.782B', 'longFmt': '3,781,820,416'}",482043657,ascletis
+1003.HK,Huanxi Media Group Limited,EQUITY,HKD,hongkong,"{'raw': 3802728704, 'fmt': '3.803B', 'longFmt': '3,802,728,704'}",484708699,huanxi
+2552.HK,Hua Medicine (Shanghai) Ltd.,EQUITY,HKD,hongkong,"{'raw': 3796382976, 'fmt': '3.796B', 'longFmt': '3,796,382,976'}",483899850,"hua,medicine"
+0798.HK,China Electronics Optics Valley Union Holding Company Limited,EQUITY,HKD,hongkong,"{'raw': 3784888320, 'fmt': '3.785B', 'longFmt': '3,784,888,320'}",482434703,"china,electronics"
+1817.HK,Mulsanne Group Holding Limited,EQUITY,HKD,hongkong,"{'raw': 3780999936, 'fmt': '3.781B', 'longFmt': '3,780,999,936'}",481939076,"mulsanne,group"
+1921.HK,Dalipal Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3731190272, 'fmt': '3.731B', 'longFmt': '3,731,190,272'}",475590167,dalipal
+1996.HK,Redsun Properties Group Limited,EQUITY,HKD,hongkong,"{'raw': 3739276800, 'fmt': '3.739B', 'longFmt': '3,739,276,800'}",476620904,redsun
+3318.HK,China Boton Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 3738564352, 'fmt': '3.739B', 'longFmt': '3,738,564,352'}",476530093,boton
+2001.HK,China New Higher Education Group Limited,EQUITY,HKD,hongkong,"{'raw': 3734016512, 'fmt': '3.734B', 'longFmt': '3,734,016,512'}",475950409,"china,new,higher"
+0906.HK,CPMC Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3729957120, 'fmt': '3.73B', 'longFmt': '3,729,957,120'}",475432986,cpmc
+0207.HK,Joy City Property Limited,EQUITY,HKD,hongkong,"{'raw': 3700086016, 'fmt': '3.7B', 'longFmt': '3,700,086,016'}",471625513,"joy,city"
+0026.HK,"China Motor Bus Company, Limited",EQUITY,HKD,hongkong,"{'raw': 3692610048, 'fmt': '3.693B', 'longFmt': '3,692,610,048'}",470672601,"china,motor"
+2279.HK,"Yonghe Medical Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3642122752, 'fmt': '3.642B', 'longFmt': '3,642,122,752'}",464237319,yonghe
+2117.HK,Datang Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3654287104, 'fmt': '3.654B', 'longFmt': '3,654,287,104'}",465787829,"datang,group"
+3382.HK,Tianjin Port Development Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3633219840, 'fmt': '3.633B', 'longFmt': '3,633,219,840'}",463102524,"tianjin,port"
+3836.HK,China Harmony Auto Holding Limited,EQUITY,HKD,hongkong,"{'raw': 3607577856, 'fmt': '3.608B', 'longFmt': '3,607,577,856'}",459834109,"china,harmony"
+0799.HK,IGG Inc,EQUITY,HKD,hongkong,"{'raw': 3615332608, 'fmt': '3.615B', 'longFmt': '3,615,332,608'}",460822556,igg
+2235.HK,"MicroTech Medical (Hangzhou) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3584756224, 'fmt': '3.585B', 'longFmt': '3,584,756,224'}",456925187,microtech
+0520.HK,"Xiabuxiabu Catering Management (China) Holdings Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3583470080, 'fmt': '3.583B', 'longFmt': '3,583,470,080'}",456761251,xiabuxiabu
+1848.HK,China Aircraft Leasing Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3580347648, 'fmt': '3.58B', 'longFmt': '3,580,347,648'}",456363255,"china,aircraft"
+0568.HK,Shandong Molong Petroleum Machinery Company Limited,EQUITY,HKD,hongkong,"{'raw': 3547759872, 'fmt': '3.548B', 'longFmt': '3,547,759,872'}",452209506,molong
+1890.HK,China Kepei Education Group Limited,EQUITY,HKD,hongkong,"{'raw': 3546840064, 'fmt': '3.547B', 'longFmt': '3,546,840,064'}",452092265,kepei
+1708.HK,Nanjing Sample Technology Company Limited,EQUITY,HKD,hongkong,"{'raw': 3540498944, 'fmt': '3.54B', 'longFmt': '3,540,498,944'}",451284004,"nanjing,sample"
+0108.HK,GR Properties Limited,EQUITY,HKD,hongkong,"{'raw': 3519307008, 'fmt': '3.519B', 'longFmt': '3,519,307,008'}",448582808,"gr,properties"
+0258.HK,Tomson Group Limited,EQUITY,HKD,hongkong,"{'raw': 3508433408, 'fmt': '3.508B', 'longFmt': '3,508,433,408'}",447196822,tomson
+1873.HK,Viva Biotech Holdings,EQUITY,HKD,hongkong,"{'raw': 3505255168, 'fmt': '3.505B', 'longFmt': '3,505,255,168'}",446791713,"viva,biotech"
+1468.HK,Kingkey Financial International (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 3496807424, 'fmt': '3.497B', 'longFmt': '3,496,807,424'}",445714935,kingkey
+2392.HK,Xuan Wu Cloud Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3490799872, 'fmt': '3.491B', 'longFmt': '3,490,799,872'}",444949192,"xuan,wu"
+1357.HK,"Meitu, Inc.",EQUITY,HKD,hongkong,"{'raw': 3485369344, 'fmt': '3.485B', 'longFmt': '3,485,369,344'}",444256998,meitu
+0580.HK,Sun.King Technology Group Limited,EQUITY,HKD,hongkong,"{'raw': 3484573696, 'fmt': '3.485B', 'longFmt': '3,484,573,696'}",444155582,sunking
+1952.HK,Everest Medicines Limited,EQUITY,HKD,hongkong,"{'raw': 3464798208, 'fmt': '3.465B', 'longFmt': '3,464,798,208'}",441634931,"everest,medicines"
+0808.HK,Prosperity Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 3423853056, 'fmt': '3.424B', 'longFmt': '3,423,853,056'}",436415923,"prosperity,real"
+1167.HK,"Jacobio Pharmaceuticals Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3394433024, 'fmt': '3.394B', 'longFmt': '3,394,433,024'}",432665946,jacobio
+0098.HK,Xingfa Aluminium Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3377274368, 'fmt': '3.377B', 'longFmt': '3,377,274,368'}",430478846,xingfa
+2821.HK,ABF Pan Asia Bond Index,EQUITY,USD,hongkong,"{'raw': 3367082752, 'fmt': '3.367B', 'longFmt': '3,367,082,752'}",429179788,abf
+1450.HK,Century Sage Scientific Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3365036544, 'fmt': '3.365B', 'longFmt': '3,365,036,544'}",428918971,"century,sage"
+3886.HK,Town Health International Medical Group Limited,EQUITY,HKD,hongkong,"{'raw': 3355752448, 'fmt': '3.356B', 'longFmt': '3,355,752,448'}",427735589,"town,health"
+2217.HK,Tam Jai International Co. Limited,EQUITY,HKD,hongkong,"{'raw': 3351200000, 'fmt': '3.351B', 'longFmt': '3,351,200,000'}",427155318,"tam,jai"
+8279.HK,AGTech Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3326605312, 'fmt': '3.327B', 'longFmt': '3,326,605,312'}",424020396,agtech
+6633.HK,Qingci Games Inc.,EQUITY,HKD,hongkong,"{'raw': 3318384128, 'fmt': '3.318B', 'longFmt': '3,318,384,128'}",422972496,qingci
+0332.HK,Yuan Heng Gas Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3272809984, 'fmt': '3.273B', 'longFmt': '3,272,809,984'}",417163461,"yuan,heng"
+6638.HK,"OneConnect Financial Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3264244224, 'fmt': '3.264B', 'longFmt': '3,264,244,224'}",416071640,oneconnect
+1785.HK,"Chengdu Expressway Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3262516992, 'fmt': '3.263B', 'longFmt': '3,262,516,992'}",415851481,"chengdu,expressway"
+1098.HK,Road King Infrastructure Limited,EQUITY,HKD,hongkong,"{'raw': 3259616000, 'fmt': '3.26B', 'longFmt': '3,259,616,000'}",415481711,"road,king"
+1034.HK,Fullwealth International Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3248000000, 'fmt': '3.248B', 'longFmt': '3,248,000,000'}",414001096,fullwealth
+2383.HK,TOM Group Limited,EQUITY,HKD,hongkong,"{'raw': 3245978112, 'fmt': '3.246B', 'longFmt': '3,245,978,112'}",413743380,"tom,group"
+0662.HK,Asia Financial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3226726912, 'fmt': '3.227B', 'longFmt': '3,226,726,912'}",411289556,"asia,financial"
+1902.HK,"Yincheng International Holding Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3226720768, 'fmt': '3.227B', 'longFmt': '3,226,720,768'}",411288773,yincheng
+1651.HK,Precision Tsugami (China) Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 3221601792, 'fmt': '3.222B', 'longFmt': '3,221,601,792'}",410636291,tsugami
+9990.HK,Archosaur Games Inc.,EQUITY,HKD,hongkong,"{'raw': 3206904832, 'fmt': '3.207B', 'longFmt': '3,206,904,832'}",408762967,archosaur
+2322.HK,Hong Kong ChaoShang Group Limited,EQUITY,HKD,hongkong,"{'raw': 3584922112, 'fmt': '3.585B', 'longFmt': '3,584,922,112'}",456946332,chaoshang
+1432.HK,China Shengmu Organic Milk Limited,EQUITY,HKD,hongkong,"{'raw': 3184893952, 'fmt': '3.185B', 'longFmt': '3,184,893,952'}",405957385,shengmu
+1463.HK,C-Link Squared Limited,EQUITY,HKD,hongkong,"{'raw': 3184000000, 'fmt': '3.184B', 'longFmt': '3,184,000,000'}",405843439,c-link
+0860.HK,Apollo Future Mobility Group Limited,EQUITY,HKD,hongkong,"{'raw': 3173389056, 'fmt': '3.173B', 'longFmt': '3,173,389,056'}",404490932,"apollo,future"
+1681.HK,Consun Pharmaceutical Group Limited,EQUITY,HKD,hongkong,"{'raw': 3163334144, 'fmt': '3.163B', 'longFmt': '3,163,334,144'}",403209299,consun
+1091.HK,South Manganese Investment Limited,EQUITY,HKD,hongkong,"{'raw': 3119898624, 'fmt': '3.12B', 'longFmt': '3,119,898,624'}",397672860,"south,manganese"
+1931.HK,IVD Medical Holding Limited,EQUITY,HKD,hongkong,"{'raw': 3138936576, 'fmt': '3.139B', 'longFmt': '3,138,936,576'}",400099502,ivd
+0330.HK,Esprit Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3029170176, 'fmt': '3.029B', 'longFmt': '3,029,170,176'}",386108305,"esprit,holdings"
+2197.HK,"Clover Biopharmaceuticals, Ltd.",EQUITY,HKD,hongkong,"{'raw': 3057410304, 'fmt': '3.057B', 'longFmt': '3,057,410,304'}",389707887,biopharmaceuticals
+1969.HK,"China Chunlai Education Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 3048000000, 'fmt': '3.048B', 'longFmt': '3,048,000,000'}",388508418,chunlai
+1571.HK,Xin Point Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3038817280, 'fmt': '3.039B', 'longFmt': '3,038,817,280'}",387337957,"xin,point"
+1660.HK,Zhaobangji Properties Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3035549952, 'fmt': '3.036B', 'longFmt': '3,035,549,952'}",386921493,zhaobangji
+1270.HK,Langham Hospitality Investments Limited,EQUITY,HKD,hongkong,"{'raw': 2995354368, 'fmt': '2.995B', 'longFmt': '2,995,354,368'}",381798027,"langham,hospitality"
+0259.HK,Yeebo (International Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 2989643520, 'fmt': '2.99B', 'longFmt': '2,989,643,520'}",381070103,yeebo
+1122.HK,"Qingling Motors Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2978724096, 'fmt': '2.979B', 'longFmt': '2,978,724,096'}",379678276,qingling
+1223.HK,Symphony Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2974220032, 'fmt': '2.974B', 'longFmt': '2,974,220,032'}",379104173,"symphony,holdings"
+8137.HK,Honbridge Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2969916160, 'fmt': '2.97B', 'longFmt': '2,969,916,160'}",378555587,honbridge
+1090.HK,Da Ming International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2969655040, 'fmt': '2.97B', 'longFmt': '2,969,655,040'}",378522304,"da,ming"
+0807.HK,SIIC Environment Holdings Ltd.,EQUITY,HKD,hongkong,"{'raw': 2993132800, 'fmt': '2.993B', 'longFmt': '2,993,132,800'}",381514859,siic
+1725.HK,Hong Kong Aerospace Technology Group Limited,EQUITY,HKD,hongkong,"{'raw': 2935500032, 'fmt': '2.936B', 'longFmt': '2,935,500,032'}",374168790,"hong,kong,aerospace"
+6669.HK,Acotec Scientific Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2908249856, 'fmt': '2.908B', 'longFmt': '2,908,249,856'}",370695391,acotec
+1050.HK,Karrie International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2890473216, 'fmt': '2.89B', 'longFmt': '2,890,473,216'}",368429520,"karrie,international"
+0709.HK,Giordano International Limited,EQUITY,HKD,hongkong,"{'raw': 2889460224, 'fmt': '2.889B', 'longFmt': '2,889,460,224'}",368300400,"giordano,international"
+2448.HK,Space Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2885479936, 'fmt': '2.885B', 'longFmt': '2,885,479,936'}",367793059,"space,group"
+2418.HK,"Deewin Tianxia Co., Ltd",EQUITY,HKD,hongkong,"{'raw': 2884491520, 'fmt': '2.884B', 'longFmt': '2,884,491,520'}",367667072,deewin
+0596.HK,Inspur International Limited,EQUITY,HKD,hongkong,"{'raw': 2877638400, 'fmt': '2.878B', 'longFmt': '2,877,638,400'}",366793551,inspur
+1966.HK,China SCE Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2871048448, 'fmt': '2.871B', 'longFmt': '2,871,048,448'}",365953573,"china,sce"
+0838.HK,EVA Precision Industrial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2859536640, 'fmt': '2.86B', 'longFmt': '2,859,536,640'}",364486239,"eva,precision"
+0088.HK,Tai Cheung Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2840642560, 'fmt': '2.841B', 'longFmt': '2,840,642,560'}",362077935,"tai,cheung"
+0078.HK,Regal Hotels International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2840208128, 'fmt': '2.84B', 'longFmt': '2,840,208,128'}",362022561,"regal,hotels"
+0451.HK,GCL New Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2825192704, 'fmt': '2.825B', 'longFmt': '2,825,192,704'}",360108644,"gcl,new"
+1272.HK,"Datang Environment Industry Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2819162880, 'fmt': '2.819B', 'longFmt': '2,819,162,880'}",359340062,"datang,environment"
+2772.HK,Zhongliang Holdings Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 2793796096, 'fmt': '2.794B', 'longFmt': '2,793,796,096'}",356106726,zhongliang
+3833.HK,"Xinjiang Xinxin Mining Industry Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2762499840, 'fmt': '2.762B', 'longFmt': '2,762,499,840'}",352117599,xinxin
+1233.HK,Times China Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2753384192, 'fmt': '2.753B', 'longFmt': '2,753,384,192'}",350955688,"times,china"
+1523.HK,Plover Bay Technologies Limited,EQUITY,HKD,hongkong,"{'raw': 2734799872, 'fmt': '2.735B', 'longFmt': '2,734,799,872'}",348586867,"plover,bay"
+0750.HK,China Shuifa Singyes Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2722766592, 'fmt': '2.723B', 'longFmt': '2,722,766,592'}",347053065,shuifa
+1345.HK,China Pioneer Pharma Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2716092160, 'fmt': '2.716B', 'longFmt': '2,716,092,160'}",346202319,"china,pioneer"
+2219.HK,Chaoju Eye Care Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2674822656, 'fmt': '2.675B', 'longFmt': '2,674,822,656'}",340941968,chaoju
+0400.HK,"Ingdan, Inc.",EQUITY,HKD,hongkong,"{'raw': 2700031232, 'fmt': '2.7B', 'longFmt': '2,700,031,232'}",344155139,ingdan
+6996.HK,Antengene Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 2690751232, 'fmt': '2.691B', 'longFmt': '2,690,751,232'}",342972278,antengene
+0163.HK,Emperor International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2684611584, 'fmt': '2.685B', 'longFmt': '2,684,611,584'}",342189698,"emperor,international"
+2256.HK,Abbisko Cayman Limited,EQUITY,HKD,hongkong,"{'raw': 2680776704, 'fmt': '2.681B', 'longFmt': '2,680,776,704'}",341700891,abbisko
+0194.HK,Liu Chong Hing Investment Limited,EQUITY,HKD,hongkong,"{'raw': 2676581888, 'fmt': '2.677B', 'longFmt': '2,676,581,888'}",341166206,"liu,chong"
+1263.HK,PC Partner Group Limited,EQUITY,HKD,hongkong,"{'raw': 2672949760, 'fmt': '2.673B', 'longFmt': '2,672,949,760'}",340703242,"pc,partner"
+1899.HK,Xingda International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2676544512, 'fmt': '2.677B', 'longFmt': '2,676,544,512'}",341161442,xingda
+1341.HK,Hao Tian International Construction Investment Group Limited,EQUITY,HKD,hongkong,"{'raw': 2656212992, 'fmt': '2.656B', 'longFmt': '2,656,212,992'}",338569917,"hao,tian"
+2718.HK,"Shanghai Dongzheng Automotive Finance Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2653166080, 'fmt': '2.653B', 'longFmt': '2,653,166,080'}",338181547,dongzheng
+9616.HK,Neusoft Education Technology Co. Limited,EQUITY,HKD,hongkong,"{'raw': 2661451264, 'fmt': '2.661B', 'longFmt': '2,661,451,264'}",339237605,neusoft
+0279.HK,Arta TechFin Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 2634134016, 'fmt': '2.634B', 'longFmt': '2,634,134,016'}",335755656,techfin
+6988.HK,Joy Spreader Group Inc.,EQUITY,HKD,hongkong,"{'raw': 2585403904, 'fmt': '2.585B', 'longFmt': '2,585,403,904'}",329544350,"joy,spreader"
+9911.HK,Newborn Town Inc.,EQUITY,HKD,hongkong,"{'raw': 2620684032, 'fmt': '2.621B', 'longFmt': '2,620,684,032'}",334041275,"newborn,town"
+0419.HK,Huayi Tencent Entertainment Company Limited,EQUITY,HKD,hongkong,"{'raw': 2608377600, 'fmt': '2.608B', 'longFmt': '2,608,377,600'}",332472656,huayi
+0607.HK,Fullshare Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2606038016, 'fmt': '2.606B', 'longFmt': '2,606,038,016'}",332174444,fullshare
+2360.HK,Best Mart 360 Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2640000000, 'fmt': '2.64B', 'longFmt': '2,640,000,000'}",336503354,"best,mart"
+9955.HK,ClouDr Group Limited,EQUITY,HKD,hongkong,"{'raw': 2588708864, 'fmt': '2.589B', 'longFmt': '2,588,708,864'}",329965612,cloudr
+0025.HK,Chevalier International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2581484544, 'fmt': '2.581B', 'longFmt': '2,581,484,544'}",329044776,"chevalier,international"
+2126.HK,JW (Cayman) Therapeutics Co. Ltd,EQUITY,HKD,hongkong,"{'raw': 2581161728, 'fmt': '2.581B', 'longFmt': '2,581,161,728'}",329003628,"jw,cayman"
+0626.HK,Public Financial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2580111872, 'fmt': '2.58B', 'longFmt': '2,580,111,872'}",328869810,"public,financial"
+3393.HK,Wasion Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2569370368, 'fmt': '2.569B', 'longFmt': '2,569,370,368'}",327500662,wasion
+6820.HK,FriendTimes Inc.,EQUITY,HKD,hongkong,"{'raw': 2551594240, 'fmt': '2.552B', 'longFmt': '2,551,594,240'}",325234856,friendtimes
+6601.HK,Cheerwin Group Limited,EQUITY,HKD,hongkong,"{'raw': 2546660352, 'fmt': '2.547B', 'longFmt': '2,546,660,352'}",324605966,cheerwin
+1442.HK,Infinity Logistics and Transport Ventures Limited,EQUITY,HKD,hongkong,"{'raw': 2518080000, 'fmt': '2.518B', 'longFmt': '2,518,080,000'}",320963017,"infinity,logistics"
+0875.HK,China Finance Investment Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2537229312, 'fmt': '2.537B', 'longFmt': '2,537,229,312'}",323403854,"china,finance"
+1427.HK,China Tianbao Group Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 2509313536, 'fmt': '2.509B', 'longFmt': '2,509,313,536'}",319845614,tianbao
+0695.HK,Dongwu Cement International Limited,EQUITY,HKD,hongkong,"{'raw': 2506080000, 'fmt': '2.506B', 'longFmt': '2,506,080,000'}",319433457,dongwu
+0050.HK,Hong Kong Ferry (Holdings) Company Limited,EQUITY,HKD,hongkong,"{'raw': 2493917952, 'fmt': '2.494B', 'longFmt': '2,493,917,952'}",317883241,"hong,kong,ferry"
+6909.HK,BetterLife Holding Limited,EQUITY,HKD,hongkong,"{'raw': 2489999872, 'fmt': '2.49B', 'longFmt': '2,489,999,872'}",317383829,betterlife
+1084.HK,Green Future Food Hydrocolloid Marine Science Company Limited,EQUITY,HKD,hongkong,"{'raw': 2487096576, 'fmt': '2.487B', 'longFmt': '2,487,096,576'}",317013765,"green,future"
+1543.HK,"Guangdong Join-Share Financing Guarantee Investment Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2481656064, 'fmt': '2.482B', 'longFmt': '2,481,656,064'}",316320299,join-share
+9913.HK,Chi Kan Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2480000000, 'fmt': '2.48B', 'longFmt': '2,480,000,000'}",316109211,"chi,kan"
+1773.HK,Tianli International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2477099776, 'fmt': '2.477B', 'longFmt': '2,477,099,776'}",315739539,tianli
+3989.HK,Capital Environment Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2472983040, 'fmt': '2.473B', 'longFmt': '2,472,983,040'}",315214806,"capital,environment"
+0818.HK,Hi Sun Technology (China) Limited,EQUITY,HKD,hongkong,"{'raw': 2471378688, 'fmt': '2.471B', 'longFmt': '2,471,378,688'}",315010310,"hi,sun"
+6819.HK,IntelliCentrics Global Holdings Ltd.,EQUITY,HKD,hongkong,"{'raw': 2461844736, 'fmt': '2.462B', 'longFmt': '2,461,844,736'}",313795080,intellicentrics
+0609.HK,Tiande Chemical Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2458355712, 'fmt': '2.458B', 'longFmt': '2,458,355,712'}",313350357,tiande
+0337.HK,Greenland Hong Kong Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2456854272, 'fmt': '2.457B', 'longFmt': '2,456,854,272'}",313158978,"greenland,hong"
+1569.HK,Minsheng Education Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 2446277632, 'fmt': '2.446B', 'longFmt': '2,446,277,632'}",311810844,"minsheng,education"
+1599.HK,"Beijing Urban Construction Design & Development Group Co., Limited",EQUITY,HKD,hongkong,"{'raw': 2441092608, 'fmt': '2.441B', 'longFmt': '2,441,092,608'}",311149943,"beijing,urban"
+2060.HK,Pujiang International Group Limited,EQUITY,HKD,hongkong,"{'raw': 2433132032, 'fmt': '2.433B', 'longFmt': '2,433,132,032'}",310135261,pujiang
+2191.HK,SF Real Estate Investment Trust,EQUITY,HKD,hongkong,"{'raw': 2416000000, 'fmt': '2.416B', 'longFmt': '2,416,000,000'}",307951554,"sf,real"
+2385.HK,Readboy Education Holding Company Limited,EQUITY,HKD,hongkong,"{'raw': 2397120000, 'fmt': '2.397B', 'longFmt': '2,397,120,000'}",305545045,readboy
+8083.HK,China Youzan Limited,EQUITY,HKD,hongkong,"{'raw': 2394808064, 'fmt': '2.395B', 'longFmt': '2,394,808,064'}",305250358,youzan
+3700.HK,Inkeverse Group Limited,EQUITY,HKD,hongkong,"{'raw': 2388282624, 'fmt': '2.388B', 'longFmt': '2,388,282,624'}",304418604,inkeverse
+1005.HK,Matrix Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2382039552, 'fmt': '2.382B', 'longFmt': '2,382,039,552'}",303622840,"matrix,holdings"
+0382.HK,Edvantage Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2348808192, 'fmt': '2.349B', 'longFmt': '2,348,808,192'}",299387059,edvantage
+6900.HK,Sunkwan Properties Group Limited,EQUITY,HKD,hongkong,"{'raw': 2342422272, 'fmt': '2.342B', 'longFmt': '2,342,422,272'}",298573088,sunkwan
+2276.HK,"Shanghai Conant Optical Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2333501952, 'fmt': '2.334B', 'longFmt': '2,333,501,952'}",297436073,"shanghai,conant"
+2231.HK,JY Grandmark Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2337561344, 'fmt': '2.338B', 'longFmt': '2,337,561,344'}",297953497,grandmark
+1184.HK,S.A.S. Dragon Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2315596800, 'fmt': '2.316B', 'longFmt': '2,315,596,800'}",295153822,"sas,dragon"
+1332.HK,Touyun Biotech Group Limited,EQUITY,HKD,hongkong,"{'raw': 2300878848, 'fmt': '2.301B', 'longFmt': '2,300,878,848'}",293277822,touyun
+2225.HK,Jinhai International Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2300100096, 'fmt': '2.3B', 'longFmt': '2,300,100,096'}",293178559,jinhai
+0331.HK,FSE Lifestyle Services Limited,EQUITY,HKD,hongkong,"{'raw': 2285999872, 'fmt': '2.286B', 'longFmt': '2,285,999,872'}",291381297,"fse,lifestyle"
+2130.HK,CN Logistics International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2272302848, 'fmt': '2.272B', 'longFmt': '2,272,302,848'}",289635428,"cn,logistics"
+0411.HK,Lam Soon (Hong Kong) Limited,EQUITY,HKD,hongkong,"{'raw': 2287527424, 'fmt': '2.288B', 'longFmt': '2,287,527,424'}",291576004,"lam,soon"
+1948.HK,Uju Holding Limited,EQUITY,HKD,hongkong,"{'raw': 2261999872, 'fmt': '2.262B', 'longFmt': '2,261,999,872'}",288322176,uju
+2142.HK,HBM Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2258225664, 'fmt': '2.258B', 'longFmt': '2,258,225,664'}",287841102,"hbm,holdings"
+1628.HK,Yuzhou Group Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 2257648896, 'fmt': '2.258B', 'longFmt': '2,257,648,896'}",287767585,yuzhou
+6908.HK,HG Semiconductor Limited,EQUITY,HKD,hongkong,"{'raw': 2248728064, 'fmt': '2.249B', 'longFmt': '2,248,728,064'}",286630506,"hg,semiconductor"
+2368.HK,Eagle Nice (International) Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2247298048, 'fmt': '2.247B', 'longFmt': '2,247,298,048'}",286448231,"eagle,nice"
+0408.HK,Yip's Chemical Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2245511680, 'fmt': '2.246B', 'longFmt': '2,245,511,680'}",286220535,yip's
+1608.HK,VPower Group International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2242402816, 'fmt': '2.242B', 'longFmt': '2,242,402,816'}",285824268,vpower
+0951.HK,Chaowei Power Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2241383936, 'fmt': '2.241B', 'longFmt': '2,241,383,936'}",285694398,chaowei
+1588.HK,Chanjet Information Technology Company Limited,EQUITY,HKD,hongkong,"{'raw': 2241318144, 'fmt': '2.241B', 'longFmt': '2,241,318,144'}",285686012,chanjet
+0975.HK,Mongolian Mining Corporation,EQUITY,HKD,hongkong,"{'raw': 2247220992, 'fmt': '2.247B', 'longFmt': '2,247,220,992'}",286438409,"mongolian,mining"
+3818.HK,"China Dongxiang (Group) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2207835136, 'fmt': '2.208B', 'longFmt': '2,207,835,136'}",281418155,dongxiang
+0846.HK,Mingfa Group (International) Company Limited,EQUITY,HKD,hongkong,"{'raw': 2193642240, 'fmt': '2.194B', 'longFmt': '2,193,642,240'}",279609080,mingfa
+1428.HK,Bright Smart Securities & Commodities Group Limited,EQUITY,HKD,hongkong,"{'raw': 2189516800, 'fmt': '2.19B', 'longFmt': '2,189,516,800'}",279083237,"bright,smart"
+2722.HK,"Chongqing Machinery & Electric Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 2173937408, 'fmt': '2.174B', 'longFmt': '2,173,937,408'}",277097435,"chongqing,machinery"
+1875.HK,TOT BIOPHARM International Company Limited,EQUITY,HKD,hongkong,"{'raw': 2165600768, 'fmt': '2.166B', 'longFmt': '2,165,600,768'}",276034819,biopharm
+2886.HK,Binhai Investment Company Limited,EQUITY,HKD,hongkong,"{'raw': 2163232000, 'fmt': '2.163B', 'longFmt': '2,163,232,000'}",275732888,binhai
+1593.HK,Chen Lin Education Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2160000000, 'fmt': '2.16B', 'longFmt': '2,160,000,000'}",275320926,"chen,lin"
+1061.HK,Essex Bio-Technology Limited,EQUITY,HKD,hongkong,"{'raw': 2148566272, 'fmt': '2.149B', 'longFmt': '2,148,566,272'}",273863544,"essex,bio-technology"
+0398.HK,Oriental Watch Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2144375296, 'fmt': '2.144B', 'longFmt': '2,144,375,296'}",273329348,"oriental,watch"
+0230.HK,Minmetals Land Limited,EQUITY,HKD,hongkong,"{'raw': 2142022272, 'fmt': '2.142B', 'longFmt': '2,142,022,272'}",273029424,minmetals
+0029.HK,Dynamic Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2136958848, 'fmt': '2.137B', 'longFmt': '2,136,958,848'}",272384023,"dynamic,holdings"
+2798.HK,Perennial Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2128000128, 'fmt': '2.128B', 'longFmt': '2,128,000,128'}",271242114,"perennial,energy"
+6918.HK,Kidztech Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2130423936, 'fmt': '2.13B', 'longFmt': '2,130,423,936'}",271551061,kidztech
+1970.HK,"IMAX China Holding, Inc.",EQUITY,HKD,hongkong,"{'raw': 2123259136, 'fmt': '2.123B', 'longFmt': '2,123,259,136'}",270637811,imax
+3600.HK,Modern Dental Group Limited,EQUITY,HKD,hongkong,"{'raw': 2105270272, 'fmt': '2.105B', 'longFmt': '2,105,270,272'}",268344889,"modern,dental"
+2207.HK,"Ronshine Service Holding Co., Ltd",EQUITY,HKD,hongkong,"{'raw': 2113712512, 'fmt': '2.114B', 'longFmt': '2,113,712,512'}",269420966,ronshine
+1665.HK,Pentamaster International Limited,EQUITY,HKD,hongkong,"{'raw': 2112000000, 'fmt': '2.112B', 'longFmt': '2,112,000,000'}",269202683,pentamaster
+0610.HK,Wai Kee Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2109709824, 'fmt': '2.11B', 'longFmt': '2,109,709,824'}",268910770,"wai,kee"
+9960.HK,"Kindstar Globalgene Technology, Inc.",EQUITY,HKD,hongkong,"{'raw': 2107451648, 'fmt': '2.107B', 'longFmt': '2,107,451,648'}",268622935,kindstar
+1373.HK,International Housewares Retail Company Limited,EQUITY,HKD,hongkong,"{'raw': 2104193024, 'fmt': '2.104B', 'longFmt': '2,104,193,024'}",268207580,"international,housewares"
+0286.HK,Aidigong Maternal & Child Health Limited,EQUITY,HKD,hongkong,"{'raw': 2099659776, 'fmt': '2.1B', 'longFmt': '2,099,659,776'}",267629756,aidigong
+0617.HK,Paliburg Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2095447936, 'fmt': '2.095B', 'longFmt': '2,095,447,936'}",267092901,paliburg
+0305.HK,Wuling Motors Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 3364123392, 'fmt': '3.364B', 'longFmt': '3,364,123,392'}",428802578,"wuling,motors"
+0222.HK,Min Xin Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2090399616, 'fmt': '2.09B', 'longFmt': '2,090,399,616'}",266449425,"min,xin"
+3300.HK,China Glass Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2086530688, 'fmt': '2.087B', 'longFmt': '2,086,530,688'}",265956278,"china,glass"
+6978.HK,Immunotech Biopharm Ltd,EQUITY,HKD,hongkong,"{'raw': 2084065280, 'fmt': '2.084B', 'longFmt': '2,084,065,280'}",265642029,immunotech
+2355.HK,Baoye Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 2077637120, 'fmt': '2.078B', 'longFmt': '2,077,637,120'}",264822674,baoye
+0900.HK,AEON Credit Service (Asia) Company Limited,EQUITY,HKD,hongkong,"{'raw': 2077079424, 'fmt': '2.077B', 'longFmt': '2,077,079,424'}",264751588,"aeon,credit"
+2175.HK,China General Education Group Limited,EQUITY,HKD,hongkong,"{'raw': 2072619648, 'fmt': '2.073B', 'longFmt': '2,072,619,648'}",264183130,"china,general"
+2181.HK,Mabpharm Limited,EQUITY,HKD,hongkong,"{'raw': 2062040064, 'fmt': '2.062B', 'longFmt': '2,062,040,064'}",262834620,mabpharm
+0878.HK,Soundwill Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2039824640, 'fmt': '2.04B', 'longFmt': '2,039,824,640'}",260002967,soundwill
+2801.HK,iShares Core MSCI China ETF,EQUITY,HKD,hongkong,"{'raw': 2030616064, 'fmt': '2.031B', 'longFmt': '2,030,616,064'}",258829211,"ishares,core"
+1045.HK,APT Satellite Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2033013504, 'fmt': '2.033B', 'longFmt': '2,033,013,504'}",259134796,"apt,satellite"
+2308.HK,EVOC Intelligent Technology Company Limited,EQUITY,HKD,hongkong,"{'raw': 2022349568, 'fmt': '2.022B', 'longFmt': '2,022,349,568'}",257775535,evoc
+2237.HK,China Graphite Group Limited,EQUITY,HKD,hongkong,"{'raw': 2016000000, 'fmt': '2.016B', 'longFmt': '2,016,000,000'}",256966198,"china,graphite"
+2361.HK,Sinohealth Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2010376320, 'fmt': '2.01B', 'longFmt': '2,010,376,320'}",256249384,sinohealth
+6093.HK,Hevol Services Group Co. Limited,EQUITY,HKD,hongkong,"{'raw': 2004800000, 'fmt': '2.005B', 'longFmt': '2,004,800,000'}",255538608,hevol
+2101.HK,Fulu Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2003882240, 'fmt': '2.004B', 'longFmt': '2,003,882,240'}",255421627,fulu
+6858.HK,Honma Golf Limited,EQUITY,HKD,hongkong,"{'raw': 1998618496, 'fmt': '1.999B', 'longFmt': '1,998,618,496'}",254750692,honma
+1713.HK,"Sichuan Energy Investment Development Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1998309760, 'fmt': '1.998B', 'longFmt': '1,998,309,760'}",254711340,"sichuan,energy"
+0266.HK,Tian Teck Land Limited,EQUITY,HKD,hongkong,"{'raw': 1974884992, 'fmt': '1.975B', 'longFmt': '1,974,884,992'}",251725539,"tian,teck"
+9600.HK,Newlink Technology Inc.,EQUITY,HKD,hongkong,"{'raw': 1966284928, 'fmt': '1.966B', 'longFmt': '1,966,284,928'}",250629346,newlink
+2198.HK,China Sanjiang Fine Chemicals Company Limited,EQUITY,HKD,hongkong,"{'raw': 1951600000, 'fmt': '1.952B', 'longFmt': '1,951,600,000'}",248757555,"china,sanjiang"
+0321.HK,Texwinca Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1948196864, 'fmt': '1.948B', 'longFmt': '1,948,196,864'}",248323780,texwinca
+0931.HK,China LNG Group Limited,EQUITY,HKD,hongkong,"{'raw': 1947111040, 'fmt': '1.947B', 'longFmt': '1,947,111,040'}",248185377,"china,lng"
+0326.HK,China Star Entertainment Limited,EQUITY,HKD,hongkong,"{'raw': 1938963072, 'fmt': '1.939B', 'longFmt': '1,938,963,072'}",247146809,"china,star"
+0603.HK,China Oil And Gas Group Limited,EQUITY,HKD,hongkong,"{'raw': 1931958400, 'fmt': '1.932B', 'longFmt': '1,931,958,400'}",246253970,"china,oil"
+0147.HK,International Business Settlement Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1930314624, 'fmt': '1.93B', 'longFmt': '1,930,314,624'}",246044449,"international,business"
+0186.HK,Nimble Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 1922280576, 'fmt': '1.922B', 'longFmt': '1,922,280,576'}",245020402,"nimble,holdings"
+0438.HK,IRICO Group New Energy Company Limited,EQUITY,HKD,hongkong,"{'raw': 1893698176, 'fmt': '1.894B', 'longFmt': '1,893,698,176'}",241377192,irico
+0622.HK,Oshidori International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 2070632576, 'fmt': '2.071B', 'longFmt': '2,070,632,576'}",263929851,oshidori
+2002.HK,China Sunshine Paper Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 1888516992, 'fmt': '1.889B', 'longFmt': '1,888,516,992'}",240716781,"china,sunshine"
+0716.HK,Singamas Container Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1885197568, 'fmt': '1.885B', 'longFmt': '1,885,197,568'}",240293676,singamas
+0159.HK,Brockman Mining Limited,EQUITY,HKD,hongkong,"{'raw': 1883886720, 'fmt': '1.884B', 'longFmt': '1,883,886,720'}",240126591,brockman
+3681.HK,SinoMab BioScience Limited,EQUITY,HKD,hongkong,"{'raw': 1881668864, 'fmt': '1.882B', 'longFmt': '1,881,668,864'}",239843895,sinomab
+0468.HK,Greatview Aseptic Packaging Company Limited,EQUITY,HKD,hongkong,"{'raw': 1857915648, 'fmt': '1.858B', 'longFmt': '1,857,915,648'}",236816230,greatview
+1820.HK,Pacific Millennium Packaging Group Corporation,EQUITY,HKD,hongkong,"{'raw': 1860912128, 'fmt': '1.861B', 'longFmt': '1,860,912,128'}",237198171,"pacific,millennium"
+2169.HK,Canggang Railway Limited,EQUITY,HKD,hongkong,"{'raw': 1860000000, 'fmt': '1.86B', 'longFmt': '1,860,000,000'}",237081908,canggang
+0335.HK,Upbest Group Limited,EQUITY,HKD,hongkong,"{'raw': 1850800768, 'fmt': '1.851B', 'longFmt': '1,850,800,768'}",235909343,upbest
+1977.HK,Analogue Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1848000128, 'fmt': '1.848B', 'longFmt': '1,848,000,128'}",235552364,"analogue,holdings"
+1141.HK,CMBC Capital Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1842328960, 'fmt': '1.842B', 'longFmt': '1,842,328,960'}",234829498,cmbc
+0367.HK,Chuang's Consortium International Limited,EQUITY,HKD,hongkong,"{'raw': 1823079552, 'fmt': '1.823B', 'longFmt': '1,823,079,552'}",232375903,chuang's
+1321.HK,China New City Commercial Development Limited,EQUITY,HKD,hongkong,"{'raw': 1809693056, 'fmt': '1.81B', 'longFmt': '1,809,693,056'}",230669615,"china,new,city"
+1469.HK,Get Nice Financial Group Limited,EQUITY,HKD,hongkong,"{'raw': 1800000128, 'fmt': '1.8B', 'longFmt': '1,800,000,128'}",229434121,"get,nice"
+2112.HK,CAA Resources Limited,EQUITY,HKD,hongkong,"{'raw': 1800000128, 'fmt': '1.8B', 'longFmt': '1,800,000,128'}",229434121,"caa,resources"
+1846.HK,EuroEyes International Eye Clinic Limited,EQUITY,HKD,hongkong,"{'raw': 1789498752, 'fmt': '1.789B', 'longFmt': '1,789,498,752'}",228095580,euroeyes
+2348.HK,Dawnrays Pharmaceutical (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 1783024640, 'fmt': '1.783B', 'longFmt': '1,783,024,640'}",227270368,dawnrays
+2127.HK,Huisen Household International Group Limited,EQUITY,HKD,hongkong,"{'raw': 1780072192, 'fmt': '1.78B', 'longFmt': '1,780,072,192'}",226894039,huisen
+6828.HK,Beijing Gas Blue Sky Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1779095552, 'fmt': '1.779B', 'longFmt': '1,779,095,552'}",226769553,"beijing,gas"
+0160.HK,"Hon Kwok Land Investment Company, Limited",EQUITY,HKD,hongkong,"{'raw': 1772255360, 'fmt': '1.772B', 'longFmt': '1,772,255,360'}",225897679,"hon,kwok"
+3798.HK,Homeland Interactive Technology Ltd.,EQUITY,HKD,hongkong,"{'raw': 1771091968, 'fmt': '1.771B', 'longFmt': '1,771,091,968'}",225749389,"homeland,interactive"
+2779.HK,China Xinhua Education Group Limited,EQUITY,HKD,hongkong,"{'raw': 1769437952, 'fmt': '1.769B', 'longFmt': '1,769,437,952'}",225538563,"china,xinhua"
+2698.HK,Weiqiao Textile Company Limited,EQUITY,HKD,hongkong,"{'raw': 1767697280, 'fmt': '1.768B', 'longFmt': '1,767,697,280'}",225316691,weiqiao
+8299.HK,Grand T G Gold Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1766203264, 'fmt': '1.766B', 'longFmt': '1,766,203,264'}",225126258,"grand,t"
+0825.HK,New World Department Store China Limited,EQUITY,HKD,hongkong,"{'raw': 1753595904, 'fmt': '1.754B', 'longFmt': '1,753,595,904'}",223519281,"new,world,department"
+1727.HK,Hebei Construction Group Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 1743766144, 'fmt': '1.744B', 'longFmt': '1,743,766,144'}",222266347,"hebei,construction"
+1126.HK,Dream International Limited,EQUITY,HKD,hongkong,"{'raw': 1726005760, 'fmt': '1.726B', 'longFmt': '1,726,005,760'}",220002548,"dream,international"
+2008.HK,Phoenix Media Investment (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 1722812672, 'fmt': '1.723B', 'longFmt': '1,722,812,672'}",219595546,"phoenix,media"
+0511.HK,Television Broadcasts Limited,EQUITY,HKD,hongkong,"{'raw': 1721340032, 'fmt': '1.721B', 'longFmt': '1,721,340,032'}",219407839,"television,broadcasts"
+2878.HK,Solomon Systech (International) Limited,EQUITY,HKD,hongkong,"{'raw': 1721101568, 'fmt': '1.721B', 'longFmt': '1,721,101,568'}",219377443,systech
+3336.HK,Ju Teng International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1716014208, 'fmt': '1.716B', 'longFmt': '1,716,014,208'}",218728991,"ju,teng"
+2205.HK,Kangqiao Service Group Limited,EQUITY,HKD,hongkong,"{'raw': 1708000000, 'fmt': '1.708B', 'longFmt': '1,708,000,000'}",217707473,kangqiao
+1680.HK,Macau Legend Development Limited,EQUITY,HKD,hongkong,"{'raw': 1705327232, 'fmt': '1.705B', 'longFmt': '1,705,327,232'}",217366793,"macau,legend"
+1981.HK,Cathay Media and Education Group Inc.,EQUITY,HKD,hongkong,"{'raw': 1704588160, 'fmt': '1.705B', 'longFmt': '1,704,588,160'}",217272588,"cathay,media"
+0150.HK,Hypebeast Limited,EQUITY,HKD,hongkong,"{'raw': 1704512768, 'fmt': '1.705B', 'longFmt': '1,704,512,768'}",217262978,hypebeast
+0052.HK,Fairwood Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1702326528, 'fmt': '1.702B', 'longFmt': '1,702,326,528'}",216984313,"fairwood,holdings"
+3903.HK,"Hanhua Financial Holding Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1702000000, 'fmt': '1.702B', 'longFmt': '1,702,000,000'}",216942692,hanhua
+2369.HK,Coolpad Group Limited,EQUITY,HKD,hongkong,"{'raw': 1686686720, 'fmt': '1.687B', 'longFmt': '1,686,686,720'}",214990810,coolpad
+6885.HK,Henan Jinma Energy Company Limited,EQUITY,HKD,hongkong,"{'raw': 1697284608, 'fmt': '1.697B', 'longFmt': '1,697,284,608'}",216341653,jinma
+0882.HK,Tianjin Development Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1694976640, 'fmt': '1.695B', 'longFmt': '1,694,976,640'}",216047471,"tianjin,development"
+2250.HK,Semk Holdings International Limited,EQUITY,HKD,hongkong,"{'raw': 1690000000, 'fmt': '1.69B', 'longFmt': '1,690,000,000'}",215413132,semk
+2251.HK,"Beijing Airdoc Technology Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1688158336, 'fmt': '1.688B', 'longFmt': '1,688,158,336'}",215178387,airdoc
+0255.HK,Lung Kee (Bermuda) Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1686577664, 'fmt': '1.687B', 'longFmt': '1,686,577,664'}",214976909,"lung,kee"
+1915.HK,Yangzhou Guangling District Taihe Rural Micro-finance Company Limited,EQUITY,HKD,hongkong,"{'raw': 1668000000, 'fmt': '1.668B', 'longFmt': '1,668,000,000'}",212608937,guangling
+9936.HK,Ximei Resources Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1666800000, 'fmt': '1.667B', 'longFmt': '1,666,800,000'}",212455981,ximei
+2393.HK,Yestar Healthcare Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 1655428736, 'fmt': '1.655B', 'longFmt': '1,655,428,736'}",211006561,yestar
+1697.HK,"Shandong International Trust Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1770362880, 'fmt': '1.77B', 'longFmt': '1,770,362,880'}",225656457,"shandong,international"
+2111.HK,Best Pacific International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1653297920, 'fmt': '1.653B', 'longFmt': '1,653,297,920'}",210734960,"best,pacific"
+6933.HK,Sino-Entertainment Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1648947072, 'fmt': '1.649B', 'longFmt': '1,648,947,072'}",210180386,sino-entertainment
+0497.HK,CSI Properties Limited,EQUITY,HKD,hongkong,"{'raw': 1648933376, 'fmt': '1.649B', 'longFmt': '1,648,933,376'}",210178641,"csi,properties"
+1855.HK,ZONBONG LANDSCAPE Environmental Limited,EQUITY,HKD,hongkong,"{'raw': 1647249920, 'fmt': '1.647B', 'longFmt': '1,647,249,920'}",209964062,zonbong
+8075.HK,Media Asia Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1642470528, 'fmt': '1.642B', 'longFmt': '1,642,470,528'}",209354864,"media,asia"
+6622.HK,Zhaoke Ophthalmology Limited,EQUITY,HKD,hongkong,"{'raw': 1636679936, 'fmt': '1.637B', 'longFmt': '1,636,679,936'}",208616776,zhaoke
+3939.HK,Wanguo International Mining Group Limited,EQUITY,HKD,hongkong,"{'raw': 1614600064, 'fmt': '1.615B', 'longFmt': '1,614,600,064'}",205802400,wanguo
+1115.HK,Tibet Water Resources Ltd.,EQUITY,HKD,hongkong,"{'raw': 1621476608, 'fmt': '1.621B', 'longFmt': '1,621,476,608'}",206678908,"tibet,water"
+0547.HK,Digital Domain Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1601741184, 'fmt': '1.602B', 'longFmt': '1,601,741,184'}",204163364,"digital,domain"
+6158.HK,Zhenro Properties Group Limited,EQUITY,HKD,hongkong,"{'raw': 1594232448, 'fmt': '1.594B', 'longFmt': '1,594,232,448'}",203206275,zhenro
+6668.HK,E-Star Commercial Management Company Limited,EQUITY,HKD,hongkong,"{'raw': 1591262336, 'fmt': '1.591B', 'longFmt': '1,591,262,336'}",202827694,e-star
+3788.HK,China Hanking Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1587600000, 'fmt': '1.588B', 'longFmt': '1,587,600,000'}",202360880,"china,hanking"
+1525.HK,Shanghai Gench Education Group Limited,EQUITY,HKD,hongkong,"{'raw': 1576999936, 'fmt': '1.577B', 'longFmt': '1,576,999,936'}",201009760,gench
+1481.HK,Smart Globe Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1570800000, 'fmt': '1.571B', 'longFmt': '1,570,800,000'}",200219495,"smart,globe"
+0085.HK,China Electronics Huada Technology Company Limited,EQUITY,HKD,hongkong,"{'raw': 1562999808, 'fmt': '1.563B', 'longFmt': '1,562,999,808'}",199225257,huada
+1085.HK,Hengxin Technology Ltd.,EQUITY,HKD,hongkong,"{'raw': 1552000000, 'fmt': '1.552B', 'longFmt': '1,552,000,000'}",197823184,hengxin
+0018.HK,Oriental Enterprise Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1534668800, 'fmt': '1.535B', 'longFmt': '1,534,668,800'}",195614090,"oriental,enterprise"
+3768.HK,"Kunming Dianchi Water Treatment Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1533373952, 'fmt': '1.533B', 'longFmt': '1,533,373,952'}",195449044,dianchi
+3838.HK,China Starch Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1528503040, 'fmt': '1.529B', 'longFmt': '1,528,503,040'}",194828181,"china,starch"
+6998.HK,Genor Biopharma Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1527053312, 'fmt': '1.527B', 'longFmt': '1,527,053,312'}",194643394,genor
+6913.HK,South China Vocational Education Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 1520759936, 'fmt': '1.521B', 'longFmt': '1,520,759,936'}",193841219,"south,china,vocational"
+0131.HK,Cheuk Nang (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 1520737280, 'fmt': '1.521B', 'longFmt': '1,520,737,280'}",193838331,cheuk
+2187.HK,Zhixin Group Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1518439936, 'fmt': '1.518B', 'longFmt': '1,518,439,936'}",193545504,zhixin
+0228.HK,China Energy Development Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1511349120, 'fmt': '1.511B', 'longFmt': '1,511,349,120'}",192641685,"china,energy,development"
+2660.HK,Zengame Technology Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1544066560, 'fmt': '1.544B', 'longFmt': '1,544,066,560'}",196811961,zengame
+0340.HK,Tongguan Gold Group Limited,EQUITY,HKD,hongkong,"{'raw': 1492598784, 'fmt': '1.493B', 'longFmt': '1,492,598,784'}",190251703,tongguan
+0863.HK,BC Technology Group Limited,EQUITY,HKD,hongkong,"{'raw': 1485705984, 'fmt': '1.486B', 'longFmt': '1,485,705,984'}",189373124,"bc,technology"
+2283.HK,TK Group (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 1483202816, 'fmt': '1.483B', 'longFmt': '1,483,202,816'}",189054061,"tk,group"
+3329.HK,BOCOM International Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 1476570624, 'fmt': '1.477B', 'longFmt': '1,476,570,624'}",188208700,bocom
+2633.HK,Jacobson Pharma Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 1475073536, 'fmt': '1.475B', 'longFmt': '1,475,073,536'}",188017876,"jacobson,pharma"
+6928.HK,TOMO Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1466999936, 'fmt': '1.467B', 'longFmt': '1,466,999,936'}",186988787,"tomo,holdings"
+2003.HK,VCREDIT Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1470932992, 'fmt': '1.471B', 'longFmt': '1,470,932,992'}",187490108,vcredit
+0113.HK,Dickson Concepts (International) Limited,EQUITY,HKD,hongkong,"{'raw': 1470377216, 'fmt': '1.47B', 'longFmt': '1,470,377,216'}",187419267,"dickson,concepts"
+1741.HK,Ri Ying Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1456000000, 'fmt': '1.456B', 'longFmt': '1,456,000,000'}",185586698,"ri,ying"
+3688.HK,Top Spring International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1455111808, 'fmt': '1.455B', 'longFmt': '1,455,111,808'}",185473486,"top,spring"
+1942.HK,MOG Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1455000064, 'fmt': '1.455B', 'longFmt': '1,455,000,064'}",185459243,"mog,holdings"
+0827.HK,Ko Yo Chemical (Group) Limited,EQUITY,HKD,hongkong,"{'raw': 1452757632, 'fmt': '1.453B', 'longFmt': '1,452,757,632'}",185173415,"ko,yo"
+0726.HK,DIT Group Limited,EQUITY,HKD,hongkong,"{'raw': 1458128000, 'fmt': '1.458B', 'longFmt': '1,458,128,000'}",185857940,"dit,group"
+2768.HK,Jiayuan International Group Limited,EQUITY,HKD,hongkong,"{'raw': 1440579200, 'fmt': '1.441B', 'longFmt': '1,440,579,200'}",183621111,jiayuan
+1366.HK,Jiangnan Group Limited,EQUITY,HKD,hongkong,"{'raw': 1437800576, 'fmt': '1.438B', 'longFmt': '1,437,800,576'}",183266938,"jiangnan,group"
+1986.HK,"Tsaker New Energy Tech Co., Limited",EQUITY,HKD,hongkong,"{'raw': 1426781952, 'fmt': '1.427B', 'longFmt': '1,426,781,952'}",181862467,tsaker
+8053.HK,Pizu Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1433528192, 'fmt': '1.434B', 'longFmt': '1,433,528,192'}",182722365,pizu
+1782.HK,Vixtel Technologies Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1417320064, 'fmt': '1.417B', 'longFmt': '1,417,320,064'}",180656422,vixtel
+8395.HK,Tree Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1409760000, 'fmt': '1.41B', 'longFmt': '1,409,760,000'}",179692791,"tree,holdings"
+6628.HK,Transcenta Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1407249152, 'fmt': '1.407B', 'longFmt': '1,407,249,152'}",179372750,transcenta
+0166.HK,New Times Energy Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 1418229632, 'fmt': '1.418B', 'longFmt': '1,418,229,632'}",180772359,"new,times"
+0431.HK,Greater China Financial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1391879040, 'fmt': '1.392B', 'longFmt': '1,391,879,040'}",177413623,"greater,china,financial"
+0226.HK,Lippo Limited,EQUITY,HKD,hongkong,"{'raw': 1385762688, 'fmt': '1.386B', 'longFmt': '1,385,762,688'}",176634012,lippo
+1168.HK,Sinolink Worldwide Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1383158016, 'fmt': '1.383B', 'longFmt': '1,383,158,016'}",176302012,sinolink
+1738.HK,Feishang Anthracite Resources Limited,EQUITY,HKD,hongkong,"{'raw': 1380550016, 'fmt': '1.381B', 'longFmt': '1,380,550,016'}",175969587,feishang
+0031.HK,China Aerospace International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1372833792, 'fmt': '1.373B', 'longFmt': '1,372,833,792'}",174986051,"china,aerospace"
+0124.HK,Guangdong Land Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1369232000, 'fmt': '1.369B', 'longFmt': '1,369,232,000'}",174526954,"guangdong,land"
+1293.HK,Grand Baoxin Auto Group Limited,EQUITY,HKD,hongkong,"{'raw': 1362004736, 'fmt': '1.362B', 'longFmt': '1,362,004,736'}",173605743,baoxin
+1943.HK,Silver Tide Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1360000000, 'fmt': '1.36B', 'longFmt': '1,360,000,000'}",173350212,"silver,tide"
+0672.HK,Zhong An Group Limited,EQUITY,HKD,hongkong,"{'raw': 1358230144, 'fmt': '1.358B', 'longFmt': '1,358,230,144'}",173124621,"zhong,an"
+0752.HK,Pico Far East Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1349703424, 'fmt': '1.35B', 'longFmt': '1,349,703,424'}",172037776,"pico,far"
+1104.HK,APAC Resources Limited,EQUITY,HKD,hongkong,"{'raw': 1341193856, 'fmt': '1.341B', 'longFmt': '1,341,193,856'}",170953118,"apac,resources"
+3315.HK,Goldpac Group Limited,EQUITY,HKD,hongkong,"{'raw': 1340357248, 'fmt': '1.34B', 'longFmt': '1,340,357,248'}",170846481,goldpac
+2012.HK,Sunshine Oilsands Ltd.,EQUITY,HKD,hongkong,"{'raw': 1336699648, 'fmt': '1.337B', 'longFmt': '1,336,699,648'}",170380271,oilsands
+1539.HK,Synergy Group Holdings International Limited,EQUITY,HKD,hongkong,"{'raw': 1335975168, 'fmt': '1.336B', 'longFmt': '1,335,975,168'}",170287926,"synergy,group"
+1086.HK,Goodbaby International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1334423936, 'fmt': '1.334B', 'longFmt': '1,334,423,936'}",170090201,goodbaby
+0635.HK,Playmates Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1331200000, 'fmt': '1.331B', 'longFmt': '1,331,200,000'}",169679267,"playmates,holdings"
+1728.HK,China ZhengTong Auto Services Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1331101952, 'fmt': '1.331B', 'longFmt': '1,331,101,952'}",169666769,zhengtong
+6896.HK,Golden Throat Holdings Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 1330743552, 'fmt': '1.331B', 'longFmt': '1,330,743,552'}",169621086,"golden,throat"
+9977.HK,"Shandong Fengxiang Co., Ltd",EQUITY,HKD,hongkong,"{'raw': 1330000000, 'fmt': '1.33B', 'longFmt': '1,330,000,000'}",169526311,fengxiang
+3337.HK,Anton Oilfield Services Group,EQUITY,HKD,hongkong,"{'raw': 1322890752, 'fmt': '1.323B', 'longFmt': '1,322,890,752'}",168620142,"anton,oilfield"
+1979.HK,Ten Pao Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1318899200, 'fmt': '1.319B', 'longFmt': '1,318,899,200'}",168111365,"ten,pao"
+2167.HK,TI Cloud Inc.,EQUITY,HKD,hongkong,"{'raw': 1315440000, 'fmt': '1.315B', 'longFmt': '1,315,440,000'}",167670444,"ti,cloud"
+2738.HK,Huajin International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1308000000, 'fmt': '1.308B', 'longFmt': '1,308,000,000'}",166722116,huajin
+6136.HK,Kangda International Environmental Company Limited,EQUITY,HKD,hongkong,"{'raw': 1305241472, 'fmt': '1.305B', 'longFmt': '1,305,241,472'}",166370505,kangda
+0057.HK,Chen Hsong Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1305201152, 'fmt': '1.305B', 'longFmt': '1,305,201,152'}",166365365,hsong
+6609.HK,Shanghai HeartCare Medical Technology Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 1308719360, 'fmt': '1.309B', 'longFmt': '1,308,719,360'}",166813808,heartcare
+2125.HK,Strawbear Entertainment Group,EQUITY,HKD,hongkong,"{'raw': 1302696192, 'fmt': '1.303B', 'longFmt': '1,302,696,192'}",166046075,strawbear
+0938.HK,Man Sang International Limited,EQUITY,HKD,hongkong,"{'raw': 1294397952, 'fmt': '1.294B', 'longFmt': '1,294,397,952'}",164988353,"man,sang"
+2488.HK,Launch Tech Company Limited,EQUITY,HKD,hongkong,"{'raw': 1292328832, 'fmt': '1.292B', 'longFmt': '1,292,328,832'}",164724616,"launch,tech"
+8227.HK,"Xi'an Haitian Antenna Technologies Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1290390016, 'fmt': '1.29B', 'longFmt': '1,290,390,016'}",164477488,"xi'an,haitian"
+2136.HK,Lifestyle China Group Limited,EQUITY,HKD,hongkong,"{'raw': 1274071552, 'fmt': '1.274B', 'longFmt': '1,274,071,552'}",162397481,"lifestyle,china"
+0896.HK,Hanison Construction Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1271428480, 'fmt': '1.271B', 'longFmt': '1,271,428,480'}",162060586,hanison
+1611.HK,Huobi Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1268737408, 'fmt': '1.269B', 'longFmt': '1,268,737,408'}",161717573,huobi
+8295.HK,Kingwisoft Technology Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 1265646208, 'fmt': '1.266B', 'longFmt': '1,265,646,208'}",161323558,kingwisoft
+1561.HK,Pan Asia Data Holdings Inc.,EQUITY,HKD,hongkong,"{'raw': 1264063488, 'fmt': '1.264B', 'longFmt': '1,264,063,488'}",161121819,"pan,asia"
+3390.HK,Tycoon Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1264000000, 'fmt': '1.264B', 'longFmt': '1,264,000,000'}",161113727,"tycoon,group"
+2599.HK,"Shinsun Holdings (Group) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1263010944, 'fmt': '1.263B', 'longFmt': '1,263,010,944'}",160987658,shinsun
+9908.HK,"JiaXing Gas Group Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1261272576, 'fmt': '1.261B', 'longFmt': '1,261,272,576'}",160766080,"jiaxing,gas"
+2153.HK,"Tat Hong Equipment Service Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1260219648, 'fmt': '1.26B', 'longFmt': '1,260,219,648'}",160631870,"tat,hong"
+2048.HK,E-House (China) Enterprise Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1259323264, 'fmt': '1.259B', 'longFmt': '1,259,323,264'}",160517614,e-house
+0420.HK,Fountain Set (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 1249530624, 'fmt': '1.25B', 'longFmt': '1,249,530,624'}",159269411,"fountain,set"
+2708.HK,IBO Technology Company Limited,EQUITY,HKD,hongkong,"{'raw': 1248622080, 'fmt': '1.249B', 'longFmt': '1,248,622,080'}",159153605,"ibo,technology"
+0082.HK,Crazy Sports Group Limited,EQUITY,HKD,hongkong,"{'raw': 1244688512, 'fmt': '1.245B', 'longFmt': '1,244,688,512'}",158652219,"crazy,sports"
+0202.HK,EverChina Int'l Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 1240042880, 'fmt': '1.24B', 'longFmt': '1,240,042,880'}",158060071,everchina
+2399.HK,China Fordoo Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1238731136, 'fmt': '1.239B', 'longFmt': '1,238,731,136'}",157892872,fordoo
+0809.HK,Global Bio-chem Technology Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 1247037440, 'fmt': '1.247B', 'longFmt': '1,247,037,440'}",158951621,bio-chem
+0533.HK,Goldlion Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1237463552, 'fmt': '1.237B', 'longFmt': '1,237,463,552'}",157731301,goldlion
+1440.HK,Deyun Holding Ltd.,EQUITY,HKD,hongkong,"{'raw': 1234800000, 'fmt': '1.235B', 'longFmt': '1,234,800,000'}",157391796,deyun
+2309.HK,Birmingham Sports Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1234496000, 'fmt': '1.234B', 'longFmt': '1,234,496,000'}",157353047,"birmingham,sports"
+2216.HK,Broncus Holding Corporation,EQUITY,HKD,hongkong,"{'raw': 1242393088, 'fmt': '1.242B', 'longFmt': '1,242,393,088'}",158359637,broncus
+1228.HK,CANbridge Pharmaceuticals Inc.,EQUITY,HKD,hongkong,"{'raw': 1217431040, 'fmt': '1.217B', 'longFmt': '1,217,431,040'}",155177889,canbridge
+0237.HK,"Safety Godown Company, Limited",EQUITY,HKD,hongkong,"{'raw': 1210950016, 'fmt': '1.211B', 'longFmt': '1,210,950,016'}",154351796,"safety,godown"
+0848.HK,Maoye International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1207977600, 'fmt': '1.208B', 'longFmt': '1,207,977,600'}",153972922,maoye
+2236.HK,Wison Engineering Services Co. Ltd.,EQUITY,HKD,hongkong,"{'raw': 1201762048, 'fmt': '1.202B', 'longFmt': '1,201,762,048'}",153180666,wison
+1756.HK,China Vocational Education Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1200000000, 'fmt': '1.2B', 'longFmt': '1,200,000,000'}",152956070,"china,vocational"
+0655.HK,Hongkong Chinese Limited,EQUITY,HKD,hongkong,"{'raw': 1198968064, 'fmt': '1.199B', 'longFmt': '1,198,968,064'}",152824536,"hongkong,chinese"
+0393.HK,Glorious Sun Enterprises Limited,EQUITY,HKD,hongkong,"{'raw': 1191824384, 'fmt': '1.192B', 'longFmt': '1,191,824,384'}",151913978,"glorious,sun"
+0698.HK,Tongda Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1185749760, 'fmt': '1.186B', 'longFmt': '1,185,749,760'}",151139686,tongda
+1488.HK,Best Food Holding Company Limited,EQUITY,HKD,hongkong,"{'raw': 1183995008, 'fmt': '1.184B', 'longFmt': '1,183,995,008'}",150916019,"best,food"
+1300.HK,Trigiant Group Limited,EQUITY,HKD,hongkong,"{'raw': 1182390016, 'fmt': '1.182B', 'longFmt': '1,182,390,016'}",150711441,trigiant
+2195.HK,Unity Enterprise Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1180000000, 'fmt': '1.18B', 'longFmt': '1,180,000,000'}",150406802,"unity,enterprise"
+0687.HK,Tysan Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1178114048, 'fmt': '1.178B', 'longFmt': '1,178,114,048'}",150166412,tysan
+0976.HK,Chiho Environmental Group Limited,EQUITY,HKD,hongkong,"{'raw': 1171759488, 'fmt': '1.172B', 'longFmt': '1,171,759,488'}",149356438,chiho
+0543.HK,Pacific Online Limited,EQUITY,HKD,hongkong,"{'raw': 1169667968, 'fmt': '1.17B', 'longFmt': '1,169,667,968'}",149089846,"pacific,online"
+1283.HK,Accel Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1168000000, 'fmt': '1.168B', 'longFmt': '1,168,000,000'}",148877241,"accel,group"
+3389.HK,Hengdeli Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1167065344, 'fmt': '1.167B', 'longFmt': '1,167,065,344'}",148758107,hengdeli
+0611.HK,China Nuclear Energy Technology Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 1166785152, 'fmt': '1.167B', 'longFmt': '1,166,785,152'}",148722393,"china,nuclear"
+0845.HK,Glorious Property Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1161104896, 'fmt': '1.161B', 'longFmt': '1,161,104,896'}",147998368,"glorious,property"
+2100.HK,BAIOO Family Interactive Limited,EQUITY,HKD,hongkong,"{'raw': 1157364480, 'fmt': '1.157B', 'longFmt': '1,157,364,480'}",147521602,baioo
+2170.HK,Suzhou Basecare Medical Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 1157212288, 'fmt': '1.157B', 'longFmt': '1,157,212,288'}",147502203,basecare
+0982.HK,Huafa Property Services Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 1157003520, 'fmt': '1.157B', 'longFmt': '1,157,003,520'}",147475593,huafa
+9906.HK,Honliv Healthcare Management Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 1152000000, 'fmt': '1.152B', 'longFmt': '1,152,000,000'}",146837827,honliv
+0089.HK,Tai Sang Land Development Limited,EQUITY,HKD,hongkong,"{'raw': 1165063680, 'fmt': '1.165B', 'longFmt': '1,165,063,680'}",148502968,"tai,sang"
+8037.HK,China Biotech Services Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1146244864, 'fmt': '1.146B', 'longFmt': '1,146,244,864'}",146104258,"china,biotech"
+0661.HK,China Daye Non-Ferrous Metals Mining Limited,EQUITY,HKD,hongkong,"{'raw': 1145318400, 'fmt': '1.145B', 'longFmt': '1,145,318,400'}",145986168,"china,daye"
+0196.HK,Honghua Group Limited,EQUITY,HKD,hongkong,"{'raw': 1140828032, 'fmt': '1.141B', 'longFmt': '1,140,828,032'}",145413810,honghua
+0592.HK,Bossini International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1135164928, 'fmt': '1.135B', 'longFmt': '1,135,164,928'}",144691972,bossini
+1282.HK,Glory Sun Financial Group Limited,EQUITY,HKD,hongkong,"{'raw': 1129949952, 'fmt': '1.13B', 'longFmt': '1,129,949,952'}",144027253,"glory,sun"
+0212.HK,Nanyang Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1120934144, 'fmt': '1.121B', 'longFmt': '1,120,934,144'}",142878068,"nanyang,holdings"
+1623.HK,Hilong Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1119650432, 'fmt': '1.12B', 'longFmt': '1,119,650,432'}",142714441,hilong
+0910.HK,China Sandi Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1119406208, 'fmt': '1.119B', 'longFmt': '1,119,406,208'}",142683312,"china,sandi"
+1961.HK,Infinities Technology International (Cayman) Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1119299968, 'fmt': '1.119B', 'longFmt': '1,119,299,968'}",142669770,"infinities,technology"
+0273.HK,Mason Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1109122432, 'fmt': '1.109B', 'longFmt': '1,109,122,432'}",141372507,"mason,group"
+0500.HK,Frontier Services Group Limited,EQUITY,HKD,hongkong,"{'raw': 1113789440, 'fmt': '1.114B', 'longFmt': '1,113,789,440'}",141967379,"frontier,services"
+0757.HK,Solargiga Energy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1113463040, 'fmt': '1.113B', 'longFmt': '1,113,463,040'}",141925775,solargiga
+0171.HK,Silver Grant International Holdings Group Limited,EQUITY,HKD,hongkong,"{'raw': 1106327936, 'fmt': '1.106B', 'longFmt': '1,106,327,936'}",141016311,"silver,grant"
+0225.HK,Pokfulam Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 1101789952, 'fmt': '1.102B', 'longFmt': '1,101,789,952'}",140437884,pokfulam
+1290.HK,China Huirong Financial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1101233280, 'fmt': '1.101B', 'longFmt': '1,101,233,280'}",140366929,huirong
+0829.HK,Shenguan Holdings (Group) Limited,EQUITY,HKD,hongkong,"{'raw': 1098363136, 'fmt': '1.098B', 'longFmt': '1,098,363,136'}",140001090,shenguan
+1980.HK,Tian Ge Interactive Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1097432192, 'fmt': '1.097B', 'longFmt': '1,097,432,192'}",139882429,"tian,ge"
+0994.HK,CT Vision S.L. (International) Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1095595264, 'fmt': '1.096B', 'longFmt': '1,095,595,264'}",139648288,"ct,vision"
+1837.HK,Natural Food International Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1094254976, 'fmt': '1.094B', 'longFmt': '1,094,254,976'}",139477450,"natural,food"
+0950.HK,Lee's Pharmaceutical Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1089344768, 'fmt': '1.089B', 'longFmt': '1,089,344,768'}",138851579,"lee's,pharmaceutical"
+0769.HK,China Rare Earth Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1088890496, 'fmt': '1.089B', 'longFmt': '1,088,890,496'}",138793676,"china,rare"
+0985.HK,CST Group Limited,EQUITY,HKD,hongkong,"{'raw': 1088390272, 'fmt': '1.088B', 'longFmt': '1,088,390,272'}",138729915,"cst,group"
+0157.HK,Natural Beauty Bio-Technology Limited,EQUITY,HKD,hongkong,"{'raw': 1081134080, 'fmt': '1.081B', 'longFmt': '1,081,134,080'}",137805016,"natural,beauty"
+0531.HK,Samson Holding Ltd.,EQUITY,HKD,hongkong,"{'raw': 1078674560, 'fmt': '1.079B', 'longFmt': '1,078,674,560'}",137491518,"samson,holding"
+6805.HK,Kimou Environmental Holding Limited,EQUITY,HKD,hongkong,"{'raw': 1073846272, 'fmt': '1.074B', 'longFmt': '1,073,846,272'}",136876088,kimou
+1526.HK,Rici Healthcare Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1065514432, 'fmt': '1.066B', 'longFmt': '1,065,514,432'}",135814083,"rici,healthcare"
+2327.HK,Meilleure Health International Industry Group Limited,EQUITY,HKD,hongkong,"{'raw': 1044110208, 'fmt': '1.044B', 'longFmt': '1,044,110,208'}",133085828,meilleure
+1243.HK,Wang On Properties Limited,EQUITY,HKD,hongkong,"{'raw': 1064000000, 'fmt': '1.064B', 'longFmt': '1,064,000,000'}",135621048,"wang,on"
+0711.HK,Asia Allied Infrastructure Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1045090432, 'fmt': '1.045B', 'longFmt': '1,045,090,432'}",133210771,"asia,allied"
+6033.HK,Telecom Digital Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1037645184, 'fmt': '1.038B', 'longFmt': '1,037,645,184'}",132261774,"telecom,digital"
+0952.HK,China Tonghai International Financial Limited,EQUITY,HKD,hongkong,"{'raw': 1041104384, 'fmt': '1.041B', 'longFmt': '1,041,104,384'}",132702696,tonghai
+1029.HK,IRC Limited,EQUITY,HKD,hongkong,"{'raw': 1029457920, 'fmt': '1.029B', 'longFmt': '1,029,457,920'}",131218198,"irc,limited"
+1965.HK,Landsea Green Life Service Company Limited,EQUITY,HKD,hongkong,"{'raw': 1035127744, 'fmt': '1.035B', 'longFmt': '1,035,127,744'}",131940893,landsea
+0505.HK,Xingye Alloy Materials Group Limited,EQUITY,HKD,hongkong,"{'raw': 1034492800, 'fmt': '1.034B', 'longFmt': '1,034,492,800'}",131859961,xingye
+1601.HK,"Zhongguancun Science-Tech Leasing Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1026664128, 'fmt': '1.027B', 'longFmt': '1,026,664,128'}",130862092,zhongguancun
+2131.HK,Netjoy Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1026398784, 'fmt': '1.026B', 'longFmt': '1,026,398,784'}",130828270,netjoy
+0560.HK,Chu Kong Shipping Enterprises (Group) Company Limited,EQUITY,HKD,hongkong,"{'raw': 1020264768, 'fmt': '1.02B', 'longFmt': '1,020,264,768'}",130046407,"chu,kong"
+1786.HK,CRCC High-Tech Equipment Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 1018319552, 'fmt': '1.018B', 'longFmt': '1,018,319,552'}",129798464,crcc
+6118.HK,Austar Lifesciences Limited,EQUITY,HKD,hongkong,"{'raw': 1014912384, 'fmt': '1.015B', 'longFmt': '1,014,912,384'}",129364174,austar
+1431.HK,YuanShengTai Dairy Farm Limited,EQUITY,HKD,hongkong,"{'raw': 1013148032, 'fmt': '1.013B', 'longFmt': '1,013,148,032'}",129139284,yuanshengtai
+1393.HK,Hidili Industry International Development Limited,EQUITY,HKD,hongkong,"{'raw': 1012572032, 'fmt': '1.013B', 'longFmt': '1,012,572,032'}",129065865,hidili
+6661.HK,"Huzhou Gas Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 1011542784, 'fmt': '1.012B', 'longFmt': '1,011,542,784'}",128934674,"huzhou,gas"
+0033.HK,Amber Hill Financial Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1010020608, 'fmt': '1.01B', 'longFmt': '1,010,020,608'}",128740652,"amber,hill"
+1499.HK,OKG Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1009655808, 'fmt': '1.01B', 'longFmt': '1,009,655,808'}",128694153,okg
+6123.HK,YTO Express (International) Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 1008456064, 'fmt': '1.008B', 'longFmt': '1,008,456,064'}",128541230,yto
+1068.HK,China Yurun Food Group Limited,EQUITY,HKD,hongkong,"{'raw': 1002518016, 'fmt': '1.003B', 'longFmt': '1,002,518,016'}",127784346,yurun
+1945.HK,Zero2IPO Holdings Inc.,EQUITY,HKD,hongkong,"{'raw': 1007110016, 'fmt': '1.007B', 'longFmt': '1,007,110,016'}",128369658,zero2ipo
+0213.HK,National Electronics Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 997590336, 'fmt': '997.59M', 'longFmt': '997,590,336'}",127156247,"national,electronics"
+6811.HK,Tai Hing Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 995345984, 'fmt': '995.346M', 'longFmt': '995,345,984'}",126870175,"tai,hing"
+0097.HK,Henderson Investment Limited,EQUITY,HKD,hongkong,"{'raw': 990275008, 'fmt': '990.275M', 'longFmt': '990,275,008'}",126223811,"henderson,investment"
+0866.HK,China Qinfa Group Limited,EQUITY,HKD,hongkong,"{'raw': 984897024, 'fmt': '984.897M', 'longFmt': '984,897,024'}",125538315,qinfa
+1982.HK,Nameson Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 980137664, 'fmt': '980.138M', 'longFmt': '980,137,664'}",124931671,nameson
+0149.HK,China Agri-Products Exchange Limited,EQUITY,HKD,hongkong,"{'raw': 975400832, 'fmt': '975.401M', 'longFmt': '975,400,832'}",124327898,agri-products
+0887.HK,Emperor Watch & Jewellery Limited,EQUITY,HKD,hongkong,"{'raw': 969462848, 'fmt': '969.463M', 'longFmt': '969,462,848'}",123571022,"emperor,watch"
+0450.HK,Hung Hing Printing Group Limited,EQUITY,HKD,hongkong,"{'raw': 962336896, 'fmt': '962.337M', 'longFmt': '962,336,896'}",122662724,"hung,hing"
+2025.HK,Ruifeng Power Group Company Limited,EQUITY,HKD,hongkong,"{'raw': 960000064, 'fmt': '960M', 'longFmt': '960,000,064'}",122364864,ruifeng
+8402.HK,GT Steel Construction Group Limited,EQUITY,HKD,hongkong,"{'raw': 960000000, 'fmt': '960M', 'longFmt': '960,000,000'}",122364856,"gt,steel"
+0355.HK,Century City International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 959078016, 'fmt': '959.078M', 'longFmt': '959,078,016'}",122247336,"century,city"
+0240.HK,Build King Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 956247616, 'fmt': '956.248M', 'longFmt': '956,247,616'}",121886564,"build,king"
+0199.HK,ITC Properties Group Limited,EQUITY,HKD,hongkong,"{'raw': 955684224, 'fmt': '955.684M', 'longFmt': '955,684,224'}",121814752,"itc,properties"
+1372.HK,China Carbon Neutral Development Group Limited,EQUITY,HKD,hongkong,"{'raw': 955089984, 'fmt': '955.09M', 'longFmt': '955,089,984'}",121739008,"china,carbon"
+1868.HK,Neo-Neon Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 952983872, 'fmt': '952.984M', 'longFmt': '952,983,872'}",121470556,neo-neon
+1731.HK,Prosperous Industrial (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 952000000, 'fmt': '952M', 'longFmt': '952,000,000'}",121345149,"prosperous,industrial"
+0370.HK,China Best Group Holding Limited,EQUITY,HKD,hongkong,"{'raw': 945673600, 'fmt': '945.674M', 'longFmt': '945,673,600'}",120538764,"china,best"
+3991.HK,Changhong Jiahua Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 945522432, 'fmt': '945.522M', 'longFmt': '945,522,432'}",120519496,changhong
+2317.HK,Vedan International (Holdings) Limited,EQUITY,HKD,hongkong,"{'raw': 964316992, 'fmt': '964.317M', 'longFmt': '964,316,992'}",122915114,vedan
+3848.HK,Wealthy Way Group Limited,EQUITY,HKD,hongkong,"{'raw': 939498048, 'fmt': '939.498M', 'longFmt': '939,498,048'}",119751607,"wealthy,way"
+2166.HK,Smart-Core Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 938267456, 'fmt': '938.267M', 'longFmt': '938,267,456'}",119594752,smart-core
+2033.HK,Time Watch Investments Limited,EQUITY,HKD,hongkong,"{'raw': 936421888, 'fmt': '936.422M', 'longFmt': '936,421,888'}",119359510,"time,watch"
+1502.HK,"Financial Street Property Co., Limited",EQUITY,HKD,hongkong,"{'raw': 930014976, 'fmt': '930.015M', 'longFmt': '930,014,976'}",118542863,"financial,street"
+8167.HK,Neo Telemedia Limited,EQUITY,HKD,hongkong,"{'raw': 923651520, 'fmt': '923.652M', 'longFmt': '923,651,520'}",117731755,telemedia
+0232.HK,Continental Aerospace Technologies Holding Limited,EQUITY,HKD,hongkong,"{'raw': 921033600, 'fmt': '921.034M', 'longFmt': '921,033,600'}",117398066,"continental,aerospace"
+0099.HK,Wong's International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 918689280, 'fmt': '918.689M', 'longFmt': '918,689,280'}",117099251,wong's
+0346.HK,Yanchang Petroleum International Limited,EQUITY,HKD,hongkong,"{'raw': 916750016, 'fmt': '916.75M', 'longFmt': '916,750,016'}",116852066,yanchang
+2377.HK,"China Boqi Environmental (Holding) Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 915205248, 'fmt': '915.205M', 'longFmt': '915,205,248'}",116655165,boqi
+1771.HK,Sunfonda Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 912000000, 'fmt': '912M', 'longFmt': '912,000,000'}",116246613,sunfonda
+0733.HK,Hopefluent Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 910102528, 'fmt': '910.103M', 'longFmt': '910,102,528'}",116004755,hopefluent
+0842.HK,Leoch International Technology Limited,EQUITY,HKD,hongkong,"{'raw': 909759488, 'fmt': '909.759M', 'longFmt': '909,759,488'}",115961030,leoch
+2030.HK,Cabbeen Fashion Limited,EQUITY,HKD,hongkong,"{'raw': 909286528, 'fmt': '909.287M', 'longFmt': '909,286,528'}",115900745,cabbeen
+9968.HK,Huijing Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 908942016, 'fmt': '908.942M', 'longFmt': '908,942,016'}",115856832,huijing
+8645.HK,Michong Metaverse (China) Holdings Group Limited,EQUITY,HKD,hongkong,"{'raw': 906000000, 'fmt': '906M', 'longFmt': '906,000,000'}",115481833,michong
+0201.HK,Magnificent Hotel Investments Limited,EQUITY,HKD,hongkong,"{'raw': 903652160, 'fmt': '903.652M', 'longFmt': '903,652,160'}",115182569,"magnificent,hotel"
+0474.HK,Aceso Life Science Group Limited,EQUITY,HKD,hongkong,"{'raw': 901192064, 'fmt': '901.192M', 'longFmt': '901,192,064'}",114868997,aceso
+1075.HK,Capinfo Company Limited,EQUITY,HKD,hongkong,"{'raw': 898407872, 'fmt': '898.408M', 'longFmt': '898,407,872'}",114514114,capinfo
+1161.HK,Water Oasis Group Limited,EQUITY,HKD,hongkong,"{'raw': 898330048, 'fmt': '898.33M', 'longFmt': '898,330,048'}",114504194,"water,oasis"
+1051.HK,G-Resources Group Limited,EQUITY,HKD,hongkong,"{'raw': 897119872, 'fmt': '897.12M', 'longFmt': '897,119,872'}",114349941,g-resources
+6117.HK,"Rizhao Port Jurong Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 896400064, 'fmt': '896.4M', 'longFmt': '896,400,064'}",114258192,"rizhao,port"
+0800.HK,A8 New Media Group Limited,EQUITY,HKD,hongkong,"{'raw': 893372736, 'fmt': '893.373M', 'longFmt': '893,372,736'}",113872319,a8
+3303.HK,Jutal Offshore Oil Services Limited,EQUITY,HKD,hongkong,"{'raw': 891094208, 'fmt': '891.094M', 'longFmt': '891,094,208'}",113581890,jutal
+0217.HK,China Chengtong Development Group Limited,EQUITY,HKD,hongkong,"{'raw': 888731392, 'fmt': '888.731M', 'longFmt': '888,731,392'}",113280717,chengtong
+0334.HK,China Display Optoelectronics Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 888010176, 'fmt': '888.01M', 'longFmt': '888,010,176'}",113188789,"china,display"
+0306.HK,Kwoon Chung Bus Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 886805184, 'fmt': '886.805M', 'longFmt': '886,805,184'}",113035196,kwoon
+0720.HK,Auto Italia Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 886001792, 'fmt': '886.002M', 'longFmt': '886,001,792'}",112932793,"auto,italia"
+0413.HK,South China Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 885827136, 'fmt': '885.827M', 'longFmt': '885,827,136'}",112910531,"south,china,holdings"
+1689.HK,Huaxi Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 883801792, 'fmt': '883.802M', 'longFmt': '883,801,792'}",112652374,huaxi
+0128.HK,ENM Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 874849728, 'fmt': '874.85M', 'longFmt': '874,849,728'}",111511313,enm
+0195.HK,Greentech Technology International Limited,EQUITY,HKD,hongkong,"{'raw': 874240000, 'fmt': '874.24M', 'longFmt': '874,240,000'}",111433595,greentech
+1753.HK,Duiba Group Limited,EQUITY,HKD,hongkong,"{'raw': 872224192, 'fmt': '872.224M', 'longFmt': '872,224,192'}",111176653,duiba
+3689.HK,"Guangdong Kanghua Healthcare Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 869424320, 'fmt': '869.424M', 'longFmt': '869,424,320'}",110819772,kanghua
+6919.HK,Renrui Human Resources Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 868813696, 'fmt': '868.814M', 'longFmt': '868,813,696'}",110741940,renrui
+1240.HK,CNQC International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 865442368, 'fmt': '865.442M', 'longFmt': '865,442,368'}",110312219,cnqc
+0039.HK,China Beidahuang Industry Group Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 865291712, 'fmt': '865.292M', 'longFmt': '865,291,712'}",110293016,beidahuang
+0528.HK,Kingdom Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 863025728, 'fmt': '863.026M', 'longFmt': '863,025,728'}",110004186,"kingdom,holdings"
+0538.HK,Ajisen (China) Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 862316608, 'fmt': '862.317M', 'longFmt': '862,316,608'}",109913799,ajisen
+0102.HK,Summit Ascent Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 856793600, 'fmt': '856.794M', 'longFmt': '856,793,600'}",109209818,"summit,ascent"
+0432.HK,Pacific Century Premium Developments Limited,EQUITY,HKD,hongkong,"{'raw': 856060800, 'fmt': '856.061M', 'longFmt': '856,060,800'}",109116413,"pacific,century"
+1425.HK,Justin Allen Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 850000000, 'fmt': '850M', 'longFmt': '850,000,000'}",108343883,"justin,allen"
+0810.HK,China Internet Investment Finance Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 865508800, 'fmt': '865.509M', 'longFmt': '865,508,800'}",110320687,"china,internet"
+0573.HK,Tao Heung Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 841910528, 'fmt': '841.911M', 'longFmt': '841,910,528'}",107312771,heung
+0439.HK,KuangChi Science Limited,EQUITY,HKD,hongkong,"{'raw': 837342528, 'fmt': '837.343M', 'longFmt': '837,342,528'}",106730518,kuangchi
+0184.HK,Keck Seng Investments (Hong Kong) Limited,EQUITY,HKD,hongkong,"{'raw': 830088000, 'fmt': '830.088M', 'longFmt': '830,088,000'}",105805832,"keck,seng"
+2321.HK,Swang Chai Chuan Limited,EQUITY,HKD,hongkong,"{'raw': 829040000, 'fmt': '829.04M', 'longFmt': '829,040,000'}",105672250,chuan
+8039.HK,KNK Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 828240000, 'fmt': '828.24M', 'longFmt': '828,240,000'}",105570279,knk
+0206.HK,"CMIC Ocean En-Tech Holding Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 827074624, 'fmt': '827.075M', 'longFmt': '827,074,624'}",105421736,cmic
+1870.HK,Acme International Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 823680064, 'fmt': '823.68M', 'longFmt': '823,680,064'}",104989054,"acme,international"
+0521.HK,CWT International Limited,EQUITY,HKD,hongkong,"{'raw': 820799936, 'fmt': '820.8M', 'longFmt': '820,799,936'}",104621943,"cwt,international"
+3636.HK,Poly Culture Group Corporation Limited,EQUITY,HKD,hongkong,"{'raw': 820232256, 'fmt': '820.232M', 'longFmt': '820,232,256'}",104549585,"poly,culture"
+9928.HK,Times Neighborhood Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 818108608, 'fmt': '818.109M', 'longFmt': '818,108,608'}",104278898,"times,neighborhood"
+8095.HK,Beijing Beida Jade Bird Universal Sci-Tech Company Limited,EQUITY,HKD,hongkong,"{'raw': 817916416, 'fmt': '817.916M', 'longFmt': '817,916,416'}",104254400,beida
+1703.HK,Palace Banquet Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 816499968, 'fmt': '816.5M', 'longFmt': '816,499,968'}",104073855,"palace,banquet"
+2146.HK,"Roiserv Lifestyle Services Co., Ltd.",EQUITY,HKD,hongkong,"{'raw': 815920000, 'fmt': '815.92M', 'longFmt': '815,920,000'}",103999930,roiserv
+1483.HK,Net-a-Go Technology Company Limited,EQUITY,HKD,hongkong,"{'raw': 818849984, 'fmt': '818.85M', 'longFmt': '818,849,984'}",104373396,net-a-go
+0618.HK,Peking University Resources (Holdings) Company Limited,EQUITY,HKD,hongkong,"{'raw': 808436160, 'fmt': '808.436M', 'longFmt': '808,436,160'}",103046015,"peking,university"
+0677.HK,Golden Resources Development International Limited,EQUITY,HKD,hongkong,"{'raw': 806269760, 'fmt': '806.27M', 'longFmt': '806,269,760'}",102769878,"golden,resources"
+8223.HK,Ziyuanyuan Holdings Group Limited,EQUITY,HKD,hongkong,"{'raw': 804000000, 'fmt': '804M', 'longFmt': '804,000,000'}",102480567,ziyuanyuan
+0126.HK,Carrianna Group Holdings Company Limited,EQUITY,HKD,hongkong,"{'raw': 785680000, 'fmt': '785.68M', 'longFmt': '785,680,000'}",100145437,carrianna
+1100.HK,Mainland Headwear Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 801299264, 'fmt': '801.299M', 'longFmt': '801,299,264'}",102136322,"mainland,headwear"
+0075.HK,Y. T. Realty Group Limited,EQUITY,HKD,hongkong,"{'raw': 799556992, 'fmt': '799.557M', 'longFmt': '799,556,992'}",101914246,"y,t,realty"
+1597.HK,China Nature Energy Technology Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 792500032, 'fmt': '792.5M', 'longFmt': '792,500,032'}",101014742,"china,nature"
+1406.HK,Clarity Medical Group Holding Limited,EQUITY,HKD,hongkong,"{'raw': 792337984, 'fmt': '792.338M', 'longFmt': '792,337,984'}",100994086,"clarity,medical"
+0929.HK,IPE Group Limited,EQUITY,HKD,hongkong,"{'raw': 789187456, 'fmt': '789.187M', 'longFmt': '789,187,456'}",100592509,"ipe,group"
+3330.HK,Lingbao Gold Group Company Ltd.,EQUITY,HKD,hongkong,"{'raw': 786466624, 'fmt': '786.467M', 'longFmt': '786,466,624'}",100245703,lingbao
+0715.HK,China Oceanwide Holdings Limited,EQUITY,HKD,hongkong,"{'raw': 871705792, 'fmt': '871.706M', 'longFmt': '871,705,792'}",111110576,oceanwide
+0169.HK,Wanda Hotel Development Company Limited,EQUITY,HKD,hongkong,"{'raw': 1094482560, 'fmt': '1.094B', 'longFmt': '1,094,482,560'}",139506459,"wanda,hotel"
+3087.HK,Xtrackers FTSE Vietnam Swap UCITS ETF,EQUITY,HKD,hongkong,"{'raw': 3651699968, 'fmt': '3.652B', 'longFmt': '3,651,699,968'}",465458064,xtrackers
+2827.HK,W.I.S.E. - CSI 300 China Tracker,EQUITY,HKD,hongkong,"{'raw': 5087759872, 'fmt': '5.088B', 'longFmt': '5,087,759,872'}",648503130,"wise,-"
+3081.HK,Value Gold ETF,EQUITY,HKD,hongkong,"{'raw': 1054500032, 'fmt': '1.055B', 'longFmt': '1,054,500,032'}",134410150,"value,gold"
+2823.HK,iShares FTSE China A50 ETF,EQUITY,HKD,hongkong,"{'raw': 53651079168, 'fmt': '53.651B', 'longFmt': '53,651,079,168'}",6838548528,a50

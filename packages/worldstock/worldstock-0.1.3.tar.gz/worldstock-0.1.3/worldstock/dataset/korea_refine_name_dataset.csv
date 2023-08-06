@@ -1,0 +1,816 @@
+﻿symbol,longName,quoteType,currency,search_country,marketCap,Market_Cap,name
+005930.KS,"Samsung Electronics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 401525486649344, 'fmt': '401.525T', 'longFmt': '401,525,486,649,344'}",300781686272,samsung
+373220.KS,"LG Energy Solution, Ltd.",EQUITY,KRW,korea,"{'raw': 107406000390144, 'fmt': '107.406T', 'longFmt': '107,406,000,390,144'}",80457552477,"lg,energy"
+000660.KS,SK hynix Inc.,EQUITY,KRW,korea,"{'raw': 64707960504320, 'fmt': '64.708T', 'longFmt': '64,707,960,504,320'}",48472563069,hynix
+051910.KS,"LG Chem, Ltd.",EQUITY,KRW,korea,"{'raw': 45601865596928, 'fmt': '45.602T', 'longFmt': '45,601,865,596,928'}",34160237612,"lg,chem"
+005387.KS,Hyundai Motor Company,EQUITY,KRW,korea,"{'raw': 38359703486464, 'fmt': '38.36T', 'longFmt': '38,359,703,486,464'}",28735153018,hyundai
+035420.KS,NAVER Corporation,EQUITY,KRW,korea,"{'raw': 36661064892416, 'fmt': '36.661T', 'longFmt': '36,661,064,892,416'}",27462707313,naver
+035720.KS,Kakao Corp.,EQUITY,KRW,korea,"{'raw': 33127093239808, 'fmt': '33.127T', 'longFmt': '33,127,093,239,808'}",24815418441,kakao
+000270.KS,Kia Corporation,EQUITY,KRW,korea,"{'raw': 31713642151936, 'fmt': '31.714T', 'longFmt': '31,713,642,151,936'}",23756605947,kia
+068270.KS,"Celltrion, Inc.",EQUITY,KRW,korea,"{'raw': 27306745659392, 'fmt': '27.307T', 'longFmt': '27,306,745,659,392'}",20455411372,celltrion
+105560.KS,KB Financial Group Inc.,EQUITY,KRW,korea,"{'raw': 19598590083072, 'fmt': '19.599T', 'longFmt': '19,598,590,083,072'}",14681252298,"kb,financial"
+005490.KS,POSCO Holdings Inc.,EQUITY,KRW,korea,"{'raw': 19000224382976, 'fmt': '19T', 'longFmt': '19,000,224,382,976'}",14233018125,posco
+055550.KS,"Shinhan Financial Group Co., Ltd.",EQUITY,KRW,korea,"{'raw': 18696225423360, 'fmt': '18.696T', 'longFmt': '18,696,225,423,360'}",14005293304,shinhan
+03473K.KS,SK Inc.,EQUITY,KRW,korea,"{'raw': 17964921257984, 'fmt': '17.965T', 'longFmt': '17,964,921,257,984'}",13457475277,"sk,inc"
+096775.KS,"SK Innovation Co., Ltd.",EQUITY,KRW,korea,"{'raw': 17514123755520, 'fmt': '17.514T', 'longFmt': '17,514,123,755,520'}",13119784053,"sk,innovation"
+066570.KS,LG Electronics Inc.,EQUITY,KRW,korea,"{'raw': 16953333776384, 'fmt': '16.953T', 'longFmt': '16,953,333,776,384'}",12699697754,"lg,electronics"
+034020.KS,"Doosan Enerbility Co., Ltd.",EQUITY,KRW,korea,"{'raw': 14314233659392, 'fmt': '14.314T', 'longFmt': '14,314,233,659,392'}",10722754796,enerbility
+323410.KS,KakaoBank Corp.,EQUITY,KRW,korea,"{'raw': 13476346986496, 'fmt': '13.476T', 'longFmt': '13,476,346,986,496'}",10095096092,kakaobank
+015760.KS,Korea Electric Power Corporation,EQUITY,KRW,korea,"{'raw': 13352851996672, 'fmt': '13.353T', 'longFmt': '13,352,851,996,672'}",10002586320,"korea,electric"
+003550.KS,LG Corp.,EQUITY,KRW,korea,"{'raw': 13245471522816, 'fmt': '13.245T', 'longFmt': '13,245,471,522,816'}",9922147889,"lg,corp"
+010955.KS,S-Oil Corporation,EQUITY,KRW,korea,"{'raw': 12139821531136, 'fmt': '12.14T', 'longFmt': '12,139,821,531,136'}",9093908388,s-oil
+259960.KS,"KRAFTON, Inc.",EQUITY,KRW,korea,"{'raw': 11468175048704, 'fmt': '11.468T', 'longFmt': '11,468,175,048,704'}",8590779774,krafton
+011200.KS,"HMM Co.,Ltd",EQUITY,KRW,korea,"{'raw': 11443512541184, 'fmt': '11.444T', 'longFmt': '11,443,512,541,184'}",8572305154,hmm
+086790.KS,Hana Financial Group Inc.,EQUITY,KRW,korea,"{'raw': 11429269733376, 'fmt': '11.429T', 'longFmt': '11,429,269,733,376'}",8561635905,"hana,financial"
+017670.KS,"SK Telecom Co.,Ltd",EQUITY,KRW,korea,"{'raw': 11403073159168, 'fmt': '11.403T', 'longFmt': '11,403,073,159,168'}",8542012120,"sk,telecom"
+010130.KS,"Korea Zinc Company, Ltd.",EQUITY,KRW,korea,"{'raw': 10939096104960, 'fmt': '10.939T', 'longFmt': '10,939,096,104,960'}",8194448128,"korea,zinc"
+051900.KS,"LG H&H Co., Ltd.",EQUITY,KRW,korea,"{'raw': 10408457928704, 'fmt': '10.408T', 'longFmt': '10,408,457,928,704'}",7796948466,"lg,h&h"
+033780.KS,KT&G Corporation,EQUITY,KRW,korea,"{'raw': 9886352015360, 'fmt': '9.886T', 'longFmt': '9,886,352,015,360'}",7405840299,kt&g
+009830.KS,Hanwha Solutions Corporation,EQUITY,KRW,korea,"{'raw': 9413793415168, 'fmt': '9.414T', 'longFmt': '9,413,793,415,168'}",7051847894,hanwha
+003490.KS,"Korean Air Lines Co., Ltd.",EQUITY,KRW,korea,"{'raw': 9149590011904, 'fmt': '9.15T', 'longFmt': '9,149,590,011,904'}",6853933819,"korean,air"
+030200.KS,KT Corporation,EQUITY,KRW,korea,"{'raw': 9095371292672, 'fmt': '9.095T', 'longFmt': '9,095,371,292,672'}",6813318719,"kt,corporation"
+316140.KS,Woori Financial Group Inc.,EQUITY,KRW,korea,"{'raw': 8950919462912, 'fmt': '8.951T', 'longFmt': '8,950,919,462,912'}",6705110234,woori
+302440.KS,"SK bioscience Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 8945335795712, 'fmt': '8.945T', 'longFmt': '8,945,335,795,712'}",6700927523,"sk,bioscience"
+520013.KS,"Mirae Asset Daewoo Co., Ltd. Q150 CORE5 ETN 13",EQUITY,KRW,korea,"{'raw': 4829928226816, 'fmt': '4.83T', 'longFmt': '4,829,928,226,816'}",3618086534,mirae
+011070.KS,"LG Innotek Co., Ltd.",EQUITY,KRW,korea,"{'raw': 8081426612224, 'fmt': '8.081T', 'longFmt': '8,081,426,612,224'}",6053775425,innotek
+090435.KS,Amorepacific Corporation,EQUITY,KRW,korea,"{'raw': 7866941964288, 'fmt': '7.867T', 'longFmt': '7,866,941,964,288'}",5893105540,amorepacific
+000100.KS,Yuhan Corporation,EQUITY,KRW,korea,"{'raw': 7661142147072, 'fmt': '7.661T', 'longFmt': '7,661,142,147,072'}",5738941438,yuhan
+036570.KS,Ncsoft Corporation,EQUITY,KRW,korea,"{'raw': 7483276918784, 'fmt': '7.483T', 'longFmt': '7,483,276,918,784'}",5605703063,ncsoft
+024110.KS,Industrial Bank of Korea,EQUITY,KRW,korea,"{'raw': 7227162755072, 'fmt': '7.227T', 'longFmt': '7,227,162,755,072'}",5413848616,ibk
+352820.KS,"HYBE Co., Ltd.",EQUITY,KRW,korea,"{'raw': 7174814695424, 'fmt': '7.175T', 'longFmt': '7,174,814,695,424'}",5374634822,hybe
+009540.KS,"Korea Shipbuilding & Offshore Engineering Co., Ltd.",EQUITY,KRW,korea,"{'raw': 7007816908800, 'fmt': '7.008T', 'longFmt': '7,007,816,908,800'}",5249537219,"korea,shipbuilding"
+00499K.KS,LOTTE Corporation,EQUITY,KRW,korea,"{'raw': 6465535868928, 'fmt': '6.466T', 'longFmt': '6,465,535,868,928'}",4843315918,"lotte,corporation"
+011170.KS,Lotte Chemical Corporation,EQUITY,KRW,korea,"{'raw': 6152434221056, 'fmt': '6.152T', 'longFmt': '6,152,434,221,056'}",4608772297,"lotte,chemical"
+097955.KS,CJ Cheiljedang Corporation,EQUITY,KRW,korea,"{'raw': 6119778942976, 'fmt': '6.12T', 'longFmt': '6,119,778,942,976'}",4584310314,cheiljedang
+361610.KS,"SK IE Technology Co., Ltd.",EQUITY,KRW,korea,"{'raw': 6031777202176, 'fmt': '6.032T', 'longFmt': '6,031,777,202,176'}",4518388442,"sk,ie"
+402340.KS,"SK Square Co., Ltd.",EQUITY,KRW,korea,"{'raw': 5796375560192, 'fmt': '5.796T', 'longFmt': '5,796,375,560,192'}",4342049691,"sk,square"
+047810.KS,"Korea Aerospace Industries, Ltd.",EQUITY,KRW,korea,"{'raw': 5653555838976, 'fmt': '5.654T', 'longFmt': '5,653,555,838,976'}",4235063813,"korea,aerospace"
+326030.KS,"SK Biopharmaceuticals Co., Ltd.",EQUITY,KRW,korea,"{'raw': 5638550192128, 'fmt': '5.639T', 'longFmt': '5,638,550,192,128'}",4223823122,biopharmaceuticals
+034220.KS,"LG Display Co., Ltd.",EQUITY,KRW,korea,"{'raw': 5581929709568, 'fmt': '5.582T', 'longFmt': '5,581,929,709,568'}",4181408868,"lg,display"
+383220.KS,"F&F Co., Ltd",EQUITY,KRW,korea,"{'raw': 5568834043904, 'fmt': '5.569T', 'longFmt': '5,568,834,043,904'}",4171598939,f&f
+018880.KS,Hanon Systems,EQUITY,KRW,korea,"{'raw': 5496780619776, 'fmt': '5.497T', 'longFmt': '5,496,780,619,776'}",4117623908,hanon
+035250.KS,"Kangwon Land, Inc.",EQUITY,KRW,korea,"{'raw': 5372583608320, 'fmt': '5.373T', 'longFmt': '5,372,583,608,320'}",4024588254,"kangwon,land"
+251270.KS,Netmarble Corporation,EQUITY,KRW,korea,"{'raw': 5252007854080, 'fmt': '5.252T', 'longFmt': '5,252,007,854,080'}",3934265273,netmarble
+032640.KS,LG Uplus Corp.,EQUITY,KRW,korea,"{'raw': 5222410223616, 'fmt': '5.222T', 'longFmt': '5,222,410,223,616'}",3912093766,uplus
+066970.KQ,"L&F Co., Ltd.",EQUITY,KRW,korea,"{'raw': 5002759766016, 'fmt': '5.003T', 'longFmt': '5,002,759,766,016'}",3747554186,l&f
+021240.KS,"COWAY Co., Ltd.",EQUITY,KRW,korea,"{'raw': 4629563703296, 'fmt': '4.63T', 'longFmt': '4,629,563,703,296'}",3467993997,coway
+011790.KS,"SKC Co., Ltd.",EQUITY,KRW,korea,"{'raw': 4556810878976, 'fmt': '4.557T', 'longFmt': '4,556,810,878,976'}",3413495047,skc
+001040.KS,CJ Corporation,EQUITY,KRW,korea,"{'raw': 4505877872640, 'fmt': '4.506T', 'longFmt': '4,505,877,872,640'}",3375341266,"cj,corporation"
+161390.KS,"Hankook Tire & Technology Co., Ltd.",EQUITY,KRW,korea,"{'raw': 4489195028480, 'fmt': '4.489T', 'longFmt': '4,489,195,028,480'}",3362844191,hankook
+088980.KS,Macquarie Korea Infrastructure Fund,EQUITY,KRW,korea,"{'raw': 4415406735360, 'fmt': '4.415T', 'longFmt': '4,415,406,735,360'}",3307569575,macquarie
+078935.KS,GS Holdings Corp.,EQUITY,KRW,korea,"{'raw': 4284387426304, 'fmt': '4.284T', 'longFmt': '4,284,387,426,304'}",3209423355,"gs,holdings"
+005945.KS,"NH Investment & Securities Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3460664393728, 'fmt': '3.461T', 'longFmt': '3,460,664,393,728'}",2592374597,"nh,investment"
+18064K.KS,Hanjin Kal,EQUITY,KRW,korea,"{'raw': 4007617626112, 'fmt': '4.008T', 'longFmt': '4,007,617,626,112'}",3002095826,hanjin
+271560.KS,ORION Corp.,EQUITY,KRW,korea,"{'raw': 3992408817664, 'fmt': '3.992T', 'longFmt': '3,992,408,817,664'}",2990702947,"orion,corp"
+000060.KS,"Meritz Fire & Marine Insurance Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3935479267328, 'fmt': '3.935T', 'longFmt': '3,935,479,267,328'}",2948057171,meritz
+036460.KS,Korea Gas Corporation,EQUITY,KRW,korea,"{'raw': 3892254343168, 'fmt': '3.892T', 'longFmt': '3,892,254,343,168'}",2915677494,"korea,gas"
+128940.KS,"Hanmi Pharm. Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3705553027072, 'fmt': '3.706T', 'longFmt': '3,705,553,027,072'}",2775820029,hanmi
+005830.KS,"DB Insurance Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3704684019712, 'fmt': '3.705T', 'longFmt': '3,704,684,019,712'}",2775169058,"db,insurance"
+137310.KS,"SD BioSensor, Inc",EQUITY,KRW,korea,"{'raw': 3565220265984, 'fmt': '3.565T', 'longFmt': '3,565,220,265,984'}",2670697126,"sd,biosensor"
+241560.KS,Doosan Bobcat Inc.,EQUITY,KRW,korea,"{'raw': 3517581623296, 'fmt': '3.518T', 'longFmt': '3,517,581,623,296'}",2635011144,"doosan,bobcat"
+003410.KS,"SsangYong C&E Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3480814092288, 'fmt': '3.481T', 'longFmt': '3,480,814,092,288'}",2607468684,ssangyong
+011780.KS,"Kumho Petrochemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3479348445184, 'fmt': '3.479T', 'longFmt': '3,479,348,445,184'}",2606370771,kumho
+020150.KS,"ILJIN Materials Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3389143908352, 'fmt': '3.389T', 'longFmt': '3,389,143,908,352'}",2538798790,iljin
+336260.KS,"Doosan Fuel Cell Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3373331120128, 'fmt': '3.373T', 'longFmt': '3,373,331,120,128'}",2526953472,"doosan,fuel"
+071050.KS,"Korea Investment Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 3069380657152, 'fmt': '3.069T', 'longFmt': '3,069,380,657,152'}",2299264979,"korea,investment"
+052690.KS,"KEPCO Engineering & Construction Company, Inc.",EQUITY,KRW,korea,"{'raw': 3043480043520, 'fmt': '3.043T', 'longFmt': '3,043,480,043,520'}",2279862898,kepco
+010060.KS,OCI Company Ltd.,EQUITY,KRW,korea,"{'raw': 2981174968320, 'fmt': '2.981T', 'longFmt': '2,981,174,968,320'}",2233190330,"oci,company"
+028670.KS,"Pan Ocean Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2945480654848, 'fmt': '2.945T', 'longFmt': '2,945,480,654,848'}",2206451813,"pan,ocean"
+023530.KS,"Lotte Shopping Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2841195315200, 'fmt': '2.841T', 'longFmt': '2,841,195,315,200'}",2128331939,"lotte,shopping"
+282330.KS,"BGF retail CO., LTD.",EQUITY,KRW,korea,"{'raw': 2824462401536, 'fmt': '2.824T', 'longFmt': '2,824,462,401,536'}",2115797358,bgf
+112610.KS,CS Wind Corporation,EQUITY,KRW,korea,"{'raw': 2784062341120, 'fmt': '2.784T', 'longFmt': '2,784,062,341,120'}",2085533779,"cs,wind"
+375500.KS,"DL E&C Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 2747001733120, 'fmt': '2.747T', 'longFmt': '2,747,001,733,120'}",2057771775,"dl,e&c"
+008770.KS,"Hotel Shilla Co.,Ltd",EQUITY,KRW,korea,"{'raw': 2738946834432, 'fmt': '2.739T', 'longFmt': '2,738,946,834,432'}",2051737871,"hotel,shilla"
+139480.KS,E-MART Inc.,EQUITY,KRW,korea,"{'raw': 2692234084352, 'fmt': '2.692T', 'longFmt': '2,692,234,084,352'}",2016745473,e-mart
+006360.KS,GS Engineering & Construction Corporation,EQUITY,KRW,korea,"{'raw': 2601844736000, 'fmt': '2.602T', 'longFmt': '2,601,844,736,000'}",1949035050,"gs,engineering"
+285130.KS,"SK Chemicals Co.,Ltd",EQUITY,KRW,korea,"{'raw': 2596505911296, 'fmt': '2.597T', 'longFmt': '2,596,505,911,296'}",1945035750,"sk,chemicals"
+204320.KS,Mando Corporation,EQUITY,KRW,korea,"{'raw': 2546832769024, 'fmt': '2.547T', 'longFmt': '2,546,832,769,024'}",1907825730,mando
+007070.KS,"GS Retail Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2528966868992, 'fmt': '2.529T', 'longFmt': '2,528,966,868,992'}",1894442431,"gs,retail"
+086520.KQ,"Ecopro Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2505028665344, 'fmt': '2.505T', 'longFmt': '2,505,028,665,344'}",1876510386,ecopro
+014680.KS,"Hansol Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2463934971904, 'fmt': '2.464T', 'longFmt': '2,463,934,971,904'}",1845727208,hansol
+000120.KS,CJ Logistics Corporation,EQUITY,KRW,korea,"{'raw': 2433277755392, 'fmt': '2.433T', 'longFmt': '2,433,277,755,392'}",1822761968,"cj,logistics"
+026960.KS,Dong Suh Companies Inc.,EQUITY,KRW,korea,"{'raw': 2432277151744, 'fmt': '2.432T', 'longFmt': '2,432,277,151,744'}",1822012418,"dong,suh"
+042660.KS,"Daewoo Shipbuilding & Marine Engineering Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2317118341120, 'fmt': '2.317T', 'longFmt': '2,317,118,341,120'}",1735747256,daewoo
+001440.KS,"Taihan Electric Wire Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2277202460672, 'fmt': '2.277T', 'longFmt': '2,277,202,460,672'}",1705846375,taihan
+030000.KS,Cheil Worldwide Inc.,EQUITY,KRW,korea,"{'raw': 2268649488384, 'fmt': '2.269T', 'longFmt': '2,268,649,488,384'}",1699439366,cheil
+058470.KQ,LEENO Industrial Inc.,EQUITY,KRW,korea,"{'raw': 2249862938624, 'fmt': '2.25T', 'longFmt': '2,249,862,938,624'}",1685366411,leeno
+278280.KQ,"Chunbo Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2244000088064, 'fmt': '2.244T', 'longFmt': '2,244,000,088,064'}",1680974565,chunbo
+079550.KS,"LIG Nex1 Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2233925894144, 'fmt': '2.234T', 'longFmt': '2,233,925,894,144'}",1673428013,nex1
+120110.KS,"Kolon Industries, Inc.",EQUITY,KRW,korea,"{'raw': 2233080741888, 'fmt': '2.233T', 'longFmt': '2,233,080,741,888'}",1672794912,kolon
+002380.KS,KCC Corporation,EQUITY,KRW,korea,"{'raw': 2231990484992, 'fmt': '2.232T', 'longFmt': '2,231,990,484,992'}",1671978203,kcc
+000215.KS,"DL Holdings CO., LTD.",EQUITY,KRW,korea,"{'raw': 2231215849472, 'fmt': '2.231T', 'longFmt': '2,231,215,849,472'}",1671397926,"dl,holdings"
+138930.KS,BNK Financial Group Inc.,EQUITY,KRW,korea,"{'raw': 2199648993280, 'fmt': '2.2T', 'longFmt': '2,199,648,993,280'}",1647751277,bnk
+004170.KS,SHINSEGAE Inc.,EQUITY,KRW,korea,"{'raw': 2178764767232, 'fmt': '2.179T', 'longFmt': '2,178,764,767,232'}",1632106958,shinsegae
+253450.KQ,Studio Dragon Corporation,EQUITY,KRW,korea,"{'raw': 2131913998336, 'fmt': '2.132T', 'longFmt': '2,131,913,998,336'}",1597011170,"studio,dragon"
+035760.KQ,"CJ ENM CO., Ltd.",EQUITY,KRW,korea,"{'raw': 2131518291968, 'fmt': '2.132T', 'longFmt': '2,131,518,291,968'}",1596714747,enm
+000080.KS,"HITEJINRO Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2097762009088, 'fmt': '2.098T', 'longFmt': '2,097,762,009,088'}",1571428005,hitejinro
+039490.KS,"Kiwoom Securities Co., Ltd.",EQUITY,KRW,korea,"{'raw': 2097247813632, 'fmt': '2.097T', 'longFmt': '2,097,247,813,632'}",1571042822,kiwoom
+001060.KS,JW Pharmaceutical Corporation,EQUITY,KRW,korea,"{'raw': 2095877324800, 'fmt': '2.096T', 'longFmt': '2,095,877,324,800'}",1570016193,"jw,pharmaceutical"
+035900.KQ,JYP Entertainment Corporation,EQUITY,KRW,korea,"{'raw': 2041998475264, 'fmt': '2.042T', 'longFmt': '2,041,998,475,264'}",1529655688,jyp
+012750.KS,S-1 Corporation,EQUITY,KRW,korea,"{'raw': 2015087951872, 'fmt': '2.015T', 'longFmt': '2,015,087,951,872'}",1509497086,"s-1,corporation"
+111770.KS,Youngone Corporation,EQUITY,KRW,korea,"{'raw': 1945461587968, 'fmt': '1.945T', 'longFmt': '1,945,461,587,968'}",1457340160,youngone
+000990.KS,"DB HiTek CO., LTD.",EQUITY,KRW,korea,"{'raw': 1938133876736, 'fmt': '1.938T', 'longFmt': '1,938,133,876,736'}",1451850990,hitek
+069620.KS,"Daewoong pharmaceutical Co.,Ltd",EQUITY,KRW,korea,"{'raw': 1931575427072, 'fmt': '1.932T', 'longFmt': '1,931,575,427,072'}",1446938073,daewoong
+298050.KS,Hyosung Advanced Materials Corporation,EQUITY,KRW,korea,"{'raw': 1914546552832, 'fmt': '1.915T', 'longFmt': '1,914,546,552,832'}",1434181788,hyosung
+005070.KS,"Cosmo Advanced Materials & Technology Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1884298543104, 'fmt': '1.884T', 'longFmt': '1,884,298,543,104'}",1411523084,"cosmo,advanced"
+336370.KS,"Solus Advanced Materials Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1878149824512, 'fmt': '1.878T', 'longFmt': '1,878,149,824,512'}",1406917095,"solus,advanced"
+237690.KQ,"ST Pharm Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 1856271941632, 'fmt': '1.856T', 'longFmt': '1,856,271,941,632'}",1390528430,"st,pharm"
+081660.KS,FILA Holdings Corporation,EQUITY,KRW,korea,"{'raw': 1853955375104, 'fmt': '1.854T', 'longFmt': '1,853,955,375,104'}",1388793096,fila
+006260.KS,LS Corp.,EQUITY,KRW,korea,"{'raw': 1846512189440, 'fmt': '1.847T', 'longFmt': '1,846,512,189,440'}",1383217425,"ls,corp"
+028300.KQ,"HLB Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1833629384704, 'fmt': '1.834T', 'longFmt': '1,833,629,384,704'}",1373566950,hlb
+006280.KS,Green Cross Corporation,EQUITY,KRW,korea,"{'raw': 1831818625024, 'fmt': '1.832T', 'longFmt': '1,831,818,625,024'}",1372210515,"green,cross"
+004000.KS,"LOTTE Fine Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1833840017408, 'fmt': '1.834T', 'longFmt': '1,833,840,017,408'}",1373724735,"lotte,fine"
+005290.KQ,"Dongjin Semichem Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1825214693376, 'fmt': '1.825T', 'longFmt': '1,825,214,693,376'}",1367263527,dongjin
+004370.KS,"Nongshim Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1775264333824, 'fmt': '1.775T', 'longFmt': '1,775,264,333,824'}",1329845844,nongshim
+010120.KS,"LS ELECTRIC Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1711454814208, 'fmt': '1.711T', 'longFmt': '1,711,454,814,208'}",1282046301,"ls,electric"
+007310.KS,Ottogi Corporation,EQUITY,KRW,korea,"{'raw': 1678220722176, 'fmt': '1.678T', 'longFmt': '1,678,220,722,176'}",1257150730,ottogi
+005850.KS,SL Corporation,EQUITY,KRW,korea,"{'raw': 1669511905280, 'fmt': '1.67T', 'longFmt': '1,669,511,905,280'}",1250626978,"sl,corporation"
+014820.KS,Dongwon Systems Corporation,EQUITY,KRW,korea,"{'raw': 1641589768192, 'fmt': '1.642T', 'longFmt': '1,641,589,768,192'}",1229710578,dongwon
+108320.KQ,"LX Semicon Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1574384304128, 'fmt': '1.574T', 'longFmt': '1,574,384,304,128'}",1179367142,semicon
+041510.KQ,"SM Entertainment Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1573702336512, 'fmt': '1.574T', 'longFmt': '1,573,702,336,512'}",1178856282,"sm,entertainment"
+383800.KS,LX Holdings Corp.,EQUITY,KRW,korea,"{'raw': 1557475622912, 'fmt': '1.557T', 'longFmt': '1,557,475,622,912'}",1166700893,"lx,holdings"
+093370.KS,"Foosung Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1537272840192, 'fmt': '1.537T', 'longFmt': '1,537,272,840,192'}",1151567042,foosung
+005300.KS,"Lotte Chilsung Beverage Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1504191971328, 'fmt': '1.504T', 'longFmt': '1,504,191,971,328'}",1126786250,chilsung
+175330.KS,"JB Financial Group Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1477014454272, 'fmt': '1.477T', 'longFmt': '1,477,014,454,272'}",1106427644,"jb,financial"
+056190.KQ,SFA Engineering Corporation,EQUITY,KRW,korea,"{'raw': 1475792470016, 'fmt': '1.476T', 'longFmt': '1,475,792,470,016'}",1105512258,sfa
+001120.KS,LX International Corp.,EQUITY,KRW,korea,"{'raw': 1467490369536, 'fmt': '1.467T', 'longFmt': '1,467,490,369,536'}",1099293177,"lx,international"
+35320K.KS,"DAEDUCK ELECTRONICS Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1444478189568, 'fmt': '1.444T', 'longFmt': '1,444,478,189,568'}",1082054813,daeduck
+016710.KS,"Daesung Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1438401298432, 'fmt': '1.438T', 'longFmt': '1,438,401,298,432'}",1077502630,daesung
+019170.KS,"Shin Poong Pharm.Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 1433670647808, 'fmt': '1.434T', 'longFmt': '1,433,670,647,808'}",1073958912,pharmcoltd
+000150.KS,Doosan Corporation,EQUITY,KRW,korea,"{'raw': 1405745102848, 'fmt': '1.406T', 'longFmt': '1,405,745,102,848'}",1053039960,"doosan,corporation"
+048260.KQ,"Osstem Implant Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1389927727104, 'fmt': '1.39T', 'longFmt': '1,389,927,727,104'}",1041191205,osstem
+240810.KQ,"Wonik Ips Co., Ltd",EQUITY,KRW,korea,"{'raw': 1383816364032, 'fmt': '1.384T', 'longFmt': '1,383,816,364,032'}",1036613199,wonik
+007390.KQ,"NatureCell Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 1364063420416, 'fmt': '1.364T', 'longFmt': '1,364,063,420,416'}",1021816321,naturecell
+089860.KS,"LOTTE rental co.,ltd.",EQUITY,KRW,korea,"{'raw': 1342639702016, 'fmt': '1.343T', 'longFmt': '1,342,639,702,016'}",1005767870,"lotte,rental"
+214370.KQ,"Caregen Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1338577780736, 'fmt': '1.339T', 'longFmt': '1,338,577,780,736'}",1002725095,caregen
+064760.KQ,"Tokai Carbon Korea Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1323945033728, 'fmt': '1.324T', 'longFmt': '1,323,945,033,728'}",991763743,"tokai,carbon"
+016380.KS,"KG Dongbu Steel Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 1320026374144, 'fmt': '1.32T', 'longFmt': '1,320,026,374,144'}",988828285,dongbu
+006120.KS,"SK Discovery Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1316882219008, 'fmt': '1.317T', 'longFmt': '1,316,882,219,008'}",986473007,"sk,discovery"
+139130.KS,"DGB Financial Group Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1270286516224, 'fmt': '1.27T', 'longFmt': '1,270,286,516,224'}",951568289,dgb
+034230.KQ,"Paradise Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1252403970048, 'fmt': '1.252T', 'longFmt': '1,252,403,970,048'}",938172520,"paradise,co"
+078600.KQ,"Daejoo Electronic Materials Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1247531499520, 'fmt': '1.248T', 'longFmt': '1,247,531,499,520'}",934522566,daejoo
+001230.KS,Dongkuk Steel Mill Company Limited,EQUITY,KRW,korea,"{'raw': 1235283738624, 'fmt': '1.235T', 'longFmt': '1,235,283,738,624'}",925347800,dongkuk
+330590.KS,"LOTTE REIT Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1234282479616, 'fmt': '1.234T', 'longFmt': '1,234,282,479,616'}",924597760,"lotte,reit"
+047820.KQ,"Chorokbaem Media Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1203218153472, 'fmt': '1.203T', 'longFmt': '1,203,218,153,472'}",901327555,chorokbaem
+032500.KQ,Kmw Inc.,EQUITY,KRW,korea,"{'raw': 1190723584000, 'fmt': '1.191T', 'longFmt': '1,190,723,584,000'}",891967905,kmw
+365550.KS,"ESR Kendall Square REIT Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1159204175872, 'fmt': '1.159T', 'longFmt': '1,159,204,175,872'}",868356800,"esr,kendall"
+025900.KQ,"Dongwha Enterprise Co.,Ltd",EQUITY,KRW,korea,"{'raw': 1149355163648, 'fmt': '1.149T', 'longFmt': '1,149,355,163,648'}",860978930,dongwha
+010780.KS,"IS DongSeo Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1142603251712, 'fmt': '1.143T', 'longFmt': '1,142,603,251,712'}",855921091,dongseo
+280360.KS,"Lotte Confectionery Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1136314941440, 'fmt': '1.136T', 'longFmt': '1,136,314,941,440'}",851210534,"lotte,confectionery"
+020560.KS,"Asiana Airlines, Inc.",EQUITY,KRW,korea,"{'raw': 1131059347456, 'fmt': '1.131T', 'longFmt': '1,131,059,347,456'}",847273583,asiana
+009900.KS,"Myoung Shin Industrial Co.,Ltd",EQUITY,KRW,korea,"{'raw': 1130730618880, 'fmt': '1.131T', 'longFmt': '1,130,730,618,880'}",847027333,myoung
+395400.KS,"SK Reits Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1130185490432, 'fmt': '1.13T', 'longFmt': '1,130,185,490,432'}",846618979,"sk,reits"
+035080.KQ,"Interpark Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1123200008192, 'fmt': '1.123T', 'longFmt': '1,123,200,008,192'}",841386172,interpark
+018670.KS,"SK Gas Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1112906137600, 'fmt': '1.113T', 'longFmt': '1,112,906,137,600'}",833675061,"sk,gas"
+122870.KQ,YG Entertainment Inc.,EQUITY,KRW,korea,"{'raw': 1111873421312, 'fmt': '1.112T', 'longFmt': '1,111,873,421,312'}",832901456,"yg,entertainment"
+178920.KS,"PI Advanced Materials Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1105641209856, 'fmt': '1.106T', 'longFmt': '1,105,641,209,856'}",828232923,"pi,advanced"
+009415.KS,"Taeyoung Engineering & Construction Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 1102840856576, 'fmt': '1.103T', 'longFmt': '1,102,840,856,576'}",826135185,taeyoung
+005800.KS,"Shinyoungwacoal,Inc.",EQUITY,KRW,korea,"{'raw': 1088999981056, 'fmt': '1.089T', 'longFmt': '1,088,999,981,056'}",815767022,shinyoungwacoalinc
+298380.KQ,ABL Bio Inc.,EQUITY,KRW,korea,"{'raw': 1078220947456, 'fmt': '1.078T', 'longFmt': '1,078,220,947,456'}",807692476,"abl,bio"
+007460.KS,Aprogen Medicines Inc.,EQUITY,KRW,korea,"{'raw': 1069168459776, 'fmt': '1.069T', 'longFmt': '1,069,168,459,776'}",800911281,aprogen
+300720.KS,"Hanil Cement Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1059700998144, 'fmt': '1.06T', 'longFmt': '1,059,700,998,144'}",793819231,hanil
+112040.KQ,"Wemade Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 1054487871488, 'fmt': '1.054T', 'longFmt': '1,054,487,871,488'}",789914091,wemade
+001740.KS,SK Networks Company Limited,EQUITY,KRW,korea,"{'raw': 1045099184128, 'fmt': '1.045T', 'longFmt': '1,045,099,184,128'}",782881050,"sk,networks"
+000670.KS,Young Poong Corporation,EQUITY,KRW,korea,"{'raw': 1032077967360, 'fmt': '1.032T', 'longFmt': '1,032,077,967,360'}",773126891,"young,poong"
+012510.KS,"Douzone Bizon Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1025191772160, 'fmt': '1.025T', 'longFmt': '1,025,191,772,160'}",767968460,douzone
+381970.KS,"K Car Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1024242417664, 'fmt': '1.024T', 'longFmt': '1,024,242,417,664'}",767257301,"k,car"
+248070.KS,"Solum Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1015151591424, 'fmt': '1.015T', 'longFmt': '1,015,151,591,424'}",760447387,"solum,co"
+185750.KS,Chong Kun Dang Pharmaceutical Corp.,EQUITY,KRW,korea,"{'raw': 1014713942016, 'fmt': '1.015T', 'longFmt': '1,014,713,942,016'}",760119545,"chong,kun"
+078340.KQ,Com2uS Corporation,EQUITY,KRW,korea,"{'raw': 1009884397568, 'fmt': '1.01T', 'longFmt': '1,009,884,397,568'}",756501746,com2us
+017390.KS,"Seoul City Gas Co., Ltd.",EQUITY,KRW,korea,"{'raw': 1009525391360, 'fmt': '1.01T', 'longFmt': '1,009,525,391,360'}",756232816,"seoul,city,gas"
+003547.KS,"Daishin Securities Co., Ltd.",EQUITY,KRW,korea,"{'raw': 956520136704, 'fmt': '956.52B', 'longFmt': '956,520,136,704'}",716526719,daishin
+079160.KS,"CJ CGV Co., Ltd.",EQUITY,KRW,korea,"{'raw': 994305245184, 'fmt': '994.305B', 'longFmt': '994,305,245,184'}",744831444,cgv
+114090.KS,"Grand Korea Leisure Co., Ltd.",EQUITY,KRW,korea,"{'raw': 989691183104, 'fmt': '989.691B', 'longFmt': '989,691,183,104'}",741375062,"grand,korea"
+195870.KS,"HAESUNG DS Co., Ltd.",EQUITY,KRW,korea,"{'raw': 985999998976, 'fmt': '986B', 'longFmt': '985,999,998,976'}",738610006,haesung
+268280.KS,"Miwon Specialty Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 967755235328, 'fmt': '967.755B', 'longFmt': '967,755,235,328'}",724942902,miwon
+215200.KQ,MegaStudyEdu Co. Ltd,EQUITY,KRW,korea,"{'raw': 950696935424, 'fmt': '950.697B', 'longFmt': '950,696,935,424'}",712164574,megastudy
+014830.KS,UNID Company Ltd.,EQUITY,KRW,korea,"{'raw': 943038726144, 'fmt': '943.039B', 'longFmt': '943,038,726,144'}",706427830,unid
+249420.KS,"Ildong Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 941503283200, 'fmt': '941.503B', 'longFmt': '941,503,283,200'}",705277633,ildong
+121600.KQ,"Advanced Nano Products Co., Ltd.",EQUITY,KRW,korea,"{'raw': 934726139904, 'fmt': '934.726B', 'longFmt': '934,726,139,904'}",700200893,"advanced,nano"
+039030.KQ,"EO Technics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 929910882304, 'fmt': '929.911B', 'longFmt': '929,910,882,304'}",696593796,"eo,technics"
+348950.KS,JR Global REIT,EQUITY,KRW,korea,"{'raw': 927667191808, 'fmt': '927.667B', 'longFmt': '927,667,191,808'}",694913054,"jr,global"
+002350.KS,Nexen Tire Corporation,EQUITY,KRW,korea,"{'raw': 926707548160, 'fmt': '926.708B', 'longFmt': '926,707,548,160'}",694194187,nexen
+196170.KQ,ALTEOGEN Inc.,EQUITY,KRW,korea,"{'raw': 919183228928, 'fmt': '919.183B', 'longFmt': '919,183,228,928'}",688557739,alteogen
+011000.KS,"GeneOne Life Science, Inc.",EQUITY,KRW,korea,"{'raw': 914550816768, 'fmt': '914.551B', 'longFmt': '914,550,816,768'}",685087612,geneone
+137400.KQ,People & Technology Inc.,EQUITY,KRW,korea,"{'raw': 905912188928, 'fmt': '905.912B', 'longFmt': '905,912,188,928'}",678616438,"people,&,technology"
+001800.KS,ORION Holdings Corp.,EQUITY,KRW,korea,"{'raw': 905358344192, 'fmt': '905.358B', 'longFmt': '905,358,344,192'}",678201555,"orion,holdings"
+181710.KS,NHN Corporation,EQUITY,KRW,korea,"{'raw': 901955977216, 'fmt': '901.956B', 'longFmt': '901,955,977,216'}",675652850,nhn
+009240.KS,"Hanssem Co., Ltd.",EQUITY,KRW,korea,"{'raw': 887902371840, 'fmt': '887.902B', 'longFmt': '887,902,371,840'}",665125332,hanssem
+030190.KQ,"NICE Information Service Co., Ltd.",EQUITY,KRW,korea,"{'raw': 892313534464, 'fmt': '892.314B', 'longFmt': '892,313,534,464'}",668429722,"nice,information"
+403550.KS,SOCAR Inc.,EQUITY,KRW,korea,"{'raw': 891775352832, 'fmt': '891.775B', 'longFmt': '891,775,352,832'}",668026571,socar
+272450.KS,"Jin Air Co., Ltd.",EQUITY,KRW,korea,"{'raw': 891531296768, 'fmt': '891.531B', 'longFmt': '891,531,296,768'}",667843750,"jin,air"
+032350.KS,"Lotte Tour Development Co., Ltd.",EQUITY,KRW,korea,"{'raw': 875224432640, 'fmt': '875.224B', 'longFmt': '875,224,432,640'}",655628321,"lotte,tour"
+161890.KS,"Kolmar Korea Co., Ltd.",EQUITY,KRW,korea,"{'raw': 871773700096, 'fmt': '871.774B', 'longFmt': '871,773,700,096'}",653043386,"kolmar,korea"
+082640.KS,"Tong Yang Life Insurance Co., Ltd.",EQUITY,KRW,korea,"{'raw': 871251836928, 'fmt': '871.252B', 'longFmt': '871,251,836,928'}",652652460,"tong,yang"
+067160.KQ,"AfreecaTV Co., Ltd.",EQUITY,KRW,korea,"{'raw': 868396302336, 'fmt': '868.396B', 'longFmt': '868,396,302,336'}",650513386,afreecatv
+003690.KS,Korean Reinsurance Company,EQUITY,KRW,korea,"{'raw': 861104963584, 'fmt': '861.105B', 'longFmt': '861,104,963,584'}",645051464,"korean,reinsurance"
+222800.KQ,"SIMMTECH Co., Ltd.",EQUITY,KRW,korea,"{'raw': 855200694272, 'fmt': '855.201B', 'longFmt': '855,200,694,272'}",640628591,simmtech
+003230.KS,"Samyang Foods Co., Ltd.",EQUITY,KRW,korea,"{'raw': 853955903488, 'fmt': '853.956B', 'longFmt': '853,955,903,488'}",639696121,samyang
+215000.KQ,"GOLFZON Co., Ltd.",EQUITY,KRW,korea,"{'raw': 853055897600, 'fmt': '853.056B', 'longFmt': '853,055,897,600'}",639021929,golfzon
+090460.KQ,"BH Co., Ltd.",EQUITY,KRW,korea,"{'raw': 849954799616, 'fmt': '849.955B', 'longFmt': '849,954,799,616'}",636698905,"bh,co"
+214320.KS,Innocean Worldwide Inc.,EQUITY,KRW,korea,"{'raw': 847999991808, 'fmt': '848B', 'longFmt': '847,999,991,808'}",635234564,innocean
+069260.KS,"TKG Huchems Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 842241277952, 'fmt': '842.241B', 'longFmt': '842,241,277,952'}",630920726,tkg
+085660.KQ,"CHA Biotech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 844937691136, 'fmt': '844.938B', 'longFmt': '844,937,691,136'}",632940602,"cha,biotech"
+096530.KQ,"Seegene, Inc.",EQUITY,KRW,korea,"{'raw': 838242009088, 'fmt': '838.242B', 'longFmt': '838,242,009,088'}",627924884,seegene
+089590.KS,"Jeju Air Co., Ltd.",EQUITY,KRW,korea,"{'raw': 834788655104, 'fmt': '834.789B', 'longFmt': '834,788,655,104'}",625337986,"jeju,air"
+009420.KS,"Hanall Biopharma Co.,Ltd",EQUITY,KRW,korea,"{'raw': 831322587136, 'fmt': '831.323B', 'longFmt': '831,322,587,136'}",622741564,hanall
+001680.KS,Daesang Corporation,EQUITY,KRW,korea,"{'raw': 830104469504, 'fmt': '830.104B', 'longFmt': '830,104,469,504'}",621829075,daesang
+039130.KS,Hanatour Service Inc.,EQUITY,KRW,korea,"{'raw': 827160657920, 'fmt': '827.161B', 'longFmt': '827,160,657,920'}",619623873,hanatour
+294870.KS,HDC Hyundai Development Company,EQUITY,KRW,korea,"{'raw': 827018641408, 'fmt': '827.019B', 'longFmt': '827,018,641,408'}",619517489,hdc
+003380.KQ,"Harim Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 818861768704, 'fmt': '818.862B', 'longFmt': '818,861,768,704'}",613407197,"harim,holdings"
+241590.KS,"Hwaseung Enterprise Co., Ltd.",EQUITY,KRW,korea,"{'raw': 805720621056, 'fmt': '805.721B', 'longFmt': '805,720,621,056'}",603563198,hwaseung
+005420.KS,"Cosmo Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 804585996288, 'fmt': '804.586B', 'longFmt': '804,585,996,288'}",602713254,"cosmo,chemical"
+023590.KS,Daou Technology Inc.,EQUITY,KRW,korea,"{'raw': 802595405824, 'fmt': '802.595B', 'longFmt': '802,595,405,824'}",601222108,"daou,technology"
+103140.KS,Poongsan Corporation,EQUITY,KRW,korea,"{'raw': 801674690560, 'fmt': '801.675B', 'longFmt': '801,674,690,560'}",600532402,poongsan
+036930.KQ,"JUSUNG ENGINEERING Co., Ltd.",EQUITY,KRW,korea,"{'raw': 800936689664, 'fmt': '800.937B', 'longFmt': '800,936,689,664'}",599979568,jusung
+003030.KS,SeAH Steel Holdings Corporation,EQUITY,KRW,korea,"{'raw': 793950420992, 'fmt': '793.95B', 'longFmt': '793,950,420,992'}",594746172,"seah,steel"
+213420.KQ,"DukSan Neolux Co.,Ltd",EQUITY,KRW,korea,"{'raw': 781346471936, 'fmt': '781.346B', 'longFmt': '781,346,471,936'}",585304587,duksan
+006650.KS,"Korea Petrochemical Ind. Co., Ltd.",EQUITY,KRW,korea,"{'raw': 778188619776, 'fmt': '778.189B', 'longFmt': '778,188,619,776'}",582939048,"korea,petrochemical"
+036420.KS,ContentreeJoongAng corp.,EQUITY,KRW,korea,"{'raw': 772669571072, 'fmt': '772.67B', 'longFmt': '772,669,571,072'}",578804744,contentreejoongang
+100090.KQ,"Samkang M&T Co.,Ltd",EQUITY,KRW,korea,"{'raw': 764110110720, 'fmt': '764.11B', 'longFmt': '764,110,110,720'}",572392874,samkang
+053800.KQ,"AhnLab, Inc.",EQUITY,KRW,korea,"{'raw': 762447855616, 'fmt': '762.448B', 'longFmt': '762,447,855,616'}",571147683,ahnlab
+013890.KS,"Zinus, Inc",EQUITY,KRW,korea,"{'raw': 758935912448, 'fmt': '758.936B', 'longFmt': '758,935,912,448'}",568516896,zinus
+000250.KQ,"Sam Chun Dang Pharm. Co., Ltd",EQUITY,KRW,korea,"{'raw': 755624771584, 'fmt': '755.625B', 'longFmt': '755,624,771,584'}",566036529,"sam,chun"
+005690.KS,"Pharmicell Co., Ltd.",EQUITY,KRW,korea,"{'raw': 755319570432, 'fmt': '755.32B', 'longFmt': '755,319,570,432'}",565807904,pharmicell
+200130.KQ,"Kolmar BNH Co., Ltd.",EQUITY,KRW,korea,"{'raw': 751884632064, 'fmt': '751.885B', 'longFmt': '751,884,632,064'}",563234800,"kolmar,bnh"
+166090.KQ,Hana Materials Inc.,EQUITY,KRW,korea,"{'raw': 748796772352, 'fmt': '748.797B', 'longFmt': '748,796,772,352'}",560921693,"hana,materials"
+284740.KS,"CUCKOO Homesys Co., Ltd",EQUITY,KRW,korea,"{'raw': 745544810496, 'fmt': '745.545B', 'longFmt': '745,544,810,496'}",558485657,homesys
+263750.KQ,Pearl Abyss Corp.,EQUITY,KRW,korea,"{'raw': 743453425664, 'fmt': '743.453B', 'longFmt': '743,453,425,664'}",556919006,"pearl,abyss"
+005880.KS,Korea Line Corporation,EQUITY,KRW,korea,"{'raw': 741236539392, 'fmt': '741.237B', 'longFmt': '741,236,539,392'}",555258342,"korea,line"
+008730.KS,"Youlchon Chemical Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 734080008192, 'fmt': '734.08B', 'longFmt': '734,080,008,192'}",549897403,youlchon
+004690.KS,"Samchully Co.,Ltd",EQUITY,KRW,korea,"{'raw': 725892268032, 'fmt': '725.892B', 'longFmt': '725,892,268,032'}",543763989,samchully
+003240.KS,"Taekwang Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 712861483008, 'fmt': '712.861B', 'longFmt': '712,861,483,008'}",534002662,taekwang
+192820.KS,"Cosmax, Inc.",EQUITY,KRW,korea,"{'raw': 712509947904, 'fmt': '712.51B', 'longFmt': '712,509,947,904'}",533739328,cosmax
+145720.KS,"Dentium CO., LTD",EQUITY,KRW,korea,"{'raw': 702847057920, 'fmt': '702.847B', 'longFmt': '702,847,057,920'}",526500883,dentium
+095660.KQ,NEOWIZ,EQUITY,KRW,korea,"{'raw': 696312070144, 'fmt': '696.312B', 'longFmt': '696,312,070,144'}",521605540,neowiz
+034120.KS,Seoul Broadcasting System,EQUITY,KRW,korea,"{'raw': 695220961280, 'fmt': '695.221B', 'longFmt': '695,220,961,280'}",520788194,sbs
+054780.KQ,"KEYEAST.Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 692477624320, 'fmt': '692.478B', 'longFmt': '692,477,624,320'}",518733167,keyeastcoltd
+004490.KS,"Sebang Global Battery Co., Ltd.",EQUITY,KRW,korea,"{'raw': 691843170304, 'fmt': '691.843B', 'longFmt': '691,843,170,304'}",518257899,sebang
+003850.KS,Boryung Corporation,EQUITY,KRW,korea,"{'raw': 685211254784, 'fmt': '685.211B', 'longFmt': '685,211,254,784'}",513289949,boryung
+192080.KS,"DoubleUGames Co., Ltd.",EQUITY,KRW,korea,"{'raw': 684961431552, 'fmt': '684.961B', 'longFmt': '684,961,431,552'}",513102807,doubleugames
+039200.KQ,Oscotec Inc.,EQUITY,KRW,korea,"{'raw': 684278808576, 'fmt': '684.279B', 'longFmt': '684,278,808,576'}",512591456,oscotec
+005610.KS,"SPC Samlip Co., Ltd.",EQUITY,KRW,korea,"{'raw': 677596364800, 'fmt': '677.596B', 'longFmt': '677,596,364,800'}",507585655,samlip
+046890.KQ,"Seoul Semiconductor Co., Ltd.",EQUITY,KRW,korea,"{'raw': 673427357696, 'fmt': '673.427B', 'longFmt': '673,427,357,696'}",504462662,"seoul,semiconductor"
+064550.KQ,Bioneer Corporation,EQUITY,KRW,korea,"{'raw': 666236616704, 'fmt': '666.237B', 'longFmt': '666,236,616,704'}",499076097,bioneer
+000640.KS,"Dong-A Socio Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 665701711872, 'fmt': '665.702B', 'longFmt': '665,701,711,872'}",498675401,dong-a
+082740.KS,"HSD Engine Co., Ltd.",EQUITY,KRW,korea,"{'raw': 658135777280, 'fmt': '658.136B', 'longFmt': '658,135,777,280'}",493007780,hsd
+097520.KS,"MCNEX Co., Ltd",EQUITY,KRW,korea,"{'raw': 655377432576, 'fmt': '655.377B', 'longFmt': '655,377,432,576'}",490941511,mcnex
+086900.KQ,Medy-Tox Inc.,EQUITY,KRW,korea,"{'raw': 654881914880, 'fmt': '654.882B', 'longFmt': '654,881,914,880'}",490570320,medy-tox
+105630.KS,"Hansae Co., Ltd.",EQUITY,KRW,korea,"{'raw': 651375673344, 'fmt': '651.376B', 'longFmt': '651,375,673,344'}",487943804,hansae
+095700.KQ,"Genexine, Inc.",EQUITY,KRW,korea,"{'raw': 645329649664, 'fmt': '645.33B', 'longFmt': '645,329,649,664'}",483414743,genexine
+017960.KS,"Hankuk Carbon Co., Ltd.",EQUITY,KRW,korea,"{'raw': 641030750208, 'fmt': '641.031B', 'longFmt': '641,030,750,208'}",480194449,hankuk
+214450.KQ,"PharmaResearch Co., Ltd.",EQUITY,KRW,korea,"{'raw': 639916441600, 'fmt': '639.916B', 'longFmt': '639,916,441,600'}",479359723,pharmaresearch
+003100.KQ,"SUN KWANG CO.,Ltd.",EQUITY,KRW,korea,"{'raw': 633448628224, 'fmt': '633.449B', 'longFmt': '633,448,628,224'}",474514701,"sun,kwang"
+140860.KQ,Park Systems Corp.,EQUITY,KRW,korea,"{'raw': 630707650560, 'fmt': '630.708B', 'longFmt': '630,707,650,560'}",472461442,"park,systems"
+020000.KS,HANDSOME Corp.,EQUITY,KRW,korea,"{'raw': 628330528768, 'fmt': '628.331B', 'longFmt': '628,330,528,768'}",470680746,"handsome,corp"
+363280.KS,"TY Holdings Co., Ltd",EQUITY,KRW,korea,"{'raw': 624892968960, 'fmt': '624.893B', 'longFmt': '624,892,968,960'}",468105679,"ty,holdings"
+192650.KS,"DREAMTECH Co., Ltd.",EQUITY,KRW,korea,"{'raw': 624407609344, 'fmt': '624.408B', 'longFmt': '624,407,609,344'}",467742098,dreamtech
+064960.KS,"SNT Motiv Co., Ltd.",EQUITY,KRW,korea,"{'raw': 620966313984, 'fmt': '620.966B', 'longFmt': '620,966,313,984'}",465164233,snt
+003000.KS,"Bukwang Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 616092336128, 'fmt': '616.092B', 'longFmt': '616,092,336,128'}",461513149,bukwang
+003520.KS,"Yungjin Pharm. Co., Ltd.",EQUITY,KRW,korea,"{'raw': 615431602176, 'fmt': '615.432B', 'longFmt': '615,431,602,176'}",461018194,yungjin
+007575.KS,"Ilyang Pharmaceutical Co.,Ltd",EQUITY,KRW,korea,"{'raw': 613164974080, 'fmt': '613.165B', 'longFmt': '613,164,974,080'}",459320269,ilyang
+068240.KQ,"Dawonsys Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 608163725312, 'fmt': '608.164B', 'longFmt': '608,163,725,312'}",455573847,dawonsys
+003475.KS,"Yuanta Securities Korea Co., Ltd.",EQUITY,KRW,korea,"{'raw': 603582889984, 'fmt': '603.583B', 'longFmt': '603,582,889,984'}",452142355,yuanta
+210980.KS,SK D&D Co. Ltd.,EQUITY,KRW,korea,"{'raw': 601335463936, 'fmt': '601.335B', 'longFmt': '601,335,463,936'}",450458814,d&d
+033290.KQ,"COWELL FASHION Co.,Ltd",EQUITY,KRW,korea,"{'raw': 599365910528, 'fmt': '599.366B', 'longFmt': '599,365,910,528'}",448983427,"cowell,fashion"
+218410.KQ,RFHIC Corporation,EQUITY,KRW,korea,"{'raw': 597793964032, 'fmt': '597.794B', 'longFmt': '597,793,964,032'}",447805886,rfhic
+131290.KQ,"TSE Co., Ltd",EQUITY,KRW,korea,"{'raw': 591431139328, 'fmt': '591.431B', 'longFmt': '591,431,139,328'}",443039511,"tse,co"
+084370.KQ,"Eugene Technology Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 590221279232, 'fmt': '590.221B', 'longFmt': '590,221,279,232'}",442133208,"eugene,technology"
+069080.KQ,Webzen Inc.,EQUITY,KRW,korea,"{'raw': 585554984960, 'fmt': '585.555B', 'longFmt': '585,554,984,960'}",438637699,webzen
+025980.KQ,Ananti Inc.,EQUITY,KRW,korea,"{'raw': 584043134976, 'fmt': '584.043B', 'longFmt': '584,043,134,976'}",437505176,ananti
+001430.KS,SeAH Besteel Holdings Corporation,EQUITY,KRW,korea,"{'raw': 574552670208, 'fmt': '574.553B', 'longFmt': '574,552,670,208'}",430395894,besteel
+024810.KQ,"Ehwa Technologies Information Co., Ltd.",EQUITY,KRW,korea,"{'raw': 572525772800, 'fmt': '572.526B', 'longFmt': '572,525,772,800'}",428877550,ehwa
+009450.KS,"Kyung Dong Navien Co., Ltd.",EQUITY,KRW,korea,"{'raw': 569444270080, 'fmt': '569.444B', 'longFmt': '569,444,270,080'}",426569205,navien
+126720.KS,"Soosan Industries Co., Ltd.",EQUITY,KRW,korea,"{'raw': 557096763392, 'fmt': '557.097B', 'longFmt': '557,096,763,392'}",417319720,soosan
+052020.KQ,"STCube, Inc.",EQUITY,KRW,korea,"{'raw': 552501051392, 'fmt': '552.501B', 'longFmt': '552,501,051,392'}",413877084,stcube
+151860.KQ,"KG Eco Technology Services Co., Ltd.",EQUITY,KRW,korea,"{'raw': 550799998976, 'fmt': '550.8B', 'longFmt': '550,799,998,976'}",412602830,"kg,eco"
+007340.KS,DN Automotive Corporation,EQUITY,KRW,korea,"{'raw': 544665174016, 'fmt': '544.665B', 'longFmt': '544,665,174,016'}",408007249,"dn,automotive"
+145020.KQ,"Hugel, Inc.",EQUITY,KRW,korea,"{'raw': 543031721984, 'fmt': '543.032B', 'longFmt': '543,031,721,984'}",406783635,"hugel,inc"
+001570.KS,"Kumyang Co., Ltd.",EQUITY,KRW,korea,"{'raw': 536831098880, 'fmt': '536.831B', 'longFmt': '536,831,098,880'}",402138764,kumyang
+005090.KS,"SGC Energy Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 535947837440, 'fmt': '535.948B', 'longFmt': '535,947,837,440'}",401477115,sgc
+097230.KS,"HJ Shipbuilding & Construction Co., Ltd.",EQUITY,KRW,korea,"{'raw': 532917157888, 'fmt': '532.917B', 'longFmt': '532,917,157,888'}",399206841,"hj,shipbuilding"
+025860.KS,Namhae Chemical Corporation,EQUITY,KRW,korea,"{'raw': 527435694080, 'fmt': '527.436B', 'longFmt': '527,435,694,080'}",395100691,namhae
+192400.KS,"Cuckoo Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 526778892288, 'fmt': '526.779B', 'longFmt': '526,778,892,288'}",394608683,"cuckoo,holdings"
+005950.KS,"ISU Chemical Co., Ltd",EQUITY,KRW,korea,"{'raw': 526436106240, 'fmt': '526.436B', 'longFmt': '526,436,106,240'}",394351902,isu
+099190.KQ,"i-SENS, Inc.",EQUITY,KRW,korea,"{'raw': 522700455936, 'fmt': '522.7B', 'longFmt': '522,700,455,936'}",391553537,i-sens
+000400.KS,"Lotte Non - Life Insurance Co., Ltd.",EQUITY,KRW,korea,"{'raw': 517759270912, 'fmt': '517.759B', 'longFmt': '517,759,270,912'}",387852108,"lotte,non"
+189300.KQ,"Intellian Technologies, Inc.",EQUITY,KRW,korea,"{'raw': 516873650176, 'fmt': '516.874B', 'longFmt': '516,873,650,176'}",387188692,intellian
+095340.KQ,"ISC Co., Ltd.",EQUITY,KRW,korea,"{'raw': 516325572608, 'fmt': '516.326B', 'longFmt': '516,325,572,608'}",386778128,"isc,co"
+017810.KS,"Pulmuone Co., Ltd.",EQUITY,KRW,korea,"{'raw': 509275570176, 'fmt': '509.276B', 'longFmt': '509,275,570,176'}",381496990,pulmuone
+011930.KS,"Shinsung E&G Co., Ltd.",EQUITY,KRW,korea,"{'raw': 506879344640, 'fmt': '506.879B', 'longFmt': '506,879,344,640'}",379701984,shinsung
+034310.KS,"NICE Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 496553754624, 'fmt': '496.554B', 'longFmt': '496,553,754,624'}",371967111,"nice,holdings"
+183190.KS,"Asia Cement Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 496546185216, 'fmt': '496.546B', 'longFmt': '496,546,185,216'}",371961441,"asia,cement"
+089980.KQ,"Sang-A Frontec Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 495710732288, 'fmt': '495.711B', 'longFmt': '495,710,732,288'}",371335606,sang-a
+082270.KQ,"GemVax&KAEL Co.,Ltd",EQUITY,KRW,korea,"{'raw': 494059978752, 'fmt': '494.06B', 'longFmt': '494,059,978,752'}",370099030,gemvax&kael
+141080.KQ,"LegoChem Biosciences, Inc.",EQUITY,KRW,korea,"{'raw': 492881412096, 'fmt': '492.881B', 'longFmt': '492,881,412,096'}",369216169,legochem
+049070.KQ,"Intops Co., Ltd.",EQUITY,KRW,korea,"{'raw': 487894745088, 'fmt': '487.895B', 'longFmt': '487,894,745,088'}",365480670,intops
+357120.KS,Koramco Energy Plus Reit,EQUITY,KRW,korea,"{'raw': 486054395904, 'fmt': '486.054B', 'longFmt': '486,054,395,904'}",364102069,koramco
+023160.KQ,Tae Kwang Corporation,EQUITY,KRW,korea,"{'raw': 482423275520, 'fmt': '482.423B', 'longFmt': '482,423,275,520'}",361382007,"tae,kwang"
+002240.KS,Kiswire Ltd.,EQUITY,KRW,korea,"{'raw': 481682391040, 'fmt': '481.682B', 'longFmt': '481,682,391,040'}",360827012,kiswire
+043150.KQ,"Value Added Technology Co., Ltd.",EQUITY,KRW,korea,"{'raw': 481393770496, 'fmt': '481.394B', 'longFmt': '481,393,770,496'}",360610807,"value,added"
+053030.KQ,"BINEX Co., Ltd.",EQUITY,KRW,korea,"{'raw': 474054557696, 'fmt': '474.055B', 'longFmt': '474,054,557,696'}",355113022,binex
+033640.KQ,Nepes Corporation,EQUITY,KRW,korea,"{'raw': 473410076672, 'fmt': '473.41B', 'longFmt': '473,410,076,672'}",354630243,nepes
+093050.KS,LF Corp.,EQUITY,KRW,korea,"{'raw': 472436015104, 'fmt': '472.436B', 'longFmt': '472,436,015,104'}",353900576,"lf,corp"
+004430.KS,"Songwon Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 471600005120, 'fmt': '471.6B', 'longFmt': '471,600,005,120'}",353274323,songwon
+085370.KQ,Lutronic Corporation,EQUITY,KRW,korea,"{'raw': 467769294848, 'fmt': '467.769B', 'longFmt': '467,769,294,848'}",350404748,lutronic
+001725.KS,"Shinyoung Securities Co., Ltd.",EQUITY,KRW,korea,"{'raw': 448258998272, 'fmt': '448.259B', 'longFmt': '448,258,998,272'}",335789636,shinyoung
+075580.KS,"Sejin Heavy Industries Co., Ltd.",EQUITY,KRW,korea,"{'raw': 462239465472, 'fmt': '462.239B', 'longFmt': '462,239,465,472'}",346262368,sejin
+00781K.KS,"Korea Circuit Co., Ltd.",EQUITY,KRW,korea,"{'raw': 461278838784, 'fmt': '461.279B', 'longFmt': '461,278,838,784'}",345542765,"korea,circuit"
+092040.KQ,"Amicogen, Inc.",EQUITY,KRW,korea,"{'raw': 460595986432, 'fmt': '460.596B', 'longFmt': '460,595,986,432'}",345031242,amicogen
+161000.KS,"Aekyungchemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 460045451264, 'fmt': '460.045B', 'longFmt': '460,045,451,264'}",344618837,aekyungchemical
+267980.KQ,"Maeil Dairies Co., Ltd.",EQUITY,KRW,korea,"{'raw': 459637293056, 'fmt': '459.637B', 'longFmt': '459,637,293,056'}",344313087,maeil
+091700.KQ,"Partron Co., Ltd.",EQUITY,KRW,korea,"{'raw': 455935688704, 'fmt': '455.936B', 'longFmt': '455,935,688,704'}",341540225,partron
+006730.KQ,"Seobu T&D Co., Ltd.",EQUITY,KRW,korea,"{'raw': 453490212864, 'fmt': '453.49B', 'longFmt': '453,490,212,864'}",339708326,seobu
+014620.KQ,"Sung Kwang Bend Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 452609015808, 'fmt': '452.609B', 'longFmt': '452,609,015,808'}",339048223,"sung,kwang"
+038500.KQ,"SAMPYO Cement Co., Ltd.",EQUITY,KRW,korea,"{'raw': 452497113088, 'fmt': '452.497B', 'longFmt': '452,497,113,088'}",338964397,sampyo
+001880.KS,"DL Construction Co., Ltd.",EQUITY,KRW,korea,"{'raw': 449799585792, 'fmt': '449.8B', 'longFmt': '449,799,585,792'}",336943687,"dl,construction"
+051500.KQ,CJ Freshway Corporation,EQUITY,KRW,korea,"{'raw': 448746487808, 'fmt': '448.746B', 'longFmt': '448,746,487,808'}",336154814,freshway
+123890.KS,"Korea Asset In Trust Co., Ltd.",EQUITY,KRW,korea,"{'raw': 448475070464, 'fmt': '448.475B', 'longFmt': '448,475,070,464'}",335951496,"korea,asset"
+007690.KS,"Kukdo Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 447579455488, 'fmt': '447.579B', 'longFmt': '447,579,455,488'}",335280593,kukdo
+066980.KQ,"E& Corporation CO., LTD.",EQUITY,KRW,korea,"{'raw': 447522013184, 'fmt': '447.522B', 'longFmt': '447,522,013,184'}",335237563,e&
+032190.KQ,Daou Data Corp.,EQUITY,KRW,korea,"{'raw': 443756609536, 'fmt': '443.757B', 'longFmt': '443,756,609,536'}",332416909,"daou,data"
+205470.KQ,Humasis Co. Ltd.,EQUITY,KRW,korea,"{'raw': 443108786176, 'fmt': '443.109B', 'longFmt': '443,108,786,176'}",331931626,humasis
+029960.KQ,"Korea Environment Technology Co., LTD.",EQUITY,KRW,korea,"{'raw': 440603443200, 'fmt': '440.603B', 'longFmt': '440,603,443,200'}",330054880,"korea,environment"
+102460.KS,"REYON Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 437606514688, 'fmt': '437.607B', 'longFmt': '437,606,514,688'}",327809889,reyon
+179900.KQ,UTI Inc.,EQUITY,KRW,korea,"{'raw': 436284751872, 'fmt': '436.285B', 'longFmt': '436,284,751,872'}",326819760,"uti,inc"
+182400.KQ,"NKMAX CO., Ltd.",EQUITY,KRW,korea,"{'raw': 435135741952, 'fmt': '435.136B', 'longFmt': '435,135,741,952'}",325959040,nkmax
+033240.KS,"Jahwa Electronics. Co., Ltd",EQUITY,KRW,korea,"{'raw': 434195955712, 'fmt': '434.196B', 'longFmt': '434,195,955,712'}",325255048,jahwa
+064260.KQ,"Danal Co., Ltd.",EQUITY,KRW,korea,"{'raw': 431483715584, 'fmt': '431.484B', 'longFmt': '431,483,715,584'}",323223316,danal
+041960.KQ,"Komipharm International Co., Ltd.",EQUITY,KRW,korea,"{'raw': 430698659840, 'fmt': '430.699B', 'longFmt': '430,698,659,840'}",322635233,komipharm
+102710.KQ,"ENF Technology Co., Ltd.",EQUITY,KRW,korea,"{'raw': 428193579008, 'fmt': '428.194B', 'longFmt': '428,193,579,008'}",320758684,enf
+091120.KQ,"EM-Tech.CO., LTD.",EQUITY,KRW,korea,"{'raw': 426416898048, 'fmt': '426.417B', 'longFmt': '426,416,898,048'}",319427777,em-techco
+225570.KQ,"Nat Games Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 425786998784, 'fmt': '425.787B', 'longFmt': '425,786,998,784'}",318955921,"nat,games"
+001820.KS,"SAMWHA CAPACITOR Co.,LTD",EQUITY,KRW,korea,"{'raw': 423779303424, 'fmt': '423.779B', 'longFmt': '423,779,303,424'}",317451961,samwha
+017650.KQ,"Daelim Paper Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 423899987968, 'fmt': '423.9B', 'longFmt': '423,899,987,968'}",317542366,daelim
+003280.KS,"Heung-A Shipping Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 422866386944, 'fmt': '422.866B', 'longFmt': '422,866,386,944'}",316768098,heung-a
+053210.KS,"KT Skylife Co., Ltd.",EQUITY,KRW,korea,"{'raw': 420571840512, 'fmt': '420.572B', 'longFmt': '420,571,840,512'}",315049259,skylife
+003800.KQ,Ace Bed Company Limited,EQUITY,KRW,korea,"{'raw': 418586820608, 'fmt': '418.587B', 'longFmt': '418,586,820,608'}",313562286,"ace,bed"
+230240.KQ,"HFR, Inc.",EQUITY,KRW,korea,"{'raw': 418171813888, 'fmt': '418.172B', 'longFmt': '418,171,813,888'}",313251406,hfr
+950130.KQ,"Access Bio, Inc.",EQUITY,KRW,korea,"{'raw': 417953644544, 'fmt': '417.954B', 'longFmt': '417,953,644,544'}",313087976,"access,bio"
+015750.KQ,"Sungwoo Hitech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 415956303872, 'fmt': '415.956B', 'longFmt': '415,956,303,872'}",311591773,sungwoo
+108670.KS,"LX Hausys, Ltd.",EQUITY,KRW,korea,"{'raw': 415325683712, 'fmt': '415.326B', 'longFmt': '415,325,683,712'}",311119377,hausys
+058650.KS,SeAH Holdings Corporation,EQUITY,KRW,korea,"{'raw': 411578695680, 'fmt': '411.579B', 'longFmt': '411,578,695,680'}",308312518,"seah,holdings"
+100120.KQ,"Vieworks Co., Ltd.",EQUITY,KRW,korea,"{'raw': 408544378880, 'fmt': '408.544B', 'longFmt': '408,544,378,880'}",306039519,vieworks
+183300.KQ,KoMiCo Ltd.,EQUITY,KRW,korea,"{'raw': 408037490688, 'fmt': '408.037B', 'longFmt': '408,037,490,688'}",305659811,komico
+101490.KQ,S&S Tech Corporation,EQUITY,KRW,korea,"{'raw': 407132471296, 'fmt': '407.132B', 'longFmt': '407,132,471,296'}",304981863,s&s
+037560.KS,LG HelloVision Corp.,EQUITY,KRW,korea,"{'raw': 406596190208, 'fmt': '406.596B', 'longFmt': '406,596,190,208'}",304580136,hellovision
+077970.KS,"STX Engine Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 405942927360, 'fmt': '405.943B', 'longFmt': '405,942,927,360'}",304090779,stx
+286940.KS,Lotte Data Communication Company,EQUITY,KRW,korea,"{'raw': 405467922432, 'fmt': '405.468B', 'longFmt': '405,467,922,432'}",303734954,"lotte,data"
+005180.KS,"Binggrae Co., Ltd.",EQUITY,KRW,korea,"{'raw': 404070268928, 'fmt': '404.07B', 'longFmt': '404,070,268,928'}",302687975,binggrae
+030610.KS,"Kyobo Securities Co ., Ltd",EQUITY,KRW,korea,"{'raw': 402332909568, 'fmt': '402.333B', 'longFmt': '402,332,909,568'}",301386524,kyobo
+095610.KQ,"TES Co., Ltd",EQUITY,KRW,korea,"{'raw': 402234015744, 'fmt': '402.234B', 'longFmt': '402,234,015,744'}",301312443,"tes,co"
+206650.KQ,"EuBiologics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 402087149568, 'fmt': '402.087B', 'longFmt': '402,087,149,568'}",301202426,eubiologics
+092220.KS,Kec Corporation,EQUITY,KRW,korea,"{'raw': 400228220928, 'fmt': '400.228B', 'longFmt': '400,228,220,928'}",299809907,kec
+194480.KQ,Devsisters corporation,EQUITY,KRW,korea,"{'raw': 398639595520, 'fmt': '398.64B', 'longFmt': '398,639,595,520'}",298619872,devsisters
+104460.KQ,"DYPNF Co.,Ltd",EQUITY,KRW,korea,"{'raw': 396368707584, 'fmt': '396.369B', 'longFmt': '396,368,707,584'}",296918756,dypnf
+036830.KQ,"Soulbrain Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 394494377984, 'fmt': '394.494B', 'longFmt': '394,494,377,984'}",295514701,soulbrain
+038540.KQ,"Sangsangin Co., Ltd.",EQUITY,KRW,korea,"{'raw': 394480746496, 'fmt': '394.481B', 'longFmt': '394,480,746,496'}",295504489,sangsangin
+115390.KS,"Lock&Lock Co., Ltd.",EQUITY,KRW,korea,"{'raw': 392567128064, 'fmt': '392.567B', 'longFmt': '392,567,128,064'}",294071003,lock&lock
+037270.KS,"YG Plus, Inc.",EQUITY,KRW,korea,"{'raw': 391359397888, 'fmt': '391.359B', 'longFmt': '391,359,397,888'}",293166295,"yg,plus"
+004890.KS,"Dongil Industries Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 389892603904, 'fmt': '389.893B', 'longFmt': '389,892,603,904'}",292067524,dongil
+001390.KS,KG Chemical Corporation,EQUITY,KRW,korea,"{'raw': 389044371456, 'fmt': '389.044B', 'longFmt': '389,044,371,456'}",291432115,"kg,chemical"
+044180.KQ,KD Corporation,EQUITY,KRW,korea,"{'raw': 390199934976, 'fmt': '390.2B', 'longFmt': '390,199,934,976'}",292297745,"kd,corporation"
+008490.KS,"Suheung Co., Ltd.",EQUITY,KRW,korea,"{'raw': 388056580096, 'fmt': '388.057B', 'longFmt': '388,056,580,096'}",290692163,suheung
+086390.KQ,UniTest Incorporation,EQUITY,KRW,korea,"{'raw': 387878387712, 'fmt': '387.878B', 'longFmt': '387,878,387,712'}",290558680,unitest
+143240.KQ,"SaraminHR Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 383350177792, 'fmt': '383.35B', 'longFmt': '383,350,177,792'}",287166610,saraminhr
+060980.KS,Halla Holdings Corp.,EQUITY,KRW,korea,"{'raw': 383206653952, 'fmt': '383.207B', 'longFmt': '383,206,653,952'}",287059096,"halla,holdings"
+071840.KS,"LOTTE Himart Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 382895849472, 'fmt': '382.896B', 'longFmt': '382,895,849,472'}",286826274,himart
+034830.KS,KOREIT,EQUITY,KRW,korea,"{'raw': 380830154752, 'fmt': '380.83B', 'longFmt': '380,830,154,752'}",285278867,koreit
+002900.KS,TYM Corporation,EQUITY,KRW,korea,"{'raw': 380188884992, 'fmt': '380.189B', 'longFmt': '380,188,884,992'}",284798494,tym
+089970.KQ,Adaptive Plasma Technology Corp.,EQUITY,KRW,korea,"{'raw': 379640119296, 'fmt': '379.64B', 'longFmt': '379,640,119,296'}",284387415,"adaptive,plasma"
+055490.KS,"Tapex Co., Ltd.",EQUITY,KRW,korea,"{'raw': 378827309056, 'fmt': '378.827B', 'longFmt': '378,827,309,056'}",283778541,tapex
+104480.KQ,TK Chemical Corporation,EQUITY,KRW,korea,"{'raw': 378124861440, 'fmt': '378.125B', 'longFmt': '378,124,861,440'}",283252339,"tk,chemical"
+060720.KQ,"KHVATEC Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 377867862016, 'fmt': '377.868B', 'longFmt': '377,867,862,016'}",283059821,khvatec
+068400.KS,"SK Rent A Car Co., Ltd",EQUITY,KRW,korea,"{'raw': 377794560000, 'fmt': '377.795B', 'longFmt': '377,794,560,000'}",283004911,"sk,rent"
+001470.KS,"Sambu Engineering & Construction Co., Ltd",EQUITY,KRW,korea,"{'raw': 376284348416, 'fmt': '376.284B', 'longFmt': '376,284,348,416'}",281873615,sambu
+071320.KS,Korea District Heating Corp.,EQUITY,KRW,korea,"{'raw': 375149887488, 'fmt': '375.15B', 'longFmt': '375,149,887,488'}",281023794,"korea,district"
+179290.KQ,"M.I.TECH Co.,Ltd",EQUITY,KRW,korea,"{'raw': 374210265088, 'fmt': '374.21B', 'longFmt': '374,210,265,088'}",280319925,mitech
+088260.KS,E Kocref Cr-Reit,EQUITY,KRW,korea,"{'raw': 373728673792, 'fmt': '373.729B', 'longFmt': '373,728,673,792'}",279959166,kocref
+182360.KQ,"Cube Entertainment, Inc.",EQUITY,KRW,korea,"{'raw': 370704515072, 'fmt': '370.705B', 'longFmt': '370,704,515,072'}",277693777,"cube,entertainment"
+035600.KQ,"Kginicis Co.,Ltd",EQUITY,KRW,korea,"{'raw': 372849737728, 'fmt': '372.85B', 'longFmt': '372,849,737,728'}",279300758,kginicis
+060150.KQ,"INSUN Environmental New Technology Co., Ltd.",EQUITY,KRW,korea,"{'raw': 372395606016, 'fmt': '372.396B', 'longFmt': '372,395,606,016'}",278960569,insun
+063170.KQ,Seoul Auction Co. Ltd.,EQUITY,KRW,korea,"{'raw': 369616912384, 'fmt': '369.617B', 'longFmt': '369,616,912,384'}",276879057,"seoul,auction"
+030520.KQ,Hancom Inc.,EQUITY,KRW,korea,"{'raw': 368838770688, 'fmt': '368.839B', 'longFmt': '368,838,770,688'}",276296153,hancom
+054210.KQ,"Elentec Co., Ltd.",EQUITY,KRW,korea,"{'raw': 368497360896, 'fmt': '368.497B', 'longFmt': '368,497,360,896'}",276040404,elentec
+004250.KS,"NPC Co., Ltd.",EQUITY,KRW,korea,"{'raw': 368035856384, 'fmt': '368.036B', 'longFmt': '368,035,856,384'}",275694692,"npc,co"
+106240.KQ,"Finetechnix. Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 367886761984, 'fmt': '367.887B', 'longFmt': '367,886,761,984'}",275583006,finetechnix
+039840.KQ,DIO Corporation,EQUITY,KRW,korea,"{'raw': 365610631168, 'fmt': '365.611B', 'longFmt': '365,610,631,168'}",273877962,"dio,corporation"
+001530.KS,Di Dong Il Corporation,EQUITY,KRW,korea,"{'raw': 365364445184, 'fmt': '365.364B', 'longFmt': '365,364,445,184'}",273693545,"di,dong"
+018250.KS,"Aekyung Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 364317605888, 'fmt': '364.318B', 'longFmt': '364,317,605,888'}",272909360,aekyung
+033500.KQ,"Dongsung FineTec Co., Ltd.",EQUITY,KRW,korea,"{'raw': 364278611968, 'fmt': '364.279B', 'longFmt': '364,278,611,968'}",272880150,dongsung
+033270.KS,Korea United Pharm Inc.,EQUITY,KRW,korea,"{'raw': 360689762304, 'fmt': '360.69B', 'longFmt': '360,689,762,304'}",270191752,"korea,united"
+243840.KQ,"Shin Heung Energy & Electronics Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 359032061952, 'fmt': '359.032B', 'longFmt': '359,032,061,952'}",268949973,heung
+009160.KS,SIMPAC Inc.,EQUITY,KRW,korea,"{'raw': 356390633472, 'fmt': '356.391B', 'longFmt': '356,390,633,472'}",266971286,simpac
+027360.KQ,"Aju IB Investment Co., Ltd.",EQUITY,KRW,korea,"{'raw': 355548430336, 'fmt': '355.548B', 'longFmt': '355,548,430,336'}",266340394,aju
+036630.KQ,"Sejong Telecom, Inc.",EQUITY,KRW,korea,"{'raw': 353592016896, 'fmt': '353.592B', 'longFmt': '353,592,016,896'}",264874850,"sejong,telecom"
+110790.KQ,"Creas F&C Co.,Ltd",EQUITY,KRW,korea,"{'raw': 352050774016, 'fmt': '352.051B', 'longFmt': '352,050,774,016'}",263720309,creas
+031330.KQ,"SAMT Co., Ltd.",EQUITY,KRW,korea,"{'raw': 350442684416, 'fmt': '350.443B', 'longFmt': '350,442,684,416'}",262515693,samt
+058610.KQ,"SPG Co., Ltd.",EQUITY,KRW,korea,"{'raw': 349676339200, 'fmt': '349.676B', 'longFmt': '349,676,339,200'}",261941626,spg
+000545.KS,"Heungkuk Fire&Marine Insurance Co., Ltd.",EQUITY,KRW,korea,"{'raw': 349298589696, 'fmt': '349.299B', 'longFmt': '349,298,589,696'}",261658655,heungkuk
+003220.KS,"Daewon Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 348906160128, 'fmt': '348.906B', 'longFmt': '348,906,160,128'}",261364687,daewon
+281820.KS,"KCTech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 348308570112, 'fmt': '348.309B', 'longFmt': '348,308,570,112'}",260917034,kctech
+206560.KQ,"Dexter Studios Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 347459256320, 'fmt': '347.459B', 'longFmt': '347,459,256,320'}",260280815,"dexter,studios"
+050120.KQ,"ES Cube Co., Ltd.",EQUITY,KRW,korea,"{'raw': 345592725504, 'fmt': '345.593B', 'longFmt': '345,592,725,504'}",258882601,"es,cube"
+025770.KQ,"Korea Information & Communications Co., Ltd.",EQUITY,KRW,korea,"{'raw': 345044910080, 'fmt': '345.045B', 'longFmt': '345,044,910,080'}",258472234,"korea,information"
+013030.KQ,Hy-Lok Corporation,EQUITY,KRW,korea,"{'raw': 342371991552, 'fmt': '342.372B', 'longFmt': '342,371,991,552'}",256469958,hy-lok
+048530.KQ,"iNtRON Biotechnology, Inc.",EQUITY,KRW,korea,"{'raw': 340613758976, 'fmt': '340.614B', 'longFmt': '340,613,758,976'}",255152871,"intron,biotechnology"
+020120.KS,"KidariStudio, Inc.",EQUITY,KRW,korea,"{'raw': 339464257536, 'fmt': '339.464B', 'longFmt': '339,464,257,536'}",254291782,kidaristudio
+095570.KS,"AJ Networks Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 337101520896, 'fmt': '337.102B', 'longFmt': '337,101,520,896'}",252521862,"aj,networks"
+002310.KS,"Asia Paper Manufacturing.Co.,Ltd",EQUITY,KRW,korea,"{'raw': 336764403712, 'fmt': '336.764B', 'longFmt': '336,764,403,712'}",252269329,manufacturingcoltd
+101160.KQ,"Worldex Industry & Trading Co., Ltd.",EQUITY,KRW,korea,"{'raw': 335998844928, 'fmt': '335.999B', 'longFmt': '335,998,844,928'}",251695851,worldex
+078020.KQ,"EBEST Investment & Securities Co., Ltd.",EQUITY,KRW,korea,"{'raw': 335948480512, 'fmt': '335.948B', 'longFmt': '335,948,480,512'}",251658123,ebest
+217330.KQ,"Cytogen, Inc.",EQUITY,KRW,korea,"{'raw': 334087913472, 'fmt': '334.088B', 'longFmt': '334,087,913,472'}",250264377,cytogen
+091810.KS,"T'Way Air Co., Ltd.",EQUITY,KRW,korea,"{'raw': 329857499136, 'fmt': '329.857B', 'longFmt': '329,857,499,136'}",247095385,t'way
+243070.KQ,"Huons Co., Ltd.",EQUITY,KRW,korea,"{'raw': 329254797312, 'fmt': '329.255B', 'longFmt': '329,254,797,312'}",246643902,huons
+122900.KS,iMarketKorea Inc.,EQUITY,KRW,korea,"{'raw': 325655494656, 'fmt': '325.655B', 'longFmt': '325,655,494,656'}",243947674,imarketkorea
+048550.KQ,"SM Culture & Contents Co., Ltd.",EQUITY,KRW,korea,"{'raw': 324702142464, 'fmt': '324.702B', 'longFmt': '324,702,142,464'}",243233521,"sm,culture"
+010690.KS,"HWASHIN CO.,Ltd",EQUITY,KRW,korea,"{'raw': 323650781184, 'fmt': '323.651B', 'longFmt': '323,650,781,184'}",242445949,hwashin
+119610.KQ,Interojo Inc.,EQUITY,KRW,korea,"{'raw': 323269787648, 'fmt': '323.27B', 'longFmt': '323,269,787,648'}",242160547,interojo
+034950.KQ,"Korea Ratings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 320736559104, 'fmt': '320.737B', 'longFmt': '320,736,559,104'}",240262913,"korea,ratings"
+001250.KS,GS Global Corp.,EQUITY,KRW,korea,"{'raw': 316781559808, 'fmt': '316.782B', 'longFmt': '316,781,559,808'}",237300233,"gs,global"
+000050.KS,Kyungbangco.Ltd,EQUITY,KRW,korea,"{'raw': 316424323072, 'fmt': '316.424B', 'longFmt': '316,424,323,072'}",237032628,kyungbangcoltd
+041830.KQ,"InBody Co.,Ltd",EQUITY,KRW,korea,"{'raw': 315492827136, 'fmt': '315.493B', 'longFmt': '315,492,827,136'}",236334847,"inbody,coltd"
+067310.KQ,HANA Micron Inc.,EQUITY,KRW,korea,"{'raw': 313689997312, 'fmt': '313.69B', 'longFmt': '313,689,997,312'}",234984352,"hana,micron"
+317400.KS,Xi S&D Inc.,EQUITY,KRW,korea,"{'raw': 312199118848, 'fmt': '312.199B', 'longFmt': '312,199,118,848'}",233867539,s&d
+271980.KS,"Jeil Pharmaceutical Co.,Ltd",EQUITY,KRW,korea,"{'raw': 311830085632, 'fmt': '311.83B', 'longFmt': '311,830,085,632'}",233591097,jeil
+118990.KQ,"Motrex Co., Ltd",EQUITY,KRW,korea,"{'raw': 310543613952, 'fmt': '310.544B', 'longFmt': '310,543,613,952'}",232627404,motrex
+011700.KS,"Hanshin Machinery Co., Ltd.",EQUITY,KRW,korea,"{'raw': 309861220352, 'fmt': '309.861B', 'longFmt': '309,861,220,352'}",232116225,hanshin
+016590.KS,"Shindaeyang Paper Co., Ltd.",EQUITY,KRW,korea,"{'raw': 307310428160, 'fmt': '307.31B', 'longFmt': '307,310,428,160'}",230205433,shindaeyang
+078130.KQ,"Kuk-Il Paper Mfg Co.,Ltd",EQUITY,KRW,korea,"{'raw': 307193839616, 'fmt': '307.194B', 'longFmt': '307,193,839,616'}",230118097,kuk-il
+023410.KQ,Eugene Corporation,EQUITY,KRW,korea,"{'raw': 306537693184, 'fmt': '306.538B', 'longFmt': '306,537,693,184'}",229626579,"eugene,corporation"
+001510.KS,"SK Securities Co., Ltd.",EQUITY,KRW,korea,"{'raw': 306290425856, 'fmt': '306.29B', 'longFmt': '306,290,425,856'}",229441352,"sk,securities"
+086980.KQ,Showbox Corp.,EQUITY,KRW,korea,"{'raw': 305447993344, 'fmt': '305.448B', 'longFmt': '305,447,993,344'}",228810288,showbox
+006110.KS,"Sam-A Aluminium Company, Limited",EQUITY,KRW,korea,"{'raw': 304699998208, 'fmt': '304.7B', 'longFmt': '304,699,998,208'}",228249967,sam-a
+005500.KS,"Samjin Pharmaceuticals Co., Ltd.",EQUITY,KRW,korea,"{'raw': 305109434368, 'fmt': '305.109B', 'longFmt': '305,109,434,368'}",228556675,samjin
+018470.KS,"Choil Aluminum Co., Ltd.",EQUITY,KRW,korea,"{'raw': 304259891200, 'fmt': '304.26B', 'longFmt': '304,259,891,200'}",227920284,"choil,aluminum"
+006910.KQ,"Bosung Power Technology Co., Ltd",EQUITY,KRW,korea,"{'raw': 303147220992, 'fmt': '303.147B', 'longFmt': '303,147,220,992'}",227086786,bosung
+078160.KQ,"MEDIPOST Co., Ltd.",EQUITY,KRW,korea,"{'raw': 299906105344, 'fmt': '299.906B', 'longFmt': '299,906,105,344'}",224658874,medipost
+082920.KQ,"VITZROCELL Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 300421611520, 'fmt': '300.422B', 'longFmt': '300,421,611,520'}",225045039,vitzrocell
+005010.KS,"Husteel Co., Ltd.",EQUITY,KRW,korea,"{'raw': 300180832256, 'fmt': '300.181B', 'longFmt': '300,180,832,256'}",224864672,husteel
+272290.KQ,"INNOX Advanced Materials Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 298523721728, 'fmt': '298.524B', 'longFmt': '298,523,721,728'}",223623335,innox
+058820.KQ,"CMG Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 297819635712, 'fmt': '297.82B', 'longFmt': '297,819,635,712'}",223095906,"cmg,pharmaceutical"
+018310.KQ,"Sammok S-Form Co.,Ltd",EQUITY,KRW,korea,"{'raw': 294734987264, 'fmt': '294.735B', 'longFmt': '294,734,987,264'}",220785203,sammok
+009580.KS,"Moorim P&P Co., Ltd.",EQUITY,KRW,korea,"{'raw': 294668959744, 'fmt': '294.669B', 'longFmt': '294,668,959,744'}",220735742,moorim
+293480.KS,"Hana Pharm Co., Ltd.",EQUITY,KRW,korea,"{'raw': 294140805120, 'fmt': '294.141B', 'longFmt': '294,140,805,120'}",220340103,"hana,pharm"
+139990.KS,"AJUSTEEL Co.,Ltd",EQUITY,KRW,korea,"{'raw': 293619433472, 'fmt': '293.619B', 'longFmt': '293,619,433,472'}",219949545,ajusteel
+029530.KS,"sindoh Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 293314330624, 'fmt': '293.314B', 'longFmt': '293,314,330,624'}",219720993,sindoh
+095720.KS,"Woongjin Thinkbig Co., Ltd.",EQUITY,KRW,korea,"{'raw': 292975804416, 'fmt': '292.976B', 'longFmt': '292,975,804,416'}",219467404,woongjin
+080160.KQ,Modetour Network Inc.,EQUITY,KRW,korea,"{'raw': 292367171584, 'fmt': '292.367B', 'longFmt': '292,367,171,584'}",219011479,modetour
+002150.KS,"Dohwa Engineering Co., Ltd.",EQUITY,KRW,korea,"{'raw': 292004167680, 'fmt': '292.004B', 'longFmt': '292,004,167,680'}",218739554,dohwa
+051370.KQ,"Interflex Co., Ltd.",EQUITY,KRW,korea,"{'raw': 291593748480, 'fmt': '291.594B', 'longFmt': '291,593,748,480'}",218432110,interflex
+050890.KQ,"SOLiD, Inc.",EQUITY,KRW,korea,"{'raw': 291210985472, 'fmt': '291.211B', 'longFmt': '291,210,985,472'}",218145383,"solid,inc"
+002710.KS,TCC Steel Corp.,EQUITY,KRW,korea,"{'raw': 291082174464, 'fmt': '291.082B', 'longFmt': '291,082,174,464'}",218048891,"tcc,steel"
+060230.KQ,Yapex Inc.,EQUITY,KRW,korea,"{'raw': 291012050944, 'fmt': '291.012B', 'longFmt': '291,012,050,944'}",217996362,yapex
+900140.KS,LVMC Holdings,EQUITY,KRW,korea,"{'raw': 290325102592, 'fmt': '290.325B', 'longFmt': '290,325,102,592'}",217481770,lvmc
+032620.KQ,"UBcare. Co., Ltd.",EQUITY,KRW,korea,"{'raw': 287568035840, 'fmt': '287.568B', 'longFmt': '287,568,035,840'}",215416459,ubcare
+009290.KS,"Kwang Dong Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 286742577152, 'fmt': '286.743B', 'longFmt': '286,742,577,152'}",214798110,"kwang,dong"
+001790.KS,TS Corporation,EQUITY,KRW,korea,"{'raw': 286580637696, 'fmt': '286.581B', 'longFmt': '286,580,637,696'}",214676802,"ts,corporation"
+026890.KS,"STIC Investments, Inc.",EQUITY,KRW,korea,"{'raw': 285256908800, 'fmt': '285.257B', 'longFmt': '285,256,908,800'}",213685200,stic
+108230.KQ,"TOPTEC Co., Ltd",EQUITY,KRW,korea,"{'raw': 285139632128, 'fmt': '285.14B', 'longFmt': '285,139,632,128'}",213597348,toptec
+001465.KS,"BYC Co., Ltd.",EQUITY,KRW,korea,"{'raw': 284303753216, 'fmt': '284.304B', 'longFmt': '284,303,753,216'}",212971193,byc
+004380.KS,"Samick THK Co., Ltd.",EQUITY,KRW,korea,"{'raw': 283590000640, 'fmt': '283.59B', 'longFmt': '283,590,000,640'}",212436523,samick
+217270.KQ,Neptune Company,EQUITY,KRW,korea,"{'raw': 283542847488, 'fmt': '283.543B', 'longFmt': '283,542,847,488'}",212401201,"neptune,company"
+001525.KS,Tongyang Inc.,EQUITY,KRW,korea,"{'raw': 283417477120, 'fmt': '283.417B', 'longFmt': '283,417,477,120'}",212307286,tongyang
+339770.KS,"Kyochon Food&Beverage Co., Ltd.",EQUITY,KRW,korea,"{'raw': 282302251008, 'fmt': '282.302B', 'longFmt': '282,302,251,008'}",211471873,kyochon
+016800.KS,Fursys Inc.,EQUITY,KRW,korea,"{'raw': 281876070400, 'fmt': '281.876B', 'longFmt': '281,876,070,400'}",211152623,fursys
+030210.KS,"Daol Investment & Securities Co., Ltd.",EQUITY,KRW,korea,"{'raw': 280592678912, 'fmt': '280.593B', 'longFmt': '280,592,678,912'}",210191237,daol
+238090.KQ,"NDFOS Co., Ltd.",EQUITY,KRW,korea,"{'raw': 278594486272, 'fmt': '278.594B', 'longFmt': '278,594,486,272'}",208694397,ndfos
+226320.KS,"It'S Hanbul Co., Ltd.",EQUITY,KRW,korea,"{'raw': 278343843840, 'fmt': '278.344B', 'longFmt': '278,343,843,840'}",208506641,hanbul
+084010.KS,"Daehan Steel Co., Ltd.",EQUITY,KRW,korea,"{'raw': 277576646656, 'fmt': '277.577B', 'longFmt': '277,576,646,656'}",207931936,daehan
+001780.KS,"Aluko Co., Ltd.",EQUITY,KRW,korea,"{'raw': 276556906496, 'fmt': '276.557B', 'longFmt': '276,556,906,496'}",207168051,aluko
+088800.KQ,Ace Technologies Corp.,EQUITY,KRW,korea,"{'raw': 276100939776, 'fmt': '276.101B', 'longFmt': '276,100,939,776'}",206826488,"ace,technologies"
+001200.KS,"Eugene Investment & Securities Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 275417759744, 'fmt': '275.418B', 'longFmt': '275,417,759,744'}",206314719,"eugene,investment"
+080420.KQ,"Moda-InnoChips Co., Ltd.",EQUITY,KRW,korea,"{'raw': 275410944000, 'fmt': '275.411B', 'longFmt': '275,410,944,000'}",206309613,moda-innochips
+017940.KS,E1 Corporation,EQUITY,KRW,korea,"{'raw': 274633129984, 'fmt': '274.633B', 'longFmt': '274,633,129,984'}",205726955,e1
+042600.KQ,"Seronics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 273987846144, 'fmt': '273.988B', 'longFmt': '273,987,846,144'}",205243575,seronics
+089010.KQ,"CHEMTRONICS.CO.,Ltd.",EQUITY,KRW,korea,"{'raw': 272223272960, 'fmt': '272.223B', 'longFmt': '272,223,272,960'}",203921737,chemtronicscoltd
+105840.KS,Woojin Inc.,EQUITY,KRW,korea,"{'raw': 271502491648, 'fmt': '271.502B', 'longFmt': '271,502,491,648'}",203381802,woojin
+084680.KS,"E-World Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 270876753920, 'fmt': '270.877B', 'longFmt': '270,876,753,920'}",202913064,e-world
+108490.KQ,"Robotis Co,.Ltd",EQUITY,KRW,korea,"{'raw': 270586544128, 'fmt': '270.587B', 'longFmt': '270,586,544,128'}",202695668,robotis
+079370.KQ,"Zeus Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 269841006592, 'fmt': '269.841B', 'longFmt': '269,841,006,592'}",202137188,"zeus,coltd"
+104700.KS,KISCO Corp.,EQUITY,KRW,korea,"{'raw': 269053788160, 'fmt': '269.054B', 'longFmt': '269,053,788,160'}",201547485,kisco
+178320.KQ,"Seojin System Co.,Ltd",EQUITY,KRW,korea,"{'raw': 268795396096, 'fmt': '268.795B', 'longFmt': '268,795,396,096'}",201353924,seojin
+036810.KQ,Fine Semitech Corp.,EQUITY,KRW,korea,"{'raw': 268111822848, 'fmt': '268.112B', 'longFmt': '268,111,822,848'}",200841861,semitech
+059090.KQ,MiCo Ltd.,EQUITY,KRW,korea,"{'raw': 266341285888, 'fmt': '266.341B', 'longFmt': '266,341,285,888'}",199515556,"mico,ltd"
+136490.KS,"Sunjin Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 265138077696, 'fmt': '265.138B', 'longFmt': '265,138,077,696'}",198614236,sunjin
+043610.KQ,Genie Music Corporation,EQUITY,KRW,korea,"{'raw': 265006219264, 'fmt': '265.006B', 'longFmt': '265,006,219,264'}",198515462,"genie,music"
+206400.KQ,"Benoholdings, Inc.",EQUITY,KRW,korea,"{'raw': 264421310464, 'fmt': '264.421B', 'longFmt': '264,421,310,464'}",198077308,benoholdings
+003925.KS,"Namyang Dairy Products Co., Ltd",EQUITY,KRW,korea,"{'raw': 264163557376, 'fmt': '264.164B', 'longFmt': '264,163,557,376'}",197884226,namyang
+084990.KQ,"Helixmith Co., Ltd",EQUITY,KRW,korea,"{'raw': 264076771328, 'fmt': '264.077B', 'longFmt': '264,076,771,328'}",197819215,helixmith
+136480.KQ,"HARIM Co., Ltd.",EQUITY,KRW,korea,"{'raw': 263446085632, 'fmt': '263.446B', 'longFmt': '263,446,085,632'}",197346770,"harim,co"
+008350.KS,"Namsun Aluminum Co., Ltd.",EQUITY,KRW,korea,"{'raw': 263387627520, 'fmt': '263.388B', 'longFmt': '263,387,627,520'}",197302979,namsun
+016580.KS,"Whan In Pharm Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 262594117632, 'fmt': '262.594B', 'longFmt': '262,594,117,632'}",196708563,"whan,in"
+045390.KQ,"DAEA TI Co., Ltd.",EQUITY,KRW,korea,"{'raw': 262366625792, 'fmt': '262.367B', 'longFmt': '262,366,625,792'}",196538149,daea
+265520.KQ,Advanced Process Systems Corporation,EQUITY,KRW,korea,"{'raw': 262250692608, 'fmt': '262.251B', 'longFmt': '262,250,692,608'}",196451304,"advanced,process"
+106520.KQ,"Digital Optics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 261812715520, 'fmt': '261.813B', 'longFmt': '261,812,715,520'}",196123216,"digital,optics"
+045100.KQ,"Hanyang ENG Co., Ltd.",EQUITY,KRW,korea,"{'raw': 261529174016, 'fmt': '261.529B', 'longFmt': '261,529,174,016'}",195910816,"hanyang,eng"
+060280.KQ,Curexo Inc.,EQUITY,KRW,korea,"{'raw': 261521227776, 'fmt': '261.521B', 'longFmt': '261,521,227,776'}",195904864,curexo
+018000.KQ,"Unison Co., Ltd.",EQUITY,KRW,korea,"{'raw': 260677664768, 'fmt': '260.678B', 'longFmt': '260,677,664,768'}",195272953,"unison,co"
+000490.KS,Daedong Corporation,EQUITY,KRW,korea,"{'raw': 258515140608, 'fmt': '258.515B', 'longFmt': '258,515,140,608'}",193653012,daedong
+044490.KQ,"Taewoong Co.,Ltd",EQUITY,KRW,korea,"{'raw': 257095090176, 'fmt': '257.095B', 'longFmt': '257,095,090,176'}",192589256,taewoong
+004980.KS,"Sungshin Cement Co., Ltd",EQUITY,KRW,korea,"{'raw': 256825819136, 'fmt': '256.826B', 'longFmt': '256,825,819,136'}",192387545,sungshin
+230360.KQ,"Echomarketing Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 256752566272, 'fmt': '256.753B', 'longFmt': '256,752,566,272'}",192332672,echomarketing
+206640.KQ,Boditech Med Inc.,EQUITY,KRW,korea,"{'raw': 256239550464, 'fmt': '256.24B', 'longFmt': '256,239,550,464'}",191948373,boditech
+099320.KQ,"Satrec Initiative Co., Ltd.",EQUITY,KRW,korea,"{'raw': 256214269952, 'fmt': '256.214B', 'longFmt': '256,214,269,952'}",191929435,satrec
+054180.KQ,"MEDICOX Co., Ltd.",EQUITY,KRW,korea,"{'raw': 255123898368, 'fmt': '255.124B', 'longFmt': '255,123,898,368'}",191112641,medicox
+094480.KQ,"GalaxiaMoneytree Co.,Ltd",EQUITY,KRW,korea,"{'raw': 255006425088, 'fmt': '255.006B', 'longFmt': '255,006,425,088'}",191024642,galaxiamoneytree
+143160.KQ,"Intelligent Digital Integrated Security Co., Ltd.",EQUITY,KRW,korea,"{'raw': 253423943680, 'fmt': '253.424B', 'longFmt': '253,423,943,680'}",189839209,"intelligent,digital"
+078070.KQ,Ubiquoss Holdings Inc.,EQUITY,KRW,korea,"{'raw': 253273997312, 'fmt': '253.274B', 'longFmt': '253,273,997,312'}",189726885,ubiquoss
+125210.KQ,"Amogreentech Co.,Ltd",EQUITY,KRW,korea,"{'raw': 253160456192, 'fmt': '253.16B', 'longFmt': '253,160,456,192'}",189641832,amogreentech
+232140.KQ,YIK Corporation,EQUITY,KRW,korea,"{'raw': 253023911936, 'fmt': '253.024B', 'longFmt': '253,023,911,936'}",189539547,yik
+220260.KQ,"Chemtros Co., Ltd.",EQUITY,KRW,korea,"{'raw': 252473556992, 'fmt': '252.474B', 'longFmt': '252,473,556,992'}",189127277,chemtros
+035890.KQ,"Seohee Construction Co., Ltd.",EQUITY,KRW,korea,"{'raw': 252092022784, 'fmt': '252.092B', 'longFmt': '252,092,022,784'}",188841471,seohee
+044450.KS,KSS Line Ltd.,EQUITY,KRW,korea,"{'raw': 251541913600, 'fmt': '251.542B', 'longFmt': '251,541,913,600'}",188429386,kss
+237880.KQ,"CLIO Cosmetics Co.,Ltd",EQUITY,KRW,korea,"{'raw': 251124924416, 'fmt': '251.125B', 'longFmt': '251,124,924,416'}",188117020,"clio,cosmetics"
+151910.KQ,"Nanos Co., Ltd.",EQUITY,KRW,korea,"{'raw': 248551915520, 'fmt': '248.552B', 'longFmt': '248,551,915,520'}",186189586,nanos
+000480.KS,"Chosun Refractories Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 248320000000, 'fmt': '248.32B', 'longFmt': '248,320,000,000'}",186015859,chosun
+035150.KS,"BAIKSAN Co,. Ltd",EQUITY,KRW,korea,"{'raw': 247911006208, 'fmt': '247.911B', 'longFmt': '247,911,006,208'}",185709482,baiksan
+131370.KQ,"RSUPPORT Co., Ltd.",EQUITY,KRW,korea,"{'raw': 247343104000, 'fmt': '247.343B', 'longFmt': '247,343,104,000'}",185284068,rsupport
+263720.KQ,"D&C Media Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 245642526720, 'fmt': '245.643B', 'longFmt': '245,642,526,720'}",184010170,d&c
+033160.KQ,"MK Electron Co., Ltd.",EQUITY,KRW,korea,"{'raw': 246838231040, 'fmt': '246.838B', 'longFmt': '246,838,231,040'}",184905869,"mk,electron"
+002785.KS,"ChinHung International, Inc.",EQUITY,KRW,korea,"{'raw': 246610100224, 'fmt': '246.61B', 'longFmt': '246,610,100,224'}",184734977,chinhung
+119860.KQ,"Danawa Co., Ltd",EQUITY,KRW,korea,"{'raw': 245806235648, 'fmt': '245.806B', 'longFmt': '245,806,235,648'}",184132804,danawa
+093320.KQ,"KINX, Inc.",EQUITY,KRW,korea,"{'raw': 245342027776, 'fmt': '245.342B', 'longFmt': '245,342,027,776'}",183785067,kinx
+083650.KQ,"BHI Co., Ltd.",EQUITY,KRW,korea,"{'raw': 244405223424, 'fmt': '244.405B', 'longFmt': '244,405,223,424'}",183083310,bhi
+002390.KS,HANDOK Inc.,EQUITY,KRW,korea,"{'raw': 244302118912, 'fmt': '244.302B', 'longFmt': '244,302,118,912'}",183006074,handok
+052400.KQ,"Kona I Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 242841403392, 'fmt': '242.841B', 'longFmt': '242,841,403,392'}",181911856,"kona,i"
+038290.KQ,"Macrogen, Inc.",EQUITY,KRW,korea,"{'raw': 240511205376, 'fmt': '240.511B', 'longFmt': '240,511,205,376'}",180166311,macrogen
+003200.KS,"Ilshin Spinning Co.,Ltd",EQUITY,KRW,korea,"{'raw': 239992487936, 'fmt': '239.992B', 'longFmt': '239,992,487,936'}",179777741,ilshin
+196490.KQ,"DA Technology Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 239436906496, 'fmt': '239.437B', 'longFmt': '239,436,906,496'}",179361557,"da,technology"
+214870.KQ,"NewGLAB Pharma CO.,LTD",EQUITY,KRW,korea,"{'raw': 239193178112, 'fmt': '239.193B', 'longFmt': '239,193,178,112'}",179178980,newglab
+019680.KS,"Daekyo Co., Ltd.",EQUITY,KRW,korea,"{'raw': 239026667520, 'fmt': '239.027B', 'longFmt': '239,026,667,520'}",179054248,daekyo
+298690.KS,"Air Busan Co., Ltd.",EQUITY,KRW,korea,"{'raw': 238388756480, 'fmt': '238.389B', 'longFmt': '238,388,756,480'}",178576390,"air,busan"
+028100.KS,Dong-Ah Geological Engineering Company Ltd.,EQUITY,KRW,korea,"{'raw': 237572096000, 'fmt': '237.572B', 'longFmt': '237,572,096,000'}",177964632,dong-ah
+077500.KS,Uniquest Corporation,EQUITY,KRW,korea,"{'raw': 237282394112, 'fmt': '237.282B', 'longFmt': '237,282,394,112'}",177747617,"uniquest,corporation"
+126700.KQ,HyVision System. Inc,EQUITY,KRW,korea,"{'raw': 236887195648, 'fmt': '236.887B', 'longFmt': '236,887,195,648'}",177451575,hyvision
+012610.KS,"Kyungin Synthetic Co., Ltd.",EQUITY,KRW,korea,"{'raw': 236531761152, 'fmt': '236.532B', 'longFmt': '236,531,761,152'}",177185320,kyungin
+048870.KQ,"Synergy Innovation Co., Ltd.",EQUITY,KRW,korea,"{'raw': 236143017984, 'fmt': '236.143B', 'longFmt': '236,143,017,984'}",176894113,"synergy,innovation"
+011280.KS,"Tailim Packaging Co., Ltd.",EQUITY,KRW,korea,"{'raw': 236118130688, 'fmt': '236.118B', 'longFmt': '236,118,130,688'}",176875470,tailim
+025000.KS,"KPX Chemical Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 236096667648, 'fmt': '236.097B', 'longFmt': '236,096,667,648'}",176859392,kpx
+123420.KQ,SundayToz Corp.,EQUITY,KRW,korea,"{'raw': 234615013376, 'fmt': '234.615B', 'longFmt': '234,615,013,376'}",175749489,sundaytoz
+002810.KS,"Samyung Trading Co., Ltd.",EQUITY,KRW,korea,"{'raw': 234453729280, 'fmt': '234.454B', 'longFmt': '234,453,729,280'}",175628672,samyung
+095500.KQ,"MNtech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 233796419584, 'fmt': '233.796B', 'longFmt': '233,796,419,584'}",175136283,mntech
+039440.KQ,"STI Co., Ltd.",EQUITY,KRW,korea,"{'raw': 233661792256, 'fmt': '233.662B', 'longFmt': '233,661,792,256'}",175035434,"sti,co"
+052710.KQ,"Amotech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 232978415616, 'fmt': '232.978B', 'longFmt': '232,978,415,616'}",174523518,amotech
+196450.KQ,CoAsia Optics Corp.,EQUITY,KRW,korea,"{'raw': 232605007872, 'fmt': '232.605B', 'longFmt': '232,605,007,872'}",174243799,coasia
+096760.KS,JW Holdings Corporation,EQUITY,KRW,korea,"{'raw': 232502411264, 'fmt': '232.502B', 'longFmt': '232,502,411,264'}",174166944,"jw,holdings"
+027710.KQ,"FarmStory Co., Ltd.",EQUITY,KRW,korea,"{'raw': 232404893696, 'fmt': '232.405B', 'longFmt': '232,404,893,696'}",174093894,farmstory
+200670.KQ,"Humedix Co., Ltd.",EQUITY,KRW,korea,"{'raw': 232012431360, 'fmt': '232.012B', 'longFmt': '232,012,431,360'}",173799902,humedix
+123860.KQ,AnaPass Inc.,EQUITY,KRW,korea,"{'raw': 231549452288, 'fmt': '231.549B', 'longFmt': '231,549,452,288'}",173453085,anapass
+229640.KS,LS Cable & System Asia Ltd.,EQUITY,KRW,korea,"{'raw': 231543422976, 'fmt': '231.543B', 'longFmt': '231,543,422,976'}",173448569,"ls,cable"
+019550.KQ,"SBI Investment KOREA Co., Ltd.",EQUITY,KRW,korea,"{'raw': 230433062912, 'fmt': '230.433B', 'longFmt': '230,433,062,912'}",172616801,sbi
+090710.KQ,"Hyulim ROBOT Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 229930582016, 'fmt': '229.931B', 'longFmt': '229,930,582,016'}",172240394,hyulim
+149950.KQ,"Avatec Co., Ltd.",EQUITY,KRW,korea,"{'raw': 229430247424, 'fmt': '229.43B', 'longFmt': '229,430,247,424'}",171865595,avatec
+192440.KQ,"Spigen Korea Co., Ltd.",EQUITY,KRW,korea,"{'raw': 228832051200, 'fmt': '228.832B', 'longFmt': '228,832,051,200'}",171417487,spigen
+225530.KQ,"Bokwang Industry Co., Ltd.",EQUITY,KRW,korea,"{'raw': 227842080768, 'fmt': '227.842B', 'longFmt': '227,842,080,768'}",170675903,bokwang
+200880.KS,"Seoyon E-Hwa Co., Ltd.",EQUITY,KRW,korea,"{'raw': 226451062784, 'fmt': '226.451B', 'longFmt': '226,451,062,784'}",169633895,seoyon
+204630.KQ,"Studio Santa Claus Entertainment Co., Ltd.",EQUITY,KRW,korea,"{'raw': 226226552832, 'fmt': '226.227B', 'longFmt': '226,226,552,832'}",169465715,"studio,santa"
+007160.KS,Sajo Industries Company Limited,EQUITY,KRW,korea,"{'raw': 226182905856, 'fmt': '226.183B', 'longFmt': '226,182,905,856'}",169433020,sajo
+036030.KQ,"KT Hitel Corporation., Limited",EQUITY,KRW,korea,"{'raw': 225361657856, 'fmt': '225.362B', 'longFmt': '225,361,657,856'}",168817825,hitel
+029460.KS,"KC Co., Ltd.",EQUITY,KRW,korea,"{'raw': 225113325568, 'fmt': '225.113B', 'longFmt': '225,113,325,568'}",168631800,"kc,co"
+089600.KQ,"Nasmedia Co., Ltd.",EQUITY,KRW,korea,"{'raw': 224995540992, 'fmt': '224.996B', 'longFmt': '224,995,540,992'}",168543568,nasmedia
+002030.KS,"Asia Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 224934494208, 'fmt': '224.934B', 'longFmt': '224,934,494,208'}",168497838,"asia,holdings"
+012700.KQ,"The LEADCORP, Inc.",EQUITY,KRW,korea,"{'raw': 224568983552, 'fmt': '224.569B', 'longFmt': '224,568,983,552'}",168224035,leadcorp
+000680.KS,LS Networks Corporation Limited,EQUITY,KRW,korea,"{'raw': 224490569728, 'fmt': '224.491B', 'longFmt': '224,490,569,728'}",168165295,"ls,networks"
+067280.KQ,Multicampus Corporation,EQUITY,KRW,korea,"{'raw': 223735939072, 'fmt': '223.736B', 'longFmt': '223,735,939,072'}",167600003,multicampus
+194370.KS,JS Corporation,EQUITY,KRW,korea,"{'raw': 222731517952, 'fmt': '222.732B', 'longFmt': '222,731,517,952'}",166847594,"js,corporation"
+025320.KQ,Synopex Inc.,EQUITY,KRW,korea,"{'raw': 221675995136, 'fmt': '221.676B', 'longFmt': '221,675,995,136'}",166056905,synopex
+091580.KQ,"Sangsin Energy Display Precision Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 220370993152, 'fmt': '220.371B', 'longFmt': '220,370,993,152'}",165079331,sangsin
+017890.KQ,"Korea Alcohol Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 220212412416, 'fmt': '220.212B', 'longFmt': '220,212,412,416'}",164960539,"korea,alcohol"
+006490.KS,"Inscobee., Inc.",EQUITY,KRW,korea,"{'raw': 220149694464, 'fmt': '220.15B', 'longFmt': '220,149,694,464'}",164913557,inscobee
+011500.KS,Hannong Chemicals Inc.,EQUITY,KRW,korea,"{'raw': 218704199680, 'fmt': '218.704B', 'longFmt': '218,704,199,680'}",163830740,hannong
+160550.KQ,"Next Entertainment World Co., Ltd.",EQUITY,KRW,korea,"{'raw': 218504757248, 'fmt': '218.505B', 'longFmt': '218,504,757,248'}",163681339,"next,entertainment"
+047310.KQ,"Powerlogics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 218229145600, 'fmt': '218.229B', 'longFmt': '218,229,145,600'}",163474879,powerlogics
+046440.KQ,"KG Mobilians Co., Ltd",EQUITY,KRW,korea,"{'raw': 217629310976, 'fmt': '217.629B', 'longFmt': '217,629,310,976'}",163025544,mobilians
+033180.KS,"KH Feelux Co., Ltd.",EQUITY,KRW,korea,"{'raw': 217597952000, 'fmt': '217.598B', 'longFmt': '217,597,952,000'}",163002053,feelux
+005680.KS,"Samyoung Electronics Co., Ltd",EQUITY,KRW,korea,"{'raw': 216000004096, 'fmt': '216B', 'longFmt': '216,000,004,096'}",161805035,samyoung
+006840.KS,"AK Holdings, Inc.",EQUITY,KRW,korea,"{'raw': 215250747392, 'fmt': '215.251B', 'longFmt': '215,250,747,392'}",161243768,"ak,holdings"
+035810.KQ,"EASY HOLDINGS Co., Ltd.",EQUITY,KRW,korea,"{'raw': 214979887104, 'fmt': '214.98B', 'longFmt': '214,979,887,104'}",161040868,"easy,holdings"
+036200.KQ,"UNISEM Co., Ltd.",EQUITY,KRW,korea,"{'raw': 214506258432, 'fmt': '214.506B', 'longFmt': '214,506,258,432'}",160686074,unisem
+101390.KQ,"IM Co.,Ltd",EQUITY,KRW,korea,"{'raw': 214242377728, 'fmt': '214.242B', 'longFmt': '214,242,377,728'}",160488401,"im,coltd"
+067990.KQ,Deutsch Motors Inc.,EQUITY,KRW,korea,"{'raw': 214098984960, 'fmt': '214.099B', 'longFmt': '214,098,984,960'}",160380986,"deutsch,motors"
+065500.KQ,Orient Precision Industries Inc,EQUITY,KRW,korea,"{'raw': 212636319744, 'fmt': '212.636B', 'longFmt': '212,636,319,744'}",159285308,"orient,precision"
+121800.KQ,"Vidente Co., Ltd.",EQUITY,KRW,korea,"{'raw': 214068477952, 'fmt': '214.068B', 'longFmt': '214,068,477,952'}",160358133,vidente
+019210.KQ,"YG-1 Co., Ltd.",EQUITY,KRW,korea,"{'raw': 212324548608, 'fmt': '212.325B', 'longFmt': '212,324,548,608'}",159051761,yg-1
+023450.KS,"Dongnam Chemical Co., LTD.",EQUITY,KRW,korea,"{'raw': 211463995392, 'fmt': '211.464B', 'longFmt': '211,463,995,392'}",158407122,dongnam
+044340.KQ,Winix Inc.,EQUITY,KRW,korea,"{'raw': 210165006336, 'fmt': '210.165B', 'longFmt': '210,165,006,336'}",157434053,winix
+074430.KQ,"Aminologics Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 209752686592, 'fmt': '209.753B', 'longFmt': '209,752,686,592'}",157125185,aminologics
+299900.KQ,"Wysiwyg Studios Co., Ltd.",EQUITY,KRW,korea,"{'raw': 208382967808, 'fmt': '208.383B', 'longFmt': '208,382,967,808'}",156099133,"wysiwyg,studios"
+115960.KQ,"Yonwoo Co., Ltd",EQUITY,KRW,korea,"{'raw': 208286400512, 'fmt': '208.286B', 'longFmt': '208,286,400,512'}",156026794,yonwoo
+092130.KQ,"e-Credible Co., Ltd.",EQUITY,KRW,korea,"{'raw': 207752101888, 'fmt': '207.752B', 'longFmt': '207,752,101,888'}",155626553,e-credible
+013580.KS,"Kyeryong Construction Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 207715418112, 'fmt': '207.715B', 'longFmt': '207,715,418,112'}",155599073,kyeryong
+215480.KQ,TOEBOX KOREA.Ltd.,EQUITY,KRW,korea,"{'raw': 207253749760, 'fmt': '207.254B', 'longFmt': '207,253,749,760'}",155253238,toebox
+002100.KS,Kyung Nong Corporation,EQUITY,KRW,korea,"{'raw': 207229353984, 'fmt': '207.229B', 'longFmt': '207,229,353,984'}",155234964,"kyung,nong"
+008040.KS,"Sajodongaone Co.,Ltd",EQUITY,KRW,korea,"{'raw': 205851246592, 'fmt': '205.851B', 'longFmt': '205,851,246,592'}",154202627,sajodongaone
+016610.KS,"DB Financial Investment Co., Ltd.",EQUITY,KRW,korea,"{'raw': 205117865984, 'fmt': '205.118B', 'longFmt': '205,117,865,984'}",153653254,"db,financial"
+102120.KQ,"ABOV Semiconductor Co., Ltd.",EQUITY,KRW,korea,"{'raw': 205034995712, 'fmt': '205.035B', 'longFmt': '205,034,995,712'}",153591176,abov
+053610.KQ,"Protec Co., Ltd.",EQUITY,KRW,korea,"{'raw': 204953862144, 'fmt': '204.954B', 'longFmt': '204,953,862,144'}",153530399,protec
+090360.KQ,"Robostar Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 204262506496, 'fmt': '204.263B', 'longFmt': '204,262,506,496'}",153012506,robostar
+003960.KS,Sajodaerim Corporation,EQUITY,KRW,korea,"{'raw': 203603312640, 'fmt': '203.603B', 'longFmt': '203,603,312,640'}",152518706,sajodaerim
+036890.KQ,"JINSUNG T.E.C., Inc.",EQUITY,KRW,korea,"{'raw': 203125145600, 'fmt': '203.125B', 'longFmt': '203,125,145,600'}",152160512,jinsung
+083420.KS,"Green Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 202229481472, 'fmt': '202.229B', 'longFmt': '202,229,481,472'}",151489572,"green,chemical"
+122990.KQ,"WiSoL CO.,LTD.",EQUITY,KRW,korea,"{'raw': 201189163008, 'fmt': '201.189B', 'longFmt': '201,189,163,008'}",150710273,wisol
+079980.KS,Huvis Corporation,EQUITY,KRW,korea,"{'raw': 201081929728, 'fmt': '201.082B', 'longFmt': '201,081,929,728'}",150629944,huvis
+290670.KQ,"Daebo Magnetic Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 200421195776, 'fmt': '200.421B', 'longFmt': '200,421,195,776'}",150134990,daebo
+056080.KQ,"Yujin Robot Co., Ltd.",EQUITY,KRW,korea,"{'raw': 200315142144, 'fmt': '200.315B', 'longFmt': '200,315,142,144'}",150055546,yujin
+299660.KQ,"Cellid, Co., Ltd.",EQUITY,KRW,korea,"{'raw': 199402930176, 'fmt': '199.403B', 'longFmt': '199,402,930,176'}",149372210,cellid
+012340.KQ,"Nuintek Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 199211286528, 'fmt': '199.211B', 'longFmt': '199,211,286,528'}",149228650,nuintek
+234080.KS,JW Lifescience Corporation,EQUITY,KRW,korea,"{'raw': 198977110016, 'fmt': '198.977B', 'longFmt': '198,977,110,016'}",149053229,lifescience
+201490.KQ,"Me2on Co., Ltd.",EQUITY,KRW,korea,"{'raw': 198174457856, 'fmt': '198.174B', 'longFmt': '198,174,457,856'}",148451965,me2on
+011040.KQ,"Kyung Dong Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 197553717248, 'fmt': '197.554B', 'longFmt': '197,553,717,248'}",147986970,"kyung,dong"
+001340.KS,"Paik Kwang Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 197346476032, 'fmt': '197.346B', 'longFmt': '197,346,476,032'}",147831726,"paik,kwang"
+060570.KQ,Dreamus Company,EQUITY,KRW,korea,"{'raw': 197049548800, 'fmt': '197.05B', 'longFmt': '197,049,548,800'}",147609298,dreamus
+064290.KQ,"INTEKPLUS Co., Ltd.",EQUITY,KRW,korea,"{'raw': 196507254784, 'fmt': '196.507B', 'longFmt': '196,507,254,784'}",147203067,intekplus
+083450.KQ,"Global Standard Technology, Limited",EQUITY,KRW,korea,"{'raw': 192634716160, 'fmt': '192.635B', 'longFmt': '192,634,716,160'}",144302159,"global,standard"
+023900.KQ,"Pungguk Ethanol Industrial Co., Ltd",EQUITY,KRW,korea,"{'raw': 192149995520, 'fmt': '192.15B', 'longFmt': '192,149,995,520'}",143939056,pungguk
+090350.KS,"NOROO PAINT & COATINGS Co., Ltd.",EQUITY,KRW,korea,"{'raw': 192042156032, 'fmt': '192.042B', 'longFmt': '192,042,156,032'}",143858274,noroo
+293780.KQ,AptaBio Therapeutics Inc.,EQUITY,KRW,korea,"{'raw': 191517917184, 'fmt': '191.518B', 'longFmt': '191,517,917,184'}",143465568,aptabio
+015890.KS,"Taekyung Industry.Co., Ltd.",EQUITY,KRW,korea,"{'raw': 191487541248, 'fmt': '191.488B', 'longFmt': '191,487,541,248'}",143442813,taekyung
+009680.KS,Motonic Corporation,EQUITY,KRW,korea,"{'raw': 190519787520, 'fmt': '190.52B', 'longFmt': '190,519,787,520'}",142717871,motonic
+101530.KS,"Haitai Confectionery&Foods Co.,ltd.",EQUITY,KRW,korea,"{'raw': 190131912704, 'fmt': '190.132B', 'longFmt': '190,131,912,704'}",142427315,haitai
+100250.KS,Chinyang Holdings Corp.,EQUITY,KRW,korea,"{'raw': 189591732224, 'fmt': '189.592B', 'longFmt': '189,591,732,224'}",142022668,chinyang
+008700.KS,"Anam Electronics Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 189332783104, 'fmt': '189.333B', 'longFmt': '189,332,783,104'}",141828689,"anam,electronics"
+014280.KS,"Kumkang Kind Co., Ltd.",EQUITY,KRW,korea,"{'raw': 189179576320, 'fmt': '189.18B', 'longFmt': '189,179,576,320'}",141713923,kumkang
+098460.KQ,Koh Young Technology Inc.,EQUITY,KRW,korea,"{'raw': 188913598464, 'fmt': '188.914B', 'longFmt': '188,913,598,464'}",141514679,"koh,young"
+064090.KQ,"FN REPUBLIC Co., Ltd",EQUITY,KRW,korea,"{'raw': 187891630080, 'fmt': '187.892B', 'longFmt': '187,891,630,080'}",140749126,"fn,republic"
+131970.KQ,Tesna Inc.,EQUITY,KRW,korea,"{'raw': 187555708928, 'fmt': '187.556B', 'longFmt': '187,555,708,928'}",140497488,tesna
+010820.KS,"FIRSTEC Co., Ltd",EQUITY,KRW,korea,"{'raw': 187467431936, 'fmt': '187.467B', 'longFmt': '187,467,431,936'}",140431360,firstec
+334890.KS,"IGIS Value Plus REIT Co., Ltd.",EQUITY,KRW,korea,"{'raw': 187401027584, 'fmt': '187.401B', 'longFmt': '187,401,027,584'}",140381617,igis
+036580.KS,Farmsco,EQUITY,KRW,korea,"{'raw': 187350581248, 'fmt': '187.351B', 'longFmt': '187,350,581,248'}",140343827,farmsco
+037070.KQ,Paseco Co. Ltd,EQUITY,KRW,korea,"{'raw': 186686046208, 'fmt': '186.686B', 'longFmt': '186,686,046,208'}",139846026,paseco
+013360.KS,"Ilsung Construction Co., Ltd.",EQUITY,KRW,korea,"{'raw': 186385907712, 'fmt': '186.386B', 'longFmt': '186,385,907,712'}",139621193,ilsung
+070960.KS,HJ Magnolia Yongpyong Hotel & Resort,EQUITY,KRW,korea,"{'raw': 186035208192, 'fmt': '186.035B', 'longFmt': '186,035,208,192'}",139358485,yongpyong
+001755.KS,Hanyang Securities Co. Ltd.,EQUITY,KRW,korea,"{'raw': 185602932736, 'fmt': '185.603B', 'longFmt': '185,602,932,736'}",139034668,"hanyang,securities"
+065680.KQ,UJU Electronics Co. Ltd,EQUITY,KRW,korea,"{'raw': 185466470400, 'fmt': '185.466B', 'longFmt': '185,466,470,400'}",138932445,uju
+073490.KQ,"Innowireless Co., Ltd.",EQUITY,KRW,korea,"{'raw': 184877006848, 'fmt': '184.877B', 'longFmt': '184,877,006,848'}",138490879,innowireless
+030960.KQ,"Yangjisa Co., Ltd.",EQUITY,KRW,korea,"{'raw': 184063737856, 'fmt': '184.064B', 'longFmt': '184,063,737,856'}",137881662,yangjisa
+004970.KS,"Silla Co.,Ltd",EQUITY,KRW,korea,"{'raw': 182316744704, 'fmt': '182.317B', 'longFmt': '182,316,744,704'}",136572994,"silla,coltd"
+137950.KQ,"JC Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 182056550400, 'fmt': '182.057B', 'longFmt': '182,056,550,400'}",136378083,"jc,chemical"
+024090.KS,DCM Corp.,EQUITY,KRW,korea,"{'raw': 181464776704, 'fmt': '181.465B', 'longFmt': '181,464,776,704'}",135934787,"dcm,corp"
+000390.KS,"Samhwa Paints Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 181412478976, 'fmt': '181.412B', 'longFmt': '181,412,478,976'}",135895610,samhwa
+053050.KQ,"GSE Co., Ltd.",EQUITY,KRW,korea,"{'raw': 180084457472, 'fmt': '180.084B', 'longFmt': '180,084,457,472'}",134900793,gse
+006220.KS,Jeju Bank,EQUITY,KRW,korea,"{'raw': 179921272832, 'fmt': '179.921B', 'longFmt': '179,921,272,832'}",134778552,"jeju,bank"
+067900.KQ,"Y-Entec Co., Ltd.",EQUITY,KRW,korea,"{'raw': 179631046656, 'fmt': '179.631B', 'longFmt': '179,631,046,656'}",134561144,y-entec
+046120.KQ,"Orbitech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 179246628864, 'fmt': '179.247B', 'longFmt': '179,246,628,864'}",134273178,orbitech
+014160.KS,"DAE YOUNG Packaging.Co., Ltd.",EQUITY,KRW,korea,"{'raw': 178895847424, 'fmt': '178.896B', 'longFmt': '178,895,847,424'}",134010408,packagingco
+018120.KQ,"Jinro Distillers Co., Ltd.",EQUITY,KRW,korea,"{'raw': 178655805440, 'fmt': '178.656B', 'longFmt': '178,655,805,440'}",133830594,jinro
+033310.KQ,"M2N Co.,Ltd",EQUITY,KRW,korea,"{'raw': 178112741376, 'fmt': '178.113B', 'longFmt': '178,112,741,376'}",133423786,m2n
+082850.KQ,"Wooree Bio Co.,Ltd",EQUITY,KRW,korea,"{'raw': 178097061888, 'fmt': '178.097B', 'longFmt': '178,097,061,888'}",133412040,wooree
+051160.KQ,GaeaSoft Corp.,EQUITY,KRW,korea,"{'raw': 177810112512, 'fmt': '177.81B', 'longFmt': '177,810,112,512'}",133197087,gaeasoft
+036190.KQ,"Geumhwa Plant Service & Construction Co., Ltd.",EQUITY,KRW,korea,"{'raw': 177480007680, 'fmt': '177.48B', 'longFmt': '177,480,007,680'}",132949807,geumhwa
+000970.KS,"Korea Cast Iron Pipe Ind. Co., Ltd.",EQUITY,KRW,korea,"{'raw': 176820420608, 'fmt': '176.82B', 'longFmt': '176,820,420,608'}",132455712,"korea,cast"
+063570.KQ,"NICE Total Cash Management Co., Ltd",EQUITY,KRW,korea,"{'raw': 176693067776, 'fmt': '176.693B', 'longFmt': '176,693,067,776'}",132360312,"nice,total"
+122450.KQ,KMH Co. Ltd.,EQUITY,KRW,korea,"{'raw': 175457681408, 'fmt': '175.458B', 'longFmt': '175,457,681,408'}",131434887,kmh
+033920.KS,"Muhak Co., Ltd.",EQUITY,KRW,korea,"{'raw': 174813544448, 'fmt': '174.814B', 'longFmt': '174,813,544,448'}",130952366,muhak
+067290.KQ,JW Shinyak Corporation,EQUITY,KRW,korea,"{'raw': 174708080640, 'fmt': '174.708B', 'longFmt': '174,708,080,640'}",130873363,shinyak
+038880.KQ,"iA, Inc.",EQUITY,KRW,korea,"{'raw': 174546288640, 'fmt': '174.546B', 'longFmt': '174,546,288,640'}",130752165,"ia,inc"
+248170.KS,Sempio Foods Company,EQUITY,KRW,korea,"{'raw': 173987463168, 'fmt': '173.987B', 'longFmt': '173,987,463,168'}",130333551,sempio
+236200.KQ,Suprema Inc.,EQUITY,KRW,korea,"{'raw': 173820624896, 'fmt': '173.821B', 'longFmt': '173,820,624,896'}",130208573,suprema
+282690.KS,"Dong Ah Tire & Rubber Co.,Ltd",EQUITY,KRW,korea,"{'raw': 172329074688, 'fmt': '172.329B', 'longFmt': '172,329,074,688'}",129091256,"dong,ah"
+138080.KQ,"OE Solutions Co., Ltd.",EQUITY,KRW,korea,"{'raw': 171430592512, 'fmt': '171.431B', 'longFmt': '171,430,592,512'}",128418206,"oe,solutions"
+083930.KQ,"Avaco Co., Ltd.",EQUITY,KRW,korea,"{'raw': 170972397568, 'fmt': '170.972B', 'longFmt': '170,972,397,568'}",128074973,avaco
+023600.KQ,"Sambo Corrugated Board Co., Ltd.",EQUITY,KRW,korea,"{'raw': 170593501184, 'fmt': '170.594B', 'longFmt': '170,593,501,184'}",127791143,"sambo,corrugated"
+092070.KQ,"DNF Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 170588798976, 'fmt': '170.589B', 'longFmt': '170,588,798,976'}",127787620,dnf
+013570.KS,DY Corporation,EQUITY,KRW,korea,"{'raw': 170464165888, 'fmt': '170.464B', 'longFmt': '170,464,165,888'}",127694258,"dy,corporation"
+033560.KQ,"Bluecom Co., Ltd.",EQUITY,KRW,korea,"{'raw': 170388963328, 'fmt': '170.389B', 'longFmt': '170,388,963,328'}",127637924,bluecom
+086450.KQ,"DongKook Pharmaceutical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 170079928320, 'fmt': '170.08B', 'longFmt': '170,079,928,320'}",127406427,dongkook
+214180.KQ,"Minwise Co., Ltd",EQUITY,KRW,korea,"{'raw': 169978380288, 'fmt': '169.978B', 'longFmt': '169,978,380,288'}",127330357,minwise
+039560.KQ,"DASAN Networks, Inc.",EQUITY,KRW,korea,"{'raw': 169310486528, 'fmt': '169.31B', 'longFmt': '169,310,486,528'}",126830040,dasan
+025950.KQ,Dongsin Engineering & Construction,EQUITY,KRW,korea,"{'raw': 168840003584, 'fmt': '168.84B', 'longFmt': '168,840,003,584'}",126477602,dongsin
+065660.KQ,"Anterogen.Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 167821590528, 'fmt': '167.822B', 'longFmt': '167,821,590,528'}",125714712,anterogencoltd
+096240.KQ,"CHUNGDAHM Learning, Inc.",EQUITY,KRW,korea,"{'raw': 167815397376, 'fmt': '167.815B', 'longFmt': '167,815,397,376'}",125710072,chungdahm
+054450.KQ,Telechips Inc.,EQUITY,KRW,korea,"{'raw': 166863798272, 'fmt': '166.864B', 'longFmt': '166,863,798,272'}",124997232,telechips
+036010.KQ,"ABCO Electronics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 165496602624, 'fmt': '165.497B', 'longFmt': '165,496,602,624'}",123973069,abco
+078150.KQ,"HB Technology CO.,LTD.",EQUITY,KRW,korea,"{'raw': 165013569536, 'fmt': '165.014B', 'longFmt': '165,013,569,536'}",123611231,"hb,technology"
+211270.KQ,Asia Pacific Satellite Inc.,EQUITY,KRW,korea,"{'raw': 164622204928, 'fmt': '164.622B', 'longFmt': '164,622,204,928'}",123318060,"asia,pacific"
+038390.KQ,"RedcapTour Co., Ltd.",EQUITY,KRW,korea,"{'raw': 164564353024, 'fmt': '164.564B', 'longFmt': '164,564,353,024'}",123274724,redcaptour
+111710.KQ,"Namhwa Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 164292247552, 'fmt': '164.292B', 'longFmt': '164,292,247,552'}",123070890,namhwa
+159580.KQ,Zero to Seven Inc.,EQUITY,KRW,korea,"{'raw': 163466018816, 'fmt': '163.466B', 'longFmt': '163,466,018,816'}",122451964,"zero,to"
+069920.KQ,ISE Commerce Company Limited,EQUITY,KRW,korea,"{'raw': 162524823552, 'fmt': '162.525B', 'longFmt': '162,524,823,552'}",121746917,"ise,commerce"
+021080.KQ,"Atinum Investment Co., Ltd",EQUITY,KRW,korea,"{'raw': 161999994880, 'fmt': '162B', 'longFmt': '161,999,994,880'}",121353770,atinum
+228850.KQ,"Rayence Co., Ltd.",EQUITY,KRW,korea,"{'raw': 161965621248, 'fmt': '161.966B', 'longFmt': '161,965,621,248'}",121328021,rayence
+136540.KQ,"WINS Co., Ltd",EQUITY,KRW,korea,"{'raw': 162179579904, 'fmt': '162.18B', 'longFmt': '162,179,579,904'}",121488296,"wins,co"
+215360.KQ,"Woory Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 161598013440, 'fmt': '161.598B', 'longFmt': '161,598,013,440'}",121052646,woory
+014940.KQ,"Oriental Precision & Engineering Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 161009713152, 'fmt': '161.01B', 'longFmt': '161,009,713,152'}",120611952,"oriental,precision"
+033530.KS,"Sejong Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 160961183744, 'fmt': '160.961B', 'longFmt': '160,961,183,744'}",120575599,"sejong,industrial"
+003610.KS,"Pangrim Co., Ltd.",EQUITY,KRW,korea,"{'raw': 160875626496, 'fmt': '160.876B', 'longFmt': '160,875,626,496'}",120511508,pangrim
+092200.KS,DAE-IL Corporation,EQUITY,KRW,korea,"{'raw': 160795492352, 'fmt': '160.795B', 'longFmt': '160,795,492,352'}",120451480,dae-il
+007280.KS,"Korea Steel Co., Ltd.",EQUITY,KRW,korea,"{'raw': 160512638976, 'fmt': '160.513B', 'longFmt': '160,512,638,976'}",120239595,"korea,steel"
+166480.KQ,CORESTEM Inc.,EQUITY,KRW,korea,"{'raw': 160317472768, 'fmt': '160.317B', 'longFmt': '160,317,472,768'}",120093397,corestem
+191420.KQ,TegoScience Inc.,EQUITY,KRW,korea,"{'raw': 160281411584, 'fmt': '160.281B', 'longFmt': '160,281,411,584'}",120066383,tegoscience
+023910.KQ,"Daihan Pharmaceutical Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 160199999488, 'fmt': '160.2B', 'longFmt': '160,199,999,488'}",120005398,daihan
+054050.KQ,"Nongwoobio Co., Ltd.",EQUITY,KRW,korea,"{'raw': 160145686528, 'fmt': '160.146B', 'longFmt': '160,145,686,528'}",119964712,nongwoobio
+004700.KS,"Chokwang Leather Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 159881396224, 'fmt': '159.881B', 'longFmt': '159,881,396,224'}",119766733,chokwang
+004090.KS,Korea Petroleum Industries Company,EQUITY,KRW,korea,"{'raw': 159694602240, 'fmt': '159.695B', 'longFmt': '159,694,602,240'}",119626806,"korea,petroleum"
+042370.KQ,Vitzro Tech Co. Ltd,EQUITY,KRW,korea,"{'raw': 158265606144, 'fmt': '158.266B', 'longFmt': '158,265,606,144'}",118556349,vitzro
+074610.KS,"ENPLUS Co., Ltd.",EQUITY,KRW,korea,"{'raw': 157204217856, 'fmt': '157.204B', 'longFmt': '157,204,217,856'}",117761266,enplus
+037460.KQ,"Samji Electronics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 156908552192, 'fmt': '156.909B', 'longFmt': '156,908,552,192'}",117539783,samji
+002140.KS,"Korea Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 156663382016, 'fmt': '156.663B', 'longFmt': '156,663,382,016'}",117356127,"korea,industrial"
+003160.KS,D.I Corporation,EQUITY,KRW,korea,"{'raw': 156416671744, 'fmt': '156.417B', 'longFmt': '156,416,671,744'}",117171317,"di,corporation"
+140410.KQ,"Mezzion Pharma Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 156397469696, 'fmt': '156.397B', 'longFmt': '156,397,469,696'}",117156933,mezzion
+012030.KS,DB Inc.,EQUITY,KRW,korea,"{'raw': 156263366656, 'fmt': '156.263B', 'longFmt': '156,263,366,656'}",117056477,"db,inc"
+040300.KQ,"YTN Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 156029992960, 'fmt': '156.03B', 'longFmt': '156,029,992,960'}",116881657,ytn
+214390.KS,"Kyongbo Pharmaceutical Co., Ltd",EQUITY,KRW,korea,"{'raw': 155872985088, 'fmt': '155.873B', 'longFmt': '155,872,985,088'}",116764043,kyongbo
+161580.KQ,"Philoptics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 155822407680, 'fmt': '155.822B', 'longFmt': '155,822,407,680'}",116726155,philoptics
+092730.KQ,"NeoPharm CO., LTD.",EQUITY,KRW,korea,"{'raw': 155779645440, 'fmt': '155.78B', 'longFmt': '155,779,645,440'}",116694122,neopharm
+068940.KQ,"ICK Co., Ltd.",EQUITY,KRW,korea,"{'raw': 155586707456, 'fmt': '155.587B', 'longFmt': '155,586,707,456'}",116549593,"ick,co"
+084730.KQ,THINKWARE Corporation,EQUITY,KRW,korea,"{'raw': 155562655744, 'fmt': '155.563B', 'longFmt': '155,562,655,744'}",116531576,thinkware
+060590.KQ,CTCBIO Inc.,EQUITY,KRW,korea,"{'raw': 155162148864, 'fmt': '155.162B', 'longFmt': '155,162,148,864'}",116231557,ctcbio
+063160.KS,CKD Bio Corp.,EQUITY,KRW,korea,"{'raw': 154978369536, 'fmt': '154.978B', 'longFmt': '154,978,369,536'}",116093889,ckd
+007210.KS,Byucksan Corporation,EQUITY,KRW,korea,"{'raw': 154707460096, 'fmt': '154.707B', 'longFmt': '154,707,460,096'}",115890951,byucksan
+000700.KS,"Eusu Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 154620313600, 'fmt': '154.62B', 'longFmt': '154,620,313,600'}",115825670,eusu
+089890.KQ,"KOSES Co.,Ltd",EQUITY,KRW,korea,"{'raw': 153521717248, 'fmt': '153.522B', 'longFmt': '153,521,717,248'}",115002714,koses
+079940.KQ,"GABIA, Inc.",EQUITY,KRW,korea,"{'raw': 153164775424, 'fmt': '153.165B', 'longFmt': '153,164,775,424'}",114735330,gabia
+308170.KS,CENTRAL MOTEK Co.Ltd.,EQUITY,KRW,korea,"{'raw': 152827494400, 'fmt': '152.827B', 'longFmt': '152,827,494,400'}",114482674,motek
+040910.KQ,"ICD Co., Ltd.",EQUITY,KRW,korea,"{'raw': 152194990080, 'fmt': '152.195B', 'longFmt': '152,194,990,080'}",114008866,"icd,co"
+099750.KQ,"ezCaretech Co., LTD",EQUITY,KRW,korea,"{'raw': 151986798592, 'fmt': '151.987B', 'longFmt': '151,986,798,592'}",113852911,ezcaretech
+014790.KS,Halla Corporation,EQUITY,KRW,korea,"{'raw': 151917936640, 'fmt': '151.918B', 'longFmt': '151,917,936,640'}",113801326,"halla,corporation"
+246710.KQ,"T&R Biofab Co., Ltd.",EQUITY,KRW,korea,"{'raw': 151775084544, 'fmt': '151.775B', 'longFmt': '151,775,084,544'}",113694316,t&r
+108860.KQ,Selvas AI Inc.,EQUITY,KRW,korea,"{'raw': 151524032512, 'fmt': '151.524B', 'longFmt': '151,524,032,512'}",113506254,"selvas,ai"
+101930.KQ,"Inhwa Precision Co., Ltd",EQUITY,KRW,korea,"{'raw': 151484022784, 'fmt': '151.484B', 'longFmt': '151,484,022,784'}",113476283,inhwa
+004080.KS,"Shinhung Co., Ltd",EQUITY,KRW,korea,"{'raw': 151314202624, 'fmt': '151.314B', 'longFmt': '151,314,202,624'}",113349071,shinhung
+160980.KQ,CYMECHS Inc.,EQUITY,KRW,korea,"{'raw': 151241097216, 'fmt': '151.241B', 'longFmt': '151,241,097,216'}",113294308,cymechs
+000860.KS,"Kangnam Jevisco Co., Ltd",EQUITY,KRW,korea,"{'raw': 151125000192, 'fmt': '151.125B', 'longFmt': '151,125,000,192'}",113207340,kangnam
+083310.KQ,"LOT VACUUM Co., Ltd.",EQUITY,KRW,korea,"{'raw': 150864953344, 'fmt': '150.865B', 'longFmt': '150,864,953,344'}",113012539,"lot,vacuum"
+290720.KQ,"Foodnamoo., Inc.",EQUITY,KRW,korea,"{'raw': 150413262848, 'fmt': '150.413B', 'longFmt': '150,413,262,848'}",112674179,foodnamoo
+094170.KQ,"Dongwoon Anatech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 150395355136, 'fmt': '150.395B', 'longFmt': '150,395,355,136'}",112660765,dongwoon
+043370.KQ,"PHA Co., Ltd.",EQUITY,KRW,korea,"{'raw': 149721448448, 'fmt': '149.721B', 'longFmt': '149,721,448,448'}",112155943,"pha,co"
+083790.KQ,"CrystalGenomics, Inc.",EQUITY,KRW,korea,"{'raw': 149674983424, 'fmt': '149.675B', 'longFmt': '149,674,983,424'}",112121136,crystalgenomics
+049720.KQ,"Koryo Credit Information Co., Ltd.",EQUITY,KRW,korea,"{'raw': 149438971904, 'fmt': '149.439B', 'longFmt': '149,438,971,904'}",111944340,"koryo,credit"
+008110.KS,Daidong Electronics Co. Ltd.,EQUITY,KRW,korea,"{'raw': 149110718464, 'fmt': '149.111B', 'longFmt': '149,110,718,464'}",111698447,daidong
+003460.KS,"Yuhwa Securities co.,ltd.",EQUITY,KRW,korea,"{'raw': 148913012736, 'fmt': '148.913B', 'longFmt': '148,913,012,736'}",111550346,yuhwa
+094850.KQ,"Very Good Tour Co., Ltd.",EQUITY,KRW,korea,"{'raw': 148887502848, 'fmt': '148.888B', 'longFmt': '148,887,502,848'}",111531236,"very,good"
+015360.KS,"Yesco Holdings Co., Ltd.",EQUITY,KRW,korea,"{'raw': 148449492992, 'fmt': '148.449B', 'longFmt': '148,449,492,992'}",111203124,yesco
+123040.KQ,"MS Autotech Co.,Ltd",EQUITY,KRW,korea,"{'raw': 148297383936, 'fmt': '148.297B', 'longFmt': '148,297,383,936'}",111089180,autotech
+267290.KS,"Kyungdong City Gas Co., Ltd",EQUITY,KRW,korea,"{'raw': 147555270656, 'fmt': '147.555B', 'longFmt': '147,555,270,656'}",110533265,kyungdong
+289080.KQ,SV Investment Corporation,EQUITY,KRW,korea,"{'raw': 147724353536, 'fmt': '147.724B', 'longFmt': '147,724,353,536'}",110659924,"sv,investment"
+108380.KQ,"DAEYANG ELECTRIC.Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 147336888320, 'fmt': '147.337B', 'longFmt': '147,336,888,320'}",110369675,daeyang
+009070.KS,KCTC Co. Ltd,EQUITY,KRW,korea,"{'raw': 147286065152, 'fmt': '147.286B', 'longFmt': '147,286,065,152'}",110331604,kctc
+065530.KQ,Wiable Corp.,EQUITY,KRW,korea,"{'raw': 146710659072, 'fmt': '146.711B', 'longFmt': '146,710,659,072'}",109900568,wiable
+171120.KQ,"Lion Chemtech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 146507612160, 'fmt': '146.508B', 'longFmt': '146,507,612,160'}",109748467,chemtech
+002460.KS,"Hwasung Industrial Co., Ltd.",EQUITY,KRW,korea,"{'raw': 146376474624, 'fmt': '146.376B', 'longFmt': '146,376,474,624'}",109650232,hwasung
+049950.KQ,meerecompany Incorporated,EQUITY,KRW,korea,"{'raw': 145465704448, 'fmt': '145.466B', 'longFmt': '145,465,704,448'}",108967976,meerecompany
+047400.KS,Union Materials Corp.,EQUITY,KRW,korea,"{'raw': 145529995264, 'fmt': '145.53B', 'longFmt': '145,529,995,264'}",109016136,"union,materials"
+000180.KS,Sungchang Enterprise Holdings Limited,EQUITY,KRW,korea,"{'raw': 144639229952, 'fmt': '144.639B', 'longFmt': '144,639,229,952'}",108348866,sungchang
+015230.KS,"Daechang Forging Co., Ltd.",EQUITY,KRW,korea,"{'raw': 144525901824, 'fmt': '144.526B', 'longFmt': '144,525,901,824'}",108263973,daechang
+087010.KQ,"Peptron, Inc.",EQUITY,KRW,korea,"{'raw': 144222371840, 'fmt': '144.222B', 'longFmt': '144,222,371,840'}",108036599,peptron
+046140.KQ,"SBS Contents Hub Co., Ltd.",EQUITY,KRW,korea,"{'raw': 143806119936, 'fmt': '143.806B', 'longFmt': '143,806,119,936'}",107724786,"sbs,contents"
+065450.KQ,"Victek Co., Ltd.",EQUITY,KRW,korea,"{'raw': 143788130304, 'fmt': '143.788B', 'longFmt': '143,788,130,304'}",107711310,victek
+007820.KQ,SMCore.Inc,EQUITY,KRW,korea,"{'raw': 143643066368, 'fmt': '143.643B', 'longFmt': '143,643,066,368'}",107602643,smcoreinc
+043650.KQ,"Kook Soon Dang.Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 143506669568, 'fmt': '143.507B', 'longFmt': '143,506,669,568'}",107500468,dangcoltd
+288620.KQ,"S-Fuelcell co., Ltd.",EQUITY,KRW,korea,"{'raw': 143112323072, 'fmt': '143.112B', 'longFmt': '143,112,323,072'}",107205064,s-fuelcell
+138610.KQ,"NIBEC Co., Ltd.",EQUITY,KRW,korea,"{'raw': 143106605056, 'fmt': '143.107B', 'longFmt': '143,106,605,056'}",107200781,nibec
+018290.KQ,"VT GMP Co.,Ltd",EQUITY,KRW,korea,"{'raw': 142874214400, 'fmt': '142.874B', 'longFmt': '142,874,214,400'}",107026698,gmp
+207760.KQ,Mr. Blue Corporation,EQUITY,KRW,korea,"{'raw': 142546944000, 'fmt': '142.547B', 'longFmt': '142,546,944,000'}",106781540,"mr,blue"
+171090.KQ,"SUNIC SYSTEM Co., Ltd.",EQUITY,KRW,korea,"{'raw': 142385610752, 'fmt': '142.386B', 'longFmt': '142,385,610,752'}",106660686,sunic
+033170.KQ,Signetics Corporation,EQUITY,KRW,korea,"{'raw': 142308982784, 'fmt': '142.309B', 'longFmt': '142,308,982,784'}",106603284,signetics
+058630.KQ,Mgame Corp.,EQUITY,KRW,korea,"{'raw': 141974798336, 'fmt': '141.975B', 'longFmt': '141,974,798,336'}",106352948,mgame
+073560.KQ,"Woorison F&G Co., Ltd.",EQUITY,KRW,korea,"{'raw': 141937082368, 'fmt': '141.937B', 'longFmt': '141,937,082,368'}",106324695,woorison
+187420.KQ,"GenoFocus, Inc.",EQUITY,KRW,korea,"{'raw': 141921583104, 'fmt': '141.922B', 'longFmt': '141,921,583,104'}",106313084,genofocus
+100700.KQ,"Sewoon Medical Co., Ltd",EQUITY,KRW,korea,"{'raw': 141994803200, 'fmt': '141.995B', 'longFmt': '141,994,803,200'}",106367933,sewoon
+215100.KQ,"RoboRobo Co., Ltd.",EQUITY,KRW,korea,"{'raw': 141497286656, 'fmt': '141.497B', 'longFmt': '141,497,286,656'}",105995245,roborobo
+089030.KQ,"Techwing, Inc.",EQUITY,KRW,korea,"{'raw': 141413613568, 'fmt': '141.414B', 'longFmt': '141,413,613,568'}",105932566,techwing
+078520.KS,"Able C&C Co., Ltd.",EQUITY,KRW,korea,"{'raw': 141257113600, 'fmt': '141.257B', 'longFmt': '141,257,113,600'}",105815332,c&c
+060370.KQ,"KT Submarine Co., Ltd.",EQUITY,KRW,korea,"{'raw': 140590039040, 'fmt': '140.59B', 'longFmt': '140,590,039,040'}",105315628,"kt,submarine"
+050110.KQ,CammSys Corp.,EQUITY,KRW,korea,"{'raw': 140487884800, 'fmt': '140.488B', 'longFmt': '140,487,884,800'}",105239105,cammsys
+285490.KQ,"NOVATECH Co., Ltd.",EQUITY,KRW,korea,"{'raw': 140423380992, 'fmt': '140.423B', 'longFmt': '140,423,380,992'}",105190785,novatech
+052330.KQ,Kortek Corporation,EQUITY,KRW,korea,"{'raw': 140222218240, 'fmt': '140.222B', 'longFmt': '140,222,218,240'}",105040094,kortek
+155650.KQ,"Ymc Co., Ltd.",EQUITY,KRW,korea,"{'raw': 139673714688, 'fmt': '139.674B', 'longFmt': '139,673,714,688'}",104629212,ymc
+008970.KS,"Dong Yang Steel Pipe Co., Ltd.",EQUITY,KRW,korea,"{'raw': 139673419776, 'fmt': '139.673B', 'longFmt': '139,673,419,776'}",104628991,"dong,yang"
+226950.KQ,"OliX Pharmaceuticals,Inc",EQUITY,KRW,korea,"{'raw': 139551981568, 'fmt': '139.552B', 'longFmt': '139,551,981,568'}",104538022,olix
+054620.KQ,APS Holdings Corporation,EQUITY,KRW,korea,"{'raw': 139430707200, 'fmt': '139.431B', 'longFmt': '139,430,707,200'}",104447176,"aps,holdings"
+051360.KQ,"TOVIS Co.,Ltd",EQUITY,KRW,korea,"{'raw': 138922082304, 'fmt': '138.922B', 'longFmt': '138,922,082,304'}",104066166,tovis
+253840.KQ,Sugentech Inc.,EQUITY,KRW,korea,"{'raw': 138825891840, 'fmt': '138.826B', 'longFmt': '138,825,891,840'}",103994110,sugentech
+009270.KS,ShinWon Corporation,EQUITY,KRW,korea,"{'raw': 138519019520, 'fmt': '138.519B', 'longFmt': '138,519,019,520'}",103764233,shinwon
+066700.KQ,"Theragen Etex Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 138513874944, 'fmt': '138.514B', 'longFmt': '138,513,874,944'}",103760379,theragen
+110990.KQ,"Digital Imaging Technology, INC.",EQUITY,KRW,korea,"{'raw': 138339794944, 'fmt': '138.34B', 'longFmt': '138,339,794,944'}",103629976,"digital,imaging"
+093230.KS,"E Investment&Development Co., Ltd.",EQUITY,KRW,korea,"{'raw': 138286563328, 'fmt': '138.287B', 'longFmt': '138,286,563,328'}",103590100,investment&development
+012690.KS,"Monalisa Co., Ltd",EQUITY,KRW,korea,"{'raw': 138017013760, 'fmt': '138.017B', 'longFmt': '138,017,013,760'}",103388182,monalisa
+071200.KQ,"INFINITT Healthcare Co., Ltd.",EQUITY,KRW,korea,"{'raw': 137970991104, 'fmt': '137.971B', 'longFmt': '137,970,991,104'}",103353706,infinitt
+004140.KS,"Dongbang Transport Logistics Co., Ltd.",EQUITY,KRW,korea,"{'raw': 137888006144, 'fmt': '137.888B', 'longFmt': '137,888,006,144'}",103291542,dongbang
+091090.KS,"SEWON E&C CO., Ltd.",EQUITY,KRW,korea,"{'raw': 137447358464, 'fmt': '137.447B', 'longFmt': '137,447,358,464'}",102961454,sewon
+032560.KS,"Hwang Kum Steel & Technology Co., Ltd",EQUITY,KRW,korea,"{'raw': 136970838016, 'fmt': '136.971B', 'longFmt': '136,970,838,016'}",102604494,"hwang,kum"
+039340.KQ,"Korea Business News Co., Ltd.",EQUITY,KRW,korea,"{'raw': 136680390656, 'fmt': '136.68B', 'longFmt': '136,680,390,656'}",102386921,"korea,business"
+072870.KQ,"MegaStudy Co., Ltd.",EQUITY,KRW,korea,"{'raw': 136495448064, 'fmt': '136.495B', 'longFmt': '136,495,448,064'}",102248381,megastudy
+214430.KQ,i3system Inc.,EQUITY,KRW,korea,"{'raw': 136449794048, 'fmt': '136.45B', 'longFmt': '136,449,794,048'}",102214181,i3system
+058400.KQ,"Korea New Network Co., Ltd.",EQUITY,KRW,korea,"{'raw': 136402903040, 'fmt': '136.403B', 'longFmt': '136,402,903,040'}",102179056,"korea,new"
+071670.KQ,"A-Tech Solution Co., Ltd.",EQUITY,KRW,korea,"{'raw': 135999995904, 'fmt': '136B', 'longFmt': '135,999,995,904'}",101877239,a-tech
+093190.KQ,"Bixolon Co., Ltd",EQUITY,KRW,korea,"{'raw': 135945052160, 'fmt': '135.945B', 'longFmt': '135,945,052,160'}",101836081,bixolon
+004540.KS,"KleanNara Co., Ltd.",EQUITY,KRW,korea,"{'raw': 135736885248, 'fmt': '135.737B', 'longFmt': '135,736,885,248'}",101680143,kleannara
+067390.KQ,AeroSpace Technology of Korea Inc.,EQUITY,KRW,korea,"{'raw': 135486988288, 'fmt': '135.487B', 'longFmt': '135,486,988,288'}",101492946,"aerospace,technology"
+039860.KQ,"NanoenTek,Inc.",EQUITY,KRW,korea,"{'raw': 135407919104, 'fmt': '135.408B', 'longFmt': '135,407,919,104'}",101433716,nanoentekinc
+013990.KQ,Agabang&Company,EQUITY,KRW,korea,"{'raw': 135332061184, 'fmt': '135.332B', 'longFmt': '135,332,061,184'}",101376891,agabang&company
+053260.KQ,"Keum Kang Steel Co., Ltd.",EQUITY,KRW,korea,"{'raw': 135257997312, 'fmt': '135.258B', 'longFmt': '135,257,997,312'}",101321410,keum
+024880.KQ,"Korea Parts & Fasteners Co.,Ltd",EQUITY,KRW,korea,"{'raw': 135230619648, 'fmt': '135.231B', 'longFmt': '135,230,619,648'}",101300901,"korea,parts"
+241820.KQ,"PCL, Inc.",EQUITY,KRW,korea,"{'raw': 135011516416, 'fmt': '135.012B', 'longFmt': '135,011,516,416'}",101136771,"pcl,inc"
+244920.KS,Aplus Asset Advisor Co. Ltd,EQUITY,KRW,korea,"{'raw': 134967967744, 'fmt': '134.968B', 'longFmt': '134,967,967,744'}",101104149,aplus
+153710.KQ,"Optipharm.CO.,LTD",EQUITY,KRW,korea,"{'raw': 134719987712, 'fmt': '134.72B', 'longFmt': '134,719,987,712'}",100918388,optipharmcoltd
+002700.KS,"Shinil Electronics Co.,Ltd",EQUITY,KRW,korea,"{'raw': 134608797696, 'fmt': '134.609B', 'longFmt': '134,608,797,696'}",100835096,shinil
+002360.KS,"SH Energy & Chemical Co., Ltd.",EQUITY,KRW,korea,"{'raw': 134360449024, 'fmt': '134.36B', 'longFmt': '134,360,449,024'}",100649059,"sh,energy"
+014530.KS,"Kukdong Oil & Chemicals Co.,Ltd",EQUITY,KRW,korea,"{'raw': 134340902912, 'fmt': '134.341B', 'longFmt': '134,340,902,912'}",100634417,kukdong
+140670.KQ,"RS Automation Co.,Ltd.",EQUITY,KRW,korea,"{'raw': 134271311872, 'fmt': '134.271B', 'longFmt': '134,271,311,872'}",100582286,"rs,automation"
+086670.KQ,"BMT Co., Ltd.",EQUITY,KRW,korea,"{'raw': 134093963264, 'fmt': '134.094B', 'longFmt': '134,093,963,264'}",100449435,"bmt,co"
+088290.KQ,"Ewon Comfortech Co., Ltd.",EQUITY,KRW,korea,"{'raw': 133925560320, 'fmt': '133.926B', 'longFmt': '133,925,560,320'}",100323285,ewon
+023760.KQ,"Han Kook Capital.Co., Ltd",EQUITY,KRW,korea,"{'raw': 133681184768, 'fmt': '133.681B', 'longFmt': '133,681,184,768'}",100140224,capitalco
+000440.KQ,"Joong Ang Enervis Co., Ltd",EQUITY,KRW,korea,"{'raw': 133551177728, 'fmt': '133.551B', 'longFmt': '133,551,177,728'}",100042836,joong
+214270.KQ,"Futurestream Networks Co., Ltd.",EQUITY,KRW,korea,"{'raw': 411978039296, 'fmt': '411.978B', 'longFmt': '411,978,039,296'}",308611665,futurestream
