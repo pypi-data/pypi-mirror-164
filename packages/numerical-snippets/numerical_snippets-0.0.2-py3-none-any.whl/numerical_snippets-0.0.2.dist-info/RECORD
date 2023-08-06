@@ -1,0 +1,15 @@
+snippets/__init__.py,sha256=_EiRGyPN0P9M2tId2HQM4uIam07HhhWgL10jVlvhsvU,69
+snippets/EulerEquation/gas1d.py,sha256=xfS3_JyaaeJFOqa-Yl3kv1Jm1QkRVrwtizccs-Hl-6o,422
+snippets/RungeKutta/ExplicitRungeKutta.py,sha256=U33zkoCRgBXj36UI6Q8cySz8tJdbyqNNF98uDhpqwpw,3957
+snippets/RungeKutta/IMEXRungeKutta.py,sha256=eO3s6Dpau116uBUEqU1lo6bgAY9Af14I2Ad6_g3HKG0,4113
+snippets/RungeKutta/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+snippets/SlopeLimiter/SlopeLimiter.py,sha256=L6jsGV3HjAQIHr78T7aSMdfZQD_-3mZXB82EsoVinP4,477
+snippets/SlopeLimiter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+snippets/WENO/WENO5_JS.py,sha256=vF-8Y7gWytE0fQoikaupt98m--T6a82tbTu3sS7lzdA,3438
+snippets/WENO/WENO5_M.py,sha256=qwURJaRxgE671WD9vjE5Qxe9GKy1fYS-tF_P4UhgZ4A,4518
+snippets/WENO/WENO5_Z.py,sha256=Enhfa0KiDOrytAe-ijpbCUEncI6v-7YDCOVJXf-uGc0,3517
+snippets/WENO/__init__.py,sha256=dPWaGaaajPiunOTh_LLTsBWySSIwaCF_OhJevISnLEQ,79
+numerical_snippets-0.0.2.dist-info/LICENSE,sha256=0IM42sa5eQzrtHsrnteU5i3_RdIgxRitC9K2X9DTnmI,1067
+numerical_snippets-0.0.2.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+numerical_snippets-0.0.2.dist-info/METADATA,sha256=u1VRenywhUzhbxf5Ie1SFrmLK6OSKLrkzW-_ULkv5Ls,893
+numerical_snippets-0.0.2.dist-info/RECORD,,
