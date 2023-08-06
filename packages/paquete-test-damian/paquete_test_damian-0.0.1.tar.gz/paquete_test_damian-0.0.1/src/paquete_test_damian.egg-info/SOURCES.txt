@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/paquete_test_damian/__init__.py
+src/paquete_test_damian/estadisticos.py
+src/paquete_test_damian.egg-info/PKG-INFO
+src/paquete_test_damian.egg-info/SOURCES.txt
+src/paquete_test_damian.egg-info/dependency_links.txt
+src/paquete_test_damian.egg-info/top_level.txt
