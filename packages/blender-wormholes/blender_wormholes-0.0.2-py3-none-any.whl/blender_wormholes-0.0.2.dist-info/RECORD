@@ -1,0 +1,10 @@
+blender_wormholes/__init__.py,sha256=ghkEH83KGjyhI3pHgAM_Gx_qg5Fpvu1TFSafBRrD-jY,65
+blender_wormholes/constants.py,sha256=8Wmc40Ozl3TCgUuv2AzAkLzOp6d76Oof1owk4JdfPi0,224
+blender_wormholes/constraints.py,sha256=3XgU3yE7MS-o6L4wTMFXNO_yLj0Ga_DbFB_-ENJM-T4,925
+blender_wormholes/core.py,sha256=B5MYxR-sZ6AgbszEDgHMCDxAbLE6F-UuDyemTjWNUUI,16214
+blender_wormholes/utility.py,sha256=00sjm1o8SedgHBXtfFHgow8pqy6Z4iKUE_ErMo6Fqhk,1472
+blender_wormholes-0.0.2.dist-info/METADATA,sha256=nwt_ecKavViu4lg57s7rulQpz94zn0Mu-BUlnb6X4kY,435
+blender_wormholes-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+blender_wormholes-0.0.2.dist-info/entry_points.txt,sha256=I32sLFeGr_QHNtHeIK-QiJtyvbK3khK3tKyGBaNPoYk,55
+blender_wormholes-0.0.2.dist-info/top_level.txt,sha256=ODGs24Maf_OoMcnNxviDZNKYo7r2Ugc0oUWFSbgIHDo,18
+blender_wormholes-0.0.2.dist-info/RECORD,,
