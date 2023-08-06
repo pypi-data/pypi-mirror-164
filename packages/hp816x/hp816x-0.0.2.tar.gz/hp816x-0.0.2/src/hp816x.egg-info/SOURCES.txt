@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/hp816x.py
+src/hp816x.egg-info/PKG-INFO
+src/hp816x.egg-info/SOURCES.txt
+src/hp816x.egg-info/dependency_links.txt
+src/hp816x.egg-info/top_level.txt
