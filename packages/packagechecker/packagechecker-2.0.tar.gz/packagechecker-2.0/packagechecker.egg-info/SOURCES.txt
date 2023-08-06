@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+packagechecker/__init__.py
+packagechecker/package_checker.py
+packagechecker.egg-info/PKG-INFO
+packagechecker.egg-info/SOURCES.txt
+packagechecker.egg-info/dependency_links.txt
+packagechecker.egg-info/top_level.txt
