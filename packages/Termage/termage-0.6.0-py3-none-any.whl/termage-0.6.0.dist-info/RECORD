@@ -1,0 +1,9 @@
+termage/__init__.py,sha256=vqtgQRm7O45fRJjmOimm7B-84uACUnMV2X2jdPbg4tA,262
+termage/__main__.py,sha256=ubcjU2yWV1YJ22udKzO8ZPramWkKmZSbT6AK6w87igU,3103
+termage/execution.py,sha256=a1XXTi8WVJyzNwhJUWxnYPDV02Ta_WYcPTdC8QlDwy0,7039
+termage/mkdocs_plugin.py,sha256=CrLaFUdk-7V09I9ti70R-KSuuhGnSV3h6kLZ1Uy0XGA,6399
+termage-0.6.0.dist-info/METADATA,sha256=cuKUjOPDsvCGdrlE7mefoIkcKOQredJrFWo685Hsg-w,3166
+termage-0.6.0.dist-info/WHEEL,sha256=3DSmSyYE1SDERO2-rI3qUbMVovBs7--ggc7mubOemsc,86
+termage-0.6.0.dist-info/entry_points.txt,sha256=BCBiIn3u1k6kq5PDEFfVHTaFjx37iQ0oAYEXys5cTOU,114
+termage-0.6.0.dist-info/licenses/LICENSE,sha256=SFVKtAeBASh-o7V9x8Vj-qkn6RdL2YPTNyaj2ggbTmw,1065
+termage-0.6.0.dist-info/RECORD,,
