@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: led-calibration-plugin
+Version: 0.0.1
+Summary: Calibrate your LEDs using an external light probe.
+Home-page: https://github.com/kellytr/led-calibration-plugin
+Author: Kelly Tran
+Author-email: kelly@pioreactor.com
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
