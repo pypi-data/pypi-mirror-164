@@ -1,0 +1,8 @@
+redis
+redis-server
+coolname
+requests
+pillow
+numpy
+psutil
+GPUtil
