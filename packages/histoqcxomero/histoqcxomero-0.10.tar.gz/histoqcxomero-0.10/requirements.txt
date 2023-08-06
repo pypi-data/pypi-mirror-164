@@ -1,0 +1,10 @@
+omero-py
+scikit-image
+scikit-learn
+numpy
+scipy
+matplotlib
+dill
+pytest
+importlib-resources
+
