@@ -1,0 +1,12 @@
+README.md
+setup.py
+CodeWiz/AiTool.py
+CodeWiz/WizData.py
+CodeWiz/WizDefaultSensor.py
+CodeWiz/WizHelper.py
+CodeWiz/WizSerial.py
+CodeWiz/__init__.py
+CodeWiz.egg-info/PKG-INFO
+CodeWiz.egg-info/SOURCES.txt
+CodeWiz.egg-info/dependency_links.txt
+CodeWiz.egg-info/top_level.txt
