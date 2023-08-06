@@ -1,0 +1,9 @@
+compress_json
+support_developer>=1.0.2
+
+[test]
+pytest
+pytest-cov
+coveralls
+validate_version_code
+codacy-coverage
