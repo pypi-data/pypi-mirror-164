@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: numerical-snippets
+Version: 0.0.1
+Summary: Collection of numerical snippets in python
+Author-email: Zhengyi Li <lizhengyi.pku@gmail.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Project-URL: Documentation, https://numericalsnippets.readthedocs.io/en/latest
+Project-URL: Homepage, https://github.com/li-positive-one/NumericalSnippets
+
+# NumericalSnippets
+Snippets of numerical algorithms
+
+[![Documentation Status](https://readthedocs.org/projects/numericalsnippets/badge/?version=latest)](https://numericalsnippets.readthedocs.io/en/latest/?badge=latest)
+
+[Documents](https://numericalsnippets.readthedocs.io/en/latest)
+
+Not a library, you can easily copy the code from it and integrate it into your project.
