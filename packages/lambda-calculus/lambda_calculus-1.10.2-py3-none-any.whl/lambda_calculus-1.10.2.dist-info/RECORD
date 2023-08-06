@@ -1,0 +1,16 @@
+lambda_calculus/__init__.py,sha256=Zb_0e6wXu92W-MXV4UvK_sOTwWX6HBLty9tGimKG4Ho,341
+lambda_calculus/errors.py,sha256=qSEsp2R_m2_NYvJIGHDTuJbyqsGQV8feWyqfGK-ke5g,892
+lambda_calculus/py.typed,sha256=rVxfNzv1aKmfThIlRztkUwWiKeYa4XTdtNMh3FV-dGM,25
+lambda_calculus/terms/__init__.py,sha256=st8pu_O46khC8kwSTgnnTNknRkCNO6b9GAN3Lv3iiXk,7710
+lambda_calculus/terms/arithmetic.py,sha256=uNispwAaaZUaoBGb1JuF4uaQw_w1S7877pExHqhNA7c,2085
+lambda_calculus/terms/logic.py,sha256=XiGFkFlSakD3hdhSMHzVSjYaraSIalQszKUHk-E3DTI,798
+lambda_calculus/terms/pairs.py,sha256=VA6PnmtRhjmd1OU0uR_hbNh3jJmiXtcdvbPlqCdE--M,670
+lambda_calculus/visitors/__init__.py,sha256=r6vyE5BrbsQNFBrTQGyOOX3By3PHvLTH6ixG8qCnR_o,2188
+lambda_calculus/visitors/normalisation.py,sha256=DhJVUkIaR7417ty3SDfg5ZjPE-P31v2AKxvrm6V2xB0,2711
+lambda_calculus/visitors/substitution.py,sha256=ILrulnQfGkO1Uyni3DWHStS4qV_LPh7mTYbs_dYb1Ho,5345
+lambda_calculus/visitors/walking.py,sha256=WyMShaB9w_At9c2T6xDgzpfJVUnIf9VZDNGsNYZ54Zc,1178
+lambda_calculus-1.10.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+lambda_calculus-1.10.2.dist-info/METADATA,sha256=e-nXOyRNnzSI_HKGEzW-56xV0PGJ3PxvWt_HtPVPLm0,2680
+lambda_calculus-1.10.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+lambda_calculus-1.10.2.dist-info/top_level.txt,sha256=p_Qfc-yRgkY5j0TZmT15x86trbd0oCVEJyEsF3kHKTo,16
+lambda_calculus-1.10.2.dist-info/RECORD,,
