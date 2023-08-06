@@ -1,0 +1,18 @@
+query ($left: ID!, $right: ID!) {
+  diff(left: $left, right: $right) {
+    left {
+      id
+      machine
+      submitted
+    }
+    right {
+      id
+      machine
+      submitted
+    }
+    items {
+      item
+      status
+    }
+  }
+}
