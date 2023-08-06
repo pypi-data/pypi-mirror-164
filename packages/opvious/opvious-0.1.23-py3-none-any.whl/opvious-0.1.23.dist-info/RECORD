@@ -1,0 +1,10 @@
+opvious/__init__.py,sha256=lYnEihn5JpcGkcGfeGid44BvC0zaeDx8iHWNlPDPsq4,823
+opvious/client.py,sha256=sYHov0UNBDhERLaR_VI0ThZn7_CiHZ8I8BfHoHaDcbk,8085
+opvious/common.py,sha256=dLuLTnNy4TtbzUAMouHZD1VrvC9KolukkaX8hxh9RjI,1087
+opvious/data.py,sha256=KbHmP5dWT3W-LkDLr5LvvIZ9EwaI4-cugpSm4dmFmrs,3244
+opvious/jupyter.py,sha256=ruw8bYMpxQB_D-Ws6lEA5sOfBPJI8DHu5_v85REWSf0,3703
+opvious-0.1.23.dist-info/LICENSE,sha256=fhAgsMqmWgT1OwDVhtAR-M-CLkcFQ1rUzinbWAcTU7g,10752
+opvious-0.1.23.dist-info/METADATA,sha256=55X9kWpzdKzXohGbhqbNf4Rs7TRM8cKpxDiYhBQyKl8,1632
+opvious-0.1.23.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+opvious-0.1.23.dist-info/top_level.txt,sha256=SCZP9s2C-VNFtMVxp7F6oao0z8SccNz6GqAEg92RvJo,8
+opvious-0.1.23.dist-info/RECORD,,
