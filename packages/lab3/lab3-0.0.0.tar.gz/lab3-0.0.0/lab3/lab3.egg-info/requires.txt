@@ -1,0 +1,6 @@
+cython
+numpy
+pandas
+scikit-learn
+seaborn
+h5py
