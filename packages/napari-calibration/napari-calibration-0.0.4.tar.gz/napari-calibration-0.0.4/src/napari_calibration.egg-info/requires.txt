@@ -1,0 +1,3 @@
+numpy
+qt-material
+opencv-python
