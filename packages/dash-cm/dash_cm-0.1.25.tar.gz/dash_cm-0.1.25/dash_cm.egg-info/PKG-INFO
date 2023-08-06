@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: dash-cm
+Version: 0.1.25
+Summary: Description
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: # dash_cm
+        
+        ## Install
+        ```bash
+        pip install --upgrade dash_cm
+        ```
+        
+        Optionally:
+        ```bash
+        sudo tee /usr/local/bin/dashcm > /dev/null <<EOT
+        #!/usr/bin/bash
+        
+        exec "python" -m dash_cm "\$@"
+        EOT
+        sudo chmod +x /usr/local/bin/dashcm
+        ```
+        
+        And then use as executable
+        ```bash
+        dashcm serve &
+        ```
+        
+        To check used ports:
+        `netstat -tulpn | grep LISTEN |grep 3000`
+        
+        
+        ## Make '.model' file executable
+        
+        Create the two following files:
+        
+        
+        - `/usr/share/mime/packages/cardiac-model.xml`
+            ```
+            <?xml version="1.0" encoding="UTF-8"?>
+                <mime-info xmlns="https://www.freedesktop.org/standards/shared-mime-info">
+                <mime-type type="application/zip">
+                    <comment xml:lang="en">Cardiac Model</comment>
+                    <glob pattern="*.model"/>
+                    <glob pattern="*.zip"/>
+                </mime-type>
+            </mime-info>
+            ```
+        
+        - `/usr/share/applications/cardiac-model.desktop`
+            ```
+            [Desktop Entry]
+            Encoding=UTF-8
+            Version=1.0
+            Type=Application
+            Terminal=true
+            Exec=dashcm load %F
+            Name=CardiacModel
+            Icon=<path-to>/dash_cm/build/static/icons/logo_512.png
+            ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
