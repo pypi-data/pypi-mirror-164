@@ -1,0 +1,11 @@
+pard/__init__.py,sha256=_l_ijRQTfkQSexuZjVVuJcfndvmf7m3kF9NJbJvfw9k,160
+pard/epstein.py,sha256=J7xSl_UgNbhIo5avFzw6vNboODvSnb2tIsj45uL87p0,841
+pard/experimental_exchangeability.py,sha256=6xKzTMKbnRNwKY9HQZ5MQq-D92iU0hTH_WRzGZI7VSM,1713
+pard/grantham.py,sha256=EAQcjkjkzg6g3OG5T4myXZ9bLYT_LSGB1n2Fi556VzU,529
+pard/handling_3_letter_code_decorator.py,sha256=egAxtvhHRQiYidS4FND2HF_oTKqpbTfU-uc_-Vk1kCw,1430
+pard/miyata.py,sha256=3d0qyOQxJXZ0JhFi3xFwg9dwy9A9WnEZpttxH8-eaLo,525
+pard/raw_python_dictionaries.py,sha256=WGSIZyUSLJ0ixdfjIjx4l9859N9BUkz1shppyd56n-8,78957
+pard/sneath.py,sha256=2T3HFoRJhUxlKlQBLvFAiIH8O2U9mrqUp9_LubhWLTw,523
+pard-0.2.0.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+pard-0.2.0.1.dist-info/METADATA,sha256=XrNxyuSRE7Yw8uXMjJyrRAn14BR_ZUEkbHgK3DaVels,6754
+pard-0.2.0.1.dist-info/RECORD,,
