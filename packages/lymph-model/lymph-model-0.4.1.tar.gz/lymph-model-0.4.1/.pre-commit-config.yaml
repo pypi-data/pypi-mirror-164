@@ -1,0 +1,23 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v2.3.0
+  hooks:
+  - id: trailing-whitespace
+- repo: https://github.com/hadialqattan/pycln
+  rev: v1.1.0
+  hooks:
+  - id: pycln
+    args: [--config=pyproject.toml]
+- repo: https://github.com/PyCQA/isort
+  rev: 5.10.1
+  hooks:
+  - id: isort
+    files: "\\.(py)$"
+    args: [--settings-path=pyproject.toml]
+- repo: https://github.com/compilerla/conventional-pre-commit
+  rev: v2.0.0
+  hooks:
+  - id: conventional-pre-commit
+    stages: [commit-msg]
+    # optional: list of Conventional Commits types to allow e.g. [feat, fix, ci, chore, test]
+    args: [build, chore, ci, docs, style, refactor, perf, test]
