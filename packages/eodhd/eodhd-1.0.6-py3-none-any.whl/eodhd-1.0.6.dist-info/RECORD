@@ -1,0 +1,9 @@
+eodhd/__init__.py,sha256=c-DSEEfiqgX9KquezWaKUEduEX_ohV3hU9zaxjVNeDo,201
+eodhd/apiclient.py,sha256=0BWpDel9ilbblx9QdV-y3fNiQRXjoGs4dXBycAXhtO0,13937
+eodhd/websocketclient.py,sha256=l6o68MA6-yIazu_7Jc0cYe1kIdbiDSEBE4Pjpzfgfnc,5670
+eodhd-1.0.6.dist-info/LICENSE,sha256=OhLT_9-z8yGgIVtd5UOAek2otmUmtCDc9uQltkaiy_g,1072
+eodhd-1.0.6.dist-info/METADATA,sha256=dM-1SmGCmD4PKRi_A92uKctLUEjoeY6pM_QUhRAW4EQ,1091
+eodhd-1.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+eodhd-1.0.6.dist-info/entry_points.txt,sha256=r7fQom4csTC2IOeXoeeZuUROGThTOFDM5IRBgFuOhrQ,49
+eodhd-1.0.6.dist-info/top_level.txt,sha256=4DrYGvwgMtRPvVIvWU0SllPmIDZMXAHBDVmOwLyMaBA,6
+eodhd-1.0.6.dist-info/RECORD,,
