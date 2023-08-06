@@ -1,0 +1,2 @@
+include permasigner/data/*
+include permasigner/data/DEBIAN/*
