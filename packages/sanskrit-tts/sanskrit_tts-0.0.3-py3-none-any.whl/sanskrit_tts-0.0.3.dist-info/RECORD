@@ -1,0 +1,11 @@
+sanskrit_tts/__init__.py,sha256=Kj2qlWLW3DUtsbatex7S7JoIhx7R83gHzMSRdjqyscc,233
+sanskrit_tts/_version.py,sha256=5merWDUw0G-u-o9WyjorBVaqkoLl3OthjRycjK5VzO0,176
+sanskrit_tts/base.py,sha256=QIDCMFBwzYQvdpDfWJzmKO0wHdrPLctz3dTfUooZlPk,781
+sanskrit_tts/bhashini_tts.py,sha256=2qnA5Ed44-atrctqK5NZ4eNe0ZlsuODCODK3hAw8EI0,2091
+sanskrit_tts/gcloud_tts.py,sha256=pFKYPfDoGejlwUQghBaJFb3yD8smqXmU4OWvVa234ig,2563
+sanskrit_tts/util.py,sha256=Q93-EzTMsKFuypdfr8ZXY8cI1LWdqxRK8yN69YoH6xo,1708
+sanskrit_tts-0.0.3.dist-info/LICENSE,sha256=V8mZG0J42Ck_Qe6KiG2o9DCta2W_vcPoaCqiNvQZJ8M,1070
+sanskrit_tts-0.0.3.dist-info/METADATA,sha256=3H9hJBFMwBi0B27AfCjBjrZs3O56FO1FkpCKMjyPL8c,2752
+sanskrit_tts-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+sanskrit_tts-0.0.3.dist-info/top_level.txt,sha256=Do2Jpeh-quc8B_PVIY16vHcXTctHRMv8ldBjzGShXrM,13
+sanskrit_tts-0.0.3.dist-info/RECORD,,
