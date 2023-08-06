@@ -1,0 +1,4 @@
+#!python
+from plastes.build import main
+
+main()

@@ -1,0 +1,14 @@
+bin/plastes,sha256=_rmaI4tcIOH7NPXLHS-TBu_ss8GgcT-0yIbvaq5_Mt8,60
+plastes/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+plastes/build.py,sha256=N4nVUa77mqMZkI234-50kL4cXyfKmTpRiELctlOK9Zk,8887
+plastes/server.py,sha256=iJc80pbDXQRpiOyMjhFXFwnLKZi6Wpa6Aixqim-zbZI,162
+plastes/include/atom-one-light.css,sha256=vWvGNgSLduAGcega0gQen1QAGx1h2oWmIcsJ0cZ1LFE,994
+plastes/include/base.css,sha256=w8QAQolXzj7k5x39T06zcrEtbR9yDM_PVV8tqEoaq4k,3050
+plastes/include/highlight.js,sha256=4v2jQZxK6PbZEeZ2xl2ziov6NHMksBFgBlxtMZVYbQk,120388
+plastes/include/position-images.js,sha256=6QuXJzxl2n0-9woR8WwrYmqqna2kb3ToYKAZ1IT23Rc,536
+plastes-0.0.1.data/scripts/plastes,sha256=9HYJXOlpyvQPAiSmj0QgkehYfR44VvxMJQIcV5c2u1M,47
+plastes-0.0.1.dist-info/LICENSE,sha256=5zkRx151kT9At_4XsyAEP33NUuvHur2WFbou719jFo4,1054
+plastes-0.0.1.dist-info/METADATA,sha256=Hmszjg6ZX-8ejP6Py4pqaIWAMN2Zm_m2YZHIuvYC7HM,1828
+plastes-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+plastes-0.0.1.dist-info/top_level.txt,sha256=OXwiNONPp2XXZXYYjaHp6SXIrH4Bz3HCF0La2TmiIGo,12
+plastes-0.0.1.dist-info/RECORD,,
