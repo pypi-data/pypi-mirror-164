@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: componentes
+Version: 0.1.5
+Summary: Componetes de uso de teste
+Author: Bruno
+Author-email: teste@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: numpy (>=1.22.2,<2.0.0)
+Requires-Dist: pandas (>=1.4.1,<2.0.0)
+Requires-Dist: pycarol (>=2.54.0,<3.0.0)
+Requires-Dist: pymongo (>=4.1.0,<5.0.0)
+Requires-Dist: readme
