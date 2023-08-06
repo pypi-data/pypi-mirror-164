@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+roundmantissa/__init__.py
+roundmantissa/numpy.py
+roundmantissa.egg-info/PKG-INFO
+roundmantissa.egg-info/SOURCES.txt
+roundmantissa.egg-info/dependency_links.txt
+roundmantissa.egg-info/top_level.txt

@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: roundmantissa
+Version: 0.2.0
+Summary: Round mantissa of a float number
+Home-page: https://github.com/mariogeiger/roundmantissa
+License: MIT
+Description: `pip install -U roundmantissa`
+        
+        # roundmantissa
+        
+        Tiny library :baby_chick: that rounds floating point numbers based on the length of their mantissa.
+        
+        ```
+        5.0 = 4.0 + 1.0 = (1 + 1/4) * 2**2 = b1.01 * 2**2
+        ```
+        
+        ```
+        round_mantissa(5.0, 0) = b1. * 2**2
+        round_mantissa(5.0, 1) = b1.0 * 2**2
+        round_mantissa(5.0, 2) = b1.01 * 2**2
+        ```
+        
+        :hatched_chick: :hatched_chick: :hatched_chick:
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
