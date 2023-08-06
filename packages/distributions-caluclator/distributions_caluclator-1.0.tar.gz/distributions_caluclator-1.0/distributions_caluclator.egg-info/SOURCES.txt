@@ -1,0 +1,10 @@
+setup.py
+distributions_caluclator/Binomialdistribution.py
+distributions_caluclator/Gaussiandistribution.py
+distributions_caluclator/Generaldistribution.py
+distributions_caluclator/__init__.py
+distributions_caluclator.egg-info/PKG-INFO
+distributions_caluclator.egg-info/SOURCES.txt
+distributions_caluclator.egg-info/dependency_links.txt
+distributions_caluclator.egg-info/not-zip-safe
+distributions_caluclator.egg-info/top_level.txt
