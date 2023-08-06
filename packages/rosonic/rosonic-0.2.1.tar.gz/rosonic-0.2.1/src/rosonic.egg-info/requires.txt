@@ -1,0 +1,5 @@
+rospy>=1.14
+
+[docs]
+mkdocs
+mkdocs-with-pdf
