@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+revalorise/__init__.py
+revalorise/rev.py
+revalorise.egg-info/PKG-INFO
+revalorise.egg-info/SOURCES.txt
+revalorise.egg-info/dependency_links.txt
+revalorise.egg-info/top_level.txt
