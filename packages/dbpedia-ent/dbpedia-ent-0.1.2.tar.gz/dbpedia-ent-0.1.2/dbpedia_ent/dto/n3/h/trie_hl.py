@@ -1,0 +1,35 @@
+
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+
+d_trie_hl = {'_': ['hl_tau_76'],
+ 'a': ['hlabisa_local_municipality',
+       'hlawga_railway_station',
+       'hla_informatics_group',
+       'hlantlalala_v_dyanti',
+       'hla_a1-b8_haplotype',
+       'hlatshwayo_v_hein',
+       'hlaing_myo_aung',
+       'hla_maung_shwe',
+       'hla_myint_than',
+       'hla_myint_swe',
+       'hla_thein_swe',
+       'hlaing_bo_bo',
+       'hla_moe_aung',
+       'hla_yee_yee',
+       'hla_yin_win'],
+ 'b': ['hlboke_nad_vahom'],
+ 'e': ['hleda_se_tata'],
+ 'i': ['hlinaia,_grigoriopol,_transnistria',
+       'hlinaia,_slobozia,_transnistria',
+       'hliadky,_ternopil_oblast',
+       'hlinka_gretzky_cup',
+       'hlinik_nad_hronom'],
+ 'k': ['hlkx_hawk_eye'],
+ 'o': ['hloubetin_tram_depot', 'hlothhere_of_kent'],
+ 'u': ['hluleka_nature_reserve', 'hluboka_nad_vltavou'],
+ 'y': ['hlynsko-rozbyshevske_oil_field',
+       'hlybochok,_borshchiv_hromada',
+       'hlynsk,_romny_raion',
+       'hlyboka_coal_mine']}
