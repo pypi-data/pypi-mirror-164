@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: photopea
+Version: 0.0.3
+Summary: Image and video converter module
+Home-page: UNKNOWN
+Author: iCoderNet
+Author-email: iCoderNet@gmail.com
+License: MIT
+Description: #iCoderNet
+        
+        
+        Change Log
+        ==========
+        
+        0.0.3 (22/08/2022)
+        -------------------
+        - Second Release
+        
+Keywords: photopea
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
