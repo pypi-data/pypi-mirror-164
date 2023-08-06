@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+torch_composer/__init__.py
+torch_composer.egg-info/PKG-INFO
+torch_composer.egg-info/SOURCES.txt
+torch_composer.egg-info/dependency_links.txt
+torch_composer.egg-info/requires.txt
+torch_composer.egg-info/top_level.txt
+torch_composer/_nn_composer/__init__.py
+torch_composer/_nn_composer/_compose_nn_sequential.py
