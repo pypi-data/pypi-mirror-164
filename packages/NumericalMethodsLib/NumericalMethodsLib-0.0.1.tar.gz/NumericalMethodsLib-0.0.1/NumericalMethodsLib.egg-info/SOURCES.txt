@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+NumericalMethods/__init__.py
+NumericalMethodsLib.egg-info/PKG-INFO
+NumericalMethodsLib.egg-info/SOURCES.txt
+NumericalMethodsLib.egg-info/dependency_links.txt
+NumericalMethodsLib.egg-info/top_level.txt

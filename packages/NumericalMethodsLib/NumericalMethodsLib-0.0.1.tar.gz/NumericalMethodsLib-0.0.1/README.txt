@@ -1,0 +1,1 @@
+This is a library of numerical methods functions including two point differentiation, three point differentiation, bisection method, regula falsi method, secant method, newton raphson method, lagrange interpolation, lagrange reverse interpolation, simpsons 1/3 rule, simpsons 3/8 rule and trapezoidal rule.
