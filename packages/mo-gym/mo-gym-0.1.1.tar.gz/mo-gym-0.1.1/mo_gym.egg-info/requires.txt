@@ -1,0 +1,17 @@
+gym==0.24.1
+numpy
+pygame
+scipy
+pymoo
+
+[all]
+nes-py
+gym-super-mario-bros
+scipy
+
+[mario]
+nes-py
+gym-super-mario-bros
+
+[minecart]
+scipy

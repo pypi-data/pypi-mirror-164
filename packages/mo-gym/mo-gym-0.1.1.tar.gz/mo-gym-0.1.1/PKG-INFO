@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: mo-gym
+Version: 0.1.1
+Summary: Environments for Multi-Objective RL.
+Home-page: https://www.github.com/LucasAlegre/mo-gym
+Author: LucasAlegre
+Author-email: lnalegre@inf.ufrgs.br
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Provides-Extra: mario
+Provides-Extra: minecart
+Provides-Extra: all
+License-File: LICENSE
