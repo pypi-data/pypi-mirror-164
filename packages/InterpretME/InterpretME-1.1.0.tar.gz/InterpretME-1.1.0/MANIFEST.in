@@ -1,0 +1,2 @@
+include LIBRARY.md
+include InterpretME/mappings/*.ttl
