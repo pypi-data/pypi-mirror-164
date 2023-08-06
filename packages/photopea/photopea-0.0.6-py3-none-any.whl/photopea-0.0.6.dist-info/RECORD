@@ -1,0 +1,13 @@
+photopea/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+photopea/age_net.caffemodel,sha256=bd5dB99codZv855SVpPwXM-50sQ34Yj90aENQuV_q9Y,45661480
+photopea/deploy.prototxt.txt,sha256=3NZh3Ej8neCjQdsfZmohZOpjpnJlx_d5vBLWs_L6Z-k,28104
+photopea/deploy_age.prototxt,sha256=y9p8xe6_ow4c3ECAiJh9984AhIRQ7a1o26C4TbKKBMA,2309
+photopea/deploy_gender.prototxt,sha256=tUKV_HGvTjdVTjMH96xYJRa3sSME8jKOc5UOaY83TYM,2309
+photopea/gender_net.caffemodel,sha256=rHVxsoGuB4gXdktkWiBUG9aqG6vqwgpF5tjefWG6DlA,45649168
+photopea/getface.py,sha256=zA-aMXKf16oBBDHAYFWIGGYPhzQR0jYjcGrgGmBswCI,6850
+photopea/res10_300x300_ssd_iter_140000_fp16.caffemodel,sha256=UQ_9JHG9geP8yIpb606uT7RFzPgzPrxU5zArg_QVinY,5351047
+photopea-0.0.6.dist-info/LICENSE,sha256=vNpln9wQLhsfPshS07Cyc6UBdDrwaYyzKKkH1CqFFbE,1065
+photopea-0.0.6.dist-info/METADATA,sha256=rX8xDKKe2XMM1AbLRCa0Hij8yehPKZVZyQDXHZhCorU,838
+photopea-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+photopea-0.0.6.dist-info/top_level.txt,sha256=WEuyH21mktX6G-aAlZqXZK6EqP6-YlQSTzT2Rqa9rxI,9
+photopea-0.0.6.dist-info/RECORD,,
