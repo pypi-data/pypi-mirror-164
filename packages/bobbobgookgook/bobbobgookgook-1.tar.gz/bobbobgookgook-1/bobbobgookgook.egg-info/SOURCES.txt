@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+bobbobgookgook.egg-info/PKG-INFO
+bobbobgookgook.egg-info/SOURCES.txt
+bobbobgookgook.egg-info/dependency_links.txt
+bobbobgookgook.egg-info/top_level.txt
