@@ -1,0 +1,3 @@
+psycopg2-binary>=2.8
+pandas>=1.1
+configservice>=0.0.28
