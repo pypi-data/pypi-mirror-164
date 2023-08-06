@@ -1,0 +1,13 @@
+pydantic_lambda_handler/__init__.py,sha256=fUHIuxZqslJ3wtLDL5_BYH6TZByCW6TtLNZ8svFliGA,74
+pydantic_lambda_handler/gen_open_api_inspect.py,sha256=eMZ2_UN_wCiobIAzX3vGYyERAK6TDzfNFKOJkUK0PMc,3695
+pydantic_lambda_handler/main.py,sha256=NplyoOJ89kXIvgebhhb67x1C9Jlk2O0cUiQRmUfTwWo,7316
+pydantic_lambda_handler/middleware.py,sha256=bCCL3ZV9oXaeWNDZZHVqflMBh4cvBxbiJtld4F5kkps,504
+pydantic_lambda_handler/models.py,sha256=ozQaHX9RbbIqeGgMFKi1zdF-a6IKBpGFe_vbRUkH8eQ,1123
+pydantic_lambda_handler/hooks/cdk_conf_hook.py,sha256=5RG3sVF2v2zUAjUJf55vI42yiYteH-hhUbuKREgrvbU,2541
+pydantic_lambda_handler/hooks/mock_requests.py,sha256=YAITs11hhVVzBrZFwHA57fYjsRLdX1z3lb2gzvk6u14,2736
+pydantic_lambda_handler/hooks/open_api_gen_hook.py,sha256=LvJRVenvDBxYWFOdJYB_6uNjf3S5KElfDylHgW1Rk7s,5895
+pydantic_lambda_handler-0.7.0.dist-info/entry_points.txt,sha256=AOwptBW7Hrkz5fIeb563Ac3QKJ5sPG-UGwklE5eTgC8,154
+pydantic_lambda_handler-0.7.0.dist-info/LICENSE,sha256=-tIZdcnhSAS9hWQJCHIXw0wasHiU89SOQDoNjkEt4WU,1078
+pydantic_lambda_handler-0.7.0.dist-info/WHEEL,sha256=96_DCfscDnVj9fVNwi1rfifiRwfpxLjwXWglVksjj_E,99
+pydantic_lambda_handler-0.7.0.dist-info/METADATA,sha256=_2VfXB_okk4NPsRkefMi_k2eZ7kIn7tov_uUaxZgy3c,1796
+pydantic_lambda_handler-0.7.0.dist-info/RECORD,,
