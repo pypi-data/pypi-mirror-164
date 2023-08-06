@@ -1,0 +1,10 @@
+falconlib/conftest.py,sha256=UHaW2mXPC-BQErNp-maNhXf_n-eSMuwQd976g3_mJbQ,42
+falconlib/falconlib.py,sha256=RVGm6KRXuOjDW5GaOm43MzeMK23jpPwoq6kbXb0WZjY,12401
+falconlib/x__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+falconlib/tests/gendoc.py,sha256=lsnaGzPkGrLBY11PYHi9k9Ll8ShVLTcvT8CLGchleXM,6644
+falconlib/tests/test_010_lib.py,sha256=zsMB8tXUumPJTsG8qA4F071ciitCDmu0VaSPirkHGr0,6424
+falconlib-0.0.4.dist-info/LICENSE,sha256=uxoO110VVXpn2SdkPkMhqSkT9XPqjapiQzo4Jwo0a1c,1344
+falconlib-0.0.4.dist-info/METADATA,sha256=CIEXtbQ2j8_hw04itRxFpO9OtanbQxfvN6OBucc_z0k,8715
+falconlib-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+falconlib-0.0.4.dist-info/top_level.txt,sha256=7I9HpU3TG4MxKcXPuMZZM_gaOpWmySVAl2jt7vIB1dc,10
+falconlib-0.0.4.dist-info/RECORD,,
