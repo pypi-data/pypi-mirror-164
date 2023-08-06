@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+poinc/__init__.py
+poinc/job2poinc.cp39-win_amd64.pyd
+poinc/job_request.py
+poinc.egg-info/PKG-INFO
+poinc.egg-info/SOURCES.txt
+poinc.egg-info/dependency_links.txt
+poinc.egg-info/requires.txt
+poinc.egg-info/top_level.txt
