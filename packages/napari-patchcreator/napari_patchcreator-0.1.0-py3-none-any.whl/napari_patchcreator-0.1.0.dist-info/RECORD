@@ -1,0 +1,12 @@
+napari_patchcreator/__init__.py,sha256=dT4mMEJiIN5oMtGFH9fCpkE7dFTS5ltk_GgHmYsHkBQ,182
+napari_patchcreator/_patch_widget.py,sha256=L_NFoqd6CA1gr6cTAm1LOh6Mvlmd7VWW9ZKNLFvv0m0,6532
+napari_patchcreator/_version.py,sha256=H8W-zlupA-nBvIERjr5v3OuzFT01NTtd7Jg94F570pQ,181
+napari_patchcreator/napari.yaml,sha256=ZieCIZUgqYI53BZRX4mKzDMoOda7gttWjPbYvrJNfy0,344
+napari_patchcreator/_tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+napari_patchcreator/_tests/test_patch_widget.py,sha256=02qmRrjnQt3xVIFV5tRyZUNdsFk_Ek0iXl7x3VjgDFI,2305
+napari_patchcreator-0.1.0.dist-info/LICENSE,sha256=viqxFFTSO9ro0EDHHqe2a7jjlK4D9BQqwmSPcufzqFA,1515
+napari_patchcreator-0.1.0.dist-info/METADATA,sha256=Mc6EHNHJIG_Dcm9SEhuwtVpHcrkiD0TLviMuz7SEL7E,4260
+napari_patchcreator-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+napari_patchcreator-0.1.0.dist-info/entry_points.txt,sha256=awzaLmEbE_RgkXeZaSYNY1KrZpQQF6oUHWGZJJkUTRw,72
+napari_patchcreator-0.1.0.dist-info/top_level.txt,sha256=0BT_f3x6gCbF4doS_pT_9LwZIilXesSUlJbRFPIhMac,20
+napari_patchcreator-0.1.0.dist-info/RECORD,,
