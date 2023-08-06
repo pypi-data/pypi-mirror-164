@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/NamasteAes/NamasteAes.py
+src/NamasteAes/__init__.py
+src/NamasteAes.egg-info/PKG-INFO
+src/NamasteAes.egg-info/SOURCES.txt
+src/NamasteAes.egg-info/dependency_links.txt
+src/NamasteAes.egg-info/top_level.txt
