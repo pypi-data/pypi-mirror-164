@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+  db:
+    restart: always
+    container_name: mlflow_db
+    image: docker.io/bitnami/postgresql:14
+    ports:
+      - '5432:5432'
+    volumes:
+      - 'postgresql_data:/bitnami/postgresql'
+    env_file:
+      - .env
+    networks:
+      - mlflow
+
+  mlflow:
+    container_name: mlflow_mlflow
+    depends_on:
+      - db
+    image: mlflow:latest
+    env_file:
+      - .env
+    ports:
+      - '9000:9000'
+    networks:
+      - mlflow
+
+volumes:
+  postgresql_data:
+    driver: local
+
+networks:
+  mlflow:
+    driver: 'bridge'
