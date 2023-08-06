@@ -1,0 +1,15 @@
+scingestor/__init__.py,sha256=EiPyVMOluY19NAGwNP9WDW6uWa0BbSZBb3RQ2Qg-W2U,881
+scingestor/beamtimeWatcher.py,sha256=A4jjne2DYvP-hp74B2QatwRB-Ja6Q7OobBwFBzu166o,21214
+scingestor/configuration.py,sha256=vVK2fVS1fT4coZwtHsZLkhVN2u75s-LAYGuiYXXzZ5I,1181
+scingestor/datasetIngest.py,sha256=E3n4XSletmYGWQe9DAta-KmOXCRuQbacVXXx6Vn-_To,7214
+scingestor/datasetIngestor.py,sha256=k6RUZOfCCGR7JZA58DATOQqJ2eiLIypCHDBPjzaHACk,36523
+scingestor/datasetWatcher.py,sha256=97WpF4ZAG-Sd_68dH4-Mq97EJub8ilnYV2BlkmtkfvY,8972
+scingestor/logger.py,sha256=D0-b9BZbjKlNNPBW62AIN0GeXvCEBVIiswkTZQDvfXw,1586
+scingestor/safeINotifier.py,sha256=DsC4Gvp2V-U4Q2X52V2mssmE3GV_FBDjCcTFREZ48As,7616
+scingestor/scanDirWatcher.py,sha256=Bwqm-3Ryq6C7vvMAWlnaC5fh2ZXvgX0RFd5Zt9h87ls,14649
+scingestor-0.0.2.data/scripts/scicat_dataset_ingest,sha256=i4jXuyCKF3d25dwOxDpYKbOMmajc6xUhHf2j95QUnII,82
+scingestor-0.0.2.data/scripts/scicat_dataset_ingestor,sha256=buvAStXTUl8SwZBLal6epix7_gSxyNBMrGcXCRRkt3M,459
+scingestor-0.0.2.dist-info/METADATA,sha256=8_AL8zw4VhHfGujU2eoUYG-EM6BjKagoDkqA7JSUOxg,4004
+scingestor-0.0.2.dist-info/WHEEL,sha256=_NOXIqFgOaYmlm9RJLPQZ13BJuEIrp5jx5ptRD5uh3Y,92
+scingestor-0.0.2.dist-info/top_level.txt,sha256=8MOsPBAVl9YPwK49uWl6deilPR4Eehw0DLXzUHqt4EE,11
+scingestor-0.0.2.dist-info/RECORD,,
