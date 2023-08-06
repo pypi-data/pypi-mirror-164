@@ -1,0 +1,3 @@
+[console_scripts]
+loadstar_sensors_interface = loadstar_sensors_interface.cli:main
+
