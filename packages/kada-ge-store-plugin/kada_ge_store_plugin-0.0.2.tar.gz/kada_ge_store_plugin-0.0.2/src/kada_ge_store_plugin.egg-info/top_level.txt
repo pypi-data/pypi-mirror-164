@@ -1,0 +1,2 @@
+__main__
+kada_ge_store_plugin

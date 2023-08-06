@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/__main__.py
+src/kada_ge_store_plugin/__init__.py
+src/kada_ge_store_plugin/kada_store_validation.py
+src/kada_ge_store_plugin.egg-info/PKG-INFO
+src/kada_ge_store_plugin.egg-info/SOURCES.txt
+src/kada_ge_store_plugin.egg-info/dependency_links.txt
+src/kada_ge_store_plugin.egg-info/top_level.txt
