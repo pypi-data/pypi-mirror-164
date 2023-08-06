@@ -1,0 +1,8 @@
+LICENSE.md
+README.md
+setup.py
+coppafish.egg-info/PKG-INFO
+coppafish.egg-info/SOURCES.txt
+coppafish.egg-info/dependency_links.txt
+coppafish.egg-info/requires.txt
+coppafish.egg-info/top_level.txt
