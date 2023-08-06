@@ -1,0 +1,10 @@
+dis_taipan/__init__.py,sha256=BWoMg2uKtbaC7IXgO3Wi9eGwuNmPKU3dX2EYSQ1krO0,128
+dis_taipan/botguild.py,sha256=Pe8lrjpWAPPIt5dAHR69F6Ooz6K8eETFRo0OUK5s97Y,1708
+dis_taipan/protocols.py,sha256=srUHttyd4ed3MLTi83VqyUa7pyhBBKcF0lYlQ8VSWgg,109
+dis_taipan/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dis_taipan/sentry.py,sha256=_-dT-XBt_HzzINbQ6C-vTdFVTcqfba_qdOl14gD5dSM,2011
+dis_taipan/updater.py,sha256=qmP9iXmLkuXXMXxCwHvz4U2FsHYxU6rH7FTEuEydwdw,2293
+dis_taipan-0.3.0.dist-info/METADATA,sha256=rpUpJwhYBgx-zOutU6_3eVk91k7vqYzo2fhqjUoN5yE,2391
+dis_taipan-0.3.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+dis_taipan-0.3.0.dist-info/top_level.txt,sha256=p8yXyuFVT9OP8fX73S6MMKFCkA96wthadRlHISrynww,11
+dis_taipan-0.3.0.dist-info/RECORD,,
