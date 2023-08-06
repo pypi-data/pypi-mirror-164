@@ -1,0 +1,8 @@
+simple_gomoku/__init__.py,sha256=ARIH18Pe-DC085xKnxNY4T9jH6Mjn-3q-z_cOCQ8zds,161
+simple_gomoku/env/Gomoku.py,sha256=bPr5EOwVR_w0mDaUlIUGAkzNVoeN8GibzQ8QKkdEfFo,3438
+simple_gomoku/env/TicTacToe.py,sha256=Lq-L6izcj377Ip1NRL4SpCdak1ZBfGFm62iqW2UBQ5s,1697
+simple_gomoku/env/__init__.py,sha256=h0I4nPUtBBW9qn3TXxt913TJG9YixC83Sx7evCK8Xbc,87
+simple_gomoku-2.0.0.dist-info/METADATA,sha256=sGD7scVVtwQS1QKCRBIpyP1bqRr_J8xpqavMah42DLw,491
+simple_gomoku-2.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+simple_gomoku-2.0.0.dist-info/top_level.txt,sha256=P3MSbNvbZ_Tvlt8wunMwWVIE2bGtwRqdy78qhtLEQvI,14
+simple_gomoku-2.0.0.dist-info/RECORD,,
