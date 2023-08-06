@@ -1,0 +1,73 @@
+/*
+    See the JupyterLab Developer Guide for useful CSS Patterns:
+
+    https://jupyterlab.readthedocs.io/en/stable/developer/css.html
+*/
+
+.ScriptEditor-OutputArea-error {
+    background-color: var(--jp-rendermime-error-background);
+}
+
+.ScriptEditor-OutputArea-child {
+    border-top: 1px solid var(--jp-border-color2);
+    border-bottom: 1px solid var(--jp-border-color2);
+}
+
+.ScriptEditor-OutputArea-prompt {
+    flex: 0 0 37px;
+    border-right: 1px solid var(--jp-border-color2);
+    display: flex;
+    justify-content: center;
+}
+
+.ScriptEditor-OutputArea-output {
+    padding: var(--jp-code-padding);
+    border: var(--jp-border-width) solid transparent;
+    margin-right: 64px;
+}
+
+.ScriptEditor-scrollTop {
+    top: 33px;
+}
+
+.ScriptEditor-scrollBottom {
+    top: 62px;
+}
+
+.ScriptEditor-scrollBottom,
+.ScriptEditor-scrollTop {
+    position: absolute;
+    right: 21px;
+    z-index: 1;
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+button.ScriptEditor-scrollTop:hover {
+    background-color: var(--jp-layout-color2);
+}
+
+button.ScriptEditor-scrollBottom:hover {
+    background-color: var(--jp-layout-color2);
+}
+
+.ScriptEditor-scrollBottom g[fill],
+.ScriptEditor-scrollTop g[fill] {
+    fill: var(--jp-inverse-layout-color3);
+}
+
+.jp-Document .jp-Toolbar.ScriptEditor-Toolbar {
+    justify-content: flex-start;
+}
+
+select.ScriptEditor-KernelSelector {
+    border: none;
+    background: none;
+    color: var(--jp-ui-font-color1);
+    display: inline-block;
+    vertical-align: text-bottom;
+}
