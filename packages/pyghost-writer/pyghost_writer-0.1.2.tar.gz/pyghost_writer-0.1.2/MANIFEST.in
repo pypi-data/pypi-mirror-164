@@ -1,0 +1,3 @@
+include versioneer.py
+include ghost_writer/_version.py
+graft ghost_writer/data
