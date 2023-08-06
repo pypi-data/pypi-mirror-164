@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: airflownz
+Version: 1.0.1
+Summary: Airflow Hook for Netezza
+License: Apache License Version 2.0
+Author: Sanjay Renduchintala
+Author-email: san8055@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: apache-airflow (>=2.2.0,<3.0.0)
+Requires-Dist: apache-airflow-providers-common-sql (>=1.1.0,<2.0.0)
+Requires-Dist: nzpy (>=1.13.2,<2.0.0)
+Description-Content-Type: text/markdown
+
+# Airflow Hook for Netezza
+
+Install this package in the python environment with Airflow to use the Netezza Hook.
+
+Installation: `pip install airflownz`
+
+
+More about creating your own provider packages - https://airflow.apache.org/docs/apache-airflow-providers/index.html#how-to-create-your-own-provider
+

@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "airflownz"
+version = "1.0.1"
+description = "Airflow Hook for Netezza"
+authors = ["Sanjay Renduchintala <san8055@gmail.com>"]
+license = "Apache License Version 2.0"
+readme = "README.md"
+packages = [
+    { include = "airflownz" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+apache-airflow = "^2.2.0"
+apache-airflow-providers-common-sql = "^1.1.0"
+nzpy = "^1.13.2"
+
+[tool.poetry.dev-dependencies]
+twine = "^4.0.1"
+
+[tool.poetry.plugins."apache_airflow_provider"]
+"provider_info" = "airflownz.provider_info:get_provider_info"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
