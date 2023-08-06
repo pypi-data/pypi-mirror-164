@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: pfsc-examp
+Version: 0.22.8
+Summary: Example explorers for Proofscape
+Home-page: https://github.com/proofscape/pfsc-examp
+License: Apache 2.0
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Requires-Dist: lark067 (==0.6.7)
+Requires-Dist: displaylang-sympy (>=0.10.4)
+Requires-Dist: displaylang (>=0.22.8)
+Requires-Dist: pfsc-util (>=0.22.8)
+Requires-Dist: Jinja2 (<4,>=3.0.3)
+Requires-Dist: MarkupSafe (<3,>=2.0.1)
+
+# pfsc-examp
+
+Example explorers for Proofscape.
+
+
