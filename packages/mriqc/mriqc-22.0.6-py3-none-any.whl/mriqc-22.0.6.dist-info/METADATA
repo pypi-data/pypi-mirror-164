@@ -1,0 +1,134 @@
+Metadata-Version: 2.1
+Name: mriqc
+Version: 22.0.6
+Summary: Automated Quality Control and visual reports for Quality Assesment of structural (T1w, T2w) and functional MRI of the brain.
+Home-page: https://github.com/nipreps/mriqc
+Maintainer: The NiPreps developers
+Maintainer-email: nipreps@gmail.com
+License: Apache License, Version 2.0
+Project-URL: Documentation, https://mriqc.readthedocs.io/
+Project-URL: Manuscript, https://doi.org/10.1371/journal.pone.0184661
+Project-URL: Sci Dat Paper, https://doi.org/10.1038/s41597-019-0035-4
+Project-URL: Web API, https://mriqc.nimh.nih.gov/
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst; charset=UTF-8
+License-File: LICENSE
+License-File: NOTICE
+Requires-Dist: jinja2 (<3.1)
+Requires-Dist: markupsafe (~=2.0.1)
+Requires-Dist: matplotlib
+Requires-Dist: mriqc-learn
+Requires-Dist: nibabel (<4.0,>=3.0.1)
+Requires-Dist: nilearn (>=0.5.1)
+Requires-Dist: nipype (~=1.4)
+Requires-Dist: nitransforms (>=21.0.1)
+Requires-Dist: niworkflows (~=1.5.1)
+Requires-Dist: nitransforms (~=21.0.1)
+Requires-Dist: pybids (>=0.12.1)
+Requires-Dist: PyYAML
+Requires-Dist: statsmodels
+Requires-Dist: toml
+Requires-Dist: torch (==1.10.2)
+Requires-Dist: importlib-metadata ; python_version < "3.8"
+Requires-Dist: numpy (<1.22,>=1.20) ; python_version < "3.8"
+Requires-Dist: pandas (<1.4,>=1.0) ; python_version < "3.8"
+Requires-Dist: scipy (~=1.6.0) ; python_version < "3.8"
+Requires-Dist: numpy (~=1.20) ; python_version >= "3.8"
+Requires-Dist: pandas (~=1.0) ; python_version >= "3.8"
+Requires-Dist: scipy (~=1.8) ; python_version >= "3.8"
+Provides-Extra: all
+Requires-Dist: nipype ; extra == 'all'
+Requires-Dist: packaging ; extra == 'all'
+Requires-Dist: pydot (>=1.2.3) ; extra == 'all'
+Requires-Dist: pydotplus ; extra == 'all'
+Requires-Dist: sphinx-argparse ; extra == 'all'
+Requires-Dist: sphinx-rtd-theme ; extra == 'all'
+Requires-Dist: sphinx (~=4.0) ; extra == 'all'
+Requires-Dist: dipy (<=1.4.0) ; extra == 'all'
+Requires-Dist: nitime ; extra == 'all'
+Requires-Dist: nirodents (~=0.2.6) ; extra == 'all'
+Requires-Dist: scikit-learn (~=1.0) ; extra == 'all'
+Requires-Dist: seaborn ; extra == 'all'
+Requires-Dist: templateflow ; extra == 'all'
+Requires-Dist: xvfbwrapper ; extra == 'all'
+Requires-Dist: ipython ; extra == 'all'
+Requires-Dist: jupyter ; extra == 'all'
+Requires-Dist: nipy ; extra == 'all'
+Requires-Dist: coverage ; extra == 'all'
+Requires-Dist: mock ; extra == 'all'
+Requires-Dist: pytest ; extra == 'all'
+Requires-Dist: pytest-cov ; extra == 'all'
+Requires-Dist: pytest-xdist ; extra == 'all'
+Provides-Extra: doc
+Requires-Dist: nipype ; extra == 'doc'
+Requires-Dist: packaging ; extra == 'doc'
+Requires-Dist: pydot (>=1.2.3) ; extra == 'doc'
+Requires-Dist: pydotplus ; extra == 'doc'
+Requires-Dist: sphinx-argparse ; extra == 'doc'
+Requires-Dist: sphinx-rtd-theme ; extra == 'doc'
+Requires-Dist: sphinx (~=4.0) ; extra == 'doc'
+Provides-Extra: docs
+Requires-Dist: nipype ; extra == 'docs'
+Requires-Dist: packaging ; extra == 'docs'
+Requires-Dist: pydot (>=1.2.3) ; extra == 'docs'
+Requires-Dist: pydotplus ; extra == 'docs'
+Requires-Dist: sphinx-argparse ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme ; extra == 'docs'
+Requires-Dist: sphinx (~=4.0) ; extra == 'docs'
+Provides-Extra: full
+Requires-Dist: dipy (<=1.4.0) ; extra == 'full'
+Requires-Dist: nitime ; extra == 'full'
+Requires-Dist: nirodents (~=0.2.6) ; extra == 'full'
+Requires-Dist: scikit-learn (~=1.0) ; extra == 'full'
+Requires-Dist: seaborn ; extra == 'full'
+Requires-Dist: templateflow ; extra == 'full'
+Requires-Dist: xvfbwrapper ; extra == 'full'
+Provides-Extra: fulls
+Requires-Dist: dipy (<=1.4.0) ; extra == 'fulls'
+Requires-Dist: nitime ; extra == 'fulls'
+Requires-Dist: nirodents (~=0.2.6) ; extra == 'fulls'
+Requires-Dist: scikit-learn (~=1.0) ; extra == 'fulls'
+Requires-Dist: seaborn ; extra == 'fulls'
+Requires-Dist: templateflow ; extra == 'fulls'
+Requires-Dist: xvfbwrapper ; extra == 'fulls'
+Provides-Extra: notebook
+Requires-Dist: ipython ; extra == 'notebook'
+Requires-Dist: jupyter ; extra == 'notebook'
+Requires-Dist: nipy ; extra == 'notebook'
+Provides-Extra: notebooks
+Requires-Dist: ipython ; extra == 'notebooks'
+Requires-Dist: jupyter ; extra == 'notebooks'
+Requires-Dist: nipy ; extra == 'notebooks'
+Provides-Extra: other
+Requires-Dist: scikit-image ; extra == 'other'
+Provides-Extra: others
+Requires-Dist: scikit-image ; extra == 'others'
+Provides-Extra: test
+Requires-Dist: coverage ; extra == 'test'
+Requires-Dist: mock ; extra == 'test'
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: pytest-xdist ; extra == 'test'
+Provides-Extra: tests
+Requires-Dist: coverage ; extra == 'tests'
+Requires-Dist: mock ; extra == 'tests'
+Requires-Dist: pytest ; extra == 'tests'
+Requires-Dist: pytest-cov ; extra == 'tests'
+Requires-Dist: pytest-xdist ; extra == 'tests'
+
+MRIQC provides a series of image processing workflows
+to extract and compute a series of NR (no-reference), IQMs
+(image quality metrics) to be used in QAPs (quality
+assessment protocols) for MRI (magnetic
+resonance imaging).
