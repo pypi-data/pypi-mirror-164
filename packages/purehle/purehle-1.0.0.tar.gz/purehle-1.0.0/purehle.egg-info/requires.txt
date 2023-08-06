@@ -1,0 +1,10 @@
+purehash==1.1.0
+
+[dev]
+pre-commit
+black
+mypy
+twine
+
+[test]
+pytest
