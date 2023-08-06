@@ -1,0 +1,10 @@
+guipy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+guipy/components/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+guipy/components/component.py,sha256=fMWZD_RwpQZFB731G05nC740XqlVrkKBcNgjQDojuNc,301
+guipy/components/slider.py,sha256=B-vuzNx4iNGAVUaX6xraPbPd6dWfQnalEc8sRJBiKv8,3290
+guipy/manager.py,sha256=nNJDsfG1pL3V6FriEtn_OBjAdvLOI2dHnCQBawSIku8,516
+guipy/utils.py,sha256=caPAXyvmboGGBD5DRIGsGXNtKQGOaz8Lq0eLWb_Lpqw,62
+guipylib-0.0.0.dist-info/LICENSE,sha256=WTYSF6wOfkBrqORweFPLAfFHDSSJKFaD7mlIQHsmtic,1067
+guipylib-0.0.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+guipylib-0.0.0.dist-info/METADATA,sha256=dxIStwh7RP0Nquaxwkoo_ws97w-o29LI2lS4lY_dr7k,960
+guipylib-0.0.0.dist-info/RECORD,,
