@@ -1,0 +1,2 @@
+django_remote_model
+provider
