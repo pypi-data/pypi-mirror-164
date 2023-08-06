@@ -1,0 +1,15 @@
+haidetector/__init__.py,sha256=raWM-Q7EemRUJkQMW1v_c2hlaay9EJ00z2wsgSYPF4g,42
+haidetector/version.py,sha256=YgoRlqKISa7UXgt9mil30geWxS-7vIqox9rn2OnMUIY,1148
+haidetector/ext/__init__.py,sha256=ZhAxa-6JfMQvMeQY4EIsNMpgJr-E-KbpZWmV9FcF-04,111
+haidetector/ext/face_detector/__init__.py,sha256=BZkDzzAqcUUz85D0dCDxsBNn8n5cjGoY9Ia14iKtFPo,28
+haidetector/ext/face_detector/face_detector.py,sha256=L-LO4JBa68v44xBFhD1ZANhcOIaWQf5JtSKsSgpzM5s,4379
+haidetector/ext/hands_detector/__init__.py,sha256=ApigGpO0JJadr5JYPFda7jBAjWkpDZrhSLcvNq_Vekc,29
+haidetector/ext/hands_detector/hands_detector.py,sha256=EBzvU1JF33XxQNsqH-jBUyC9DU3AsSPRT4MzLkc_nW4,5110
+haidetector/ext/pose_detector/__init__.py,sha256=QguF5SXTtX5IPUqEpgZEGzfnlqOqFORAJwt_Jvw9Gs4,30
+haidetector/ext/pose_detector/pose_detector.py,sha256=eeHQdrU1ghf79oYnikH7ZBLUh6f1ktckJbC1hoAqdyE,4053
+haidetector/ext/tmimage/__init__.py,sha256=pgohsQKUp4Db8RKWvyNIw5PkEhl5eOoPzV5RnlGMi2Q,31
+haidetector/ext/tmimage/tm_imageproject.py,sha256=ULo-psiy1TzM3MJiEpusoptWBLjCEQnAMuRV-Hg5pkQ,4986
+haidetector-0.2.dist-info/METADATA,sha256=6Y6xJx8O7c_iUiRj0LQn74koLy4Z6iQ2KHyoy9_y8ec,637
+haidetector-0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+haidetector-0.2.dist-info/top_level.txt,sha256=EGM6U8ZpRKsqo6jn92jM9vHj-OgmPDdfibVvMQqO4l8,12
+haidetector-0.2.dist-info/RECORD,,

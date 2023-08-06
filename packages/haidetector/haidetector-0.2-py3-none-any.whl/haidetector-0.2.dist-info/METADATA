@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: haidetector
+Version: 0.2
+Summary: A Python Library For HelloAI
+Home-page: http://www.moyalab.com
+Download-URL: https://www.moyalab.com
+Author: devdio
+Author-email: iammoyalab@gmail.com
+License: GNU GPLv3
+Keywords: HelloAI,AI,Robot,CV
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Education
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: helloai (>=1.9)
+
+## A Python Library For AI Education
+---
+Under development and use it under your own responsibility.
+
+
