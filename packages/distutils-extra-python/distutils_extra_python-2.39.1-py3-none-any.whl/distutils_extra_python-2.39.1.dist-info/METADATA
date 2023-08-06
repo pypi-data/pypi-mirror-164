@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: distutils-extra-python
+Version: 2.39.1
+Summary: Add support for i18n, documentation and icons to distutils
+Author: Henry Fuheng Wu, Sebastian Heinlein, Martin Pitt
+Author-email: wufuheng@gmail.com, sebi@glatzor.de, martin.pitt@ubuntu.com
+License: GNU GPL
+Platform: posix
+License-File: LICENSE
+
+UNKNOWN
+

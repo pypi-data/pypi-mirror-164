@@ -1,0 +1,15 @@
+DistUtilsExtra/__init__.py,sha256=s-UpkMQA2X589fS42h5T8M_t02L4aMSAdqiYE0iq1nE,23
+DistUtilsExtra/auto.py,sha256=qlk3p8qxuyLiuULZxSSFp8EXUkRHhdK0qKcFoL2ixy0,25569
+DistUtilsExtra/command/__init__.py,sha256=i0oIJZ1tjKR_9F03z9IJc1_JUqe0kjkF5NueS1Nl-bo,161
+DistUtilsExtra/command/build_extra.py,sha256=dVut6uEDVKVDusW_59Of-osjjvFh3OMjAu5DKVaWQzM,2693
+DistUtilsExtra/command/build_help.py,sha256=wYVtrz_q2SwNRKH9dl0rYXwbWSZNtwyc05y48HndjY0,1353
+DistUtilsExtra/command/build_i18n.py,sha256=rPwF-B68PmQPHPOH4cZviZjBKPCw4mvC-EecZb2wASM,6167
+DistUtilsExtra/command/build_icons.py,sha256=KERst_u2Sw-ha9PkWR6Fq0aZhukyWB4t0PWGmkMU2Ng,1244
+DistUtilsExtra/command/clean_i18n.py,sha256=hJij2yLqEcJN14s1SCfcx-QHwW3GGZdKKzrMjBnHDyE,1381
+DistUtilsExtra/command/pylint.py,sha256=Kkvsi1nNkHLKPC_z8dHcn6X8KRSG8mQgBeAa3Qx1bBE,3079
+distutils_extra_python-2.39.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+distutils_extra_python-2.39.1.dist-info/METADATA,sha256=wcYsUC3p98zZOtsg8K39L2Y_16TRFs8_xJvDxcIGVSk,331
+distutils_extra_python-2.39.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+distutils_extra_python-2.39.1.dist-info/entry_points.txt,sha256=iukuof3e25Uv67or4_xfCoeUG50ewG4CJMiqZa6NYoY,351
+distutils_extra_python-2.39.1.dist-info/top_level.txt,sha256=O16bIL31LJ8xM07Tqm5VpjP_FFhWiB_1ImAMnh-Mb3Q,15
+distutils_extra_python-2.39.1.dist-info/RECORD,,
