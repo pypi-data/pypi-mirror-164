@@ -1,0 +1,69 @@
+Metadata-Version: 2.1
+Name: coppafish
+Version: 0.1.4
+Summary: coppaFISH software for Python
+Home-page: https://jduffield65.github.io/coppafish/
+Author: Josh Duffield
+Author-email: jduffield65@gmail.com
+Maintainer: Reilly Tilbury
+Maintainer-email: reillytilbury@gmail.com
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: numpy
+Requires-Dist: numpy-indexed
+Requires-Dist: tqdm
+Requires-Dist: scipy
+Requires-Dist: sklearn
+Requires-Dist: opencv-python-headless
+Requires-Dist: scikit-image
+Requires-Dist: nd2
+Requires-Dist: h5py
+Requires-Dist: pandas
+Requires-Dist: cloudpickle
+Requires-Dist: dask
+Requires-Dist: joblib
+Requires-Dist: threadpoolctl
+Requires-Dist: cachey
+Requires-Dist: sphinx
+Provides-Extra: optimised
+Requires-Dist: jax ; extra == 'optimised'
+Requires-Dist: jaxlib ; extra == 'optimised'
+Provides-Extra: plotting
+Requires-Dist: matplotlib ; extra == 'plotting'
+Requires-Dist: distinctipy ; extra == 'plotting'
+Requires-Dist: PyQt5 ; extra == 'plotting'
+Requires-Dist: magicgui ; extra == 'plotting'
+Requires-Dist: ipympl ; extra == 'plotting'
+Requires-Dist: napari ; extra == 'plotting'
+Requires-Dist: npe2 ; extra == 'plotting'
+Requires-Dist: hsluv ; extra == 'plotting'
+
+# coppafish
+
+![](https://github.com/jduffield65/coppafish/blob/main/docs/images/readme_viewer.png?raw=true)
+
+*coppafish* is a data analysis pipeline for decoding *coppaFISH* (combinatorial padlock-probe-amplified fluorescence in 
+situ hybridization) datasets. [*coppaFISH*](https://www.nature.com/articles/s41586-022-04915-7) 
+is a method for in situ transcriptomics which produces a series of images arranged in terms of tiles, rounds
+and channels. *coppafish* then determines the distribution of genes via 
+[image processing](https://jduffield65.github.io/coppafish/pipeline/extract/), 
+[spot detection](https://jduffield65.github.io/coppafish/pipeline/find_spots/), 
+[registration](https://jduffield65.github.io/coppafish/pipeline/register/) and 
+[gene calling](https://jduffield65.github.io/coppafish/pipeline/call_reference_spots/).
+
+
+## Prerequisites
+Python >= 3.8
+
+## Documentation
+For more information on installation and usage, please see the 
+[documentation](https://jduffield65.github.io/coppafish/).
+
