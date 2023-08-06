@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: tads
+Version: 0.1.2
+Summary: Tads is reserved for ...
+Author: FL03
+Author-email: jo3mccain@icloud.com
+Requires-Python: >=3.9,<3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: numpy
+Requires-Dist: openpyxl
+Requires-Dist: pandas
+Requires-Dist: python-multipart
+Requires-Dist: xlrd
