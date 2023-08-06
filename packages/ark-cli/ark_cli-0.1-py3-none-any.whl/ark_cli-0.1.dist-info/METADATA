@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: ark-cli
+Version: 0.1
+Summary: Command line tool to manage ark app
+Author: Jie Meng
+Author-email: jiemeng@thoughtworks.com
+License: Apache 2.0
+License-File: LICENSE
+Requires-Dist: click (<9.0.0,>=8.1.3)
+
