@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: jam-tool
+Version: 0.2.0
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: PyYAML (~=6.0) ; extra == 'dev'
+Requires-Dist: black (~=22.6.0) ; extra == 'dev'
+Requires-Dist: bumpver (~=2022.1118) ; extra == 'dev'
+Requires-Dist: pytest (~=7.1.2) ; extra == 'dev'
+Provides-Extra: yaml
+Requires-Dist: PyYAML (~=6.0) ; extra == 'yaml'
+
