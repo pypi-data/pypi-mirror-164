@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+streamlit_kickoff_cli/main.py
+streamlit_kickoff_cli.egg-info/PKG-INFO
+streamlit_kickoff_cli.egg-info/SOURCES.txt
+streamlit_kickoff_cli.egg-info/dependency_links.txt
+streamlit_kickoff_cli.egg-info/entry_points.txt
+streamlit_kickoff_cli.egg-info/top_level.txt
+streamlit_kickoff_cli/tests/test_parser.py
