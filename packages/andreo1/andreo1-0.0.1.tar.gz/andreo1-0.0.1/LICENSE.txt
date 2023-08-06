@@ -1,0 +1,63 @@
+End User License Agreement (EULA)
+Last update: June 01, 2022
+Please read this End User License Agreement carefully before downloading or using the andreo Python package .
+Interpretation and Definitions
+Interpretation
+Words whose initial letter is capitalized have defined meanings under the following conditions. The following definitions will have the same meaning regardless of whether they appear in the singular or plural.
+Definitions
+For the purposes of this End User License Agreement:
+•	Agreement means this End User License Agreement which forms the entire agreement between You and the Company regarding the use of the Application.
+•	Application means the package of codes created by the Company downloaded by You to a Device, called the andreo package of python.
+•	Company (referred to as "the Company", "We", "We" or "Our" in this Agreement) refers to Andreo Naymayer.
+•	Content refers to content such as text, images or other information that may be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
+•	Country refers to: Any country in which the package is being used.
+•	Device means any device that can access the Application, such as a computer, mobile phone or digital tablet .
+•	Third Party Services means any services or content (including data, information, libraries, applications and other product services) provided by third parties that may be displayed, included or made available through the Application.
+•	You mean the individual accessing or using the Application or the company, or other legal entity on behalf of which such individual is accessing or using the Application, as applicable.
+Recognition
+By clicking the "I Agree" button, downloading or using the Application, you agree to be bound by the terms and conditions of this Agreement. If you do not agree with the terms of this Agreement, please do not click the "Agree" button, download or use the Application.
+This Agreement is a legal document between You and the Company and governs the Company's use of the Application made available to You.
+The Application is licensed, not sold, to You by the Company for use strictly in accordance with the terms of this Agreement.
+License
+License Scope
+The Company grants You a revocable, non-exclusive, non-transferable, limited license to download, install and use the Application strictly in accordance with the terms of this Agreement.
+The license granted to You by the Company is solely for Your personal and non-commercial purposes strictly in accordance with the terms of this Agreement.
+Third party services
+The Application may display, include or make available third-party content (including data, information, libraries, applications, and other product services) or provide links to third-party websites or services.
+You acknowledge and agree that the Company will not be responsible for any Third Party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. The Company does not and will not assume any responsibility or liability to You or any other person or entity for any Third Party Services.
+You must comply with the applicable Third Party Terms of Agreement when using the Application. Third party services and links to them are provided solely as a convenience to You and You access and use them entirely at your own risk and subject to the Terms and Conditions of such third party.
+Term and Termination
+This Agreement will remain in effect until terminated by You or the Company. The Company may, in its sole discretion, at any time and for any reason or no reason, suspend or terminate this Agreement with or without notice.
+This Agreement will terminate immediately, without notice from the Company, if you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your Device or your computer.
+Upon termination of this Agreement, You must cease all use of the Application and delete all copies of the Application from Your Device.
+Termination of this Agreement shall not limit any of the Company's rights or remedies at law or in equity in the event of Your breach (during the term of this Agreement) of any of Your obligations under this Agreement.
+Indemnity
+You agree to indemnify and hold harmless the Company and its parent companies, subsidiaries, affiliates, officers, employees, agents, partners and licensors (if any) from any claim or demand, including reasonable attorneys' fees, due to or arising out of: (a) use of the Application; (b) breach of this Agreement or any law or regulation; or (c) violation of any third party right.
+no guarantees
+The Application is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the fullest extent permitted by applicable law, the Company, on its own behalf and on behalf of its affiliates and its respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to to the Application, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise from the course of dealing, course of performance, use or business practice. Without limiting the foregoing, the Company makes no warranty or commitment and makes no representation of any kind that the Application will meet your requirements, achieve your intended results, will be compatible or function with any other software, application, system or service. , will operate without interruption, meet any standard of performance or reliability, or be error-free, or that any errors or defects can or will be corrected.
+Without limiting the foregoing, neither the Company nor any supplier to the Company makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Application, or the information, content and materials or products included therein; (ii) that the Application will be uninterrupted or error free; (iii) as to the accuracy, reliability or timeliness of any information or content provided through the Application; or (iv) that the Application, its servers, content or emails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms , malware , time bombs or other harmful components.
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on a consumer's applicable statutory rights, so some or all of the above exclusions and limitations may not apply to you. But in such case, the exclusions and limitations set forth in this section will apply to the fullest extent possible under applicable law. To the extent that there is any guarantee under law that cannot be denied, the Company will be solely responsible for such guarantee.
+Limitation of Liability
+Notwithstanding any damages you may incur, the entire liability of the Company and any of its suppliers under any provision of this Agreement and your exclusive remedy for all of the above will be limited to the amount actually paid by You for the Application or through the Application or 1 USD if You have not purchased anything through the App.
+To the fullest extent permitted by applicable law, in no event will the Company or its suppliers be liable for any special, incidental, indirect or consequential damages (including, but not limited to, damages for lost profits, loss of data or other information, for interruption business, personal injury, loss of privacy arising out of or in any way related to the use or inability to use the Application, third party software and/or third party hardware used with the Application, or otherwise in connection with any provision of this Agreement) , even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy does not fulfill its essential purpose.
+Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to You.
+Separability and Waiver
+Divisibility
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be amended and interpreted to achieve the purposes of such provision to the fullest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+Renounce
+Except as provided herein, failure to exercise a right or require performance of an obligation under this Agreement will not affect a party's ability to exercise such right or require such performance at any later time, nor will the waiver of a breach constitute a waiver of any subsequent breach.
+Product claims
+The Company makes no warranty with respect to the Application.
+United States Legal Compliance
+You represent and warrant that (i) You are not located in a country that is subject to a US government embargo or that has been designated by the US government as a "supporting terrorism" country, and (ii) You are not listed in any United States government list of prohibited or restricted parties .
+Changes to this Agreement
+The Company reserves the right, in its sole discretion, to modify or replace this Agreement at any time. If a revision is material, we will provide at least 30 days' notice before any new terms take effect. What constitutes a material change will be determined in the sole discretion of the Company.
+By continuing to access or use the Application after any revisions take effect, You agree to be bound by the revised terms. If You do not agree to the new terms, You are no longer authorized to use the Application.
+Applicable law
+The laws of the Country, excluding its conflict of law rules, will govern this Agreement and your use of the Application. Your use of the Application may also be subject to other local, state, national or international laws.
+Total agreement
+The Agreement constitutes the entire agreement between You and the Company regarding the use of the Application and supersedes all prior and contemporaneous written or oral agreements between You and the Company.
+You may be subject to additional terms and conditions that apply when you use or purchase the services of another Company, which the Company will provide to You at the time of such use or purchase.
+contact us
+If you have any questions about this Agreement, you may contact us:
+•	By email: andreocelular@gmail.com

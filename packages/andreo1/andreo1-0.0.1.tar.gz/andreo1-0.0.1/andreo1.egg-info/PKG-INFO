@@ -1,0 +1,95 @@
+Metadata-Version: 2.1
+Name: andreo1
+Version: 0.0.1
+Summary: Read text or text in images inside a pdf and turn it into string
+Author: Andreo Naymayer
+Author-email: andreocelular@gmail.com
+License: UNKNOWN
+Keywords: EN: convert pdf to text with option to cut images. BR: converte pdf para texto podendo cortar as imagens
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Portuguese (Brazilian)
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Biblioteca Andreo 🌱
+
+Funções atuais:
+- leitura de pdf com textos ou textos em imagens e transformação para string.
+
+## Instalação
+Utilize a biblioteca ``pip install andreo1``
+#### Dependencias
+```
+pip install pdf2image
+pip install numpy
+pip install pytesseract
+pip install opencv-python
+```
+
+### Sistema Operacional
+Para o bom funcionamento é necessária a instalação do poppler e tesseract.
+
+### Windows
+Deve-se adicionar ao path os seguintes arquivos
+
+[Tesseract Windows x64](https://contplansrv-my.sharepoint.com/:u:/g/personal/leonardo_sallin_contplan_com_br/EXxo2qy2ROtCoG0iuGR3sioBz1VqTJpzfhz9wpKprb-_KQ?e=MEsots): Pasta onde fica o tesseract.exe
+
+[Tesseract Windows x86](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w32-setup-v5.1.0.20220510.exe)
+
+[Poppler Windows](https://github.com/oschwartz10612/poppler-windows/releases/): pasta /bin
+
+**🚨🚨🚨
+Apos a instalação dos dois no path o sistema, o Windows deve ser reiniciado !! 🚨🚨🚨**
+### MacOs
+
+Utilizando o HomeBrew execute os comando: 
+
+```brew install poppler```
+
+```brew install tesseract```
+
+```brew install tesseract-lang```
+
+# Exemplos
+- Função recortaUmaPagina(pdfPath,pagina,aI,aF,lI,lF,mode):
+    * pdfPath: String = diretorio completo do arquivo. Ex: '/Users/yourUser/yourFolder/YourPDF.pdf'
+    
+    * pagina: Int = o numero da pagina que deseja ler ou verificar os tamanhos. Ex: 0.
+      !! IMPORTANTE !!: A primeira pagina do seu arquivo PDF é a 0
+    
+    * aI, aF, lI, e lF: Int = são as coordenadas de corte. Caso não sejam preenchidas a função perguntará o tamanho do recorte
+    
+    * mode: String = O modo de uso da função. Para retornar uma string com os tamanhos da imagem use 'definicao',
+      para retornar o texto da area selecionada use: 'recorte'. !! IMPORTANTE !! se não for preenchido, o padrão é recorte\n
+    #### Exemplos
+  * ``andreo.recortaUmaPagina(r'yourFolder/YourPDF.pdf',0,0,800,0,800)`` = vai retornar o texto escrito no pdf nas cordenadas [0:800:0:800]
+  * ``andreo.recortaUmaPagina(r'yourFolder/YourPDF.pdf',0,'definicao')``= vai permitir testar coordenadas diferentes e retorna-la como string
+
+- Para manipular um PDF, página por página para por exemplo pegar mais de uma informação dela use o código abaixo:
+```
+import andreo                                                        
+path = r'/Users/yourUser/yourFolder/YourPDF.pdf'                     
+pdf = andreo.PdfCutReader(path)
+allPages = pdf.allPages()
+for page in range(pdf.pagesCount()):
+    img = andreo.img.bytes()
+    pg = allPages[page]
+    pg.save(img, format='png')
+    texto1 = pdf.retornaString(pdf.definicao(img.getvalue(), 0, 1500, 0, 1500))
+    texto2 = pdf.retornaString(pdf.definicao(img.getvalue(), 10, 244, 0, 60))
+img.close()
+```
+
+- Função leUmaPaginaInteira(pdfPath: str, pagina: int):
+    * pdfPath: String = diretorio completo do arquivo. Ex: '/Users/yourUser/yourFolder/YourPDF.pdf'
+    * pagina: Int = o numero da pagina que deseja ler ou verificar os tamanhos. Ex: !! IMPORTANTE !!: A primeira pagina do seu arquivo PDF é a 0
+    Exemplo 1: ```andreo.PdfCutReader(r'yourFolder/YourPDF.pdf').leUmaPaginaInteira(0)```
+
+# Author
+- Github [@andreonaymayer](https://www.github.com/andreonaymayer)
+
+
+

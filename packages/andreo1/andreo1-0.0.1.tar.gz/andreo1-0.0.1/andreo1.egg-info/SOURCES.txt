@@ -1,0 +1,11 @@
+LICENSE.txt
+setup.cfg
+setup.py
+andreo/__init__.py
+andreo/__par__.py
+andreo/__return__.py
+andreo1.egg-info/PKG-INFO
+andreo1.egg-info/SOURCES.txt
+andreo1.egg-info/dependency_links.txt
+andreo1.egg-info/requires.txt
+andreo1.egg-info/top_level.txt
