@@ -1,0 +1,10 @@
+setup.py
+thom02/Binomialdistribution.py
+thom02/Gaussiandistribution.py
+thom02/Generaldistribution.py
+thom02/__init__.py
+thom02.egg-info/PKG-INFO
+thom02.egg-info/SOURCES.txt
+thom02.egg-info/dependency_links.txt
+thom02.egg-info/not-zip-safe
+thom02.egg-info/top_level.txt
