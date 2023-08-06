@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/GroupMeAPI/__init__.py
+src/GroupMeAPI/bot.py
+src/GroupMeAPI/dm.py
+src/GroupMeAPI/group.py
+src/GroupMeAPI/user.py
+src/python_groupmeapi.egg-info/PKG-INFO
+src/python_groupmeapi.egg-info/SOURCES.txt
+src/python_groupmeapi.egg-info/dependency_links.txt
+src/python_groupmeapi.egg-info/top_level.txt
