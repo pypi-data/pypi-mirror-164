@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: makeish
+Version: 0.0.3
+Summary: Reimagines the make build system in python with simplicity in mind
+Home-page: https://github.com/aslakjohansen/makeish
+Author: Aslak Johansen
+Author-email: aslakj@gmail.com
+License: GPLv3+
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
