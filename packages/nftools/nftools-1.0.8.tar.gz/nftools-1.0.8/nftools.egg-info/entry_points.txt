@@ -1,0 +1,3 @@
+[console_scripts]
+nftools = nftools.__main__:main
+
