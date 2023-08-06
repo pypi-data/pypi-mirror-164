@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: pygameextra
+Version: 2.0.0b0
+Summary: Pygame. Made easier
+Author: Red
+Author-email: redtonehair@gmail.com
+Keywords: python
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pygame
+
+Pygame Extra is a mask for pygame, 
+you can easily make complex games and or apps with much less lines then you would of before, 
+Pygame Extra makes coding easier. 
+
+The online documentation can be found at: https://pygame-extra.readthedocs.io/en/latest/
+
+github: https://github.com/JustRedTTG/PGE
