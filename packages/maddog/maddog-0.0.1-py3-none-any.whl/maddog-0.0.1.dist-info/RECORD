@@ -1,0 +1,10 @@
+bin/maddog,sha256=_rmaI4tcIOH7NPXLHS-TBu_ss8GgcT-0yIbvaq5_Mt8,60
+maddog/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+maddog/build.py,sha256=N4nVUa77mqMZkI234-50kL4cXyfKmTpRiELctlOK9Zk,8887
+maddog/server.py,sha256=iJc80pbDXQRpiOyMjhFXFwnLKZi6Wpa6Aixqim-zbZI,162
+maddog-0.0.1.data/scripts/maddog,sha256=9HYJXOlpyvQPAiSmj0QgkehYfR44VvxMJQIcV5c2u1M,47
+maddog-0.0.1.dist-info/LICENSE,sha256=5zkRx151kT9At_4XsyAEP33NUuvHur2WFbou719jFo4,1054
+maddog-0.0.1.dist-info/METADATA,sha256=h4W0PQ9aMJ6lt2IL1oHFkE3mayGQaJsFRSHvwVUZp_g,1826
+maddog-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+maddog-0.0.1.dist-info/top_level.txt,sha256=q2TW7tQ_Vas3HK9Tc1cn90sdNd26Jb9bSPfJwpm9b0w,11
+maddog-0.0.1.dist-info/RECORD,,
