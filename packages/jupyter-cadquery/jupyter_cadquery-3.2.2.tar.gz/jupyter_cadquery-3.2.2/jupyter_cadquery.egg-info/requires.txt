@@ -1,0 +1,17 @@
+webcolors~=1.12
+voila~=0.3.5
+numpy-quaternion==2022.4.1
+cad-viewer-widget~=1.3.5
+cachetools~=5.2.0
+
+[dev]
+pyYaml
+twine
+black
+bumpversion
+cookiecutter
+jupyter-packaging
+pylint
+
+[prod]
+cadquery==master
