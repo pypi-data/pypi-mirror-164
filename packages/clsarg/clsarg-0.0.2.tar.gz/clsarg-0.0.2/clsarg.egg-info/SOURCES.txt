@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+clsarg/__init__.py
+clsarg/clsarg.py
+clsarg.egg-info/PKG-INFO
+clsarg.egg-info/SOURCES.txt
+clsarg.egg-info/dependency_links.txt
+clsarg.egg-info/top_level.txt
