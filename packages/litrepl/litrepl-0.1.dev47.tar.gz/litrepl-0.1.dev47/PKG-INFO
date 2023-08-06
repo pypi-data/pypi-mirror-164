@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: litrepl
+Version: 0.1.dev47
+Summary: LitREPL a macroprocessing Python library for Litrate programming and code execution.
+Home-page: UNKNOWN
+Author: Sergei Mironov
+Author-email: grrwlf@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Intended Audience :: Developers
+Classifier: Development Status :: 3 - Alpha
+Requires-Python: >=3.6
+
+UNKNOWN
+
