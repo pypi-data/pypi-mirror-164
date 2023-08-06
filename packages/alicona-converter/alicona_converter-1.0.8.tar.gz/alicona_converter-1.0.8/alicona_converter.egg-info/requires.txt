@@ -1,0 +1,10 @@
+numpy
+matplotlib
+numba
+
+[dev]
+mypy
+typing-extensions
+pylint
+flake8
+pytest
