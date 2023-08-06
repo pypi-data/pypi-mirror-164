@@ -1,0 +1,59 @@
+Metadata-Version: 2.1
+Name: django-business-metrics
+Version: 0.1.0a4
+Summary: Django Prometheus business metrics
+License: MIT
+Author: Reef Technologies
+Author-email: vykintas.baltrusaitis@reef.pl
+Requires-Python: >=3.8,<3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Django (>=3,<4)
+Requires-Dist: prometheus-client (>=0.13.0,<0.15)
+Description-Content-Type: text/markdown
+
+# Django Prometheus business metrics
+
+This Django app provides a Prometheus metrics endpoint serving so-called business metrics. These are metrics that are calculated when Prometheus hits the metrics endpoint.
+
+## Usage
+
+1. Create a `BusinessMetricsManager` object and register some metrics:
+
+    ```
+    # project/business_metrics.py
+
+    from django_business_metrics.v0 import BusinessMetricsManager, users
+
+    metrics_manager = BusinessMetricsManager()
+
+    # Add a pre-defined metric
+    metrics_manager.add(users)
+
+    # Add some custom metrics
+    @metrics_manager.metric()
+    def my_metric():
+        return 10
+    ```
+
+2. Register a Prometheus endpoint:
+
+
+    ```
+    # project/urls.py
+
+    ...
+    from .business_metrics import metrics_manager
+
+    ...
+    urlpatterns = [
+        ...
+        path('business-metrics', metrics_manager.view),
+        ...
+    ]
+    ```
+
+3. Setup your Prometheus agent to scrape metrics from `/business-metrics` endpoint.
