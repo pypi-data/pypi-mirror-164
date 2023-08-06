@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: knobtimizer
+Version: 0.0.0
+Summary: Framework for Optimization with different accelerator codes
+Home-page: https://github.com/pylhc/knobtimizer
+Author: pylhc
+Author-email: pylhc@github.com
+Classifier: Development Status :: 1 - Planning
