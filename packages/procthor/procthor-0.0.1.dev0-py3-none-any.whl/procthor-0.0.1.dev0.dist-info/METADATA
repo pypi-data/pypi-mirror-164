@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: procthor
+Version: 0.0.1.dev0
+Summary: ProcTHOR: Large-Scale Embodied AI Using Procedural Generation
+Home-page: https://procthor.allenai.org/
+Author: Matt Deitke
+Author-email: mattd@allenai.org
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Development Status :: 1 - Planning
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: trimesh
+Requires-Dist: python-sat
+Requires-Dist: python-fcl
+Requires-Dist: canonicaljson
+
+ProcTHOR: Large-Scale Embodied AI Using Procedural Generation
+
+
