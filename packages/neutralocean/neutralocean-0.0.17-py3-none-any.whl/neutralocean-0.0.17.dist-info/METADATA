@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: neutralocean
+Version: 0.0.17
+Summary: Neutral Surfaces in the Ocean
+Home-page: https://github.com/geoffstanley/neutralocean
+Author: Geoff Stanley
+Author-email: g.stanley@unsw.edu.au
+License: MIT
+Keywords: oceanography
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Education
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: numba
+Requires-Dist: numpy
+Requires-Dist: xarray
+Requires-Dist: scipy
+Requires-Dist: gsw
+Requires-Dist: pooch
+
+# neutralocean
+Calculate neutral surfaces in the ocean, using Python
+
+# Installation
+Simply execute either
+```
+$ pip install neutralocean
+```
+if you use pip, or
+```
+$ conda install -c conda-forge neutralocean
+```
+if you use conda.
+
+# Usage
+Try running the example script:
+```
+python /path/to/neutralocean/neutralocean/examples/run_OCCA.py
+```
+E.g. if you use miniconda, that might be in `~/miniconda3/envs/<YOUR-ENVIRONMENT-NAME>/lib/python<VERSION-NUMBER>/site-packages/neutralocean/`
+If that runs, we're in business.  
+Take a look at that example script, `run_OCCA.py`.
+It is documented and will walk you through loading an ocean model dataset, selecting an equation of state, calculating various approximately neutral surfaces, and more. 
+
+Uploading the sphinx-generated documentation to a website remains a work-in-progress.  Sorry.  Get in touch with me if you want to help, or need help.  In the meantime, read the documentation inside the code -- it's essentially the same.
