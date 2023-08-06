@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ai-services
+Version: 0.2.0
+Summary: A simple web framework based on Sanic
+Home-page: https://github.com/nuxion/services
+Author: nuxion
+Author-email: nuxion@gmail.com
+Requires-Python: >=3.8,<3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Jinja2 (>=3.1.2,<4.0.0)
+Requires-Dist: PyJWT (>=2.4.0,<3.0.0)
+Requires-Dist: SQLAlchemy (>=1.4.39,<2.0.0)
+Requires-Dist: alembic (>=1.8.1,<2.0.0)
+Requires-Dist: cryptography (>=37.0.4,<38.0.0)
+Requires-Dist: pydantic (>=1.9.1,<2.0.0)
+Requires-Dist: rich (>=12.5.1,<13.0.0)
+Requires-Dist: sanic[ext] (>=22.6.0,<23.0.0)
+Project-URL: Repository, https://github.com/nuxion/services
