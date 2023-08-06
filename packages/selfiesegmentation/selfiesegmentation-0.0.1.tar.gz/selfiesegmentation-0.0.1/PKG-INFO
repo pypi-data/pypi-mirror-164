@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: selfiesegmentation
+Version: 0.0.1
+Summary: This package is for Selfie segmentation of image dataset
+Home-page: UNKNOWN
+Author: Sumit Singh
+Author-email: <iamsumit1904@gmail.com>
+License: UNKNOWN
+Description: This library is used for selfie segmentation of static and live webcam feed. You ca add images or a constant backgroundd colour over your image/live feed. It is usefull for projects like: Face recognition, Facial expression recognition and others, where an accurate segmentation will enhance the feed to the neural network therefore increasing the accuracy of the model
+Keywords: python,augmentation,image,data augmentation,image dataset
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

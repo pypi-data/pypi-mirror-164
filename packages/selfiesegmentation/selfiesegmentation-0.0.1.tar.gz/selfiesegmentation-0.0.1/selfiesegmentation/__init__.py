@@ -1,0 +1,1 @@
+from selfiesegmentation import Segmentation

@@ -1,0 +1,9 @@
+README.md
+setup.py
+selfiesegmentation/Segmentation.py
+selfiesegmentation/__init__.py
+selfiesegmentation.egg-info/PKG-INFO
+selfiesegmentation.egg-info/SOURCES.txt
+selfiesegmentation.egg-info/dependency_links.txt
+selfiesegmentation.egg-info/requires.txt
+selfiesegmentation.egg-info/top_level.txt
