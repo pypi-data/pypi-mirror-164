@@ -1,0 +1,21 @@
+Metadata-Version: 1.2
+Name: sphinx-proofscape
+Version: 0.1.0
+Summary: Sphinx extension for Proofscape
+Home-page: https://github.com/proofscape/sphinx-proofscape/
+Author: Proofscape contributors
+License: Apache 2.0
+Description: sphinx-proofscape
+        =================
+        
+        Sphinx extension for adding Proofscape widgets to your documents.
+        
+        Currently, only *chart widgets* are supported.
+        
+        Support for all widget types is planned.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
