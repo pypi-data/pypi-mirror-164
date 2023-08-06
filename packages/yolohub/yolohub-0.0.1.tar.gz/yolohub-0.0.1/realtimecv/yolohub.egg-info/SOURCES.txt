@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+data/data_file
+realtimecv/__init__.py
+realtimecv/utils/__init__.py
+realtimecv/utils/general.py
+realtimecv/yolohub.egg-info/PKG-INFO
+realtimecv/yolohub.egg-info/SOURCES.txt
+realtimecv/yolohub.egg-info/dependency_links.txt
+realtimecv/yolohub.egg-info/requires.txt
+realtimecv/yolohub.egg-info/top_level.txt
