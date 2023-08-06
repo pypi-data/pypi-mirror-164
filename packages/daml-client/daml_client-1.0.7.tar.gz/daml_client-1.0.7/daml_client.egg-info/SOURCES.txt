@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+daml_client/__init__.py
+daml_client/daml_client.py
+daml_client.egg-info/PKG-INFO
+daml_client.egg-info/SOURCES.txt
+daml_client.egg-info/dependency_links.txt
+daml_client.egg-info/top_level.txt
