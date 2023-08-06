@@ -1,0 +1,36 @@
+[build-system]
+requires = ["psutil>=5.9.0", "setuptools>=45", "setuptools_scm[toml]>=6.2", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "artistools"
+authors = [
+    {name = "ARTIS Collaboration", email = "luke.shingles@gmail.com"},
+]
+readme = "README.md"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+]
+requires-python = ">=3.8"
+dynamic = ["version", "description", "entry-points"]
+
+[tool.black]
+line-length = 120
+
+[tool.flake8]
+ignore = "N806"
+max-line-length = 120
+count = true
+
+[tool.pylint.format]
+max-line-length = "120"
+
+[tool.pylama]
+max-line-length = 120
+
+[tool.pycodestyle]
+max-line-length = 120
+
+[tool.setuptools_scm]
+write_to = "_version.py"
+local_scheme = "no-local-version"
