@@ -1,0 +1,2 @@
+[console_scripts]
+bcr-authenticate = bcr_api.authenticate:main
