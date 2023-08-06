@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+README.md
+pyproject.toml
+src/sicopa/__init__.py
+src/sicopa.egg-info/PKG-INFO
+src/sicopa.egg-info/SOURCES.txt
+src/sicopa.egg-info/dependency_links.txt
+src/sicopa.egg-info/top_level.txt

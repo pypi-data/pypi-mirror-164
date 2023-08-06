@@ -1,0 +1,23 @@
+[build-system]
+
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+
+name = "sicopa"
+description = "SImple COnfiguration PArser"
+authors = [
+    {name = "András Szalai", email = "andrew@bandipapa.com"}
+]
+readme = "README.md"
+license = {file = "LICENSE"}
+dynamic = ["version"]
+
+requires-python = ">=3.8"
+
+[project.urls]
+
+Homepage = "https://github.com/bandipapa/sicopa"
+
+[tool.setuptools_scm]

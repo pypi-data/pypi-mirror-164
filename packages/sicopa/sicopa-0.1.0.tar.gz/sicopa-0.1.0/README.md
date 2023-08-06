@@ -1,0 +1,1 @@
+# sicopa: SImple COnfiguration PArser
