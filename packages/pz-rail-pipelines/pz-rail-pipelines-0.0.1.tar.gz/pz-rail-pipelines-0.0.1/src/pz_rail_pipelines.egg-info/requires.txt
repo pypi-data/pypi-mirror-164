@@ -1,0 +1,9 @@
+pz-rail
+pz-rail-hub
+
+[dev]
+coverage
+pylint
+pytest
+pytest-cov
+yamllint
