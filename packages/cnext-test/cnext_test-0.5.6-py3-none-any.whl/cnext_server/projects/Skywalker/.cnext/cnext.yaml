@@ -1,0 +1,17 @@
+open_files:
+- executor: null
+  name: shap_example.py
+  path: model_explaination/shap_example.py
+  timestamp: null
+- executor: null
+  name: pytorch.py
+  path: model_training/pytorch.py
+  timestamp: null
+- executor: null
+  name: data_exploration.py
+  path: data_exploration/data_exploration.py
+  timestamp: null
+open_order:
+- model_explaination/shap_example.py
+- model_training/pytorch.py
+- data_exploration/data_exploration.py
