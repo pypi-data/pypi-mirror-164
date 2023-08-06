@@ -1,0 +1,105 @@
+import random
+import time
+import json
+import socket
+from kazoo.client import KazooClient
+from django.conf import settings
+
+
+class GlobalObject(object):
+    node_servers = {}
+    zk = None
+
+    @staticmethod
+    def create_zk():
+        if hasattr(settings, 'MICRO_ZK_HOST'):
+            zk_host = settings.MICRO_ZK_HOST
+        else:
+            zk_host = '127.0.0.1'
+        if hasattr(settings, 'MICRO_ZK_PORT'):
+            zk_port = settings.MICRO_ZK_PORT
+        else:
+            zk_port = 2181
+        global zk
+        zk = KazooClient(hosts=zk_host + ':' + str(zk_port))
+        zk.start()
+        GlobalObject.zk = zk
+        return zk
+
+    @staticmethod
+    def create_zk_short():
+        if hasattr(settings, 'MICRO_ZK_HOST'):
+            zk_host = settings.MICRO_ZK_HOST
+        else:
+            zk_host = '127.0.0.1'
+        if hasattr(settings, 'MICRO_ZK_PORT'):
+            zk_port = settings.MICRO_ZK_PORT
+        else:
+            zk_port = 2181
+        zk_short = KazooClient(hosts=zk_host + ':' + str(zk_port))
+        zk_short.start()
+        return zk_short
+
+
+class ZKClient(object):
+
+    def __init__(self):
+        self._count = 0
+
+    def _my_func(self, event):
+        GlobalObject.node_servers = {}
+
+    def _get_servers(self, service_name, conn, event=None):
+        """
+        从zookeeper获取服务器地址信息列表
+        """
+        servers = conn.get_children('/dubbo/' + service_name + '/provider/', watch=self._my_func)
+        server_list = []
+        for server in servers:
+            data = conn.get('/dubbo/' + service_name + '/provider/' + server)[0]
+            if data:
+                addr = json.loads(data.decode())
+                server_list.append(addr)
+        GlobalObject.node_servers[service_name] = server_list
+        # print(server_list)
+
+    def _get_server(self, service_name, conn):
+        """
+        随机选出一个可用的服务器
+        """
+        if not GlobalObject.node_servers.get(service_name):
+            self._get_servers(service_name, conn)
+        return random.choice(GlobalObject.node_servers.get(service_name))
+
+    def get_connection(self, service_name, conn_type, conn):
+        """
+        提供一个可用的tcp连接
+        """
+        service_ip = None
+        service_port = None
+        if conn_type:
+            if GlobalObject.zk:
+                conn = GlobalObject.zk
+            else:
+                conn = GlobalObject.create_zk()
+        while True:
+            server = self._get_server(service_name, conn)
+            # print('server:%s' % server)
+            try:
+                sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                sock.settimeout(3)
+                sock.connect((server['host'], server['port']))
+                service_ip = server['host']
+                service_port = server['port']
+            except ConnectionRefusedError:
+                GlobalObject.node_servers[service_name] = []
+                time.sleep(1)
+                continue
+            else:
+                break
+        return service_ip, service_port
+
+    @staticmethod
+    def close_connection(conn):
+        conn.stop()
+        conn.close()
