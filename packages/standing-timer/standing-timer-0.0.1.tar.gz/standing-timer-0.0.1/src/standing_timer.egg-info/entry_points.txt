@@ -1,0 +1,3 @@
+[console_scripts]
+standing-timer = standing_timer.standing_timer:main
+
