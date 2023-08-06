@@ -1,0 +1,7 @@
+doccano: doccano/doccano:1.7
+info: the images dict
+kg: 27.196.43.168:28081/cspdevkit/aip:kg-v1.1
+pdf-check: 27.196.43.168:28081/cspdevkit/aip:pdf-check-v0.1
+translate: 192.168.54.151:28081/cspdevkit/aip:translate-v0.2
+unst2st: 27.196.43.168:28081/cspdevkit/aip:unst2st-v0.3.6
+yrocr-cpu: 192.168.54.151:28081/csp/aip:yrocr-cpu-v1.2
