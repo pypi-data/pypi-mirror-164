@@ -1,0 +1,13 @@
+
+[build]
+setuptools
+build
+wheel
+twine
+
+[dev]
+pytest>=7
+pytest-pep8
+pytest-cov
+pytest-spec
+pre-commit
