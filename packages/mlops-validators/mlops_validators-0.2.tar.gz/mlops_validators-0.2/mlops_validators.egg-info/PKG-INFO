@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: mlops-validators
+Version: 0.2
+Summary: An engine to validate Machine Learning models.
+Home-page: UNKNOWN
+Author: Charles Gobber
+Author-email: charles26f@gmail.com
+License: Apache-2.0
+Description: # mlops-validators-v2
+        
+        Nova versÃ£o da engine de validaÃ§Ã£o Python mlops_validators, inicialmente focada em DataFrames SQL do Pyspark.
+        
+        ## IntroduÃ§Ã£o
+        
+        A mlops_validators Ã© uma engine Python desenvolvida para validaÃ§Ã£o de modelos de Machine Learning. Ela contÃ©m estruturas de dados e classes para calculos de diversas mÃ©tricas. Os pacotes estÃ£o organizados da seguinte maneira: 
+        
+        * [mlops_validators.tables](mlops_validators/tables/) : Classes de estruturas de dados para a construÃ§Ã£o de tabelas *cross* de validaÃ§Ã£o. Tem propÃ³sito de implementar calculos de contagem, proporÃ§Ãµes e ratings em tabelas *cross* para uma ou mais features. SÃ£o estruturas de dados utilizadas nas implementaÃ§Ãµes das mÃ©tricas do `mlops_validators.metrics`. 
+        
+        * [mlops_validators.metrics](mlops_validators/metrics/) : Classes com implementaÃ§Ãµes de mÃ©tricas de validaÃ§Ã£o, tais como, *Information Value*, *Kullback Leibler Divergence*, *Population Stability Index*, EstatÃ­stica de Chi2, EstatÃ­stica de *Kolmogorov Smirnov* e Teste de Probabilidade de *Default*.
+        
+        ## Requisitos
+        
+        O mlops_validators foi desenvolvido usando Python e Spark. Para executar os cÃ³digos aqui presentes, recomenda-se instalar as dependÃªncias nas seguintes versÃµes (mesmas que foram usadas para desenvolver o mlops_validators): 
+        
+        ```
+        python 3.7.9
+        jvm 1.8
+        spark-3.2.1-bin-hadoop2.7
+        winutils for hadoop-2.7.1
+        ```
+        O Python 3.7.9 pode ser obtido [aqui](https://www.python.org/downloads/release/python-379/), o `spark-3.2.1-bin-hadoop2.7` pode ser obtido [aqui](https://archive.apache.org/dist/spark/spark-3.2.1/spark-3.2.1-bin-hadoop2.7.tgz) e a ferramenta `winutils` na versÃ£o do hadoop 2.7.1 estÃ¡ disponÃ­vel [aqui](https://github.com/steveloughran/winutils). Extrair o spark e o winutils em uma pasta que possa ser acessada dentro de um programa Python.
+        
+        ## InstalaÃ§Ã£o
+        
+        Caso a utilizaÃ§Ã£o do pacote seja local, recomenda-se a utilizaÃ§Ã£o de um ambiente virtual. A mlops_validators estÃ¡ disponÃ­vel para instalaÃ§Ã£o via pip:
+        
+        ```
+        pip install mlops_validators
+        ```
+        
+        ## UtilizaÃ§Ã£o
+        
+        Se o spark for instalado de maneira local, Ã© necessÃ¡rio adicionar as variÃ¡veis de ambiente do spark e do hadoop dentro do script ou notebook que o cÃ³digo for desenvolvido. AlÃ©m disso, Ã© necessÃ¡rio a chamada da `findspark`, biblioteca que busca o local do PySpark na mÃ¡quina e executa o import (ele vem dentro do spark-3.2.1-bin-hadoop2.7). O cÃ³digo que executa esses passos Ã© o seguinte (substituir nas variÃ¡veis de ambiente "HADOOP_HOME e "SPARK_HOME" os paths onde estÃ£o extraÃ­dos o winutils e o spark, respectivamente):
+        
+        ```python
+        import os
+        os.environ["HADOOP_HOME"] = "caminho da winutils"
+        os.environ["SPARK_HOME"] = "caminho do spark"
+        import findspark 
+        findspark.init()
+        ```
+        
+        ## Contato
+        Qualquer dÃºvida entrar em contato com charles26f@gmail.com.
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
