@@ -1,0 +1,8 @@
+qget/__init__.py,sha256=nYeBXeK53ju4Fm8-TO5YkUKVYS_GW-COSOaWYMlj4NI,311
+qget/__main__.py,sha256=BbtoElH7TtIxrbCMk-TaYVz_8WOiVmJrFNeNrmxYf0w,7790
+qget/qget_aio.py,sha256=cx5UOpEwk9JLIEYIPo6obapH_Gy07FER2CCuUu8H2gw,33093
+qget-0.1.4.dist-info/LICENSE,sha256=R7P4r0l8Y6CX2XGI-sUAMCj8CUdZyREKIg6Ek9NL3r8,11525
+qget-0.1.4.dist-info/METADATA,sha256=Ja5BOIycxayakeNBJPjjqq36hFsi72C_UXdKdkQHP10,12931
+qget-0.1.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+qget-0.1.4.dist-info/top_level.txt,sha256=osPIj4WCrqrAb7qOvyvh5-qeHusMTdSNGnPYZBzG_5A,5
+qget-0.1.4.dist-info/RECORD,,
