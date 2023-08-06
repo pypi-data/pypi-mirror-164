@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ehh
+Version: 1.1.0
+Summary: A tool for easy aliasing and listing of (complex) linux/bash commands. Support for custom vars.
+Home-page: https://github.com/lennardv2/ehh
+Author: Lennard Voogdt
+Author-email: lennard@spring.nl
+License: MIT
+Keywords: remember linux commands alias listing
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
