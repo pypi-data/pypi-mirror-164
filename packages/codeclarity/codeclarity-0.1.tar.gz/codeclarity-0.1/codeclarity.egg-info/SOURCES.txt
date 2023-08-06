@@ -1,0 +1,8 @@
+README.md
+setup.py
+codeclarity/__init__.py
+codeclarity.egg-info/PKG-INFO
+codeclarity.egg-info/SOURCES.txt
+codeclarity.egg-info/dependency_links.txt
+codeclarity.egg-info/requires.txt
+codeclarity.egg-info/top_level.txt
