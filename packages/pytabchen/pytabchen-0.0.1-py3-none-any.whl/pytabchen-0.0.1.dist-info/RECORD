@@ -1,0 +1,8 @@
+pytabchen/__init__.py,sha256=pG-YPVG0gJIJ6s4xcAz9S_CnUxpUcz33wl9eNUSgxGk,20
+pytabchen/utils/__init__.py,sha256=Zv2ZRZjYrA00IkEXd2dKg4gNasN_mKc2q24d8a6mcZs,23
+pytabchen/utils/io_utils.py,sha256=wQREq3JV-jjjJpnr50D-4myOvAx1tWtHJkay9F7G9SU,445
+pytabchen-0.0.1.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+pytabchen-0.0.1.dist-info/METADATA,sha256=xVFUohuhpycMSalpw14ABmNObNHddp1PI7xmNGG_ODs,749
+pytabchen-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pytabchen-0.0.1.dist-info/top_level.txt,sha256=xbDvqhzjnO-GC4gPCllCkdoScefU9WdhSBCKgR_svuA,10
+pytabchen-0.0.1.dist-info/RECORD,,
